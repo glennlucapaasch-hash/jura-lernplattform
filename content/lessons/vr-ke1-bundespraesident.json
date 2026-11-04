@@ -1,0 +1,893 @@
+{
+  "id": "vr-ke1-bundespraesident",
+  "moduleId": "55104",
+  "ke": 1,
+  "topicIds": [
+    "vr-ke1-c"
+  ],
+  "title": "Republik und Bundespräsident: Funktionen, Gegenzeichnung, Prüfungs- und Verwerfungskompetenz",
+  "estMinutes": 60,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Das Republikprinzip",
+      "short": "Die Republik (Art. 20 I, Art. 28 I GG) betrifft die Art des Staatsoberhaupts – in Deutschland der Bundespräsident. Sie bedeutet primär die Abkehr von der Monarchie (Einzelherrschaft, Erbfolge): Das Staatsoberhaupt wird auf Zeit gewählt. Darüber hinaus enthält sie Gemeinwohlbindung und Amtsprinzip.",
+      "long": "## Verankerung (S. 65)\nDie republikanische Staatsform bezieht sich auf die Art des **obersten Repräsentanten** des Staates, das Staatsoberhaupt – in der Bundesrepublik der **Bundespräsident**. Verankert ist sie in **Art. 20 I und Art. 28 I GG**.\n\n## Abkehr von der Monarchie (S. 65)\n- Historisch begründet: Kennzeichen der Monarchie sind **Einzelherrschaft** und **Amtserlangung durch Erbfolge**; die absolute Monarchie war mit Alleinherrschaft, Machtmissbrauch und Unterdrückung verbunden.\n- In der Republik wird das Staatsoberhaupt **auf Zeit gewählt**.\n- Das Prinzip garantiert eine Staatsform, die auf **Bürgergleichheit und -freiheit** beruht und jeder Despotie und Tyrannei abhold ist.\n\n## Gemeinwohlbindung und Amtsprinzip (S. 66)\n- *res publica* – öffentliche Angelegenheiten, Gemeinwesen: Bekenntnis zu einem freien Staat, in dem die Bürger mitentscheiden.\n- **Gemeinwohlbindung:** Die Verwirklichung des öffentlichen Wohls ist Personen anvertraut, die in einem **öffentlichen Amtsverhältnis** stehen und dem Volk verantwortlich sind.\n- In der Praxis wirft das Republikprinzip selten Probleme auf; zentral sind die Bestimmungen über den Bundespräsidenten.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        },
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Wahl und Funktionen des Bundespräsidenten",
+      "short": "Der Bundespräsident wird von der Bundesversammlung für fünf Jahre gewählt (Art. 54 GG); sie besteht je zur Hälfte aus den Mitgliedern des Bundestages und von den Landesparlamenten gewählten Mitgliedern. Seine Funktionen sind Repräsentation, Integration und Reserve; aktive Gestaltungsbefugnisse hat er außerhalb der Reservefunktion grundsätzlich nicht.",
+      "long": "## Wahl (S. 66)\n- Wahl durch die **Bundesversammlung** für **5 Jahre** (Art. 54 I, II GG); einmalige Wiederwahl möglich.\n- Die Bundesversammlung konstituiert sich eigens für diesen Zweck: je zur Hälfte **alle Mitglieder des Bundestages** und eine gleiche Anzahl von **Mitgliedern, die die Landesparlamente wählen** (Art. 54 III GG).\n- Erforderlich ist grundsätzlich die Mehrheit der Mitglieder der Bundesversammlung (Art. 54 VI 1 GG), die in einem späteren Wahlgang auf die Abstimmungsmehrheit reduziert wird (Art. 54 VI 2 GG; vgl. Mehrheitsarten in B.III, S. 26).\n\n## Drei Funktionsgruppen (S. 66–67)\n| Funktion | Beispiele |\n|---|---|\n| **Repräsentation** | Vertretung nach außen, Staatsempfänge, Staatsbesuche (nicht ausdrücklich geregelt), Beglaubigung und Empfang der Gesandten (Art. 59 I GG) |\n| **Integration** | Bekundung politisch bedeutsamer Entscheidungsprozesse nach außen: Ausfertigung der Gesetze (Art. 82 I), völkerrechtliche Vertretung (Art. 59 I), Ernennung und Entlassung von Bundeskanzler und Ministern (Art. 63 II, 64 I GG) |\n| **Reserve** | Einspringen bei Funktionsunfähigkeit anderer Organe: Auflösung des Bundestages (Art. 63 IV, 68 GG), Gesetzgebungsnotstand (Art. 81 I 1 GG) |\n\nVon der Reservefunktion abgesehen, ist ihm eine **aktive und gestaltende Mitwirkung an der Staatsgewalt grundsätzlich versagt** (S. 67). Er ist hauptsächlich **Repräsentationsfigur**.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        },
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Gegenzeichnung (Art. 58 GG)",
+      "short": "Anordnungen und Verfügungen des Bundespräsidenten bedürfen zu ihrer Gültigkeit grundsätzlich der Gegenzeichnung durch den Bundeskanzler oder den zuständigen Minister (Art. 58 S. 1 GG). Die Regierung übernimmt damit die politische Verantwortung; die rechtliche Verantwortung bleibt beim Präsidenten. Gegenzeichnungspflichtig sind nach zutreffender Ansicht nur auf rechtliche Verbindlichkeit angelegte Akte. Fehlt die Gegenzeichnung, ist der Akt unwirksam.",
+      "long": "## Grundsatz (S. 67)\n**Art. 58 S. 1 GG:** „Anordnungen und Verfügungen“ des Bundespräsidenten bedürfen zu ihrer **Gültigkeit** der Gegenzeichnung durch den Bundeskanzler oder den zuständigen Bundesminister. Ausnahmen bestehen nur wenige; das Skript nennt Art. 63, 67, 68, 69 III GG.\n\n*Vorsicht:* Nach dem Wortlaut des Art. 58 S. 2 GG sind ausgenommen die Ernennung und Entlassung des Bundeskanzlers, die Auflösung des Bundestages **gemäß Art. 63** und das Ersuchen nach Art. 69 III GG. Die Auflösung nach Art. 68 GG erfolgt ohnehin „auf Vorschlag des Bundeskanzlers“; die Nennung des Art. 68 in der Ausnahmeliste des Skripts sollten Sie anhand des Gesetzestextes prüfen.\n\n## Funktion (S. 67)\n- Der Bundespräsident wird in die Politik von Bundestag und Bundesregierung eingebunden; diese übernehmen die **politische Verantwortung**.\n- Die **rechtliche Verantwortung** bleibt beim Bundespräsidenten: Er darf nur die „nach den Vorschriften [des] Grundgesetzes zustande gekommenen Gesetze“ ausfertigen (Art. 82 I GG) – daraus folgt eine (im Umfang umstrittene) **rechtliche Prüfungspflicht**.\n\n## Was ist gegenzeichnungspflichtig? (S. 67)\n- *Weite Ansicht:* alle amtlich und politisch bedeutsamen Handlungen und Äußerungen, auch **Reden**.\n- *Zutreffende Ansicht (Skript):* nur **auf rechtliche Verbindlichkeit angelegte Akte** – nur sie können „Gültigkeit“ i.S.d. Art. 58 GG beanspruchen.\n\n## Form und Folge (S. 67)\nSchriftlich oder durch entsprechende Billigung; fehlt die Gegenzeichnung, ist der Akt **unwirksam**.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Prüfungskompetenz bei der Ausfertigung (Art. 82 I 1 GG): formell, materiell, politisch",
+      "short": "Ausfertigung heißt Herstellung der Urschrift durch Unterzeichnung. Aus dem Wortlaut „nach den Vorschriften dieses Grundgesetzes zustande gekommen“ folgt ein formelles Prüfungsrecht und eine Prüfungspflicht (Verfahren, Bundesratsbeteiligung). Ob die Gesetzgebungskompetenz dazugehört, bejaht die h.M., verneint das Skript. Das materielle Prüfungsrecht ist umstritten (keins / unbeschränkt / h.M. Evidenzkontrolle); das Skript bejaht eine umfassende materielle Prüfung. Eine politische Zweckmäßigkeitsprüfung steht ihm unbestritten nicht zu.",
+      "long": "## Problem (S. 68)\n**Ausfertigung** = Herstellung der Urschrift des Gesetzes durch Unterzeichnung der Gesetzesurkunde mit vollem Namen. Art. 82 I 1 GG: „Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt …“ – offen bleibt, ob er prüfen und ggf. die Ausfertigung verweigern darf.\n\n**Ausgangsfall (S. 68):** Dem Bundespräsidenten B liegt ein Gesetz vor, das (a) verfahrenswidrig ohne Beteiligung des Bundesrates zustande gekommen bzw. (b) verfassungsmäßig, aber aus Sicht des B unzweckmäßig ist.\n\n## Formelle Prüfungskompetenz (S. 68–69)\n- Aus dem **Wortlaut** des Art. 82 I 1 GG folgt: Nur formell verfassungsmäßig zustande gekommene Gesetze sind auszufertigen – insbesondere **Beschlussfassung des Bundestages** und **Beteiligung des Bundesrates**.\n- Es besteht ein **Prüfungsrecht und eine Prüfungspflicht**.\n- **Gesetzgebungskompetenz:** Die **h.M.** rechnet sie zum formellen Prüfungsrecht. Das **Skript** widerspricht: Art. 82 GG beziehe sich nach seinem Wortlaut allein auf die **Art. 76 ff. GG** („zustande kommt“), und die Zuständigkeitsverteilung im Bundesstaat sei ohnehin keine formelle Frage.\n\n## Materielle Prüfungskompetenz (S. 69–70)\n1. **Keine materielle Prüfung:** Wortlaut gibt nichts her; sonst Normverwerfungsrecht entgegen dem **Verwerfungsmonopol des BVerfG** und der abschließenden Aufzählung der Antragsberechtigten bei der Normenkontrolle.\n2. **Uneingeschränkte Prüfung:** Bindung des Präsidenten als Verfassungsorgan an das GG (**Art. 1 III, 20 III GG**); kein Absegnen „sehenden Auges“; kein Konflikt mit dem Verwerfungsmonopol, weil kein *geltendes* Gesetz verworfen, sondern das Inkrafttreten verhindert wird. Das Argument mit dem **Amtseid (Art. 56 GG)** ist nach dem Skript ein **Zirkelschluss** – der Eid begründet keine weitergehenden Pflichten.\n3. **H.M. – Evidenzkontrolle:** Prüfungsrecht nur bei **schweren oder offensichtlichen** Verstößen; die inhaltliche Verantwortung trägt das demokratisch legitimierte Parlament, bei sich aufdrängender Verfassungswidrigkeit geht aber die Wahrung der Verfassungsordnung der Einschätzungsprärogative des Gesetzgebers vor.\n\n**Stellungnahme des Skripts (S. 70):** Das GG will das Staatsoberhaupt nicht zwingen, an einem als verfassungswidrig erkannten Gesetz mitzuwirken. Die materielle Prüfungskompetenz ist **nicht auf evidente Verstöße begrenzt**, sondern **umfassend**. Prüfungsmaßstab ist auch das **Unionsrecht** mit seinem Anwendungsvorrang.\n\n## Keine politische Prüfungskompetenz (S. 70)\n**Unbestritten** steht dem Bundespräsidenten **kein Recht zur Prüfung der politischen Zweckmäßigkeit** zu.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Verwerfungskompetenz und Lösung des Ausgangsfalls",
+      "short": "Mit der Prüfungskompetenz korrespondiert eine Verwerfungskompetenz. Nicht jeder erkannte Verstoß zwingt zur Verweigerung: Abzuwägen sind Offenkundigkeit und Schwere des Verstoßes sowie die Folgen; Verfahrensfehler sind i.d.R. offenkundig und schwer. Der Präsident kann nur insgesamt ausfertigen oder nicht. Gegen eine Verweigerung kann ein anderes Verfassungsorgan im Organstreit vorgehen.",
+      "long": "## Verwerfungskompetenz (S. 70)\n- Stuft der Bundespräsident ein Gesetz als formell oder materiell verfassungswidrig ein, darf er die Ausfertigung grundsätzlich verweigern.\n- Aber: Nicht jeder Verstoß zwingt zur Verweigerung. Die Verwerfung ist einer **Abwägung** zugänglich – einzustellen sind **Offenkundigkeit und Schwere** des Verstoßes und die **Folgen** einer Verweigerung.\n  - **Formelle Verstöße**, insbesondere **Verfahrensfehler**, sind i.d.R. offenkundig und schwer.\n  - Fragen der **Gesetzgebungskompetenz** können schwierig sein, sodass es an der **Offenkundigkeit** fehlen kann.\n- Der Präsident kann ein Gesetz **nur insgesamt** ausfertigen oder nicht – eine **Teilverwerfung** wie beim BVerfG steht ihm nicht zu.\n\n*Hinweis zur Systematik:* Die Randnotiz des Skripts lautet „Verwerfungskompetenz nur in evidenten Fällen“, der Text spricht von einer Abwägung u.a. nach Offenkundigkeit. Zugleich vertritt das Skript eine **umfassende Prüfungs**kompetenz. Prüfung (umfassend) und Verwerfung (abgewogen, maßgeblich Offenkundigkeit/Schwere) sind also zu trennen.\n\n## Beispiel Luftsicherheitsgesetz (S. 70–71)\nDer Bundespräsident fertigte Anfang 2005 das **LuftSiG** aus, obwohl er erhebliche Bedenken hatte. Das Skript sieht dies kritisch: Er hielt das Gesetz u.a. wegen eines Verstoßes gegen **Art. 1 I GG** für verfassungswidrig – ein Eingriff in die **Menschenwürde** ist aber **keiner rechtfertigenden Abwägung** zugänglich.\n\n## Prozessuales (S. 71)\nVerweigert der Bundespräsident die Ausfertigung aus Sicht eines anderen Verfassungsorgans zu Unrecht, kann dieses das BVerfG im **Organstreitverfahren** anrufen.\n\n## Lösung des Ausgangsfalls (S. 71)\n- **(a)** Das ohne Bundesratsbeteiligung zustande gekommene Gesetz **muss B nicht ausfertigen und darf es auch nicht** (formelle Prüfungspflicht, offenkundiger Verfahrensfehler).\n- **(b)** Bezüglich der bloßen Unzweckmäßigkeit steht B **keine Prüfungskompetenz** zu; er **muss ausfertigen**.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        },
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Republik",
+      "text": "Staatsform, deren Staatsoberhaupt auf Zeit gewählt wird – primär Abkehr von der Monarchie (Einzelherrschaft, Erbfolge); zugleich Bekenntnis zu Bürgergleichheit und -freiheit, Gemeinwohlbindung und Amtsprinzip.",
+      "norm": "Art. 20 I, 28 I GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        },
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "term": "Gemeinwohlbindung / Amtsprinzip",
+      "text": "Die Verwirklichung des öffentlichen Wohls ist institutionell Personen anvertraut, die in einem öffentlichen Amtsverhältnis stehen und dem Volk verantwortlich sind.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "term": "Bundesversammlung",
+      "text": "Eigens zur Wahl des Bundespräsidenten zusammentretendes Organ aus allen Mitgliedern des Bundestages und einer gleichen Anzahl von den Landesparlamenten gewählter Mitglieder.",
+      "norm": "Art. 54 III GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "term": "Reservefunktion",
+      "text": "Funktion des Bundespräsidenten, einzuspringen, wenn andere Verfassungsorgane funktionsunfähig geworden sind (z.B. Auflösung des Bundestages nach Art. 63 IV, 68 GG, Gesetzgebungsnotstand nach Art. 81 I 1 GG).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        },
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "term": "Gegenzeichnung",
+      "text": "Mitzeichnung von Anordnungen und Verfügungen des Bundespräsidenten durch Bundeskanzler oder zuständigen Minister als Gültigkeitsvoraussetzung; die Regierung übernimmt dadurch die politische Verantwortung. Ohne sie ist der Akt unwirksam.",
+      "norm": "Art. 58 S. 1 GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "term": "Ausfertigung",
+      "text": "Herstellung der Urschrift eines Gesetzes durch Unterzeichnung der Gesetzesurkunde mit vollem Namen durch den Bundespräsidenten.",
+      "norm": "Art. 82 I 1 GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "term": "Formelle Prüfungskompetenz",
+      "text": "Recht und Pflicht des Bundespräsidenten zu prüfen, ob das Gesetz nach dem im GG vorgesehenen Verfahren zustande gekommen ist (insb. Beschluss des Bundestages, Beteiligung des Bundesrates); folgt aus dem Wortlaut des Art. 82 I 1 GG.",
+      "norm": "Art. 82 I 1 GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "term": "Evidenzkontrolle",
+      "text": "Nach h.M. beschränktes materielles Prüfungsrecht des Bundespräsidenten, das nur bei schweren oder offensichtlichen Verfassungsverstößen eingreift (das Skript vertritt dagegen ein umfassendes Prüfungsrecht).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "term": "Verwerfungskompetenz",
+      "text": "Befugnis des Bundespräsidenten, die Ausfertigung eines als verfassungswidrig erkannten Gesetzes zu verweigern; Entscheidung nach Abwägung von Offenkundigkeit und Schwere des Verstoßes und den Folgen der Verweigerung; nur Gesamt-, keine Teilverwerfung.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Darf/muss der Bundespräsident die Ausfertigung eines Gesetzes verweigern? (Art. 82 I 1 GG)",
+      "steps": [
+        "1. Formelle Prüfung (Recht und Pflicht): Zustandekommen nach Art. 76 ff. GG – Beschluss des Bundestages, Beteiligung des Bundesrates; Streitfrage: Gesetzgebungskompetenz (h.M. formell; Skript: nicht von Art. 82 erfasst)",
+        "2. Materielle Prüfung: Streitstand (keine / umfassende / Evidenzkontrolle nach h.M.); nach dem Skript umfassend, Maßstab GG und Unionsrecht",
+        "3. Keine Prüfung der politischen Zweckmäßigkeit",
+        "4. Verwerfung: Abwägung von Offenkundigkeit und Schwere des Verstoßes sowie Folgen der Verweigerung; nur Gesamtverwerfung möglich",
+        "5. Ergebnis (prozessual: Organstreit eines anderen Verfassungsorgans gegen eine Verweigerung)"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        },
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Worin liegt nach dem Skript primär die Bedeutung des Republikprinzips?",
+      "options": [
+        "In der Abkehr von der Monarchie: Das Staatsoberhaupt wird auf Zeit gewählt.",
+        "In der Wahl des Staatsoberhaupts unmittelbar durch das Volk",
+        "In der Pflicht zur Gewaltenteilung zwischen Bund und Ländern",
+        "Im Vorrang des Bundesrechts vor Landesrecht"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Kennzeichen der Monarchie sind Einzelherrschaft und Erbfolge; in der Republik wird das Staatsoberhaupt auf Zeit gewählt. Eine Volkswahl verlangt das Republikprinzip nicht – der Bundespräsident wird von der Bundesversammlung gewählt.",
+      "hints": [
+        "Wogegen grenzt sich die Republik historisch ab?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Zum Republikprinzip gehört nach dem Skript auch die Gemeinwohlbindung: Das öffentliche Wohl ist Personen in einem öffentlichen Amtsverhältnis anvertraut, die dem Volk verantwortlich sind.",
+      "answer": true,
+      "explanation": "Res publica – Gemeinwohlbindung und Amtsprinzip sind Wesenszüge der republikanischen Staatsform (S. 66).",
+      "hints": [
+        "res publica"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Der Bundespräsident wird von der {{1}} für eine Amtszeit von {{2}} Jahren gewählt. Diese besteht je zur Hälfte aus den Mitgliedern des {{3}} und von den Landesparlamenten gewählten Mitgliedern.",
+      "blanks": [
+        [
+          "Bundesversammlung"
+        ],
+        [
+          "5",
+          "fünf"
+        ],
+        [
+          "Bundestages",
+          "Bundestags"
+        ]
+      ],
+      "explanation": "Art. 54 I–III GG (S. 66).",
+      "hints": [
+        "Das Organ tritt nur zur Wahl zusammen."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Befugnis der Funktion des Bundespräsidenten zu.",
+      "pairs": [
+        [
+          "Beglaubigung und Empfang der Gesandten (Art. 59 I GG)",
+          "Repräsentationsfunktion"
+        ],
+        [
+          "Ausfertigung der Gesetze (Art. 82 I GG)",
+          "Integrationsfunktion"
+        ],
+        [
+          "Auflösung des Bundestages nach Art. 63 IV GG",
+          "Reservefunktion"
+        ],
+        [
+          "Erklärung des Gesetzgebungsnotstands (Art. 81 I 1 GG)",
+          "Reservefunktion"
+        ]
+      ],
+      "explanation": "Einteilung nach dem Skript (S. 66–67). Die Integrationsfunktion umfasst Maßnahmen, die politisch bedeutsame Entscheidungsprozesse nach außen bekunden.",
+      "hints": [
+        "Reserve = Funktionsunfähigkeit anderer Organe."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        },
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zur Gegenzeichnung treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Durch die Gegenzeichnung übernimmt die Regierung die politische Verantwortung.",
+        "Fehlt die erforderliche Gegenzeichnung, ist der Akt unwirksam.",
+        "Nach zutreffender Ansicht sind auch alle Reden des Bundespräsidenten gegenzeichnungspflichtig.",
+        "Mit der Gegenzeichnung geht auch die rechtliche Verantwortung vollständig auf die Regierung über."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Nur auf rechtliche Verbindlichkeit angelegte Akte können „Gültigkeit“ i.S.d. Art. 58 GG beanspruchen; Reden fallen nach zutreffender Ansicht nicht darunter. Die rechtliche Verantwortung bleibt beim Bundespräsidenten (vgl. Art. 82 I GG).",
+      "hints": [
+        "Politische vs. rechtliche Verantwortung."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Abgesehen von der Reservefunktion ist dem Bundespräsidenten eine aktive und gestaltende Mitwirkung an der Staatsgewalt grundsätzlich versagt.",
+      "answer": true,
+      "explanation": "So ausdrücklich das Skript (S. 67); er nimmt hauptsächlich repräsentative Aufgaben wahr.",
+      "hints": [
+        "Repräsentationsfigur"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Was bedeutet „Ausfertigung“ eines Gesetzes?",
+      "options": [
+        "Herstellung der Urschrift durch Unterzeichnung der Gesetzesurkunde mit vollem Namen",
+        "Veröffentlichung des Gesetzes im Bundesgesetzblatt",
+        "Zustimmung des Bundesrates zum Gesetzesbeschluss",
+        "Gegenzeichnung durch den zuständigen Bundesminister"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Definition nach dem Skript (S. 68). Verkündung und Gegenzeichnung sind eigene Schritte.",
+      "hints": [
+        "Urschrift"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Woraus folgt nach dem Skript das formelle Prüfungsrecht des Bundespräsidenten?",
+      "options": [
+        "Aus dem Wortlaut des Art. 82 I 1 GG („nach den Vorschriften dieses Grundgesetzes zustande gekommenen Gesetze“)",
+        "Allein aus dem Amtseid nach Art. 56 GG",
+        "Aus Art. 58 GG (Gegenzeichnung)",
+        "Aus dem Verwerfungsmonopol des BVerfG"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Wortlaut verlangt, dass nur nach dem GG-Verfahren zustande gekommene Gesetze ausgefertigt werden – daraus Recht und Pflicht zur formellen Prüfung. Das Amtseid-Argument hält das Skript (beim materiellen Prüfungsrecht) für einen Zirkelschluss.",
+      "hints": [
+        "Lesen Sie Art. 82 I 1 GG genau."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Nach Auffassung des Skripts gehört die Frage der Gesetzgebungskompetenz des Bundes zum formellen Prüfungsrecht des Bundespräsidenten aus Art. 82 GG.",
+      "answer": false,
+      "explanation": "Die h.M. rechnet sie zwar dazu. Das Skript widerspricht: Art. 82 GG beziehe sich nach seinem Wortlaut nur auf Art. 76 ff. GG („zustande kommen“); die Zuständigkeitsverteilung im Bundesstaat sei ohnehin keine formelle Frage.",
+      "hints": [
+        "Unterscheiden Sie h.M. und Skript-Auffassung."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie der Ansicht zum materiellen Prüfungsrecht ihr Hauptargument zu.",
+      "pairs": [
+        [
+          "Kein materielles Prüfungsrecht",
+          "Verwerfungsmonopol des BVerfG und abschließender Kreis der Antragsberechtigten"
+        ],
+        [
+          "Uneingeschränktes Prüfungsrecht",
+          "Bindung an das GG aus Art. 1 III, 20 III GG; kein Absegnen „sehenden Auges“"
+        ],
+        [
+          "H.M. (Evidenzkontrolle)",
+          "inhaltliche Verantwortung des Parlaments, aber Vorrang der Verfassungsordnung bei sich aufdrängender Verfassungswidrigkeit"
+        ]
+      ],
+      "explanation": "Streitstand nach dem Skript (S. 69–70). Das Skript selbst bejaht ein umfassendes Prüfungsrecht.",
+      "hints": [
+        "Drei Ansichten, drei Argumente."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Warum hält das Skript das Argument mit dem Amtseid (Art. 56 GG) für das materielle Prüfungsrecht für nicht tragfähig?",
+      "options": [
+        "Es ist ein Zirkelschluss: Der Eid gehört selbst zum Verfassungsrecht und begründet keine weitergehenden Pflichten, sondern betrifft nur anderweitig begründete.",
+        "Weil der Amtseid nur für Bundesminister gilt",
+        "Weil der Amtseid den Präsidenten ausschließlich zur Ausfertigung verpflichtet",
+        "Weil das BVerfG den Amtseid für unverbindlich erklärt hat"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "So das Skript (S. 69). Die übrigen Optionen sind frei erfunden bzw. falsch.",
+      "hints": [
+        "Was setzt das Argument voraus, was es beweisen will?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen entsprechen der eigenen Stellungnahme des Skripts? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die materielle Prüfungskompetenz ist nicht auf evidente Verstöße beschränkt.",
+        "Prüfungsmaßstab ist auch das Unionsrecht mit Anwendungsvorrang.",
+        "Der Bundespräsident darf die politische Zweckmäßigkeit eines Gesetzes prüfen.",
+        "Der Bundespräsident hat überhaupt kein materielles Prüfungsrecht."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Das Skript bejaht eine umfassende materielle Prüfung (Maßstab GG und Unionsrecht). Eine politische Prüfung ist unbestritten ausgeschlossen.",
+      "hints": [
+        "S. 70 oben."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung, ob der Bundespräsident die Ausfertigung verweigern darf, in die richtige Reihenfolge.",
+      "items": [
+        "Formelle Verfassungsmäßigkeit (Verfahren nach Art. 76 ff. GG)",
+        "Materielle Verfassungsmäßigkeit (Streitstand zum Prüfungsumfang)",
+        "Ausschluss einer politischen Zweckmäßigkeitsprüfung",
+        "Verwerfung: Abwägung von Offenkundigkeit, Schwere und Folgen",
+        "Ergebnis"
+      ],
+      "explanation": "Aufbau nach dem Skript (C.II.4.a und b).",
+      "hints": [
+        "Prüfung vor Verwerfung."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Formulieren Sie, warum der Bundespräsident nach dem Skript nicht jedes Gesetz verwerfen muss, das er für verfassungswidrig hält, und erläutern Sie die Kritik an der Ausfertigung des Luftsicherheitsgesetzes 2005.",
+      "modelAnswer": "Mit der Prüfungs- korrespondiert eine Verwerfungskompetenz; die Entscheidung über die Verwerfung ist aber einer Abwägung zugänglich. Einzustellen sind Offenkundigkeit und Schwere des Verstoßes sowie die Folgen der Verweigerung. Verfahrensfehler sind i.d.R. offenkundig und schwer, Kompetenzfragen oft nicht offenkundig. Zudem kann der Präsident nur insgesamt ausfertigen oder nicht, eine Teilverwerfung steht ihm nicht zu. Beim LuftSiG fertigte er trotz erheblicher Bedenken aus. Das Skript kritisiert dies, weil er das Gesetz u.a. wegen eines Verstoßes gegen Art. 1 I GG für verfassungswidrig hielt; ein Eingriff in die Menschenwürde ist keiner rechtfertigenden Abwägung zugänglich.",
+      "rubric": [
+        "Verwerfung als Abwägungsentscheidung",
+        "Kriterien: Offenkundigkeit, Schwere, Folgen",
+        "keine Teilverwerfung",
+        "Kritik: Menschenwürde abwägungsfest"
+      ],
+      "hints": [
+        "S. 70–71 des Skripts."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        },
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Dem Bundespräsidenten liegt ein formell und materiell verfassungsgemäßes Gesetz zur Ausfertigung vor. Er hält es für wirtschaftspolitisch verfehlt und will die Unterschrift verweigern. Darf er das? Was kann der Bundestag tun?",
+      "modelAnswer": "Der Bundespräsident könnte zur Verweigerung der Ausfertigung berechtigt sein. Art. 82 I 1 GG gewährt ihm ein formelles und – nach dem Skript umfassendes, nach h.M. auf evidente Verstöße beschränktes – materielles Prüfungsrecht. Unbestritten steht ihm aber kein Recht zu, die politische Zweckmäßigkeit eines Gesetzes zu prüfen. Da das Gesetz verfassungsgemäß ist, muss er es ausfertigen. Verweigert er die Ausfertigung dennoch, kann der Bundestag als anderes Verfassungsorgan das BVerfG im Organstreitverfahren anrufen.",
+      "rubric": [
+        "Art. 82 I 1 GG als Grundlage",
+        "Abgrenzung formelle/materielle/politische Prüfung",
+        "keine Zweckmäßigkeitsprüfung → Ausfertigungspflicht",
+        "Rechtsschutz: Organstreit"
+      ],
+      "hints": [
+        "Ausgangsfall b.",
+        "Prozessualer Hinweis auf S. 71."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        },
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "cloze",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein Gesetz ist ohne die erforderliche Beteiligung des Bundesrates zustande gekommen. Der Bundespräsident hat insoweit ein formelles Prüfungsrecht und eine Prüfungs{{1}}. Verfahrensfehler sind in der Regel {{2}} und schwer. Er muss das Gesetz daher nicht ausfertigen und {{3}} es auch nicht.",
+      "blanks": [
+        [
+          "pflicht"
+        ],
+        [
+          "offenkundig",
+          "evident",
+          "offensichtlich"
+        ],
+        [
+          "darf"
+        ]
+      ],
+      "explanation": "Lösung zu Ausgangsfall a (S. 71).",
+      "hints": [
+        "Recht und …"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        },
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Das Gesetz ohne Bundesrat",
+    "facts": "Der Bundestag beschließt ein Gesetz zur Neuordnung des Datenverkehrs zwischen Bundesbehörden. Wegen Zeitdrucks wird der Gesetzesbeschluss dem Bundesrat nicht zugeleitet; der Bundesrat ist am Verfahren in keiner Weise beteiligt. Der Bundeskanzler zeichnet das Gesetz gegen und legt es Bundespräsident B zur Ausfertigung vor. B lehnt die Ausfertigung ab, weil das Gesetz nicht ordnungsgemäß zustande gekommen sei. Die Bundesregierung meint, B habe kein Recht, das Gesetzgebungsverfahren zu kontrollieren; dies sei allein Sache des Bundesverfassungsgerichts.",
+    "question": "Durfte B die Ausfertigung des Gesetzes verweigern?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "B könnte berechtigt gewesen sein, die Ausfertigung des Gesetzes nach Art. 82 I 1 GG zu verweigern. Das setzt voraus, dass ihm eine Prüfungskompetenz hinsichtlich des Gesetzgebungsverfahrens zusteht, das Gesetz danach verfassungswidrig zustande gekommen ist und B die Ausfertigung deshalb verweigern durfte (Verwerfungskompetenz).",
+        "rubric": [
+          "Konjunktiv",
+          "Art. 82 I 1 GG als Maßstab",
+          "Gliederung: Prüfungskompetenz – Verstoß – Verwerfung"
+        ],
+        "hints": [
+          "Welche Norm regelt die Ausfertigung?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Bestimmen Sie Umfang der formellen Prüfungskompetenz und Voraussetzungen der Verwerfung.",
+        "model": "Nach Art. 82 I 1 GG werden „die nach den Vorschriften dieses Grundgesetzes zustande gekommenen Gesetze“ ausgefertigt. Aus diesem Wortlaut folgt, dass nur formell verfassungsmäßig, d.h. im Verfahren nach Art. 76 ff. GG zustande gekommene Gesetze auszufertigen sind. Dem Bundespräsidenten steht daher insbesondere hinsichtlich der Beschlussfassung des Bundestages und der Beteiligung des Bundesrates ein Prüfungsrecht zu, das zugleich eine Prüfungspflicht ist. Mit der Prüfungskompetenz korrespondiert eine Verwerfungskompetenz; ob verworfen wird, ist nach Offenkundigkeit und Schwere des Verstoßes sowie den Folgen der Verweigerung abzuwägen. Formelle Verstöße, insbesondere Verfahrensfehler, sind in der Regel offenkundig und schwer. Das Verwerfungsmonopol des BVerfG steht nicht entgegen, da B kein geltendes Gesetz verwirft, sondern schon dessen Inkrafttreten verhindert.",
+        "rubric": [
+          "Wortlaut Art. 82 I 1 GG",
+          "Prüfungsrecht und -pflicht hinsichtlich Verfahren/Bundesratsbeteiligung",
+          "Verwerfung als Abwägung (Offenkundigkeit, Schwere, Folgen)",
+          "Verfahrensfehler i.d.R. offenkundig und schwer",
+          "Abgrenzung zum Verwerfungsmonopol des BVerfG"
+        ],
+        "hints": [
+          "S. 68–70 des Skripts."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Der Bundesrat wurde am Gesetzgebungsverfahren überhaupt nicht beteiligt. Das Gesetz ist damit nicht nach den Vorschriften des Grundgesetzes zustande gekommen; es liegt ein Verfahrensfehler vor, den B im Rahmen seiner formellen Prüfungskompetenz nicht nur prüfen durfte, sondern prüfen musste. Der Einwand der Bundesregierung, die Kontrolle sei allein Sache des BVerfG, greift nicht, weil das formelle Prüfungsrecht unmittelbar aus Art. 82 I 1 GG folgt und B nur das Inkrafttreten verhindert. Der Verstoß ist offenkundig – die fehlende Zuleitung an den Bundesrat liegt auf der Hand – und schwer, da die Mitwirkung der Länder an der Bundesgesetzgebung völlig übergangen wurde. Gewichtige Folgen, die eine Ausfertigung gleichwohl rechtfertigen könnten, sind nicht ersichtlich. Die Gegenzeichnung durch den Bundeskanzler ändert nichts, da sie nur die politische Verantwortung betrifft, die rechtliche Verantwortung aber beim Bundespräsidenten bleibt.",
+        "rubric": [
+          "Feststellung des Verfahrensfehlers",
+          "Prüfungspflicht bejaht",
+          "Einwand der Regierung widerlegt",
+          "Offenkundigkeit und Schwere bejaht",
+          "Gegenzeichnung: politische, nicht rechtliche Verantwortung"
+        ],
+        "hints": [
+          "Was bedeutet die Gegenzeichnung für die rechtliche Verantwortung des B?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "B durfte – und musste sogar – die Ausfertigung des Gesetzes verweigern, weil es nicht nach den Vorschriften des Grundgesetzes zustande gekommen ist (Art. 82 I 1 GG).",
+        "rubric": [
+          "Indikativ",
+          "Recht und Pflicht zur Verweigerung",
+          "Bezug auf Art. 82 I 1 GG"
+        ],
+        "hints": [
+          "Vgl. Lösung zu Ausgangsfall a."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "VR_1",
+        "page": 80
+      },
+      {
+        "doc": "VR_1",
+        "page": 81
+      },
+      {
+        "doc": "VR_1",
+        "page": 82
+      },
+      {
+        "doc": "VR_1",
+        "page": 83
+      },
+      {
+        "doc": "VR_1",
+        "page": 84
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Wo ist die Republik im GG verankert und was bezeichnet sie?",
+      "back": "Art. 20 I und Art. 28 I GG; sie betrifft die Art des Staatsoberhaupts (Bundespräsident) – Wahl auf Zeit statt Erbfolge.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "front": "Kennzeichen der Monarchie nach dem Skript?",
+      "back": "Einzelherrschaft und Amtserlangung im Wege der Erbfolge (absolute Monarchie: Alleinherrschaft, Machtmissbrauch, Unterdrückung).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "front": "Wer wählt den Bundespräsidenten, für wie lange?",
+      "back": "Die Bundesversammlung (Bundestagsmitglieder + gleiche Zahl von Landesparlamenten gewählter Mitglieder) für 5 Jahre; einmalige Wiederwahl möglich.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "front": "Drei Funktionen des Bundespräsidenten?",
+      "back": "Repräsentation (z.B. Art. 59 I), Integration (z.B. Ausfertigung Art. 82 I, Ernennungen Art. 63 II, 64 I), Reserve (z.B. Art. 63 IV, 68, 81 I 1 GG).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        },
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "front": "Gegenzeichnung – wer übernimmt welche Verantwortung?",
+      "back": "Regierung: politische Verantwortung. Bundespräsident: behält die rechtliche Verantwortung (Prüfungspflicht aus Art. 82 I GG).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "front": "Sind Reden des Bundespräsidenten gegenzeichnungspflichtig?",
+      "back": "Nach zutreffender Ansicht nein – nur auf rechtliche Verbindlichkeit angelegte Akte können „Gültigkeit“ i.S.d. Art. 58 GG beanspruchen.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "front": "Folge fehlender Gegenzeichnung?",
+      "back": "Unwirksamkeit des Aktes.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "front": "Formelles Prüfungsrecht – Grundlage und Umfang?",
+      "back": "Wortlaut Art. 82 I 1 GG; Verfahren nach Art. 76 ff. GG (Bundestagsbeschluss, Bundesratsbeteiligung); Recht und Pflicht. Gesetzgebungskompetenz: h.M. ja, Skript nein.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "front": "Drei Ansichten zum materiellen Prüfungsrecht?",
+      "back": "(1) keines (Verwerfungsmonopol BVerfG); (2) uneingeschränkt (Art. 1 III, 20 III GG); (3) h.M. Evidenzkontrolle. Skript: umfassend, Maßstab auch Unionsrecht.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "front": "Darf der Bundespräsident die politische Zweckmäßigkeit prüfen?",
+      "back": "Nein – unbestritten kein politisches Prüfungsrecht.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "front": "Kriterien der Verwerfungsentscheidung?",
+      "back": "Abwägung: Offenkundigkeit und Schwere des Verstoßes, Folgen der Verweigerung; nur Gesamt-, keine Teilverwerfung.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "front": "Rechtsschutz gegen eine verweigerte Ausfertigung?",
+      "back": "Organstreitverfahren eines anderen Verfassungsorgans vor dem BVerfG.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    }
+  ]
+}
