@@ -1,0 +1,1221 @@
+{
+  "id": "bgb-ke8-personen",
+  "moduleId": "55101",
+  "ke": 8,
+  "topicIds": [
+    "bgb-ke8-s22"
+  ],
+  "title": "Die Personen: Rechtssubjekte, Persönlichkeitsschutz und juristische Personen",
+  "estMinutes": 95,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Rechtssubjekte und Rechtsfähigkeit natürlicher Personen",
+      "short": "Träger von Rechten und Pflichten (Rechtssubjekte) sind nach dem Privatrecht nur natürliche und juristische Personen. Jeder Mensch ist nach § 1 BGB mit Vollendung der Geburt rechtsfähig – unabhängig von Geschlecht, Abstammung, Alter, Religion oder kognitiven Fähigkeiten. Rechtsfähigkeit ist die Fähigkeit, Träger von Rechten und Pflichten zu sein.",
+      "long": "## Der Personenbegriff des BGB (S. 18)\n\nAls Träger von Rechten und Pflichten kennt das Privatrecht nur **natürliche Personen** und **juristische Personen**; beide sind als Träger subjektiver Rechte **Rechtssubjekte**.\n\nAlle Menschen sind natürliche Personen. Nach **§ 1 BGB** ist jeder Mensch **von der Geburt an rechtsfähig** – das BGB sieht den Menschen als „geborene Person“. Dahinter steht ein Menschenbild, wonach der Mensch darauf angelegt ist, sein Dasein frei und verantwortlich zu gestalten; es wurzelt in der christlichen Religion und der abendländischen Philosophie, insbesondere im ethischen Personalismus Kants.\n\n## Die Rechtsfähigkeit (S. 18)\n\n**Rechtsfähigkeit** ist die Fähigkeit einer Person, **Träger von Rechten und Pflichten** zu sein; sie macht die Person zum Rechtssubjekt und ermöglicht die Teilnahme am Rechtsverkehr. Sie beginnt mit der **Vollendung der Geburt** (§ 1).\n\nAus dem Grundsatz der formalen Gleichbehandlung folgt: Die Rechtsfähigkeit steht **allen Menschen in gleicher Weise** zu – unabhängig von Geschlecht, Abstammung, Rasse, Alter, Beruf, Einkommen, Religion oder politischer Überzeugung. Sie hängt auch **nicht von kognitiven Fähigkeiten** ab: Säuglinge sind ebenso rechtsfähig wie Menschen mit Demenz.\n\n**Beispiel (S. 18):** Ein einjähriges Kind kann Eigentümer eines Grundstücks und Inhaber einer Schadensersatzforderung sein.\n\n*Abgrenzung:* Ob jemand selbst wirksam handeln kann, ist eine Frage der Geschäftsfähigkeit (§§ 104 ff.), nicht der Rechtsfähigkeit.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Schutz vor der Geburt und Ende der Rechtsfähigkeit",
+      "short": "Der Embryo ist nach dem Wortlaut des § 1 nicht rechtsfähig. Die Rechtsprechung gewährt einem als Leibesfrucht verletzten Kind dennoch Schadensersatz aus § 823 Abs. 1, weil es um den Gesundheitsschaden des geborenen Kindes geht; Voraussetzung ist, dass das Kind lebend zur Welt kommt. Die Rechtsfähigkeit endet mit dem Tod; das Vermögen geht als Ganzes auf die Erben über (§ 1922 Abs. 1).",
+      "long": "## Vorverlagerter Schutz (S. 19)\n\n**Beispiel (in Anlehnung an BGHZ 58, 48):** Kraftfahrer K verursacht schuldhaft einen Unfall, bei dem die im sechsten Monat schwangere F und der Embryo verletzt werden. Das Kind E kommt mit einem Gehirnschaden zur Welt und leidet an spastischen Lähmungen.\n\n**Problem:** Nach § 1 ist der Embryo **nicht rechtsfähig**; einen Anspruch des Ungeborenen anzunehmen, verstieße gegen den Wortlaut.\n\n**Lösung des BGH (BGHZ 58, 48, 50 ff.):**\n- Es geht nicht um den Schaden der Leibesfrucht, sondern um den **Schaden an der Gesundheit des geborenen, kranken Kindes**.\n- Dass die Verletzung vor Beginn der Rechtsfähigkeit zugefügt wurde, hindert § 823 nicht: Leibesfrucht und geborenes Kind sind **identische Wesen**.\n- Die Verletzung der Leibesfrucht wird spätestens mit Vollendung der Geburt zu einer **Gesundheitsverletzung des Menschen**.\n- Zugunsten des Schädigers gilt: Der Anspruch entsteht **nur, wenn das Kind lebend geboren wird**.\n\n**Ergebnis:** E hat gegen K einen Schadensersatzanspruch aus **§ 823 Abs. 1**.\n\n## Ende der Rechtsfähigkeit (S. 19)\n\nDie Rechtsfähigkeit endet mit dem **Tod**; Verstorbene können nicht Träger von Rechten und Pflichten sein. Das Vermögen geht nach **§ 1922 Abs. 1** als Ganzes auf einen oder mehrere Erben über (**Universalsukzession**).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Persönlichkeitsschutz im Überblick; das Namensrecht (§ 12 BGB)",
+      "short": "Natürliche Personen werden umfassend durch das gesetzlich nicht ausdrücklich geregelte, aber anerkannte allgemeine Persönlichkeitsrecht geschützt (Art. 1 Abs. 1, 2 Abs. 1 GG; „sonstiges Recht“ i.S.d. § 823 Abs. 1). Ein besonderes Persönlichkeitsrecht ist das Namensrecht des § 12: Es schützt gegen Namensbestreitung und Namensanmaßung und gewährt Beseitigungs- sowie bei Wiederholungsgefahr Unterlassungsansprüche.",
+      "long": "## Überblick (S. 19–20)\n\nDas **allgemeine Persönlichkeitsrecht** ist ein umfassendes Recht auf Achtung und Nichtverletzung der Person; geschützt werden Privat- und Intimsphäre, Ehre sowie Schrift und Rede. Verfassungsrechtlich ist es in Art. 1 Abs. 1 und Art. 2 Abs. 1 GG verankert; zivilrechtlich wird es als absolutes **„sonstiges Recht“ i.S.d. § 823 Abs. 1** geschützt. Das BGB regelt mit **§ 12** ein **besonderes** Persönlichkeitsrecht, das Namensrecht.\n\n## Das Namensrecht (S. 20)\n\n**Name** ist die ständige Bezeichnung einer Person, die sie von anderen unterscheiden soll. Es besteht eine öffentlich-rechtliche Pflicht zur Namensführung (u.a. PAuswG, PassG, PStG).\n\nDer Name ist ein **absolutes Persönlichkeitsrecht**; § 12 schützt in zweifacher Hinsicht:\n- **Namensbestreitung:** Wird einer Person das Recht zum Gebrauch ihres eigenen Namens streitig gemacht, kann sie Beseitigung der Beeinträchtigung verlangen.\n- **Namensanmaßung:** Ausschlussrecht gegen den unbefugten Gebrauch des Namens durch andere.\n\nKurz: Das Namensrecht umfasst das Recht, den eigenen Namen **ungehindert zu führen** und **andere vom unbefugten Gebrauch auszuschließen**. Eine Verletzung durch unbefugten Gebrauch liegt in erster Linie vor, wenn der Name von einem anderen, dem er nicht zukommt, **als sein Kennzeichen oder Unterscheidungsmerkmal** benutzt wird.\n\n**Beispiel (S. 20):** Karoline Grau erfährt, dass ihr Ehemann mit seiner Geliebten Eva Grünvogel in einem Hotel in Bad Ems wohnt; Frau Grünvogel hat sich im Hotelbuch als „Karoline Grau“ eingetragen. Frau Grau hat aus § 12 einen **Beseitigungsanspruch** und kann **Unterlassung** künftigen Gebrauchs verlangen, sofern weitere Beeinträchtigungen zu besorgen sind.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        },
+        {
+          "doc": "BGB_8",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Recht am eigenen Bild und die Lebensgüter des § 823 Abs. 1",
+      "short": "Nach §§ 22, 23 KUG dürfen Bildnisse einer Person grundsätzlich nur mit ihrer Einwilligung verbreitet oder öffentlich zur Schau gestellt werden. Ausnahmen gelten für Bilder aus dem Bereich der Zeitgeschichte, Beiwerk, höhere Interessen der Kunst und Versammlungen – aber nicht bei Verletzung berechtigter Interessen, etwa der Intimsphäre. Leben, Körper, Gesundheit und Freiheit sind in § 823 Abs. 1 und Art. 2 Abs. 2 GG geschützt.",
+      "long": "## Recht am eigenen Bild (S. 21)\n\nNach **§§ 22, 23 KUG** darf das Bild einer Person nur **mit deren Zustimmung** verbreitet oder öffentlich zur Schau gestellt werden; fehlt die Einwilligung, kann sie dies **untersagen**.\n\n**Beispiel (S. 21):** Anton Adler findet sein Bild in einer Illustrierten mit der Unterschrift „Krankenpfleger immer unzufriedener“. Ohne seine Einwilligung kann er die Verbreitung nach §§ 22, 23 KUG untersagen.\n\n**Ausnahmen (§ 23 KUG):**\n- Bilder von **Personen der Zeitgeschichte**;\n- Personen nur als **Beiwerk** neben einer Landschaft oder Örtlichkeit;\n- **höheres Interesse der Kunst**;\n- Personen als bloße **Teilnehmer von Massenveranstaltungen**.\n\n**Gegenausnahme:** Auch Bilder aus dem Bereich der Zeitgeschichte dürfen nicht verbreitet werden, wenn dadurch ein **berechtigtes Interesse** der Person verletzt wird – insbesondere Bilder aus der **Privat- und Intimsphäre**.\n- Politiker A bei einer Wahlveranstaltung: zulässig; A beim Austausch von Intimitäten mit seinem Lebensgefährten: unzulässig.\n- Bild des gesuchten Straftäters: zulässig; Bild seiner Eltern: unzulässig.\n\n## Die Lebensgüter des § 823 Abs. 1 (S. 21–22)\n\n§ 823 Abs. 1 nennt vier Lebensgüter: **Leben, Körper, Gesundheit, Freiheit**. Ihre rechtswidrige und schuldhafte Verletzung begründet unter den übrigen Voraussetzungen einen Schadensersatzanspruch. Das GG schützt sie in Art. 2 Abs. 2 („Recht auf Leben und körperliche Unversehrtheit“, „Freiheit der Person“). Aus § 823 Abs. 1 i.V.m. Art. 2 Abs. 2 GG folgt das Recht jeder Person auf Nichtverletzung dieser Güter.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 21
+        },
+        {
+          "doc": "BGB_8",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Das allgemeine Persönlichkeitsrecht: Schutz, Grenzen, Datenschutz",
+      "short": "Das allgemeine Persönlichkeitsrecht wird aus Art. 1 Abs. 1, 2 Abs. 1 GG abgeleitet und als „sonstiges Recht“ nach § 823 Abs. 1 geschützt. Als Rahmenrecht hat es keine festgelegte Reichweite; ob ein Eingriff rechtswidrig ist, entscheidet eine Abwägung mit gegenläufigen Belangen, etwa der Meinungs- und Pressefreiheit (Art. 5 GG). Spezialregelungen des Datenschutzes gehen dem Auffangtatbestand vor.",
+      "long": "## Herleitung und Grenzen (S. 22)\n\nDas allgemeine Persönlichkeitsrecht garantiert einen **umfassenden Schutz der Persönlichkeitssphäre**. Es wird aus **Art. 1 Abs. 1 und Art. 2 Abs. 1 (und 2) GG** abgeleitet und gemäß **§ 823 Abs. 1** als **„sonstiges Recht“** geschützt. Seine Grenzen sind schwer zu ziehen; sie ergeben sich aus der Gleichheit des Rechts für alle, aus dem berechtigten Informationsinteresse der Öffentlichkeit i.V.m. der Meinungsfreiheit (Art. 5 GG – die ebenso wie die Kunstfreiheit nicht grenzenlos ist) und aus höherrangigen Interessen der Rechtspflege.\n\n## Beispiel 1 (in Anlehnung an BGH, Urt. v. 24.10.2023 – VI ZR 1074/20; S. 22)\n\nEine Zeitschrift berichtet unter voller Namensnennung über den Besuch eines Papst-Vertrauten bei der Familie des S, der S zum Abschied ein Kreuzzeichen auf die Stirn zeichnete. Der BGH sieht einen **Eingriff in die Privatsphäre**, aber das Schutzinteresse des S überwiegt **nicht** die durch Art. 5 Abs. 1 GG, Art. 10 EMRK geschützte Meinungsfreiheit. Das APR ist ein **Rahmenrecht** ohne festgelegte Reichweite; ein Eingriff ist **nur rechtswidrig, wenn das schutzwürdige Interesse des Betroffenen die Belange der anderen Seite überwiegt**. Hier überwog das Informationsinteresse.\n\n## Beispiel 2 (in Anlehnung an BGHZ 39, 124; S. 22–23)\n\nEine Illustrierte schreibt über die Fernsehansagerin K, sie sehe aus „wie eine ausgemolkene Ziege“ und passe „in ein zweitklassiges Tingeltangel auf der Reeperbahn“; K wird daraufhin entlassen und verlangt Schadensersatz und Schmerzensgeld. Der BGH bejaht eine **schwerwiegende rechtswidrige Verletzung** des Persönlichkeitsrechts: Kritik an der Leistung als Ansagerin und am bekannten Erscheinungsbild ist erlaubt, die **Beleidigungen** gehen aber weit darüber hinaus und sind **nicht durch die Pressefreiheit gedeckt**, die keine verantwortungsfreie Freiheit gewährt, „Klatsch zu verbreiten“ und Berichte auf Kosten der Ehre anderer zugkräftig zu machen.\n\n## Datenschutz (S. 25)\n\nEine Verletzung des APR kann auch in einer Verletzung des Datenschutzes liegen und – Verschulden vorausgesetzt – einen Anspruch aus § 823 Abs. 1 begründen. Mit **Art. 82 DSGVO** besteht ein eigener Schadensersatzanspruch. Der BGH hatte § 823 Abs. 1 für abschließend im BDSG geregelte Verletzungen ausgeschlossen, weil das APR ein **„Auffangtatbestand“** sei, der hinter Spezialregelungen zurücktritt; dem folgt das Skript auch heute. Art. 82 DSGVO ist nicht abschließend, der deliktsrechtliche Anspruch hat aber nur noch geringe Relevanz.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 22
+        },
+        {
+          "doc": "BGB_8",
+          "page": 23
+        },
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Postmortaler Persönlichkeitsschutz",
+      "short": "Das Grundrecht aus Art. 2 GG endet mit dem Tod, der Schutz der Menschenwürde (Art. 1 Abs. 1 GG) wirkt aber fort: Das Lebensbild eines Verstorbenen ist gegen grobe Herabwürdigung und schwerwiegende Entstellung geschützt. Wahrnehmungsberechtigte (meist die Erben) haben Beseitigungs- und Unterlassungsansprüche aus § 1004 Abs. 1 analog i.V.m. § 823 Abs. 1, aber keine Geldersatzansprüche (Mephisto, BGHZ 50, 133).",
+      "long": "## Grundlagen (S. 23–24)\n\nNach dem **BVerfG** wirkt das Persönlichkeitsrecht regelmäßig nicht über den Tod hinaus, weil Träger des Grundrechts aus Art. 2 GG nur die lebende Person ist. Mit der Menschenwürde (Art. 1 Abs. 1 GG) wäre es aber unvereinbar, den Menschen nach seinem Tod grob herabwürdigen zu dürfen; die staatliche Schutzpflicht endet daher nicht mit dem Tod (**postmortaler Persönlichkeitsschutz**). Geschützt sind auch der sittliche, personale und soziale Geltungswert, den die Person durch ihre Lebensleistung erworben hat – insbesondere gegen grob ehrverletzende Entstellungen und für angemessene Zeit das Recht am eigenen Bild.\n\nDer **BGH** (BGHZ 50, 133) erkennt an, dass schutzwürdige Werte der Persönlichkeit die Rechtsfähigkeit überdauern: Die Rechtsordnung könne Unterlassungsansprüche durch jemanden wahrnehmen lassen, der nicht selbst Rechtsträger ist. Später (BGHZ 107, 384) betonte er, das fortwirkende Lebensbild bleibe gegen **schwerwiegende Entstellungen** geschützt.\n\n## Rechtsfolgen (S. 24)\n\n- Die **Wahrnehmungsberechtigten** (meist die Erben) haben einen (quasinegatorischen) **Beseitigungs- und Unterlassungsanspruch aus § 1004 Abs. 1 S. 1, 2 analog i.V.m. § 823 Abs. 1**.\n- Die Schutzdauer der **materiellen Bestandteile** endet nach der Rechtsprechung – wie beim Recht am eigenen Bild (§ 22 S. 3 KUG) – **zehn Jahre nach dem Tod**.\n- **Geldersatzansprüche** wegen Verletzung des postmortalen Persönlichkeitsrechts stehen den Erben **nicht** zu.\n\n## Der Fall „Mephisto“ (S. 24–25)\n\nKlaus Manns Roman „Mephisto“ schildert erkennbar Leben und Karriere des Schauspielers Gustaf Gründgens; er erschien erst nach dessen Tod in der Bundesrepublik. Der Adoptivsohn verlangte, den Vertrieb zu unterlassen. Der BGH: Die Schutzgarantie für die Menschenwürde bleibt auch nach dem Tod „antastbar“ und entfällt nicht für Verstorbene; daher endet auch der Schutz des APR als sonstiges Recht i.S.d. § 823 Abs. 1 nicht zwangsläufig mit dem Tod. Der Adoptivsohn durfte den postmortalen Schutz wahrnehmen; schwerwiegende Entstellungen sind auch **nicht durch die Kunstfreiheit** (Art. 5 Abs. 3 GG) gedeckt.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 23
+        },
+        {
+          "doc": "BGB_8",
+          "page": 24
+        },
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Juristische Personen: Begriff, Arten, Organe, Haftung",
+      "short": "Juristische Personen sind soziale Organisationen, denen die Rechtsordnung eigene Rechtsfähigkeit zuerkennt; ihre Rechte und Pflichten sind ihre eigenen. Man unterscheidet solche des öffentlichen Rechts (Bund, Länder, Gemeinden) und des Privatrechts (e.V., Stiftung, AG, GmbH, eG, VVaG). Sie werden regelmäßig mit Registereintragung oder staatlicher Verleihung rechtsfähig und handeln durch ihre Organe. Den Gläubigern haftet grundsätzlich nur ihr Vermögen („Haftungsschirm“).",
+      "long": "## Begriff und Funktion (S. 25–26)\n\nDas soziale Leben wird auch durch **Organisationen** geprägt (Staat, Kirchen, Universitäten, Aktiengesellschaften, Sportvereine). Um ihnen die selbständige Teilnahme am Rechtsverkehr zu ermöglichen, verleiht die Rechtsordnung Personenvereinigungen oder verselbständigten Vermögensmassen eigene Rechtsfähigkeit.\n\n**Juristische Personen** sind soziale Organisationen, denen die Rechtsordnung eine **eigene Rechtsfähigkeit** zuerkennt, damit sie selbst Träger von Rechten und Pflichten sein können. Ihre Rechte und Pflichten sind **ihre eigenen**, nicht die ihrer Mitglieder.\n\n**Beispiel (S. 26):** Eigentümerin des Raffineriegrundstücks der „Europäischen Erdöl-Aktiengesellschaft“ ist die AG selbst – nicht die Aktionäre oder der Vorstand.\n\n## Arten (S. 26)\n\n- **öffentliches Recht:** z.B. Bund, Länder, Gemeinden, Kreise;\n- **Privatrecht:** u.a. eingetragene Vereine, Stiftungen, Aktiengesellschaften, GmbH, eingetragene Genossenschaften, Versicherungsvereine auf Gegenseitigkeit.\n\n## Erwerb der Rechtsfähigkeit und Organe (S. 26)\n\nRechtsfähig werden juristische Personen in der Regel erst mit **Eintragung in ein staatliches Register** (Vereins-, Handels-, Genossenschaftsregister) oder durch **staatliche Verleihung** (z.B. VVaG). Handeln können sie nur **durch natürliche Personen**, die ihre **Organe** bilden (Vorstand des e.V. oder der AG, Geschäftsführer der GmbH). Organe dienen auch der **Willensbildung** (Mitglieder- bzw. Hauptversammlung) und der **Kontrolle** (Aufsichtsrat kontrolliert den Vorstand). Organe der AG: Vorstand, Aufsichtsrat, Hauptversammlung.\n\nDas Verhalten der Organe wird **der juristischen Person selbst** zugerechnet – sie **handelt durch ihre Organe**. *(Das Skript verweist hierbei auch auf die Stellvertretung, § 164 Abs. 1 BGB.)*\n\n## Haftungsschirm (S. 26–27)\n\nDie Rechtsfolgen des Handelns treffen nur die juristische Person; den Gläubigern **haftet nur ihr Vermögen**, die Mitglieder grundsätzlich nicht mit ihrem Privatvermögen.\n\n**Beispiel (S. 27):** Schließt der Vorstand für die AG einen Kaufvertrag (§§ 78 Abs. 1 S. 1, 82 Abs. 1 AktG, § 164 Abs. 1 S. 1 BGB), wird allein die AG berechtigt und verpflichtet. Die Gläubiger können sich nicht an die Vorstandsmitglieder halten (Ausnahme: § 93 Abs. 2 AktG und die sog. Business Judgement Rule).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 25
+        },
+        {
+          "doc": "BGB_8",
+          "page": 26
+        },
+        {
+          "doc": "BGB_8",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Persönlichkeitsschutz juristischer Personen",
+      "short": "Auch juristische Personen können Träger des allgemeinen Persönlichkeitsrechts sein, aber nur begrenzt: soweit sie aus ihrem Wesen als Zweckschöpfung des Rechts und ihren Funktionen des Schutzes bedürfen, insbesondere wenn ihr sozialer Geltungsanspruch als Arbeitgeber oder Wirtschaftsunternehmen betroffen ist (BGHZ 98, 94).",
+      "long": "## Begrenzte Trägerschaft (S. 27)\n\nDer Persönlichkeitsschutz wurde aus Art. 1 und 2 GG zur Ausfüllung einer Lücke entwickelt. Deshalb ist seine Ausdehnung auf juristische Personen nach dem **BGH** (BGHZ 98, 94, 97 f.) nur gerechtfertigt, **soweit sie aus ihrem Wesen als Zweckschöpfung des Rechts und ihren Funktionen dieses Rechtsschutzes bedürfen** – etwa wenn sie in ihrem **„sozialen Geltungsanspruch als Arbeitgeber oder als Wirtschaftsunternehmen“** betroffen sind.\n\n## Fallbeispiele (S. 27–28)\n\n- **Jahresabschluss im Seminar (BGH NJW 1994, 1281):** Ein Wissenschaftler gab in Fortbildungsseminaren („Jahresabschlussanalyse aus der Sicht der Banken“) Kopien eines im Bundesanzeiger veröffentlichten Jahresabschlusses an Banken und Teilnehmer weiter, ohne Name und Anschrift des Unternehmens unkenntlich zu machen. Der damit verbundene **Hinweiseffekt** lenkte die Aufmerksamkeit eines fachkundigen Kreises auf kritische Daten; der Wissenschaftsfreiheit (Art. 5 Abs. 3 GG) stand das **Unternehmenspersönlichkeitsrecht** entgegen – Verletzung bejaht.\n- **„Von der Südtribüne in den Stadtrat!“ (OLG Hamm):** Ein Wahlplakat nutzte schwarz-gelbe Gestaltung, um Assoziationen zu Borussia Dortmund zu wecken. Das OLG untersagte die Werbung aus §§ 1004 Abs. 1, 823 Abs. 1 BGB i.V.m. Art. 2 Abs. 1 GG: Prägende Gestaltungsmerkmale der Mannschaft würden für Parteizwecke ausgebeutet; es drohe der Eindruck politischer Vereinnahmung mit Schaden für das Ansehen bei Fans, Werbekunden und Sponsoren.\n\n## Grundrechtsträgerschaft (S. 28)\n\nDas **BVerfG** sieht juristische Personen nur dann als Grundrechtsträger, wenn ihre Bildung und Betätigung Ausdruck der freien Entfaltung natürlicher Personen ist, insbesondere wenn der **„Durchgriff“** auf die dahinterstehenden Menschen sinnvoll erscheint, bzw. wenn eine **„grundrechtstypische Gefährdungslage“** besteht (welches Kriterium maßgeblich ist, ist umstritten).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 27
+        },
+        {
+          "doc": "BGB_8",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Der Verein: eingetragener, wirtschaftlicher und nicht eingetragener Verein",
+      "short": "Der eingetragene Verein ist die Grundfigur der juristischen Person des Privatrechts. Ein Verein ist eine auf Dauer angelegte, körperschaftlich verfasste, vom Mitgliederwechsel unabhängige Personenvereinigung mit Namen und gemeinsamem satzungsmäßigem Zweck. Idealvereine (§ 21) werden mit Eintragung ins Vereinsregister rechtsfähig, wirtschaftliche Vereine (§ 22) nur durch staatliche Verleihung (Konzessionszwang). Seit 1.1.2024 verweist § 54 für nicht eingetragene Idealvereine auf §§ 24–53, für wirtschaftliche auf das Recht der GbR.",
+      "long": "## Grundtypen der Vereinigungen (S. 28)\n\nAlle privatrechtlichen Vereinigungen lassen sich auf zwei im BGB geregelte Grundtypen zurückführen: die **Gesellschaft bürgerlichen Rechts** (§§ 705 ff.) und den **eingetragenen Verein** (§§ 21 ff., 55 ff.). Personengesellschaften sind GbR, OHG, KG, stille Gesellschaft und Partnerschaftsgesellschaft (Regelungen u.a. § 705 BGB, § 105 Abs. 2 HGB, § 161 Abs. 2 HGB – im Skript versehentlich „BGB“ –, § 1 PartGG). Auf den Verein zurückzuführen sind dagegen AG und GmbH, obwohl sie „Gesellschaften“ heißen.\n\nDer rechtsfähige Verein ist **vom Wechsel der Mitglieder unabhängig** (vgl. § 39); sein Zweck soll die Einzelpersönlichkeit der Mitglieder überdauern, selbst ein vollständiger Mitgliederwechsel ist zulässig.\n\n## Der eingetragene Verein (S. 29–30)\n\n**Verein** ist eine auf Dauer begründete Personenvereinigung, die der Erreichung eines selbst in der Satzung festgelegten gemeinsamen Zwecks dient (§ 57 Abs. 1), unter einem Namen auftritt, vom Mitgliederwechsel unabhängig und körperschaftlich verfasst ist. Art. 9 GG garantiert die Vereinigungsfreiheit.\n\n- Der **Idealverein** – Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet (politisch, sportlich, religiös, wissenschaftlich, kulturell, gesellig) – erwirbt Rechtsfähigkeit mit **Eintragung in das Vereinsregister** beim Amtsgericht (§ 21).\n- Maßgeblich ist der **Hauptzweck**. **Beispiel (S. 30):** Ein Tennisverein, der im Clubhaus Speisen und Getränke gegen Entgelt anbietet, bleibt Idealverein. Grenzfall: Sportvereine mit Profi-Fußballmannschaft.\n\n## Der wirtschaftliche Verein (S. 30)\n\nDer wirtschaftliche Verein (§ 22) erlangt Rechtsfähigkeit nur durch **staatliche Verleihung** (**Konzessionszwang**). Konzessionen werden kaum erteilt, weil AG, GmbH und eG mit zwingenden Schutzvorschriften (Gründung, Kapitalaufbringung, Entnahmeverbote) zur Verfügung stehen. Nach dem BGH (BGHZ 22, 240) verbietet der Konzessionszwang, auf anderem Wege als in diesen Formen Rechtsfähigkeit und Haftungsfreiheit der Mitglieder zu erreichen. Verleihungsgrundsätze:\n- **Alternativität:** Verleihung nur an Vereine, die nicht nach § 21 eintragungsfähig wären;\n- **Subsidiarität:** Verleihung nur, wenn die Gründung als AG, GmbH oder eG wegen besonderer Umstände unzumutbar ist (kein Verstoß gegen Art. 9 GG). Beispiele: GEMA, VG Wort.\n\nFür politische Parteien gilt das Parteiengesetz.\n\n## Vereine ohne Rechtspersönlichkeit (S. 29, 31)\n\nFrüher fehlte dem nicht eingetragenen Verein die Rechtsfähigkeit („nichtrechtsfähiger Verein“: z.B. Ordensniederlassungen, Studentenverbindungen, Handelssyndikate, Heilsarmee). Seit dem **1.1.2024** sieht **§ 54 Abs. 1 S. 1** für den nicht eingetragenen **Idealverein** die entsprechende Anwendung der **§§ 24–53** vor; für wirtschaftliche Vereine ohne Verleihung ergibt sich die Rechtsfähigkeit aus dem Recht der Gesellschaft (**§§ 54 Abs. 1 S. 2, 705 Abs. 2**). Das Skript spricht von **„Rechtsfähigkeit ohne Rechtspersönlichkeit“**: Juristische Person ist nur der eingetragene Verein. Zweifelhaft bleibt, ob der nicht eingetragene Verein unter seinem Namen als Grundstückseigentümer ins Grundbuch eingetragen werden kann.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 28
+        },
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        },
+        {
+          "doc": "BGB_8",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Die rechtsfähige Stiftung des privaten Rechts",
+      "short": "Die rechtsfähige Stiftung ist eine als selbständiger Rechtsträger anerkannte, mit eigenem Vermögen ausgestattete Einrichtung zur dauerhaften Verwirklichung eines vom Stifter festgelegten Zwecks; sie ist kein Personenverband. Sie entsteht nach dem Skript durch Stiftungsgeschäft und staatliche Genehmigung (§ 80). Das Stiftungsgeschäft ist eine einseitige, nicht empfangsbedürftige Willenserklärung, unter Lebenden (Schriftform, Widerruf bis zur Genehmigung) oder von Todes wegen.",
+      "long": "## Begriff (S. 31)\n\nDie **rechtsfähige Stiftung** ist eine als selbständiger Rechtsträger anerkannte, mit einem **eigenen Vermögen** ausgestattete Einrichtung, mit der ein **dauernder Zweck** (Ewigkeitsstiftung), festgelegt durch den Willen des Errichtenden, erreicht werden soll. Sie ist **kein Personenverband**. Sie ermöglicht es, Ziele langfristig – auch über den Tod des Stifters hinaus – zu institutionalisieren. Das BGB regelt das Stiftungsrecht in §§ 80 ff. nur unvollständig; Lücken schließen Landesgesetze.\n\n## Entstehung (S. 32)\n\nDie Stiftung entsteht als juristische Person durch das **privatrechtliche Stiftungsgeschäft** und die **staatliche Genehmigung** (§ 80).\n\n**Stiftungsgeschäft:** einseitige, **nicht empfangsbedürftige** Willenserklärung des Stifters, die darauf abzielt, die Stiftung zur Verwirklichung eines bestimmten Zwecks als selbständigen Rechtsträger entstehen zu lassen; wesentlich ist die Festsetzung des Zwecks. Es kann sein:\n- ein **Rechtsgeschäft unter Lebenden** – dann **Schriftform**, Widerruf durch den Stifter bis zur Genehmigung möglich (§ 81);\n- eine **Verfügung von Todes wegen** (Testament, Erbvertrag; § 83) – die Stiftung wird Erbin oder Vermächtnisnehmerin.\n\nDie staatliche Mitwirkung wirkt **rechtsbegründend**: Erst durch sie entsteht – bei wirksamem Stiftungsgeschäft – die rechtsfähige Stiftung.\n\n## Vermögensübergang (S. 32)\n\n- Stiftungsgeschäft unter Lebenden: Die Stiftung erwirbt einen **Anspruch gegen den Stifter** auf Übertragung des zugesicherten Vermögens (§ 82).\n- Stiftung als Erbin eingesetzt: Das Vermögen geht durch **Gesamtrechtsnachfolge** über (§ 1922).\n\n*Hinweis:* Das Skript spricht von „staatlicher Genehmigung“; der Gesetzestext verwendet den Begriff der **Anerkennung** (vgl. auch die Formulierung „als selbständiger Rechtsträger anerkannt“, S. 31). Prüfen Sie Begriff und Paragraphenzählung anhand der aktuellen Gesetzesfassung.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 31
+        },
+        {
+          "doc": "BGB_8",
+          "page": 32
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rechtssubjekt",
+      "text": "Träger von Rechten und Pflichten. Das Privatrecht kennt als Rechtssubjekte nur natürliche und juristische Personen.",
+      "norm": "§ 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "term": "Rechtsfähigkeit",
+      "text": "Die Fähigkeit einer Person, Träger von Rechten und Pflichten zu sein. Beim Menschen beginnt sie mit der Vollendung der Geburt und endet mit dem Tod; sie steht allen Menschen unabhängig von Alter oder kognitiven Fähigkeiten gleich zu.",
+      "norm": "§ 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        },
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Name",
+      "text": "Die ständige Bezeichnung einer Person, die dem Zweck dient, sie von anderen Personen zu unterscheiden; zugleich ein absolutes (besonderes) Persönlichkeitsrecht.",
+      "norm": "§ 12 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "term": "Allgemeines Persönlichkeitsrecht",
+      "text": "Umfassendes Recht auf Achtung und Nichtverletzung der Person, das insbesondere Privat- und Intimsphäre, Ehre sowie Schrift und Rede schützt; abgeleitet aus Art. 1 Abs. 1, 2 Abs. 1 GG und geschützt als „sonstiges Recht“ i.S.d. § 823 Abs. 1 BGB. Als Rahmenrecht ist seine Reichweite durch Abwägung zu bestimmen.",
+      "norm": "§ 823 Abs. 1 BGB i.V.m. Art. 1 Abs. 1, 2 Abs. 1 GG",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        },
+        {
+          "doc": "BGB_8",
+          "page": 20
+        },
+        {
+          "doc": "BGB_8",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "term": "Postmortaler Persönlichkeitsschutz",
+      "text": "Fortwirkender Schutz des Lebensbildes eines Verstorbenen gegen grobe Herabwürdigung und schwerwiegende Entstellung, gestützt auf die Menschenwürde (Art. 1 Abs. 1 GG); wahrgenommen durch die Berechtigten über Beseitigungs- und Unterlassungsansprüche, ohne Geldersatz.",
+      "norm": "§ 1004 Abs. 1 analog i.V.m. § 823 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 23
+        },
+        {
+          "doc": "BGB_8",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "term": "Juristische Person",
+      "text": "Soziale Organisation (Personenvereinigung oder verselbständigte Vermögensmasse), der die Rechtsordnung eine eigene Rechtsfähigkeit zuerkennt, damit sie selbst Träger von Rechten und Pflichten sein kann.",
+      "norm": "z.B. §§ 21, 22, 80 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "term": "Verein",
+      "text": "Auf Dauer begründete Personenvereinigung, die der Erreichung eines selbst in der Satzung festgelegten gemeinsamen Zwecks dient, unter einem Namen auftritt, vom Wechsel der Mitglieder unabhängig und körperschaftlich verfasst ist.",
+      "norm": "§§ 21 ff., 57 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "term": "Idealverein",
+      "text": "Verein, dessen (Haupt-)Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist; er erlangt Rechtsfähigkeit durch Eintragung in das Vereinsregister.",
+      "norm": "§ 21 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "term": "Wirtschaftlicher Verein",
+      "text": "Verein, dessen Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist; er erlangt Rechtsfähigkeit nur durch staatliche Verleihung (Konzessionszwang), die nach den Grundsätzen der Alternativität und Subsidiarität erfolgt.",
+      "norm": "§ 22 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "term": "Stiftungsgeschäft",
+      "text": "Einseitige, nicht empfangsbedürftige Willenserklärung des Stifters, die darauf abzielt, die Stiftung zur Verwirklichung eines bestimmten Zwecks als selbständigen Rechtsträger entstehen zu lassen; unter Lebenden (Schriftform) oder als Verfügung von Todes wegen.",
+      "norm": "§§ 80 ff. BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 32
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Ansprüche aus § 12 BGB (Namensschutz)",
+      "steps": [
+        "1. Name einer Person: ständige Bezeichnung zur Unterscheidung von anderen.",
+        "2. Verletzung: a) Namensbestreitung – dem Berechtigten wird das Recht zum Gebrauch seines Namens streitig gemacht; oder b) Namensanmaßung – ein anderer, dem der Name nicht zukommt, gebraucht ihn unbefugt, insbesondere als eigenes Kennzeichen oder Unterscheidungsmerkmal (nach dem Gesetzeswortlaut unter Verletzung eines Interesses des Berechtigten).",
+        "3. Rechtsfolge: Beseitigung der Beeinträchtigung (§ 12 S. 1).",
+        "4. Unterlassung künftiger Beeinträchtigungen, wenn weitere Beeinträchtigungen zu besorgen sind (§ 12 S. 2)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "title": "Erwerb der Rechtsfähigkeit privatrechtlicher Vereinigungen und Stiftungen (nach dem Skript)",
+      "steps": [
+        "1. Idealverein (Hauptzweck nicht wirtschaftlicher Geschäftsbetrieb): Eintragung in das Vereinsregister beim Amtsgericht (§ 21).",
+        "2. Wirtschaftlicher Verein: staatliche Verleihung (§ 22) – nur subsidiär und alternativ zu AG, GmbH, eG.",
+        "3. Nicht eingetragener Verein: Idealverein → §§ 24–53 entsprechend (§ 54 Abs. 1 S. 1); wirtschaftlicher Zweck → Gesellschaftsrecht (§§ 54 Abs. 1 S. 2, 705 Abs. 2); „Rechtsfähigkeit ohne Rechtspersönlichkeit“.",
+        "4. Kapitalgesellschaften/Genossenschaft: Eintragung ins Handels- bzw. Genossenschaftsregister; VVaG: staatliche Verleihung.",
+        "5. Rechtsfähige Stiftung: wirksames Stiftungsgeschäft + staatliche Mitwirkung (Skript: Genehmigung, § 80); danach Anspruch auf Vermögensübertragung (§ 82) bzw. Gesamtrechtsnachfolge (§ 1922)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        },
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        },
+        {
+          "doc": "BGB_8",
+          "page": 31
+        },
+        {
+          "doc": "BGB_8",
+          "page": 32
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wann beginnt nach § 1 BGB die Rechtsfähigkeit des Menschen?",
+      "options": [
+        "Mit der Vollendung der Geburt",
+        "Mit der Zeugung",
+        "Mit der Eintragung in das Geburtenregister",
+        "Mit Vollendung des siebten Lebensjahres"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 1: Rechtsfähigkeit mit Vollendung der Geburt. Das siebte Lebensjahr betrifft die (beschränkte) Geschäftsfähigkeit; eine Registereintragung ist nicht konstitutiv.",
+      "hints": [
+        "Rechtsfähigkeit ≠ Geschäftsfähigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Ein an Demenz erkrankter Mensch verliert seine Rechtsfähigkeit.",
+      "answer": false,
+      "explanation": "Die Rechtsfähigkeit hängt nicht von kognitiven Fähigkeiten ab; Säuglinge und Demenzkranke sind gleichermaßen rechtsfähig (S. 18).",
+      "hints": [
+        "Gleichbehandlung aller Menschen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Rechtsfähigkeit ist die Fähigkeit, {{1}} von Rechten und Pflichten zu sein. Sie endet mit dem {{2}}; das Vermögen geht dann nach § {{3}} Abs. 1 BGB als Ganzes auf die Erben über.",
+      "blanks": [
+        [
+          "Träger",
+          "Trägerin"
+        ],
+        [
+          "Tod",
+          "Tode"
+        ],
+        [
+          "1922"
+        ]
+      ],
+      "explanation": "S. 18–19: Rechtsfähigkeit bis zum Tod; Universalsukzession nach § 1922 Abs. 1.",
+      "hints": [
+        "Gesamtrechtsnachfolge."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        },
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Kraftfahrer K verursacht schuldhaft einen Unfall, bei dem die im sechsten Monat schwangere F und der Embryo verletzt werden. Das Kind E kommt mit einem Gehirnschaden zur Welt. Hat E gegen K einen Schadensersatzanspruch aus § 823 Abs. 1 BGB, obwohl es bei der Verletzung noch nicht rechtsfähig war?",
+      "modelAnswer": "Nach dem Wortlaut des § 1 BGB war E im Zeitpunkt der Verletzung als Embryo nicht rechtsfähig. Nach dem BGH (BGHZ 58, 48) steht das einem Anspruch aus § 823 Abs. 1 BGB aber nicht entgegen: Ersetzt wird nicht ein Schaden der Leibesfrucht, sondern der Schaden an der Gesundheit des geborenen Kindes. Leibesfrucht und geborenes Kind sind identische Wesen; die Verletzung der Leibesfrucht wird mit Vollendung der Geburt zu einer Gesundheitsverletzung des Menschen. Da E lebend geboren wurde und K schuldhaft handelte, hat E gegen K einen Schadensersatzanspruch aus § 823 Abs. 1 BGB.",
+      "rubric": [
+        "Problem: § 1 – keine Rechtsfähigkeit des Embryos",
+        "BGH: Gesundheitsschaden des geborenen Kindes",
+        "Identität von Leibesfrucht und Kind",
+        "Voraussetzung Lebendgeburt",
+        "Ergebnis: Anspruch aus § 823 Abs. 1"
+      ],
+      "hints": [
+        "Wessen Schaden wird ersetzt?",
+        "Welche Voraussetzung gilt zugunsten des Schädigers?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussage zum Schutz des als Embryo verletzten Kindes trifft nach der vom Skript dargestellten BGH-Rechtsprechung zu?",
+      "options": [
+        "Ein Anspruch aus § 823 Abs. 1 entsteht nur, wenn das Kind lebend zur Welt kommt.",
+        "Der Embryo ist entgegen dem Wortlaut des § 1 analog rechtsfähig und hat bereits vor der Geburt einen eigenen Anspruch.",
+        "Der Anspruch entsteht auch bei Totgeburt und fällt dann in den Nachlass.",
+        "Ersatz kann nur die Mutter aus eigenem Recht verlangen, weil das Kind bei der Verletzung nicht rechtsfähig war."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der BGH stellt auf den Gesundheitsschaden des geborenen Kindes ab, nicht auf eine Rechtsfähigkeit des Embryos. Zugunsten des Schädigers entsteht ein Anspruch nur bei Lebendgeburt.",
+      "hints": [
+        "Der BGH umgeht § 1, statt ihn zu erweitern."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wogegen schützt § 12 BGB? Wählen Sie zwei zutreffende Antworten.",
+      "options": [
+        "Gegen das Bestreiten des Rechts, den eigenen Namen zu führen",
+        "Gegen den unbefugten Gebrauch des eigenen Namens durch einen anderen als dessen Kennzeichen",
+        "Gegen die Veröffentlichung des eigenen Fotos ohne Einwilligung",
+        "Gegen ehrverletzende Presseberichte über das Privatleben"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "§ 12 erfasst Namensbestreitung und Namensanmaßung. Das Bild ist durch §§ 22, 23 KUG geschützt, die Ehre durch das allgemeine Persönlichkeitsrecht (§ 823 Abs. 1).",
+      "hints": [
+        "§ 12 ist ein besonderes Persönlichkeitsrecht nur für den Namen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        },
+        {
+          "doc": "BGB_8",
+          "page": 21
+        },
+        {
+          "doc": "BGB_8",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Schutzgut der Rechtsgrundlage zu, die das Skript nennt.",
+      "pairs": [
+        [
+          "Name",
+          "§ 12 BGB"
+        ],
+        [
+          "Recht am eigenen Bild",
+          "§§ 22, 23 KUG"
+        ],
+        [
+          "Allgemeines Persönlichkeitsrecht",
+          "§ 823 Abs. 1 BGB i.V.m. Art. 1 Abs. 1, 2 Abs. 1 GG"
+        ],
+        [
+          "Leben, Körper, Gesundheit, Freiheit",
+          "§ 823 Abs. 1 BGB i.V.m. Art. 2 Abs. 2 GG"
+        ],
+        [
+          "Schadensersatz bei Datenschutzverstößen",
+          "Art. 82 DSGVO"
+        ]
+      ],
+      "explanation": "Vgl. S. 20–22 und S. 25.",
+      "hints": [
+        "Das KUG ist ein Spezialgesetz außerhalb des BGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        },
+        {
+          "doc": "BGB_8",
+          "page": 21
+        },
+        {
+          "doc": "BGB_8",
+          "page": 22
+        },
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Eine Zeitung will zwei Fotos des bekannten Politikers A veröffentlichen: (1) A bei einer Wahlveranstaltung, (2) A beim Austausch von Intimitäten mit seinem Lebensgefährten. A hat nicht eingewilligt. Was gilt nach dem Skript?",
+      "options": [
+        "Foto 1 darf veröffentlicht werden, Foto 2 nicht",
+        "Beide Fotos dürfen veröffentlicht werden, weil A Person der Zeitgeschichte ist",
+        "Keines der Fotos darf ohne Einwilligung veröffentlicht werden",
+        "Foto 2 darf veröffentlicht werden, wenn ein Informationsinteresse besteht, Foto 1 dagegen nur mit Einwilligung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Für Bilder aus dem Bereich der Zeitgeschichte gilt eine Ausnahme vom Einwilligungserfordernis (§ 23 KUG), aber nicht, wenn berechtigte Interessen verletzt werden – Bilder aus der Privat- und Intimsphäre müssen Personen der Zeitgeschichte regelmäßig nicht hinnehmen.",
+      "hints": [
+        "Ausnahme und Gegenausnahme."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Anton Adler findet sein Bild ohne seine Einwilligung in einer Illustrierten unter der Überschrift „Krankenpfleger immer unzufriedener“. Er kann die Verbreitung untersagen.",
+      "answer": true,
+      "explanation": "Ohne Einwilligung darf das Bild nach §§ 22, 23 KUG nicht verbreitet werden; keine der Ausnahmen greift (S. 21).",
+      "hints": [
+        "Ist Adler Person der Zeitgeschichte?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Eine Zeitschrift berichtet unter Namensnennung, ein Papst-Vertrauter habe bei einem Besuch im Wohnhaus des S ein Kreuzzeichen auf dessen Stirn gezeichnet. S verlangt Unterlassung. Wie hat der BGH (Urt. v. 24.10.2023 – VI ZR 1074/20) nach dem Skript entschieden?",
+      "options": [
+        "Ein Eingriff in die Privatsphäre liegt vor, ist aber nicht rechtswidrig, weil die Meinungsfreiheit der Zeitschrift überwiegt.",
+        "Es fehlt schon an einem Eingriff, weil religiöse Gesten nicht zur Privatsphäre gehören.",
+        "Der Eingriff ist rechtswidrig, weil jede Berichterstattung über Vorgänge im Wohnhaus unzulässig ist.",
+        "Der Eingriff ist rechtswidrig, weil das Persönlichkeitsrecht der Meinungsfreiheit stets vorgeht."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das APR ist ein Rahmenrecht; ein Eingriff ist nur rechtswidrig, wenn das schutzwürdige Interesse des Betroffenen die Belange der Gegenseite überwiegt. Hier überwogen Informationsinteresse und Meinungsfreiheit (Art. 5 Abs. 1 GG, Art. 10 EMRK).",
+      "hints": [
+        "Eingriff und Rechtswidrigkeit trennen.",
+        "Rahmenrecht = Abwägung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussage zum postmortalen Persönlichkeitsschutz trifft nach dem Skript zu?",
+      "options": [
+        "Die Wahrnehmungsberechtigten können Beseitigung und Unterlassung nach § 1004 Abs. 1 analog i.V.m. § 823 Abs. 1 verlangen, Geldersatz steht den Erben aber nicht zu.",
+        "Die Erben können wegen Verunglimpfung des Verstorbenen stets ein Schmerzensgeld in eigener Person verlangen.",
+        "Der Persönlichkeitsschutz endet ausnahmslos mit dem Tod, weil der Verstorbene nicht mehr rechtsfähig ist.",
+        "Der Verstorbene bleibt hinsichtlich seines Persönlichkeitsrechts rechtsfähig, so dass er selbst klagen kann."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Schutzwürdige Werte der Persönlichkeit überdauern den Tod (BGHZ 50, 133; Art. 1 Abs. 1 GG). Sie werden von anderen wahrgenommen; der Verstorbene ist nicht rechtsfähig. Geldersatzansprüche bestehen nicht (S. 24).",
+      "hints": [
+        "Mephisto-Entscheidung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 23
+        },
+        {
+          "doc": "BGB_8",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Warum lehnte der BGH nach dem Skript einen Anspruch aus § 823 Abs. 1 für Datenschutzverletzungen ab, die im BDSG abschließend geregelt waren?",
+      "options": [
+        "Weil das allgemeine Persönlichkeitsrecht ein Auffangtatbestand ist, der hinter Spezialregelungen zurücktritt",
+        "Weil personenbezogene Daten keine Rechtsgüter im Sinne des § 823 Abs. 1 sind",
+        "Weil Art. 82 DSGVO jeden nationalen Anspruch abschließend verdrängt",
+        "Weil Datenschutzverletzungen niemals schuldhaft begangen werden können"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der BGH (BGHZ 91, 233) sah das APR als Auffangtatbestand. Das Skript folgt dem; Art. 82 DSGVO ist dagegen nicht abschließend, der deliktische Anspruch hat aber geringe Relevanz.",
+      "hints": [
+        "Spezialität."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was ist eine juristische Person?",
+      "options": [
+        "Eine soziale Organisation, der die Rechtsordnung eigene Rechtsfähigkeit zuerkennt",
+        "Jeder Zusammenschluss mehrerer Menschen zu einem gemeinsamen Zweck",
+        "Eine natürliche Person mit juristischer Ausbildung, die eine Organisation vertritt",
+        "Eine Organisation, deren Rechte und Pflichten unmittelbar ihren Mitgliedern zustehen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Juristische Personen sind selbst rechtsfähig; ihre Rechte und Pflichten sind ihre eigenen, nicht die der Mitglieder (S. 25).",
+      "hints": [
+        "Eigene Rechtsfähigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden sind nach dem Skript juristische Personen des Privatrechts? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Eingetragener Verein",
+        "Gesellschaft mit beschränkter Haftung",
+        "Versicherungsverein auf Gegenseitigkeit",
+        "Gemeinde"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "e.V., GmbH und VVaG gehören zu den juristischen Personen des Privatrechts; die Gemeinde ist juristische Person des öffentlichen Rechts (S. 26).",
+      "hints": [
+        "Öffentliches Recht vs. Privatrecht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der Vorstand der X-AG kauft für die AG eine Maschine. Die AG zahlt den Kaufpreis nicht. Von wem kann der Verkäufer Zahlung verlangen?",
+      "options": [
+        "Grundsätzlich nur von der AG",
+        "Von den Vorstandsmitgliedern persönlich, weil sie den Vertrag geschlossen haben",
+        "Von den Aktionären anteilig nach ihrer Beteiligung",
+        "Von AG und Vorstand als Gesamtschuldnern"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Organhandeln wird der AG zugerechnet (§§ 78 Abs. 1 S. 1, 82 Abs. 1 AktG, § 164 Abs. 1 S. 1 BGB). Nur sie wird verpflichtet; den Gläubigern haftet nur ihr Vermögen (Haftungsschirm). Ausnahme nach dem Skript: § 93 Abs. 2 AktG.",
+      "hints": [
+        "Die juristische Person handelt durch ihre Organe."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        },
+        {
+          "doc": "BGB_8",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Unter welcher Voraussetzung ist nach dem BGH eine juristische Person Trägerin des allgemeinen Persönlichkeitsrechts?",
+      "options": [
+        "Soweit sie aus ihrem Wesen als Zweckschöpfung des Rechts und ihren Funktionen des Schutzes bedarf, etwa in ihrem sozialen Geltungsanspruch als Arbeitgeber oder Wirtschaftsunternehmen",
+        "Uneingeschränkt, weil sie wie natürliche Personen rechtsfähig ist",
+        "Nie, weil das Persönlichkeitsrecht aus der Menschenwürde folgt",
+        "Nur, wenn sämtliche Mitglieder zugleich in ihrem eigenen Persönlichkeitsrecht verletzt sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "BGHZ 98, 94: begrenzte Trägerschaft. Beispiele: Weitergabe eines Jahresabschlusses mit Hinweiseffekt (BGH NJW 1994, 1281); Südtribünen-Plakat (OLG Hamm).",
+      "hints": [
+        "Zweckschöpfung des Rechts."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 27
+        },
+        {
+          "doc": "BGB_8",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ein Tennisverein, der in seinem Clubhaus Speisen und Getränke gegen Entgelt anbietet, ist ein wirtschaftlicher Verein im Sinne des § 22 BGB.",
+      "answer": false,
+      "explanation": "Für die Einordnung ist der Hauptzweck maßgeblich; der Tennisverein bleibt Idealverein (§ 21). Grenzfälle sind eher Vereine mit Profi-Fußballmannschaft (S. 30).",
+      "hints": [
+        "Haupt- oder Nebenzweck?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Mehrere Unternehmer wollen einen Verein mit wirtschaftlichem Geschäftsbetrieb gründen, der rechtsfähig ist und bei dem die Mitglieder nicht haften. Was gilt nach dem Skript?",
+      "options": [
+        "Rechtsfähigkeit nur durch staatliche Verleihung (§ 22), die nach dem Subsidiaritätsgrundsatz nur erteilt wird, wenn die Gründung einer AG, GmbH oder eG unzumutbar ist",
+        "Rechtsfähigkeit durch Eintragung in das Vereinsregister (§ 21), weil Art. 9 GG die Wahl der Rechtsform freistellt",
+        "Rechtsfähigkeit schon mit Gründung nach § 54, wodurch die Haftung der Mitglieder stets ausgeschlossen ist",
+        "Rechtsfähigkeit durch Eintragung des Vereins in das Handelsregister"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Konzessionszwang (§ 22) mit Grundsätzen der Alternativität und Subsidiarität; nach BGHZ 22, 240 dürfen Rechtsfähigkeit und Haftungsfreiheit nicht auf anderem Weg als in den Formen von AG, GmbH, eG erreicht werden (S. 30).",
+      "hints": [
+        "Konzessionszwang."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Seit dem {{1}} sieht § 54 Abs. 1 S. 1 BGB für den nicht eingetragenen Idealverein die entsprechende Anwendung der §§ {{2}} BGB vor. Das Skript spricht insoweit von „Rechtsfähigkeit ohne {{3}}“.",
+      "blanks": [
+        [
+          "1.1.2024",
+          "01.01.2024",
+          "1. Januar 2024"
+        ],
+        [
+          "24–53",
+          "24-53",
+          "24 bis 53"
+        ],
+        [
+          "Rechtspersönlichkeit"
+        ]
+      ],
+      "explanation": "S. 29 und 31. Für wirtschaftliche nicht eingetragene Vereine verweist § 54 Abs. 1 S. 2 auf das Gesellschaftsrecht (§ 705 Abs. 2).",
+      "hints": [
+        "Reform durch das MoPeG."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Schritte zur Entstehung einer Stiftung durch Rechtsgeschäft unter Lebenden nach dem Skript in die richtige Reihenfolge.",
+      "items": [
+        "Stifter gibt ein schriftliches Stiftungsgeschäft mit Zweckfestsetzung ab",
+        "Bis zur staatlichen Mitwirkung kann der Stifter widerrufen",
+        "Staatliche Genehmigung (rechtsbegründend)",
+        "Stiftung entsteht als rechtsfähige juristische Person",
+        "Stiftung hat Anspruch gegen den Stifter auf Übertragung des zugesicherten Vermögens (§ 82)"
+      ],
+      "explanation": "§§ 80–82 nach der Darstellung des Skripts (S. 32).",
+      "hints": [
+        "Der Vermögensanspruch setzt die rechtsfähige Stiftung voraus."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das Stiftungsgeschäft ist eine einseitige, nicht empfangsbedürftige Willenserklärung.",
+      "answer": true,
+      "explanation": "So das Skript (S. 32); es kann unter Lebenden oder von Todes wegen vorgenommen werden.",
+      "hints": [
+        "Muss es jemandem zugehen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erläutern Sie in eigenen Worten, wie eine juristische Person am Rechtsverkehr teilnimmt und wem die Folgen ihres Handelns zugerechnet werden.",
+      "modelAnswer": "Eine juristische Person ist selbst rechtsfähig, kann aber nicht selbst handeln. Sie nimmt am Rechtsverkehr durch natürliche Personen teil, die ihre Organe bilden, etwa den Vorstand eines Vereins oder einer AG oder den Geschäftsführer einer GmbH. Daneben gibt es Organe der Willensbildung (Mitglieder- bzw. Hauptversammlung) und der Kontrolle (Aufsichtsrat). Das Verhalten der Organe wird der juristischen Person selbst zugerechnet; sie handelt durch ihre Organe. Rechte und Pflichten aus den Geschäften treffen daher nur sie, und den Gläubigern haftet grundsätzlich nur ihr Vermögen, nicht das Privatvermögen der Mitglieder oder Organwalter (Haftungsschirm).",
+      "rubric": [
+        "Eigene Rechtsfähigkeit, aber Handeln nur durch natürliche Personen",
+        "Organe: Handlung, Willensbildung, Kontrolle",
+        "Zurechnung an die juristische Person",
+        "Haftungsschirm"
+      ],
+      "hints": [
+        "Beispiel AG: Vorstand, Aufsichtsrat, Hauptversammlung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        },
+        {
+          "doc": "BGB_8",
+          "page": 27
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Die falsche „Karoline Grau“ im Hotel (Skript-Beispiel S. 20)",
+    "facts": "Frau Karoline Grau erfährt von einer guten Bekannten, dass sich ihr Ehemann mit seiner Geliebten Eva Grünvogel in Bad Ems in einem Hotel aufhält. Sie fährt nach Bad Ems und stellt fest, dass sich Frau Grünvogel im Hotelbuch als „Karoline Grau“ eingetragen hat. Frau Grünvogel will das Hotel mit Herrn Grau auch künftig unter diesem Namen besuchen.",
+    "question": "Kann Frau Grau von Frau Grünvogel verlangen, die Eintragung zu beseitigen und den Gebrauch ihres Namens künftig zu unterlassen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "Frau Grau könnte gegen Frau Grünvogel einen Anspruch auf Beseitigung der Beeinträchtigung aus § 12 S. 1 BGB und auf Unterlassung künftigen Namensgebrauchs aus § 12 S. 2 BGB haben. Dazu müsste Frau Grünvogel das Namensrecht der Frau Grau verletzt haben, indem sie unbefugt deren Namen gebraucht hat.",
+        "rubric": [
+          "Konjunktiv",
+          "§ 12 S. 1 (Beseitigung) und S. 2 (Unterlassung)",
+          "Verletzung des Namensrechts durch unbefugten Gebrauch"
+        ],
+        "hints": [
+          "Welche der beiden Verletzungsformen des § 12 kommt in Betracht?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie den Namen und die hier einschlägige Verletzungsform.",
+        "model": "Name ist die ständige Bezeichnung einer Person, die dem Zweck dient, sie von anderen Personen zu unterscheiden; das Namensrecht ist ein absolutes Persönlichkeitsrecht. § 12 schützt neben dem Bestreiten des Rechts zur Namensführung gegen die Namensanmaßung: Ein unbefugter Gebrauch liegt in erster Linie vor, wenn ein anderer, dem der Name nicht zukommt, ihn als sein Kennzeichen oder Unterscheidungsmerkmal benutzt. Der Berechtigte kann dann Beseitigung und, wenn weitere Beeinträchtigungen zu besorgen sind, Unterlassung verlangen.",
+        "rubric": [
+          "Definition Name",
+          "Namensanmaßung: Gebrauch als eigenes Kennzeichen durch Nichtberechtigten",
+          "Beseitigung; Unterlassung bei Besorgnis weiterer Beeinträchtigung"
+        ],
+        "hints": [
+          "Das Skript beschreibt den typischen Fall der unbefugten Namensführung."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "„Karoline Grau“ ist der Name der Frau Grau, der sie von anderen Personen unterscheidet. Frau Grünvogel hat sich unter diesem Namen in das Hotelbuch eingetragen und ihn damit gegenüber dem Hotel als eigenes Kennzeichen verwendet, um sich als Frau Grau auszugeben. Der Name kommt ihr nicht zu, und eine Befugnis zum Gebrauch ist nicht ersichtlich; es liegt eine Namensanmaßung vor. Durch die Eintragung wird zugleich der Eindruck erweckt, Frau Grau selbst halte sich mit ihrem Ehemann im Hotel auf, so dass ihre Interessen beeinträchtigt sind. Die fortbestehende Eintragung ist eine andauernde Beeinträchtigung. Da Frau Grünvogel das Hotel auch künftig unter diesem Namen besuchen will, sind weitere Beeinträchtigungen zu besorgen.",
+        "rubric": [
+          "Name der Frau Grau",
+          "Gebrauch als eigenes Kennzeichen durch Nichtberechtigte",
+          "unbefugt, Interessen beeinträchtigt",
+          "andauernde Beeinträchtigung → Beseitigung",
+          "Wiederholungsgefahr → Unterlassung"
+        ],
+        "hints": [
+          "Woraus ergibt sich die Besorgnis weiterer Beeinträchtigungen?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Frau Grünvogel hat das Namensrecht der Frau Grau verletzt. Frau Grau kann nach § 12 S. 1 BGB die Beseitigung der Beeinträchtigung (der Eintragung) und nach § 12 S. 2 BGB die Unterlassung des künftigen Gebrauchs des Namens „Karoline Grau“ verlangen.",
+        "rubric": [
+          "Indikativ",
+          "beide Ansprüche bejaht",
+          "Normbezug"
+        ],
+        "hints": [
+          "Beantworten Sie beide Teile der Fallfrage."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_8",
+        "page": 20
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Welche Rechtssubjekte kennt das Privatrecht?",
+      "back": "Nur natürliche Personen (alle Menschen, § 1) und juristische Personen.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "front": "Hängt die Rechtsfähigkeit von Alter oder geistigen Fähigkeiten ab?",
+      "back": "Nein. Sie steht allen Menschen gleich zu – Säuglingen ebenso wie Demenzkranken; ein einjähriges Kind kann Grundstückseigentümer sein.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "front": "Nasciturus: Schadensersatz für pränatale Verletzung?",
+      "back": "BGH (BGHZ 58, 48): Ja, § 823 Abs. 1 – ersetzt wird der Gesundheitsschaden des geborenen Kindes (Identität von Leibesfrucht und Kind); nur bei Lebendgeburt.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "front": "Namensbestreitung vs. Namensanmaßung (§ 12)?",
+      "back": "Bestreitung: dem Berechtigten wird das Recht zur Führung seines Namens streitig gemacht. Anmaßung: ein Nichtberechtigter gebraucht den Namen unbefugt, v.a. als eigenes Kennzeichen. Folge: Beseitigung; Unterlassung bei Wiederholungsgefahr.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "front": "Recht am eigenen Bild – Grundsatz und Ausnahmen?",
+      "back": "§§ 22, 23 KUG: Verbreitung nur mit Einwilligung. Ausnahmen: Zeitgeschichte, Beiwerk, höheres Kunstinteresse, Massenveranstaltungen – nicht bei Verletzung berechtigter Interessen (Privat-/Intimsphäre).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "front": "Herleitung und Schutz des allgemeinen Persönlichkeitsrechts?",
+      "back": "Aus Art. 1 Abs. 1, 2 Abs. 1 GG; zivilrechtlich als „sonstiges Recht“ nach § 823 Abs. 1. Rahmenrecht: Rechtswidrigkeit nur, wenn das Schutzinteresse die Gegenbelange (z.B. Art. 5 GG) überwiegt.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        },
+        {
+          "doc": "BGB_8",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "front": "BGHZ 39, 124 („ausgemolkene Ziege“)?",
+      "back": "Schwerwiegende rechtswidrige Verletzung des APR einer Fernsehansagerin; Kritik an Leistung und Erscheinungsbild erlaubt, Beleidigungen aber nicht durch Pressefreiheit gedeckt.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 22
+        },
+        {
+          "doc": "BGB_8",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "front": "Postmortaler Persönlichkeitsschutz – Rechtsfolgen?",
+      "back": "Wahrnehmungsberechtigte (meist Erben): Beseitigung/Unterlassung aus § 1004 Abs. 1 analog i.V.m. § 823 Abs. 1; materielle Bestandteile: 10 Jahre nach Tod; kein Geldersatz. Mephisto: BGHZ 50, 133.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 23
+        },
+        {
+          "doc": "BGB_8",
+          "page": 24
+        },
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "front": "Was bedeutet „Haftungsschirm“ der juristischen Person?",
+      "back": "Den Gläubigern haftet nur das Vermögen der juristischen Person; Mitglieder haften grundsätzlich nicht mit ihrem Privatvermögen.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "front": "Wie handelt eine juristische Person?",
+      "back": "Durch ihre Organe (natürliche Personen), deren Verhalten ihr selbst zugerechnet wird. AG: Vorstand (Handeln), Hauptversammlung (Willensbildung), Aufsichtsrat (Kontrolle).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        },
+        {
+          "doc": "BGB_8",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "front": "APR juristischer Personen?",
+      "back": "Begrenzt: soweit sie als Zweckschöpfung des Rechts des Schutzes bedürfen, v.a. im sozialen Geltungsanspruch als Arbeitgeber oder Wirtschaftsunternehmen (BGHZ 98, 94).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "front": "Idealverein vs. wirtschaftlicher Verein?",
+      "back": "Idealverein (§ 21): Hauptzweck nicht wirtschaftlicher Geschäftsbetrieb → Rechtsfähigkeit durch Eintragung ins Vereinsregister. Wirtschaftlicher Verein (§ 22): Konzessionszwang – staatliche Verleihung nach Alternativität und Subsidiarität.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "front": "Nicht eingetragener Verein seit 1.1.2024?",
+      "back": "§ 54 Abs. 1 S. 1: Idealverein → §§ 24–53 entsprechend; wirtschaftlicher Zweck → Gesellschaftsrecht (§§ 54 Abs. 1 S. 2, 705 Abs. 2). „Rechtsfähigkeit ohne Rechtspersönlichkeit“; Grundbuchfähigkeit weiter zweifelhaft.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "front": "Rechtsfähige Stiftung – Begriff und Entstehung?",
+      "back": "Mit eigenem Vermögen ausgestattete Einrichtung zur dauerhaften Verfolgung eines Stifterzwecks, kein Personenverband. Entsteht durch Stiftungsgeschäft (unter Lebenden schriftlich, widerruflich; oder von Todes wegen) und staatliche Mitwirkung (Skript: Genehmigung, § 80).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 31
+        },
+        {
+          "doc": "BGB_8",
+          "page": 32
+        }
+      ]
+    }
+  ]
+}

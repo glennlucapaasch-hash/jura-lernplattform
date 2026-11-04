@@ -17,6 +17,9 @@
   - KE 6, S. 22 vs. S. 20/§ 123 II: „grob fahrlässige Unkenntnis“ statt „kennen musste“
   - KE 6, S. 25: Maler-Beispiel als „Inhaltsirrtum § 119 Abs. 2“ bezeichnet (eigentlich Eigenschaftsirrtum)
   - KE 6, S. 35–36: Rechenfehler im Fall BGH NJW 1981, 1551 (11 × 72.000 € = 792.000 €)
+  - KE 5, S. 59: ProstG-Aussage zum „Geliebtentestament“ steht in Spannung zur zitierten BGH-Rechtsprechung
+  - KE 5, S. 45: zitierter Wortlaut von § 16 Abs. 2 UWG fehlt im Skript
+  - KE 6, S. 48: fristlose Kündigung „nichtig wegen Verstoßes gegen § 573c“ (so das Skript)
 - [ ] Gesetzestext BGB als eigenes Dokument hochladen (z. B. von gesetze-im-internet.de). Dann kann die Quellenprüfung auch Normen gegen den Gesetzestext abgleichen.
 
 ## Technik

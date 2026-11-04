@@ -1,0 +1,80 @@
+{
+  "id": "exam-bgb-minderjaehrige-1",
+  "moduleId": "55101",
+  "topicIds": [
+    "bgb-ke5-s10",
+    "bgb-ke5-s11"
+  ],
+  "title": "Das E-Bike auf Raten – beschränkte Geschäftsfähigkeit und Abstraktionsprinzip",
+  "difficulty": 2,
+  "durationMin": 60,
+  "facts": "Die 16-jährige T sieht am 1. März im Geschäft des Fahrradhändlers V ein gebrauchtes E-Bike für 600 €. Ohne ihre Eltern zu fragen, schließt sie mit V einen Kaufvertrag. Sie zahlt sofort 400 €, die sie über Monate von ihrem Taschengeld gespart hat; das Taschengeld überlassen ihr die Eltern zur freien Verfügung. Die restlichen 200 € soll T in zwei Raten zu je 100 € am 1. April und am 1. Mai zahlen. V, der T für zuverlässig hält, übergibt ihr das E-Bike sofort; beide sind sich einig, dass T sogleich Eigentümerin werden soll. Ein Eigentumsvorbehalt wird nicht vereinbart.\n\nAm Abend beichtet T ihren Eltern den Kauf. Nach einigem Zögern sagen beide Eltern zu T: „Na gut, wir sind einverstanden.“ V kommen inzwischen Bedenken. Er schreibt am 10. März an die Eltern, T habe bei ihm ein E-Bike auf Raten gekauft; er bitte um Mitteilung, ob sie den Vertrag genehmigen. Der Brief geht den Eltern am 11. März zu. Die Eltern antworten nicht, weil sie meinen, mit ihrer Erklärung gegenüber T sei alles geregelt.\n\nEnde März verliert T die Lust am Radfahren und zahlt die am 1. April fällige Rate nicht. Am 5. April verlangt V von T die Zahlung der restlichen 200 €. Hilfsweise, so V, wolle er wenigstens das E-Bike zurückhaben, denn es sei ja „noch sein Rad“.",
+  "question": "1. Kann V von T Zahlung der restlichen 200 € verlangen?\n2. Wer ist Eigentümer des E-Bikes, und kann V von T die Herausgabe bzw. Rückübereignung des Rades verlangen?",
+  "solution": "## Frage 1: Anspruch des V gegen T auf Zahlung von 200 €\n\n### A. Anspruch aus § 433 Abs. 2 BGB\n\nV könnte gegen T einen Anspruch auf Zahlung der restlichen 200 € aus § 433 Abs. 2 BGB haben. Dazu müsste zwischen V und T ein wirksamer Kaufvertrag über das E-Bike bestehen.\n\n**I. Einigung**\n\nV und T haben sich am 1. März über den Kauf des E-Bikes zum Preis von 600 € mit Ratenzahlungsabrede geeinigt (§§ 145 ff. BGB).\n\n**II. Wirksamkeit der Willenserklärung der T**\n\n**1. Beschränkte Geschäftsfähigkeit**\n\nT ist 16 Jahre alt. Wer das 7., aber nicht das 18. Lebensjahr vollendet hat, ist beschränkt geschäftsfähig (§§ 2, 106 BGB). T ist danach beschränkt geschäftsfähig.\n\n**2. Lediglich rechtlicher Vorteil (§ 107 BGB)**\n\nIhre Willenserklärung bedarf der Einwilligung der gesetzlichen Vertreter, wenn T durch sie nicht lediglich einen rechtlichen Vorteil erlangt. Lediglich rechtlich vorteilhaft sind nur Geschäfte, die die Rechtsstellung des Minderjährigen ausschließlich verbessern; schon jede Haupt- oder Nebenpflicht ist ein Nachteil. Maßgeblich ist die rechtliche, nicht die wirtschaftliche Betrachtung (Skript S. 22). Durch den Kaufvertrag erwirbt T zwar den Anspruch auf Übergabe und Übereignung (§ 433 Abs. 1 S. 1 BGB), sie wird aber zugleich zur Kaufpreiszahlung verpflichtet (§ 433 Abs. 2 BGB). Der Vertrag ist daher nicht lediglich rechtlich vorteilhaft. Ob der Preis günstig war, ist unerheblich.\n\n**3. Einwilligung (§§ 107, 183 S. 1 BGB)**\n\nEine Einwilligung ist die vorherige Zustimmung. Die Eltern, die T gemeinsam vertreten (§§ 1626, 1629 Abs. 1 BGB), wussten vor Vertragsschluss nichts von dem Kauf; eine ausdrückliche oder konkludente Einwilligung in dieses Geschäft liegt nicht vor.\n\n**4. Wirksamkeit nach § 110 BGB**\n\nDer Vertrag könnte jedoch nach § 110 BGB von Anfang an wirksam sein. Danach gilt ein ohne Zustimmung geschlossener Vertrag als wirksam, wenn der Minderjährige die vertragsmäßige Leistung mit Mitteln bewirkt, die ihm zu diesem Zweck oder zur freien Verfügung überlassen worden sind. Nach h.M. liegt darin ein Fall der konkludent durch Mittelüberlassung erklärten Einwilligung (Skript S. 29).\n\n- a) Das Taschengeld wurde T zur freien Verfügung überlassen; auch angespartes Taschengeld stammt aus diesen Mitteln.\n- b) T müsste die Leistung aber **bewirkt**, also den Vertrag i.S.d. § 362 BGB **vollständig erfüllt** haben (Skript S. 29). T hat erst 400 € von 600 € gezahlt. Bei einem Teilzahlungsgeschäft sind Leistung und Gegenleistung nicht teilbar; eine Teilerfüllung – und damit eine Teilwirksamkeit in Höhe von 400 € – scheidet aus (vgl. Notebook-Beispiel S. 29 und Lösung zu Aufgabe 2, S. 72).\n- c) § 110 BGB greift daher (jedenfalls derzeit) nicht ein.\n\n**5. Zwischenergebnis**\n\nDie Willenserklärung der T und damit der Kaufvertrag sind schwebend unwirksam (§ 108 Abs. 1 BGB).\n\n**III. Auflösung des Schwebezustands**\n\n**1. Genehmigung gegenüber T**\n\nDie Eltern haben am Abend des 1. März gegenüber T erklärt, sie seien einverstanden. Darin liegt eine Genehmigung, also eine nachträgliche Zustimmung (§ 184 Abs. 1 BGB). Sie kann sowohl dem Minderjährigen als auch dem Geschäftsgegner gegenüber erklärt werden (§ 182 Abs. 1 BGB) und ist formfrei (§ 182 Abs. 2 BGB). Für sich genommen hätte sie den Vertrag rückwirkend wirksam werden lassen.\n\n**2. Unwirksamwerden durch die Aufforderung (§ 108 Abs. 2 S. 1 Hs. 2 BGB)**\n\nV hat die Eltern mit Schreiben vom 10. März, zugegangen am 11. März, zur Erklärung über die Genehmigung aufgefordert. Die Aufforderung ist nach h.M. eine empfangsbedürftige, formfreie Willenserklärung (Skript S. 27). Sie hat zur Folge, dass eine vor der Aufforderung **dem Minderjährigen gegenüber** erklärte Genehmigung **unwirksam** wird und die Erklärung nur noch gegenüber dem Vertragspartner erfolgen kann. Die gegenüber T erklärte Genehmigung ist danach unwirksam geworden; der Vertrag ist wieder schwebend unwirksam. Dass die Eltern glaubten, mit ihrer Erklärung gegenüber T sei alles erledigt, ist unerheblich – die Rechtsfolge tritt kraft Gesetzes ein.\n\n**3. Fiktion der Verweigerung (§ 108 Abs. 2 S. 2 BGB)**\n\nDie Genehmigung kann nur bis zum Ablauf von zwei Wochen nach Empfang der Aufforderung gegenüber V erklärt werden; andernfalls gilt sie als verweigert. Die Frist begann mit dem Zugang am 11. März und endete mit Ablauf des 25. März. Die Eltern haben gegenüber V nichts erklärt. Die Genehmigung gilt daher als verweigert; der Vertrag ist **endgültig unwirksam**.\n\n**4. Keine nachträgliche Wirksamkeit nach § 110 BGB**\n\nDa T die Raten nicht gezahlt hat, ist auch keine nachträgliche Wirksamkeit nach § 110 BGB eingetreten. (Ob nach endgültiger Unwirksamkeit überhaupt noch ein „Bewirken“ möglich wäre, kann daher offenbleiben.)\n\n**IV. Ergebnis zu A.**\n\nEin wirksamer Kaufvertrag besteht nicht. V hat gegen T keinen Anspruch auf Zahlung der restlichen 200 € aus § 433 Abs. 2 BGB.\n\n### B. Ergebnis zu Frage 1\n\nV kann von T nicht die Zahlung von 200 € verlangen.\n\n## Frage 2: Eigentum am E-Bike und Ansprüche des V\n\n### A. Eigentumslage\n\nUrsprünglich war V Eigentümer des E-Bikes. Er könnte das Eigentum durch Übereignung an T nach § 929 S. 1 BGB verloren haben. Dazu bedarf es einer wirksamen Einigung über den Eigentumsübergang und der Übergabe.\n\n**I. Einigung**\n\nV und T waren sich einig, dass T sofort Eigentümerin werden soll; ein Eigentumsvorbehalt wurde nicht vereinbart. Die Einigung ist ein dinglicher Vertrag, dessen Wirksamkeit **selbständig** zu prüfen ist (Trennungsprinzip). Die Einigungserklärung der beschränkt geschäftsfähigen T bedurfte nach § 107 BGB keiner Einwilligung, wenn sie T lediglich einen rechtlichen Vorteil bringt. Durch die Einigung erwirbt T das Eigentum, ohne dass sie hierdurch eine Verpflichtung trifft. Die Kaufpreispflicht folgt allein aus dem – gesondert zu beurteilenden – Kaufvertrag. Nach dem **Abstraktionsprinzip** hängt die Wirksamkeit der Verfügung weder vom Bestehen noch von der Wirksamkeit des Verpflichtungsgeschäfts ab (Skript S. 10, 23). Auch eine spätere Herausgabepflicht aus § 812 BGB macht den Erwerb nicht nachteilig (S. 22–23). Die Einigung ist daher wirksam.\n\n**II. Übergabe**\n\nV hat T das E-Bike ausgehändigt und ihr damit den unmittelbaren Besitz verschafft; eine Übergabe liegt vor. V war als Eigentümer zur Verfügung berechtigt.\n\n**III. Zwischenergebnis**\n\nT ist nach § 929 S. 1 BGB Eigentümerin des E-Bikes geworden. Die Behauptung des V, es sei „noch sein Rad“, trifft nicht zu.\n\n### B. Anspruch des V aus § 985 BGB\n\nEin Herausgabeanspruch aus § 985 BGB setzt voraus, dass V Eigentümer ist. Das ist nach A. nicht der Fall. Der Anspruch scheidet aus.\n\n### C. Anspruch des V aus § 812 Abs. 1 S. 1 Var. 1 BGB\n\nV könnte gegen T einen Anspruch auf Rückübereignung und Rückgabe des E-Bikes aus § 812 Abs. 1 S. 1 Var. 1 BGB haben. Dann müsste T durch Leistung des V etwas ohne rechtlichen Grund erlangt haben.\n\n1. **Etwas erlangt:** jeder vermögenswerte Vorteil. T hat Eigentum und Besitz am E-Bike erlangt.\n2. **Durch Leistung:** Leistung ist jede bewusste und zweckgerichtete Mehrung fremden Vermögens (Skript S. 72). V hat das Rad übereignet und übergeben, um seine vermeintliche Pflicht aus dem Kaufvertrag zu erfüllen.\n3. **Ohne rechtlichen Grund:** Der Kaufvertrag ist endgültig unwirksam (Frage 1); ein Rechtsgrund fehlt.\n4. **Minderjährigenschutz:** Dass gegen T ein Bereicherungsanspruch entsteht, steht dem Minderjährigenschutz nicht entgegen; gesetzliche Ansprüche aus §§ 812 ff. bleiben bei § 107 außer Betracht (Skript S. 22). Gerade das Bereicherungsrecht gleicht die Folgen des Abstraktionsprinzips aus (S. 10–11).\n\nV kann von T daher Rückübereignung und Rückgabe des E-Bikes nach § 812 Abs. 1 S. 1 Var. 1 BGB verlangen.\n\n### D. Hinweis: Gegenanspruch der T\n\nUmgekehrt erfolgte auch die Zahlung der 400 € durch T ohne Rechtsgrund. T kann von V die Rückzahlung verlangen (vgl. das Fernseher-Beispiel, Skript S. 25: wechselseitige Ansprüche aus § 812 Abs. 1 S. 1 Var. 1 BGB).\n\n### E. Ergebnis zu Frage 2\n\nT ist Eigentümerin des E-Bikes. V hat keinen Herausgabeanspruch aus § 985 BGB, kann aber aus § 812 Abs. 1 S. 1 Var. 1 BGB Rückübereignung und Rückgabe verlangen; T kann ihrerseits die 400 € zurückfordern.",
+  "rubric": [
+    "Anspruchsgrundlage § 433 Abs. 2 BGB; Obersatz im Konjunktiv",
+    "Beschränkte Geschäftsfähigkeit der T (§§ 2, 106) und Kaufvertrag nicht lediglich rechtlich vorteilhaft (§ 107; rechtliche statt wirtschaftliche Betrachtung)",
+    "Keine Einwilligung; § 110 geprüft und mangels vollständiger Erfüllung (Ratenkauf, keine Teilwirksamkeit) abgelehnt",
+    "Genehmigung der Eltern gegenüber T erkannt (§§ 182 Abs. 1, 184 Abs. 1)",
+    "Aufforderung des V: Unwirksamwerden der gegenüber T erklärten Genehmigung (§ 108 Abs. 2 S. 1 Hs. 2)",
+    "Zwei-Wochen-Frist abgelaufen → Genehmigung gilt als verweigert (§ 108 Abs. 2 S. 2); Vertrag endgültig unwirksam",
+    "Übereignung nach § 929 S. 1 selbständig geprüft: Einigung lediglich rechtlich vorteilhaft, Trennungs- und Abstraktionsprinzip → T Eigentümerin",
+    "§ 985 mangels Eigentums des V abgelehnt",
+    "§ 812 Abs. 1 S. 1 Var. 1: etwas erlangt, durch Leistung, ohne Rechtsgrund → Rückübereignung und Rückgabe",
+    "Hinweis auf Rückzahlungsanspruch der T (400 €) und sauberer Gutachtenstil mit Ergebnissen zu beiden Fragen"
+  ],
+  "src": [
+    {
+      "doc": "BGB_5",
+      "page": 9
+    },
+    {
+      "doc": "BGB_5",
+      "page": 10
+    },
+    {
+      "doc": "BGB_5",
+      "page": 11
+    },
+    {
+      "doc": "BGB_5",
+      "page": 17
+    },
+    {
+      "doc": "BGB_5",
+      "page": 18
+    },
+    {
+      "doc": "BGB_5",
+      "page": 22
+    },
+    {
+      "doc": "BGB_5",
+      "page": 23
+    },
+    {
+      "doc": "BGB_5",
+      "page": 25
+    },
+    {
+      "doc": "BGB_5",
+      "page": 27
+    },
+    {
+      "doc": "BGB_5",
+      "page": 29
+    },
+    {
+      "doc": "BGB_5",
+      "page": 70
+    },
+    {
+      "doc": "BGB_5",
+      "page": 71
+    },
+    {
+      "doc": "BGB_5",
+      "page": 72
+    }
+  ]
+}
