@@ -1,0 +1,1283 @@
+{
+  "id": "bgb-ke4-auslegung",
+  "moduleId": "55101",
+  "ke": 4,
+  "topicIds": [
+    "bgb-ke4-s9"
+  ],
+  "title": "Die Auslegung von Willenserklärungen, Verträgen und AGB",
+  "estMinutes": 90,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Überblick: Begriff der Auslegung und die §§ 133, 157 BGB",
+      "short": "Auslegung bedeutet, den Sinn einer Erklärung zu ermitteln. Das BGB enthält dazu nur §§ 133 und 157: § 133 stellt auf den wirklichen (empirischen) Willen ab (subjektiver Maßstab), § 157 auf Treu und Glauben mit Rücksicht auf die Verkehrssitte (objektiver Maßstab). Nach h.M. gelten beide für Willenserklärungen und Verträge gleichermaßen; daneben gibt es subsidiäre Auslegungsregeln, die nur „im Zweifel“ greifen.",
+      "long": "## Begriff (S. 27)\n\n**Auslegung** heißt, den **Sinn zu ermitteln**, der einer Erklärung zukommt. Auch Gesetze werden ausgelegt (Methodenlehre, Kurs 55100); hier geht es ausschließlich um **Willenserklärungen und Verträge**.\n\n## Gesetzliche Grundlagen (S. 27–28)\n\n- Das BGB enthält nur **zwei allgemeine Auslegungsvorschriften**:\n  - **§ 133:** Bei der Auslegung einer Willenserklärung ist der **wirkliche Wille** zu erforschen und nicht am buchstäblichen Sinn des Ausdrucks zu haften → **subjektiver** Maßstab (empirischer Parteiwille).\n  - **§ 157:** Verträge sind so auszulegen, wie **Treu und Glauben mit Rücksicht auf die Verkehrssitte** es erfordern → **objektiver** Maßstab (vernünftiges, sachgerechtes Ziel).\n- **Subsidiäre Auslegungsregeln** finden sich z.B. in § 154 Abs. 1, § 328 Abs. 2, § 364 Abs. 2 und §§ 2066 ff. (Testamente). Sie greifen nur **„im Zweifel“**, also wenn die Erklärung der Beteiligten nicht entgegensteht oder keine Erklärung abgegeben wurde.\n- Nach **h.M.** unterscheiden sich §§ 133, 157 **nicht** danach, dass § 133 nur für einseitige Rechtsgeschäfte und § 157 nur für Verträge gälte. Treu und Glauben gilt im gesamten Privatrecht; der **BGH wendet beide Vorschriften zusammen** an (BGHZ 47, 75, 78; BGH NJW 1984, 721).\n- Die §§ 133, 157 treffen **keine klare Entscheidung über Auslegungsmethoden**. FLUME hält ihre Bedeutung als Rechtssätze für gering: Ohne sie würde man ebenso auslegen (S. 28).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        },
+        {
+          "doc": "BGB_4",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Das methodische Grundproblem: Willens-, Empfänger- und Erklärungstheorie",
+      "short": "Im Streitfall kollidieren das Interesse des Erklärenden (Bindung an seinen Rechtsfolgewillen) und das des Empfängers (Bindung nur an das, was er dem Erklärungstatbestand entnehmen konnte). Reine Willenstheorie und reine Empfängertheorie lasten das Irrtumsrisiko einseitig einer Partei auf; die Erklärungstheorie betont zu stark das Objektive. Aus §§ 116, 119, 122 folgt ein Erklärungsrisiko des Erklärenden: Darf der Empfänger bei gebotener Sorgfalt auf den Erklärungstatbestand vertrauen, geht sein Schutz vor.",
+      "long": "## Interessenkonflikt (S. 28)\n\n- Der **Erklärende** fühlt sich an seinen gebildeten **Rechtsfolgewillen** gebunden, der sich im Erklärungstatbestand aber ggf. nicht hinreichend niedergeschlagen hat.\n- Der **Empfänger** will nur nach Maßgabe dessen gebunden sein, was er im Vertrauen auf den **ihm zugänglichen Erklärungstatbestand** zur Kenntnis genommen hat.\n\n## Theorien (S. 28–29)\n\n| Theorie | Maßgeblich ist … | Kritik |\n|---|---|---|\n| **Reine Willenstheorie** | was der Erklärende bezwecken wollte | Empfänger trägt Irrtumsrisiko allein |\n| **Reine Empfängertheorie** | wie der Empfänger die Erklärung tatsächlich verstanden hat | Erklärender trägt Risiko allein |\n| **Erklärungstheorie** | was ein unbefangener Dritter bei objektiver Betrachtung unter Berücksichtigung der Umstände entnehmen darf | betont zu stark das Objektive, zu wenig den Willen |\n\nKeine dieser Theorien findet im BGB eine Stütze. Den §§ 133, 157 ist nur zu entnehmen, dass (1) der **wirkliche Wille** zu erforschen ist, (2) **Treu und Glauben** und (3) die **Verkehrssitte** zu berücksichtigen sind (S. 29).\n\n## Erklärungsrisiko (S. 29)\n\n- **§ 116:** Wer ohne Rechtsfolgewillen (geheimer Vorbehalt) erklärt, bleibt gebunden – das Vertrauen des Empfängers verdient Schutz.\n- **§ 119:** Wer irrtümlich eine für den Empfänger eindeutige Erklärung abgibt, ist gebunden; er kann anfechten, muss aber nach **§ 122** den Vertrauensschaden ersetzen.\n- Da die Abweichung von Wille und Erklärung in der **Sphäre des Erklärenden** entsteht, gilt: Darf der Empfänger nach den Umständen bei **gebotener Sorgfalt** auf den Erklärungstatbestand vertrauen, hat sein Schutz **Vorrang vor dem „Erfolgsinteresse“** des Erklärenden.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 28
+        },
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Auslegung empfangsbedürftiger Willenserklärungen: Empfängerhorizont und falsa demonstratio",
+      "short": "Bei empfangsbedürftigen Willenserklärungen kommt es nach h.M. nicht auf den unerklärt gebliebenen inneren Willen an, sondern darauf, wie der Empfänger die Erklärung bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glauben verstehen musste (objektiver Empfängerhorizont, normative Auslegung). Diese Auslegung beginnt aber erst, wenn Wille und Verständnis auseinanderfallen: Haben beide Seiten dasselbe gemeint, gilt das übereinstimmend Gewollte – auch bei falscher Bezeichnung (falsa demonstratio non nocet).",
+      "long": "## Objektiver Empfängerhorizont (S. 29–30)\n\n- Nach **h.M.** ist bei empfangsbedürftigen Willenserklärungen nicht der **innere, unerklärt gebliebene Wille** maßgeblich, sondern der **erklärte Wille** – das, was für den Adressaten als Wille erkennbar geworden ist.\n- Die Erklärung gilt so, wie der Empfänger sie nach **Treu und Glauben und der Verkehrsanschauung** – der natürlichen Betrachtungsweise eines **verständigen, unvoreingenommenen Beurteilers** – gemäß §§ 133, 157 verstehen musste.\n- **BGH-Formel** (BGHZ 47, 75, 78; BGH NJW 1984, 721): Es kommt darauf an, „wie der Empfänger der empfangsbedürftigen Willenserklärung dies bei **objektiver Würdigung aller Umstände** und mit Rücksicht auf **Treu und Glauben** zu verstehen hatte“.\n- Diese Auslegung wird auch als **normative** Auslegung bezeichnet. FLUME verlangt zusätzlich, dass der so ermittelte Sinn dem Erklärenden **zurechenbar** ist; das spielt jedenfalls bei Erklärungen **ohne Erklärungsbewusstsein** eine Rolle (S. 30).\n\n## Vorrang des übereinstimmenden Willens (S. 30)\n\n- Für die normative Auslegung ist **nur Raum, wenn Wille des Erklärenden und Verständnis des Empfängers auseinanderklaffen**.\n- Stimmen sie überein, bestimmt **allein der Wille** den Inhalt des Rechtsgeschäfts – selbst wenn die Erklärung objektiv mehrdeutig ist oder etwas anderes bedeutet. Der wirkliche, übereinstimmend verstandene Wille geht **Wortlaut und jeder anderen Interpretation** vor (BGHZ 71, 75, 77 f.; BGH NJW 1984, 721), weil die Willenserklärung ihre Geltung aus dem Parteiwillen ableitet.\n- Die Rechtsordnung schreibt den Parteien keine Ausdrucksweise vor: **falsa demonstratio non nocet**.\n\n**Beispiel Haakjöringsköd (nach RGZ 99, 147; S. 31):** F verkauft B „Haakjöringsköd“. Beide meinen **Walfischfleisch**; das norwegische Wort bedeutet aber **Haifischfleisch**. Vertragsgegenstand ist Walfischfleisch. Liefert F Haifischfleisch, hat er nicht erfüllt.\n\n## Fall Reifen (Selbsttestaufgabe 1; S. 31, Lösung S. 41–42)\n\nT bestellt bei R schriftlich 100 Reifen der Marke X zu 87,50 €/Stück. R meint, T habe Marke Y bestellt, und schreibt: „Ich bestätige den Eingang Ihres Schreibens … und werde die von Ihnen bestellten Reifen umgehend an Sie absenden.“\n\n- *Reine Willenstheorie:* R wollte Y annehmen → kein Vertrag über X.\n- *Reine Empfängertheorie:* T verstand Annahme seines X-Angebots → Vertrag über X.\n- *Maßgeblich (h.M./BGH):* objektiver Empfängerhorizont. T hatte X bestellt und durfte die Formulierung „die von Ihnen bestellten Reifen“ auf X beziehen; Gegenteiliges hätte R zum Ausdruck bringen müssen. → **Annahme; Kaufvertrag über 100 Reifen der Marke X.** (Ob R anfechten kann, behandelt die Skript-Lösung nicht.)",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        },
+        {
+          "doc": "BGB_4",
+          "page": 30
+        },
+        {
+          "doc": "BGB_4",
+          "page": 31
+        },
+        {
+          "doc": "BGB_4",
+          "page": 41
+        },
+        {
+          "doc": "BGB_4",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Erläuternde Vertragsauslegung und Verkehrssitte",
+      "short": "Ist ein Begriff im Vertrag unklar, wird der Vertrag erläuternd ausgelegt; Ziel ist die Ermittlung des Vertragsinhalts, ohne dem übereinstimmend erklärten Willen zu widersprechen, unter Berücksichtigung von Zweck und Interessenlage. Wichtiger Maßstab ist die Verkehrssitte (§ 157) – unter Kaufleuten der Handelsbrauch (§ 346 HGB). Sie gilt, wenn beide demselben Verkehrskreis angehören, auch ohne Unterwerfung oder Kenntnis.",
+      "long": "## Überblick (S. 31)\n\n- **Erläuternde Vertragsauslegung:** Ein Begriff oder eine Formulierung ist unklar, über ihre Bedeutung wird gestritten.\n- **Ergänzende Vertragsauslegung:** Die Parteien haben versehentlich regelungsbedürftige Fragen offengelassen (Lücke) – dazu s5.\n\n## Erläuternde Auslegung (S. 31)\n\nZiel ist stets die **Ermittlung des Vertragsinhalts**. Die Auslegung darf dem **übereinstimmend zum Ausdruck gebrachten Erklärungswillen** nicht widersprechen; zu berücksichtigen sind insbesondere der **verfolgte Zweck** und die **Interessenlage** der Beteiligten.\n\n## Verkehrssitte (S. 32–33)\n\n- **Def.:** das, was sich im Handelsverkehr oder bürgerlichen Rechtsleben als **allgemeine oder in bestimmten Kreisen bestehende tatsächliche Gepflogenheit** herausgebildet hat; eine aus **tatsächlicher Übung** bei ähnlichen Geschäften abgeleitete Verhaltensregel.\n- Unter **Kaufleuten**: **Handelsbrauch** i.S.d. **§ 346 HGB** (kaufmännische Verkehrssitte).\n- Bedeutung nur, wenn sie für **beide Vertragsteile** gilt; gehören beide demselben Verkehrskreis an, ist im Zweifel anzunehmen, dass sie ihre Erklärungen entsprechend verstehen.\n- Gehören sie **verschiedenen Verkehrskreisen** an, ist (str.) auf die Verkehrssitte **am Ort des Erklärenden** abzustellen – jedenfalls, wenn der Empfänger vernünftigerweise mit ihr rechnen konnte.\n- Eine **Unterwerfung** ist nicht erforderlich: Maßgeblich ist die Bedeutung eines Verhaltens nach übereinstimmender Auffassung der beteiligten Kreise.\n\n**Beispiel Pfannkuchen (S. 32):** Die Brandenburgerin A bestellt beim Düsseldorfer Rosenmontagsumzug in einer Bäckerei „einen Pfannkuchen“. Nach dem Skript ist ihre Bestellung als Bestellung des runden Süßgebäcks „Berliner“ auszulegen, wie es in Düsseldorf genannt und zu Karneval massenhaft verkauft wird.\n\n> *Hinweis:* Das Skript stellt bei verschiedenen Verkehrskreisen auf den „Ort des Erklärenden“ ab; im Beispiel befindet sich die Erklärende in Düsseldorf, stammt aber aus Brandenburg. Die Begründung des Ergebnisses bleibt im Skript knapp – in Brandenburg bezeichnet „Pfannkuchen“ ohnehin das Gebäck, das in Düsseldorf „Berliner“ heißt.\n\n**Fall Zedernholz (nach RGZ 95, 242; S. 32–33):** Die amerikanische Holzhändlerin V und Kaufmann K einigen sich mündlich über alle wesentlichen Punkte einer Lieferung Zedernholz; K beanstandet später Bestimmungen der übersandten Vertragsurkunde. Grundsätzlich genügt die mündliche Einigung. Im Handel mit amerikanischen Hölzern entspricht es aber der **Verkehrssitte**, dass Kaufverträge **schriftlich** geschlossen werden. Diese gilt für K auch, wenn er sie nicht gekannt hätte. **Noch kein Vertrag.**\n\n**Typische Klauseln (S. 33):** „Gekauft **wie besichtigt**“ beim Gebrauchtwagen-/LKW-Kauf bedeutet einen Gewährleistungsausschluss für Mängel, die bei der Besichtigung **wahrnehmbar** waren (vgl. BGH NJW 1978, 261). Beim **Verbrauchsgüterkauf** können die §§ 433 ff. – außer Schadensersatzansprüchen – nicht zum Nachteil des Verbrauchers abbedungen werden (**§ 476 Abs. 1**); zudem gilt § 310 Abs. 3.\n\n## Fall Inzahlungnahme (S. 33–34)\n\nK bestellt mit „Kaufantrag“ bei Händler V einen Neuwagen für 39.000 €; in den „Zahlungsbedingungen“ steht, der Gebrauchtwagen der K werde mit 9.000 € in Zahlung genommen. K verkauft den Gebrauchtwagen danach für 10.500 € an F. V verlangt 30.000 € und den Gebrauchtwagen.\n\n- Kauf (§ 433) oder Tausch (§ 480) mit Zuzahlung? → **Auslegung.**\n- **Wortlaut** („Kaufantrag“, „Zahlungsbedingungen“) spricht für Kauf.\n- **Interessenlage:** Der Händler will gegen **Geld** verkaufen; die Hereinnahme des Altwagens ist bloßes Entgegenkommen.\n- Ergebnis: **einheitlicher Kaufvertrag** über 39.000 €; K hat eine **Ersetzungsbefugnis (facultas alternativa)**: Sie darf, muss aber nicht, einen Teil der Geldschuld durch Hingabe des Altwagens **an Erfüllungs statt** (§ 364) tilgen. V hat Anspruch auf **39.000 €** aus § 433 Abs. 2, aber **keinen** Anspruch auf den Gebrauchtwagen.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 31
+        },
+        {
+          "doc": "BGB_4",
+          "page": 32
+        },
+        {
+          "doc": "BGB_4",
+          "page": 33
+        },
+        {
+          "doc": "BGB_4",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Ergänzende Vertragsauslegung: Lücke und hypothetischer Parteiwille",
+      "short": "Die ergänzende Vertragsauslegung schließt eine planwidrige Regelungslücke nach dem hypothetischen Parteiwillen: Was hätten redliche Parteien mit Blick auf den Vertragszweck sowie Treu und Glauben und die Verkehrssitte vereinbart, wenn sie den offenen Punkt bedacht hätten? Sie muss an den im Vertrag erkennbaren Willen anknüpfen und darf ihn nicht abändern; bewusst offengelassene Punkte sind keine Lücke, und mehrere gleichwertige Gestaltungsmöglichkeiten ohne Anhaltspunkt schließen sie aus.",
+      "long": "## Voraussetzungen (S. 34–35)\n\nFür eine ergänzende Vertragsauslegung ist nur Raum bei\n\n1. einer **ausfüllungsbedürftigen Lücke** und\n2. einer **Lückenausfüllung nach dem hypothetischen Parteiwillen**, die an den **Wortlaut der Erklärungen** anknüpft.\n\n**Lücke:**\n- Die Parteien wollten abschließend regeln, haben aber **unbewusst** regelungsbedürftige Fragen offengelassen.\n- Fehlt eine Regelung, liegt nicht automatisch eine Lücke vor (BGHZ 40, 91, 103): Der Vertrag muss „innerhalb des tatsächlich gegebenen Rahmens oder innerhalb der wirklich gewollten Vereinbarungen … eine **ersichtliche Lücke**“ aufweisen.\n- Die Unvollständigkeit muss auf einer **Planwidrigkeit** beruhen. Haben die Parteien eine Frage erkannt und **bewusst** nicht geregelt, ist diese Entscheidung nach der Privatautonomie zu respektieren.\n- Im Zweifel wollen Parteien, die nichts Abweichendes regeln, die **gesetzlichen Vorschriften** (S. 35).\n- Ausnahmsweise kann sich sogar eine **Anspruchsgrundlage** im Wege ergänzender Auslegung ergeben, wenn eine Lücke besteht, keine gesetzliche Anspruchsgrundlage existiert und ein hypothetischer Parteiwille erkennbar ist.\n\n## Grenzen (S. 35–36)\n\n- Ergänzt wird nur der **Vertragsinhalt, nicht der Vertragswille** (BGHZ 9, 273, 278); keine Abänderung, Einschränkung oder Erweiterung entgegen dem erklärten Parteiwillen.\n- Zu ermitteln ist, „was die Parteien … in Anbetracht des gesamten Vertragszwecks erklärt haben würden, wenn sie den offengebliebenen Punkt … ebenfalls geregelt hätten und hierbei zugleich die Gebote von Treu und Glauben und der Verkehrssitte beachtet hätten“ (BGHZ 16, 71, 76).\n- Ausgeschlossen, wenn **mehrere Gestaltungsmöglichkeiten** in Betracht kommen, aber **kein Anhaltspunkt** besteht, welche die Parteien gewählt hätten (BGHZ 93, 358, 370 f.).\n\n## Fall Kiosk (in Anlehnung an RGZ 119, 353; S. 36–37)\n\nV vermietet M ein Ladenlokal für einen Buch- und Zeitungsladen. Unter der Überschrift „Wettbewerb“ verpflichtet sich V, kein weiteres Ladenlokal **„in“ dem Haus** an einen Buch- und Zeitungshändler zu vermieten und dort selbst nicht damit zu handeln. Später errichtet V auf dem **Vorplatz** seines Grundstücks einen Kiosk und vermietet ihn an D, der Zeitungen, Zeitschriften und Taschenbücher verkauft.\n\n- **Lücke:** V und M wollten den Wettbewerb abschließend regeln; den Vorplatz haben sie **versehentlich** nicht erfasst.\n- **Anknüpfung am Wortlaut:** Die Frage des Wettbewerbs ist ausführlich geregelt.\n- **Hypothetischer Wille:** V darf M **in räumlicher Nähe, also auf dem Grundstück**, keine Konkurrenz machen.\n- **Ergebnis:** Vertragsverstoß. Mögliche Folgen: **Unterlassung**, u.U. **Schadensersatz** (S. 37).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 34
+        },
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        },
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Auslegung von AGB: objektive Auslegung, Unklarheitenregel, ergänzende Auslegung nach § 306 Abs. 2",
+      "short": "AGB werden nach §§ 133, 157 ausgelegt, wegen ihres Massencharakters aber objektiv – unabhängig vom Einzelfall – danach, wie verständige und redliche Vertragspartner der normalerweise beteiligten Kreise („Durchschnittskunden“) sie verstehen. Zweifel gehen nach § 305c Abs. 2 zu Lasten des Verwenders. Lücken (auch durch unwirksame Klauseln) können nach dem BGH durch ergänzende Vertragsauslegung geschlossen werden, da §§ 133, 157 „gesetzliche Vorschriften“ i.S.d. § 306 Abs. 2 sind – wenn kein dispositives Recht passt und die ersatzlose Streichung nicht interessengerecht ist.",
+      "long": "## Objektive Auslegung (S. 37)\n\n- Auch AGB sind nach **§§ 133, 157** auszulegen; es kommt einfache und ergänzende Auslegung in Betracht.\n- Da AGB für eine **unbestimmte Vielzahl von Fällen** gelten, wird **nicht** der Wille der Parteien des Einzelgeschäfts erforscht (BGHZ 17, 1, 3).\n- Maßstab (st. Rspr., BGHZ 77, 116, 118 f.; 62, 251, 254): wie die AGB von **verständigen und redlichen Vertragspartnern** unter Abwägung der Interessen der **normalerweise beteiligten Kreise** verstanden werden („**Durchschnittskunden**“).\n\n## Unklarheitenregel (§ 305c Abs. 2; S. 37)\n\nZweifel bei der Auslegung gehen **zu Lasten des Verwenders**. Begründung: Der Kunde hat – anders als beim Individualvertrag – **keinen Einfluss** auf die Ausgestaltung. Es gilt das **für ihn günstigste** Auslegungsergebnis.\n\n## Ergänzende Auslegung von AGB (S. 37–38)\n\n- Weist eine AGB eine Lücke auf, ist Raum für ergänzende Vertragsauslegung. Sie geht der **Störung der Geschäftsgrundlage (§ 313)** vor, weil die Durchführung des Gewollten Vorrang vor einer Korrektur aufgrund Interessenabwägung hat (BGHZ 90, 69, 74).\n- Lücken entstehen auch durch **unwirksame Klauseln**: Nach § 306 Abs. 1 bleibt der Vertrag bestehen; die Lücke ist nach **§ 306 Abs. 2** mit den „gesetzlichen Vorschriften“ zu schließen.\n- Der **BGH** zählt zu diesen „gesetzlichen Vorschriften“ auch **§§ 157, 133** (BGHZ 90, 69, 75 f.; zu § 6 Abs. 2 AGBG a.F.). Voraussetzungen: **keine konkreten gesetzlichen Regelungen** zur Lückenfüllung und die **ersatzlose Streichung** führt nicht zu einer angemessenen, den typischen Interessen beider Seiten gerecht werdenden Lösung.\n- Gegenansicht (Teile der Literatur): nur Normen mit sachlichem Regelungsgehalt, keine „methodischen“ Vorschriften. Der BGH: Der Wortlaut biete für eine solche Beschränkung keinen Anhalt; die ergänzende Auslegung schließe eine lückenhafte Regelung am Maßstab des **objektiv zu ermittelnden hypothetischen Parteiwillens**; Stütze auch in der Entstehungsgeschichte.\n- Das **BVerfG (NJW 2011, 1339)** hat diese Grundsätze nicht beanstandet; der Streit hat sich damit nach dem Skript erübrigt.\n- **Maßstab:** Wie hätten die Parteien nach Treu und Glauben mit Rücksicht auf die Verkehrssitte den Vertrag gestaltet, wenn ihnen die **Unwirksamkeit der Klausel bewusst** gewesen wäre? Der feststellbare **tatsächliche Wille** bleibt zu beachten; die Ergänzung darf **keine unangemessene Benachteiligung** i.S.d. § 307 bewirken.\n\n## Individualabrede und Schriftformklauseln (S. 39)\n\nWiderspricht eine AGB einer wirksamen Individualvereinbarung, gilt nach **§ 305b** die Individualvereinbarung. Das lässt sich auch durch Schriftformklauseln nicht verhindern – weder durch eine **einfache** („Änderungen … nur wirksam, wenn schriftlich vereinbart“) noch durch eine **doppelte/qualifizierte** („… gilt auch für eine Änderung dieser Schriftformklausel“) (BGHZ 164, 133, 136 f.).\n\n## Fall Tagespreisklausel (Selbsttestaufgabe 2; S. 39, Lösung S. 42–43)\n\nK bestellt im November 2022 bei V einen PKW („Listenpreis … zur Zeit 32.650 €“), Lieferung November 2023. AGB Nr. 2: Bei mehr als 4 Monaten zwischen Vertragsschluss und Liefertermin gilt der am Liefertag gültige Listenpreis. V verlangt 34.150 €.\n\n1. **§ 307 Abs. 1 S. 1:** Die Klausel erlaubt **jede beliebige Preiserhöhung** ohne Begrenzung und Nachvollziehbarkeit, auch über Kostensteigerungen hinaus (z.B. höherer Gewinn) → Verstoß gegen das **Äquivalenzprinzip**, unangemessene Benachteiligung, **unwirksam** (vgl. BGHZ 82, 21 zu § 9 AGBG a.F.).\n2. **§ 306 Abs. 1:** Vertrag bleibt wirksam; dispositive Vorschriften, die die Klausel ersetzen könnten, gibt es nicht.\n3. **§ 306 Abs. 2 i.V.m. §§ 133, 157:** ergänzende Vertragsauslegung. Beide Parteien wussten, dass der Preis bei Auslieferung wohl abweicht, und wollten, dass der **Käufer** Kostensteigerungen trägt. Hypothetischer Wille: grundsätzlich **Listenpreis bei Auslieferung**, aber **Rücktrittsrecht** des Käufers, wenn die Erhöhung den Anstieg der allgemeinen Lebenshaltungskosten **nicht unerheblich übersteigt** (vgl. BGH NJW 1984, 1177).\n4. **Ergebnis:** V kann 34.150 € verlangen; die Voraussetzungen des Rücktrittsrechts sind nach der Skript-Lösung nicht erfüllt.\n\n> *Hinweis:* Der Sachverhalt enthält keine Angaben zur Entwicklung der Lebenshaltungskosten; die Skript-Lösung stellt das Nichtvorliegen der Rücktrittsvoraussetzungen ohne nähere Begründung fest.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 38
+        },
+        {
+          "doc": "BGB_4",
+          "page": 39
+        },
+        {
+          "doc": "BGB_4",
+          "page": 42
+        },
+        {
+          "doc": "BGB_4",
+          "page": 43
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Auslegung",
+      "text": "Ermittlung des Sinns, der einer Erklärung (Willenserklärung, Vertrag) zukommt.",
+      "norm": "§§ 133, 157 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "term": "Objektiver Empfängerhorizont (normative Auslegung)",
+      "text": "Eine empfangsbedürftige Willenserklärung gilt so, wie der Empfänger sie bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glauben (und die Verkehrssitte) verstehen musste; der innere, unerklärt gebliebene Wille ist unbeachtlich.",
+      "norm": "§§ 133, 157 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        },
+        {
+          "doc": "BGB_4",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "term": "Falsa demonstratio non nocet",
+      "text": "Stimmt das tatsächliche Verständnis der Parteien überein, ist dieses für den Inhalt des Rechtsgeschäfts maßgeblich, auch wenn es objektiv falsch ausgedrückt ist; die falsche Bezeichnung schadet nicht.",
+      "norm": "§ 133 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        },
+        {
+          "doc": "BGB_4",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "term": "Verkehrssitte",
+      "text": "Das, was sich im Handelsverkehr oder im bürgerlichen Rechtsleben als allgemeine oder in bestimmten Kreisen bestehende tatsächliche Gepflogenheit herausgebildet hat; eine aus tatsächlicher Übung bei ähnlichen Geschäften abgeleitete Verhaltensregel. Unter Kaufleuten: Handelsbrauch (§ 346 HGB).",
+      "norm": "§ 157 BGB, § 346 HGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "term": "Vertragslücke",
+      "text": "Planwidrige Unvollständigkeit einer vertraglichen Regelung innerhalb des tatsächlich gegebenen Rahmens oder der wirklich gewollten Vereinbarungen; keine Lücke liegt vor, wenn die Parteien eine Frage bewusst offengelassen haben.",
+      "norm": "§ 157 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "term": "Ergänzende Vertragsauslegung",
+      "text": "Schließung einer Vertragslücke nach dem hypothetischen Parteiwillen: Zu ermitteln ist, was die Parteien in Anbetracht des gesamten Vertragszwecks unter Beachtung von Treu und Glauben und der Verkehrssitte vereinbart hätten, wenn sie den offengebliebenen Punkt geregelt hätten; anknüpfend an den im Vertrag erkennbaren Willen.",
+      "norm": "§§ 133, 157 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 34
+        },
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "term": "Ersetzungsbefugnis (facultas alternativa)",
+      "text": "Berechtigung (nicht Verpflichtung) des Schuldners, statt der geschuldeten Leistung eine andere Leistung zum Zwecke der Erfüllung zu erbringen, z.B. einen Teil des Kaufpreises durch Hingabe des Gebrauchtwagens an Erfüllungs statt zu tilgen; die Hauptschuld bleibt unberührt.",
+      "norm": "§ 364 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "term": "Objektive Auslegung von AGB",
+      "text": "AGB sind unabhängig vom Einzelfall danach auszulegen, wie sie von verständigen und redlichen Vertragspartnern unter Abwägung der Interessen der normalerweise beteiligten Kreise („Durchschnittskunden“) verstanden werden.",
+      "norm": "§§ 133, 157 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "term": "Unklarheitenregel",
+      "text": "Zweifel bei der Auslegung von AGB gehen zu Lasten des Verwenders; es gilt das für den Kunden günstigste Auslegungsergebnis.",
+      "norm": "§ 305c Abs. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "term": "Doppelte (qualifizierte) Schriftformklausel",
+      "text": "Klausel, nach der Änderungen oder Ergänzungen nur bei schriftlicher Vereinbarung wirksam sind und dies auch für die Änderung der Schriftformklausel selbst gilt; sie kann den Vorrang einer mündlichen Individualvereinbarung (§ 305b) nicht verhindern.",
+      "norm": "§ 305b BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 39
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Auslegung einer empfangsbedürftigen Willenserklärung",
+      "steps": [
+        "1. Auslegungsbedürftigkeit: Ist die Erklärung unklar oder streiten die Parteien über ihren Inhalt?",
+        "2. Natürliche Auslegung (§ 133): Haben Erklärender und Empfänger die Erklärung übereinstimmend im selben Sinn verstanden? → Dann gilt das übereinstimmend Gewollte (falsa demonstratio non nocet); keine weitere Auslegung.",
+        "3. Normative Auslegung (§§ 133, 157): Fallen Wille und Verständnis auseinander, gilt die Erklärung so, wie der Empfänger sie bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glauben verstehen musste (objektiver Empfängerhorizont).",
+        "4. Auslegungsmittel: Wortlaut, Begleitumstände, Zweck und Interessenlage, Verkehrssitte (§ 157; Handelsbrauch § 346 HGB).",
+        "5. Ggf. subsidiäre Auslegungsregeln „im Zweifel“ (z.B. § 154 Abs. 1, § 328 Abs. 2, § 364 Abs. 2).",
+        "6. Folge: Weicht der ermittelte Inhalt vom Willen des Erklärenden ab, ist er gebunden, kann aber ggf. nach § 119 anfechten (Ersatz des Vertrauensschadens nach § 122)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        },
+        {
+          "doc": "BGB_4",
+          "page": 29
+        },
+        {
+          "doc": "BGB_4",
+          "page": 30
+        },
+        {
+          "doc": "BGB_4",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "title": "Ergänzende Vertragsauslegung",
+      "steps": [
+        "1. Vorrang: Gibt es eine (wirksame) vertragliche Regelung oder passendes dispositives Recht? Im Zweifel wollen die Parteien die gesetzliche Ausgestaltung.",
+        "2. Vertragslücke: planwidrige Unvollständigkeit innerhalb des gewollten Regelungsrahmens; nicht bei bewusst offengelassenen Punkten.",
+        "3. Anknüpfung am Wortlaut / am im Vertrag erkennbaren Willen; keine Änderung des Vertragswillens.",
+        "4. Hypothetischer Parteiwille: Was hätten die Parteien mit Blick auf den Vertragszweck sowie Treu und Glauben und die Verkehrssitte vereinbart?",
+        "5. Ausschluss, wenn mehrere Gestaltungsmöglichkeiten ohne Anhaltspunkt für die Wahl der Parteien bestehen.",
+        "6. Bei AGB-Lücken infolge unwirksamer Klauseln: § 306 Abs. 2 i.V.m. §§ 133, 157 (BGH), wenn kein konkretes dispositives Recht passt und die ersatzlose Streichung nicht interessengerecht ist; Ergebnis darf nicht gegen § 307 verstoßen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        },
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 38
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Normen enthält das BGB als allgemeine Vorschriften über die Auslegung von Willenserklärungen und Verträgen?",
+      "options": [
+        "§§ 133 und 157 BGB",
+        "§§ 119 und 122 BGB",
+        "§§ 145 und 150 BGB",
+        "§§ 305 und 306 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das BGB enthält in §§ 133 und 157 nur zwei allgemeine Auslegungsvorschriften. §§ 119, 122 betreffen die Anfechtung, §§ 145, 150 den Vertragsschluss, §§ 305, 306 die AGB.",
+      "hints": [
+        "„Wirklicher Wille“ und „Treu und Glauben“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Subsidiäre Auslegungsregeln wie § 154 Abs. 1 oder § 364 Abs. 2 BGB greifen nur „im Zweifel“, also wenn die Erklärungen der Beteiligten nicht entgegenstehen.",
+      "answer": true,
+      "explanation": "Solche Regeln (auch § 328 Abs. 2, §§ 2066 ff.) gelten nur, wenn die Auslegung der Erklärung nichts anderes ergibt bzw. keine Erklärung abgegeben wurde (S. 27).",
+      "hints": [
+        "Was bedeutet „subsidiär“?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussage zum Verhältnis von § 133 und § 157 BGB entspricht der h.M. nach dem Skript?",
+      "options": [
+        "Beide Vorschriften gelten für Willenserklärungen und Verträge; der BGH wendet sie bei der Auslegung von Willenserklärungen nebeneinander an.",
+        "§ 133 gilt nur für einseitige Rechtsgeschäfte, § 157 nur für Verträge.",
+        "§ 157 verdrängt § 133, sobald ein Vertrag vorliegt.",
+        "§ 133 gilt nur für nicht empfangsbedürftige Willenserklärungen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach h.M. unterscheiden sich die Normen nicht nach einseitigen Rechtsgeschäften und Verträgen. § 133 legt einen subjektiven, § 157 einen objektiven Maßstab zugrunde; Treu und Glauben gilt im gesamten Privatrecht, daher zieht der BGH beide heran.",
+      "hints": [
+        "Subjektiver und objektiver Maßstab ergänzen sich."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        },
+        {
+          "doc": "BGB_4",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Auslegungstheorie ihrem Maßstab zu.",
+      "pairs": [
+        [
+          "Reine Willenstheorie",
+          "Was der Erklärende mit der Erklärung bezwecken wollte"
+        ],
+        [
+          "Reine Empfängertheorie",
+          "Wie der Empfänger die Erklärung tatsächlich verstanden hat"
+        ],
+        [
+          "Erklärungstheorie",
+          "Was ein unbefangener Dritter bei objektiver Betrachtung dem Erklärungstatbestand entnehmen darf"
+        ],
+        [
+          "Objektiver Empfängerhorizont (h.M.)",
+          "Wie der Empfänger die Erklärung bei objektiver Würdigung aller Umstände und nach Treu und Glauben verstehen musste"
+        ]
+      ],
+      "explanation": "Willens- und Empfängertheorie lasten das Irrtumsrisiko einseitig einer Partei auf; die Erklärungstheorie betont zu stark das Objektive (S. 28–29). Die h.M. stellt auf den objektiven Empfängerhorizont ab (S. 29).",
+      "hints": [
+        "Wer trägt jeweils das Risiko von Missverständnissen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 28
+        },
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wie begründet das Skript, dass dem Schutz des Empfängers bei der Auslegung grundsätzlich Vorrang vor dem „Erfolgsinteresse“ des Erklärenden zukommt?",
+      "options": [
+        "Die Abweichung von Wille und Erklärung entsteht in der Sphäre des Erklärenden; §§ 116, 119, 122 zeigen, dass er ein Erklärungsrisiko trägt.",
+        "Der Empfänger ist stets wirtschaftlich schwächer und daher schutzbedürftig.",
+        "§ 157 BGB ordnet ausdrücklich den Vorrang des Empfängerverständnisses an.",
+        "Der Erklärende kann die Erklärung jederzeit nach § 130 Abs. 1 S. 2 BGB widerrufen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Aus § 116 (Bindung trotz geheimen Vorbehalts) und § 119 (Bindung trotz Irrtums, aber Anfechtung mit Ersatz des Vertrauensschadens nach § 122) folgt ein Erklärungsrisiko. Darf der Empfänger bei gebotener Sorgfalt auf den Erklärungstatbestand vertrauen, geht sein Schutz vor (S. 29). § 157 regelt den Vorrang nicht ausdrücklich.",
+      "hints": [
+        "Wer hat den Fehler verursacht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach dem BGH kommt es bei der Auslegung darauf an, wie der Empfänger der empfangsbedürftigen Willenserklärung diese bei {{1}} aller Umstände und mit Rücksicht auf {{2}} zu verstehen hatte.",
+      "blanks": [
+        [
+          "objektiver Würdigung"
+        ],
+        [
+          "Treu und Glauben"
+        ]
+      ],
+      "explanation": "BGH-Formel zum objektiven Empfängerhorizont (BGHZ 47, 75, 78; BGH NJW 1984, 721; S. 29).",
+      "hints": [
+        "Ein objektives und ein normatives Element."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Haben Erklärender und Empfänger eine objektiv mehrdeutige Erklärung übereinstimmend im selben Sinn verstanden, ist gleichwohl der objektive Empfängerhorizont maßgeblich.",
+      "answer": false,
+      "explanation": "Für die normative Auslegung ist nur Raum, wenn Wille und Verständnis auseinanderfallen. Bei übereinstimmendem Verständnis bestimmt allein der wirkliche Wille den Inhalt – auch gegen den Wortlaut (S. 30).",
+      "hints": [
+        "Wann darf die Auslegung nach dem Skript erst beginnen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "F und B schließen einen schriftlichen Kaufvertrag über „Haakjöringsköd“. Beide meinen Walfischfleisch; das Wort bedeutet jedoch Haifischfleisch. F liefert Haifischfleisch. Wie ist die Rechtslage?",
+      "options": [
+        "Vertrag über Walfischfleisch; mit der Lieferung von Haifischfleisch hat F nicht erfüllt.",
+        "Vertrag über Haifischfleisch, weil der Wortlaut der Urkunde maßgeblich ist; F hat erfüllt.",
+        "Kein Vertrag wegen Dissenses über den Kaufgegenstand.",
+        "Vertrag über Haifischfleisch; B kann aber nach § 119 Abs. 1 BGB anfechten."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Falsa demonstratio non nocet (nach RGZ 99, 147): Das übereinstimmend Gewollte geht der falschen Bezeichnung vor. Ein Dissens oder Irrtum über den Vertragsinhalt liegt nicht vor, weil beide dasselbe wollten.",
+      "hints": [
+        "Was wollten beide Parteien?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        },
+        {
+          "doc": "BGB_4",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussagen zur Zurechenbarkeit bei der normativen Auslegung treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "FLUME verlangt, dass der objektiv ermittelte Sinn dem Erklärenden als Sinn seiner Erklärung zurechenbar ist.",
+        "Die Zurechenbarkeit spielt jedenfalls eine Rolle, wenn eine Erklärung ohne Erklärungsbewusstsein abgegeben wurde.",
+        "Nach FLUME ist allein der innere Wille des Erklärenden maßgeblich.",
+        "Die Zurechenbarkeit ersetzt die Prüfung des Empfängerhorizonts vollständig."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "FLUME ergänzt die normative Auslegung um das Erfordernis der Zurechenbarkeit (S. 30). Relevant wird dies v.a. bei fehlendem Erklärungsbewusstsein. Es bleibt bei der normativen Auslegung; der innere Wille allein ist nicht maßgeblich.",
+      "hints": [
+        "Ergänzung, nicht Ersetzung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "T bestellt bei Großhändler R schriftlich 100 Reifen der Marke X zu je 87,50 €. R glaubt, T habe Marke Y bestellt, und antwortet: „Ich bestätige den Eingang Ihres Schreibens und werde die von Ihnen bestellten Reifen umgehend an Sie absenden.“ Über welche Reifen ist ein Vertrag zustande gekommen? Begründen Sie kurz mit Blick auf die Auslegungstheorien.",
+      "modelAnswer": "Ein Kaufvertrag (§ 433 BGB) setzt Angebot und Annahme voraus. Die Bestellung des T ist ein hinreichend bestimmtes Angebot mit Rechtsbindungswillen über 100 Reifen der Marke X. Das Schreiben des R ist auszulegen, weil R Marke Y meinte, T aber Marke X verstehen konnte – Wille und Verständnis fallen auseinander. Nach der reinen Willenstheorie wäre kein Vertrag über X zustande gekommen, nach der reinen Empfängertheorie ein Vertrag über X. Maßgeblich ist nach h.M. der objektive Empfängerhorizont (§§ 133, 157): wie T die Erklärung bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glauben verstehen musste. T hatte Marke X bestellt und durfte „die von Ihnen bestellten Reifen“ auf X beziehen; Hinweise auf ein anderes Verständnis enthielt das Schreiben nicht. Es liegt eine Annahme vor; ein Kaufvertrag über 100 Reifen der Marke X ist zustande gekommen.",
+      "rubric": [
+        "Angebot des T über Marke X",
+        "Auslegungsbedürftigkeit: Wille und Verständnis divergieren",
+        "Willens- und Empfängertheorie als Extreme",
+        "Objektiver Empfängerhorizont §§ 133, 157",
+        "Bezugnahme „bestellte Reifen“ = Marke X",
+        "Ergebnis: Vertrag über Marke X"
+      ],
+      "hints": [
+        "Worauf bezieht sich „die von Ihnen bestellten Reifen“ aus Sicht des T?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 31
+        },
+        {
+          "doc": "BGB_4",
+          "page": 41
+        },
+        {
+          "doc": "BGB_4",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was ist nach dem Skript unter der Verkehrssitte i.S.d. § 157 BGB zu verstehen?",
+      "options": [
+        "Eine im Handelsverkehr oder bürgerlichen Rechtsleben allgemein oder in bestimmten Kreisen bestehende tatsächliche Gepflogenheit",
+        "Eine vom Gesetzgeber kodifizierte Auslegungsregel",
+        "Jede in einem Vertrag ausdrücklich vereinbarte Klausel",
+        "Die höchstrichterliche Rechtsprechung zu einem Vertragstyp"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Verkehrssitte ist eine aus tatsächlicher Übung bei ähnlichen Geschäften abgeleitete Verhaltensregel; unter Kaufleuten spricht man vom Handelsbrauch (§ 346 HGB) (S. 32).",
+      "hints": [
+        "Tatsächliche Übung, kein Rechtssatz."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Eine Verkehrssitte ist bei der Auslegung nur zu berücksichtigen, wenn sich die Vertragschließenden ihr ausdrücklich unterworfen haben.",
+      "answer": false,
+      "explanation": "Eine Unterwerfung ist nicht erforderlich; maßgebend ist die Bedeutung eines Verhaltens nach übereinstimmender Auffassung der beteiligten Kreise. Im Zedernholz-Fall gilt die Verkehrssitte für K sogar, wenn sie ihm unbekannt gewesen wäre (S. 32–33).",
+      "hints": [
+        "Denken Sie an den Zedernholz-Fall."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 32
+        },
+        {
+          "doc": "BGB_4",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Die amerikanische Holzhändlerin V und Kaufmann K einigen sich mündlich über alle wesentlichen Punkte einer Lieferung Zedernholz. Im Handel mit amerikanischen Hölzern ist es Verkehrssitte, Kaufverträge schriftlich abzuschließen. Die Vertragsurkunde unterschreibt K nicht. Ist ein Vertrag geschlossen?",
+      "options": [
+        "Nein; nach der maßgeblichen Verkehrssitte gilt der Vertrag erst mit schriftlicher Abfassung und Unterzeichnung als geschlossen.",
+        "Ja; die mündliche Einigung über alle wesentlichen Punkte genügt immer.",
+        "Ja, weil Formvorschriften nur durch Gesetz begründet werden können.",
+        "Nein, aber nur wenn K die Verkehrssitte positiv kannte."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Grundsätzlich genügt die mündliche Einigung; die abweichende Verkehrssitte des Holzhandels führt aber dazu, dass erst der schriftliche Abschluss bindet – unabhängig von K's Kenntnis (nach RGZ 95, 242; S. 32–33).",
+      "hints": [
+        "Die Verkehrssitte bestimmt hier, ab wann gebunden werden soll."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 32
+        },
+        {
+          "doc": "BGB_4",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "K bestellt mit „Kaufantrag“ bei Händler V einen Neuwagen für 39.000 €; laut „Zahlungsbedingungen“ wird ihr Gebrauchtwagen mit 9.000 € in Zahlung genommen. K verkauft den Gebrauchtwagen anschließend an F. V verlangt 30.000 € und den Gebrauchtwagen. Was kann V nach dem Skript verlangen?",
+      "options": [
+        "Zahlung von 39.000 € aus § 433 Abs. 2, nicht aber den Gebrauchtwagen",
+        "30.000 € und Übereignung des Gebrauchtwagens aus einem Tauschvertrag (§ 480)",
+        "30.000 € und Schadensersatz von 9.000 € wegen Unmöglichkeit der Übereignung des Gebrauchtwagens",
+        "Nur 30.000 €, weil die Inzahlungnahme Teil des Kaufpreises ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Wortlaut („Kaufantrag“, „Zahlungsbedingungen“) und Interessenlage des Händlers (Absatz gegen Geld) sprechen für einen einheitlichen Kaufvertrag. K hat eine Ersetzungsbefugnis – sie darf, muss aber nicht, den Altwagen an Erfüllungs statt (§ 364) hingeben. Die Kaufpreisschuld bleibt eine Geldschuld von 39.000 € (S. 34).",
+      "hints": [
+        "Ist K verpflichtet oder nur berechtigt, den Altwagen hinzugeben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 33
+        },
+        {
+          "doc": "BGB_4",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Für eine ergänzende Vertragsauslegung ist nur Raum, wenn eine ausfüllungsbedürftige {{1}} vorliegt, die nach dem {{2}} Parteiwillen ausgefüllt werden kann. Die Unvollständigkeit muss auf einer {{3}} beruhen.",
+      "blanks": [
+        [
+          "Lücke",
+          "Vertragslücke",
+          "Regelungslücke"
+        ],
+        [
+          "hypothetischen"
+        ],
+        [
+          "Planwidrigkeit"
+        ]
+      ],
+      "explanation": "S. 35: Lücke + Lückenausfüllung nach hypothetischem Parteiwillen; bewusst offengelassene Punkte sind keine Lücke.",
+      "hints": [
+        "Ungewollt vs. gewollt offengelassen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "In welchen Fällen scheidet eine ergänzende Vertragsauslegung nach dem Skript aus? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Parteien haben die Regelungsbedürftigkeit erkannt, aber bewusst von einer Regelung abgesehen.",
+        "Mehrere Gestaltungsmöglichkeiten kommen in Betracht, ohne dass ein Anhaltspunkt besteht, welche die Parteien gewählt hätten.",
+        "Die Ergänzung würde den im Vertrag zum Ausdruck gekommenen Parteiwillen abändern.",
+        "Die Parteien haben einen Punkt aus Versehen nicht geregelt, obwohl sie abschließend regeln wollten."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bewusst offengelassene Punkte sind keine Lücke; bei mehreren gleichwertigen Möglichkeiten ohne Anhaltspunkt verneint der BGH die ergänzende Auslegung (BGHZ 93, 358); ergänzt wird nur der Vertragsinhalt, nicht der Vertragswille. Der versehentlich ungeregelte Punkt ist gerade der klassische Anwendungsfall.",
+      "hints": [
+        "Ergänzung, nicht Korrektur."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte im Kiosk-Fall (Wettbewerbsklausel „in dem Haus“, Kiosk auf dem Vorplatz) in die richtige Reihenfolge.",
+      "items": [
+        "Feststellung: Die Wettbewerbsklausel erfasst den Vorplatz nicht ausdrücklich",
+        "Vertragslücke: V und M wollten den Wettbewerb abschließend regeln und haben den Vorplatz versehentlich nicht erfasst",
+        "Anknüpfung am Wortlaut: ausführliche Wettbewerbsregelung im Vertrag",
+        "Hypothetischer Parteiwille: keine Konkurrenz in räumlicher Nähe, also auf dem ganzen Grundstück",
+        "Ergebnis: Verstoß gegen den Vertrag; Unterlassung, ggf. Schadensersatz"
+      ],
+      "explanation": "So die Lösung des Skripts (S. 36–37, in Anlehnung an RGZ 119, 353).",
+      "hints": [
+        "Erst Lücke, dann Ausfüllung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 36
+        },
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Grenzen Sie die erläuternde von der ergänzenden Vertragsauslegung ab und nennen Sie die Voraussetzungen der ergänzenden Vertragsauslegung.",
+      "modelAnswer": "Die erläuternde Vertragsauslegung betrifft Fälle, in denen ein Begriff oder eine Formulierung im Vertrag unklar ist und über deren Bedeutung gestritten wird; sie ermittelt den Inhalt des Vereinbarten unter Berücksichtigung von Zweck, Interessenlage und Verkehrssitte, ohne dem übereinstimmend erklärten Willen zu widersprechen. Die ergänzende Vertragsauslegung setzt dagegen ein, wenn der Vertrag eine regelungsbedürftige Frage gar nicht regelt. Voraussetzung ist eine Vertragslücke, d.h. eine planwidrige Unvollständigkeit innerhalb des gewollten Regelungsrahmens; bewusst offengelassene Punkte und Fälle, in denen das dispositive Recht passt, scheiden aus. Die Lücke wird nach dem hypothetischen Parteiwillen geschlossen: Maßgeblich ist, was die Parteien in Anbetracht des Vertragszwecks unter Beachtung von Treu und Glauben und der Verkehrssitte vereinbart hätten. Die Ergänzung muss an den im Vertrag erkennbaren Willen anknüpfen, darf ihn nicht abändern und scheidet aus, wenn mehrere Gestaltungsmöglichkeiten ohne Anhaltspunkt für die Wahl der Parteien bestehen.",
+      "rubric": [
+        "Erläuternde Auslegung: unklarer Begriff, Ermittlung des Vertragsinhalts",
+        "Ergänzende Auslegung: Regelungslücke",
+        "Planwidrigkeit; keine bewusst offengelassenen Punkte; Vorrang dispositiven Rechts",
+        "Hypothetischer Parteiwille (Vertragszweck, Treu und Glauben, Verkehrssitte)",
+        "Grenzen: Anknüpfung am Wortlaut, keine Änderung des Willens, mehrere Möglichkeiten"
+      ],
+      "hints": [
+        "Unklarheit vs. Lücke."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 31
+        },
+        {
+          "doc": "BGB_4",
+          "page": 34
+        },
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach welchem Maßstab sind AGB nach ständiger Rechtsprechung auszulegen?",
+      "options": [
+        "Objektiv danach, wie verständige und redliche Vertragspartner der normalerweise beteiligten Kreise sie verstehen („Durchschnittskunde“)",
+        "Nach dem wirklichen Willen der Parteien des konkreten Einzelgeschäfts",
+        "Nach dem Verständnis des Verwenders, der die AGB formuliert hat",
+        "Ausschließlich nach dem Wortlaut, ohne Berücksichtigung von Interessen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Da AGB für eine unbestimmte Vielzahl von Fällen gelten, wird nicht der Wille der Einzelparteien erforscht, sondern objektiv ausgelegt (BGHZ 77, 116; 62, 251; S. 37).",
+      "hints": [
+        "Massencharakter der AGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach § 305c Abs. 2 BGB gehen Zweifel bei der Auslegung von AGB zu Lasten des Verwenders.",
+      "answer": true,
+      "explanation": "Unklarheitenregel: Der Kunde hat keinen Einfluss auf die Formulierung; es gilt das für ihn günstigste Auslegungsergebnis (S. 37).",
+      "hints": [
+        "Wer hat die Klausel formuliert?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Unter welchen Voraussetzungen lässt der BGH zu, dass eine durch eine unwirksame AGB-Klausel entstandene Lücke im Wege ergänzender Vertragsauslegung geschlossen wird?",
+      "options": [
+        "Wenn konkrete gesetzliche Regelungen zur Lückenfüllung fehlen und die ersatzlose Streichung nicht zu einer angemessenen, den typischen Interessen beider Seiten gerecht werdenden Lösung führt",
+        "Immer, weil die ergänzende Vertragsauslegung dem dispositiven Recht vorgeht",
+        "Nur wenn der Kunde ausdrücklich zustimmt",
+        "Nur wenn die unwirksame Klausel auf das gerade noch zulässige Maß zurückgeführt werden kann"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der BGH sieht §§ 157, 133 als „gesetzliche Vorschriften“ i.S.d. § 306 Abs. 2 (BGHZ 90, 69), aber nur subsidiär: kein passendes dispositives Recht und keine interessengerechte Lösung durch ersatzlose Streichung. Die geltungserhaltende Reduktion bleibt unzulässig; das Ergebnis darf nicht gegen § 307 verstoßen (S. 38).",
+      "hints": [
+        "Was ist vorrangig: dispositives Recht oder hypothetischer Wille?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "In AGB heißt es: „Jegliche Änderungen dieses Vertrages sind nur wirksam, wenn sie schriftlich vereinbart werden. Dies gilt auch für eine Änderung dieser Schriftformklausel.“ Die Parteien vereinbaren später mündlich einen abweichenden Liefertermin. Was gilt nach dem Skript?",
+      "options": [
+        "Der mündlich vereinbarte Liefertermin gilt; auch eine doppelte Schriftformklausel verhindert den Vorrang der Individualabrede (§ 305b) nicht.",
+        "Es gilt der ursprüngliche Termin, weil die doppelte Schriftformklausel auch sich selbst schützt.",
+        "Der Vertrag ist insgesamt unwirksam, weil sich Klausel und Abrede widersprechen.",
+        "Die mündliche Abrede gilt nur, wenn sie innerhalb eines Monats schriftlich bestätigt wird."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Widerspricht eine AGB einer wirksamen Individualvereinbarung, gilt die Individualvereinbarung (§ 305b). Selbst eine doppelte Schriftformklausel kann durch eine mündliche Individualvereinbarung abbedungen werden (BGHZ 164, 133; S. 39).",
+      "hints": [
+        "Kann eine AGB-Klausel den Vorrang des § 305b ausschalten?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "K bestellt im November 2022 bei Herstellerin V einen PKW zum „Listenpreis … zur Zeit 32.650 €“; Lieferung im November 2023. AGB Nr. 2: „Preisänderungen sind nur zulässig, wenn zwischen Vertragsabschluss und vereinbartem Liefertermin mehr als 4 Monate liegen. Dann gilt der am Tag der Lieferung gültige Listenpreis der Verkäuferin.“ V liefert und verlangt 34.150 €. Muss K den höheren Preis zahlen?",
+      "modelAnswer": "V könnte gegen K einen Anspruch auf Zahlung von 34.150 € aus § 433 Abs. 2 BGB haben. Ein Kaufvertrag ist durch Bestellung und Bestätigung geschlossen. Fraglich ist die Preisabrede. Die Tagespreisklausel ist eine AGB-Klausel und könnte gegen § 307 Abs. 1 S. 1 BGB verstoßen. Zwar hat der Kfz-Handel wegen langer Lieferfristen ein berechtigtes Interesse, Kostensteigerungen weiterzugeben. Die Klausel erlaubt aber jede beliebige Erhöhung ohne Begrenzung und Nachvollziehbarkeit, auch über Kostensteigerungen hinaus. Das verletzt das Äquivalenzprinzip und benachteiligt K unangemessen; die Klausel ist unwirksam. Nach § 306 Abs. 1 BGB bleibt der Vertrag wirksam; dispositive Vorschriften, die die Klausel ersetzen, gibt es nicht. Da der BGH §§ 133, 157 als gesetzliche Vorschriften i.S.d. § 306 Abs. 2 BGB ansieht, ist die Lücke durch ergänzende Vertragsauslegung zu schließen. Beide Parteien rechneten mit einem abweichenden Preis bei Auslieferung und wollten, dass der Käufer Kostensteigerungen trägt; der Listenpreis bei Vertragsschluss scheidet daher aus. Redliche Parteien hätten vereinbart, dass K grundsätzlich den Listenpreis bei Auslieferung zahlt, aber zurücktreten darf, wenn die Erhöhung den Anstieg der allgemeinen Lebenshaltungskosten nicht unerheblich übersteigt. Diese Regelung tritt an die Stelle der Klausel. Nach der Skript-Lösung liegen die Rücktrittsvoraussetzungen nicht vor; K muss 34.150 € zahlen.",
+      "rubric": [
+        "§ 433 Abs. 2; Vertragsschluss",
+        "Tagespreisklausel unwirksam nach § 307 Abs. 1 S. 1 (unbegrenzte Erhöhung, Äquivalenzprinzip)",
+        "§ 306 Abs. 1, kein passendes dispositives Recht",
+        "§§ 133, 157 als „gesetzliche Vorschriften“ i.S.d. § 306 Abs. 2 (BGH, str.)",
+        "Hypothetischer Wille: Listenpreis bei Lieferung + Rücktrittsrecht",
+        "Ergebnis: Anspruch auf 34.150 €"
+      ],
+      "hints": [
+        "Prüfen Sie zuerst die Wirksamkeit der Klausel, dann die Lückenfüllung.",
+        "Welcher Preis entspricht dem übereinstimmenden Willen sicher nicht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 39
+        },
+        {
+          "doc": "BGB_4",
+          "page": 42
+        },
+        {
+          "doc": "BGB_4",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Stellen Sie den Streit dar, ob die §§ 133, 157 BGB „gesetzliche Vorschriften“ i.S.d. § 306 Abs. 2 BGB sind, und erläutern Sie den Maßstab der ergänzenden Auslegung lückenhafter AGB.",
+      "modelAnswer": "Teile der Literatur wollen den Begriff der gesetzlichen Vorschriften in § 306 Abs. 2 (früher § 6 Abs. 2 AGBG) auf Normen mit sachlichem Regelungsgehalt beschränken; die §§ 133, 157 seien bloß methodische Hilfsinstrumente zur Ermittlung des Parteiwillens. Der BGH hält dem entgegen, der Wortlaut biete für eine solche Beschränkung keinen Anhalt; die ergänzende Vertragsauslegung erforsche nicht den wirklichen Willen, sondern schließe eine lückenhafte Regelung am Maßstab des objektiv zu ermittelnden hypothetischen Parteiwillens – genau darum gehe es in § 306 Abs. 2; zudem stützt er sich auf die Entstehungsgeschichte. Das BVerfG hat diese Rechtsprechung nicht beanstandet, sodass sich der Streit nach dem Skript erübrigt hat. Voraussetzung ist, dass keine konkreten dispositiven Regelungen bereitstehen und die ersatzlose Streichung nicht zu einer angemessenen Lösung führt. Gefragt wird nach § 157, wie die Parteien den Vertrag nach Treu und Glauben mit Rücksicht auf die Verkehrssitte gestaltet hätten, wenn sie die Unwirksamkeit der Klausel bedacht hätten. Der feststellbare tatsächliche Wille ist zu berücksichtigen; das Ergebnis darf keine unangemessene Benachteiligung i.S.d. § 307 bewirken.",
+      "rubric": [
+        "Literaturansicht: nur sachliche Regelungen",
+        "BGH: Wortlaut, hypothetischer Parteiwille, Entstehungsgeschichte",
+        "BVerfG billigt → Streit erledigt",
+        "Subsidiarität: kein dispositives Recht, ersatzlose Streichung unangemessen",
+        "Maßstab: hypothetischer Wille bei Kenntnis der Unwirksamkeit; tatsächlicher Wille; Grenze § 307"
+      ],
+      "hints": [
+        "„Methodische“ vs. „sachliche“ Vorschriften."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 38
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Die Reifenbestellung (Selbsttestaufgabe 1)",
+    "facts": "Tankstellenbesitzer T bestellt bei dem Reifengroßhändler R schriftlich 100 Reifen der Marke X zum Stückpreis von 87,50 €. R beantwortet den Brief zwei Tage nach Kenntnisnahme. Er meint, T habe Reifen der Marke Y bestellt, die er liefern kann; Reifen der Marke X hat er nicht zur Verfügung. Er schreibt an T: „Ich bestätige den Eingang Ihres Schreibens vom … und werde die von Ihnen bestellten Reifen umgehend an Sie absenden.“",
+    "question": "Ist ein Vertrag zustande gekommen, und wenn ja, mit welchem Inhalt?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "Zwischen T und R könnte ein Kaufvertrag gemäß § 433 BGB über 100 Reifen der Marke X zustande gekommen sein. Dazu müsste T ein Angebot abgegeben haben, das R durch eine inhaltlich übereinstimmende Erklärung angenommen hat (§§ 145 ff. BGB). Fraglich ist insbesondere, welchen Inhalt das Schreiben des R hat; dies ist durch Auslegung nach §§ 133, 157 BGB zu ermitteln.",
+        "rubric": [
+          "Konjunktiv",
+          "Kaufvertrag § 433 durch Angebot und Annahme",
+          "Auslegungsfrage nach §§ 133, 157 benannt"
+        ],
+        "hints": [
+          "Welche Erklärung ist problematisch?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie Angebot und Annahme und nennen Sie den Auslegungsmaßstab für empfangsbedürftige Willenserklärungen.",
+        "model": "Ein Angebot ist eine empfangsbedürftige Willenserklärung, die den Vertragsinhalt so bestimmt enthält, dass der andere Teil den Vertrag durch ein einfaches „Ja“ zustande bringen kann, und die von Rechtsbindungswillen getragen ist. Eine Annahme ist eine einseitige Willenserklärung, durch die der Antragsempfänger dem Antragenden sein vorbehaltloses Einverständnis mit dem angebotenen Vertragsschluss zu verstehen gibt. Fallen Wille des Erklärenden und Verständnis des Empfängers auseinander, ist eine empfangsbedürftige Willenserklärung nach §§ 133, 157 BGB so auszulegen, wie der Empfänger sie bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glauben verstehen musste (objektiver Empfängerhorizont). Weder die reine Willenstheorie (maßgeblich ist, was der Erklärende wollte) noch die reine Empfängertheorie (maßgeblich ist, wie der Empfänger tatsächlich verstand) ist sachgerecht, weil sie das Missverständnisrisiko einseitig verteilen.",
+        "rubric": [
+          "Definition Angebot (Bestimmtheit, Rechtsbindungswille)",
+          "Definition Annahme (vorbehaltloses Einverständnis)",
+          "Objektiver Empfängerhorizont (BGH-Formel)",
+          "Ablehnung reiner Willens-/Empfängertheorie"
+        ],
+        "hints": [
+          "Das Skript zitiert die BGH-Formel „bei objektiver Würdigung aller Umstände …“."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Die schriftliche Bestellung des T bezeichnet Kaufgegenstand (100 Reifen der Marke X) und Preis (87,50 € je Stück); R könnte sie mit einem bloßen „Ja“ annehmen. Durch die konkrete Bestellung zeigt T Rechtsbindungswillen; ein wirksames Angebot liegt vor. Das Schreiben des R bestätigt den Eingang und kündigt die sofortige Absendung „der von Ihnen bestellten Reifen“ an. R wollte damit Reifen der Marke Y liefern, T verstand die Erklärung als Annahme seiner Bestellung über Marke X; Wille und Verständnis fallen auseinander, sodass die Erklärung auszulegen ist. Nach der reinen Willenstheorie wäre mangels Übereinstimmung kein Vertrag über X geschlossen, nach der reinen Empfängertheorie wäre er zustande gekommen. Maßgeblich ist der objektive Empfängerhorizont: T hatte ausdrücklich Marke X bestellt. Er durfte die Bezugnahme auf „die von Ihnen bestellten Reifen“ daher nur auf Reifen der Marke X beziehen. Hätte R etwas anderes gemeint, hätte er dies zum Ausdruck bringen müssen; Anhaltspunkte dafür sind bei objektiver Würdigung aller Umstände nicht ersichtlich. Der innere, unerklärt gebliebene Wille des R, Marke Y zu liefern, ist unbeachtlich. Das Schreiben ist aus Sicht des T als vorbehaltlose Annahme seines Angebots zu verstehen.",
+        "rubric": [
+          "Angebot des T bejaht (essentialia, Rechtsbindungswille)",
+          "Auslegungsbedürftigkeit wegen Divergenz",
+          "Gegenüberstellung der Theorien",
+          "Objektiver Empfängerhorizont: „bestellte Reifen“ = Marke X",
+          "Innerer Wille des R unbeachtlich; Annahme bejaht"
+        ],
+        "hints": [
+          "Worauf konnte sich „die von Ihnen bestellten Reifen“ für T allein beziehen?",
+          "Wessen Sphäre ist das Missverständnis zuzurechnen?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Das Schreiben des R ist nach §§ 133, 157 BGB als Annahme des Angebots des T auszulegen. Zwischen T und R ist ein wirksamer Kaufvertrag gemäß § 433 BGB über 100 Reifen der Marke X zum Stückpreis von 87,50 € zustande gekommen.",
+        "rubric": [
+          "Indikativ",
+          "Vertragsinhalt benannt (Marke X, Preis)",
+          "Normbezug"
+        ],
+        "hints": [
+          "Nennen Sie auch den Vertragsinhalt."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_4",
+        "page": 29
+      },
+      {
+        "doc": "BGB_4",
+        "page": 31
+      },
+      {
+        "doc": "BGB_4",
+        "page": 41
+      },
+      {
+        "doc": "BGB_4",
+        "page": 42
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Was ist Auslegung?",
+      "back": "Die Ermittlung des Sinns, der einer Erklärung zukommt (hier: Willenserklärungen und Verträge; Gesetzesauslegung ist Gegenstand der Methodenlehre).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "front": "§ 133 vs. § 157 BGB – welcher Maßstab?",
+      "back": "§ 133: wirklicher (empirischer) Wille, subjektiver Maßstab. § 157: Treu und Glauben mit Rücksicht auf die Verkehrssitte, objektiver Maßstab. Nach h.M. für Willenserklärungen und Verträge gleichermaßen; der BGH wendet beide an.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        },
+        {
+          "doc": "BGB_4",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "front": "Warum versagen reine Willens- und reine Empfängertheorie?",
+      "back": "Sie lasten das Risiko von Irrtümern und Missverständnissen jeweils allein einer Seite auf (dem Empfänger bzw. dem Erklärenden) – das wäre unbillig. Die Erklärungstheorie betont zu stark das Objektive.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 28
+        },
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "front": "Woraus folgt das „Erklärungsrisiko“ des Erklärenden?",
+      "back": "Aus §§ 116, 119, 122: Bindung trotz geheimen Vorbehalts bzw. Irrtums; Anfechtung nur mit Ersatz des Vertrauensschadens. Die Abweichung entsteht in seiner Sphäre – daher Vorrang des schutzwürdigen Empfängervertrauens.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "front": "BGH-Formel zum objektiven Empfängerhorizont?",
+      "back": "Maßgeblich ist, „wie der Empfänger der empfangsbedürftigen Willenserklärung dies bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glauben zu verstehen hatte“ (BGHZ 47, 75, 78; BGH NJW 1984, 721).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "front": "Wann beginnt die (normative) Auslegung überhaupt?",
+      "back": "Erst wenn feststeht, dass Wille des Erklärenden und Verständnis des Empfängers nicht übereinstimmen. Bei übereinstimmendem Verständnis gilt das Gewollte – auch gegen den Wortlaut.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "front": "Falsa demonstratio non nocet – Beispiel?",
+      "back": "Haakjöringsköd (RGZ 99, 147): Beide meinen Walfischfleisch, das Wort bedeutet Haifischfleisch → Vertrag über Walfischfleisch; Lieferung von Haifischfleisch ist keine Erfüllung.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        },
+        {
+          "doc": "BGB_4",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "front": "Wann ist die Verkehrssitte bei der Auslegung beachtlich?",
+      "back": "Wenn sie für beide Vertragsteile gilt (gleicher Verkehrskreis); bei verschiedenen Kreisen (str.) die am Ort des Erklärenden, jedenfalls wenn der Empfänger damit rechnen konnte. Unterwerfung oder Kenntnis sind nicht erforderlich (Zedernholz-Fall).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 32
+        },
+        {
+          "doc": "BGB_4",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "front": "Was bedeutet die Klausel „gekauft wie besichtigt“?",
+      "back": "Gewährleistungsausschluss für Mängel, die bei der Besichtigung wahrnehmbar waren. Beim Verbrauchsgüterkauf sind solche Klauseln durch § 476 Abs. 1 (und § 310 Abs. 3) deutlich eingeschränkt.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "front": "Inzahlungnahme des Gebrauchtwagens: Kauf oder Tausch?",
+      "back": "Einheitlicher Kaufvertrag über den vollen Preis (Wortlaut „Kaufantrag“, Händlerinteresse an Geld); der Käufer hat eine Ersetzungsbefugnis (facultas alternativa), den Altwagen an Erfüllungs statt (§ 364) hinzugeben – er ist dazu berechtigt, nicht verpflichtet.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 33
+        },
+        {
+          "doc": "BGB_4",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen der ergänzenden Vertragsauslegung?",
+      "back": "1. Planwidrige Regelungslücke (nicht bewusst offengelassen; kein passendes dispositives Recht), 2. Ausfüllung nach dem hypothetischen Parteiwillen unter Anknüpfung an den erkennbaren Vertragswillen (Vertragszweck, Treu und Glauben, Verkehrssitte). Grenze: mehrere Möglichkeiten ohne Anhaltspunkt.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 34
+        },
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "front": "Kiosk-Fall: Ergebnis und Begründung?",
+      "back": "Wettbewerbsverbot „in dem Haus“ erfasst den Kiosk auf dem Vorplatz nicht ausdrücklich; Lücke, da Wettbewerb abschließend geregelt werden sollte. Hypothetischer Wille: keine Konkurrenz auf dem Grundstück → Vertragsverstoß (Unterlassung, ggf. Schadensersatz).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 36
+        },
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Wie werden AGB ausgelegt?",
+      "back": "Nach §§ 133, 157, aber objektiv: Verständnis verständiger und redlicher Vertragspartner der normalerweise beteiligten Kreise („Durchschnittskunde“), nicht der Wille der Einzelparteien. Zweifel gehen zu Lasten des Verwenders (§ 305c Abs. 2).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Ergänzende Vertragsauslegung bei unwirksamer AGB-Klausel?",
+      "back": "Nach BGH sind §§ 133, 157 „gesetzliche Vorschriften“ i.S.d. § 306 Abs. 2 (vom BVerfG nicht beanstandet). Voraussetzung: kein konkretes dispositives Recht, ersatzlose Streichung unangemessen. Frage: Was hätten die Parteien bei Kenntnis der Unwirksamkeit vereinbart? Grenze: § 307.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "Tagespreisklausel-Fall: Lösung?",
+      "back": "Unbegrenzte Preiserhöhung → Verstoß gegen § 307 Abs. 1 S. 1 (Äquivalenzprinzip). Vertrag bleibt (§ 306 Abs. 1); ergänzende Auslegung: Listenpreis bei Auslieferung, aber Rücktrittsrecht bei Erhöhung deutlich über allgemeiner Lebenshaltungskostensteigerung. V kann 34.150 € verlangen.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 39
+        },
+        {
+          "doc": "BGB_4",
+          "page": 42
+        },
+        {
+          "doc": "BGB_4",
+          "page": 43
+        }
+      ]
+    }
+  ]
+}

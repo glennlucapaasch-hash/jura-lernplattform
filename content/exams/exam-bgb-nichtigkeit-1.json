@@ -1,0 +1,72 @@
+{
+  "id": "exam-bgb-nichtigkeit-1",
+  "moduleId": "55101",
+  "topicIds": [
+    "bgb-ke5-s13",
+    "bgb-ke6-s15"
+  ],
+  "title": "Die 100-km-Klausel und der Treuebonus (§§ 134, 138, 139 BGB)",
+  "difficulty": 2,
+  "durationMin": 60,
+  "facts": "G ist Eigentümer eines kleinen Lebensmittelgeschäfts in einer Kleinstadt. Weil er sich aus dem Berufsleben zurückziehen will, verpachtet er das Geschäft mit Wirkung zum 1. Januar für sechs Jahre an P. Die Parteien handeln den Pachtvertrag über mehrere Wochen einzeln aus. Vereinbart wird ein angemessener, ortsüblicher Pachtzins von 1.200 € monatlich, zahlbar jeweils zum Monatsersten. In § 12 des Vertrages heißt es auf Wunsch des G: „Nach Beendigung des Pachtverhältnisses darf der Pächter im Umkreis von 100 km kein anderes Lebensmittelgeschäft betreiben.“ G betreibt selbst kein weiteres Geschäft und plant dies auch nicht; er wollte nach eigenen Worten „einfach auf Nummer sicher gehen“. Eine Regelung für den Fall der Unwirksamkeit einzelner Bestimmungen enthält der Vertrag nicht.\n\nDas Geschäft läuft gut. P beschäftigt seit Februar den A als Angestellten, der selbständig den Wareneinkauf erledigt. Der Großhändler K, der neue Kunden gewinnen will, vereinbart mit A, dass A ein Jahr lang einen monatlichen „Treuebonus“ von 200 € erhält, wenn er den gesamten Bedarf an Konserven für das Geschäft des P bei K statt bei dem günstigeren bisherigen Lieferanten bestellt. A bestellt fortan nur noch bei K. Nach drei Monaten stellt K die Zahlungen ein, weil ihm „die Sache zu heiß“ werde. A verlangt von K die Zahlung des Bonus für den vierten Monat.\n\nIm Herbst erfährt P von einer befreundeten Jurastudentin, dass „so eine 100-km-Klausel sittenwidrig“ sei. P meint, dann sei der ganze Pachtvertrag nichtig, er müsse nichts mehr zahlen, und zahlt die Pacht für Oktober nicht. G verlangt von P Zahlung von 1.200 €. P erwidert, das Gesetz vermute in einem solchen Fall die Nichtigkeit des gesamten Vertrages; G hätte den Vertrag ohne die Klausel ohnehin nie geschlossen.\n\nHinweis: § 299 StGB ist zu beachten. Ansprüche aus ungerechtfertigter Bereicherung sind nicht zu prüfen.",
+  "question": "1. Kann G von P Zahlung der Pacht für Oktober in Höhe von 1.200 € verlangen?\n2. Kann A von K Zahlung des „Treuebonus“ für den vierten Monat verlangen?",
+  "solution": "## Frage 1: Anspruch des G gegen P auf Zahlung der Oktoberpacht\n\nG könnte gegen P einen Anspruch auf Zahlung von 1.200 € aus dem Pachtvertrag gemäß § 581 Abs. 1 S. 2 BGB haben.\n\n### I. Abschluss eines Pachtvertrages\n\nG und P haben sich über die Verpachtung des Geschäfts für sechs Jahre gegen einen monatlichen Pachtzins von 1.200 € geeinigt. Ein Pachtvertrag ist damit zustande gekommen.\n\n### II. Nichtigkeit des Pachtvertrages\n\nDer Vertrag könnte jedoch ganz oder teilweise nichtig sein.\n\n**1. Nichtigkeit der Klausel in § 12 nach § 138 Abs. 1 BGB**\n\nDie Wettbewerbsklausel könnte gegen die guten Sitten verstoßen. Ein Rechtsgeschäft ist sittenwidrig, wenn es nach dem Anstandsgefühl aller billig und gerecht Denkenden und nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter den guten Sitten zuwiderläuft (BGHZ 34, 169, 176). Eine Fallgruppe bilden Rechtsgeschäfte, die die wirtschaftliche Entscheidungsfreiheit des Betroffenen so weitgehend beschränken, dass er seine geschäftliche Selbständigkeit verliert.\n\nDie Klausel verbietet P nach Pachtende, im Umkreis von 100 km irgendein Lebensmittelgeschäft zu betreiben. Damit ist P als Lebensmitteleinzelhändler in seiner gesamten Region von seiner beruflichen Tätigkeit ausgeschlossen. Ein schutzwürdiges Interesse des G steht dem nicht gegenüber, da G selbst kein Geschäft betreibt und auch keines plant. Die Klausel schränkt die wirtschaftliche Freiheit des P daher in sittlich zu missbilligender Weise ein; für einen vergleichbaren Fall hat dies das OLG Celle (NJW 1959, 1971) angenommen. Ein Bewusstsein der Sittenwidrigkeit ist nicht erforderlich; die Parteien kannten alle maßgeblichen Umstände. § 12 ist nach § 138 Abs. 1 BGB nichtig.\n\n**2. Gesamtnichtigkeit nach § 139 BGB?**\n\nIst ein Teil eines Rechtsgeschäfts nichtig, so ist nach § 139 BGB das ganze Rechtsgeschäft nichtig, wenn nicht anzunehmen ist, dass es auch ohne den nichtigen Teil vorgenommen sein würde. Grundsätzlich erfasst die Nichtigkeit nach § 138 das gesamte Geschäft; ob ausnahmsweise nur ein Teil nichtig ist, entscheidet § 139.\n\n*a) Vorrang des § 306 BGB?* § 306 Abs. 1 BGB verdrängt § 139 nur bei Allgemeinen Geschäftsbedingungen. Der Vertrag wurde einzeln ausgehandelt; § 306 ist nicht anwendbar. Es bleibt bei § 139.\n\n*b) Einheitliches Rechtsgeschäft:* Der Pachtvertrag einschließlich der Wettbewerbsklausel ist ein einheitliches Rechtsgeschäft.\n\n*c) Teilbarkeit:* Teilnichtigkeit setzt voraus, dass nach Abtrennung des unwirksamen Teils ein Rest verbleibt, der als selbständiges Rechtsgeschäft bestehen kann. Anders als bei einer sittenwidrigen Pachtzinsabrede, ohne die ein Pachtvertrag rechtlich nicht möglich ist (vgl. § 581), betrifft die Nichtigkeit hier nur eine nachvertragliche Nebenabrede. Die wesentlichen Bestandteile – Überlassung des Geschäfts und Pachtzins – bleiben unberührt. Der Rest ist als vollständiger Pachtvertrag lebensfähig; das Geschäft ist teilbar. Anders als in dem Fall, dass ein überhöhter Preis auf ein angemessenes Maß „reduziert“ werden soll, wird hier auch nicht der sittenwidrige Teil auf ein zulässiges Maß zurückgeführt, sondern eine selbständige Abrede vollständig herausgelöst.\n\n*d) Hypothetischer Parteiwille:* Maßgeblich ist, was die Parteien im Zeitpunkt des Vertragsschlusses bei Kenntnis der Nichtigkeit vernünftigerweise unter Berücksichtigung von Treu und Glauben und des Vertragszwecks gewollt hätten (ergänzende Vertragsauslegung). Für den Fortbestand spricht insbesondere, dass nur ein geringfügiger Teil nichtig ist und der für die Beteiligten im Vordergrund stehende Teil unberührt bleibt. Im Vordergrund standen für G die Pachteinnahmen bei seinem Rückzug aus dem Berufsleben und für P der Betrieb des Geschäfts. Die Klausel hatte für G keinen erkennbaren wirtschaftlichen Wert, da er kein Konkurrenzgeschäft betreibt; er wollte nur „auf Nummer sicher gehen“. Es ist daher anzunehmen, dass G und P den Vertrag auch ohne § 12 geschlossen hätten. Die bloße Behauptung des P, G hätte ohne die Klausel nie abgeschlossen, ändert daran nichts, zumal es auf den mutmaßlichen Willen vernünftiger Parteien ankommt. Die Vermutung des § 139 ist widerlegt.\n\n*e) Zwischenergebnis:* Nur § 12 ist nichtig; der Pachtvertrag im Übrigen ist wirksam.\n\n### III. Ergebnis\n\nG kann von P gemäß § 581 Abs. 1 S. 2 BGB Zahlung der Oktoberpacht in Höhe von 1.200 € verlangen.\n\n## Frage 2: Anspruch des A gegen K auf Zahlung des Treuebonus\n\nA könnte gegen K einen Anspruch auf Zahlung von 200 € aus der zwischen ihnen getroffenen Vereinbarung (§ 311 Abs. 1 BGB) haben.\n\n### I. Vereinbarung\n\nA und K haben sich darüber geeinigt, dass A für die ausschließliche Bestellung bei K monatlich 200 € erhält. Eine entsprechende Vereinbarung liegt vor.\n\n### II. Nichtigkeit nach § 134 BGB i.V.m. § 299 StGB\n\nDie Vereinbarung könnte nach § 134 BGB nichtig sein.\n\n**1. Verbotsgesetz:** Ein Verbotsgesetz ist eine Norm, durch die ein Rechtsgeschäft seines Inhalts wegen unterbunden werden soll. Strafvorschriften sind im Zweifel Verbotsgesetze; maßgeblich sind Sinn und Zweck. § 299 StGB will gerade Vereinbarungen verhindern, durch die ein Angestellter gegen einen Vorteil Lieferanten im geschäftlichen Verkehr unlauter bevorzugt; das Skript nennt ihn ausdrücklich als Verbotsgesetz.\n\n**2. Verstoß:** A ist Angestellter des Geschäftsbetriebs des P. Er hat sich als Gegenleistung dafür, dass er K beim Bezug von Waren (Konserven) bevorzugt, einen Vorteil (200 € monatlich) versprechen lassen und angenommen. Die Bevorzugung ist unlauter, weil sie nicht auf der Qualität oder dem Preis der Ware, sondern auf dem persönlichen Vorteil des A beruht – der bisherige Lieferant war sogar günstiger. K hat im geschäftlichen Verkehr zu Zwecken des Wettbewerbs (Gewinnung neuer Kunden) dem A diesen Vorteil versprochen und gewährt. Die Vereinbarung verstößt gegen § 299 StGB.\n\n**3. Nichtigkeitsfolge:** Ob der Verstoß zur Nichtigkeit führt, richtet sich nach Sinn und Zweck des Verbots. Richtet sich ein Verbot an beide Vertragspartner, ist das Geschäft in der Regel nichtig; eine für alle Beteiligten geltende Strafdrohung ist ein gewichtiger Hinweis darauf, dass die Rechtsordnung dem Vertrag die Wirksamkeit versagen will (BGHZ 118, 142, 145; 115, 123, 125). § 299 StGB bestraft sowohl den bestochenen Angestellten als auch den Vorteilsgeber. Zudem würde ein Erfüllungsanspruch des A gerade den missbilligten Erfolg – die Zahlung des Bestechungsvorteils – rechtlich durchsetzbar machen. Die Vereinbarung ist daher nach § 134 BGB nichtig; das entspricht dem Skriptbeispiel vom „Gehaltszuschuss“ für den Angestellten einer Drogerie. Ob daneben § 138 Abs. 1 BGB eingreift, kann dahinstehen.\n\n### III. Ergebnis\n\nA hat gegen K keinen Anspruch auf Zahlung des Treuebonus für den vierten Monat.",
+  "rubric": [
+    "Frage 1: Anspruchsgrundlage § 581 Abs. 1 S. 2 BGB, Zustandekommen des Pachtvertrags",
+    "Wettbewerbsklausel: Definition der Sittenwidrigkeit (Gesamtcharakter-Formel) und Fallgruppe Beschränkung der wirtschaftlichen Entscheidungsfreiheit; Nichtigkeit nach § 138 Abs. 1 (vgl. OLG Celle)",
+    "Kein Bewusstsein der Sittenwidrigkeit erforderlich",
+    "§ 306 nicht anwendbar (Individualvertrag), daher § 139",
+    "Teilbarkeit: selbständig bestehensfähiger Rest; Abgrenzung zum Pachtzins-Beispiel (wesentlicher Bestandteil) und zur unzulässigen Preisreduktion",
+    "Hypothetischer Parteiwille (ergänzende Auslegung, Zeitpunkt Vertragsschluss): geringfügiger Teil, Interessenlage → Vermutung widerlegt",
+    "Ergebnis Frage 1: Anspruch auf 1.200 € (+)",
+    "Frage 2: Anspruch aus Vereinbarung; § 134 BGB: Definition Verbotsgesetz, § 299 StGB als Verbotsgesetz",
+    "Subsumtion § 299 StGB: Angestellter, Vorteil als Gegenleistung, unlautere Bevorzugung beim Warenbezug; Vorteilsgeber zu Wettbewerbszwecken",
+    "Nichtigkeitsfolge nach Normzweck: Verbot an beide Parteien → nichtig; Ergebnis Frage 2: kein Anspruch"
+  ],
+  "src": [
+    {
+      "doc": "BGB_5",
+      "page": 44
+    },
+    {
+      "doc": "BGB_5",
+      "page": 45
+    },
+    {
+      "doc": "BGB_5",
+      "page": 46
+    },
+    {
+      "doc": "BGB_5",
+      "page": 47
+    },
+    {
+      "doc": "BGB_5",
+      "page": 51
+    },
+    {
+      "doc": "BGB_5",
+      "page": 52
+    },
+    {
+      "doc": "BGB_5",
+      "page": 56
+    },
+    {
+      "doc": "BGB_6",
+      "page": 37
+    },
+    {
+      "doc": "BGB_6",
+      "page": 38
+    },
+    {
+      "doc": "BGB_6",
+      "page": 39
+    },
+    {
+      "doc": "BGB_6",
+      "page": 45
+    }
+  ]
+}
