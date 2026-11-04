@@ -1,0 +1,1467 @@
+{
+  "id": "prop-meinungsstreit",
+  "moduleId": "55100",
+  "ke": null,
+  "topicIds": [
+    "prop-e"
+  ],
+  "title": "Kurz oder weit – von der Feststellung zum Meinungsstreit",
+  "estMinutes": 180,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Das Grundmodell und der Rhythmus des Gutachtens",
+      "short": "Ein Gutachten klärt eine Rechtsfrage als Abfolge von Fragen und Antworten; je nach Gewicht des Prüfgegenstands ist der Weg kurz oder lang – daraus ergibt sich ein eigener Rhythmus. Idealtypisch ist der Fünfschritt: Obersatz, Voraussetzung, Definition, Subsumtion, Ergebnis. In der Praxis wird dieses Ideal oft verkürzt, immer aber erweitert.",
+      "long": "## Fünfschritt (S. 155)\n\nIdealtypisch: **1.** Frage im Obersatz → **2.** Voraussetzung, unter der sie zu bejahen ist → **3.** Definition der Voraussetzung → **4.** Subsumtion → **5.** Ergebnis als Antwort.\n\n**Tabelle 20 – Annahme eines Angebots:**\n- *Obersatz:* K müsste das Angebot des V durch eine eigene Willenserklärung angenommen haben.\n- *Voraussetzung:* Das setzt voraus, dass K eine Annahmeerklärung abgegeben hat.\n- *Definition:* Eine Annahme liegt vor, wenn sich der Erklärende mit einem Vertragsschluss zu den im Angebot genannten Bedingungen einverstanden erklärt.\n- *Subsumtion:* In seinem Antwortschreiben hat sich K ohne Einschränkungen und Vorbehalte damit einverstanden erklärt, einen Kaufvertrag zu den im Angebot des V genannten Konditionen zu schließen.\n- *Ergebnis:* Damit hat K das Angebot des V angenommen.\n\nDer Weg von der Frage zur Antwort kann **kurz oder lang** sein – dem **Gewicht des Prüfgegenstands** entsprechend; so entsteht der **Rhythmus** einer Falllösung. Das Ideal wird **häufig verkürzt, immer jedoch erweitert**.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 155
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Kürzen (1): Mut zur Lücke und die „Insbesondere-Prüfung“",
+      "short": "Der juristische Stil ist knapp; ein elliptischer Text strahlt im besten Fall Kompetenz aus, im schlechtesten weiß der Verfasser selbst nicht, was er weggelassen hat. Anfänger schreiben lieber mehr als zu wenig und machen stets klar, was gerade geprüft wird. Bei der Insbesondere-Prüfung (pars pro toto) wird nur das kritischste Merkmal geprüft – erlaubt nur bei nebensächlicher Prüfung, offensichtlich unproblematischen übrigen Merkmalen und einem „Flaschenhals“-Merkmal; in der Ausbildung stets „alle übrigen Voraussetzungen sind erfüllt“ hinzufügen.",
+      "long": "## Kürzen und Anreichern (S. 155–156)\n\nDenkökonomische und rhetorische Gründe verbieten oft den vollständigen Fünfschritt. Der deutsche Juristenstil ist knapp – mit einer **Dichte und Lückenhaftigkeit**, die für Laien oft unverständlich ist. **Anfängern** ist zu raten, **lieber etwas mehr als zu wenig** zu schreiben und dem Leser jederzeit klarzumachen: Was wird geprüft? Welche Voraussetzung? Warum? Mit welchem Ergebnis? Einen eleganten Stil erreicht man erst mit **„Mut zur Lücke“** an der passenden Stelle; eine allgemeine Regel gibt es nicht, lernen kann man aber die Grundformen des **Abkürzens (Ellipse)** und des **Anreicherns (Amplifikation)**.\n\n## Einer für alle: Insbesondere-Prüfung (S. 156–157)\n\n**Tabelle 21 – Brandstiftung, § 306 Abs. 1 Nr. 2 StGB:** *Obersatz:* A könnte sich nach § 306 Abs. 1 Nr. 2 StGB strafbar gemacht haben, indem er die Geschäftsräume von G in Brand gesteckt hat. *Voraussetzung:* insbesondere ein taugliches Tatobjekt – in Betracht kommt die „Betriebsstätte“. *Definition:* ortsfeste Einrichtungen, die der Ausübung eines auf Dauer angelegten Unternehmens dienen. *Subsumtion:* G betreibt dort eine internationale Immobilienagentur. *Ergebnis:* Da alle übrigen Voraussetzungen erfüllt sind, hat sich A strafbar gemacht.\n\nEin einziges Merkmal steht für alle (**pars pro toto**). Erlaubt **nur**, wenn\n- es sich um eine **eher nebensächliche** Prüfung handelt,\n- alle weiteren Merkmale **offensichtlich unproblematisch** sind und\n- das ausgewählte Merkmal deutlich die **kritischste Bedingung** („Flaschenhals“) ist.\n\nIm **ersten Semester** übt man das Grundmodell und entscheidet sich **zulasten des Stils und zugunsten von Klarheit und Vollständigkeit**. In der Ausbildung nach einer Insbesondere-Prüfung immer hinzufügen, dass **„alle übrigen Voraussetzungen erfüllt sind“** (die Rechtsprechung verzichtet meist darauf) – und kontrollieren, ob das stimmt (S. 157).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 155
+        },
+        {
+          "doc": "PROP_1",
+          "page": 156
+        },
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Kürzen (2): Voraussetzungen verschweigen und knappe Feststellung",
+      "short": "Im weiteren Gutachten wird das Benennen der Voraussetzung typischerweise übersprungen: Sie kann im Obersatz stecken (Luftfahrzeug, § 306 Abs. 1 Nr. 4 StGB) oder als Definition eingeführt werden (Zugang, § 130 Abs. 1 BGB; Annahme, § 146 BGB). Die Form „Obersatz – Definition“ ist undurchsichtiger, wirkt aber sachlicher und öffnet den Weg ins Normsystem. Mitgedacht werden müssen die Voraussetzungen immer. Bei gänzlich unzweifelhaften Fällen genügt die Kurzform im Urteilsstil, notfalls nur das Ergebnis.",
+      "long": "## Voraussetzungen verschweigen (S. 157–160)\n\nNach dem ersten Obersatz muss man die Voraussetzungen nennen; im weiteren Verlauf ist es **gutachtentypisch, sie zu überspringen**. Herkömmliche Schemata schlagen sie dem Obersatz zu.\n\n**a) Die Voraussetzung steckt im Obersatz (Tabelle 22):** „A könnte sich durch das Verheizen des Modellflugzeugs von F wegen einer Brandstiftung nach § 306 Abs. 1 Nr. 4 StGB (In-Brand-Setzen eines Luftfahrzeugs) strafbar gemacht haben.“ – *Definition:* Luftfahrzeuge sind alle zum Personentransport im Luftraum vorgesehenen Verkehrsmittel und Gerätschaften. – *Subsumtion:* Das Modellflugzeug ist kein solches. – *Ergebnis:* keine Strafbarkeit nach § 306 Abs. 1 Nr. 4 StGB.\n\n**b) Die Voraussetzung steckt in der Definition (Tabellen 23–26):** „Um wirksam zu werden, müsste das Angebot des A dem E zugehen, § 130 Abs. 1 BGB. Zugang bedeutet, die Erklärung muss dergestalt in den Machtbereich des Empfängers gelangen, dass dieser bei Annahme gewöhnlicher Verhältnisse von der Erklärung Kenntnis erlangen kann. E wurde der Brief in den Briefkasten geworfen, weshalb ihm die Erklärung wirksam zugegangen ist.“ Die Definition dient hier als **besondere Stilform, Voraussetzungen aufzustellen**; gleichwertig wäre „Zugang setzt voraus, dass …“. Ebenso bei der **Annahme (§ 146 BGB)**: grundsätzlich empfangsbedürftige Willenserklärung, durch die der Angebotsempfänger sein **uneingeschränktes Einverständnis** mit dem angetragenen Vertragsschluss zum Ausdruck bringt.\n\n**Vergleich (S. 160):** „Obersatz – Definition“ ist **undurchsichtiger** als „Obersatz – Voraussetzung“, hat aber Vorteile: Die Prüfung wirkt **sachlicher, fachlicher, autoritativer** und betritt unmittelbar das **System der Normen und dogmatischen Sätze**. **Merke:** Auch wenn Voraussetzungen nicht erwähnt werden, müssen sie **immer mitgedacht** werden – sonst verliert man den roten Faden.\n\n## Die knappe Feststellung (S. 160–161)\n\nIst der Fall **gänzlich unzweifelhaft** und warten andere Probleme:\n- **Kurzform (Tabelle 27):** „A könnte sich durch das Anzünden von Hs Wohnhaus wegen Brandstiftung nach § 306 Abs. 1 Nr. 1 StGB strafbar gemacht haben. Da A ein fremdes Gebäude in Brand gesetzt hat, hat er sich … strafbar gemacht.“ – Feststellungen und **Urteilsstil** sind hier erlaubt; typisch gegen Ende eines Abschnitts für fernerliegende Normen.\n- **Stark gekürzt (Tabelle 28):** „Eine Strafbarkeit wegen Übler Nachrede, § 186 StGB, scheidet schon mangels Äußerung einer Tatsache aus.“\n- **Nur Ergebnis (Tabelle 29):** Wegen des spezialgesetzlichen Verhältnisses zu dem bereits nicht einschlägigen § 185 StGB kommen weder § 186 noch § 187 StGB in Betracht.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 157
+        },
+        {
+          "doc": "PROP_1",
+          "page": 158
+        },
+        {
+          "doc": "PROP_1",
+          "page": 159
+        },
+        {
+          "doc": "PROP_1",
+          "page": 160
+        },
+        {
+          "doc": "PROP_1",
+          "page": 161
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Hinzufügen (1): Wiederholung von Prüfelementen und Gliederung",
+      "short": "Fortgeschrittene Gutachten reichern den Fünfschritt an. Am einfachsten durch Wiederholung: mehrere Voraussetzungen (Abgabe und Zugang, § 130 Abs. 1 BGB), kumulativ oder alternativ, und geschachtelte Voraussetzungen, die neben die horizontale eine vertikale Prüfebene stellen. Bei einer Voraussetzungskette ist jede Voraussetzung zugleich Obersatz der nächsten Bedingung. Peinliche Ordnung der Ebenen mit alphanumerischer Gliederung; auf 1. folgt immer 2.",
+      "long": "## Mehrere Voraussetzungen (S. 161–162)\n\n**Tabelle 30 – Wirksamkeit eines Angebots:** *Obersatz:* Das Angebot des V müsste wirksam geworden sein. *Voraussetzung:* Abgabe durch V und Zugang bei K gem. § 130 Abs. 1 BGB. *Definition I:* Abgabe = **willentliche Entäußerung** einer Willenserklärung in Richtung auf den Empfänger; *Subsumtion:* V hat den Brief willentlich auf den Weg gebracht → abgegeben. *Definition II:* Zugang = Gelangen in den Machtbereich des Empfängers, sodass unter gewöhnlichen Umständen mit Kenntnisnahme gerechnet werden darf; *Subsumtion:* Brief im Briefkasten → zugegangen. *Ergebnis:* wirksames Angebot, § 130 BGB.\n\nVoraussetzungen können **kumulativ** (1 und 2 und 3) oder **alternativ** (1 oder 2) vorliegen und ihrerseits von weiteren Voraussetzungen abhängen: Neben die **horizontale** Prüfebene (Obersatz, Voraussetzung/Definition, Subsumtion) tritt eine **vertikale** (Voraussetzung, Voraussetzung´, Voraussetzung´´). Unverzichtbar: **peinliche Ordnung der logischen Ebenen** mit den üblichen **alphanumerischen Gliederungspunkten**, die der dezimalen Gliederung (2.3.6.1.4) vorzuziehen sind (S. 162; Abb. 61: Prüfungsgliederung Kaufvertrag, S. 163).\n\n## Doppelfunktion von Voraussetzung und Obersatz (S. 163–164)\n\nWird eine Voraussetzung durch eine weitere bedingt (**Voraussetzungskette**), ist sie zugleich der **Obersatz der folgenden Bedingung** (Tabelle 31): Anspruch aus § 433 Abs. 2 BGB → setzt wirksamen Kaufvertrag voraus → dafür zwei übereinstimmende Willenserklärungen, Angebot und Annahme (§§ 145 ff. BGB).\n\n**Übersichtlich gliedern** heißt nicht „logisch“ im engeren Sinn, sondern **fachlich bewährt**: Auf Unterpunkt 1. folgt traditionell ein Unterpunkt 2. („wer A sagt, muss auch B sagen“). Zwischenergebnisse können auf derselben Ebene wie der Obersatz oder eine Ebene tiefer stehen (S. 164).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 161
+        },
+        {
+          "doc": "PROP_1",
+          "page": 162
+        },
+        {
+          "doc": "PROP_1",
+          "page": 163
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Hinzufügen (2): Probleme mit Tatsachen",
+      "short": "Jedes fallbezogene Ergebnis beruht auf rechtlichen und tatsächlichen Voraussetzungen (Pudel als Sache über § 90a S. 3 BGB). Selbstverständliches knapp, Problematisches breit: Leichte Unschärfen (der „Grüne Heinrich“ ist ein Buch, ein Band) deutet man in der Subsumtion an; gezielte Verwirrung würdigt man mit eigenem tatsachenhaltigem Obersatz´ und Alltagsargumenten (Restrictio: „wenn auch … so doch“); schwerere Tatsachenfragen werden mit Rechtssätzen gelöst (Feld: Beherrschbarkeit, Abgrenzbarkeit nach Verkehrsauffassung). Erklärungen werden nach §§ 133, 157 BGB aus Sicht eines objektiven Empfängers ausgelegt (invitatio ad offerendum).",
+      "long": "## Rechtliche und tatsächliche Voraussetzungen (S. 164–165)\n\nProbleme kommen aus **Rechtsfragen** oder aus **Tatsachen**. Jedes fallbezogene Ergebnis beruht auf beiden (Tabelle 32): *rechtlich* „Bei dem Angriffsobjekt muss es sich um eine Sache handeln“ – *tatsächlich* „A hat dem Pudel des P das Fell geschoren“ – *Subsumtion:* Tiere sind gem. **§ 90a S. 3 BGB** rechtlich den Sachen gleichzustellen → der Pudel gilt als Sache. Lösungsskizzen verschmelzen das oft („Indem A bewusst seine Hand gehoben hat, hat er eine Erklärung mit Handlungswillen abgegeben“) – das Strukturwissen braucht man aber, wenn die Tatsachen schwierig liegen. Bei echten Unklarheiten in Klausuren: **klärende Nachfrage** nutzen (S. 165–166).\n\n## Passend gewichten (S. 166–167)\n\n**Selbstverständliches knapp, Problematisches breit.** Tabelle 33: „A müsste eine Sache zerstört haben. Unter einer Sache ist jeder körperliche Gegenstand zu verstehen, § 90 BGB. Das Mobiltelefon des B ist ein körperlicher Gegenstand. Somit hat A eine Sache zerstört.“\n\n## Leichte Unschärfe (S. 166–167)\n\nDer Täter vernichtet den „seit Jugendzeiten geliebten **Grünen Heinrich**“ des S – klar ist ein Buch (Gottfried Keller) gemeint. Man bleibt im **Feststellungsmodus**, deutet die Problematik in der Subsumtion an („Der ‚Grüne Heinrich‘, eines der Bücher des S, ist ein körperlicher Gegenstand“). Mangels Hinweis gilt der **Regelfall** (ein Band). Wer durch Spekulation und Spezialwissen (vier Bände, zwei Fassungen) in ein Prüfungsdickicht gerät, tritt den **Rückzug** an.\n\n## Gezielte Verwirrung (S. 167–170)\n\nIst der Sachverhalt bewusst zweideutig (Verwüstung in der Villa des Sammlers; ist „Heinrich“ vielleicht der Onkel mit der grünen Joppe?), würdigt man das **wenigstens kurz** (Tabelle 35): Das zweifelhafte Sachverhaltselement knapp voranstellen (Rn. 1) → **eigenständiger tatsachenhaltiger Obersatz´** („Fraglich ist bereits, ob es sich bei dem ‚Grünen Heinrich‘ um einen Gegenstand handelt.“, Rn. 2) → **Begründung´** mit **allgemeinen, alltäglichen Gesichtspunkten** (Tatort: menschenleere Villa voller Kunstgegenstände und Bücher, Rn. 3) → Ergebnis´. Rhetorische Figur **Restrictio** („zwar … aber“, „wenn auch … so doch“, „gewiss … indes“) zeigt, dass man die Gegenposition kennt – eine ausdrückliche Erörterung kann dann unterbleiben.\n\n## Tatsachenfragen, die durch Rechtssätze gelöst werden (S. 170)\n\n**Tabelle 36 – landwirtschaftlich genutztes Feld:** Sache = körperlicher Gegenstand i. S. d. § 90 BGB → Körperlichkeit setzt **Beherrschbarkeit** voraus → Beherrschbarkeit, wenn sinnlich wahrnehmbar und **im Raum abgegrenzt oder abgrenzbar**, bei natürlicher Betrachtung als Einheit → was abgrenzbar ist, entscheidet vor allem die **Verkehrsauffassung**, weniger die Physik → das Feld ist eine abgegrenzte Fläche → körperlicher Gegenstand → Sache. Die selbstverständliche sinnliche Wahrnehmbarkeit läuft nach dem Insbesondere-Grundsatz still mit.\n\n## Auslegung von Erklärungen und Verträgen (S. 170–174)\n\nStrukturell wie andere Unklarheiten, materiell nach **Auslegungsregeln**: Willenserklärungen sind so zu verstehen, **wie ein objektiver Empfänger** sie in der Situation verstanden hätte (§§ 133, 157 BGB) – zugunsten eines sicheren Rechtsverkehrs.\n- **Unproblematisch (Tabelle 37):** Die Auslegung klingt nur an.\n- **Auslegungsbedürftig (Tabelle 38):** K schreibt von der Geschäftsadresse mit Firmensignatur „Gerne einverstanden“, dachte aber an eine private Essenseinladung. Maßstab: verständiger, unbeteiligter Dritter → eindeutig Bezug auf das geschäftliche E-Mail-Angebot → Annahme. Wird es kritischer, Argumente **ausführen** statt nur andeuten (Tabelle 39).\n- **Invitatio ad offerendum (Tabelle 40):** B wirbt im Bioladen für glutenfreie Schokokekse „frisch aus dem Ofen für 4 EUR / Stück“; Z will zwei, B sagt, alles sei vorbestellt. Angebot setzt die essentialia negotii und **Rechtsbindungswillen** voraus; dieser ist durch Auslegung vom Empfängerhorizont zu ermitteln. Wer sich an das breite Publikum wendet, muss sich die Prüfung der eigenen Leistungsfähigkeit und der Zahlungsfähigkeit des Gegners vorbehalten → **Aufforderung zur Abgabe von Angeboten** → B hat kein Angebot abgegeben. Bei noch größeren Schwierigkeiten: **Argumente und Gegenargumente** diskutieren und jeden Punkt einer Lösung zuführen (S. 174).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 164
+        },
+        {
+          "doc": "PROP_1",
+          "page": 165
+        },
+        {
+          "doc": "PROP_1",
+          "page": 166
+        },
+        {
+          "doc": "PROP_1",
+          "page": 167
+        },
+        {
+          "doc": "PROP_1",
+          "page": 168
+        },
+        {
+          "doc": "PROP_1",
+          "page": 169
+        },
+        {
+          "doc": "PROP_1",
+          "page": 170
+        },
+        {
+          "doc": "PROP_1",
+          "page": 171
+        },
+        {
+          "doc": "PROP_1",
+          "page": 172
+        },
+        {
+          "doc": "PROP_1",
+          "page": 173
+        },
+        {
+          "doc": "PROP_1",
+          "page": 174
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Hinzufügen (3): Rechtsaussagen problematisieren – vom Unstreitigen zu mehreren Meinungen",
+      "short": "Der größte Prüfaufwand folgt aus der Rechtslage, vor allem wenn verschiedene Meinungen vertreten werden – doch es überwiegt, worüber Juristen einig sind. Was klar ist, wird nicht problematisiert („nach unstreitiger Auffassung“ ist überflüssig). Schwindet die Einhelligkeit, folgen Definitionen und Autoritätsreferenzen; beachtlich sind nur Fachautoritäten in maßgeblichen Organen, mit Blick auf die Hierarchie. Exponiert ein Sachverhalt einen Meinungsunterschied (Versammlung des „DV“), ist er als Meinungsstreit auszutragen. Rechtsmeinungen sind keine Wahrheiten; man bewertet sie als „überzeugend“ oder „vertretbar“. Meinungsmäßigkeit ist oft versteckt, manchmal offen.",
+      "long": "## Nicht der Rede wert (S. 174–175)\n\n„Zwei Juristen, drei Meinungen“ – dennoch **überwiegt das, worüber man sich einig ist**. Was klar ist, wird schlicht festgestellt oder übersprungen (z. B. dass „Sache“ zum Tatbestand des § 303 Abs. 1 StGB gehört). Hergebrachte Definitionen verwendet man **ohne Begründung oder Meinungsnachweis**: Falsch ist „Eine Sache ist nach unstreitiger Auffassung fremd, wenn …“ oder eine Häufung von Belegen; richtig: „Eine Sache ist fremd, wenn sie (zumindest auch) im Eigentum eines anderen steht.“\n\n## Definitionen und Referenzen (S. 175)\n\nSchwindet die Einhelligkeit, ergänzt man die Rechtsaussage um **Definitionen, Erklärungen und Autoritätsreferenzen** (Zitate, Verweise; Beispiel Di Fabio zum Recht auf informationelle Selbstbestimmung). Beachtlich sind nur **Fachautoritäten in maßgeblichen Publikationsorganen** – mit Blick auf die **Hierarchie**: Der BGH zählt mehr als das AG Montabaur, das Lehrbuch in 15. Auflage mehr als der erste Aufsatz eines Doktoranden. Entscheidend ist neben der Argumentqualität auch die **Anerkennung des Autors** und die **institutionelle Autorisierung**.\n\n## Mehrere Rechtsmeinungen (S. 176–178)\n\n**Beispiel DV:** Der „Deutschpatriotische Verbund“, der mit rechtsextremistischen Symbolen auftritt, meldet eine Kundgebung an; die Behörde verbietet sie unter Hinweis auf die Werteordnung des Grundgesetzes; der DV beruft sich auf **Art. 8 GG**. *M1:* Versammlungsschutz ist bei rechtsextremistischen Versammlungen einzuschränken. *M2:* Art. 8 GG schützt Versammlungen unabhängig vom Inhalt der Meinung. Exponiert der Sachverhalt den Streit so, muss er **als Meinungsstreit** ausgetragen werden – „zwar … aber“ oder „a. A.“ genügen nicht.\n\n**Gewichtung (S. 176–177):** Nicht jeder Sachverhalt serviert den Streit „auf dem Silbertablett“; man muss Brisanz und Relevanz selbst erschließen – aus dem Sachverhalt und der Vertrautheit mit dem Rechtsstoff. Eine **aktuelle Debatte** beansprucht mehr Raum als ein nur noch historischer Streit.\n\n**Woran erkennt man einen Meinungsstreit? (S. 177–178)** Anerkannte Fachvertreter vertreten verschiedene Meinungen. Rechtsmeinungen sind **keine Wahrheiten**, sondern zeit- und sozialbedingte Behauptungen; man nennt sie nicht „wahr/falsch“, sondern „überzeugend“, „gut begründet“, „vertretbar“, „kaum noch vertretbar“.\n- **Versteckte Meinungsmäßigkeit:** Meinungen erscheinen als objektive, unpersönliche Aussagen; ihr Meinungscharakter zeigt sich erst im Kontext (Zustimmung, Widerspruch, Nennung des Verfassers).\n- **Offene Meinungsmäßigkeit:** „Nach herrschender Meinung und ständiger Rechtsprechung des BGH …“, „Die Gegenmeinung überzeugt nicht …“. Auch „Lehre“, „Theorie“, „Schule“, „Prinzip“; moderne Ausdrücke wie „Ansatz“, „Tendenz“, „Konzept“ sind im **Anfängergutachten zu meiden**.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 174
+        },
+        {
+          "doc": "PROP_1",
+          "page": 175
+        },
+        {
+          "doc": "PROP_1",
+          "page": 176
+        },
+        {
+          "doc": "PROP_1",
+          "page": 177
+        },
+        {
+          "doc": "PROP_1",
+          "page": 178
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Der Meinungsstreit: Fallbezug, Entscheidungszwang, Wettbewerb der Argumente",
+      "short": "Jeder Meinungsstreit ist ein Knotenpunkt und eine Chance zu glänzen. Aufgabe ist, den Fall zu lösen, nicht eine Abhandlung zu schreiben. Der Gutachter steht unter Entscheidungszwang und muss mit eigener Stellungnahme entscheiden; Ausnahme: Alle Auffassungen führen im konkreten Fall zum selben Ergebnis (für Anfänger mit Vorsicht). Der Streit ist kein herrschaftsfreier Diskurs, sondern durch anerkannte Formen, Institutionen und Autoritäten geprägt; es obsiegt die Meinung, die diesen Ansprüchen am besten gerecht wird und eine gerechte Grundlage für den Fall bietet – mit einem Hin- und Herwandern des Blicks zwischen Recht und Sachverhalt.",
+      "long": "## Fallbezug (S. 178–179)\n\nIhre Aufgabe lautet: **Löse diesen Fall!** – nicht: Erstelle eine wissenschaftliche Abhandlung. Im DV-Fall geht es nicht um eine Aufarbeitung des Rechtsradikalismus oder der wehrhaften Demokratie. Wohl aber muss die anzuwendende Norm mit ihren abstrakten Merkmalen hinlänglich geklärt werden.\n\n## Entscheidungszwang (S. 179)\n\nDer Meinungswiderspruch ist darzulegen und durch **eigene Stellungnahme** zu entscheiden. Der Gutachter darf nicht ausweichen oder grundskeptische Fragen stellen (Was ist Recht, Gerechtigkeit, Wahrheit?); am Ende hat das Gutachten alle „vernünftigen“ Zweifel ausgeräumt.\n\n**Ausnahme:** Führen **alle streitigen Auffassungen im konkreten Fall zum selben Ergebnis**, darf der Streit offenbleiben („Da sowohl M1 wie M2 zu demselben Ergebnis gelangen, ist eine Entscheidung entbehrlich.“). **Vorsicht für Anfänger:** Der Ergebnisvorgriff bricht mit dem Gutachtenstil, und bei Fehleinschätzung verschenkt man einen „punktehaltigen“ Meinungsstreit. Deshalb sind schon bei der Darstellung jeder Meinung deren **Konsequenzen für den Fall** zu prüfen.\n\n## Wettbewerb der Argumente (S. 179–180)\n\nZwei Meinungen tauschen Pro und Contra aus, bis Sieger und Verlierer bzw. eine **vermittelnde Position** feststehen. Der Prozess ist **kein „herrschaftsfreier Diskurs“** (Habermas), sondern bestimmt und begrenzt durch\n- gesetzlich geregelte oder rechtsfachlich anerkannte **Formen und Verfahren**,\n- den Einfluss rechtsprägender **Institutionen** (Gerichte, Ministerien, Fachvereinigungen, Verlage),\n- die Wirkung von **Autoritäten** (hoheitliche, traditionelle, fachliche, persönliche).\n\nDaher ist das Ergebnis eines Meinungsstreits nie ganz vorhersagbar. Es obsiegt die Meinung, die diesen Ansprüchen am besten Rechnung trägt – und die **eine gerechte normative Grundlage für den zu entscheidenden Fall** bietet. Erforderlich ist ein **„Hin- und Herwandern des Blicks“** zwischen Recht und Sachverhalt (Engisch).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 178
+        },
+        {
+          "doc": "PROP_1",
+          "page": 179
+        },
+        {
+          "doc": "PROP_1",
+          "page": 180
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Aufbau des Meinungsstreits: Einleitung, Streitstand, Subsumtion, Stellungnahme",
+      "short": "Strenge, kürz- oder streckbare, aber unveränderliche Abfolge: Einleitung mit knapper Problembeschreibung – Darstellung jeder Meinung mit inhaltsbezogener Überschrift (nicht „h. M./M. M.“) und dogmatischer Begründung – Subsumtion und Ergebnis je Meinung – Stellungnahme unter eigener Überschrift (nur nötig, wenn die Ergebnisse abweichen). In der Stellungnahme werden die Argumente bewertet (Standard- oder Langschema), typischerweise zuerst die der nicht favorisierten Meinung, dann ihre Widerlegung, dann die für die favorisierte; stärkstes Argument als Faustregel ans Ende. Nicht: sofort eine eigene M3 präsentieren oder einseitig Partei ergreifen.",
+      "long": "## Grundstruktur (S. 181–182)\n\nDie Abfolge darf man **kürzen oder strecken, aber nicht ändern** (Abb. 63); beliebig viele Meinungen sind möglich. In Lösungsskizzen: M1 (h. M.), M2 (a. A./M. M.), eigene/vermittelnde Meinung.\n\n## a) Einleitung (S. 182)\n\nÜberleitungssatz, der das Rechtsproblem umreißt („… hat die Frage nach den Grenzen des grundrechtlichen Versammlungsschutzes zu kontroversen Ansichten geführt.“). Rechtlicher Bezugspunkt und Fall nennen; **keine** tiefe Einordnung, **keine** historisch-politische Analyse – wenige klare Sätze.\n\n## b) Streitstand (S. 182–184)\n\nJede Meinung erhält eine eigene, möglichst **inhaltsbezogene Überschrift** („Beschränkung rechtsextremistischer Versammlungen“ / „Schutz rechtsextremistischer Versammlungen“); „Erste/Zweite Meinung“ ist nicht falsch. **Zu vermeiden:** qualifizierende Überschriften wie „Herrschende Ansicht“ oder „Mindermeinung“ – sie betreffen die Anerkennung (**Ethos**), nicht den Inhalt (**Logos**), und nehmen eine Wertung vorweg. Zur Darstellung gehört die **dogmatische Begründung**: „Nach der einen Auffassung … Diese Ansicht wird damit begründet, dass …“. In Hausarbeiten mit Fundstellen belegen; die h. M. zeigt sich quantitativ durch mehr Belege.\n\n## c) Subsumtion und Ergebnis je Meinung (S. 184)\n\n**Schwerwiegender Fehler:** Meinungen nur abstrakt darstellen. Unter **jede** Ansicht ist gesondert zu subsumieren und ein konkretes Ergebnis zu nennen („… kann die DV nach dieser Meinung keinen grundrechtlichen Versammlungsschutz beanspruchen.“).\n\n## d) Stellungnahme (S. 184–191)\n\n**Erforderlich?** Kommen alle Meinungen zum selben Ergebnis: „Alle Ansichten gelangen zu demselben Ergebnis, daher ist der Streit nicht zu entscheiden.“ Führt auch nur eine zu einem anderen Ergebnis: Streitentscheid – regelmäßig ein **Schwerpunkt**.\n\n**Für und Wider:** Argumente der Meinungen bewerten, neue Gesichtspunkte einbringen, abwägend bleiben – erst danach die eigene Position. *Standardschema:* I. Bewertung – M1: dafür spricht …; M2: wenn auch einzuwenden ist …, spricht doch dafür (und damit gegen M1) … – II. Entscheidung. *Langschema:* jedes Argument „x, y, z“ bzw. „p, q“ einzeln mit Pro und Contra (S. 186). In Klausuren meist meinungsbezogene Bündel; entscheidend ist **Transparenz** (Welche Auffassung? Pro oder Contra? Welches Argument? Rechtlich – Normenhierarchie; methodisch – Auslegungskanon; tatsächlich – Topoi wie Folgen, Interessenausgleich, Effektivität).\n\n**Wie nicht (S. 187):** Meinungen darstellen und **sofort eine eigene M3** präsentieren; gleich **einseitig Partei ergreifen**, Gegner attackieren.\n\n**Pro und Contra mit Ergebnistendenz (S. 187–188):** Repertoire: zuerst die Argumente der nicht favorisierten Meinung, dann ihre Widerlegung, dann die Argumente für die favorisierte; Faustregel: **stärkstes Argument zuletzt** (aber nur Faustregel). Sachlich bleiben, allen Positionen „Gehör gewähren“.\n\n**Eigene Position (S. 188–191):** Ein Ergebnis ist zwingend, sein Inhalt grundsätzlich offen – Dworkins **„One Right Answer Thesis“** passt nicht zu unserem System; „offen“ heißt aber nicht „alles vertretbar“. Varianten: Anschluss an eine Meinung (der unterlegenen „Referenz erweisen“, „zwar … aber“, gemeinsames Interesse betonen) oder **vermittelnde Meinung**. Kunstgriff bei Unsicherheit: im Streitstand **polarisieren** (objektiv – subjektiv, formell – materiell, weit – eng) und sich in der Entscheidung der vermittelnden oder herrschenden Auffassung anschließen. Am besten: eigenständig urteilen; bis dahin darf man fremde Argumentationen (mit Belegen) übernehmen.\n\n**Wer entscheidet? (S. 191):** **Sie** entscheiden und begründen – nicht „der BGH“ oder „die h. M.“ („Richtigerweise vertritt die h. M. …“ – falsch). Aber auch nicht „meine Meinung“ als Lösung verkünden oder eine neue „Theorie“ vorschlagen. Richtig: „Die Gründe des Vertrauensschutzes sprechen für die zuletzt genannte Auffassung. Es erscheint sachgerechter, …“.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 181
+        },
+        {
+          "doc": "PROP_1",
+          "page": 182
+        },
+        {
+          "doc": "PROP_1",
+          "page": 183
+        },
+        {
+          "doc": "PROP_1",
+          "page": 184
+        },
+        {
+          "doc": "PROP_1",
+          "page": 185
+        },
+        {
+          "doc": "PROP_1",
+          "page": 186
+        },
+        {
+          "doc": "PROP_1",
+          "page": 187
+        },
+        {
+          "doc": "PROP_1",
+          "page": 188
+        },
+        {
+          "doc": "PROP_1",
+          "page": 189
+        },
+        {
+          "doc": "PROP_1",
+          "page": 190
+        },
+        {
+          "doc": "PROP_1",
+          "page": 191
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Sprachliche Darstellung und Musterbeispiel: Erklärungsbewusstsein",
+      "short": "Klare, einfache, knappe Sätze; man sollte den Argumentationsgang einer Meinung einem Nicht-Juristen erzählen können. Neutrale, nüchterne Sprache, kein „meiner Meinung nach“, keine abfälligen, ironischen oder beleidigenden Wertungen („Canaris verkennt völlig …“). Faustregel: Gefällt Ihnen Ihr Text zu sehr, sind Sie auf Abwegen. Musterbeispiel: Willenstheorie (Erklärungsbewusstsein unverzichtbar, Erst-recht-Schluss aus § 118 BGB) gegen Erklärungstheorie (potentielles Erklärungsbewusstsein, Vertrauensschutz) beim Handheben auf einer Versteigerung.",
+      "long": "## Sprache (S. 191–192)\n\nText durch **klare, einfache und knappe Sätze** verständlich machen. Hilfreich: sich vorstellen, man erzähle den Argumentationsgang einem **Nicht-Juristen** beim Abendessen – hinter jeder Begründung steckt die **Geschichte eines Streits** („Narration“).\n\n**Neutral, nüchtern, sachlich** – auch bei innerem Engagement. Unpassend: „meiner Meinung nach“, „ich denke, dass …“. Gänzlich verfehlt: heftige, abfällige, ironische Wertungen oder Beleidigungen. *Falsch:* „Canaris verkennt hier völlig …“, „Man fragt sich ernstlich, ob es dem BVerfG entgangen ist …“, „evident absurde Argumentation“. *Richtig:* „… kann aus den genannten Gründen nicht gefolgt werden.“ – „… ist insbesondere angesichts von … kaum vertretbar und vermag daher nicht zu überzeugen.“ **Faustregel:** Wenn Ihnen Ihr Text bei der Darstellung von Rechtsmeinungen so richtig zu gefallen beginnt, sind Sie meist schon auf Abwegen.\n\n## Musterbeispiel Erklärungsbewusstsein (S. 192–193)\n\nG hat auf einer Versteigerung die Hand gehoben, ohne sich der rechtlichen Bedeutung bewusst zu sein.\n1. **Willenstheorie** (im Beispiel als Minderansicht bezeichnet): Maßgeblich ist allein der **subjektive Wille**; das **Erklärungsbewusstsein** ist unverzichtbar. Begründung: **Erst-recht-Schluss aus § 118 BGB** – wenn schon eine nicht ernstlich gemeinte Erklärung nichtig ist, dann erst recht bei fehlendem Erklärungsbewusstsein (vgl. Canaris, NJW 84, 2281). *Subsumtion:* G hätte kein wirksames Angebot abgegeben.\n2. **Erklärungstheorie** (h. M.): Maßgeblich ist, wie ein **objektiver Dritter** das Verhalten verstehen durfte; es genügt **potentielles Erklärungsbewusstsein** – außer der Erklärende konnte bei Anwendung der **im Verkehr erforderlichen Sorgfalt** nicht erkennen, dass er etwas rechtlich Erhebliches erklärte. Hintergrund: **Schutz des Rechtsverkehrs**. *Subsumtion:* Auf Versteigerungen ist das Handheben als Gebot üblich; G hätte das erkennen können (so der Originalfall BGHZ 91, 324, 330) → G muss sich festhalten lassen. Mittelweg: grundsätzlich den Empfänger schützen, wenn der Erklärende die Bedeutung hätte erkennen können.\n3. **Stellungnahme:** „Die Gründe des Vertrauensschutzes sprechen für die zuletzt genannte Auffassung. Es erscheint sachgerechter, dem Erklärenden zuzumuten, sich über bestimmte Verhaltensweisen zu informieren, als den Erklärungsempfänger der mit der Maßgeblichkeit subjektiver Kriterien verbundenen Unsicherheit auszusetzen.“ → Willenserklärung liegt vor.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 191
+        },
+        {
+          "doc": "PROP_1",
+          "page": 192
+        },
+        {
+          "doc": "PROP_1",
+          "page": 193
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Fünfschritt (Grundmodell)",
+      "text": "Idealtypischer Prüfungsablauf: Obersatz – Voraussetzung – Definition – Subsumtion – Ergebnis; in der Praxis oft verkürzt, immer erweitert.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 155
+        }
+      ]
+    },
+    {
+      "term": "Ellipse und Amplifikation",
+      "text": "Grundformen des Abkürzens (Ellipse) und des Anreicherns (Amplifikation) einer gutachtlichen Prüfung.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 156
+        }
+      ]
+    },
+    {
+      "term": "Insbesondere-Prüfung",
+      "text": "Kürzungsstrategie, bei der nur das kritischste Merkmal („Flaschenhals“) für alle anderen geprüft wird (pars pro toto); nur zulässig bei nebensächlicher Prüfung und offensichtlich unproblematischen übrigen Merkmalen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 156
+        },
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "term": "Voraussetzungskette",
+      "text": "Eine Voraussetzung wird durch eine weitere bedingt; die erste Voraussetzung ist dann zugleich Obersatz der folgenden Bedingung (Doppelfunktion).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 163
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "term": "Restrictio",
+      "text": "Rhetorische Figur („zwar … aber“, „wenn auch … so doch“, „gewiss … indes“), mit der man zeigt, dass man die Gegenposition kennt, ohne sie ausdrücklich zu erörtern.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 169
+        }
+      ]
+    },
+    {
+      "term": "Invitatio ad offerendum",
+      "text": "Aufforderung zur Abgabe von Angeboten: Jemand will offenkundig selbst noch kein Angebot abgeben, sondern den anderen zur Abgabe von Angeboten auffordern; es fehlt am Rechtsbindungswillen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "term": "Juristischer Meinungsstreit",
+      "text": "Liegt vor, wenn anerkannte Fachvertreter zu einer Rechtsfrage verschiedene Meinungen vertreten; Rechtsmeinungen sind keine Wahrheiten, sondern zeit- und sozialbedingte Behauptungen, die als „überzeugend“ oder „vertretbar“ bewertet werden.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 177
+        }
+      ]
+    },
+    {
+      "term": "Entscheidungszwang (im Gutachten)",
+      "text": "Der Gutachter muss einen Meinungswiderspruch mit eigener Stellungnahme entscheiden; entbehrlich nur, wenn alle Auffassungen im konkreten Fall zum selben Ergebnis führen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 179
+        }
+      ]
+    },
+    {
+      "term": "Stellungnahme",
+      "text": "Unter gesonderter Überschrift vorgenommene Bewertung der Argumente der dargestellten Meinungen mit anschließender begründeter Entscheidung für eine Meinung oder eine vermittelnde Position – sachlich und im objektiven Ton.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 184
+        },
+        {
+          "doc": "PROP_1",
+          "page": 185
+        },
+        {
+          "doc": "PROP_1",
+          "page": 189
+        }
+      ]
+    },
+    {
+      "term": "Potentielles Erklärungsbewusstsein",
+      "text": "Nach der Erklärungstheorie genügt es, dass für einen objektiven Dritten der Eindruck entstand, der Erklärende habe Erklärungsbewusstsein, sofern dieser bei Anwendung der im Verkehr erforderlichen Sorgfalt erkennen konnte, dass er etwas rechtlich Erhebliches erklärte.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 192
+        },
+        {
+          "doc": "PROP_1",
+          "page": 193
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Aufbau des gutachtlichen Meinungsstreits",
+      "steps": [
+        "1. Einleitung: knapper Überleitungssatz mit rechtlichem Bezugspunkt und Fall („Fraglich ist, … hierzu werden verschiedene Ansichten vertreten.“)",
+        "2. Streitstand: jede Meinung mit inhaltsbezogener Überschrift, Inhalt und dogmatischer Begründung („Diese Ansicht wird damit begründet, dass …“)",
+        "3. Subsumtion und Ergebnis gesondert für jede Meinung („Folgt man dieser Auffassung, …“)",
+        "4. Stellungnahme erforderlich? Gleiches Ergebnis → Streit nicht zu entscheiden; abweichende Ergebnisse → Streitentscheid",
+        "5. Stellungnahme: I. Bewertung der Argumente (Pro/Contra, transparent), II. Entscheidung (Anschluss an eine Meinung oder vermittelnde Meinung)",
+        "6. Ergebnis im objektiven Ton, Rückkehr zur Prüfung des Falls"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 181
+        },
+        {
+          "doc": "PROP_1",
+          "page": 182
+        },
+        {
+          "doc": "PROP_1",
+          "page": 184
+        },
+        {
+          "doc": "PROP_1",
+          "page": 185
+        },
+        {
+          "doc": "PROP_1",
+          "page": 189
+        }
+      ]
+    },
+    {
+      "title": "Kürzungsformen (vom Ausführlichen zum Knappen)",
+      "steps": [
+        "1. Vollständiger Fünfschritt (Anfänger, Schwerpunkte)",
+        "2. Insbesondere-Prüfung: nur das kritische Merkmal + „alle übrigen Voraussetzungen sind erfüllt“",
+        "3. Voraussetzung verschwiegen: steckt im Obersatz oder wird als Definition eingeführt (immer mitdenken!)",
+        "4. Kurzform im Urteilsstil: Obersatz + begründende Feststellung + Ergebnis",
+        "5. Stark gekürzt: nur Ergebnis mit Begründungshalbsatz („scheidet schon mangels … aus“)"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 156
+        },
+        {
+          "doc": "PROP_1",
+          "page": 157
+        },
+        {
+          "doc": "PROP_1",
+          "page": 158
+        },
+        {
+          "doc": "PROP_1",
+          "page": 160
+        },
+        {
+          "doc": "PROP_1",
+          "page": 161
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Sätze der Prüfung „Annahme eines Angebots“ (Tabelle 20) in die richtige Reihenfolge.",
+      "items": [
+        "K müsste das Angebot des V durch eine eigene Willenserklärung angenommen haben.",
+        "Das setzt voraus, dass K eine Annahmeerklärung abgegeben hat.",
+        "Eine Annahme liegt vor, wenn sich der Erklärende mit einem Vertragsschluss zu den im Angebot genannten Bedingungen einverstanden erklärt.",
+        "In seinem Antwortschreiben hat sich K ohne Einschränkungen damit einverstanden erklärt, einen Kaufvertrag zu den Konditionen des V zu schließen.",
+        "Damit hat K das Angebot des V angenommen."
+      ],
+      "explanation": "Obersatz – Voraussetzung – Definition – Subsumtion – Ergebnis (S. 155).",
+      "hints": [
+        "Fünfschritt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 155
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Anfängern rät der Studienbrief, lieber etwas mehr als zu wenig zu Papier zu bringen und dem Leser jederzeit klarzumachen, was gerade geprüft wird.",
+      "answer": true,
+      "explanation": "Ein elliptischer Text kann Kompetenz ausstrahlen – im schlechtesten Fall weiß der Verfasser selbst nicht mehr, was er weggelassen hat (S. 156).",
+      "hints": [
+        "Klarheit vor Eleganz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 156
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Unter welchen Voraussetzungen ist die „Insbesondere-Prüfung“ nach dem Studienbrief erlaubt? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Es handelt sich um eine eher nebensächliche Prüfung",
+        "Alle weiteren Merkmale sind offensichtlich unproblematisch",
+        "Das ausgewählte Merkmal ist deutlich die kritischste Bedingung",
+        "Die Prüfung bildet den Schwerpunkt der Klausur"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Für Schwerpunkte gilt gerade das Gegenteil: ausführliche Prüfung (S. 157).",
+      "hints": [
+        "Flaschenhals."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Sie haben in einer Insbesondere-Prüfung zu § 306 Abs. 1 Nr. 2 StGB nur das Merkmal „Betriebsstätte“ geprüft. Was sollten Sie während der Ausbildung im Ergebnis ergänzen?",
+      "options": [
+        "Dass alle übrigen Voraussetzungen erfüllt sind",
+        "Einen Hinweis, dass die Rechtsprechung auf die übrigen Merkmale verzichtet",
+        "Eine vollständige Liste aller Tatbestandsmerkmale ohne Prüfung",
+        "Nichts – die Insbesondere-Prüfung spricht für sich"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Diese Beteuerung (auf die die Rechtsprechung meist verzichtet) gehört während der Ausbildung dazu, verbunden mit der Kontrollüberlegung, ob sie stimmt (S. 157).",
+      "hints": [
+        "Tabelle 21, Ergebnis."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 156
+        },
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welchen Vorteil hat nach dem Studienbrief die Konstruktion „Obersatz – Definition“ gegenüber „Obersatz – Voraussetzung“?",
+      "options": [
+        "Sie wirkt sachlicher, fachlicher und autoritativer und führt unmittelbar in das System der Normen und dogmatischen Sätze",
+        "Sie ist durchsichtiger und fallnäher",
+        "Sie macht das Mitdenken der Voraussetzungen entbehrlich",
+        "Sie ist nur im Strafrecht zulässig"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Sie ist etwas undurchsichtiger, aber der Sprung in die abstrakt-generelle Ebene hat diese Vorteile. Mitgedacht werden müssen die Voraussetzungen immer (S. 160).",
+      "hints": [
+        "Abstrakt-generelle Ebene."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 159
+        },
+        {
+          "doc": "PROP_1",
+          "page": 160
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "In der Kurzform für gänzlich unzweifelhafte Fälle (z. B. § 306 Abs. 1 Nr. 1 StGB beim Anzünden eines fremden Wohnhauses) dürfen Feststellungen und strikte Begründungen im Urteilsstil verwendet werden.",
+      "answer": true,
+      "explanation": "S. 160; typisch gegen Ende eines Abschnitts, wo fernerliegende Normen abgehakt werden.",
+      "hints": [
+        "Tabelle 27."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 160
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wird eine Voraussetzung durch eine weitere Voraussetzung bedingt (Voraussetzungskette), ist die erste Voraussetzung zugleich der {{1}} der folgenden Bedingung. Neben die horizontale Prüfebene tritt dann eine {{2}}.",
+      "blanks": [
+        [
+          "Obersatz"
+        ],
+        [
+          "vertikale",
+          "vertikale Prüfebene"
+        ]
+      ],
+      "explanation": "Doppelfunktion von Voraussetzung und Obersatz (S. 162–164).",
+      "hints": [
+        "Tabelle 31.",
+        "Voraussetzung´, Voraussetzung´´ …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 162
+        },
+        {
+          "doc": "PROP_1",
+          "page": 163
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Gliederungsform empfiehlt der Studienbrief für die Ordnung der logischen Ebenen?",
+      "options": [
+        "Die in der Jurisprudenz üblichen alphanumerischen Gliederungspunkte",
+        "Die dezimale Gliederung (z. B. 2.3.6.1.4)",
+        "Gar keine Gliederung, sondern Fließtext",
+        "Eine Gliederung nur mit Spiegelstrichen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Wegen ihrer Anschaulichkeit sind alphanumerische Punkte der dezimalen Gliederung vorzuziehen; auf 1. folgt traditionell 2. (S. 162, 164).",
+      "hints": [
+        "A., I., 1., a) …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 162
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A hat dem Pudel des P das Fell geschoren. Wie begründet der Studienbrief, dass der Pudel als Sache gilt?",
+      "options": [
+        "Tiere sind gem. § 90a S. 3 BGB rechtlich den Sachen gleichzustellen",
+        "Tiere sind körperliche Gegenstände und daher ohne Weiteres Sachen",
+        "Der Pudel ist eine Sache, weil P sein Eigentümer ist",
+        "Tiere gelten nur im Strafrecht als Sachen, wenn sie wertvoll sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Tabelle 32 (S. 165) verbindet die rechtliche Voraussetzung „Sache“ mit der Tatsache über § 90a S. 3 BGB.",
+      "hints": [
+        "Sonderregel für Tiere."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 165
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie dem Sachverhaltsproblem die nach dem Studienbrief passende Behandlung zu.",
+      "pairs": [
+        [
+          "Das Mobiltelefon des B wurde zerstört",
+          "knapp feststellen"
+        ],
+        [
+          "„seit Jugendzeiten geliebter Grüner Heinrich“ unter mehreren vernichteten Gegenständen",
+          "Feststellungsmodus mit angedeuteter Problematisierung"
+        ],
+        [
+          "Verwüstete Villa; der Text lässt offen, ob „Heinrich“ ein Mensch sein könnte",
+          "eigener tatsachenhaltiger Obersatz´ mit Alltagsargumenten"
+        ],
+        [
+          "Ist ein landwirtschaftlich genutztes Feld eine Sache?",
+          "Lösung über weitere Rechtssätze (Beherrschbarkeit, Abgrenzbarkeit)"
+        ]
+      ],
+      "explanation": "Abstufung nach Gewicht des Problems (S. 166–170).",
+      "hints": [
+        "Selbstverständliches knapp, Problematisches breit."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 166
+        },
+        {
+          "doc": "PROP_1",
+          "page": 167
+        },
+        {
+          "doc": "PROP_1",
+          "page": 168
+        },
+        {
+          "doc": "PROP_1",
+          "page": 170
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wer weiß, dass der „Grüne Heinrich“ ursprünglich in vier Bänden erschien, sollte im Gutachten ausführlich prüfen, ob A eine Sachgesamtheit oder einzelne Bände zerstört hat, auch wenn der Sachverhalt keinen Hinweis enthält.",
+      "answer": false,
+      "explanation": "Ohne Hinweis ist vom Regelfall (ein Buch, ein Band) auszugehen; wer durch Spekulation und Spezialwissen in ein Prüfungsdickicht gerät, tritt den Rückzug an (S. 167).",
+      "hints": [
+        "Regelfall."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 167
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Formulierung ist ein Beispiel für die rhetorische Figur der Restrictio?",
+      "options": [
+        "„Wenn auch … in einem anderen Zusammenhang auf … hindeuten könnte, sprechen doch die besseren Gründe dagegen.“",
+        "„Nach ganz herrschender Meinung ist …“",
+        "„Canaris verkennt hier völlig …“",
+        "„Es ist davon auszugehen, dass …“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Restrictio: „zwar … aber“, „wenn auch … so doch“, „gewiss … indes“ (S. 169).",
+      "hints": [
+        "Zugeständnis + Einschränkung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 169
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "B wirbt in seinem Bioladen: „frisch aus dem Ofen für 4 EUR / Stück“. Z möchte zwei Kekse; B sagt, alles sei vorbestellt. Wie löst der Studienbrief die Frage, ob B ein Angebot abgegeben hat?",
+      "options": [
+        "Kein Angebot: Wer sich an das breite Publikum wendet, will sich regelmäßig die Prüfung von Leistungs- und Zahlungsfähigkeit vorbehalten; es fehlt der Rechtsbindungswille (invitatio ad offerendum)",
+        "Angebot: Die Hinweistafel nennt Ware und Preis, also die essentialia negotii",
+        "Angebot, weil B das Wort „Angebot“ verwendet hat",
+        "Kein Angebot, weil Kekse keine Sachen sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Auslegung vom Empfängerhorizont (§§ 133, 157 BGB); die Nennung der essentialia negotii allein genügt ohne Rechtsbindungswillen nicht (S. 173–174).",
+      "hints": [
+        "Was fehlt außer den essentialia negotii?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 172
+        },
+        {
+          "doc": "PROP_1",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "K hat von seiner Geschäftsadresse mit Firmensignatur „Gerne einverstanden“ an V gemailt, dachte dabei aber an eine private Essenseinladung. Formulieren Sie die Subsumtion zur Frage der Annahme mit ausgeführten Argumenten.",
+      "modelAnswer": "Willenserklärungen sind gemäß §§ 133, 157 BGB so auszulegen, wie ein objektiver Empfänger sie in der Situation verstanden hätte; maßgeblich ist ein verständiger, unbeteiligter Dritter. Zwar könnten die Worte „gerne einverstanden“ sowohl zu einem freundschaftlichen Vorschlag als auch zu einem Kaufangebot passen. Zum einen hat K seine E-Mail aber unter einer Geschäftsanschrift und nicht privat abgesandt. Dieser Eindruck wird dadurch bestärkt, dass er die Nachricht mit einer Geschäftssignatur abschloss. Schließlich liegt es nahe, ein per E-Mail gesendetes Einverständnis auf ein per E-Mail an dieselbe Adresse eingegangenes Angebot zu beziehen und nicht auf ein privates Telefonat dritter Personen. Aus der Sicht eines objektiven Empfängers liegt somit eine Annahme des Angebots vor.",
+      "rubric": [
+        "Auslegungsmaßstab §§ 133, 157 BGB / objektiver Empfänger",
+        "Restrictio („zwar … aber“)",
+        "drei ausgeführte Argumente (Geschäftsadresse, Signatur, gleicher Kommunikationsweg)",
+        "Ergebnis: Annahme"
+      ],
+      "hints": [
+        "Tabellen 38 und 39."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 171
+        },
+        {
+          "doc": "PROP_1",
+          "page": 172
+        },
+        {
+          "doc": "PROP_1",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Formulierung einer unstreitigen Definition ist in einer Klausur richtig?",
+      "options": [
+        "„Eine Sache ist fremd, wenn sie (zumindest auch) im Eigentum eines anderen steht.“",
+        "„Eine Sache ist nach unstreitiger Auffassung fremd, wenn sie (zumindest auch) im Eigentum eines anderen steht.“",
+        "„Fremd ist eine Sache …, ganz h. M., vgl. nur Schönke/Schröder/Bosch Rn. 12; SK/Hoyer Rn. 11.“",
+        "„Nach einer Meinung ist eine Sache fremd, wenn …“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Hergebrachte Definitionen verwendet man ohne Begründung oder Verweis auf den Meinungsstand (S. 174–175).",
+      "hints": [
+        "Was klar ist, wird nicht problematisiert."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 174
+        },
+        {
+          "doc": "PROP_1",
+          "page": 175
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Nach dem Studienbrief kommt es bei der Beachtlichkeit einer Rechtsmeinung allein auf die Qualität der Argumente an, nicht auf Anerkennung des Autors oder institutionelle Autorisierung.",
+      "answer": false,
+      "explanation": "Tatsächlich kommt es entscheidend auch auf Anerkennung und institutionelle Autorisierung an (BGH vs. AG Montabaur; Lehrbuch in 15. Auflage vs. erster Aufsatz) (S. 175).",
+      "hints": [
+        "Hierarchie der Fachautoritäten."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 175
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu Rechtsmeinungen treffen nach dem Studienbrief zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Sie sind zeit- und sozialbedingte Behauptungen und Einsichten, keine Wahrheiten",
+        "Juristen bewerten sie typischerweise als „überzeugend“, „vertretbar“ oder „kaum noch vertretbar“",
+        "Die meisten Rechtsmeinungen werden nicht als Meinung bezeichnet, sondern wie objektive Aussagen behandelt",
+        "Im Anfängergutachten sollte man Meinungsgruppen bevorzugt als „Ansatz“, „Tendenz“ oder „Konzept“ bezeichnen"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Moderne Bezeichnungen wie „Ansatz“, „Tendenz“, „Konzept“ sind im Anfängergutachten zu meiden (S. 177–178).",
+      "hints": [
+        "Versteckte vs. offene Meinungsmäßigkeit."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 177
+        },
+        {
+          "doc": "PROP_1",
+          "page": 178
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Meinungsstreit muss nicht entschieden werden, wenn alle Auffassungen im konkreten Fall zum selben Ergebnis führen.",
+      "answer": true,
+      "explanation": "Einzige Ausnahme vom Entscheidungszwang; für Anfänger nur mit Vorsicht zu nutzen (S. 179).",
+      "hints": [
+        "Folgenlosigkeit des Streits."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 179
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Warum sollten Anfänger die Möglichkeit, einen folgenlosen Streit offenzulassen, nur mit Vorsicht einsetzen?",
+      "options": [
+        "Weil der Ergebnisvorgriff mit dem Gutachtenstil bricht und man sich bei einer Fehleinschätzung um einen „punktehaltigen“ Meinungsstreit bringt",
+        "Weil das Offenlassen grundsätzlich unzulässig ist",
+        "Weil Korrektoren nur entschiedene Streitigkeiten lesen",
+        "Weil dann die Subsumtion unter die Meinungen entfällt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 179.",
+      "hints": [
+        "Zwei Gründe im Kasten auf S. 179."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 179
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wodurch ist der Wettbewerb der Rechtsmeinungen nach dem Studienbrief bestimmt und begrenzt? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Durch gesetzlich geregelte oder rechtsfachlich anerkannte Formen und Verfahren",
+        "Durch den Einfluss rechtsprägender Institutionen",
+        "Durch die Wirkung von Autoritäten",
+        "Allein durch den zwanglosen Zwang des besseren Arguments"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Der juristische Meinungsstreit ist gerade kein „herrschaftsfreier Diskurs“ (S. 180).",
+      "hints": [
+        "Habermas wird abgegrenzt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 180
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Bausteine des gutachtlichen Meinungsstreits in die richtige Reihenfolge.",
+      "items": [
+        "Vorstellung des Problems mit kurzer Einleitung",
+        "Darstellung von Meinung 1 mit Begründung",
+        "Subsumtion und Ergebnis nach Meinung 1",
+        "Darstellung von Meinung 2 mit Begründung",
+        "Subsumtion und Ergebnis nach Meinung 2",
+        "Stellungnahme mit Bewertung der Argumente und Entscheidung"
+      ],
+      "explanation": "Die Abfolge darf gekürzt oder gestreckt, aber nicht geändert werden (S. 181–185).",
+      "hints": [
+        "Jede Meinung wird sofort auf den Fall angewendet."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 181
+        },
+        {
+          "doc": "PROP_1",
+          "page": 182
+        },
+        {
+          "doc": "PROP_1",
+          "page": 184
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum sind Überschriften wie „Herrschende Ansicht“ und „Mindermeinung“ bei der Darstellung des Streitstands zu vermeiden?",
+      "options": [
+        "Weil sie sich auf die Anerkennung im Fachdiskurs (Ethos) statt auf den Inhalt (Logos) beziehen und eine Wertung vorwegnehmen",
+        "Weil es im deutschen Recht keine herrschende Meinung gibt",
+        "Weil sie zu lang sind",
+        "Weil Überschriften im Meinungsstreit generell unzulässig sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Empfohlen sind inhaltsbezogene Überschriften; „Erste/Zweite Meinung“ ist nicht falsch (S. 182–183).",
+      "hints": [
+        "Logos vs. Ethos."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 182
+        },
+        {
+          "doc": "PROP_1",
+          "page": 183
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Es genügt, die Meinungen abstrakt darzustellen; die Subsumtion des Falls erfolgt erst nach der Stellungnahme unter die gewählte Ansicht.",
+      "answer": false,
+      "explanation": "Schwerwiegender Fehler: Unter jede dargestellte Ansicht ist gesondert zu subsumieren und ein konkretes Ergebnis zu nennen (S. 184).",
+      "hints": [
+        "„Folgt man dieser Auffassung, …“"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 184
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie die Formulierung aus einer Stellungnahme der Bewertung des Studienbriefs zu.",
+      "pairs": [
+        [
+          "„Richtigerweise vertritt dagegen die herrschende Meinung …“",
+          "falsch – nicht die h. M., sondern Sie entscheiden"
+        ],
+        [
+          "„Richtig ist dagegen meine, auch vom BVerfG unterstützte Meinung …“",
+          "falsch – überschreitet die Rolle des Gutachters"
+        ],
+        [
+          "„Die Gründe des Vertrauensschutzes sprechen für die zuletzt genannte Auffassung. Es erscheint sachgerechter, …“",
+          "richtig"
+        ],
+        [
+          "„Canaris verkennt hier völlig …“",
+          "falsch – abwertender Ton"
+        ]
+      ],
+      "explanation": "S. 191–192.",
+      "hints": [
+        "Sachlich, eigenständig, aber ohne „meine Meinung“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 191
+        },
+        {
+          "doc": "PROP_1",
+          "page": 192
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Welche Vorgehensweise bei der Stellungnahme lehnt der Studienbrief ausdrücklich ab?",
+      "options": [
+        "Nach der Darstellung aller Meinungen unmittelbar eine eigene dritte Meinung präsentieren und begründen, warum sie besser ist",
+        "Zuerst die Argumente der nicht favorisierten Meinung darstellen, dann widerlegen, dann die Argumente der favorisierten bringen",
+        "Sich einer vermittelnden Meinung anschließen",
+        "Der unterlegenen Meinung mit „zwar … aber“ Referenz erweisen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das wirkt, als höre man den anderen nicht zu; der Gutachter gewinnt seine Position in der Auseinandersetzung mit den Argumenten der Fachwelt (S. 187). B–D sind empfohlene Techniken.",
+      "hints": [
+        "„… und jetzt bin ich an der Reihe.“"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 187
+        },
+        {
+          "doc": "PROP_1",
+          "page": 189
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Die „One Right Answer Thesis“ von {{1}} passt nach dem Studienbrief nicht zu unserem Rechtssystem. Eine Faustregel für die Argumentation lautet, das {{2}} Argument an den Schluss zu setzen.",
+      "blanks": [
+        [
+          "Dworkin",
+          "Ronald Dworkin"
+        ],
+        [
+          "stärkste"
+        ]
+      ],
+      "explanation": "Rechtsauffassungen entwickeln sich in der Debatte; „offen“ heißt aber nicht „alles vertretbar“ (S. 188–189).",
+      "hints": [
+        "Amerikanischer Rechtsphilosoph.",
+        "Superlativ."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 188
+        },
+        {
+          "doc": "PROP_1",
+          "page": 189
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Beschreiben Sie den „Kunstgriff“, den der Studienbrief empfiehlt, wenn Sie nicht wissen, wie Sie einen Meinungsstreit entscheiden sollen, und nennen Sie seinen Vorteil.",
+      "modelAnswer": "Im darstellenden Teil polarisiert man die Meinungen, d. h. man stellt sie als zwei extreme Lager dar (z. B. objektive gegen subjektive Theorie, formeller gegen materieller Ansatz, weite gegen enge Auslegung) und spart vermittelnde Ansätze aus. In der Entscheidung des Meinungsstreits nimmt man dann den Standpunkt der vermittelnden oder der herrschenden Auffassung ein und begründet ihn mit deren Argumenten. Vorteil: Man fällt mit dem Ergebnis nicht aus der Reihe und kann die eigene Position mit den stärksten Fundstellen belegen. Am besten bleibt aber, sich selbstständig eine Meinung zu bilden und sie mit eigenen Argumenten zu vertreten.",
+      "rubric": [
+        "Polarisierung im Streitstand",
+        "Beispiele der Gegensatzpaare",
+        "Entscheidung für vermittelnde oder herrschende Ansicht",
+        "Vorteil: nicht aus der Reihe fallen, starke Belege",
+        "Hinweis: eigenständige Meinung bleibt das Ideal"
+      ],
+      "hints": [
+        "S. 190."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 190
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Das Handzeichen auf der Versteigerung (Meinungsstreit Erklärungsbewusstsein)",
+    "facts": "G besucht eine Versteigerung. Als der Versteigerer gerade ein Gemälde aufruft, entdeckt G im Saal einen Bekannten und hebt die Hand, um ihn zu grüßen. Dass auf Versteigerungen das Heben der Hand als Abgabe eines Gebots gilt, bedenkt er nicht. Der Versteigerer wertet das Handzeichen als Gebot. G meint, er habe überhaupt nichts erklären wollen.",
+    "question": "Hat G durch das Heben der Hand eine Willenserklärung (ein Gebot) abgegeben?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz und kennzeichnen Sie das Problem als Meinungsstreit (Einleitung).",
+        "model": "G könnte durch das Heben der Hand eine auf Abgabe eines Gebots gerichtete Willenserklärung abgegeben haben. Das Handzeichen erfolgte bewusst, also mit Handlungswillen. G war sich jedoch nicht bewusst, überhaupt etwas rechtlich Erhebliches zu erklären; ihm fehlte das Erklärungsbewusstsein. Fraglich ist, ob eine Willenserklärung auch ohne Erklärungsbewusstsein vorliegen kann. Hierzu werden verschiedene Ansichten vertreten.",
+        "rubric": [
+          "Konjunktiv im Obersatz",
+          "Handlungswille kurz festgestellt (unproblematisch)",
+          "Problem präzise benannt: fehlendes Erklärungsbewusstsein",
+          "knappe Einleitung des Meinungsstreits ohne Abhandlung"
+        ],
+        "hints": [
+          "Was ist unproblematisch, was ist das eigentliche Problem?",
+          "Einleitung: wenige klare Sätze (S. 182)."
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Stellen Sie die beiden Meinungen mit ihrer jeweiligen Begründung dar (Streitstand).",
+        "model": "1. Erklärungsbewusstsein als notwendiger Bestandteil (Willenstheorie): Nach dieser Auffassung ist allein der subjektive Wille des Erklärenden entscheidend; das Erklärungsbewusstsein ist unverzichtbar. Begründet wird dies mit einem Erst-recht-Schluss aus § 118 BGB: Wenn schon eine nicht ernstlich gemeinte Willenserklärung nichtig ist, muss dies erst recht gelten, wenn der Erklärende nicht einmal den Anschein erwecken will, etwas rechtlich Erhebliches zu erklären. 2. Genügen des potentiellen Erklärungsbewusstseins (Erklärungstheorie): Nach der Gegenansicht kommt es darauf an, wie ein objektiver, unbeteiligter und verständiger Dritter das Verhalten verstehen durfte. Es genügt, dass der Eindruck von Erklärungsbewusstsein entstand, es sei denn, der Erklärende konnte bei Anwendung der im Verkehr erforderlichen Sorgfalt nicht erkennen, dass er etwas rechtlich Erhebliches erklärte. Hintergrund ist der Schutz des Rechtsverkehrs: Der Empfänger soll auf das objektiv Erklärte vertrauen dürfen.",
+        "rubric": [
+          "inhaltsbezogene Überschriften statt „h. M./M. M.“",
+          "M1: subjektiver Wille, Erst-recht-Schluss aus § 118 BGB",
+          "M2: objektiver Empfängerhorizont, potentielles Erklärungsbewusstsein",
+          "Sorgfaltsvorbehalt der Erklärungstheorie",
+          "Begründung jeder Meinung („Diese Ansicht wird damit begründet, dass …“)"
+        ],
+        "hints": [
+          "Wer wird jeweils geschützt – Erklärender oder Empfänger?",
+          "Die Definitionsfrage ist hier streitig: Was gehört zum Begriff der Willenserklärung?"
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie unter jede Meinung gesondert und nehmen Sie anschließend Stellung.",
+        "model": "Folgt man der Willenstheorie, hat G mangels Erklärungsbewusstseins keine Willenserklärung abgegeben. Nach der Erklärungstheorie ist zu berücksichtigen, dass es bei Versteigerungen üblich ist, die Hand zu heben, wenn man ein Gebot abgeben will; ein unbeteiligter Dritter durfte das Verhalten des G daher als Gebot verstehen. G hätte bei Anwendung der im Verkehr erforderlichen Sorgfalt auch erkennen können, dass sein Handzeichen so aufgefasst werden durfte. Nach dieser Ansicht liegt eine Willenserklärung vor. Da die Ansichten zu unterschiedlichen Ergebnissen führen, ist der Streit zu entscheiden. Für die Willenstheorie spricht zwar, dass sie die Selbstbestimmung des Erklärenden schützt. Die Gründe des Vertrauensschutzes sprechen jedoch für die Erklärungstheorie: Der Empfänger kann in sein Gegenüber nicht hineinschauen. Es erscheint sachgerechter, dem Erklärenden zuzumuten, sich über bestimmte Verhaltensweisen zu informieren, als den Erklärungsempfänger der mit subjektiven Kriterien verbundenen Unsicherheit auszusetzen; zudem bleibt der Erklärende geschützt, wenn er die Bedeutung seines Verhaltens nicht erkennen konnte. Der Erklärungstheorie ist daher zu folgen.",
+        "rubric": [
+          "gesonderte Subsumtion und Ergebnis je Meinung",
+          "Feststellung abweichender Ergebnisse → Entscheidung nötig",
+          "Würdigung der unterlegenen Meinung („zwar … jedoch“)",
+          "tragendes Argument Vertrauensschutz",
+          "sachlicher, objektiver Ton ohne „meines Erachtens“"
+        ],
+        "hints": [
+          "„Folgt man dieser Auffassung, …“",
+          "Erst prüfen, ob die Ergebnisse auseinanderfallen.",
+          "Stärkstes Argument zuletzt."
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Mit der Erklärungstheorie ist das Erklärungsbewusstsein entbehrlich. G hat durch das Heben der Hand eine Willenserklärung in Form eines Gebots abgegeben.",
+        "rubric": [
+          "Indikativ",
+          "Spiegel des Obersatzes",
+          "eindeutig und objektiv"
+        ],
+        "hints": [
+          "Kein „dürfte“, kein „m. E.“."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "PROP_1",
+        "page": 165
+      },
+      {
+        "doc": "PROP_1",
+        "page": 182
+      },
+      {
+        "doc": "PROP_1",
+        "page": 184
+      },
+      {
+        "doc": "PROP_1",
+        "page": 191
+      },
+      {
+        "doc": "PROP_1",
+        "page": 192
+      },
+      {
+        "doc": "PROP_1",
+        "page": 193
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Wie verändert die Praxis das Grundmodell des Fünfschritts?",
+      "back": "Häufig verkürzt, immer jedoch erweitert.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 155
+        }
+      ]
+    },
+    {
+      "front": "Insbesondere-Prüfung – wann erlaubt?",
+      "back": "Nebensächliche Prüfung, übrige Merkmale offensichtlich unproblematisch, geprüftes Merkmal ist der „Flaschenhals“; plus „alle übrigen Voraussetzungen sind erfüllt“.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "front": "Wo kann eine verschwiegene Voraussetzung stecken?",
+      "back": "Im Obersatz (z. B. „In-Brand-Setzen eines Luftfahrzeugs“) oder in einer als Voraussetzung eingesetzten Definition (z. B. Zugang).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 157
+        },
+        {
+          "doc": "PROP_1",
+          "page": 158
+        }
+      ]
+    },
+    {
+      "front": "Wann ist die Kurzform im Urteilsstil erlaubt?",
+      "back": "Wenn der Fall gänzlich unzweifelhaft ist und andere Probleme warten – oft gegen Ende eines Abschnitts.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 160
+        }
+      ]
+    },
+    {
+      "front": "Doppelfunktion bei der Voraussetzungskette?",
+      "back": "Die Voraussetzung ist zugleich Obersatz der folgenden Bedingung.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 163
+        }
+      ]
+    },
+    {
+      "front": "Grundsatz beim Umgang mit Tatsachen?",
+      "back": "Selbstverständliches knapp, Problematisches breit; mangels Hinweis gilt der Regelfall.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 166
+        },
+        {
+          "doc": "PROP_1",
+          "page": 167
+        }
+      ]
+    },
+    {
+      "front": "Gezielte Verwirrung im Sachverhalt – wie reagieren?",
+      "back": "Element knapp voranstellen, eigenen tatsachenhaltigen Obersatz´ bilden, mit Alltagsargumenten begründen, ggf. Restrictio.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 168
+        },
+        {
+          "doc": "PROP_1",
+          "page": 169
+        }
+      ]
+    },
+    {
+      "front": "Auslegungsmaßstab für Willenserklärungen?",
+      "back": "Wie ein objektiver Empfänger (verständiger, unbeteiligter Dritter) sie verstehen durfte, §§ 133, 157 BGB.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 170
+        },
+        {
+          "doc": "PROP_1",
+          "page": 171
+        }
+      ]
+    },
+    {
+      "front": "Wann muss ein Meinungsstreit ausdrücklich ausgetragen werden?",
+      "back": "Wenn der Sachverhalt den Meinungsunterschied exponiert bzw. das Problem brisant und relevant ist – „a. A.“ genügt dann nicht.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 176
+        },
+        {
+          "doc": "PROP_1",
+          "page": 177
+        }
+      ]
+    },
+    {
+      "front": "Ausnahme vom Entscheidungszwang?",
+      "back": "Alle Auffassungen führen im konkreten Fall zum selben Ergebnis.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 179
+        }
+      ]
+    },
+    {
+      "front": "Aufbau des Meinungsstreits?",
+      "back": "Einleitung – Meinungen mit Begründung – Subsumtion/Ergebnis je Meinung – Stellungnahme (Bewertung, Entscheidung).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 181
+        },
+        {
+          "doc": "PROP_1",
+          "page": 184
+        }
+      ]
+    },
+    {
+      "front": "Zwei Fehler bei der Stellungnahme?",
+      "back": "Sofort eine eigene M3 präsentieren; einseitig Partei ergreifen und die Gegenseite attackieren.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 187
+        }
+      ]
+    },
+    {
+      "front": "Wer entscheidet in der Stellungnahme?",
+      "back": "Der Gutachter – nicht „der BGH“ oder „die h. M.“; aber ohne „meine Meinung“ als Lösung zu verkünden.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 191
+        }
+      ]
+    },
+    {
+      "front": "Willenstheorie vs. Erklärungstheorie?",
+      "back": "Willenstheorie: Erklärungsbewusstsein nötig (Erst-recht-Schluss aus § 118 BGB). Erklärungstheorie: potentielles Erklärungsbewusstsein genügt (Vertrauensschutz).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 192
+        },
+        {
+          "doc": "PROP_1",
+          "page": 193
+        }
+      ]
+    }
+  ]
+}
