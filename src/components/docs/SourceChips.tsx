@@ -14,8 +14,8 @@ const EXTRA_LABEL: Record<string, string> = {
   EXTRA_PROP_FOLIEN1: "Prop. Online-Lektion – Folien",
   EXTRA_OER_FALLBEARBEITUNG: "Methodische Hinweise zur Fallbearbeitung im ÖR",
   EXTRA_GRUNDLAGEN_FALLBEARBEITUNG: "Grundlagen der Fallbearbeitung",
-  EXTRA_ZJS_DEFINIEREN: "Frenzel, ZJS 2009, 224",
-  EXTRA_ZJS_LESEN: "Reimer, ZJS 2012, 618",
+  EXTRA_ZJS_DEFINIEREN: "Frenzel, ZJS 2009, 487",
+  EXTRA_ZJS_LESEN: "Reimer, ZJS 2012, 623",
   EXTRA_VR_FOLIEN1: "VerfR Online-Lektion 1 – Folien",
 };
 
