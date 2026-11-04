@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "postinstall": "node -e \"require('fs').copyFileSync('node_modules/pdfjs-dist/build/pdf.worker.min.mjs','public/pdf.worker.min.mjs')\"",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "import": "tsx scripts/import-folder.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.4.0",
@@ -22,6 +26,7 @@
     "react-markdown": "^10.1.0",
     "recharts": "^3.10.1",
     "remark-gfm": "^4.0.1",
+    "server-only": "^0.0.1",
     "ts-fsrs": "^5.4.2",
     "unpdf": "^1.9.1",
     "zod": "^4.6.7"

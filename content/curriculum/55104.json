@@ -775,6 +775,25 @@
    "sort": 1041
   },
   {
+   "id": "vr-ke2-placeholder",
+   "parentId": null,
+   "moduleId": "55104",
+   "ke": 2,
+   "level": 1,
+   "marker": "KE 2",
+   "title": "Kurseinheit 2 – Unterlagen fehlen noch (Platzhalter mit geschätztem Umfang)",
+   "kind": "study",
+   "pdfStart": null,
+   "pdfEnd": null,
+   "printedStart": null,
+   "words": 0,
+   "estMinutes": 700,
+   "difficulty": 2,
+   "examWeight": 3,
+   "sort": 2000,
+   "placeholder": true
+  },
+  {
    "id": "vr-ke3-kurseinheit-3-verfassungsprozessrecht",
    "parentId": null,
    "moduleId": "55104",

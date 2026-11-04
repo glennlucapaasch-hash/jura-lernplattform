@@ -1,26 +1,73 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ---------- Design tokens ---------- */
+@theme {
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Iowan Old Style", "Charter", Georgia, "Times New Roman", serif;
+
+  --color-canvas: #f7f7fb;        /* page background */
+  --color-surface: #ffffff;       /* cards */
+  --color-line: #e6e6ef;          /* borders */
+  --color-ink: #1d1d2b;           /* primary text */
+  --color-ink-soft: #55566a;      /* secondary text */
+  --color-ink-faint: #8a8ba0;     /* tertiary text */
+
+  --color-brand-50: #f1f1fe;
+  --color-brand-100: #e4e3fc;
+  --color-brand-200: #cdcbf9;
+  --color-brand-300: #aca8f3;
+  --color-brand-400: #8a83ea;
+  --color-brand-500: #6c63dd;     /* primary */
+  --color-brand-600: #5a4fcb;
+  --color-brand-700: #4a40a8;
+  --color-brand-800: #3c3587;
+
+  --color-ok: #1f8a5b;
+  --color-ok-soft: #e5f5ee;
+  --color-warn: #a86400;
+  --color-warn-soft: #fdf1df;
+  --color-bad: #b4363b;
+  --color-bad-soft: #fbe9ea;
+
+  --radius-card: 1rem;
+  --shadow-card: 0 1px 2px rgba(20, 20, 50, 0.04), 0 2px 8px rgba(20, 20, 50, 0.04);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+/* Long-form legal text */
+.prose-jura {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--color-ink);
+}
+.prose-jura p { margin: 0.6em 0; }
+.prose-jura h3 { font-weight: 600; margin: 1.2em 0 0.4em; }
+.prose-jura ul { list-style: disc; padding-left: 1.3em; margin: 0.5em 0; }
+.prose-jura ol { list-style: decimal; padding-left: 1.3em; margin: 0.5em 0; }
+.prose-jura li { margin: 0.2em 0; }
+.prose-jura strong { font-weight: 600; }
+.prose-jura em { font-style: italic; }
+.prose-jura blockquote { border-left: 3px solid var(--color-brand-200); padding-left: 0.9em; color: var(--color-ink-soft); }
+.prose-jura table { border-collapse: collapse; margin: 0.8em 0; font-size: 0.95em; }
+.prose-jura th, .prose-jura td { border: 1px solid var(--color-line); padding: 0.35em 0.6em; text-align: left; vertical-align: top; }
+
+/* highlighted problematic passages in writing feedback */
+mark.issue { background: #fff1c2; border-bottom: 2px solid #e0a200; padding: 0 1px; border-radius: 2px; }
+mark.issue-bad { background: #fde2e3; border-bottom: 2px solid var(--color-bad); }
+
+.safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+
+@media print {
+  nav, .no-print { display: none !important; }
 }

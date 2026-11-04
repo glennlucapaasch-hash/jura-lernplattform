@@ -64,7 +64,10 @@ export function parseToc(pages: ExtractedPage[], maxPages = 16): TocEntry[] {
       } else {
         const cls = classify(line);
         if (cls && !LEADER.test(line)) pending = cls;
-        else if (pending) pending = { ...pending, rest: pending.rest + " " + line };
+        else if (pending) {
+          const p0: { level: number; marker: string; rest: string } = pending;
+          pending = { level: p0.level, marker: p0.marker, rest: p0.rest + " " + line };
+        }
       }
     }
   }

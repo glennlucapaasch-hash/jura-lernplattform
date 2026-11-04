@@ -94,6 +94,11 @@ export function effectiveMinutes(u: PlanUnit, focusMode?: boolean) {
   return Math.round(u.remainingMinutes * f);
 }
 
+export function deDate(iso: string) {
+  const [y, m, d] = iso.split("-");
+  return `${d}.${m}.${y}`;
+}
+
 export function addDays(date: string, n: number): string {
   const d = new Date(date + "T12:00:00Z");
   d.setUTCDate(d.getUTCDate() + n);
@@ -274,9 +279,9 @@ export function buildPlan(input: PlanInput): PlanResult {
     if (!r.feasible) {
       warnings.push(
         r.deficitMinutes > 0
-          ? `${r.title} (${r.date}): Es fehlen rund ${Math.round(r.deficitMinutes / 60)} Std. Lernzeit` +
+          ? `${r.title} (${deDate(r.date)}): Es fehlen rund ${Math.round(r.deficitMinutes / 60)} Std. Lernzeit` +
               (r.extraMinutesPerDayNeeded ? ` – das entspricht etwa ${r.extraMinutesPerDayNeeded} zusätzlichen Minuten pro Lerntag.` : ".")
-          : `${r.title} (${r.date}): Der Stoff wird voraussichtlich erst am ${r.projectedDoneDate ?? "—"} fertig.`,
+          : `${r.title} (${deDate(r.date)}): Der Stoff wird voraussichtlich erst am ${r.projectedDoneDate ? deDate(r.projectedDoneDate) : "—"} fertig.`,
       );
     }
   }

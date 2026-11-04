@@ -225,4 +225,21 @@ CREATE TABLE ai_usage (
 );
 `,
   },
+  {
+    version: 2,
+    sql: `
+ALTER TABLE topics ADD COLUMN kind TEXT NOT NULL DEFAULT 'study';
+ALTER TABLE topics ADD COLUMN placeholder INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE deadlines ADD COLUMN covers TEXT;          -- JSON {ke:[..]} | {all:true} → planner milestone
+ALTER TABLE deadlines ADD COLUMN prep_days INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE deadlines ADD COLUMN work_minutes INTEGER;
+`,
+  },
+  {
+    version: 3,
+    sql: `
+ALTER TABLE documents ADD COLUMN doc_key TEXT;          -- canonical reference used in lesson sources, e.g. BGB_2
+CREATE INDEX documents_key ON documents(doc_key);
+`,
+  },
 ];
