@@ -24,6 +24,8 @@
   - KE 5, S. 36: „§ 126 Satz 2“ statt § 126b S. 2; S. 69: § 108 Abs. 1/2 statt Abs. 3; S. 70 vs. S. 9: mittelbarer vs. unmittelbarer Besitz bei Übergabe
   - KE 4, S. 10: § 309 direkt auf Kauffrau angewandt (§ 310 Abs. 1 beachten); S. 12–13: 12-Monats-Klausel bei Verbrauchsgüterkauf (§ 476)
   - VerfR KE 1: Ausnahmen von der Gegenzeichnung (Art. 58 S. 2 GG) – Skript nennt auch Art. 68; Gesetzestext prüfen
+  - VerfR KE 3: Fristen der Verfassungsbeschwerde als „§ 94 I/III BVerfGG“ zitiert (bisher § 93 BVerfGG) – nach der GG-Reform 2024 (Art. 93/94 GG neu) Gesetzestext prüfen; „§ 64 II GG“ meint BVerfGG
+  - KE 7, S. 62–63: Lösung zu Aufgabe 2 bejaht Duldungs- und Anscheinsvollmacht zugleich; S. 45: Missbrauchsbeispiel ist eher Überschreitung der Vertretungsmacht
 - [ ] Gesetzestext BGB als eigenes Dokument hochladen (z. B. von gesetze-im-internet.de). Dann kann die Quellenprüfung auch Normen gegen den Gesetzestext abgleichen.
 
 ## Technik
