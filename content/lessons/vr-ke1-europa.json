@@ -601,7 +601,7 @@
     },
     {
       "id": "q11",
-      "type": "mc-single",
+      "type": "mc-multi",
       "level": "recall",
       "difficulty": 2,
       "prompt": "Welche Maßnahmen nennt das Skript, mit denen der integrationsbedingten Erosion der Landesebene entgegengewirkt werden sollte? Wählen Sie alle zutreffenden Antworten.",
