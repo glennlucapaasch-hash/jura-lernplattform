@@ -1,0 +1,68 @@
+{
+  "id": "exam-bgb-fristen-verjaehrung-1",
+  "moduleId": "55101",
+  "topicIds": [
+    "bgb-ke8-s20",
+    "bgb-ke8-s21"
+  ],
+  "title": "Der Biedermeier-Sekretär: Annahmefrist über Pfingsten und Verjährung zum Jahreswechsel",
+  "difficulty": 2,
+  "durationMin": 45,
+  "facts": "Die Antiquitätenhändlerin V betreibt in Hagen (NRW) ein Ladengeschäft, das montags bis freitags von 10 bis 18 Uhr und samstags von 10 bis 14 Uhr geöffnet ist. Am Montag, dem 2. Juni 2025, besichtigt der Sammler K dort einen Biedermeier-Sekretär. V bietet ihm das Möbelstück für 6.000 € an und erklärt: „An dieses Angebot halte ich mich fünf Tage gebunden.“ K möchte noch überlegen.\n\nAm Pfingstsonntag, dem 8. Juni 2025, schreibt K einen Brief, in dem er das Angebot vorbehaltlos annimmt. Der Brief wird am Dienstag, dem 10. Juni 2025, um 11 Uhr vom Postboten in den Geschäftsbriefkasten der V eingeworfen. V liest ihn mittags, ist zufrieden und übergibt K den Sekretär am 12. Juni 2025, nachdem K versprochen hat, „demnächst“ zu zahlen. K zahlt jedoch nicht. V, die das Geschäft wegen einer Erkrankung ihres Mannes vorübergehend nur nebenbei führt, verliert die Sache aus den Augen.\n\nErst Ende Dezember 2028 bemerkt V den offenen Betrag. Sie beantragt beim zuständigen Amtsgericht einen Mahnbescheid, der K am Dienstag, dem 2. Januar 2029, zugestellt wird. K legt Widerspruch ein und lässt durch seinen Anwalt mitteilen, er werde nicht zahlen. Zum einen sei gar kein Vertrag zustande gekommen: Die Annahmefrist sei am Samstag, dem 7. Juni 2025, abgelaufen; an diesem Tag sei das Geschäft der V schließlich geöffnet gewesen, so dass eine „Feiertagsverschiebung“ ausscheide. Zum anderen sei ein etwaiger Kaufpreisanspruch jedenfalls verjährt. Die Verjährungsfrist sei am 31.12.2028 abgelaufen; dass dieser Tag ein Sonntag gewesen sei, spiele keine Rolle, weil § 193 BGB nur für die Abgabe von Willenserklärungen und die Bewirkung von Leistungen gelte, nicht für Verjährungsfristen. Er berufe sich ausdrücklich auf Verjährung.\n\nHinweis: Der 31.12.2028 ist ein Sonntag, der 01.01.2029 (Neujahr) ein Montag. Pfingstmontag (9. Juni 2025) und Neujahr sind in NRW staatlich anerkannte allgemeine Feiertage.",
+  "question": "Kann V von K Zahlung von 6.000 € verlangen?",
+  "solution": "# Lösungsskizze\n\n## A. Anspruch der V gegen K auf Zahlung von 6.000 € aus § 433 Abs. 2 BGB\n\nV könnte gegen K einen Anspruch auf Zahlung des Kaufpreises von 6.000 € aus § 433 Abs. 2 BGB haben. Dazu müsste zwischen V und K ein wirksamer Kaufvertrag zustande gekommen sein, der Anspruch dürfte nicht erloschen sein und müsste durchsetzbar sein.\n\n### I. Anspruch entstanden: Kaufvertrag\n\nEin Kaufvertrag setzt zwei übereinstimmende Willenserklärungen, Angebot und Annahme, voraus.\n\n**1. Angebot der V**\n\nV hat K am 2. Juni 2025 den Sekretär für 6.000 € angeboten und dabei erklärt, sie halte sich fünf Tage gebunden. Darin liegt ein Angebot mit einer Annahmefrist im Sinne des § 148 BGB. Die Annahme kann daher nur innerhalb dieser Frist erfolgen; wird sie versäumt, kommt trotz Annahmeerklärung kein Vertrag zustande.\n\n**2. Annahme durch K**\n\nK hat das Angebot mit seinem Brief vorbehaltlos angenommen. Als empfangsbedürftige Willenserklärung unter Abwesenden wurde die Annahme mit Zugang wirksam (§ 130 Abs. 1 S. 1 BGB). Der Brief gelangte am 10. Juni 2025 um 11 Uhr in den Geschäftsbriefkasten der V und damit während der Öffnungszeiten so in ihren Machtbereich, dass unter normalen Umständen mit der Kenntnisnahme zu rechnen war. Zugang erfolgte also am 10. Juni 2025 um 11 Uhr.\n\n**3. Rechtzeitigkeit der Annahme (§ 148 BGB)**\n\nFraglich ist, ob die Annahme innerhalb der Frist zuging. Mangels genauer Datums- und Uhrzeitangabe ist die Frist nach den Auslegungsregeln der §§ 187 ff. BGB zu berechnen, die nach § 186 BGB auch für rechtsgeschäftliche Fristbestimmungen gelten.\n\n*a) Fristbeginn.* Die Frist wurde im Laufe des 2. Juni 2025 gesetzt. Ist für den Beginn einer Frist ein Ereignis maßgebend, wird der Tag des Ereignisses nicht mitgerechnet (§ 187 Abs. 1 BGB). Die Frist begann daher am 3. Juni 2025 um 0.00 Uhr.\n\n*b) Fristende.* Eine nach Tagen bemessene Frist endet mit dem Ablauf des letzten Tages (§ 188 Abs. 1 BGB). Fünf Tage (3., 4., 5., 6. und 7. Juni) enden mit Ablauf des 7. Juni 2025, 24.00 Uhr.\n\n*c) Verschiebung nach § 193 BGB.* Ist innerhalb einer Frist eine Willenserklärung abzugeben und fällt der letzte Tag der Frist auf einen Sonnabend, einen Sonntag oder einen am Erklärungsort staatlich anerkannten allgemeinen Feiertag, tritt an seine Stelle der nächste Werktag. Die Annahme ist eine innerhalb der Frist abzugebende Willenserklärung. Der 7. Juni 2025 war ein Samstag. Der folgende Sonntag (8. Juni, Pfingstsonntag) und der Pfingstmontag (9. Juni), ein in NRW staatlich anerkannter allgemeiner Feiertag, sind keine Werktage. Nächster Werktag war damit Dienstag, der 10. Juni 2025; die Frist endete erst mit dessen Ablauf.\n\nK wendet ein, das Geschäft der V sei am Samstag geöffnet gewesen. § 193 BGB trägt dem Umstand Rechnung, dass an diesen Tagen grundsätzlich kein geschäftlicher Verkehr stattfindet und Erklärungen vielfach nicht möglich oder unzumutbar sind. Die Regel gilt daher auch dann, wenn eine Vertragspartei ihren Betrieb an diesen Tagen geöffnet hat. Der Einwand des K greift nicht.\n\n*d) Zugang innerhalb der Frist.* Der Brief ging am 10. Juni 2025 um 11 Uhr während der üblichen Geschäftszeiten zu, also vor Fristablauf. Die Annahme war rechtzeitig.\n\n**4. Zwischenergebnis**\n\nAm 10. Juni 2025 ist ein Kaufvertrag zustande gekommen. Der Kaufpreisanspruch der V ist entstanden.\n\n### II. Anspruch nicht erloschen\n\nK hat nicht gezahlt; andere Erlöschensgründe sind nicht ersichtlich.\n\n### III. Durchsetzbarkeit: Einrede der Verjährung (§ 214 Abs. 1 BGB)\n\nDer Anspruch könnte nicht durchsetzbar sein, wenn K wegen Verjährung zur dauernden Leistungsverweigerung berechtigt ist (§ 214 Abs. 1 BGB).\n\n**1. Erhebung der Einrede**\n\nDie Verjährung ist nur zu berücksichtigen, wenn der Schuldner sich auf sie beruft. K hat sich durch seinen Anwalt ausdrücklich auf Verjährung berufen und die Einrede damit erhoben.\n\n**2. Verjährungsfrist**\n\nKaufpreisansprüche unterliegen der regelmäßigen Verjährungsfrist von drei Jahren (§ 195 BGB).\n\n**3. Fristbeginn (§ 199 Abs. 1 BGB)**\n\nDie regelmäßige Frist beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Der Anspruch entstand mit Vertragsschluss am 10. Juni 2025; V kannte K und alle Umstände von Anfang an. Dass sie die Sache später aus den Augen verlor, ändert an der einmal erlangten Kenntnis nichts. Maßgebliches Ereignis ist daher der Schluss des Jahres 2025, also der 31.12.2025. Dieser Tag wird nicht mitgerechnet (§ 187 Abs. 1 BGB); die Frist begann am 01.01.2026 um 0.00 Uhr.\n\n**4. Fristende**\n\n*a) Berechnung nach § 188 Abs. 2 BGB.* Die nach Jahren bemessene Frist endet mit Ablauf des Tages, der dem Ereignistag entspricht, also grundsätzlich mit Ablauf des 31.12.2028.\n\n*b) Anwendung des § 193 BGB auf Verjährungsfristen.* Der 31.12.2028 war ein Sonntag. K meint, § 193 BGB gelte nur für die Abgabe von Willenserklärungen und die Bewirkung von Leistungen. Nach seinem Wortlaut betrifft § 193 BGB zwar nur diese Fälle. Es ist aber allgemein anerkannt, dass die Vorschrift auf Ausschluss- und Verjährungsfristen analog anzuwenden ist (so auch BGH NJW 2021, 153). Auch der Gläubiger soll die zur Hemmung erforderlichen Schritte nicht an Tagen ohne geschäftlichen Verkehr unternehmen müssen. An die Stelle des Sonntags tritt daher der nächste Werktag. Der 01.01.2029 (Neujahr) ist ein staatlich anerkannter allgemeiner Feiertag. Nächster Werktag ist Dienstag, der 02.01.2029. (Auf den 31.12. als „Silvester“ kommt es nicht an: Silvester ist ein normaler Werktag; verschoben wird hier nur, weil der Tag ein Sonntag war.) Die Verjährungsfrist endete somit erst mit Ablauf des 02.01.2029, 24.00 Uhr.\n\n**5. Hemmung durch Zustellung des Mahnbescheids (§ 204 Abs. 1 Nr. 3 BGB)**\n\nDie Zustellung eines Mahnbescheids im Mahnverfahren hemmt die Verjährung. Der Mahnbescheid wurde K am 02.01.2029 und damit vor Ablauf der Verjährungsfrist zugestellt. Seitdem ruht die Verjährung. Die Zeit der Hemmung wird in die Frist nicht eingerechnet (§ 209 BGB). Ob und wann die Frist nach Wegfall der Hemmung weiterläuft, ist hier nicht entscheidend, weil K die Einrede während des noch laufenden Verfahrens erhoben hat.\n\nDie Erkrankung des Ehemannes der V ist dagegen kein Fall höherer Gewalt im Sinne des § 206 BGB. Sie hinderte V nicht an der Rechtsverfolgung, und höhere Gewalt scheidet schon bei geringstem eigenen Verschulden aus. Darauf kommt es wegen der rechtzeitigen Hemmung aber nicht mehr an.\n\n**6. Zwischenergebnis**\n\nDer Anspruch ist nicht verjährt. K steht kein Leistungsverweigerungsrecht nach § 214 Abs. 1 BGB zu.\n\n## B. Ergebnis\n\nV hat gegen K einen durchsetzbaren Anspruch auf Zahlung von 6.000 € aus § 433 Abs. 2 BGB.",
+  "rubric": [
+    "Anspruchsgrundlage § 433 Abs. 2 BGB; Angebot mit Annahmefrist (§ 148 BGB) erkannt",
+    "Zugang der Annahme am 10.06.2025 während der Geschäftszeiten (§ 130 Abs. 1 S. 1 BGB)",
+    "Fristberechnung: Beginn 03.06. (§ 187 Abs. 1), Ende Sa 07.06.2025, 24 Uhr (§ 188 Abs. 1)",
+    "§ 193 BGB: Samstag, Pfingstsonntag, Pfingstmontag → Fristende Di 10.06.2025; Annahme rechtzeitig",
+    "Einwand der Samstagsöffnung zurückgewiesen (§ 193 gilt auch bei geöffnetem Betrieb)",
+    "Verjährung als Frage der Durchsetzbarkeit; Einrede erhoben (§ 214 Abs. 1)",
+    "§ 195 BGB; Beginn nach § 199 Abs. 1 mit Schluss 2025 → 01.01.2026; Vergessen der V unerheblich",
+    "Fristende nach § 188 Abs. 2 am 31.12.2028; § 193 analog auf Verjährungsfristen → Neujahr → Di 02.01.2029",
+    "Hemmung durch Zustellung des Mahnbescheids am 02.01.2029 (§ 204 Abs. 1 Nr. 3, § 209) vor Fristablauf",
+    "Ergebnis: Anspruch entstanden und durchsetzbar; sauberer Gutachtenstil"
+  ],
+  "src": [
+    {
+      "doc": "BGB_8",
+      "page": 5
+    },
+    {
+      "doc": "BGB_8",
+      "page": 6
+    },
+    {
+      "doc": "BGB_8",
+      "page": 8
+    },
+    {
+      "doc": "BGB_8",
+      "page": 9
+    },
+    {
+      "doc": "BGB_8",
+      "page": 10
+    },
+    {
+      "doc": "BGB_8",
+      "page": 11
+    },
+    {
+      "doc": "BGB_8",
+      "page": 12
+    },
+    {
+      "doc": "BGB_8",
+      "page": 13
+    },
+    {
+      "doc": "BGB_8",
+      "page": 15
+    },
+    {
+      "doc": "BGB_8",
+      "page": 16
+    }
+  ]
+}

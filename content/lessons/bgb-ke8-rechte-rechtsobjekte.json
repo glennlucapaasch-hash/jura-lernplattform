@@ -1,0 +1,1509 @@
+{
+  "id": "bgb-ke8-rechte-rechtsobjekte",
+  "moduleId": "55101",
+  "ke": 8,
+  "topicIds": [
+    "bgb-ke8-s23",
+    "bgb-ke8-s24"
+  ],
+  "title": "Subjektive Rechte, ihre Grenzen und Verteidigung; Rechtsobjekte",
+  "estMinutes": 120,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Subjektives und objektives Recht; Begriff des subjektiven Rechts",
+      "short": "Das objektive Recht ist die Gesamtheit der allgemein verbindlichen Rechtsregeln. Es verleiht Einzelnen unter seinen Voraussetzungen subjektive Rechte – durchsetzbare, einklagbare und vollstreckbare Rechtspositionen. Ein subjektives Recht ist die dem Einzelnen von der Rechtsordnung verliehene, der Befriedigung seiner Interessen dienende Rechtsmacht (Definition umstritten).",
+      "long": "## Objektives und subjektives Recht (S. 33)\n\nDas **objektive Privatrecht** fasst die Rechtsregeln zusammen, denen das Zusammenleben unterworfen ist und die **allgemein gültig und verbindlich** sind. Es verleiht einzelnen Personen unter den in ihm genannten Voraussetzungen **subjektive Rechte**: durchsetzbare Rechtspositionen, die vor Gericht **einklagbar und vollstreckbar** sind.\n\n**Beispiel (S. 33):** § 823 Abs. 1 ist objektives Recht. Verletzt A den B vorsätzlich mit einem Messer am Oberarm, erfüllt er den Tatbestand; die Norm verleiht B ein **subjektives Recht** gegen A – das Recht, Ersatz des Schadens zu verlangen.\n\n## Begriff (S. 33)\n\n**Subjektives Recht** ist die dem Einzelnen von der Rechtsordnung verliehene, zur Befriedigung seiner Bedürfnisse und Interessen dienende **Rechtsmacht**. Die Definition ist umstritten. „Rechtsmacht“ meint keine wirtschaftliche Macht, sondern einen **normativen Sachverhalt**: eine von der Rechtsordnung erteilte Ermächtigung, ein „Handeln-Dürfen“ oder „rechtliches Können“.\n\nSubjektive Rechte stehen **Personen** zu – natürlichen wie juristischen.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Arten subjektiver Rechte: nach Inhalten sowie absolut und relativ",
+      "short": "Nach dem Inhalt unterscheidet das Skript Persönlichkeitsrechte, persönliche Familienrechte (beide unübertragbar und unvererblich), Herrschaftsrechte (z.B. Eigentum, Immaterialgüterrechte), Ansprüche (§ 194 Abs. 1; aus Schuldverhältnis: Forderung) und Gestaltungsrechte (Kündigung, Rücktritt, Anfechtung). Absolute Rechte wirken gegenüber jedermann (Eigentum, Persönlichkeitsrechte, Immaterialgüterrechte), relative nur zwischen bestimmten Personen (typisch: Anspruch).",
+      "long": "## Einteilung nach Inhalten (S. 33–37)\n\n**(a) Persönlichkeitsrechte (S. 33–34):** die in § 823 Abs. 1 genannten Rechtsgüter (Leben, Körper, Gesundheit, Freiheit), das Namensrecht, das Recht am eigenen Bild und das allgemeine Persönlichkeitsrecht – Rechtsmacht, Achtung und Nichtverletzung der Person durchzusetzen.\n\n**(b) Persönliche Familienrechte (S. 34):** streng personengebunden (weder übertragbar noch vererblich), ohne vermögensrechtlichen Charakter; z.B. **elterliche Sorge** (§ 1626) mit dem Aufenthaltsbestimmungsrecht (§ 1631 Abs. 1) und das Recht der Ehegatten auf Achtung der ehelichen Lebensgemeinschaft.\n\n**(c) Herrschaftsrechte (S. 34–35):** Rechtsmacht, auf ein Objekt (Sache, Geistesprodukt, Recht, Vermögen) **unmittelbar einzuwirken**, oft verbunden mit der Befugnis, **andere auszuschließen**. Stärkstes Herrschaftsrecht an Sachen ist das **Eigentum** (§ 903; Schutz durch §§ 823 Abs. 1, 1004; Sozialbindung Art. 14 GG). *Beispiel:* Der Kfz-Eigentümer entscheidet, ob und wohin er fährt, darf aber nicht bei Rot über die Kreuzung fahren – Gesetz (StVG, StVO) und Rechte Dritter stehen entgegen (§ 903). **Immaterialgüterrechte** bestehen an Geisteswerken (Urheberrecht, § 11 S. 1 UrhG), Marken und Erfindungen (PatentG).\n\n**(d) Ansprüche (S. 35):** Recht, von einem anderen ein Tun oder Unterlassen zu verlangen (§ 194 Abs. 1). Aus dem Kaufvertrag: V gegen K auf Kaufpreiszahlung (§ 433 Abs. 2), K gegen V auf Übergabe und Übereignung (§ 433 Abs. 1). Ein Anspruch aus einem Schuldverhältnis ist eine **Forderung** (vgl. § 241 Abs. 1); sie kann eingeklagt und mit staatlicher Hilfe vollstreckt werden.\n\n**(e) Gestaltungsrechte (S. 35–37):** Rechtsmacht, **allein durch Ausübung des eigenen Willens** ein bestehendes Rechtsverhältnis aufzuheben oder zu verändern.\n- **Kündigung:** einseitige empfangsbedürftige Willenserklärung, die ein Dauerschuldverhältnis für die Zukunft auflöst; Kündigungsfristen z.B. §§ 622, 580a, 621, 488 Abs. 3. *Beispiel (S. 36):* Arbeitnehmerin A (seit drei Monaten beschäftigt) wird am 1. März 2024 ordentlich gekündigt; Frist nach § 622 Abs. 1: vier Wochen zum Fünfzehnten oder zum Monatsende → Ende am **31. März 2024**.\n- **Rücktritt:** nur bei vertraglichem oder gesetzlichem Rücktrittsrecht; an die Stelle der Leistungspflichten tritt ein **Rückgewährschuldverhältnis** (§§ 346 ff.). *Beispiel (S. 36–37):* D verkauft M unter Rücktrittsvorbehalt einen Fernseher für 500 €; M zahlt 250 € und bleibt mit dem Rest im Verzug; nach dem Rücktritt muss M den Fernseher zurückgeben, D die 250 € zurückzahlen.\n- **Anfechtung** (§§ 119 ff.): vernichtet das Rechtsgeschäft **rückwirkend** (§ 142 Abs. 1).\n\n## Absolute und relative Rechte (S. 37–38)\n\n- **Absolute Rechte** wirken **gegenüber jedermann**: Persönlichkeitsrechte (Leben, körperliche Unversehrtheit, Gesundheit, Freiheit, Name, APR), **Eigentum**, Immaterialgüterrechte (Patente, Marken, Designs, Urheberrechte). Der Eigentümer kann gegen jeden Schädiger Ersatz (§ 823 Abs. 1), gegen jeden unberechtigten Besitzer Herausgabe (§ 985) und gegen jeden Störer Beseitigung und Unterlassung (§ 1004) verlangen.\n- **Relative Rechte** wirken **nur zwischen bestimmten Personen** eines vertraglichen oder gesetzlichen Schuldverhältnisses; typisch ist der **Anspruch** (z.B. § 433 Abs. 1, 2; aus Delikt: Schadensersatz und Schmerzensgeld nach § 823 Abs. 1 i.V.m. §§ 249, 253 Abs. 2 bzw. § 823 Abs. 2 i.V.m. §§ 223, 224 StGB).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        },
+        {
+          "doc": "BGB_8",
+          "page": 34
+        },
+        {
+          "doc": "BGB_8",
+          "page": 35
+        },
+        {
+          "doc": "BGB_8",
+          "page": 36
+        },
+        {
+          "doc": "BGB_8",
+          "page": 37
+        },
+        {
+          "doc": "BGB_8",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Erwerb und Übertragung subjektiver Rechte",
+      "short": "Höchstpersönliche Rechte (z.B. Persönlichkeitsrechte) sind in der Regel unübertragbar und erlöschen mit dem Tod. Vermögensrechte wie Forderungen und Eigentum sind übertragbar und vererblich. Beim abgeleiteten (derivativen) Erwerb geht ein bestehendes Recht durch Übertragungsakt über (§ 929 S. 1, § 398); beim originären Erwerb entsteht das Recht erst beim Erwerber (z.B. § 950). Universalsukzession ist nur in gesetzlich zugelassenen Fällen möglich, vor allem § 1922.",
+      "long": "## Höchstpersönliche Rechte und Vermögensrechte (S. 38)\n\n- **Höchstpersönliche Rechte** sind so stark an den Inhaber gebunden, dass nur er sie ausüben kann; sie sind in der Regel **unübertragbar** und erlöschen mit dem Tod (z.B. Persönlichkeitsrechte – zum teilweise anerkannten postmortalen Schutz siehe § 22).\n- **Vermögensrechte** sind von der Person des Berechtigten grundsätzlich unabhängig; sie können **übertragen** werden und bestehen über den Tod hinaus.\n\n**Beispiele (S. 38):**\n- Der Rückzahlungsanspruch des Darlehensgebers (§ 488 Abs. 1) geht mit dem Erbfall auf die Erben über (§ 1922 Abs. 1).\n- Das Eigentum an einem Kfz wird nach § 929 S. 1 durch **Einigung und Übergabe** übertragen; im Erbfall geht es nach § 1922 Abs. 1 auf die Erben über.\n\n## Derivativer und originärer Erwerb (S. 38–39)\n\n- **Abgeleiteter (derivativer) Erwerb:** Ein bereits bestehendes Recht geht durch einen **Übertragungsakt** von einer Person auf die andere über. *Beispiel:* A übereignet ihr Kfz durch Einigung und Übergabe an B (§ 929 S. 1).\n- **Forderungen** werden kraft Rechtsgeschäfts oder kraft Gesetzes übertragen. Rechtsgeschäftlich durch **Abtretungsvertrag** (§ 398), in der Regel formlos; mit seinem Wirksamwerden geht die Forderung auf den neuen Gläubiger über. *Beispiel (S. 39):* A tritt seine Darlehensforderung über 5.000 € gegen B an D ab – B muss nun an D zahlen.\n- **Originärer Erwerb:** Das Recht entsteht **erst in der Person des Erwerbers**, z.B. Eigentumserwerb durch **Verarbeitung** (§ 950).\n- **Universalsukzession:** Übergang einer Gesamtheit von Rechten auf eine Person – nur in gesetzlich zugelassenen Fällen; wichtigster Fall **§ 1922** (Vermögen des Erblassers als Ganzes auf den oder die Erben).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 38
+        },
+        {
+          "doc": "BGB_8",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Grenzen der Durchsetzbarkeit: Schikaneverbot, Rechtsmissbrauch, Verwirkung",
+      "short": "Subjektive Rechte werden nur im Rahmen ihrer rechtsethischen und sozialen Funktion geschützt. Unzulässig ist die Rechtsausübung bei Verstoß gegen das Schikaneverbot (§ 226 – nur wenn sie ausschließlich der Schädigung dient), gegen die guten Sitten (§§ 138, 817, 826) oder gegen Treu und Glauben (§ 242). Klassischer Fall widersprüchlichen Verhaltens ist die Verwirkung: Zeitmoment und Umstandsmoment.",
+      "long": "## Schikaneverbot und unzulässige Rechtsausübung (S. 39–40)\n\nGrundsätzlich entscheidet jeder frei, ob er sein Recht durchsetzt. Die Rechtsordnung garantiert aber **keine schrankenlose Ausübung**, weil sie auch andere Rechtsgüter schützt; aus der Sozialbindung subjektiver Rechte folgt der Begriff des **Rechtsmissbrauchs**. Unzulässig ist die Ausübung, wenn sie\n- gegen das **Schikaneverbot** (§ 226),\n- gegen die **guten Sitten** (§§ 138, 817, 826) oder\n- gegen **Treu und Glauben** (§ 242) verstößt.\n\nAllgemeiner Grundsatz: Unzulässig ist eine Rechtsausübung, die einen **groben Verstoß gegen Treu und Glauben** darstellt. § 226 ist **sehr eng**: Die Ausübung muss **ausschließlich** den Zweck haben, einem anderen Schaden zuzufügen – das ist selten.\n\n## Rechtsmissbräuchliches Handeln, § 242 (S. 40)\n\nNach h.M. ist § 242 die **wichtigste Schranke** zulässiger Rechtsausübung. Das Missbrauchsverbot gilt als eigenständiges Rechtsinstitut des Allgemeinen Teils, das alle Rechte erfasst; traditionell wird es bei § 242 behandelt. Ein Fall: **venire contra factum proprium** – wer sich zum Nachteil eines anderen mit seinem früheren Verhalten in Widerspruch setzt, handelt rechtsmissbräuchlich (schon im römischen Recht bekannt). Rechtsfolge: Der Handelnde muss sich an dem von ihm geschaffenen **Vertrauenstatbestand festhalten** lassen.\n\n## Verwirkung (S. 40–41)\n\nKlassisches Beispiel widersprüchlichen Verhaltens; sie betrifft Ansprüche, Einwendungen und Rechtsbehelfe – vor allem wegen **illoyaler Verspätung** und **schwerer Treuwidrigkeit**. Der Berechtigte verstößt gegen § 242, wenn\n1. **Zeitmoment:** längere Zeit verstrichen ist, in der er das Recht nicht geltend gemacht hat, obwohl er es konnte, und\n2. **Umstandsmoment:** der Verpflichtete nach dem Verhalten des Berechtigten davon ausgehen durfte, dass dieser das Recht nicht mehr geltend macht, und sich darauf eingerichtet hat.\n\nDas Untätigsein muss als **zurechenbares vertrauensbildendes Vorverhalten** zu qualifizieren sein; zu prüfen ist, ob dem Schuldner die Erfüllung trotz schutzwürdigen Vertrauens noch zuzumuten ist. **Wechselwirkung:** Je länger das Recht nicht geltend gemacht wurde, desto geringer die Anforderungen an das Umstandsmoment. Nach dem BGH tritt die Verwirkung auch **gegen den Willen** des Berechtigten ein (objektive Bewertung).\n\n**Beispiel (S. 41):** Mieterin M zahlt statt vereinbarter 2.000 € monatlich nur 1.750 €, weil ihr die Miete zu hoch erscheint. Vermieterin V spricht sie bei den regelmäßigen gemeinsamen Handballspielen nicht darauf an; beide feiern ausgelassen die Kreismeisterschaft. Fünf Jahre später, beim Auszug, verlangt V 9.000 € Restmiete für drei Jahre. Das Skript nimmt Zeit- und Umstandsmoment an: M durfte nach der jahrelangen Duldung davon ausgehen, dass V den Anspruch nicht mehr geltend macht. *(Das Skript erwähnt dabei ein „Antwortschreiben der V“, das im Sachverhalt nicht vorkommt.)*",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 39
+        },
+        {
+          "doc": "BGB_8",
+          "page": 40
+        },
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Erlaubte Verteidigung: Notwehr, Notstand, Selbsthilfe",
+      "short": "Das staatliche Gewaltmonopol schließt Eigenmacht grundsätzlich aus; ausnahmsweise erlaubt das BGB Notwehr (§ 227: erforderliche Verteidigung gegen gegenwärtigen rechtswidrigen menschlichen Angriff), Verteidigungsnotstand (§ 228: Gefahr geht von der beschädigten Sache aus), Angriffsnotstand (§ 904: Einwirkung auf eine unbeteiligte fremde Sache, mit Schadensersatzpflicht), Selbsthilfe (§§ 229 ff.) und Besitzwehr/Besitzkehr (§ 859).",
+      "long": "## Überblick (S. 42)\n\nDie Durchsetzung subjektiver Rechte ist Aufgabe des Staates (Gerichte, Vollstreckungsorgane). Das **staatliche Gewaltmonopol** schließt private Eigenmacht in der Regel aus. In Ausnahmefällen erlaubt das BGB Verteidigung und Selbsthilfe: **§§ 227 ff., 859, 904**. Wer so handelt, ist **gerechtfertigt** – auch wenn er in fremde Rechte eingreift.\n\n## Notwehr, § 227 (S. 42–43)\n\n**Notwehr** ist die Verteidigung, die **erforderlich** ist, um einen **gegenwärtigen rechtswidrigen Angriff** von sich oder einem anderen abzuwenden.\n- **Angriff:** jede **menschliche** Handlung, durch die eine Verletzung rechtlich geschützter Interessen droht.\n- **Rechtswidrig:** wenn der Angegriffene zur Duldung nicht verpflichtet ist.\n- **Erforderlich:** Abwehr nur mit den erforderlichen Mitteln; bedrohtes und verletztes Rechtsgut dürfen nicht in einem **unerträglichen Missverhältnis** stehen.\n- Die Voraussetzungen sind nicht vollständig deckungsgleich mit § 32 StGB; für zivilrechtliche Ansprüche ist § 227 BGB lex specialis.\n\n**Beispiel (S. 42–43):** D will dem B an der Theke ein volles Bierglas über den Kopf schütten; B stößt ihn zurück, D stürzt und verletzt sich am Kopf (B handelte fahrlässig). Der Tatbestand des § 823 Abs. 1 ist erfüllt, die Verletzung aber durch **Notwehr gerechtfertigt**; der Stoß hält sich im Rahmen der erforderlichen Abwehr. Messer oder Schusswaffe wären unverhältnismäßig und nicht erforderlich gewesen. *(Das Skript nennt für den Parallelanspruch „§ 823 II BGB i.V. § 227 StGB“ – gemeint ist offenbar ein Schutzgesetz aus dem StGB.)*\n\n## Notstand, §§ 228, 904 (S. 43–44)\n\nBeim Notstand geht die Gefahr **nicht zwingend von einem Menschen** aus.\n\n| | Verteidigungsnotstand § 228 | Angriffsnotstand § 904 |\n|---|---|---|\n| Gefahrquelle | die Sache selbst | beliebige Gefahr (Sache oder Mensch) |\n| Betroffene Sache | die gefahrbringende Sache wird beschädigt/zerstört | eine **unbeteiligte** fremde Sache wird beschädigt/zerstört |\n| Abwägung | Schaden nicht unverhältnismäßig größer als die drohende Gefahr | drohender Schaden muss unverhältnismäßig groß sein gegenüber dem Schaden an der fremden Sache |\n\n§ 228 ist bei Gefahren durch Sachen der vorrangige Rechtfertigungsgrund, weil zivil- und strafrechtliche Notwehr einen menschlichen Angriff voraussetzen. Geht die Gefahr im Fall des § 904 von einem Menschen aus, ist Notwehr daneben anwendbar; gegenüber §§ 34, 35 StGB ist § 904 spezieller.\n\n**Beispiel (S. 43):** Hund Snoopy des R springt aus dem Haus und fällt S an; S schlägt ihn mit ihrem Regenschirm tot. Tiere sind keine Sachen (§ 90a S. 1), die Sachvorschriften gelten aber entsprechend. Die Gefahr ging vom Tier aus, die Abwehr war erforderlich, der Schaden nicht unverhältnismäßig größer als drohende Bissverletzungen → **gerechtfertigt nach § 228**; S schuldet mangels Verschuldens keinen Schadensersatz. *(Im Skript heißt der Hund einmal versehentlich „Bello“.)*\n\n**Abwandlung (S. 44):** S zerschlägt beim Abwehren einen Besen des Nachbarn N. Gerechtfertigt nach **§ 904**, weil der drohende Körperschaden unverhältnismäßig größer war als der Schaden am Besen – S muss N den Schaden aber **ersetzen**.\n\n## Selbsthilfe, §§ 229 ff. (S. 44)\n\nEigenmächtige, gewaltsame Durchsetzung eines Anspruchs – nur unter engen Voraussetzungen:\n- **Selbsthilfelage:** fälliger, einredefreier zivilrechtlicher Anspruch; obrigkeitliche Hilfe nicht rechtzeitig zu erlangen; Gefahr, dass die Verwirklichung des Anspruchs vereitelt oder wesentlich erschwert wird.\n- **Selbsthilfehandlung:** insbesondere Wegnahme einer Sache oder Festnahme des fluchtverdächtigen Verpflichteten; **erforderlich** – relativ mildestes Mittel (§ 230 Abs. 1).\n- **Subjektiv:** Selbsthilfewille (str.).\n\n## Selbsthilfe des Besitzers, § 859 (S. 44)\n\nWeiter als §§ 227, 229, weil **nicht vorausgesetzt** ist, dass obrigkeitliche Hilfe nicht rechtzeitig zu erlangen ist: Der Besitzer darf sich verbotener Eigenmacht (§ 858) mit Gewalt erwehren (**Besitzwehr**, § 859 Abs. 1) und weggenommene Sachen mit Gewalt zurückholen (**Besitzkehr**, § 859 Abs. 2).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 43
+        },
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Rechtsobjekte im Überblick; Begriff und Arten der Sachen",
+      "short": "Rechtsobjekt ist, was von Menschen beherrschbar ist und ihnen von der Rechtsordnung so zugeordnet werden kann, dass ihr Wille rechtlich entscheidet; Rechte an Menschen gibt es nicht. Sachen sind nur körperliche Gegenstände (§ 90) – auch Gase und Flüssigkeiten, nach h.M. aber nicht Elektrizität oder virtuelle Gegenstände. Tiere sind keine Sachen, werden aber grundsätzlich wie Sachen behandelt (§ 90a). Das BGB unterscheidet bewegliche Sachen und Grundstücke, vertretbare und unvertretbare (§ 91) sowie verbrauchbare Sachen (§ 92).",
+      "long": "## Rechtsobjekte (S. 45)\n\nSubjektive Rechte können sich auf alle Objekte beziehen, die **von Menschen beherrschbar** sind und ihnen von der Rechtsordnung **zugeordnet** werden können, so dass der menschliche Wille für das Objekt rechtlich entscheidend ist. Die Rechtsordnung kennt **keine Rechte an Menschen**. Rechtsobjekte sind in erster Linie **Sachen und Rechte**; die Herrschaftsmacht kann sich auch auf **Immaterialgüter** erstrecken.\n\n## Sachbegriff, § 90 (S. 45–46)\n\n**Sachen** sind nur **körperliche Gegenstände**. Körperlich bedeutet **räumliche Ausdehnung**, Festigkeit ist nicht nötig: **Gase und Flüssigkeiten** sind Sachen, weil sie in Behältern beherrscht werden können.\n- **Elektrizität**, Licht- und Schallwellen, Strahlen sind nach h.M. **keine Sachen**; auf elektrische Energie wendet die h.M. aber die Vorschriften über bewegliche Sachen an.\n- Die **Verkörperung** eines Computerprogramms auf einem Datenträger (PC, CD-ROM, USB-Stick) ist nach dem Skript ebenso zu behandeln; das **Programm selbst** ist keine Sache.\n- **Pflanzen** sind Sachen.\n- **Virtuelle Gegenstände** (Computerspiele, E-Learning, Crypto Art) existieren nur in einer Softwareumgebung und haben **keine Sacheigenschaft**.\n\n## Tiere, § 90a (S. 46)\n\nSeit dem Gesetz vom 20.8.1990 sind **Tiere keine Sachen** (§ 90a) – Ausdruck der Verantwortung für das Tier als Mitgeschöpf. Die für Sachen geltenden Vorschriften sind aber **entsprechend anzuwenden**, soweit nicht Tierschutzvorschriften entgegenstehen (§ 90a S. 3).\n\n## Arten von Sachen (S. 46–47)\n\n- **Grundstück:** Teil der Erdoberfläche, der im Grundbuch als Grundstück geführt wird (Übereignung § 925). **Bewegliche Sachen** (Fahrnis): körperliche Gegenstände, die nicht Grundstücke sind (Übereignung § 929) – z.B. Autos, Bücher, Lebensmittel, Kleidung.\n- **Vertretbare Sachen (§ 91):** bewegliche Sachen, die im Verkehr nach **Zahl, Maß oder Gewicht** bestimmt werden, also ohne ausgeprägte Individualisierungsmerkmale austauschbar sind – z.B. Geld, Wertpapiere, Obst; nach dem BGH auch **Wein** der gewünschten Sorte. **Unvertretbar:** individuell geprägte Sachen wie Originalkunstwerke oder nach Beschreibung angefertigte Möbel.\n- **Verbrauchbare Sachen (§ 92):** deren bestimmungsmäßiger Gebrauch im **Verbrauch** (Lebensmittel, Brennstoffe) oder in der **Veräußerung** (v.a. Geld) besteht.\n- Vertretbarkeit (Verkehrsüblichkeit) ist **nicht identisch** mit der Unterscheidung von Gattungs- und Stückschuld (§ 243 Abs. 1), die vom Parteiwillen abhängt.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 45
+        },
+        {
+          "doc": "BGB_8",
+          "page": 46
+        },
+        {
+          "doc": "BGB_8",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Verbindungen von Sachen: Bestandteile, Scheinbestandteile, Zubehör; Leichnam",
+      "short": "Wesentliche Bestandteile können nicht getrennt werden, ohne dass ein Teil zerstört oder in seinem Wesen verändert wird (§ 93); an ihnen bestehen keine Sonderrechte. Wesentliche Bestandteile eines Grundstücks sind vor allem Gebäude und die zur Herstellung eines Gebäudes eingefügten Sachen (§ 94); sie fallen nach § 946 ins Eigentum des Grundstückseigentümers. Nur vorübergehend verbundene Sachen sind Scheinbestandteile (§ 95). Zubehör (§ 97) ist rechtlich selbständig. Der lebende Körper ist keine Sache; die Sacheigenschaft des Leichnams ist umstritten.",
+      "long": "## Bestandteile (S. 47–49)\n\nDingliche Rechte bestehen aus Gründen der Rechtsklarheit nur an **bestimmten einzelnen Sachen**. §§ 93 ff., 946 ff. erlauben es, wirtschaftliche Einheiten in Grenzen als rechtliche Einheiten anzuerkennen. Das BGB unterscheidet **wesentliche Bestandteile** (an beweglichen Sachen § 93, an Grundstücken §§ 94 ff.), **Scheinbestandteile** (§ 95) und **Zubehör** (§§ 97, 98) als selbständige Sachen.\n\n**§ 93:** Wesentliche Bestandteile sind Bestandteile, die **nicht voneinander getrennt werden können, ohne dass der eine oder andere zerstört oder in seinem Wesen verändert wird**. An ihnen können **keine besonderen Rechte** bestehen.\n\n**Beispiel Austauschmotor (BGHZ 18, 226; S. 48):** W baut in das Kfz des E einen Austauschmotor unter Eigentumsvorbehalt ein; E zahlt nur ein Drittel. Der Motor ist nur **einfacher**, kein wesentlicher Bestandteil: Er lässt sich ausbauen, ohne dass das Fahrzeug beschädigt wird, und Motor wie Restfahrzeug bleiben verwendbar. W konnte sich daher das Eigentum vorbehalten – **W ist Eigentümer** des Motors.\n\n**§ 94:** Wesentliche Bestandteile eines Grundstücks sind vor allem **Gebäude**; sie gehören dem Grundstückseigentümer, auch wenn ein anderer gebaut hat (§ 946). Zu den wesentlichen Bestandteilen eines Gebäudes gehören die **zur Herstellung eingefügten Sachen** – maßgeblich ist, ob die Einfügung dem Gebäude ein bestimmtes **Gepräge** gibt (Verkehrsanschauung).\n\n**Beispiel Ölheizung (in Anlehnung an BGHZ 53, 324; S. 48–49):** A lässt 1978 die Koksheizung seines 1935 errichteten Hauses auf Öl umstellen; B liefert Ölbrenner und Tanks unter Eigentumsvorbehalt, A zahlt nur die Hälfte. Zentralheizungsanlagen sind in ihrer Gesamtheit wesentliche Bestandteile neuzeitlicher Wohnhäuser, auch bei nachträglichem Einbau in einen Altbau → nach **§§ 94, 946** ist **A Eigentümer**; der Eigentumsvorbehalt des B läuft leer.\n\n**Weitere Fälle (S. 49):**\n- **Einbauküche:** wesentlicher Bestandteil, wenn das Haus erst mit ihr als fertiggestellt gilt (etwa bei Spezialanfertigung); sonst kommt Zubehör in Betracht.\n- **Solaranlagen** auf aufgesetzten Rahmen: kein wesentlicher Bestandteil (ohne Beschädigung entfernbar); in die Dachhaut integrierte Anlagen dürften wesentliche Bestandteile sein.\n\n## Scheinbestandteile, § 95 (S. 49–50)\n\nSachen, die nur zu einem **vorübergehenden Zweck** mit dem Grundstück verbunden werden, werden **nicht Bestandteile**. **Beispiel:** A mietet ein Grundstück für 10 Jahre und stellt ein vorgefertigtes Holz-Wochenendhaus auf, das er nach Mietende entfernen will → Scheinbestandteil, **A bleibt Eigentümer** (kein Erwerb des C nach § 946).\n\n## Zubehör, §§ 97, 98 (S. 50)\n\n**Zubehör** sind bewegliche Sachen, die dem **wirtschaftlichen Zweck einer Hauptsache dienen**, zu ihr in einem entsprechenden **räumlichen Verhältnis** stehen und nach der **Verkehrsanschauung** als Zubehör angesehen werden. **Beispiel:** Stühle und Tische eines Gartenlokals. Zubehör ist **rechtlich selbständig** – der Grundstückseigentümer muss nicht Eigentümer des Zubehörs sein.\n\n## Leichnam und Körperteile (S. 50–51)\n\n- Der **lebende Körper** ist keine Sache, ebenso fest implantierte Ersatzteile, die Körperfunktionen übernommen haben (künstliche Arterien, Rippen, Schädeldecken). **Prothesen und Gebisse** sind Sachen; der **Herzschrittmacher** ist Grenzfall, nach dem Skript letztlich Sache (auswechselbar, nur unterstützend).\n- **Leichnam:** Sacheigenschaft umstritten – z.T. abgelehnt („Rückstand der Persönlichkeit“), überwiegend bejaht (objektiver Sachbegriff). Jedenfalls darf über ihn nicht beliebig verfügt werden, solange er der Totenehrung dient. Für Organentnahmen ist primär der Wille des Verstorbenen, hilfsweise die Entscheidung der Angehörigen maßgeblich; geregelt im **Transplantationsgesetz** (seit 1.12.1997).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 47
+        },
+        {
+          "doc": "BGB_8",
+          "page": 48
+        },
+        {
+          "doc": "BGB_8",
+          "page": 49
+        },
+        {
+          "doc": "BGB_8",
+          "page": 50
+        },
+        {
+          "doc": "BGB_8",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Rechte als Rechtsobjekte",
+      "short": "Subjektive Rechte können sich auch auf Rechte beziehen, soweit diese Vermögenswerte sind: dingliche Rechte, Forderungen, Mitgliedschaftsrechte an Gesellschaften und Immaterialgüterrechte. Keine Rechtsobjekte sind höchstpersönliche Persönlichkeits- und Familienrechte sowie Gestaltungsrechte, weil Gegenstand der Herrschaft das Recht ist, aus dem sie folgen.",
+      "long": "## Rechte an Rechten (S. 51)\n\nNicht nur Sachen, auch **Rechte** können Gegenstand subjektiver Rechte sein, **soweit es sich um Vermögenswerte handelt**:\n- **dingliche Rechte** (z.B. Eigentum, Pfandrechte),\n- **Forderungen**,\n- **Mitgliedschaftsrechte** an Personen- und Kapitalgesellschaften,\n- **Immaterialgüterrechte** (Patente, Markenrechte, Urheberrechte).\n\n**Keine Rechtsobjekte:**\n- **Persönlichkeitsrechte** und **Familienrechte** wegen ihres höchstpersönlichen Charakters;\n- **Gestaltungsrechte** (z.B. Anfechtung, Rücktritt), weil nicht sie, sondern die Rechte, aus denen sie abgeleitet werden, Gegenstand rechtlicher Herrschaft sind.\n\n**Beispiel (S. 51):** G hat gegen S einen Zahlungsanspruch über 200 €. Nach einem Urteil lässt G den pfändbaren Teil des Arbeitseinkommens des S beim Arbeitgeber pfänden. Das **Pfandrecht** ist ein subjektives Recht **an einem Recht** – am Lohnanspruch des S gegen seinen Arbeitgeber.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Nutzungen: Früchte und Gebrauchsvorteile (§§ 99, 100 BGB)",
+      "short": "Nutzungen (§ 100) sind der Oberbegriff für Früchte und Gebrauchsvorteile einer Sache oder eines Rechts. Früchte (§ 99) sind unmittelbare Sachfrüchte (Erzeugnisse und sonstige bestimmungsgemäße Ausbeute, Abs. 1), unmittelbare Rechtsfrüchte (Erträge, die ein Recht seiner Bestimmung gemäß gewährt, Abs. 2) und mittelbare Sach- und Rechtsfrüchte (Erträge vermöge eines Rechtsverhältnisses, Abs. 3).",
+      "long": "## Begriffe (S. 51)\n\n§ 100 bezeichnet die Erträge aus Rechtsobjekten als **Nutzungen** – Oberbegriff für **Gebrauchsvorteile** und **Früchte** einer Sache oder eines Rechts. „Früchte“ im Rechtssinn (§ 99) sind nicht mit dem Alltagsbegriff gleichzusetzen.\n\n## Übersicht nach der Grafik des Skripts (S. 52)\n\n**Gebrauchsvorteile**\n- einer Sache: z.B. Bewohnen eines Hauses, Gebrauch eines Kfz;\n- eines Rechts: nach dem Skript z.B. Stimmrecht aus einer Aktie oder als GmbH-Gesellschafter.\n\n**Früchte (§ 99)**\n| Art | Norm | Inhalt | Beispiele |\n|---|---|---|---|\n| unmittelbare Sachfrüchte | § 99 Abs. 1 | Erzeugnisse und sonstige bestimmungsgemäße Ausbeute | Eier, Milch, Tierjunge; Obst, Kartoffeln, Bäume; Sand, Holz, Kohle |\n| mittelbare Sachfrüchte | § 99 Abs. 3 | Erträge, die eine Sache vermöge eines Rechtsverhältnisses gewährt | Miet- und Pachteinnahmen |\n| unmittelbare Rechtsfrüchte | § 99 Abs. 2 | Erträge, die das Recht seiner Bestimmung gemäß gewährt | Dividende einer Aktie |\n| mittelbare Rechtsfrüchte | § 99 Abs. 3 | Erträge, die ein Recht vermöge eines Rechtsverhältnisses gewährt | Entgelt für eine Theateraufführung; Lizenzgebühr für ein Patent |\n\n*Merke:* Entscheidend für „mittelbar“ ist, dass der Ertrag erst **über ein Rechtsverhältnis** (z.B. Miet-, Pacht- oder Lizenzvertrag) erzielt wird.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        },
+        {
+          "doc": "BGB_8",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Gesamtheiten: Vermögen und Unternehmen",
+      "short": "Das Vermögen ist die Gesamtheit der einer Person zustehenden geldwerten Rechte (gesetzlich nicht definiert); nicht dazu gehören z.B. Vereinsmitgliedschaft oder Personensorge. Das Unternehmen ist eine auf der Verbindung personeller und sachlicher Mittel beruhende wirtschaftliche Einheit aus Betriebsvermögen und Chancen. Geschützt ist es über das Recht am eingerichteten und ausgeübten Gewerbebetrieb als „sonstiges Recht“ des § 823 Abs. 1 gegen betriebsbezogene Eingriffe.",
+      "long": "## Das Vermögen (S. 53)\n\nDer Begriff wird z.B. in §§ 311b Abs. 2, 3, 419, 1922 verwendet, aber **nicht gesetzlich definiert**.\n\n**Vermögen** einer Person ist die **Gesamtheit der ihr zustehenden geldwerten Rechte**. Geldwert sind Rechte, die unter normalen Verhältnissen gegen Geld veräußert oder nur gegen Geld erworben werden können oder sonst einen in Geld ausdrückbaren Nutzen gewähren – z.B. Eigentum, Forderungen mit Geldwert, Anteile an AG oder GmbH, Patente.\n\n**Beispiel (S. 53):** Angestellter H zählt zu seinem Vermögen: Eigentum an Hausgrundstück und PKW, Darlehensforderung über 2.500 € gegen Onkel S, Vergütungsanspruch für Dezember über 5.000 €, Eigentum an 10 Aktien. **Nicht** dazu gehören seine Mitgliedschaft im Spiel- und Sportverein e.V. und das Recht der Personensorge für sein Kind C.\n\n## Das Unternehmen (S. 53–54)\n\nDer Begriff wird verwendet (z.B. § 15 AktG, § 1 GWB), ist aber **nicht definiert**; § 14 BGB erläutert nur den **Unternehmer**. Nach überwiegender Auffassung ist das Unternehmen eine **auf einer Verbindung personeller und sachlicher Mittel beruhende wirtschaftliche Einheit** (vgl. die Bilanzgliederung in § 266 HGB). Es umfasst:\n- **Sachen:** Grundstücke samt Gebäuden und Zubehör, Warenlager, Einrichtung, Fahrzeuge, Maschinen;\n- **Rechte:** Marken, Patente, Urheberrechte, Forderungen aus Geschäftsverbindungen;\n- **sonstige wirtschaftliche Werte:** Know-how, Ruf, Kunden- und Mitarbeiterbeziehungen, Firmenwert.\n\nZwei Gruppen: **Betriebsvermögen** (Sachen und Rechte) und **Chancen** (Beziehungen und Verhältnisse als Mittel ertragbringender Tätigkeit). Äußeres Zeichen der Verselbständigung ist die **Firma** (§§ 17 ff. HGB) – der Name, unter dem die Geschäfte betrieben werden und unter dem geklagt und verklagt werden kann.\n\n**Schutz:** Ein lückenloser Unternehmensschutz fehlt. Die Rechtsprechung erkennt das **Recht am eingerichteten und ausgeübten Gewerbebetrieb** als **„sonstiges Recht“ i.S.d. § 823 Abs. 1** an; geschützt ist der Bestand gegen **unmittelbare, betriebsbezogene Eingriffe**. Für mittelbare Eingriffe gelten die allgemeinen Grundsätze.\n\n**Unternehmenskauf (asset deal):** Kaufgegenstand ist die wirtschaftliche Einheit aus Betriebsvermögen und Chancen (Kundenkreis, Geschäftsbeziehungen, Know-how); daneben ist ein share deal (Beteiligungskauf) möglich.\n\n## Ausblick: Einwendungen und Einreden (Anhang, S. 59)\n\nDas Skript unterscheidet **rechtshindernde** (Anspruch entsteht nicht, z.B. §§ 104 ff., 125, 134, 138), **rechtsvernichtende** (Anspruch geht unter, z.B. § 362, § 389) und **rechtshemmende** Einwendungen (Anspruch nicht durchsetzbar, z.B. Verjährung § 214 Abs. 1, § 273 Abs. 1, § 320 Abs. 1 S. 1). Die ersten beiden werden von Gesetzes wegen berücksichtigt; rechtshemmende müssen geltend gemacht werden – **Einreden**. Das knüpft an die Grenzen der Durchsetzbarkeit subjektiver Rechte an.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 53
+        },
+        {
+          "doc": "BGB_8",
+          "page": 54
+        },
+        {
+          "doc": "BGB_8",
+          "page": 59
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Subjektives Recht",
+      "text": "Die dem Einzelnen von der Rechtsordnung verliehene, zur Befriedigung seiner Bedürfnisse und Interessen dienende Rechtsmacht – ein normatives „Handeln-Dürfen“ oder „rechtliches Können“ (Definition umstritten).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "term": "Gestaltungsrecht",
+      "text": "Rechtsmacht, allein durch Ausübung des eigenen Willens Rechtsfolgen herbeizuführen, die in der Aufhebung oder Veränderung eines bestehenden Rechtsverhältnisses bestehen (z.B. Kündigung, Rücktritt, Anfechtung).",
+      "norm": "z.B. §§ 142 Abs. 1, 346, 622 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 35
+        },
+        {
+          "doc": "BGB_8",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "term": "Verwirkung",
+      "text": "Unzulässige Rechtsausübung (§ 242) wegen illoyal verspäteter Geltendmachung: Der Berechtigte hat sein Recht längere Zeit nicht geltend gemacht, obwohl er es konnte (Zeitmoment), und der Verpflichtete durfte nach dem Verhalten des Berechtigten darauf vertrauen und hat sich darauf eingerichtet, dass das Recht nicht mehr geltend gemacht wird (Umstandsmoment).",
+      "norm": "§ 242 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 40
+        },
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "term": "Notwehr",
+      "text": "Die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden. Angriff ist jede menschliche Handlung, durch die eine Verletzung rechtlich geschützter Interessen droht; rechtswidrig ist er, wenn der Angegriffene zur Duldung nicht verpflichtet ist.",
+      "norm": "§ 227 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "term": "Sache",
+      "text": "Nur körperliche, d.h. räumlich abgegrenzte und von Menschen beherrschbare Gegenstände; Festigkeit ist nicht erforderlich (auch Gase und Flüssigkeiten). Tiere sind keine Sachen, werden aber grundsätzlich entsprechend behandelt.",
+      "norm": "§§ 90, 90a BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 45
+        },
+        {
+          "doc": "BGB_8",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "term": "Vertretbare Sachen",
+      "text": "Bewegliche Sachen, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt werden, sich also nicht durch ausgeprägte Individualisierungsmerkmale von anderen abheben (z.B. Geld, Wertpapiere, Obst, Wein).",
+      "norm": "§ 91 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 46
+        },
+        {
+          "doc": "BGB_8",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "term": "Wesentlicher Bestandteil",
+      "text": "Bestandteile einer Sache, die voneinander nicht getrennt werden können, ohne dass der eine oder der andere zerstört oder in seinem Wesen verändert wird; sie können nicht Gegenstand besonderer Rechte sein. Bei Grundstücken vor allem Gebäude und die zur Herstellung eines Gebäudes eingefügten Sachen.",
+      "norm": "§§ 93, 94 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "term": "Zubehör",
+      "text": "Bewegliche Sachen, die, ohne Bestandteile der Hauptsache zu sein, deren wirtschaftlichem Zweck dienen, zu ihr in einem entsprechenden räumlichen Verhältnis stehen und nach der Verkehrsanschauung als Zubehör angesehen werden; sie bleiben rechtlich selbständig.",
+      "norm": "§§ 97, 98 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "term": "Nutzungen",
+      "text": "Oberbegriff für die Früchte (§ 99) und die Gebrauchsvorteile einer Sache oder eines Rechts.",
+      "norm": "§ 100 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        },
+        {
+          "doc": "BGB_8",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "term": "Vermögen",
+      "text": "Die Gesamtheit der einer Person zustehenden geldwerten Rechte; gesetzlich nicht definiert.",
+      "norm": "vgl. §§ 311b Abs. 2, 3, 1922 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 53
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Notwehr (§ 227 BGB)",
+      "steps": [
+        "1. Notwehrlage: Angriff – menschliche Handlung, durch die eine Verletzung rechtlich geschützter Interessen droht.",
+        "2. Gegenwärtigkeit des Angriffs.",
+        "3. Rechtswidrigkeit des Angriffs: keine Duldungspflicht des Angegriffenen.",
+        "4. Notwehrhandlung: Verteidigung gegen den Angreifer zur Abwehr von sich oder einem anderen.",
+        "5. Erforderlichkeit: nur die erforderlichen Mittel; kein unerträgliches Missverhältnis zwischen bedrohtem und verletztem Rechtsgut.",
+        "6. Rechtsfolge: Handlung ist gerechtfertigt (nicht widerrechtlich) – kein Anspruch aus § 823 Abs. 1."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "title": "Verteidigungsnotstand (§ 228) und Angriffsnotstand (§ 904)",
+      "steps": [
+        "1. Abgrenzung: Geht die Gefahr von der Sache aus, die beschädigt wird? → § 228. Wird auf eine unbeteiligte fremde Sache eingewirkt? → § 904. Menschlicher Angriff? → zusätzlich/vorrangig § 227 prüfen.",
+        "2. § 228: drohende Gefahr durch eine fremde Sache (Tiere entsprechend, § 90a) – Beschädigung/Zerstörung dieser Sache zur Abwehr erforderlich – Schaden nicht unverhältnismäßig größer als die Gefahr.",
+        "3. § 904: gegenwärtige Gefahr – Einwirkung auf fremde Sache zur Abwehr erforderlich – drohender Schaden unverhältnismäßig groß gegenüber dem Schaden an der fremden Sache.",
+        "4. Rechtsfolge: Eingriff gerechtfertigt; bei § 904 aber Pflicht, dem Eigentümer den Schaden zu ersetzen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 43
+        },
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "title": "Selbsthilfe (§§ 229 ff. BGB) nach dem Skript",
+      "steps": [
+        "1. Selbsthilfelage: a) fälliger und einredefreier zivilrechtlicher Anspruch; b) obrigkeitliche Hilfe nicht rechtzeitig zu erlangen; c) Gefährdung der Anspruchsverwirklichung.",
+        "2. Selbsthilfehandlung: a) insbesondere Wegnahme einer Sache oder Festnahme des fluchtverdächtigen Verpflichteten; b) Erforderlichkeit – relativ mildestes Mittel (§ 230 Abs. 1).",
+        "3. Subjektives Rechtfertigungselement: Selbsthilfewille (str.).",
+        "Abgrenzung: Besitzwehr/Besitzkehr (§ 859) setzt keine fehlende obrigkeitliche Hilfe voraus."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "title": "Verwirkung (§ 242 BGB)",
+      "steps": [
+        "1. Bestehendes Recht (Anspruch, Einwendung, Rechtsbehelf).",
+        "2. Zeitmoment: längere Zeit keine Geltendmachung, obwohl möglich.",
+        "3. Umstandsmoment: Verhalten des Berechtigten begründet beim Verpflichteten das Vertrauen, das Recht werde nicht mehr geltend gemacht; der Verpflichtete hat sich darauf eingerichtet.",
+        "4. Gesamtabwägung: Zumutbarkeit der Erfüllung trotz schutzwürdigen Vertrauens; Wechselwirkung von Zeit- und Umstandsmoment.",
+        "5. Rechtsfolge: Geltendmachung ist unzulässige Rechtsausübung – auch gegen den Willen des Berechtigten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 40
+        },
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Subjektive Rechte werden dem Einzelnen durch das objektive Recht unter den dort genannten Voraussetzungen verliehen.",
+      "answer": true,
+      "explanation": "Das objektive Recht (z.B. § 823 Abs. 1) verleiht bei Erfüllung seines Tatbestands ein subjektives Recht (z.B. den Schadensersatzanspruch des Verletzten), S. 33.",
+      "hints": [
+        "Denken Sie an das Messer-Beispiel."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein subjektives Recht ist die dem Einzelnen von der Rechtsordnung verliehene, zur Befriedigung seiner Bedürfnisse und Interessen dienende {{1}}. Gemeint ist kein wirtschaftliches, sondern ein {{2}} „Handeln-Dürfen“.",
+      "blanks": [
+        [
+          "Rechtsmacht"
+        ],
+        [
+          "normatives",
+          "rechtliches"
+        ]
+      ],
+      "explanation": "Definition S. 33; „Rechtsmacht“ bezeichnet einen normativen Sachverhalt.",
+      "hints": [
+        "Macht – aber welche?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Beispiel der Art des subjektiven Rechts zu.",
+      "pairs": [
+        [
+          "Namensrecht",
+          "Persönlichkeitsrecht"
+        ],
+        [
+          "Elterliche Sorge",
+          "Persönliches Familienrecht"
+        ],
+        [
+          "Eigentum an einem Kfz",
+          "Herrschaftsrecht"
+        ],
+        [
+          "Kaufpreisforderung aus § 433 Abs. 2",
+          "Anspruch"
+        ],
+        [
+          "Kündigung eines Mietvertrags",
+          "Gestaltungsrecht"
+        ]
+      ],
+      "explanation": "Einteilung nach Inhalten, S. 33–37.",
+      "hints": [
+        "Herrschaft = unmittelbare Einwirkung auf ein Objekt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        },
+        {
+          "doc": "BGB_8",
+          "page": 34
+        },
+        {
+          "doc": "BGB_8",
+          "page": 35
+        },
+        {
+          "doc": "BGB_8",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welches der folgenden Rechte ist ein relatives Recht?",
+      "options": [
+        "Der Anspruch des Käufers auf Übergabe und Übereignung (§ 433 Abs. 1)",
+        "Das Eigentum an einem Grundstück",
+        "Ein Patent",
+        "Das Namensrecht"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Relative Rechte wirken nur zwischen bestimmten Personen eines Schuldverhältnisses; typisch ist der Anspruch. Eigentum, Patente und Namensrecht wirken gegenüber jedermann (S. 37).",
+      "hints": [
+        "Gegen wen wirkt das Recht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Arbeitnehmerin A ist seit drei Monaten bei der Interschrott GmbH beschäftigt. Am 1. März 2024 geht ihr eine ordentliche Kündigung zu. § 622 Abs. 1 BGB: vier Wochen zum Fünfzehnten oder zum Ende eines Kalendermonats. Wann endet das Arbeitsverhältnis nach dem Skript?",
+      "options": [
+        "Am 31. März 2024",
+        "Am 29. März 2024",
+        "Am 15. April 2024",
+        "Am 30. April 2024"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Vier-Wochen-Frist läuft ab dem 2. März (§ 187 Abs. 1) und endet mit Ablauf des 29. März (§ 188 Abs. 2). Da nur zum 15. oder Monatsende gekündigt werden kann, ist der nächste zulässige Termin der 31. März 2024 (S. 36).",
+      "hints": [
+        "Erst Frist berechnen, dann den nächsten zulässigen Endtermin suchen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden sind Gestaltungsrechte? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Kündigung",
+        "Rücktritt",
+        "Anfechtung",
+        "Kaufpreisanspruch"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Kündigung, Rücktritt und Anfechtung verändern oder beenden ein Rechtsverhältnis durch einseitige Erklärung. Der Kaufpreisanspruch ist ein Anspruch (§ 194 Abs. 1), S. 35–37.",
+      "hints": [
+        "Einseitige Veränderung eines Rechtsverhältnisses."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 35
+        },
+        {
+          "doc": "BGB_8",
+          "page": 36
+        },
+        {
+          "doc": "BGB_8",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welcher der folgenden Vorgänge ist nach dem Skript ein originärer Rechtserwerb?",
+      "options": [
+        "Eigentumserwerb durch Verarbeitung (§ 950)",
+        "Übereignung eines Kfz durch Einigung und Übergabe (§ 929 S. 1)",
+        "Erwerb einer Forderung durch Abtretung (§ 398)",
+        "Erwerb eines bereits bestehenden Pfandrechts durch Übertragung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Beim originären Erwerb entsteht das Recht erst in der Person des Erwerbers (§ 950). Übereignung und Abtretung übertragen ein bestehendes Recht (derivativer Erwerb), S. 38–39.",
+      "hints": [
+        "Wurde ein schon bestehendes Recht übertragen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 38
+        },
+        {
+          "doc": "BGB_8",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Der Rückzahlungsanspruch eines Darlehensgebers aus § 488 Abs. 1 BGB erlischt mit dessen Tod, weil Forderungen höchstpersönliche Rechte sind.",
+      "answer": false,
+      "explanation": "Forderungen sind Vermögensrechte, von der Person des Berechtigten unabhängig und vererblich; sie gehen nach § 1922 Abs. 1 auf die Erben über. Höchstpersönlich sind z.B. Persönlichkeitsrechte (S. 38).",
+      "hints": [
+        "Vermögensrecht oder Persönlichkeitsrecht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wann ist die Ausübung eines Rechts nach § 226 BGB (Schikaneverbot) unzulässig?",
+      "options": [
+        "Wenn sie nur den Zweck haben kann, einem anderen Schaden zuzufügen",
+        "Wenn sie überwiegend den Zweck hat, einem anderen zu schaden",
+        "Wenn sie einem anderen erheblichen Schaden zufügt, gleich zu welchem Zweck",
+        "Wenn sie gegen die guten Sitten verstößt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 226 ist sehr eng: Die Ausübung muss ausschließlich der Schädigung dienen; deshalb selten erfüllt. Sittenwidrigkeit ist in §§ 138, 817, 826 geregelt (S. 39–40).",
+      "hints": [
+        "Der Tatbestand ist sehr eng gefasst."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 39
+        },
+        {
+          "doc": "BGB_8",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte der Verwirkung in eine sinnvolle Reihenfolge.",
+      "items": [
+        "Bestehen des geltend gemachten Rechts",
+        "Zeitmoment: längere Untätigkeit trotz Möglichkeit der Geltendmachung",
+        "Umstandsmoment: Vertrauen des Verpflichteten aufgrund des Verhaltens des Berechtigten",
+        "Verpflichteter hat sich auf die Nichtgeltendmachung eingerichtet",
+        "Abwägung: Zumutbarkeit der Erfüllung trotz Vertrauens",
+        "Rechtsfolge: unzulässige Rechtsausübung nach § 242"
+      ],
+      "explanation": "Schema nach S. 41: Zeit- und Umstandsmoment, Wechselwirkung und Zumutbarkeitsprüfung.",
+      "hints": [
+        "Zuerst das Recht, zuletzt die Rechtsfolge."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Mieterin M zahlt statt vereinbarter 2.000 € monatlich nur 1.750 €, weil ihr die Miete zu hoch erscheint. Vermieterin V spricht sie bei regelmäßigen gemeinsamen Handballspielen nie darauf an; beide feiern ausgelassen die Kreismeisterschaft. Fünf Jahre später, beim Auszug der M, verlangt V 9.000 € Restmiete für drei Jahre. Kann M sich auf Verwirkung berufen?",
+      "modelAnswer": "V könnte die Restmiete nach § 242 nicht mehr geltend machen dürfen, wenn ihr Anspruch verwirkt ist. Verwirkung setzt voraus, dass der Berechtigte sein Recht längere Zeit nicht geltend gemacht hat, obwohl er es konnte (Zeitmoment), und dass der Verpflichtete nach dem Verhalten des Berechtigten darauf vertrauen durfte und sich darauf eingerichtet hat, dass das Recht nicht mehr geltend gemacht wird (Umstandsmoment). V hat die monatliche Kürzung um 250 € über Jahre hingenommen, obwohl sie den Fehlbetrag jederzeit hätte einfordern können; das Zeitmoment ist erfüllt. Hinzu kommt, dass V die M trotz regelmäßigen persönlichen Kontakts nie auf die Kürzung ansprach und mit ihr freundschaftlich verkehrte. Dieses Verhalten durfte M als Duldung der Kürzung verstehen; sie hat sich darauf eingerichtet, nur 1.750 € zu schulden. Je länger die Untätigkeit dauerte, desto geringer sind die Anforderungen an das Umstandsmoment. Nach dem Skript ist der Anspruch daher verwirkt; M muss die 9.000 € nicht zahlen.",
+      "rubric": [
+        "§ 242 als Grundlage",
+        "Zeitmoment",
+        "Umstandsmoment mit Vertrauen und Sich-Einrichten",
+        "Wechselwirkung/Zumutbarkeit",
+        "Ergebnis: Verwirkung"
+      ],
+      "hints": [
+        "Zwei Elemente – Zeit und Umstände.",
+        "Welches Verhalten der V begründet Vertrauen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "D will B an der Theke ein volles Bierglas über den Kopf schütten. B stößt D zurück; D stürzt und zieht sich fahrlässig verursacht eine Kopfverletzung zu. D verlangt Schadensersatz aus § 823 Abs. 1. Zu Recht?",
+      "options": [
+        "Nein, der Stoß ist durch Notwehr (§ 227) gerechtfertigt.",
+        "Nein, der Stoß ist durch Verteidigungsnotstand (§ 228) gerechtfertigt.",
+        "Ja, weil B die Verletzung fahrlässig verursacht hat und Notwehr nur vorsätzliches Handeln deckt.",
+        "Ja, weil ein drohender Bierguss nie eine körperliche Abwehr rechtfertigt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Tatbestand des § 823 Abs. 1 ist erfüllt, die Verletzung aber nach § 227 gerechtfertigt: gegenwärtiger rechtswidriger menschlicher Angriff, Zurückstoßen als erforderliche Abwehr. § 228 setzt eine von einer Sache ausgehende Gefahr voraus. Ein Messereinsatz wäre dagegen nicht erforderlich gewesen (S. 42–43).",
+      "hints": [
+        "Von wem geht die Gefahr aus?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Rechtfertigungsgrund seiner Kernvoraussetzung zu.",
+      "pairs": [
+        [
+          "§ 227 BGB",
+          "Gegenwärtiger rechtswidriger Angriff eines Menschen"
+        ],
+        [
+          "§ 228 BGB",
+          "Gefahr geht von der beschädigten Sache selbst aus"
+        ],
+        [
+          "§ 904 BGB",
+          "Einwirkung auf eine unbeteiligte fremde Sache zur Gefahrenabwehr"
+        ],
+        [
+          "§ 229 BGB",
+          "Obrigkeitliche Hilfe zur Sicherung eines Anspruchs nicht rechtzeitig zu erlangen"
+        ],
+        [
+          "§ 859 BGB",
+          "Abwehr verbotener Eigenmacht gegen den Besitz"
+        ]
+      ],
+      "explanation": "Vgl. S. 42–44.",
+      "hints": [
+        "Besitzwehr und Besitzkehr."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 43
+        },
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "S wird vom Hund des R angegriffen, ergreift den Besen des unbeteiligten Nachbarn N und schlägt damit auf den Hund ein; der Besen zerbricht. Weil S nach § 904 BGB gerechtfertigt war, muss sie N den Besen nicht ersetzen.",
+      "answer": false,
+      "explanation": "Die Beschädigung des Besens ist nach § 904 gerechtfertigt (drohender Körperschaden unverhältnismäßig größer). Der Angriffsnotstand verpflichtet aber zum Ersatz des Schadens an der unbeteiligten Sache (S. 44).",
+      "hints": [
+        "Rechtfertigung schließt nicht jede Ersatzpflicht aus."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Merkmale gehören nach dem Skript zur Selbsthilfelage des § 229 BGB? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Fälliger und einredefreier zivilrechtlicher Anspruch",
+        "Obrigkeitliche Hilfe ist nicht rechtzeitig zu erlangen",
+        "Gefährdung der Anspruchsverwirklichung",
+        "Gegenwärtiger rechtswidriger Angriff"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die ersten drei bilden die Selbsthilfelage (S. 44). Der gegenwärtige rechtswidrige Angriff ist Merkmal der Notwehr (§ 227).",
+      "hints": [
+        "Selbsthilfe dient der Durchsetzung eines Anspruchs."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was kann nach dem Skript Rechtsobjekt sein?",
+      "options": [
+        "Alles, was von Menschen beherrschbar ist und ihnen von der Rechtsordnung zugeordnet werden kann – in erster Linie Sachen und Rechte",
+        "Nur körperliche Gegenstände im Sinne des § 90",
+        "Auch Menschen, soweit sie minderjährig sind",
+        "Nur Gegenstände, die im Grundbuch eingetragen sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Rechtsordnung kennt keine Rechte an Menschen. Rechtsobjekte sind vor allem Sachen und Rechte, daneben Immaterialgüter (S. 45).",
+      "hints": [
+        "Rechtsobjekt ist weiter als Sache."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden sind nach dem Skript Sachen im Sinne des § 90 BGB (bzw. werden so behandelt)? Wählen Sie zwei zutreffende Antworten.",
+      "options": [
+        "In einer Flasche abgefülltes Gas",
+        "Ein USB-Stick mit darauf gespeichertem Computerprogramm",
+        "Ein virtueller Gegenstand in einem Computerspiel",
+        "Elektrische Energie"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Körperlichkeit verlangt räumliche Ausdehnung, keine Festigkeit – Gas in Behältern ist Sache. Die Verkörperung eines Programms auf einem Datenträger wird als Sache behandelt (das Programm selbst nicht). Virtuelle Gegenstände haben keine Sacheigenschaft; Elektrizität ist nach h.M. keine Sache, auch wenn die Vorschriften über bewegliche Sachen angewandt werden (S. 45–46).",
+      "hints": [
+        "Räumliche Ausdehnung, nicht Festigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 45
+        },
+        {
+          "doc": "BGB_8",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Tiere sind nach § {{1}} BGB keine Sachen. Die für Sachen geltenden Vorschriften sind aber {{2}} anzuwenden, soweit nicht etwas anderes bestimmt ist. Bewegliche Sachen, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt werden, heißen {{3}} Sachen (§ 91).",
+      "blanks": [
+        [
+          "90a",
+          "90 a"
+        ],
+        [
+          "entsprechend"
+        ],
+        [
+          "vertretbare",
+          "vertretbar"
+        ]
+      ],
+      "explanation": "S. 46: § 90a S. 1 und 3; § 91.",
+      "hints": [
+        "Mitgeschöpf, aber rechtlich wie eine Sache behandelt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "W baut in das Kfz des E einen Austauschmotor ein und behält sich daran das Eigentum bis zur vollständigen Zahlung vor. E zahlt nur ein Drittel. Wer ist Eigentümer des Motors?",
+      "options": [
+        "W, weil der Motor nur einfacher, nicht wesentlicher Bestandteil des Kfz geworden ist",
+        "E, weil der Motor nach § 93 wesentlicher Bestandteil geworden ist",
+        "E, weil der Motor Zubehör des Kfz ist und dem Eigentum an der Hauptsache folgt",
+        "W und E gemeinsam als Miteigentümer"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "BGHZ 18, 226: Der Motor kann ohne Beschädigung ausgebaut werden, und Motor wie Restfahrzeug bleiben nutzbar – kein wesentlicher Bestandteil, daher ist ein Eigentumsvorbehalt möglich (S. 48). Zubehör folgt im Übrigen nicht automatisch dem Eigentum an der Hauptsache.",
+      "hints": [
+        "Wird ein Teil durch Trennung zerstört oder in seinem Wesen verändert?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "A lässt die Koksheizung seines 1935 errichteten Wohnhauses auf Öl umstellen. B liefert Ölbrenner und Tanks unter Eigentumsvorbehalt; A zahlt nur die Hälfte. Wer ist Eigentümer von Brenner und Tanks?",
+      "options": [
+        "A, weil die Zentralheizungsanlage als zur Herstellung des Gebäudes eingefügte Sache wesentlicher Bestandteil des Grundstücks geworden ist (§§ 94, 946)",
+        "B, weil der Eigentumsvorbehalt bis zur vollständigen Zahlung wirkt",
+        "B, weil die Anlage nachträglich in ein Altgebäude eingebaut wurde und deshalb nur Scheinbestandteil ist",
+        "A und B als Miteigentümer nach Bruchteilen entsprechend der Zahlung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach BGHZ 53, 324 sind Zentralheizungsanlagen in ihrer Gesamtheit wesentliche Bestandteile neuzeitlicher Wohnhäuser, auch bei nachträglichem Einbau. Nach § 946 erwirbt der Grundstückseigentümer A das Eigentum; an wesentlichen Bestandteilen kann kein Sonderrecht des B bestehen (S. 48–49).",
+      "hints": [
+        "Gibt die Anlage dem Gebäude ein bestimmtes Gepräge?",
+        "Ist der Einbau nur vorübergehend?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 48
+        },
+        {
+          "doc": "BGB_8",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A mietet ein Grundstück des C für 10 Jahre und errichtet darauf ein vorgefertigtes Holz-Wochenendhaus, das er nach Mietende wieder entfernen will. Das Haus wird nach §§ 94, 946 BGB Eigentum des C.",
+      "answer": false,
+      "explanation": "Das Haus ist nur zu einem vorübergehenden Zweck verbunden und daher Scheinbestandteil (§ 95). Es wird nicht Bestandteil des Grundstücks; A bleibt Eigentümer (S. 49–50).",
+      "hints": [
+        "Vorübergehender Zweck."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 49
+        },
+        {
+          "doc": "BGB_8",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Grenzen Sie wesentliche Bestandteile, Scheinbestandteile und Zubehör voneinander ab und nennen Sie jeweils die Folge für die Eigentumslage.",
+      "modelAnswer": "Wesentliche Bestandteile sind Teile einer Sache, die nicht getrennt werden können, ohne dass ein Teil zerstört oder in seinem Wesen verändert wird (§ 93); bei Grundstücken gehören dazu vor allem Gebäude und die zur Herstellung eines Gebäudes eingefügten Sachen (§ 94). An ihnen können keine besonderen Rechte bestehen; mit der Verbindung mit einem Grundstück erwirbt der Grundstückseigentümer das Eigentum (§ 946). Scheinbestandteile sind Sachen, die nur zu einem vorübergehenden Zweck mit dem Grundstück verbunden werden (§ 95); sie werden nicht Bestandteil, das Eigentum bleibt unberührt. Zubehör sind bewegliche Sachen, die dem wirtschaftlichen Zweck einer Hauptsache dienen, in einem entsprechenden räumlichen Verhältnis zu ihr stehen und nach der Verkehrsanschauung als Zubehör gelten (§ 97); sie sind rechtlich selbständig, so dass Eigentümer der Hauptsache und des Zubehörs verschieden sein können.",
+      "rubric": [
+        "Definition § 93 und Gebäude/Herstellung § 94",
+        "Folge: keine Sonderrechte, § 946",
+        "Scheinbestandteil § 95: vorübergehender Zweck, Eigentum bleibt",
+        "Zubehör § 97: Merkmale",
+        "Zubehör rechtlich selbständig"
+      ],
+      "hints": [
+        "Nutzen Sie die Beispiele Ölheizung, Wochenendhaus und Gartenlokal."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 47
+        },
+        {
+          "doc": "BGB_8",
+          "page": 48
+        },
+        {
+          "doc": "BGB_8",
+          "page": 49
+        },
+        {
+          "doc": "BGB_8",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was ist nach dem Skript kein tauglicher Gegenstand eines subjektiven Rechts (kein Rechtsobjekt)?",
+      "options": [
+        "Das Anfechtungsrecht als Gestaltungsrecht",
+        "Eine Geldforderung",
+        "Ein Patent",
+        "Ein Geschäftsanteil an einer GmbH"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Gestaltungsrechte gehören nicht zu den Rechtsobjekten, weil Gegenstand rechtlicher Herrschaft die Rechte sind, aus denen sie abgeleitet werden. Forderungen, Immaterialgüterrechte und Mitgliedschaftsrechte sind Vermögenswerte (S. 51).",
+      "hints": [
+        "Rechte an Rechten nur bei Vermögenswerten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "G lässt aufgrund eines Urteils den pfändbaren Lohn seines Schuldners S beim Arbeitgeber pfänden. Das dadurch entstehende Pfandrecht ist ein subjektives Recht, dessen Gegenstand ein Recht ist.",
+      "answer": true,
+      "explanation": "Das Pfandrecht bezieht sich auf den Lohnanspruch des S gegen seinen Arbeitgeber – ein Recht an einem Recht (S. 51).",
+      "hints": [
+        "Worauf bezieht sich das Pfandrecht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Nutzung der richtigen Kategorie nach §§ 99, 100 BGB zu.",
+      "pairs": [
+        [
+          "Eier eines Huhns",
+          "Unmittelbare Sachfrucht (§ 99 Abs. 1)"
+        ],
+        [
+          "Mieteinnahmen aus einer Wohnung",
+          "Mittelbare Sachfrucht (§ 99 Abs. 3)"
+        ],
+        [
+          "Dividende einer Aktie",
+          "Unmittelbare Rechtsfrucht (§ 99 Abs. 2)"
+        ],
+        [
+          "Lizenzgebühr für die Nutzung eines Patents",
+          "Mittelbare Rechtsfrucht (§ 99 Abs. 3)"
+        ],
+        [
+          "Bewohnen des eigenen Hauses",
+          "Gebrauchsvorteil (§ 100)"
+        ]
+      ],
+      "explanation": "Nach der Grafik auf S. 52.",
+      "hints": [
+        "„Mittelbar“ = über ein Rechtsverhältnis."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        },
+        {
+          "doc": "BGB_8",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Der Eigentümer einer Kiesgrube baut dort bestimmungsgemäß Sand ab. Wie ist der Sand einzuordnen?",
+      "options": [
+        "Als unmittelbare Sachfrucht (sonstige bestimmungsgemäße Ausbeute, § 99 Abs. 1)",
+        "Als Gebrauchsvorteil (§ 100), weil die Grube genutzt wird",
+        "Als mittelbare Sachfrucht (§ 99 Abs. 3)",
+        "Gar nicht als Nutzung, weil die Substanz der Sache verringert wird"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 99 Abs. 1 erfasst neben Erzeugnissen auch die sonstige bestimmungsgemäße Ausbeute; das Skript nennt Sand, Holz und Kohle (S. 52). Mittelbar wäre etwa ein Pachtzins für die Grube.",
+      "hints": [
+        "Erzeugnisse und Ausbeute."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        },
+        {
+          "doc": "BGB_8",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Angestellter H erstellt zum Jahresende eine Vermögensaufstellung. Was gehört nach dem Skript zu seinem Vermögen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Darlehensforderung über 2.500 € gegen seinen Onkel",
+        "Eigentum an 10 Aktien",
+        "Vergütungsanspruch für Dezember gegen den Arbeitgeber",
+        "Recht der Personensorge für sein Kind"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Vermögen ist die Gesamtheit der geldwerten Rechte. Die Personensorge (wie auch die Vereinsmitgliedschaft im Beispiel) ist kein geldwertes Recht (S. 53).",
+      "hints": [
+        "Geldwert?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussage zum Schutz des Unternehmens trifft nach dem Skript zu?",
+      "options": [
+        "Die Rechtsprechung schützt den eingerichteten und ausgeübten Gewerbebetrieb als „sonstiges Recht“ nach § 823 Abs. 1 gegen unmittelbare, betriebsbezogene Eingriffe.",
+        "Das Unternehmen ist in § 14 BGB umfassend definiert und dadurch lückenlos geschützt.",
+        "Das Unternehmen ist eine Sache im Sinne des § 90 und daher über das Eigentum geschützt.",
+        "Der Gewerbebetrieb ist gegen jeden auch nur mittelbaren Eingriff nach § 823 Abs. 1 geschützt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ein lückenloser Schutz fehlt; die Rechtsprechung hat das Recht am eingerichteten und ausgeübten Gewerbebetrieb entwickelt – nur gegen betriebsbezogene Eingriffe. § 14 erläutert nur den Unternehmer. Das Unternehmen ist eine Gesamtheit aus Sachen, Rechten und sonstigen Werten (S. 53–54).",
+      "hints": [
+        "Betriebsbezogenheit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 53
+        },
+        {
+          "doc": "BGB_8",
+          "page": 54
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Hund Snoopy und der Regenschirm (Skript-Beispiel S. 43)",
+    "facts": "Als S pfeifend am Haus des R vorbeigeht, springt dessen Hund Snoopy aus dem Haus und fällt S an. S verteidigt sich, indem sie mit ihrem Regenschirm auf den Hund einschlägt. Der Hund verendet. Andere Mittel, den Angriff abzuwehren, standen S in der Situation nicht zur Verfügung. R verlangt von S Schadensersatz für den Hund.",
+    "question": "Hat R gegen S einen Anspruch auf Schadensersatz aus § 823 Abs. 1 BGB?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "R könnte gegen S einen Anspruch auf Schadensersatz aus § 823 Abs. 1 BGB haben. Dann müsste S das Eigentum des R an dem Hund rechtswidrig und schuldhaft verletzt haben. Die Rechtswidrigkeit könnte nach § 228 BGB (Verteidigungsnotstand) ausgeschlossen sein.",
+        "rubric": [
+          "Konjunktiv",
+          "§ 823 Abs. 1 BGB",
+          "Eigentumsverletzung, Rechtswidrigkeit, Verschulden",
+          "§ 228 als möglicher Rechtfertigungsgrund"
+        ],
+        "hints": [
+          "Welches Rechtsgut des R ist betroffen?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Stellen Sie die maßgeblichen Begriffe und Voraussetzungen dar (Sacheigenschaft des Tieres, Abgrenzung zur Notwehr, Verteidigungsnotstand).",
+        "model": "Tiere sind nach § 90a S. 1 BGB keine Sachen; die für Sachen geltenden Vorschriften sind aber entsprechend anzuwenden, so dass am Tier Eigentum besteht, das durch § 823 Abs. 1 geschützt ist. Notwehr nach § 227 BGB setzt einen Angriff voraus, also eine menschliche Handlung, durch die eine Verletzung rechtlich geschützter Interessen droht. Geht die Gefahr von einer Sache aus, ist der Verteidigungsnotstand nach § 228 BGB der vorrangige Rechtfertigungsgrund: Wer eine fremde Sache beschädigt oder zerstört, um eine durch sie drohende Gefahr von sich oder einem anderen abzuwenden, handelt nicht widerrechtlich, wenn die Beschädigung oder Zerstörung zur Abwendung der Gefahr erforderlich ist und der Schaden nicht außer Verhältnis zu der Gefahr steht.",
+        "rubric": [
+          "§ 90a: entsprechende Anwendung der Sachvorschriften",
+          "Notwehr nur bei menschlichem Angriff",
+          "§ 228: Gefahr durch die Sache selbst",
+          "Erforderlichkeit",
+          "kein Missverhältnis zwischen Schaden und Gefahr"
+        ],
+        "hints": [
+          "Kann ein Hund „angreifen“ im Sinne des § 227?"
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Durch die tödlichen Schläge hat S den Hund des R zerstört und damit dessen Eigentum (§ 90a S. 3 BGB) verletzt; der Tatbestand des § 823 Abs. 1 BGB ist erfüllt. Notwehr scheidet aus, weil die Gefahr nicht von einem Menschen, sondern vom Hund ausging. Die Gefahr von Bissverletzungen für den Körper der S drohte gerade von dem Hund, also von der fremden „Sache“, die S beschädigte. Da S keine anderen Abwehrmittel zur Verfügung standen, war das Einschlagen mit dem Regenschirm zur Abwendung der Gefahr erforderlich. Der Schaden durch den Verlust des Hundes ist nicht unverhältnismäßig größer als der Schaden, der durch Bissverletzungen an Körper und Gesundheit der S gedroht hätte. Die Tötung des Hundes war daher nach § 228 BGB nicht widerrechtlich. Anhaltspunkte, dass S die Gefahr selbst verschuldet hätte, bestehen nicht – sie ist lediglich pfeifend vorbeigegangen; im Übrigen fehlt es auch an einem Verschulden der S.",
+        "rubric": [
+          "Eigentumsverletzung bejaht",
+          "Notwehr verneint (kein menschlicher Angriff)",
+          "Gefahr geht vom Hund aus",
+          "Erforderlichkeit",
+          "Verhältnismäßigkeit",
+          "kein Verschulden der S an der Gefahr"
+        ],
+        "hints": [
+          "Vergleichen Sie den Wert des Hundes mit der drohenden Körperverletzung."
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "S hat das Eigentum des R zwar verletzt, war aber durch Verteidigungsnotstand nach § 228 BGB gerechtfertigt und handelte zudem nicht schuldhaft. R hat gegen S keinen Anspruch auf Schadensersatz aus § 823 Abs. 1 BGB.",
+        "rubric": [
+          "Indikativ",
+          "Anspruch verneint",
+          "Begründung mit § 228"
+        ],
+        "hints": [
+          "Kurz und eindeutig."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_8",
+        "page": 43
+      },
+      {
+        "doc": "BGB_8",
+        "page": 46
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Objektives vs. subjektives Recht?",
+      "back": "Objektives Recht = allgemein verbindliche Rechtsregeln (z.B. § 823 Abs. 1). Subjektives Recht = die daraus dem Einzelnen verliehene, durchsetzbare Rechtsmacht (z.B. der Schadensersatzanspruch des B).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "front": "Arten subjektiver Rechte nach dem Inhalt?",
+      "back": "Persönlichkeitsrechte, persönliche Familienrechte, Herrschaftsrechte, Ansprüche, Gestaltungsrechte.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 33
+        },
+        {
+          "doc": "BGB_8",
+          "page": 34
+        },
+        {
+          "doc": "BGB_8",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "front": "Herrschaftsrecht – Beispiel und Inhalt?",
+      "back": "Rechtsmacht zur unmittelbaren Einwirkung auf ein Objekt, oft mit Ausschlussbefugnis. Stärkstes: Eigentum (§ 903; Schutz §§ 823 Abs. 1, 985, 1004; Grenzen durch Gesetz und Rechte Dritter, Art. 14 GG). Auch Immaterialgüterrechte.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 34
+        },
+        {
+          "doc": "BGB_8",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "front": "Absolut vs. relativ?",
+      "back": "Absolut: wirkt gegenüber jedermann (Eigentum, Persönlichkeitsrechte, Patente, Marken, Urheberrechte). Relativ: nur zwischen den Beteiligten eines Schuldverhältnisses (Anspruch).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Derivativer vs. originärer Erwerb; Universalsukzession?",
+      "back": "Derivativ: bestehendes Recht wird übertragen (§ 929 S. 1, § 398). Originär: Recht entsteht beim Erwerber (§ 950). Universalsukzession: Gesamtheit von Rechten geht über – nur wo gesetzlich vorgesehen, v.a. § 1922.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 38
+        },
+        {
+          "doc": "BGB_8",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "front": "Fälle unzulässiger Rechtsausübung?",
+      "back": "Verstoß gegen Schikaneverbot (§ 226 – nur bei ausschließlichem Schädigungszweck), gute Sitten (§§ 138, 817, 826) oder Treu und Glauben (§ 242; z.B. venire contra factum proprium, Verwirkung).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 39
+        },
+        {
+          "doc": "BGB_8",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "front": "Verwirkung – Voraussetzungen?",
+      "back": "Zeitmoment (längere Nichtgeltendmachung trotz Möglichkeit) + Umstandsmoment (berechtigtes Vertrauen des Verpflichteten und Sich-Einrichten); Wechselwirkung; tritt auch gegen den Willen des Berechtigten ein (§ 242).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 40
+        },
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "front": "Notwehr § 227 – Definition?",
+      "back": "Erforderliche Verteidigung, um einen gegenwärtigen rechtswidrigen Angriff (menschliche Handlung) von sich oder einem anderen abzuwenden; kein unerträgliches Missverhältnis. Für Zivilansprüche lex specialis zu § 32 StGB.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "front": "§ 228 vs. § 904?",
+      "back": "§ 228 (defensiv): Gefahr geht von der Sache aus, die beschädigt wird; Schaden nicht unverhältnismäßig. § 904 (aggressiv): Einwirkung auf unbeteiligte fremde Sache; drohender Schaden muss unverhältnismäßig groß sein; Ersatzpflicht gegenüber dem Eigentümer.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 43
+        },
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "front": "Selbsthilfe (§§ 229 ff.) und Besitzwehr (§ 859)?",
+      "back": "Selbsthilfe: fälliger einredefreier Anspruch, keine rechtzeitige obrigkeitliche Hilfe, Gefährdung der Verwirklichung; Wegnahme/Festnahme; mildestes Mittel (§ 230 Abs. 1). § 859: Besitzwehr/Besitzkehr gegen verbotene Eigenmacht, ohne Erfordernis fehlender obrigkeitlicher Hilfe.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "front": "Sachbegriff – Grenzfälle?",
+      "back": "§ 90: körperlich = räumlich ausgedehnt (auch Gase, Flüssigkeiten, Pflanzen). Keine Sachen: Elektrizität (h.M.; Sachvorschriften aber angewandt), Programm als solches, virtuelle Gegenstände. Tiere: keine Sachen, aber entsprechende Anwendung (§ 90a).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 45
+        },
+        {
+          "doc": "BGB_8",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "front": "Vertretbar (§ 91) / verbrauchbar (§ 92)?",
+      "back": "Vertretbar: bewegliche Sachen, im Verkehr nach Zahl, Maß oder Gewicht bestimmt (Geld, Obst, Wein). Verbrauchbar: bestimmungsgemäßer Gebrauch im Verbrauch oder in der Veräußerung (Lebensmittel, Brennstoffe, Geld). Nicht identisch mit Gattungs-/Stückschuld.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 46
+        },
+        {
+          "doc": "BGB_8",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "front": "Wesentliche Bestandteile – Leitentscheidungen?",
+      "back": "§ 93: Trennung zerstört/verändert das Wesen. Austauschmotor (BGHZ 18, 226): kein wesentlicher Bestandteil, Eigentumsvorbehalt möglich. Zentralheizung (BGHZ 53, 324): wesentlicher Bestandteil des Gebäudes (§ 94), Eigentum des Grundstückseigentümers (§ 946).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 48
+        },
+        {
+          "doc": "BGB_8",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "front": "Leichnam und Implantate – Sacheigenschaft?",
+      "back": "Lebender Körper und funktionsübernehmende Implantate: keine Sachen; Prothesen/Gebisse: Sachen; Herzschrittmacher: Grenzfall, nach Skript Sache. Leichnam: str., überwiegend Sache, aber keine beliebige Verfügung, solange er der Totenehrung dient; Organentnahme: TPG.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 50
+        },
+        {
+          "doc": "BGB_8",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "front": "Früchte nach § 99?",
+      "back": "Abs. 1: unmittelbare Sachfrüchte (Erzeugnisse, bestimmungsgemäße Ausbeute). Abs. 2: unmittelbare Rechtsfrüchte (z.B. Dividende). Abs. 3: mittelbare Sach-/Rechtsfrüchte vermöge eines Rechtsverhältnisses (Miete, Pacht, Lizenzgebühr). Nutzungen = Früchte + Gebrauchsvorteile (§ 100).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 51
+        },
+        {
+          "doc": "BGB_8",
+          "page": 52
+        }
+      ]
+    }
+  ]
+}
