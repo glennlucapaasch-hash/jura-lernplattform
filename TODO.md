@@ -20,6 +20,8 @@
   - KE 5, S. 59: ProstG-Aussage zum „Geliebtentestament“ steht in Spannung zur zitierten BGH-Rechtsprechung
   - KE 5, S. 45: zitierter Wortlaut von § 16 Abs. 2 UWG fehlt im Skript
   - KE 6, S. 48: fristlose Kündigung „nichtig wegen Verstoßes gegen § 573c“ (so das Skript)
+  - KE 5, S. 17: Volljährigkeit „05.01.2018“ statt 2028; § 1825 mit wechselnden Absatzangaben (S. 17/32)
+  - KE 5, S. 36: „§ 126 Satz 2“ statt § 126b S. 2; S. 69: § 108 Abs. 1/2 statt Abs. 3; S. 70 vs. S. 9: mittelbarer vs. unmittelbarer Besitz bei Übergabe
 - [ ] Gesetzestext BGB als eigenes Dokument hochladen (z. B. von gesetze-im-internet.de). Dann kann die Quellenprüfung auch Normen gegen den Gesetzestext abgleichen.
 
 ## Technik
