@@ -1,0 +1,80 @@
+{
+  "id": "exam-bgb-agb-1",
+  "moduleId": "55101",
+  "topicIds": [
+    "bgb-ke4-s7",
+    "bgb-ke4-s8",
+    "bgb-ke4-s9"
+  ],
+  "title": "Die Espressomaschine aus dem Online-Shop",
+  "difficulty": 2,
+  "durationMin": 60,
+  "facts": "Die Studentin K möchte sich für ihre Wohnung eine hochwertige Siebträger-Espressomaschine anschaffen. Im Online-Shop der P-GmbH, die gewerbsmäßig Haushaltsgeräte vertreibt, findet sie das Modell „Barista Pro“ für 600 €. Da sie unsicher ist, ob zusätzlich Versandkosten anfallen, ruft sie bei der Bestellhotline an. Der für den Vertrieb zuständige Geschäftsführer G der P-GmbH erklärt ihr am Telefon: „Wenn Sie heute bestellen, liefern wir Ihnen die Maschine versandkostenfrei.“\n\nNoch am selben Tag bestellt K über das Online-Formular. Auf der Bestellseite steht unmittelbar über der Schaltfläche „zahlungspflichtig bestellen“ deutlich hervorgehoben: „Es gelten unsere Allgemeinen Geschäftsbedingungen“; das Wort „Allgemeinen Geschäftsbedingungen“ ist mit den AGB verlinkt, die sich dort öffnen, speichern und ausdrucken lassen. K setzt das Häkchen in der Checkbox „Ich habe die AGB gelesen und bin mit ihrer Geltung einverstanden“, ohne die AGB zu lesen, und klickt auf die Schaltfläche. Wenige Minuten später erhält sie eine E-Mail: „Vielen Dank für Ihren Auftrag. Wir werden Ihre Bestellung umgehend bearbeiten.“\n\nDie AGB, die die P-GmbH für alle Bestellungen verwendet, umfassen 24 Paragraphen. Dort heißt es u.a.:\n\n§ 3 Abs. 2: „Für jede Lieferung berechnen wir eine Versandkostenpauschale von 19,90 €. Von diesen Bedingungen abweichende mündliche Vereinbarungen sind nur gültig, wenn sie von uns schriftlich bestätigt werden.“\n\n§ 21 (unter der Überschrift „Datenschutz und Sonstiges“): „Mit dem Kauf einer Espressomaschine verpflichtet sich der Käufer, für die Dauer von 24 Monaten monatlich 1 kg Kaffeebohnen zum Preis von 29 € abzunehmen.“\n\nDie Maschine wird geliefert. Mit der Rechnung verlangt die P-GmbH 619,90 €. Einen Monat später erhält K zudem ein Paket Kaffeebohnen nebst einer Rechnung über 29 €. K zahlt 600 € und weigert sich im Übrigen zu zahlen; sie habe mit G Versandkostenfreiheit vereinbart, und von einer Kaffeeabnahmepflicht sei nie die Rede gewesen. Die P-GmbH meint, K habe den AGB ausdrücklich zugestimmt; mündliche Absprachen seien nach § 3 Abs. 2 ohnehin unbeachtlich.",
+  "question": "Kann die P-GmbH von K Zahlung der Versandkostenpauschale von 19,90 € und der 29 € für die Kaffeebohnen verlangen? (Vertretungsfragen sind nicht zu prüfen; G war zur Vertretung der P-GmbH befugt.)",
+  "solution": "## A. Anspruch auf Zahlung der Versandkostenpauschale (19,90 €) aus § 433 Abs. 2 BGB i.V.m. § 3 Abs. 2 AGB\n\nDie P-GmbH könnte gegen K einen Anspruch auf Zahlung von 19,90 € aus dem Kaufvertrag (§ 433 Abs. 2 BGB) i.V.m. § 3 Abs. 2 ihrer AGB haben. Das setzt einen wirksamen Kaufvertrag voraus, dessen Inhalt die Versandkostenklausel geworden ist.\n\n### I. Kaufvertrag\n\n1. **Angebot.** Die Präsentation der Maschine im Online-Shop ist mangels erkennbaren Rechtsbindungswillens regelmäßig nur eine *invitatio ad offerendum*; der Verkäufer will nicht mehr Verträge schließen, als er erfüllen kann. Das Angebot liegt in der Bestellung der K über das Online-Formular. Als Erklärung unter Abwesenden wurde es mit Zugang bei der P-GmbH wirksam (§ 130 Abs. 1 S. 1 BGB).\n\n2. **Annahme.** Eine bloße Zugangsbestätigung i.S.d. § 312i Abs. 1 S. 1 Nr. 3 BGB ist noch keine Annahme. Die E-Mail „Vielen Dank für Ihren Auftrag. Wir werden Ihre Bestellung umgehend bearbeiten“ bringt aus Sicht eines objektiven Empfängers (§§ 133, 157 BGB) aber einen Annahmewillen zum Ausdruck. Jedenfalls in der Lieferung läge eine Annahme.\n\n3. **Button-Lösung.** Die Schaltfläche war mit „zahlungspflichtig bestellen“ beschriftet (§ 312j Abs. 3 BGB); § 312j Abs. 4 BGB steht dem Vertragsschluss nicht entgegen.\n\nEin Kaufvertrag über die Maschine zum Preis von 600 € ist zustande gekommen.\n\n### II. Versandkostenklausel als Vertragsinhalt\n\n1. **Anwendbarkeit der §§ 305 ff. BGB.** Eine Bereichsausnahme nach § 310 Abs. 4 BGB liegt nicht vor. K ist Verbraucherin (§ 13 BGB), die P-GmbH Unternehmerin (§ 14 BGB); § 310 Abs. 1 BGB greift nicht, es handelt sich um einen Verbrauchervertrag (§ 310 Abs. 3 BGB).\n\n2. **Vorliegen von AGB.** Die Bedingungen sind vorformuliert, für alle Bestellungen und damit für eine Vielzahl von Verträgen bestimmt und von der P-GmbH einseitig gestellt (§ 305 Abs. 1 S. 1 BGB); bei Verbraucherverträgen gelten sie ohnehin als vom Unternehmer gestellt (§ 310 Abs. 3 Nr. 1 BGB).\n\n3. **Einbeziehung (§ 305 Abs. 2 BGB).** Der deutlich hervorgehobene Hinweis mit Link auf der Bestellseite ist ein ausdrücklicher Hinweis (Nr. 1). Da die AGB per Link abrufbar, speicherbar und ausdruckbar waren, bestand die zumutbare Möglichkeit der Kenntnisnahme (Nr. 2; vgl. auch § 312i Abs. 1 S. 1 Nr. 4 BGB). Mit dem Setzen des Häkchens hat K ihr Einverständnis erklärt. Dass sie die AGB nicht gelesen hat, ist unerheblich. Die AGB sind grundsätzlich einbezogen.\n\n4. **Vorrang der Individualabrede (§ 305b BGB).** Die Zusage des G am Telefon, die Maschine bei Bestellung am selben Tag versandkostenfrei zu liefern, wurde für diesen einzelnen Vertrag getroffen; sie ist keine vorformulierte Bedingung, sondern eine Individualabrede. K hat noch am selben Tag bestellt; ihre Bestellung ist vor dem Hintergrund des Telefonats so auszulegen (§§ 133, 157 BGB), dass sie zu den zugesagten Bedingungen erfolgte. Individualabreden haben nach § 305b BGB Vorrang vor widersprechenden AGB; § 3 Abs. 2 S. 1 AGB bleibt insoweit ohne Wirkung.\n\n5. **Schriftformklausel (§ 3 Abs. 2 S. 2 AGB).** Die P-GmbH beruft sich darauf, mündliche Abweichungen gälten nur bei schriftlicher Bestätigung.\n   a) Der Vorrang der Individualabrede kann durch Schriftformklauseln nicht ausgeschaltet werden – nicht einmal durch eine doppelte Schriftformklausel.\n   b) Zudem ist die Klausel am Maßstab des § 307 Abs. 1 S. 1 BGB zu messen. Sie beansprucht Geltung, ohne auf die anerkannten Ausnahmefälle einzugehen, verschleiert dem rechtsunkundigen Kunden, dass mündliche Zusagen gleichwohl wirksam sein können, und spiegelt ihm der Wahrheit zuwider ein geschlossenes System vor. Das ist eine unangemessene Benachteiligung entgegen Treu und Glauben; die Klausel ist unwirksam (vgl. den Zaun-Fall nach OLG Frankfurt, BGH NZM 2018, 279). Nach § 306 Abs. 1 BGB bleibt der Vertrag im Übrigen wirksam.\n\n### III. Ergebnis zu A\n\nDie Versandkostenpauschale ist wegen der vorrangigen Individualabrede nicht geschuldet. Die P-GmbH hat keinen Anspruch auf Zahlung von 19,90 €.\n\n## B. Anspruch auf Zahlung von 29 € für die Kaffeebohnen aus § 433 Abs. 2 BGB i.V.m. § 21 AGB\n\nDie P-GmbH könnte gegen K einen Anspruch auf Zahlung von 29 € aus § 433 Abs. 2 BGB i.V.m. § 21 AGB haben. Ein gesonderter Kaufvertrag über Kaffee wurde nicht geschlossen; der Anspruch kann sich nur aus § 21 AGB als Bestandteil des Kaufvertrags über die Maschine ergeben.\n\n### I. Vorliegen und Einbeziehung\n\n§ 21 ist Teil der AGB der P-GmbH, die nach § 305 Abs. 2 BGB grundsätzlich wirksam einbezogen wurden (s.o. A. II. 3.).\n\n### II. Keine überraschende Klausel (§ 305c Abs. 1 BGB)\n\nNach § 305c Abs. 1 BGB werden Bestimmungen nicht Vertragsbestandteil, die nach den Umständen, insbesondere nach dem äußeren Erscheinungsbild des Vertrags, so ungewöhnlich sind, dass der Vertragspartner mit ihnen nicht zu rechnen braucht. Das ist der Fall, wenn ihnen ein Überrumpelungs- oder Übertölpelungseffekt innewohnt und zwischen ihrem Inhalt und den Erwartungen des Kunden eine deutliche Diskrepanz besteht; auch die Unterbringung an unerwarteter Stelle kann eine Klausel überraschend machen.\n\nK wollte eine Espressomaschine kaufen; Angebot und Werbung im Shop bezogen sich allein darauf. Mit einer zweijährigen, kostenpflichtigen Abnahmepflicht für Kaffeebohnen (insgesamt 696 €, also mehr als der Preis der Maschine) musste sie nach dem Erscheinungsbild des Vertrags nicht rechnen. Hinzu kommt, dass die Klausel unter der Überschrift „Datenschutz und Sonstiges“ in § 21 eines umfangreichen Klauselwerks versteckt ist, also an einer Stelle, an der niemand eine zusätzliche Hauptleistungspflicht erwartet. Es besteht eine deutliche Diskrepanz zwischen Inhalt und Kundenerwartung; der Klausel wohnt ein Überrumpelungseffekt inne (vgl. das Kaffeemaschinen-Beispiel des Skripts). Dass K pauschal per Checkbox zugestimmt hat, ändert daran nichts, weil § 305c Abs. 1 BGB gerade an einbezogenen AGB ansetzt.\n\n§ 21 ist daher nicht Vertragsbestandteil geworden. Auf eine Inhaltskontrolle nach §§ 307 ff. BGB kommt es nicht mehr an.\n\n### III. Rechtsfolge\n\nNach § 306 Abs. 1 BGB bleibt der Kaufvertrag über die Maschine im Übrigen wirksam; an die Stelle der nicht einbezogenen Klausel tritt das Gesetz (§ 306 Abs. 2 BGB), das keine Abnahmepflicht für Kaffee kennt.\n\n### IV. Ergebnis zu B\n\nDie P-GmbH hat keinen Anspruch auf Zahlung von 29 €.\n\n## C. Gesamtergebnis\n\nK schuldet nur den Kaufpreis von 600 €, den sie bereits gezahlt hat. Ansprüche auf die Versandkostenpauschale und auf Bezahlung der Kaffeebohnen bestehen nicht. (Ob die P-GmbH die unbestellt gelieferten Bohnen zurückverlangen kann, ist nicht gefragt.)",
+  "rubric": [
+    "Vertragsschluss im Internet: Warenpräsentation als invitatio ad offerendum, Bestellung als Angebot, Bestätigungs-E-Mail mit Annahmewillen als Annahme (Abgrenzung zur bloßen Zugangsbestätigung nach § 312i Abs. 1 S. 1 Nr. 3)",
+    "Button-Lösung § 312j Abs. 3 erkannt und als erfüllt angesehen",
+    "Anwendbarkeit der §§ 305 ff.: Verbrauchervertrag, keine Ausnahme nach § 310 Abs. 1, 4; AGB-Begriff § 305 Abs. 1 (ggf. § 310 Abs. 3 Nr. 1)",
+    "Einbeziehung nach § 305 Abs. 2: Link-Hinweis, Abruf-/Speichermöglichkeit, Einverständnis per Checkbox; Nichtlesen unerheblich",
+    "Telefonische Zusage als Individualabrede mit Vorrang nach § 305b; Versandkostenklausel insoweit ohne Wirkung",
+    "Schriftformklausel: kann § 305b nicht verdrängen; zudem unwirksam nach § 307 Abs. 1 S. 1 (Verschleierung, geschlossenes System)",
+    "Kaffeeabnahmeklausel als überraschende Klausel nach § 305c Abs. 1 (Erscheinungsbild, Überrumpelungseffekt, Platzierung unter „Datenschutz und Sonstiges“)",
+    "Rechtsfolge § 306 Abs. 1, 2: Kaufvertrag im Übrigen wirksam",
+    "Ergebnis: keine Ansprüche auf 19,90 € und 29 €; saubere Anspruchsprüfung im Gutachtenstil"
+  ],
+  "src": [
+    {
+      "doc": "BGB_4",
+      "page": 9
+    },
+    {
+      "doc": "BGB_4",
+      "page": 10
+    },
+    {
+      "doc": "BGB_4",
+      "page": 11
+    },
+    {
+      "doc": "BGB_4",
+      "page": 13
+    },
+    {
+      "doc": "BGB_4",
+      "page": 14
+    },
+    {
+      "doc": "BGB_4",
+      "page": 15
+    },
+    {
+      "doc": "BGB_4",
+      "page": 19
+    },
+    {
+      "doc": "BGB_4",
+      "page": 21
+    },
+    {
+      "doc": "BGB_4",
+      "page": 22
+    },
+    {
+      "doc": "BGB_4",
+      "page": 24
+    },
+    {
+      "doc": "BGB_4",
+      "page": 29
+    },
+    {
+      "doc": "BGB_4",
+      "page": 37
+    },
+    {
+      "doc": "BGB_4",
+      "page": 39
+    }
+  ]
+}
