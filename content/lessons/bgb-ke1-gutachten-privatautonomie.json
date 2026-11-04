@@ -1,0 +1,355 @@
+{
+  "id": "bgb-ke1-gutachten-privatautonomie",
+  "moduleId": "55101",
+  "ke": 1,
+  "topicIds": ["bgb-ke1-vorbemerkung", "bgb-ke1-s1"],
+  "title": "Juristisches Gutachten und Grundsatz der Privatautonomie",
+  "estMinutes": 75,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Vorüberlegungen: Fallfrage, Anspruchsgrundlage, „Wer will was von wem woraus?“",
+      "short": "Vor der Niederschrift klärt man die Fallfrage (welche Ansprüche sind zu prüfen?) und sucht die passenden Anspruchsgrundlagen. Ein Anspruch ist nach § 194 Abs. 1 BGB das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen. Die „W-Frage“ (Wer will was von wem woraus?) strukturiert die Vorüberlegungen, gehört aber nicht ins ausformulierte Gutachten.",
+      "long": "**Die Fallfrage** steht am Ende des Sachverhalts und gibt die Richtung der Bearbeitung vor.\n\n- *Beispiel (A), S. 18:* „Kann Spotz Bezahlung des von ihm gelieferten Kastens Bier von Ganter verlangen?“ – Zu prüfen ist nur der Zahlungsanspruch (ggf. aus mehreren Anspruchsgrundlagen), **nicht** etwa ein Anspruch auf Herausgabe des Bierkastens.\n- *Beispiel (B), S. 18 f.:* „Wie ist die Rechtslage?“ – Alle sinnvollerweise in Betracht kommenden Ansprüche aller Beteiligten gegeneinander sind zu prüfen.\n\n**Die Anspruchsgrundlage** ist die Norm, aus der sich das konkret verlangte Tun oder Unterlassen abstrakt ergibt. Nach **§ 194 Abs. 1 BGB** ist ein Anspruch das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen; Ansprüche sind „relative subjektive Rechte“ (S. 19).\n\n- *Beispiel (C), S. 19:* Stadelmann bestellt beim Wirt Lipper eine Flasche und trinkt sie aus. Gefragt nach dem Anspruch des Lipper, kommt nur ein Kaufpreisanspruch aus **§ 433 Abs. 2 BGB** in Betracht.\n- *Beispiel (D), S. 20:* weitere Anspruchsgrundlagen sind § 179 Abs. 1, §§ 823 Abs. 1, 823 Abs. 2, 824, 826 und § 985 BGB.\n\n**Keine Anspruchsgrundlagen** sind Normen, die lediglich eine Aussage treffen. *Beispiel (E), S. 20:* **§ 145 BGB** regelt nur, wann ein Angebot bindend ist; er kann zur Bestimmung des Merkmals „Kaufvertrag“ in § 433 BGB herangezogen werden, ist selbst aber keine Anspruchsgrundlage.\n\n**Die „W-Frage“** (S. 20): *Wer* (Anspruchsteller) will *was* (Anspruchsinhalt) von *wem* (Anspruchsgegner) *woraus* (Anspruchsgrundlage)? Sie wird durchdacht, um einen sauberen Obersatz zu formulieren, gehört aber **auf keinen Fall** ins Gutachten.\n\nSchwerpunkte des Falles sollten schon in der stichwortartigen Gliederung markiert werden. *Beispiel (F), S. 20:* Lipper reicht dem Stammgast Stadelmann – wie immer – ein Aperol Spritz; ob ein Kaufvertrag vorliegt, ist wegen fehlender ausdrücklicher Erklärungen problematisch (§§ 145 ff. BGB).\n\nIn seltenen Fällen zielt die Fallfrage nicht auf einen Anspruch (z.B. Vertragsschluss, Eigentum, Erbenstellung). Eigentumsfragen werden in der Regel in **historischer Reihenfolge** geprüft (*Beispiel (G), S. 21*: „Ursprünglich war F Eigentümerin des Fahrrades. Fraglich ist, ob sie ihr Eigentum verloren hat …“).",
+      "src": [{"doc": "BGB_1", "page": 18}, {"doc": "BGB_1", "page": 19}, {"doc": "BGB_1", "page": 20}, {"doc": "BGB_1", "page": 21}]
+    },
+    {
+      "id": "s2",
+      "title": "Das Gutachten: vier Stufen, Gutachtenstil und Urteilsstil",
+      "short": "Pro Anspruchsgrundlage: (1) Obersatz im Konjunktiv, (2) Voraussetzungen, (3) für jedes problematische Tatbestandsmerkmal Definition und Subsumtion, (4) Ergebnis. Der Gutachtenstil geht von einer Hypothese aus und endet mit dem Ergebnis; der Urteilsstil stellt das Ergebnis voran und begründet es („denn“, „da“, „weil“).",
+      "long": "**Gutachtenstil vs. Urteilsstil** (S. 18): Der Gutachtenstil geht von einer *Hypothese* aus („Es könnte ein Anspruch bestehen“) und gelangt stufenweise zum Ergebnis („Der Anspruch besteht/besteht nicht“). In Einsendearbeiten und Klausuren wird stets eine Lösung im Gutachtenstil erwartet. Beim **Urteilsstil** des Richters wird die Rechtsfolge vorangestellt und danach begründet (kennzeichnende Wörter: „denn“, „da“, „weil“).\n\n**Die vier Stufen** (S. 21–24), jeweils bezogen auf eine Anspruchsgrundlage:\n\n1. **Obersatz** mit Anspruchsgrundlage und Rechtsfolge – als Hauptsatz im Konjunktiv, nicht als direkte Frage. *Beispiel (F):* „Lipper könnte gegen Stadelmann einen Anspruch auf Zahlung des Kaufpreises von € 3,10 aus Kaufvertrag gemäß § 433 Abs. 2 BGB haben.“\n2. **Voraussetzungen** der Anspruchsgrundlage: „Voraussetzung hierfür ist, dass zwischen beiden Parteien ein Kaufvertrag zustande gekommen ist.“\n3. **Subsumtion** = Prüfung der Tatbestandsmerkmale einer Vorschrift hinsichtlich ihrer Anwendbarkeit auf den konkreten Sachverhalt. Offensichtliches wird knapp festgestellt (*Beispiel (G), S. 22:* ein E-Scooter ist ohne weiteres eine Sache). Bei nicht ohne weiteres bestimmbaren Begriffen: (aa) **abstrakte Definition**, (bb) **Subsumtion** des Sachverhalts. Aus einer Definition können neue erklärungsbedürftige Begriffe folgen („Kaufvertrag kommt zustande durch Angebot und Annahme“ → Definition „Angebot“ und „Annahme“). Die logische Reihenfolge ergibt sich aus dem Einzelfall: das Angebot ist vor der Annahme zu prüfen (*Beispiel (I), S. 22*).\n4. **Ergebnis**: Zusammenfassung der Subsumtionen und Rechtsfolge. *Beispiel (F), S. 23:* „Zwischen Lipper und Stadelmann ist ein Kaufvertrag zustande gekommen. Daher hat Lipper gegen Stadelmann einen Anspruch auf den Kaufpreis von € 3,10 … aus Kaufvertrag, § 433 Abs. 2 BGB.“\n\nIm Aperol-Fall hat Stadelmann **konkludent** ein Angebot abgegeben, indem er sich wortlos an die Theke stellte; nach der Verkehrsanschauung (§§ 133, 157 BGB) musste Lipper annehmen, er wolle wie immer ein großes Aperol Spritz. Lipper nahm konkludent an, indem er das Getränk auf die Theke setzte (S. 23).\n\n**Die Aufgabe Blum/Korf** (S. 24–27): Blum bietet Korf einen PKW Typ Florida für 6.500 € an; Korf ist „einverstanden“, verlangt aber Extras. Blum lehnt ab. Lösung: Blum hat ein bindendes Angebot abgegeben; Korfs Erklärung ist keine Annahme, sondern gilt nach **§ 150 Abs. 2 BGB** als Ablehnung verbunden mit einem neuen Angebot, das Blum abgelehnt hat. Kein Kaufvertrag, kein Anspruch aus § 433 Abs. 2 BGB.",
+      "src": [{"doc": "BGB_1", "page": 18}, {"doc": "BGB_1", "page": 21}, {"doc": "BGB_1", "page": 22}, {"doc": "BGB_1", "page": 23}, {"doc": "BGB_1", "page": 24}, {"doc": "BGB_1", "page": 25}, {"doc": "BGB_1", "page": 26}, {"doc": "BGB_1", "page": 27}]
+    },
+    {
+      "id": "s3",
+      "title": "Bürgerliches Recht, die fünf Bücher des BGB und die Ausklammerungsmethode",
+      "short": "Das bürgerliche Recht ist der im BGB zusammengefasste, für alle Bürger geltende Ausschnitt des Privatrechts. Das BGB hat fünf Bücher: Allgemeiner Teil, Schuldrecht, Sachenrecht, Familienrecht, Erbrecht. Die Regeln des Allgemeinen Teils sind „vor die Klammer gezogen“ und gelten für alle folgenden Bücher, können aber durch Spezialregeln verdrängt werden.",
+      "long": "**Begriff** (S. 28): Das Privatrecht regelt – im Gegensatz zum Öffentlichen Recht mit seinem Über-/Unterordnungsverhältnis – die Beziehungen rechtlich gleichgestellter Personen. Das **bürgerliche Recht** ist der Ausschnitt des Privatrechts, dessen Rechtssätze im BGB zusammengefasst sind und für alle Bürger gelten. Andere Gebiete des Privatrechts (z.B. HGB) schließen an diese Grundregeln an; so gelten die Vorschriften über den Vertragsschluss (§§ 145–157 BGB) auch bei Handelsgeschäften (§ 343 Abs. 1 HGB) und Arbeitsverträgen.\n\n**Die fünf Bücher** (S. 29 f.):\n\n1. **Allgemeiner Teil** (§§ 1–240): Personen, Rechtsgeschäfts- und Vertragslehre, Nichtigkeit/Vernichtbarkeit, Verjährung.\n2. **Recht der Schuldverhältnisse**: Allgemeiner Teil (§§ 241–432) und Besonderer Teil (§§ 433–853) mit den Vertragstypen, unerlaubten Handlungen und ungerechtfertigter Bereicherung; Relativität des Schuldrechts.\n3. **Sachenrecht**: bewegliche/unbewegliche Sachen (§ 94), Eigentum (§ 903) als umfassendstes Sachenrecht; Sachenrechte wirken absolut. Der Besitz (§§ 854 ff.) ist nach ganz h.M. kein subjektives Recht, sondern ein tatsächliches Verhältnis.\n4. **Familienrecht**: Privatrecht, aber wegen Art. 6 GG mit öffentlich-rechtlichen Regelungen durchsetzt.\n5. **Erbrecht**: Testierfreiheit (Art. 14 Abs. 1 S. 1 GG, § 1937 BGB), ersatzweise gesetzliche Erbfolge (§§ 1924 ff.).\n\n**Ausklammerungsmethode** (S. 33 f.): Fragen, die in vielen Rechtsgebieten auftauchen – etwa die Verjährung von Ansprüchen aus § 433, § 823 Abs. 1 oder § 985 –, regelt der Gesetzgeber einmal im Allgemeinen Teil (§§ 194–218). Wie beim Distributivgesetz (a·b + a·c = a·(b + c)) ist „a“ der Allgemeine Teil. **Preis** dieser Technik: sehr abstrakte Vorschriften; erst die Zusammenschau mit AT und Allgemeinem Schuldrecht ergibt ein vollständiges Bild etwa des Kaufvertrags. Zudem kann eine Sonderregel die allgemeine Vorschrift verdrängen (**lex specialis derogat legi generali**). *Beispiel (S. 34):* § 548 BGB ordnet für Ersatzansprüche des Vermieters wegen Verschlechterung der Mietsache eine Verjährung von 6 Monaten an und modifiziert insoweit die §§ 194 ff. BGB.\n\nDer AT enthält damit „Schlüsselregeln“, z.B. zur Minderjährigkeit (§§ 104 ff.), Stellvertretung (§§ 164 ff.), Irrtum und Täuschung (§§ 119 ff.) und Form (§§ 125 ff.) (S. 34 f.).",
+      "src": [{"doc": "BGB_1", "page": 28}, {"doc": "BGB_1", "page": 29}, {"doc": "BGB_1", "page": 30}, {"doc": "BGB_1", "page": 33}, {"doc": "BGB_1", "page": 34}, {"doc": "BGB_1", "page": 35}]
+    },
+    {
+      "id": "s4",
+      "title": "Privatautonomie und Vertragsfreiheit",
+      "short": "Privatautonomie ist die Freiheit des Einzelnen, seine Rechtsverhältnisse weitgehend nach seinem Willen zu gestalten; sie ist als Teil der allgemeinen Handlungsfreiheit (Art. 2 Abs. 1 GG) garantiert. Ihr Mittel ist das Rechtsgeschäft. Die Vertragsfreiheit umfasst Abschluss-, inhaltliche Gestaltungs- und Formfreiheit.",
+      "long": "**Privatautonomie und Rechtsgeschäft** (S. 35 f.): Die Privatautonomie ist die Freiheit des Einzelnen, seine Rechtsverhältnisse weitgehend nach seinem Willen zu gestalten; sie wird als Teil der allgemeinen Handlungsfreiheit (**Art. 2 Abs. 1 GG**) garantiert. Das BGB stellt mit dem **Rechtsgeschäft** das Mittel zu ihrer Verwirklichung zur Verfügung. Angestrebte Rechtsfolgen sind z.B. der Abschluss oder die Änderung eines schuldrechtlichen Vertrages oder die Änderung der Eigentumsverhältnisse. Einseitige Rechtsgeschäfte (z.B. Testament, § 2247 BGB) kann eine Person allein vornehmen; der **Vertrag** ist ein mehrseitiges Rechtsgeschäft.\n\n*Beispiel (S. 36):* Nach Abschluss eines Kaufvertrages ist für den Kaufpreisanspruch (§ 433 Abs. 2) der Verkäufer Gläubiger und der Käufer Schuldner; beim Anspruch auf Übergabe und Übereignung (§ 433 Abs. 1 S. 1) kehren sich die Rollen um.\n\n**Vertragsfreiheit** (S. 36–38) als wichtigste Erscheinungsform der Privatautonomie:\n\n- **Abschlussfreiheit**: Freiheit zu entscheiden, *ob, mit wem und worüber* man Verträge schließt (Grundlage laut Übersicht: Prämisse des Gesetzgebers; Art. 2 I GG). *Beispiel (I):* Der Buchhändler muss seine ausgestellten Bücher nicht verkaufen. *Beispiel (II):* E muss sein Grundstück nicht an K verkaufen, auch wenn seine Ablehnung (Sektenzugehörigkeit des K) objektiv nicht überzeugt. Mit ihr verbunden ist das Recht, sich unter bestimmten Voraussetzungen vom Vertrag zu lösen (Aufhebungsvertrag; Widerruf, Rücktritt, Kündigung).\n- **Inhaltliche Gestaltungsfreiheit** (Grundlage: §§ 241, 311 BGB): Niemand ist an die gesetzlichen Vertragstypen gebunden; es können atypische oder typengemischte Verträge entstehen, z.B. der **Leasingvertrag** mit Elementen aus Kauf und Miete. Abweichungen erfolgen oft über AGB.\n- **Formfreiheit** (Grundlage: Umkehrschluss aus § 125 BGB): Verträge können z.B. mündlich geschlossen werden; die Parteien können aber Schriftform oder notarielle Beurkundung vereinbaren (vgl. § 125 S. 2). **Formzwang** ist die Ausnahme und muss gesetzlich vorgeschrieben sein (z.B. § 311b Abs. 1 S. 1 BGB: Beweissicherung, Belehrung durch den Notar, Schutz vor Übereilung).",
+      "src": [{"doc": "BGB_1", "page": 35}, {"doc": "BGB_1", "page": 36}, {"doc": "BGB_1", "page": 37}, {"doc": "BGB_1", "page": 38}]
+    },
+    {
+      "id": "s5",
+      "title": "Grenzen der inhaltlichen Gestaltungsfreiheit",
+      "short": "Uneingeschränkte Privatautonomie führt nur bei annähernd ausgewogenem Kräfteverhältnis zu angemessenem Interessenausgleich. Deshalb begrenzen zwingendes Recht, Generalklauseln (§§ 134, 138, 242 BGB), das AGB-Recht (§§ 305 ff.) und der Verbraucherschutz (§§ 13, 14, 312 ff., 355, 474 ff. BGB) die Gestaltungsfreiheit.",
+      "long": "**Ausgangspunkt** (S. 38 f.): Die Schöpfer des BGB gingen von formal gleichen Teilnehmern aus. Heute diktiert oft ein Vertragsteil über AGB den Inhalt; die „Basaridylle“ gibt es allenfalls noch auf dem Flohmarkt. Da sich beide Seiten auf Art. 2 Abs. 1 GG berufen können, muss die Rechtsordnung bei nachhaltig gestörtem Kräftegleichgewicht den Schwächeren schützen. Äußerste Grenze ist § 134 BGB (Nichtigkeit bei Verstoß gegen ein gesetzliches Verbot).\n\n**(1) Zwingendes und dispositives Recht** (S. 39 f.): *Dispositiv* (nachgiebig) sind Normen, die die Beteiligten verändern oder ergänzen können – vor allem viele Normen des Schuldrechts (z.B. Gewährleistung §§ 434 ff.; beim Gebrauchtkauf kann sie teilweise ausgeschlossen werden, beim Neukauf ist ein völliger Ausschluss in Formularverträgen nach § 309 Nr. 8 b BGB unwirksam). *Zwingend* sind Vorschriften, die immer angewandt werden, z.B. die Regeln über die Geschäftsfähigkeit (§§ 104 ff.) und die meisten Vorschriften des Sachen-, Familien- und Erbrechts. *Beispiel (S. 40):* Wie eine bewegliche Kaufsache übereignet wird, richtet sich zwingend nach §§ 929 ff. BGB.\n\n**(2) Generalklauseln** (S. 40): § 242 und vor allem **§ 138 Abs. 1 BGB** (Nichtigkeit sittenwidriger Rechtsgeschäfte) sowie § 134 BGB. Sie sind Einfallstor für die Grundrechte (**mittelbare Drittwirkung**).\n\n**(3) AGB** (S. 40 f.): Nach § 307 BGB sind Bestimmungen unwirksam, die den Vertragspartner entgegen Treu und Glauben unangemessen benachteiligen; §§ 308, 309 enthalten Klauselverbote.\n\n**(4) Verbraucherschutz** (S. 41–43): *Verbraucher* (§ 13) ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die *überwiegend* weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können (Bedeutung für Dual-use-Verträge). *Unternehmer* (§ 14) handelt in Ausübung seiner gewerblichen oder selbständigen beruflichen Tätigkeit.\n\n- *Beispiel (1), S. 42:* Steuerberater S kauft Büromöbel für die Kanzlei – normaler Kaufvertrag zwischen Unternehmern.\n- *Beispiel (2):* Rentner R kauft Schlafzimmermöbel bei der M-GmbH – Verbrauchsgüterkauf (§ 474 BGB).\n- *Beispiel (3):* S kauft Schlafzimmermöbel für sein Eigenheim – S ist Verbraucher, Verbrauchsgüterkauf.\n\nVerbraucherverträge kennzeichnet typischerweise ein **Widerrufsrecht** (§ 355 BGB): eindeutige Erklärung erforderlich (bloße Rücksendung genügt grds. nicht mehr), Frist 14 Tage, bei fehlender Belehrung regelmäßig Höchstfrist von zwölf Monaten und 14 Tagen. Nach Widerruf sind die Parteien nicht mehr gebunden, der zunächst wirksame Vertrag wird rückabgewickelt (§§ 355 Abs. 3, 357 ff.). Beim **Verbrauchsgüterkauf** gelten §§ 474 ff.; § 476 Abs. 2 BGB verbietet z.B. bei neuen Sachen eine Unterschreitung der zweijährigen Verjährung auch durch Individualvereinbarung (S. 43).",
+      "src": [{"doc": "BGB_1", "page": 38}, {"doc": "BGB_1", "page": 39}, {"doc": "BGB_1", "page": 40}, {"doc": "BGB_1", "page": 41}, {"doc": "BGB_1", "page": 42}, {"doc": "BGB_1", "page": 43}]
+    },
+    {
+      "id": "s6",
+      "title": "Kontrahierungszwang und Prüfungsschema „Anspruch aus Vertrag“",
+      "short": "Ausnahmsweise besteht eine Abschlusspflicht (Kontrahierungszwang): gesetzlich in der Daseinsvorsorge (EnWG, PersBefG, PflVersG), kartellrechtlich (§§ 19, 20 Abs. 2 GWB), allgemein zivilrechtlich über § 826 i.V.m. § 249 Abs. 1 BGB sowie nach § 21 Abs. 1 AGG. Kontrahierungszwang bedeutet auch Inhaltszwang. Das Prüfungsschema fragt: Anspruch entstanden – erloschen – durchsetzbar.",
+      "long": "**Kontrahierungszwang** (S. 43) ist die Pflicht, auch gegen den eigenen Willen eine auf Vertragsschluss gerichtete Willenserklärung abzugeben.\n\n1. **Daseinsvorsorge** (S. 43): z.B. Gas/Strom (§ 36 Abs. 1 S. 1 EnWG), Personenbeförderung (§ 22 PersBefG), Kfz-Haftpflichtversicherung (§ 5 Abs. 2 PflVersG).\n2. **Gleichbehandlung/Kartellrecht** (S. 44): Für marktbeherrschende Unternehmen sowie Wirtschafts- und Berufsvereinigungen kann aus §§ 19, 20 Abs. 2 GWB eine Abschluss-, z.B. Belieferungspflicht folgen.\n3. **Allgemeiner zivilrechtlicher Kontrahierungszwang** (S. 44): Unternehmen, die Güter oder Leistungen zur Deckung des Lebensbedarfs öffentlich anbieten, die sich der Kunde nicht anderweitig verschaffen kann, dürfen den Vertragsschluss nur aus sachlich berechtigten Gründen verweigern; andernfalls sieht die h.M. eine sittenwidrige Schädigung i.S.d. **§ 826 BGB**, woraus über die Naturalrestitution (**§ 249 I BGB**) ein Abschlusszwang folgt. *Beispiel (Inselmuseum):* Museumsleiter L verweigert seinem Nachbarn A wegen eines Nachbarschaftsstreits den Zutritt; A kann nicht zumutbar aufs Festland ausweichen – L muss eine auf Vertragsschluss gerichtete Willenserklärung abgeben.\n4. **AGG** (S. 45 f.): Bei Verstoß gegen das Benachteiligungsverbot des § 19 AGG gibt § 21 Abs. 1 AGG Ansprüche auf Beseitigung und Unterlassung; nach h.M. ist der Beseitigungsanspruch bei Nichtabschluss auf den Vertragsschluss gerichtet. Voraussetzungen: gegenwärtiger benachteiligender Zustand durch Verstoß gegen § 19 I, II AGG, Kausalität, Bestimmtheit (essentialia negotii), keine Unmöglichkeit (§ 275 BGB). Bei Verschulden Schadensersatz (§ 21 Abs. 2 AGG, Verschulden wird vermutet); § 823 Abs. 1 bzw. Abs. 2 BGB bleibt unberührt (§ 21 Abs. 3 AGG). *Beispiel (S. 46):* Beim „Nachmittag der über 60-jährigen verwitweten Damen“ liegt in der Abweisung der 50-jährigen D und des E keine unzulässige Diskriminierung, weil Alter und Lebenssituation für die Veranstaltung wesentlich sind; anders bei Abweisung einer 62-jährigen Witwe wegen ihrer ethnischen Herkunft (§ 19 Abs. 2 AGG).\n\n**Kontrahierungszwang bedeutet auch Inhaltszwang** (S. 46): Der Vertrag muss zu angemessenen Bedingungen geschlossen werden, sonst setzte sich die Diskriminierung im Inhalt fort (z.B. doppelte Preise für den ungeliebten Nachbarn).\n\n**Freiheit, sich vom Vertrag zu lösen** (S. 47): eingeschränkt etwa durch § 573 Abs. 4 BGB zum Schutz der Wohnraummieter.\n\n**Prüfungsschema** (S. 48 f.): A. Anspruch entstanden (Einigung durch Antrag und Annahme; keine Wirksamkeitshindernisse wie §§ 125, 134, 138) – B. Anspruch erloschen (z.B. Erfüllung § 362, Rücktritt, Widerruf) – C. Anspruch durchsetzbar (z.B. Verjährung § 214 I, § 320) – D. Ergebnis. Die Übersicht erhebt keinen Anspruch auf Vollständigkeit.",
+      "src": [{"doc": "BGB_1", "page": 43}, {"doc": "BGB_1", "page": 44}, {"doc": "BGB_1", "page": 45}, {"doc": "BGB_1", "page": 46}, {"doc": "BGB_1", "page": 47}, {"doc": "BGB_1", "page": 48}, {"doc": "BGB_1", "page": 49}]
+    }
+  ],
+  "definitions": [
+    {"term": "Anspruch", "text": "Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen; Ansprüche sind relative subjektive Rechte, die notfalls mit staatlichem Zwang durchgesetzt werden können.", "norm": "§ 194 Abs. 1 BGB", "src": [{"doc": "BGB_1", "page": 19}]},
+    {"term": "Anspruchsgrundlage", "text": "Norm, aus der sich ergibt, dass einer Person das Recht gewährt bzw. einer anderen die Pflicht auferlegt wird, ein bestimmtes Tun oder Unterlassen zu erbringen. Normen, die lediglich eine Aussage treffen (z.B. § 145 BGB), sind keine Anspruchsgrundlagen.", "norm": "z.B. § 433 Abs. 2, § 985 BGB", "src": [{"doc": "BGB_1", "page": 19}, {"doc": "BGB_1", "page": 20}]},
+    {"term": "Gutachtenstil", "text": "Methode, die stufenweise von der möglicherweise anspruchsbegründenden Norm zum Ergebnis führt: ausgehend von einer Hypothese („Es könnte ein Anspruch bestehen“) über Voraussetzungen, Definition und Subsumtion zum Ergebnis („Der Anspruch besteht/besteht nicht“).", "norm": "", "src": [{"doc": "BGB_1", "page": 18}]},
+    {"term": "Urteilsstil", "text": "Stil der richterlichen Urteilsgründe: Die Rechtsfolge (das Ergebnis) wird vorangestellt, danach folgt die Begründung (kennzeichnend: „denn“, „da“, „weil“).", "norm": "", "src": [{"doc": "BGB_1", "page": 18}]},
+    {"term": "Subsumtion", "text": "Die Prüfung der Tatbestandsmerkmale einer gesetzlichen Vorschrift hinsichtlich ihrer Anwendbarkeit auf einen konkreten Sachverhalt; der Sachverhalt wird unter das (definierte) Tatbestandsmerkmal gefasst.", "norm": "", "src": [{"doc": "BGB_1", "page": 21}, {"doc": "BGB_1", "page": 24}]},
+    {"term": "Privatautonomie", "text": "Die Freiheit des Einzelnen, seine Rechtsverhältnisse weitgehend nach seinem Willen zu gestalten; sie wird als Teil der allgemeinen Handlungsfreiheit durch das Grundgesetz garantiert. Mittel zu ihrer Verwirklichung ist das Rechtsgeschäft.", "norm": "Art. 2 Abs. 1 GG", "src": [{"doc": "BGB_1", "page": 35}]},
+    {"term": "Abschlussfreiheit", "text": "Die Freiheit des Einzelnen zu entscheiden, ob, mit wem und worüber er Verträge schließen möchte.", "norm": "Art. 2 Abs. 1 GG", "src": [{"doc": "BGB_1", "page": 36}, {"doc": "BGB_1", "page": 38}]},
+    {"term": "Dispositives / zwingendes Recht", "text": "Dispositiv (nachgiebig) sind gesetzliche Regelungen, die die Beteiligten nach ihrem Willen verändern oder ergänzen können. Zwingend (unabdingbar) sind Vorschriften, die immer angewandt werden und nicht durch Vereinbarung ausgeschlossen, verändert oder ergänzt werden können.", "norm": "z.B. §§ 434 ff. (dispositiv), §§ 104 ff., 929 ff. BGB (zwingend)", "src": [{"doc": "BGB_1", "page": 39}, {"doc": "BGB_1", "page": 40}]},
+    {"term": "Verbraucher", "text": "Jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.", "norm": "§ 13 BGB", "src": [{"doc": "BGB_1", "page": 41}]},
+    {"term": "Kontrahierungszwang (Abschlusspflicht)", "text": "Ausnahmsweise Einschränkung der Abschlussfreiheit: die Pflicht, auch gegen den eigenen Willen mit einer anderen Person einen Vertrag zu schließen, d.h. eine auf Vertragsschluss gerichtete Willenserklärung abzugeben; er umfasst auch einen Inhaltszwang zu angemessenen Bedingungen.", "norm": "z.B. § 36 Abs. 1 S. 1 EnWG; §§ 826, 249 Abs. 1 BGB; § 21 Abs. 1 AGG", "src": [{"doc": "BGB_1", "page": 43}, {"doc": "BGB_1", "page": 46}]}
+  ],
+  "schemas": [
+    {
+      "title": "Prüfungsschema – Anspruch aus Vertrag",
+      "steps": [
+        "A. Anspruch entstanden (z.B. aus Kaufvertrag, § 433 Abs. 1 S. 1 BGB)",
+        "I. Einigung, d.h. zwei übereinstimmende Willenserklärungen",
+        "1. Antrag (Angebot) der einen Partei: a) Tatbestand der Willenserklärung (objektiver und subjektiver Tatbestand; ggf. Stellvertretung §§ 164 ff.: eigene Willenserklärung des Vertreters, im fremden Namen, Vertretungsmacht)",
+        "b) Wirksamwerden der Willenserklärung (Abgabe, Zugang)",
+        "c) Kein Widerruf, keine rechtshindernden Einwendungen gegen die WE (z.B. Geschäftsfähigkeit §§ 104 ff.; Vorbehalt, Scheingeschäft, Scherzerklärung §§ 116 ff.)",
+        "d) Anfechtung der Willenserklärung, § 142 (Anfechtungserklärung § 142 Abs. 1; Anfechtungsgrund §§ 119 ff.; Anfechtungsfrist § 121 bzw. § 124)",
+        "2. Annahme der anderen Partei: a) Tatbestand der WE (s.o.; Untätigbleiben ausnahmsweise als Annahme), b) Rechtzeitigkeit der Annahme, c) Wirksamwerden der WE, d) kein Widerruf, keine rechtshindernden Einwendungen, e) ggf. Anfechtung",
+        "II. Keine Wirksamkeitshindernisse (z.B. Formnichtigkeit nach § 125 S. 1; gesetzliches Verbot und Sittenwidrigkeit, §§ 134, 138)",
+        "B. Anspruch erloschen (z.B. Erfüllung § 362; Aufrechnung; auflösende Bedingung § 158; Unmöglichkeit § 275 Abs. 1; Rücktritt § 346 Abs. 1; Widerruf §§ 355 ff.)",
+        "C. Anspruch durchsetzbar (z.B. Verjährung § 214 I; Einrede der ungerechtfertigten Bereicherung § 821; Einrede des nicht erfüllten Vertrags § 320 Abs. 1 S. 1; allgemeines Zurückbehaltungsrecht § 273 Abs. 1)",
+        "D. Ergebnis (Die Übersicht erhebt keinen Anspruch auf Vollständigkeit.)"
+      ],
+      "src": [{"doc": "BGB_1", "page": 48}, {"doc": "BGB_1", "page": 49}]
+    },
+    {
+      "title": "Aufbau des Gutachtens je Anspruchsgrundlage",
+      "steps": [
+        "Vorüberlegungen: 1. Fallfrage und damit die infrage kommenden Ansprüche feststellen; 2. für jeden Anspruch die möglichen Anspruchsgrundlagen aufsuchen („Wer will was von wem woraus?“ – nicht ins Gutachten schreiben)",
+        "1. Obersatz mit Anspruchsgrundlage und Rechtsfolge – als Hauptsatz im Konjunktiv",
+        "2. Abstrakt: Voraussetzungen der Anspruchsgrundlage (Tatbestandsmerkmale T1 … Tx)",
+        "3. Für jedes Tatbestandsmerkmal so oft wie nötig: a) abstrakt: Definition; b) konkret: Subsumtion des Sachverhalts",
+        "4. Zusammenfassung der Subsumtionen und Nennung der Rechtsfolge (Ergebnis)"
+      ],
+      "src": [{"doc": "BGB_1", "page": 24}]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mc-single", "level": "recognize", "difficulty": 1,
+      "prompt": "Was ist nach § 194 Abs. 1 BGB ein Anspruch?",
+      "options": [
+        "Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen",
+        "Die tatsächliche Herrschaft einer Person über eine Sache",
+        "Die Befugnis, mit einer Sache nach Belieben zu verfahren und andere von jeder Einwirkung auszuschließen",
+        "Das Recht, seine Rechtsverhältnisse weitgehend nach eigenem Willen zu gestalten"
+      ],
+      "answer": [0],
+      "explanation": "§ 194 Abs. 1 BGB definiert den Anspruch als Recht, von einem anderen ein Tun oder Unterlassen zu verlangen. Option 2 beschreibt den Besitz (§ 854 Abs. 1), Option 3 das Eigentum (§ 903), Option 4 die Privatautonomie.",
+      "hints": ["Denken Sie an die Legaldefinition im Verjährungsrecht.", "Eigentum und Besitz sind auseinanderzuhalten (S. 17)."],
+      "src": [{"doc": "BGB_1", "page": 19}, {"doc": "BGB_1", "page": 17}]
+    },
+    {
+      "id": "q2", "type": "mc-single", "level": "recognize", "difficulty": 1,
+      "prompt": "Welche Formulierung eignet sich als Obersatz eines Gutachtens?",
+      "options": [
+        "„Lipper könnte gegen Stadelmann einen Anspruch auf Zahlung von € 3,10 aus Kaufvertrag gemäß § 433 Abs. 2 BGB haben.“",
+        "„Lipper hat gegen Stadelmann einen Anspruch auf Zahlung von € 3,10, denn zwischen beiden wurde ein Kaufvertrag geschlossen.“",
+        "„Wer will was von wem woraus?“",
+        "„Kann Lipper von Stadelmann Zahlung von € 3,10 verlangen?“"
+      ],
+      "answer": [0],
+      "explanation": "Der Obersatz wird als Hauptsatz im Konjunktiv formuliert (S. 21, 24). Option 2 ist Urteilsstil („denn“). Die W-Frage gehört nicht ins Gutachten, und der Obersatz ist keine direkte Frage (S. 20, 24).",
+      "hints": ["Der Gutachtenstil beginnt mit einer Hypothese.", "Achten Sie auf das Wort „denn“."],
+      "src": [{"doc": "BGB_1", "page": 21}, {"doc": "BGB_1", "page": 24}]
+    },
+    {
+      "id": "q3", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "prompt": "Welche der folgenden Vorschriften ist nach dem Skript KEINE Anspruchsgrundlage?",
+      "options": ["§ 145 BGB", "§ 433 Abs. 2 BGB", "§ 179 Abs. 1 BGB", "§ 985 BGB"],
+      "answer": [0],
+      "explanation": "§ 145 BGB bestimmt nur, unter welchen Umständen ein Angebot bindend ist; er kann zur Auslegung des Merkmals „Kaufvertrag“ in § 433 BGB herangezogen werden, gewährt aber kein Recht, ein Tun zu verlangen (Beispiel (E), S. 20). §§ 433 Abs. 2, 179 Abs. 1 und 985 BGB sind Anspruchsgrundlagen (S. 19 f.).",
+      "hints": ["Ergibt sich aus der Norm, dass jemand etwas verlangen kann?", "Eine Norm, die nur eine Aussage trifft, darf nicht als selbständige Anspruchsgrundlage zitiert werden."],
+      "src": [{"doc": "BGB_1", "page": 20}]
+    },
+    {
+      "id": "q4", "type": "mc-multi", "level": "recall", "difficulty": 1,
+      "prompt": "Welche Freiheiten umfasst die Vertragsfreiheit nach dem Skript? Wählen Sie alle zutreffenden Antworten.",
+      "options": ["Abschlussfreiheit", "Inhaltliche Gestaltungsfreiheit", "Formfreiheit", "Testierfreiheit", "Freiheit von zwingenden gesetzlichen Vorschriften"],
+      "answer": [0, 1, 2],
+      "explanation": "Die Vertragsfreiheit beinhaltet die Abschluss-, die inhaltliche Gestaltungs- und die Formfreiheit (S. 36). Die Testierfreiheit gehört zum Erbrecht (S. 30); zwingendes Recht begrenzt gerade die Gestaltungsfreiheit (S. 39 f.).",
+      "hints": ["Ob – Wie (Inhalt) – in welcher Gestalt?", "Es sind drei."],
+      "src": [{"doc": "BGB_1", "page": 36}, {"doc": "BGB_1", "page": 38}]
+    },
+    {
+      "id": "q5", "type": "mc-multi", "level": "understand", "difficulty": 3,
+      "prompt": "Welche Voraussetzungen nennt das Skript für den allgemeinen zivilrechtlichen Kontrahierungszwang? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Das Unternehmen bietet Güter oder Leistungen zur Deckung des Lebensbedarfs öffentlich an.",
+        "Der Kunde kann sich die Güter oder Leistungen nicht anderweitig verschaffen.",
+        "Für die Verweigerung bestehen keine sachlich berechtigten Gründe.",
+        "Der Anbieter muss ein Unternehmen der öffentlichen Hand sein.",
+        "Die Verweigerung muss auf einem in § 19 AGG genannten Merkmal beruhen."
+      ],
+      "answer": [0, 1, 2],
+      "explanation": "Unternehmen, die Güter oder Leistungen zur Deckung des Lebensbedarfs öffentlich anbieten, die sich der Kunde nicht anderweitig verschaffen kann, dürfen den Vertragsschluss nur aus sachlich berechtigten Gründen verweigern; sonst liegt nach h.M. eine sittenwidrige Schädigung (§ 826) vor, die über § 249 I einen Abschlusszwang begründet (S. 44). Eine Trägerschaft der öffentlichen Hand wird nicht verlangt; die AGG-Merkmale betreffen den gesonderten Kontrahierungszwang aus § 21 AGG (S. 45).",
+      "hints": ["Denken Sie an das Inselmuseum.", "Der AGG-Anspruch ist eine eigene Fallgruppe."],
+      "src": [{"doc": "BGB_1", "page": 44}, {"doc": "BGB_1", "page": 45}]
+    },
+    {
+      "id": "q6", "type": "truefalse", "level": "recall", "difficulty": 1,
+      "prompt": "Im Gutachtenstil wird das Ergebnis vorangestellt und anschließend mit Wörtern wie „denn“, „da“ oder „weil“ begründet.",
+      "answer": false,
+      "explanation": "Das beschreibt den Urteilsstil des Richters. Der Gutachtenstil geht von einer Hypothese aus und gelangt erst am Ende zum Ergebnis (S. 18).",
+      "hints": ["Wer verkündet zuerst eine Entscheidung und begründet sie dann?"],
+      "src": [{"doc": "BGB_1", "page": 18}]
+    },
+    {
+      "id": "q7", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "prompt": "Besteht ein Kontrahierungszwang, darf der Anbieter die Vertragsbedingungen gleichwohl frei festsetzen, etwa dem ungeliebten Nachbarn den doppelten Preis berechnen.",
+      "answer": false,
+      "explanation": "Kontrahierungszwang bedeutet auch Inhaltszwang: Der Anbietende ist verpflichtet, den Vertrag zu angemessenen Bedingungen zu schließen, sonst setzte sich die Diskriminierung im Vertragsinhalt fort oder er nutzte seine Monopolstellung aus (S. 46).",
+      "hints": ["Welchen Zweck verfolgt die Abschlusspflicht?"],
+      "src": [{"doc": "BGB_1", "page": 46}]
+    },
+    {
+      "id": "q8", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "prompt": "Formzwang ist die Ausnahme und muss gesetzlich vorgeschrieben sein; die Parteien können die Wirksamkeit ihres Vertrages aber auch selbst an eine Form knüpfen.",
+      "answer": true,
+      "explanation": "Aufgrund der Formfreiheit können Verträge z.B. mündlich geschlossen werden; die Parteien können die Wirksamkeit aber an Schriftform oder notarielle Beurkundung knüpfen (vgl. § 125 S. 2). Gesetzlicher Formzwang (z.B. § 311b Abs. 1 S. 1) ist die Ausnahme (S. 38).",
+      "hints": ["Grundlage der Formfreiheit ist ein Umkehrschluss aus § 125 BGB."],
+      "src": [{"doc": "BGB_1", "page": 38}]
+    },
+    {
+      "id": "q9", "type": "cloze", "level": "recall", "difficulty": 1,
+      "prompt": "Die Vorüberlegungen lassen sich durch die große W-Frage strukturieren: „{{1}} will {{2}} von {{3}} {{4}}?“ Das letzte Fragewort zielt auf die Anspruchsgrundlage.",
+      "blanks": [["Wer"], ["was"], ["wem"], ["woraus"]],
+      "explanation": "„Wer?“ und „von wem?“ betreffen Anspruchsteller und -gegner, „was?“ den Anspruchsinhalt, „woraus?“ die Anspruchsgrundlage (S. 20).",
+      "hints": ["Vier Fragewörter."],
+      "src": [{"doc": "BGB_1", "page": 20}]
+    },
+    {
+      "id": "q10", "type": "cloze", "level": "recall", "difficulty": 2,
+      "prompt": "Man sagt, die Regeln des Allgemeinen Teils seien „vor die {{1}} gezogen“. Die Vorgehensweise ist aus der Mathematik als {{2}} bekannt. Eine allgemeine Vorschrift kann allerdings durch eine speziellere verdrängt werden: lex specialis derogat legi {{3}}.",
+      "blanks": [["Klammer"], ["Distributivgesetz"], ["generali"]],
+      "explanation": "Ausklammerungsmethode: a·b + a·c = a·(b + c), wobei „a“ der Allgemeine Teil ist (S. 33). Beispiel für eine Spezialregel: § 548 BGB gegenüber §§ 194 ff. (S. 34).",
+      "hints": ["a·b + a·c = a·(b + c)"],
+      "src": [{"doc": "BGB_1", "page": 33}, {"doc": "BGB_1", "page": 34}]
+    },
+    {
+      "id": "q11", "type": "match", "level": "recall", "difficulty": 1,
+      "prompt": "Ordnen Sie den Büchern des BGB ihren Inhalt zu.",
+      "pairs": [
+        ["Erstes Buch", "Allgemeiner Teil (§§ 1–240)"],
+        ["Zweites Buch", "Recht der Schuldverhältnisse"],
+        ["Drittes Buch", "Sachenrecht"],
+        ["Viertes Buch", "Familienrecht"],
+        ["Fünftes Buch", "Erbrecht"]
+      ],
+      "explanation": "Das BGB ist in fünf Bücher gegliedert (S. 29 f.).",
+      "hints": ["Vom Allgemeinen zum Besonderen; das Erbrecht kommt zuletzt."],
+      "src": [{"doc": "BGB_1", "page": 29}, {"doc": "BGB_1", "page": 30}]
+    },
+    {
+      "id": "q12", "type": "match", "level": "understand", "difficulty": 2,
+      "prompt": "Ordnen Sie den Fällen des Kontrahierungszwangs die im Skript genannte Grundlage zu.",
+      "pairs": [
+        ["Versorgung mit Gas und Strom", "§ 36 Abs. 1 S. 1 EnWG"],
+        ["Personenbeförderung", "§ 22 PersBefG"],
+        ["Kfz-Haftpflichtversicherung", "§ 5 Abs. 2 PflVersG"],
+        ["Marktbeherrschendes Unternehmen", "§§ 19, 20 Abs. 2 GWB"],
+        ["Verstoß gegen das Benachteiligungsverbot", "§ 21 Abs. 1 AGG"],
+        ["Allgemeiner zivilrechtlicher Kontrahierungszwang", "§ 826 i.V.m. § 249 Abs. 1 BGB"]
+      ],
+      "explanation": "Daseinsvorsorge (S. 43), Kartellrecht (S. 44), allgemeines Zivilrecht über sittenwidrige Schädigung und Naturalrestitution (S. 44), AGG-Beseitigungsanspruch (S. 45).",
+      "hints": ["Drei Fälle betreffen die Daseinsvorsorge."],
+      "src": [{"doc": "BGB_1", "page": 43}, {"doc": "BGB_1", "page": 44}, {"doc": "BGB_1", "page": 45}]
+    },
+    {
+      "id": "q13", "type": "order", "level": "recall", "difficulty": 1,
+      "prompt": "Bringen Sie die Stufen des Gutachtens (bezogen auf eine Anspruchsgrundlage) in die richtige Reihenfolge.",
+      "items": [
+        "Obersatz mit Anspruchsgrundlage und Rechtsfolge",
+        "Voraussetzungen (Tatbestandsmerkmale) der Anspruchsgrundlage",
+        "Definition des Tatbestandsmerkmals",
+        "Subsumtion des Sachverhalts",
+        "Ergebnis: Zusammenfassung und Rechtsfolge"
+      ],
+      "explanation": "So der Aufbau auf S. 21–24; Definition und Subsumtion wiederholen sich für jedes problematische Tatbestandsmerkmal.",
+      "hints": ["Erst abstrakt, dann konkret."],
+      "src": [{"doc": "BGB_1", "page": 21}, {"doc": "BGB_1", "page": 23}, {"doc": "BGB_1", "page": 24}]
+    },
+    {
+      "id": "q14", "type": "order", "level": "recall", "difficulty": 2,
+      "prompt": "Bringen Sie die Hauptprüfungspunkte des Schemas „Anspruch aus Vertrag“ in die richtige Reihenfolge.",
+      "items": ["Anspruch entstanden", "Anspruch erloschen", "Anspruch durchsetzbar", "Ergebnis"],
+      "explanation": "A. Anspruch entstanden (Einigung, keine Wirksamkeitshindernisse) – B. erloschen (z.B. Erfüllung § 362) – C. durchsetzbar (z.B. Verjährung § 214 I) – D. Ergebnis (S. 48 f.).",
+      "hints": ["Ein Anspruch muss erst entstehen, bevor er erlöschen kann."],
+      "src": [{"doc": "BGB_1", "page": 48}, {"doc": "BGB_1", "page": 49}]
+    },
+    {
+      "id": "q15", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "prompt": "Steuerberater S kauft bei der Möbelhaus M-GmbH Schlafzimmermöbel für sein Eigenheim. Wie ist der Vertrag einzuordnen?",
+      "options": [
+        "Verbrauchsgüterkauf, denn S handelt hier als Verbraucher (§ 13 BGB) und die M-GmbH als Unternehmerin (§ 14 BGB)",
+        "Normaler Kaufvertrag zwischen Unternehmern, weil S als Steuerberater selbständig beruflich tätig ist",
+        "Kein Verbrauchervertrag, weil S als Freiberufler nie Verbraucher sein kann",
+        "Verbrauchsgüterkauf nur dann, wenn S die Möbel ausschließlich privat nutzt; bei auch nur gelegentlicher beruflicher Nutzung scheidet § 13 BGB stets aus"
+      ],
+      "answer": [0],
+      "explanation": "Der Kauf kann nicht überwiegend der selbständigen beruflichen Tätigkeit des S zugerechnet werden; S ist Verbraucher, die M-GmbH Unternehmerin – Verbrauchsgüterkauf (Beispiel (3), S. 42). Maßgeblich ist der überwiegende Zweck (Dual-use, S. 41); Option 4 verkennt das Wort „überwiegend“.",
+      "hints": ["Kommt es auf den Beruf oder auf den Zweck des Geschäfts an?", "Beachten Sie das Wort „überwiegend“ in § 13 BGB."],
+      "src": [{"doc": "BGB_1", "page": 41}, {"doc": "BGB_1", "page": 42}]
+    },
+    {
+      "id": "q16", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "prompt": "Die Fallfrage lautet: „Kann Spotz Bezahlung des von ihm gelieferten Kastens Bier von Ganter verlangen?“ Was ist zu prüfen?",
+      "options": [
+        "Nur der Zahlungsanspruch des Spotz gegen Ganter, gestützt auf alle in Betracht kommenden Anspruchsgrundlagen",
+        "Der Zahlungsanspruch und – als naheliegende Alternative – ein Anspruch auf Herausgabe des Bierkastens",
+        "Alle Ansprüche, die Spotz und Ganter gegeneinander haben könnten",
+        "Nur, ob ein Kaufvertrag wirksam ist; Anspruchsgrundlagen sind bei einer konkreten Fallfrage nicht zu nennen"
+      ],
+      "answer": [0],
+      "explanation": "Es ist nur der Anspruch zu prüfen, der Spotz die verlangte Bezahlung gewähren könnte; er kann sich auf mehrere Anspruchsgrundlagen stützen. Weitergehende Ansprüche wie die Herausgabe des Bierkastens sind nicht zu prüfen (Beispiel (A), S. 18). Alle Ansprüche sind nur bei „Wie ist die Rechtslage?“ zu prüfen (Beispiel (B)).",
+      "hints": ["Die Fallfrage gibt die Richtung vor."],
+      "src": [{"doc": "BGB_1", "page": 18}]
+    },
+    {
+      "id": "q17", "type": "free", "level": "formulate", "difficulty": 2,
+      "prompt": "Lipper reicht seinem Stammgast Stadelmann wie immer wortlos ein großes Aperol Spritz (€ 3,10), das dieser austrinkt. Formulieren Sie Obersatz und Voraussetzung sowie die Definition des Angebots im Gutachtenstil.",
+      "modelAnswer": "Lipper könnte gegen Stadelmann einen Anspruch auf Zahlung des Kaufpreises von € 3,10 aus Kaufvertrag gemäß § 433 Abs. 2 BGB haben. Voraussetzung hierfür ist, dass zwischen beiden Parteien ein Kaufvertrag zustande gekommen ist. Ein Kaufvertrag kommt zustande durch Angebot und Annahme. Stadelmann könnte ein Angebot abgegeben haben. Das Angebot ist eine Willenserklärung, mit der sich jemand, der einen Vertrag abschließen möchte, an einen anderen wendet und die zukünftigen Vertragsbedingungen so vollständig zusammenfasst, dass der andere, ohne inhaltliche Änderungen vorzunehmen, durch ein bloßes „Ja“ den Vertrag entstehen lassen kann.",
+      "rubric": [
+        "Obersatz im Konjunktiv mit Anspruchsteller, Anspruchsgegner, Anspruchsinhalt (€ 3,10) und § 433 Abs. 2 BGB",
+        "Voraussetzung: Zustandekommen eines Kaufvertrages",
+        "Kaufvertrag = Angebot und Annahme",
+        "Vollständige Definition des Angebots („bloßes Ja“)",
+        "Keine direkte Frage, keine W-Frage, kein Urteilsstil"
+      ],
+      "hints": ["Beginnen Sie mit „Lipper könnte …“.", "Die Annahme wird erst definiert, nachdem das Angebot subsumiert wurde."],
+      "src": [{"doc": "BGB_1", "page": 21}, {"doc": "BGB_1", "page": 22}, {"doc": "BGB_1", "page": 23}]
+    },
+    {
+      "id": "q18", "type": "case", "level": "apply", "difficulty": 3,
+      "prompt": "A veranstaltet in seiner Halle monatlich einen „Nachmittag der über 60-jährigen verwitweten Damen“. Die 62-jährige verwitwete D wird allein wegen ihrer ethnischen Herkunft abgewiesen. Hat D gegen A einen Anspruch auf Einlass (Vertragsschluss)? Skizzieren Sie die Prüfung.",
+      "modelAnswer": "D könnte gegen A einen Anspruch auf Einlass, d.h. auf Abschluss des beabsichtigten Vertrages, aus § 21 Abs. 1 S. 1 AGG haben. Voraussetzung ist ein Verstoß gegen das Benachteiligungsverbot des § 19 AGG. Grundsätzlich darf ein Veranstalter den Personenkreis festlegen; Alter und Lebenssituation (verwitwete Frau über 60) sind für die Veranstaltung wesentlich und rechtfertigen eine Auswahl. D erfüllt jedoch alle diese Voraussetzungen und wird allein wegen ihrer ethnischen Herkunft abgewiesen; darin liegt eine Benachteiligung i.S.d. § 19 Abs. 2 AGG. Damit ist ein gegenwärtiger rechtswidriger, benachteiligender Zustand geschaffen. Die Kausalität ist gegeben, da es ohne den Verstoß zum Vertragsschluss gekommen wäre; der Vertrag (Einlass zur Veranstaltung) ist hinreichend bestimmt, und der Vertragsschluss ist nicht unmöglich (§ 275 BGB). Nach h.M. ist der Beseitigungsanspruch bei Nichtabschluss auf den Abschluss des beabsichtigten Vertrages gerichtet, und zwar zu angemessenen Bedingungen (Inhaltszwang). D hat somit gegen A einen Anspruch auf Einlass aus § 21 Abs. 1 S. 1 AGG. Daneben kommen bei Verschulden Schadensersatz nach § 21 Abs. 2 AGG (Verschulden wird vermutet) sowie Ansprüche aus § 823 BGB in Betracht (§ 21 Abs. 3 AGG).",
+      "rubric": [
+        "Anspruchsgrundlage § 21 Abs. 1 S. 1 AGG",
+        "Abgrenzung zum Ausgangsfall: zulässige Auswahl nach Alter/Witwenstand, hier aber Benachteiligung wegen ethnischer Herkunft (§ 19 Abs. 2 AGG)",
+        "Voraussetzungen: benachteiligender Zustand, Kausalität, Bestimmtheit, keine Unmöglichkeit",
+        "Beseitigungsanspruch nach h.M. auf Vertragsschluss gerichtet (Kontrahierungszwang), auch Inhaltszwang",
+        "Ergebnis; ggf. Hinweis auf § 21 Abs. 2, 3 AGG"
+      ],
+      "hints": ["Das Skript deutet die Lösung am Ende des Beispiels an (S. 46).", "Welche Voraussetzungen nennt das Skript für den Beseitigungsanspruch (S. 45)?"],
+      "src": [{"doc": "BGB_1", "page": 45}, {"doc": "BGB_1", "page": 46}]
+    }
+  ],
+  "case": {
+    "title": "Blum und Korf – der PKW Typ Florida",
+    "facts": "Blum will dem Korf einen PKW verkaufen. Er sagt zu Korf, er wolle ihm ein günstiges Angebot machen: Korf könne einen PKW der Marke X Typ Florida für 6.500,-- € haben. Korf antwortet, er sei einverstanden, allerdings müsse Blum ihm für diesen Preis noch einige Extras, nämlich Heckscheibenwischer, Fußmatten und Nebelscheinwerfer mitliefern. Blum erklärt, darauf könne er nicht eingehen, weil ihm sonst kein Gewinn verbleibe. Daraufhin sagt Korf, es tue ihm leid, aber wenn Blum so kleinlich sei, könne er bei ihm kein Auto kaufen. Blum verlangt nun von Korf Zahlung des Kaufpreises in Höhe von 6.500,-- €. Korf verweigert die Zahlung.",
+    "question": "Kann Blum von Korf Zahlung des Kaufpreises in Höhe von 6.500,-- € verlangen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz und nennen Sie die Voraussetzung der Anspruchsgrundlage.",
+        "model": "Blum könnte gegen Korf einen Anspruch auf Zahlung von 6.500,-- € aus Kaufvertrag gemäß § 433 Abs. 2 BGB haben. Ein solcher Anspruch besteht nur, wenn zwischen Blum und Korf ein Kaufvertrag (§ 433 BGB) zustande gekommen ist.",
+        "rubric": ["Konjunktiv („könnte … haben“)", "Anspruchsteller, Anspruchsgegner, Inhalt (6.500 €), § 433 Abs. 2 BGB", "Voraussetzung: Zustandekommen eines Kaufvertrages"],
+        "hints": ["Nur nach dem Kaufpreis ist gefragt – welche Anspruchsgrundlage?", "Die W-Frage nicht hinschreiben, sondern in den Obersatz übersetzen."]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie „Kaufvertrag“, „Angebot“ und „Annahme“.",
+        "model": "Ein Kaufvertrag kommt zustande durch Angebot und Annahme. Das Angebot ist eine empfangsbedürftige Willenserklärung, mit der sich jemand, der einen Vertrag abschließen möchte, an einen anderen wendet und die zukünftigen Vertragsbedingungen in einer Weise vollständig zusammenfasst, dass der andere, ohne inhaltliche Änderungen vorzunehmen, den Vertrag durch ein bloßes „Ja“ entstehen lassen kann. Die Annahme ist eine empfangsbedürftige Willenserklärung, mit der sich derjenige, an den sich das Angebot richtet, mit dem Inhalt des Angebots einverstanden erklärt und damit den angestrebten Vertrag entstehen lässt.",
+        "rubric": ["Kaufvertrag = Angebot + Annahme", "Angebot: empfangsbedürftige WE, vollständige Vertragsbedingungen, „bloßes Ja“", "Annahme: Einverständnis mit dem Inhalt des Angebots", "Im Gutachten: Definition der Annahme erst nach Subsumtion des Angebots"],
+        "hints": ["Erst Angebot prüfen, dann Annahme (Beispiel (I), S. 22)."]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie: Liegt ein Angebot des Blum vor? Hat Korf angenommen? Welche Bedeutung hat Korfs Erklärung, und wie reagiert Blum?",
+        "model": "Blum sagt zu Korf, er wolle ihm ein günstiges Angebot machen, Korf könne einen PKW der Marke X Typ Florida für 6.500,-- € erwerben. Damit hat er Kaufgegenstand, Kaufpreis und Vertragspartner konkret bestimmt und seinen Willen zum Ausdruck gebracht, mit Korf eine rechtlich verbindliche Vereinbarung zu treffen; Korf könnte durch ein bloßes „Ja“ einen Kaufvertrag zustande bringen. Blum hat also ein bindendes Angebot abgegeben. Fraglich ist, ob Korf dieses Angebot angenommen hat. Korf hat nicht mit einem bloßen „Ja“ geantwortet, sondern verlangt, Blum solle ihm zu dem genannten Preis noch Extras mitliefern. Er hat sich somit nicht mit dem Inhalt des Angebots einverstanden erklärt; eine Annahme liegt nicht vor. Nach § 150 Abs. 2 BGB gilt eine Annahme unter Erweiterungen, Einschränkungen oder sonstigen Änderungen als Ablehnung, verbunden mit einem neuen Angebot. Korf hat daher ein neues Angebot (PKW einschließlich Extras für 6.500,-- €) abgegeben. Dieses müsste Blum angenommen haben. Blum erklärt jedoch, darauf könne er nicht eingehen, weil ihm sonst kein Gewinn verbleibe. Damit lehnt er das Gegenangebot des Korf ab.",
+        "rubric": ["Angebot des Blum: essentialia negotii bestimmt, Rechtsbindungswille", "Keine Annahme durch Korf wegen Erweiterung", "§ 150 Abs. 2 BGB: Ablehnung + neues Angebot", "Ablehnung des Gegenangebots durch Blum", "Sachverhaltsnahe Subsumtion, Definition der Annahme nicht wiederholen"],
+        "hints": ["Ist „einverstanden, allerdings …“ ein bloßes „Ja“?", "Welche Norm regelt die Annahme unter Änderungen?"]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Folglich ist zwischen Blum und Korf kein Kaufvertrag i.S.d. § 433 BGB zustande gekommen. Daher hat Blum gegen Korf keinen Anspruch auf Zahlung von 6.500,-- € aus Kaufvertrag gemäß § 433 Abs. 2 BGB.",
+        "rubric": ["Zusammenfassung: kein Kaufvertrag", "Rechtsfolge: kein Anspruch aus § 433 Abs. 2 BGB", "Indikativ, Bezug zum Obersatz"],
+        "hints": ["Das Ergebnis beantwortet genau die Hypothese des Obersatzes."]
+      }
+    ],
+    "src": [{"doc": "BGB_1", "page": 24}, {"doc": "BGB_1", "page": 25}, {"doc": "BGB_1", "page": 26}, {"doc": "BGB_1", "page": 27}]
+  },
+  "flashcards": [
+    {"front": "Was ist ein Anspruch (§ 194 Abs. 1 BGB)?", "back": "Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen; ein relatives subjektives Recht.", "src": [{"doc": "BGB_1", "page": 19}]},
+    {"front": "Wofür stehen die Elemente der W-Frage?", "back": "Wer (Anspruchsteller) will was (Anspruchsinhalt) von wem (Anspruchsgegner) woraus (Anspruchsgrundlage)? – Nur zur Vorüberlegung, nicht ins Gutachten.", "src": [{"doc": "BGB_1", "page": 20}]},
+    {"front": "Ist § 145 BGB eine Anspruchsgrundlage?", "back": "Nein. § 145 regelt nur die Bindung an ein Angebot; er kann zur Bestimmung des Merkmals „Kaufvertrag“ in § 433 BGB herangezogen werden.", "src": [{"doc": "BGB_1", "page": 20}]},
+    {"front": "Gutachtenstil vs. Urteilsstil?", "back": "Gutachtenstil: Hypothese („könnte“) → Voraussetzungen → Definition/Subsumtion → Ergebnis. Urteilsstil: Ergebnis zuerst, dann Begründung („denn“, „da“, „weil“).", "src": [{"doc": "BGB_1", "page": 18}]},
+    {"front": "Die vier Stufen des Gutachtens je Anspruchsgrundlage?", "back": "1. Obersatz (Konjunktiv) 2. Voraussetzungen 3. Definition + Subsumtion je Tatbestandsmerkmal 4. Ergebnis mit Rechtsfolge.", "src": [{"doc": "BGB_1", "page": 24}]},
+    {"front": "Wie werden Fragen nach dem Eigentum in der Falllösung geprüft?", "back": "In der Regel in historischer Reihenfolge: „Ursprünglich war F Eigentümerin … Fraglich ist, ob sie ihr Eigentum verloren hat …“", "src": [{"doc": "BGB_1", "page": 21}]},
+    {"front": "Die fünf Bücher des BGB?", "back": "Allgemeiner Teil (§§ 1–240), Recht der Schuldverhältnisse, Sachenrecht, Familienrecht, Erbrecht.", "src": [{"doc": "BGB_1", "page": 29}, {"doc": "BGB_1", "page": 30}]},
+    {"front": "Was bedeutet „vor die Klammer gezogen“?", "back": "Ausklammerungsmethode: Allgemeine Fragen (z.B. Verjährung §§ 194–218) werden einmal im AT geregelt und gelten für alle Bücher – wie a·b + a·c = a·(b + c). Spezialregeln (z.B. § 548) gehen vor.", "src": [{"doc": "BGB_1", "page": 33}, {"doc": "BGB_1", "page": 34}]},
+    {"front": "Was ist Privatautonomie und wo ist sie verfassungsrechtlich verankert?", "back": "Die Freiheit des Einzelnen, seine Rechtsverhältnisse weitgehend nach seinem Willen zu gestalten; Teil der allgemeinen Handlungsfreiheit, Art. 2 Abs. 1 GG.", "src": [{"doc": "BGB_1", "page": 35}]},
+    {"front": "Vertragsfreiheit: drei Elemente und ihre Grundlagen (Übersicht S. 38)?", "back": "Abschlussfreiheit (Prämisse des Gesetzgebers; Art. 2 I GG), Gestaltungsfreiheit (§§ 241, 311 BGB), Formfreiheit (Umkehrschluss aus § 125 BGB).", "src": [{"doc": "BGB_1", "page": 36}, {"doc": "BGB_1", "page": 38}]},
+    {"front": "Welche Generalklauseln begrenzen die Gestaltungsfreiheit?", "back": "§ 242, § 138 Abs. 1 (Sittenwidrigkeit) und § 134 BGB (gesetzliches Verbot); Einfallstor für die mittelbare Drittwirkung der Grundrechte.", "src": [{"doc": "BGB_1", "page": 40}]},
+    {"front": "Wie begründet die h.M. den allgemeinen zivilrechtlichen Kontrahierungszwang?", "back": "Verweigerung ohne sachlich berechtigten Grund bei öffentlich angebotenen, nicht anderweitig erhältlichen Leistungen des Lebensbedarfs = sittenwidrige Schädigung (§ 826); Abschlusszwang als Naturalrestitution (§ 249 I).", "src": [{"doc": "BGB_1", "page": 44}]},
+    {"front": "Worauf ist der Beseitigungsanspruch aus § 21 Abs. 1 AGG bei Nichtabschluss gerichtet?", "back": "Nach h.M. auf den Abschluss des beabsichtigten Vertrages (Kontrahierungszwang). Voraussetzungen: Verstoß gegen § 19 I, II AGG, Kausalität, Bestimmtheit, keine Unmöglichkeit (§ 275).", "src": [{"doc": "BGB_1", "page": 45}]}
+  ]
+}

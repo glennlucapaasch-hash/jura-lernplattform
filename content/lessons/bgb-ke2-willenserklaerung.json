@@ -1,0 +1,446 @@
+{
+  "id": "bgb-ke2-willenserklaerung",
+  "moduleId": "55101",
+  "ke": 2,
+  "topicIds": ["bgb-ke2-s2"],
+  "title": "Rechtsgeschäft und Willenserklärung: objektiver und subjektiver Tatbestand",
+  "estMinutes": 75,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Der Begriff „Rechtsgeschäft“ und die Willenserklärung im Überblick",
+      "short": "Ein Rechtsgeschäft beruht auf mindestens einer Willenserklärung und bezweckt eine Rechtsfolge, die eintritt, weil sie gewollt ist. Das BGB definiert weder Rechtsgeschäft noch Willenserklärung. Man unterscheidet einseitige (z.B. Kündigung) und mehrseitige Rechtsgeschäfte (Verträge, Beschlüsse). Die Willenserklärung besteht aus einem objektiven (äußeren) Tatbestand – der Kundgabe – und einem subjektiven (inneren) Tatbestand – dem Willen.",
+      "long": "## Rechtsgeschäft\n\nDie Vornahme eines Rechtsgeschäfts bezweckt, eine **Rechtsfolge herbeizuführen**. Das Rechtsgeschäft beruht auf dem erklärten, auf rechtliche Bindung gerichteten Willen einer oder mehrerer Personen, also auf deren Willenserklärungen. **Mindestens eine Willenserklärung** ist notwendiger Bestandteil eines Rechtsgeschäfts (S. 5).\n\n**Beispiel (S. 5):** Schließen V und K einen Kaufvertrag, tätigen sie ein Rechtsgeschäft; die beabsichtigte Rechtsfolge ist das Entstehen des Kaufvertrags.\n\nDas BGB enthält **keine Definition** des Rechtsgeschäfts oder der Willenserklärung. Im Anschluss an die Gesetzesmaterialien wird das Rechtsgeschäft definiert als „Rechtshandlung, deren erklärte Rechtsfolge nach der Rechtsordnung (nur) deshalb eintritt, weil sie gewollt ist“ (S. 5). Ein Rechtsgeschäft liegt auch dann vor, wenn die Rechtsordnung den bezweckten Erfolg ablehnt – das BGB spricht dann von **nichtigen** Rechtsgeschäften (z.B. §§ 125, 134, 138 BGB) (S. 6).\n\n## Einseitige und mehrseitige Rechtsgeschäfte (S. 6)\n\n- **Mehrseitig:** Verträge (mindestens zwei Rechtssubjekte, inhaltlich einander entsprechende Willenserklärungen) sowie Beschlüsse, z.B. des Vereinsvorstands (§ 28 Abs. 1 BGB) oder der Mitgliederversammlung (§ 32 Abs. 1 BGB).\n- **Einseitig:** Die Rechtsfolge beruht auf der Willenserklärung nur einer Person. *Beispiel:* Die Kündigung des Mieters beendet das Mietverhältnis ohne Einverständnis des Vermieters; man spricht von einem **Gestaltungsrecht**.\n\n## Die Willenserklärung im Überblick (S. 6–7)\n\nDie Willenserklärung ist eine Erklärung, mit der eine Person ihren Willen kundtut, eine Rechtsfolge herbeizuführen. Zu ihr gehören der auf einen Rechtserfolg gerichtete **innere Wille** und dessen **Kundgabe**.\n\n**Beispiel (S. 7):** Der bloß gedanklich gefasste Entschluss des Vermieters zu kündigen ist keine Willenserklärung; erst mit der schriftlichen Übergabe an den Mieter wird der Wille nach außen kundgetan.\n\nDie Willenserklärung ist mit dem Rechtsgeschäft identisch oder ein Teil desselben – etwa beim Vertrag oder bei der Übereignung nach § 929 S. 1 BGB, die aus der Einigung (zwei Willenserklärungen) und der Übergabe (Realakt) besteht (S. 7).\n\n**Aufbau (Schaubild S. 7):**\n- *Objektiver (äußerer) Tatbestand:* Erklärung mit Rechtsbindungswillen – fehlt er, liegt keine WE vor.\n- *Subjektiver (innerer) Tatbestand:* Handlungswille (fehlt er: keine WE), Erklärungsbewusstsein (fehlt es: nach h.M. anfechtbare WE), Geschäftswille (fehlt er: anfechtbare WE).",
+      "src": [{"doc": "BGB_2", "page": 5}, {"doc": "BGB_2", "page": 6}, {"doc": "BGB_2", "page": 7}]
+    },
+    {
+      "id": "s2",
+      "title": "Objektiver Tatbestand, Rechtsbindungswille und Gefälligkeit",
+      "short": "Der objektive Tatbestand ist die für andere erkennbare Kundgabe des Willens, eine Rechtsfolge herbeizuführen – ausdrücklich oder konkludent. Ob ein Rechtsbindungswille vorliegt, wird nicht nach dem inneren Willen, sondern nach dem objektiven Empfängerhorizont durch Auslegung (§§ 133, 157 BGB) ermittelt. Fehlt er, liegt eine bloße Gefälligkeit ohne primäre Leistungspflichten vor.",
+      "long": "## Erklärungshandlung (S. 8)\n\nDer objektive Tatbestand ist die **für andere Personen erkennbare Kundgabe** des Willens, eine Rechtsfolge herbeizuführen, also eine sinnlich wahrnehmbare Erklärungshandlung (Sprechen, Schreiben). Die Art der Kundgabe ist grundsätzlich frei (Privatautonomie). Neben ausdrücklichen gibt es **konkludente (schlüssige)** Erklärungen; das Verhalten ist nach dem **objektiven Empfängerhorizont** auszulegen.\n\n**Beispiel Bäckerladen (S. 8):** K sagt „10 Brötchen bitte“ (Angebot); B packt wortlos ein und übergibt (konkludente Annahme). Wegen Trennungs- und Abstraktionsprinzip liegen **drei Verträge mit sechs Willenserklärungen** vor: Kaufvertrag, Übereignung der Brötchen, Übereignung des Geldes (jeweils § 929 S. 1 BGB, konkludent).\n\n**Beispiel Parkplatz (S. 9):** Das Bereitstellen des gebührenpflichtigen Parkplatzes mit Beschilderung ist ein Angebot ad incertas personas, das A durch Parken konkludent annimmt. Die frühere Lehre vom „sozialtypischen Verhalten“ wird heute nicht mehr benötigt. Eine **protestatio facto contraria** ist als widersprüchliches Verhalten nach § 242 BGB unerheblich.\n\n## Rechtsbindungswille (S. 9–10)\n\nDer „Rechtsbindungswille“ ist – trotz des Namens – dem **objektiven Erklärungstatbestand** zuzuordnen. Entscheidend ist, ob sich dem Verhalten **aus Sicht des Erklärungsempfängers** der Wunsch nach rechtlicher Bindung beimessen lässt. Der BGH (BGHZ 21, 102, 106 f.): maßgeblich ist, ob der Leistungsempfänger nach Treu und Glauben mit Rücksicht auf die Verkehrssitte auf einen solchen Willen schließen musste. Ermittelt wird dies durch **Auslegung (§§ 133, 157 BGB)**; bedeutsam sind die essentialia negotii und die Abgrenzung zur **invitatio ad offerendum** (S. 10).\n\n## Gefälligkeit (S. 10–13)\n\n*Prüfungspunkt 1 – Rechtsbindungswille?* Kriterien: Art des Geschäfts, wirtschaftliche Bedeutung, Wert einer anvertrauten Sache, erkennbares Interesse des Begünstigten und die erkennbare Gefahr bei fehlerhafter Leistung. Unentgeltlichkeit allein schließt den rechtsgeschäftlichen Charakter nicht aus – vgl. die Gefälligkeitsverträge Schenkung (§ 516), Leihe (§ 598), Auftrag (§ 662). Bloße Gefälligkeiten erzeugen **keine primären Leistungspflichten**, können aber Rechtsgrund i.S.v. § 812 BGB sein (S. 11).\n\n*Prüfungspunkt 2 – Haftung?* Deliktisch nach §§ 823 ff. BGB (Verschulden positiv festzustellen). Ob Schutzpflichten i.S.v. § 241 Abs. 2 BGB mit Haftung aus § 280 Abs. 1 BGB bestehen, ist Einzelfallfrage; Vorteile wären Ersatz reiner Vermögensschäden, Verschuldensvermutung (§ 280 Abs. 1 S. 2) und § 278 ohne Exkulpation (S. 12). *Beispiel Blumengießen (S. 11–12).*\n\n*Prüfungspunkt 3 – Haftungserleichterung?* §§ 521, 599, 680, 690 BGB beschränken die Haftung auf Vorsatz und grobe Fahrlässigkeit, § 662 nicht. Teile der Literatur befürworten eine Analogie; Rechtsprechung und andere Teile der Literatur entscheiden einzelfallbezogen über **ergänzende Vertragsauslegung (§ 242, hypothetischer Parteiwille)**; Kriterien des BGH: kein Haftpflichtversicherungsschutz, nicht hinzunehmendes Haftungsrisiko, besondere Umstände (S. 13).\n\n**Fall Weckbitte im ICE (S. 13–14):** A bittet den ihm unbekannten B, ihn vor Köln zu wecken; beide schlafen ein. Ein Auftrag (§ 662) setzt Rechtsbindungswillen voraus. B kannte die wirtschaftliche Bedeutung und die Gefahr nicht, was für A erkennbar war → bloße Gefälligkeit, kein vertraglicher Schadensersatzanspruch.",
+      "src": [{"doc": "BGB_2", "page": 8}, {"doc": "BGB_2", "page": 9}, {"doc": "BGB_2", "page": 10}, {"doc": "BGB_2", "page": 11}, {"doc": "BGB_2", "page": 12}, {"doc": "BGB_2", "page": 13}, {"doc": "BGB_2", "page": 14}]
+    },
+    {
+      "id": "s3",
+      "title": "Subjektiver Tatbestand: Handlungswille, Erklärungsbewusstsein, Geschäftswille",
+      "short": "Der Handlungswille (Wille, überhaupt einen Erklärungsakt vorzunehmen) ist unstreitig konstitutiv; fehlt er (Reflex, Schlaf, vis absoluta), liegt keine Willenserklärung vor. Beim Erklärungsbewusstsein genügt nach Rechtsprechung und h.M. das potentielle Erklärungsbewusstsein. Der Geschäftswille ist nach h.M. nicht konstitutiv; Abweichungen führen nur zur Anfechtbarkeit (§§ 119 ff. BGB).",
+      "long": "## Handlungswille (S. 14–15)\n\nDer Handlungswille (Betätigungswille) ist der **Wille, einen Erklärungsakt vorzunehmen**; er ist **unstreitig konstitutiv**. Ohne Handlungswillen: Bewegungen im Traum oder beim Schlafwandeln, **Reflexbewegungen**, Bewegungen unter **vis absoluta** (unmittelbare körperliche Überwältigung). Bei **vis compulsiva** (psychischer Zwang, Drohung) findet dagegen eine Willensbetätigung statt; die Erklärung ist nach **§ 123 BGB anfechtbar**.\n\n**Beispiele (S. 14–15):** A führt mit Kraftaufwand die Hand des B über den Grundstücksvertrag (vis absoluta) – im Gegensatz dazu droht A, so lange auf B einzuschlagen, bis er unterschreibt (vis compulsiva).\n\n**Beispiel Biene (S. 15):** Bei einer Versteigerung wird der zuschauende A von einer Biene gestochen und reißt den Arm hoch. Objektiv liegt ein schlüssiges Gebot vor, es fehlt aber der Handlungswille → **keine Willenserklärung**.\n\n## Erklärungsbewusstsein (S. 15–18)\n\nDas Erklärungsbewusstsein (auch Erklärungswille) ist das Bewusstsein, **überhaupt eine rechtsgeschäftliche Erklärung** abzugeben; es genügt das Bewusstsein, dass das Verhalten als auf eine Rechtsfolge irgendwelchen Inhalts zielend aufgefasst werden kann.\n\n**Beispiele (S. 15):** Unterschrift unter ein Vertragsangebot im Glauben, es sei ein Glückwunschschreiben; **„Trierer Weinversteigerung“** – ein ortsfremder Besucher winkt einem Freund zu, ohne zu wissen, dass das Heben des Arms ein höheres Gebot bedeutet.\n\n**Streit (S. 16):**\n- *Willenstheorie* (Teile der Lehre): aktuelles Erklärungsbewusstsein erforderlich; fehlt es, ist die Erklärung **analog § 118 BGB nichtig** (Argument: Selbstbestimmung/Privatautonomie).\n- *Erklärungstheorie* (Rechtsprechung, wohl h.M.): aktuelles Erklärungsbewusstsein nicht erforderlich; es genügt das **potentielle Erklärungsbewusstsein** – der Erklärende hätte bei Anwendung der im Verkehr erforderlichen Sorgfalt erkennen und vermeiden können, dass sein Verhalten nach Treu und Glauben und der Verkehrssitte als Willenserklärung aufgefasst werden durfte (BGH NJW 1984, 2279). Der Erklärende trägt das Erklärungsrisiko, kann aber anfechten und haftet dann nach § 122 Abs. 1 BGB auf das Vertrauensinteresse.\n\n**Fall Bürgschaft der B-Bank (S. 16–18):** Die Bank teilt L irrtümlich mit, sie habe die Bürgschaft übernommen. L durfte das Schreiben als Angebot verstehen; die Bank hätte dies bei verkehrsüblicher Sorgfalt erkennen und vermeiden können → Angebot ist ihr **zuzurechnen**; L hat konkludent angenommen; Anspruch aus § 765 Abs. 1 BGB.\n\n## Geschäftswille (S. 18–19)\n\nDer Geschäftswille ist auf die Herbeiführung einer **bestimmten** Rechtsfolge gerichtet; er ist nicht mit dem (objektiven) Rechtsbindungswillen gleichzusetzen. Dass das BGB Abweichungen zwischen Geschäftswille und Erklärung nur mit einem **Anfechtungsrecht** beantwortet, spricht dafür, dass er **nicht zum Tatbestand** gehört. \n\n**Ergebnis der h.M. (S. 19):** Zwingend ist allein der **Handlungswille**; beim Erklärungsbewusstsein genügt das **potentielle**; der Geschäftswille ist **nicht konstitutiv** – fehlt oder weicht er ab, ist die Erklärung wirksam, aber ggf. nach §§ 119 ff. BGB anfechtbar (vgl. auch S. 25).",
+      "src": [{"doc": "BGB_2", "page": 14}, {"doc": "BGB_2", "page": 15}, {"doc": "BGB_2", "page": 16}, {"doc": "BGB_2", "page": 17}, {"doc": "BGB_2", "page": 18}, {"doc": "BGB_2", "page": 19}, {"doc": "BGB_2", "page": 25}]
+    },
+    {
+      "id": "s4",
+      "title": "Bewusste Willensmängel: geheimer Vorbehalt (§ 116) und Scheingeschäft (§ 117)",
+      "short": "Beim geheimen Vorbehalt handelt der Erklärende mit Erklärungsbewusstsein, aber ohne Geschäftswillen; der Vorbehalt ist unbeachtlich (§ 116 S. 1), die Erklärung aber nichtig, wenn der Empfänger ihn kennt (§ 116 S. 2). Eine im Einverständnis mit dem Empfänger nur zum Schein abgegebene Erklärung ist nichtig (§ 117 Abs. 1); ein verdecktes, gewolltes Geschäft ist nach den für es geltenden Vorschriften zu beurteilen (§ 117 Abs. 2).",
+      "long": "## Überblick (S. 19)\n\nMögliche Rechtsfolgen von Mängeln: **Nichtigkeit**, **Vernichtbarkeit durch Anfechtung** (§ 142 Abs. 1 BGB) oder **uneingeschränkte Wirksamkeit**, wenn der Adressat vertraut hat und der Erklärende nicht schutzwürdig ist. Die §§ 116–118 BGB regeln Fälle, in denen der Erklärende **bewusst** eine mangelhafte Erklärung abgibt.\n\n## Geheimer Vorbehalt, § 116 BGB (S. 19–20)\n\nDer Erklärende handelt **mit Erklärungsbewusstsein, aber ohne Geschäftswillen**. Das Vertrauen des Adressaten in eine bewusst abgegebene Erklärung verdient Schutz; § 116 lässt sich als gesetzliche Haftung für den veranlassten Rechtsschein verstehen.\n\n**Beispiel (S. 20):** A macht B ein Kaufangebot, behält sich aber insgeheim vor, den Vertrag nicht zu wollen, weil er auf einen höheren Preis hofft. B nimmt an. Der Vorbehalt ist nach **§ 116 S. 1** unbeachtlich; der Vertrag kommt zustande; eine Anfechtung ist nicht möglich.\n\n**Kenntnis** des Empfängers vom Vorbehalt → Erklärung **nichtig** (§ 116 S. 2).\n\n## Scheingeschäft, § 117 BGB (S. 20–22)\n\nWird eine Erklärung **im Einverständnis** mit dem Adressaten nur zum Schein abgegeben, fehlt der Geschäftswille und der Adressat ist nicht schutzwürdig → **nichtig** (§ 117 Abs. 1). Einverständnis heißt: Der Adressat weiß, dass der Erklärung keine rechtliche Bindung zukommen soll, und **billigt** dies. Liegt der Scheinwille nur auf einer Seite, handelt es sich um § 116 oder § 118.\n\n**Beispiel PKW (S. 20–21):** V und K vereinbaren einen Kauf für 4.250 €, schließen aus steuerlichen Gründen schriftlich zum Schein nur einen Leihvertrag. Der Leihvertrag ist nach § 117 Abs. 1 nichtig; der **verdeckte** Kaufvertrag ist nach **§ 117 Abs. 2** wirksam – K kann keine unentgeltliche Überlassung verlangen.\n\n**Übersicht (S. 21):**\n| Erklärender | Empfänger | Rechtsfolge |\n|---|---|---|\n| ohne Geschäftswille | keine Kenntnis | wirksam, § 116 S. 1 |\n| ohne Geschäftswille | Kenntnis | nichtig, § 116 S. 2 |\n| ohne Geschäftswille | Einverständnis | nichtig, § 117 Abs. 1 |\n| Geschäftswille für verdecktes Geschäft | ebenso | verdecktes Geschäft wirksam, § 117 Abs. 2 |\n\n**Beispiel GmbH-Anteil (S. 21, nach BGH NJW 1983, 1843):** Aufspaltung des Entgelts (75.000 €) in beurkundete 15.000 € und ein Schein-„Beratungshonorar“ zur Steuerhinterziehung: Die beurkundete Vereinbarung ist Scheingeschäft (§ 117 Abs. 1). Der Formmangel des verdeckten Kaufs (§ 15 Abs. 4 S. 1 GmbHG, § 125 BGB) wird durch die beurkundete Abtretung geheilt (§ 15 Abs. 4 S. 2 GmbHG); es bleibt die Frage der Nichtigkeit nach § 134 oder § 138 Abs. 1 BGB wegen § 370 AO.\n\n**Vertiefung (S. 21–22):** Bei „Schwarzkauf“ von Grundstücken (zu niedriger beurkundeter Preis) stellen sich § 311b Abs. 1 S. 1 und S. 2 BGB, § 134 BGB i.V.m. § 370 AO sowie § 817 S. 2 BGB.",
+      "src": [{"doc": "BGB_2", "page": 19}, {"doc": "BGB_2", "page": 20}, {"doc": "BGB_2", "page": 21}, {"doc": "BGB_2", "page": 22}]
+    },
+    {
+      "id": "s5",
+      "title": "Fehlendes Erklärungsbewusstsein: § 118 BGB und sonstige Fälle",
+      "short": "Die Scherzerklärung ist nach § 118 BGB nichtig, selbst wenn der Mangel der Ernstlichkeit nicht erkennbar war; der vertrauende Adressat erhält Ersatz des Vertrauensschadens nach § 122 BGB. In sonstigen Fällen fehlenden Erklärungsbewusstseins wird die Erklärung bei potentiellem Erklärungsbewusstsein zugerechnet, kann aber analog §§ 119, 121, 142 f. BGB angefochten werden (dann § 122 BGB). Fehlt selbst das potentielle Erklärungsbewusstsein, bleibt die Äußerung ohne Rechtsfolgen.",
+      "long": "## Mangel der Ernstlichkeit, § 118 BGB (S. 22)\n\nEine nicht ernstlich gemeinte Erklärung, die in der Erwartung abgegeben wird, der Mangel der Ernstlichkeit werde nicht verkannt, ist **nichtig**. Der Erklärende handelt ohne (subjektives) Erklärungsbewusstsein und ohne Geschäftswillen. § 118 ist der **einzige gesetzlich geregelte Fall** fehlenden Erklärungsbewusstseins (zusammen mit § 122). Die Nichtigkeit tritt auch ein, wenn der Mangel **objektiv nicht erkennbar** und die Erwartung des Erklärenden nicht gerechtfertigt war. Erkennt der Erklärende nachträglich, dass der Empfänger den „Scherz“ nicht erkennt, kann ihn eine Aufklärungspflicht treffen. Der Vertrauende ist durch **§ 122 BGB** geschützt.\n\n**Beispiel Aprilscherz (S. 22):** Vermieter S übergibt M am 1. April lächelnd eine Kündigung; M gibt Wohnungsanzeigen auf. Die Kündigung ist nach § 118 nichtig, der Mietvertrag besteht fort; S muss die Anzeigenkosten nach **§ 122 Abs. 1** ersetzen.\n\n## Sonstige Fälle (S. 23–25)\n\nNach h.M. genügt das **potentielle Erklärungsbewusstsein**: Hätte der Erklärende bei verkehrserforderlicher Sorgfalt erkennen und vermeiden können, dass seine Äußerung als Willenserklärung aufgefasst wird, wird er an ihr festgehalten (Vertrauensschutz).\n\nDie bloße Bindung ohne Lösungsmöglichkeit wäre mit §§ 118, 122 unvereinbar, wo der Empfänger nur das **negative Interesse** erhält. Zudem besteht kein grundsätzlicher Unterschied zum Erklärungs- oder Inhaltsirrtum (§ 119); die Fehlvorstellung ist beim fehlenden Erklärungsbewusstsein sogar größer (S. 23). Da aber **kein Irrtum i.S.v. § 119** vorliegt, ist eine direkte Anwendung nicht möglich → **analoge Anwendung der §§ 119, 121, 142 f. BGB** (ganz h.M.; S. 24).\n\n**Exkurs Analogie (S. 24):** (1) planwidrige Regelungslücke, (2) vergleichbare Interessenlage.\n\n**Auslegung vor Anfechtung (S. 24):** Zuerst ist durch Auslegung festzustellen, ob eine rechtsgeschäftliche Bindung zum Ausdruck gebracht wurde. Fehlt sogar das potentielle Erklärungsbewusstsein, bleibt die Erklärung **von vornherein** ohne Rechtsfolgen. Ficht der Erklärende an, haftet er nach **§ 122 Abs. 1**; nach **§ 122 Abs. 2** entfällt die Haftung, wenn der Adressat das Fehlen des Erklärungsbewusstseins kannte.\n\n**Lösung der Beispiele (S. 24–25):**\n- *Trierer Weinversteigerung:* Vom Besucher kann man verlangen, sich vorher über die Gepflogenheiten zu informieren; sein Verhalten wird ihm **zugerechnet**.\n- *Glückwunschschreiben:* Bei pflichtgemäßer Sorgfalt hätte der Unterzeichnende erkennen können, was er unterschreibt → Zurechnung; Anfechtungsrecht, bei Anfechtung ggf. Schadensersatz nach § 122.\n\n## Fehlen des Geschäftswillens (S. 25)\n\nDa der Geschäftswille nicht konstitutiv ist, hindert sein Fehlen die Willenserklärung nicht; die Fälle werden u.a. von **§ 119 Abs. 1 BGB direkt** erfasst (Anfechtung nach §§ 119, 121 f., 142 f.).",
+      "src": [{"doc": "BGB_2", "page": 22}, {"doc": "BGB_2", "page": 23}, {"doc": "BGB_2", "page": 24}, {"doc": "BGB_2", "page": 25}]
+    },
+    {
+      "id": "s6",
+      "title": "Erklärungen von und mithilfe technischer Einrichtungen (einschließlich KI)",
+      "short": "Werden Computer als Hilfsmittel verwendet, ist der Mensch Erklärender. Automatische Erklärungen nach einer Wenn-Dann-Regelung sind echte Willenserklärungen des Nutzers; die subjektiven Elemente liegen bei Einstellung der Regelung vor und wirken fort. Bei KI ist zwischen Hilfsmittel und autonomem System zu unterscheiden; eine Willenserklärung der KI selbst gibt es nicht, die Zurechnung autonomer Erklärungen ist ungeklärt.",
+      "long": "## Herkömmliche technische Hilfsmittel (S. 25)\n\nVerfasst und versendet jemand eine Erklärung per E-Mail oder versendet eine PDF, liegt menschliches Erklärungshandeln vor. Der Computer hat keine Fähigkeit zu einem eigenen Entschluss; er ist **Werkzeug**. Erklärender ist der zur Benutzung berechtigte Mensch; die Voraussetzungen sind erfüllt, soweit sich der Benutzer seiner Erklärung bewusst ist (nicht bei Reflexen oder ungewollten „Mausklicks“, Fn. 74).\n\n## Automatische Erklärungen (S. 25–26)\n\nDer Computer erzeugt Erklärungen als Reaktion auf Handlungen anderer nach einer **Wenn-Dann-Regelung**. Der Betreiber entscheidet frei, ob, mit welchem Inhalt und ob sie in den Verkehr gelangen → **echte Willenserklärungen des Nutzers**. Handlungswille, Erklärungsbewusstsein und Geschäftswille liegen nicht bei Erzeugung, aber **bei Einstellung der Regelung** vor und **wirken fort**.\n\n**Beispiele (S. 26):** Automatische Buchungsbestätigung der Hotelsoftware des A an R; „intelligenter“ Kühlschrank des P, der bei Unterschreiten eines Bestands ein vorgefertigtes Angebot an den Bauern mailt.\n\n## Künstliche Intelligenz (S. 26–28)\n\nKI-Systeme generieren – scheinbar autonom – aufgrund gelernter Verhaltensweisen Erklärungen, ohne strenge Wenn-Dann-Regelung; ihre Ausgaben sind in praktischer Zeit nicht vorherberechenbar. Zu unterscheiden:\n\n- **KI als Hilfsmittel** (z.B. spracherkennender Assistent): kein Unterschied zur Textverarbeitung. Liegt keine Handlung zugrunde → kein Handlungswille, keine WE; war keine Erklärung gewollt → kein Erklärungsbewusstsein. War eine Erklärung anderen Inhalts gewollt, kommt es darauf an, ob der Erklärende nach Treu und Glauben erkennen konnte, dass er diese Erklärung abgibt (Einzelfall) (S. 27).\n- **KI als autonomer Erklärender** (Beispiel: Kühlschrank, der Vorlieben analysiert, Rezepte sammelt und Supermarkt nach Preisvergleich auswählt, S. 27): Erklärungen müssen stets einer natürlichen oder juristischen Person zugerechnet werden; **eine Willenserklärung der KI selbst gibt es nicht**. Die Einordnung ist **ungeklärt**; Ansätze: eigene WE des Verwenders, künstlich-intelligenter Bote, künstlich-intelligenter Stellvertreter (analog), Blanketthaftung, Risikoprinzip/Vertrauenshaftung/Zurechnung kraft Status (S. 27–28).",
+      "src": [{"doc": "BGB_2", "page": 25}, {"doc": "BGB_2", "page": 26}, {"doc": "BGB_2", "page": 27}, {"doc": "BGB_2", "page": 28}]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rechtsgeschäft",
+      "text": "Rechtshandlung, deren erklärte Rechtsfolge nach der Rechtsordnung (nur) deshalb eintritt, weil sie gewollt ist; es besteht aus mindestens einer Willenserklärung.",
+      "norm": "nicht im BGB definiert",
+      "src": [{"doc": "BGB_2", "page": 5}]
+    },
+    {
+      "term": "Willenserklärung",
+      "text": "Erklärung, mit der eine Person ihren Willen kundtut, eine Rechtsfolge herbeizuführen; sie besteht aus dem auf einen Rechtserfolg gerichteten inneren Willen (subjektiver Tatbestand) und dessen äußerlich wahrnehmbarer Kundgabe (objektiver Tatbestand).",
+      "norm": "vorausgesetzt in §§ 105, 116, 119, 130 BGB",
+      "src": [{"doc": "BGB_2", "page": 6}, {"doc": "BGB_2", "page": 7}]
+    },
+    {
+      "term": "Objektiver Tatbestand der Willenserklärung",
+      "text": "Die für andere Personen erkennbare Kundgabe des Willens, eine Rechtsfolge herbeizuführen, also eine sinnlich wahrnehmbare Erklärungshandlung (ausdrücklich oder konkludent), auszulegen nach dem objektiven Empfängerhorizont.",
+      "norm": "§§ 133, 157 BGB",
+      "src": [{"doc": "BGB_2", "page": 8}]
+    },
+    {
+      "term": "Rechtsbindungswille",
+      "text": "Element des objektiven Erklärungstatbestands: Ob sich dem Verhalten aus Sicht des Erklärungsempfängers nach Treu und Glauben mit Rücksicht auf die Verkehrssitte der Wunsch beimessen lässt, eine rechtliche Bindung herbeizuführen; der nicht in Erscheinung getretene innere Wille ist unerheblich.",
+      "norm": "§§ 133, 157 BGB",
+      "src": [{"doc": "BGB_2", "page": 9}, {"doc": "BGB_2", "page": 18}]
+    },
+    {
+      "term": "Gefälligkeit (ohne rechtsgeschäftlichen Charakter)",
+      "text": "Unentgeltliche Leistung, bei der ein auf einen Rechtserfolg gerichteter Wille objektiv nicht zum Ausdruck gebracht wurde (kein Rechtsbindungswille); sie begründet keine primären Leistungspflichten und ist von gesetzlich geregelten Gefälligkeitsverträgen (z.B. §§ 516, 598, 662 BGB) abzugrenzen.",
+      "norm": "Abgrenzung zu §§ 516, 598, 662 BGB",
+      "src": [{"doc": "BGB_2", "page": 10}, {"doc": "BGB_2", "page": 11}]
+    },
+    {
+      "term": "Handlungswille",
+      "text": "Der Wille, überhaupt einen Erklärungsakt vorzunehmen (auch Betätigungswille); unstreitig konstitutiv. Er fehlt bei Bewegungen im Schlaf, Reflexen und unter vis absoluta.",
+      "norm": "",
+      "src": [{"doc": "BGB_2", "page": 14}]
+    },
+    {
+      "term": "Erklärungsbewusstsein",
+      "text": "Das subjektive Bewusstsein, überhaupt eine rechtsgeschäftliche Erklärung abzugeben; es genügt das Bewusstsein, dass das Verhalten als auf Verwirklichung einer Rechtsfolge irgendwelchen Inhalts zielend aufgefasst werden kann (auch: Erklärungswille).",
+      "norm": "",
+      "src": [{"doc": "BGB_2", "page": 15}]
+    },
+    {
+      "term": "Potentielles Erklärungsbewusstsein",
+      "text": "Liegt vor, wenn der Erklärende bei Anwendung der im Verkehr erforderlichen Sorgfalt hätte erkennen und vermeiden können, dass seine Äußerung nach Treu und Glauben und der Verkehrssitte als Willenserklärung aufgefasst werden durfte, und der Empfänger sie auch tatsächlich so verstanden hat; nach Rechtsprechung und h.M. erforderlich, aber ausreichend.",
+      "norm": "BGH NJW 1984, 2279",
+      "src": [{"doc": "BGB_2", "page": 16}, {"doc": "BGB_2", "page": 19}]
+    },
+    {
+      "term": "Geschäftswille",
+      "text": "Der auf die rechtsgeschäftliche Herbeiführung einer bestimmten Rechtsfolge gerichtete Wille; nach h.M. kein konstitutiver Bestandteil der Willenserklärung – Fehlen oder Abweichung führt nur zur Anfechtbarkeit nach §§ 119 ff. BGB.",
+      "norm": "§§ 119 ff. BGB",
+      "src": [{"doc": "BGB_2", "page": 18}, {"doc": "BGB_2", "page": 19}]
+    },
+    {
+      "term": "Einverständnis i.S.d. § 117 Abs. 1 BGB",
+      "text": "Liegt vor, wenn der Adressat weiß, dass der abgegebenen Erklärung eine rechtliche Bindung nicht zukommen soll, und er dies billigt; liegt der Scheinwille nur auf einer Seite, greift § 116 oder § 118 BGB.",
+      "norm": "§ 117 Abs. 1 BGB",
+      "src": [{"doc": "BGB_2", "page": 20}]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Prüfung: Liegt eine Willenserklärung vor?",
+      "steps": [
+        "1. Objektiver Tatbestand: äußerlich wahrnehmbare Erklärungshandlung (ausdrücklich oder konkludent), die aus Sicht eines objektiven Empfängers (§§ 133, 157 BGB) auf die Herbeiführung einer Rechtsfolge gerichtet ist (Rechtsbindungswille); Abgrenzung zur bloßen Gefälligkeit und zur invitatio ad offerendum. Fehlt er: keine Willenserklärung.",
+        "2. Handlungswille: Wille, überhaupt einen Erklärungsakt vorzunehmen (fehlt bei Reflex, Schlaf, vis absoluta). Fehlt er: keine Willenserklärung.",
+        "3. Erklärungsbewusstsein: Lag aktuelles Erklärungsbewusstsein vor? Wenn nein: potentielles Erklärungsbewusstsein (bei verkehrserforderlicher Sorgfalt erkennbar und vermeidbar, Empfänger hat tatsächlich so verstanden)? Wenn ja: Willenserklärung wird zugerechnet, anfechtbar analog §§ 119, 121, 142 f. BGB, ggf. § 122 BGB. Wenn nein: keine Willenserklärung. Sonderfall Scherzerklärung: § 118 BGB (nichtig, § 122 BGB).",
+        "4. Geschäftswille: nach h.M. nicht konstitutiv; fehlt er oder weicht er ab, ist die Willenserklärung wirksam, aber ggf. nach §§ 119 ff. BGB anfechtbar.",
+        "5. Bewusste Willensmängel prüfen: geheimer Vorbehalt (§ 116 S. 1 unbeachtlich; § 116 S. 2 nichtig bei Kenntnis), Scheingeschäft (§ 117 Abs. 1 nichtig; verdecktes Geschäft § 117 Abs. 2)."
+      ],
+      "src": [{"doc": "BGB_2", "page": 7}, {"doc": "BGB_2", "page": 9}, {"doc": "BGB_2", "page": 14}, {"doc": "BGB_2", "page": 19}, {"doc": "BGB_2", "page": 20}, {"doc": "BGB_2", "page": 24}, {"doc": "BGB_2", "page": 51}]
+    },
+    {
+      "title": "Prüfungspunkte bei Gefälligkeiten",
+      "steps": [
+        "1. Rechtsbindungswille? Auslegung nach §§ 133, 157 BGB anhand von Art des Geschäfts, wirtschaftlicher Bedeutung, Wert einer anvertrauten Sache, erkennbarem Interesse und erkennbarer Gefahr; (+) Gefälligkeitsvertrag (z.B. §§ 516, 598, 662 BGB), (–) bloße Gefälligkeit ohne Hauptleistungspflichten.",
+        "2. Haftung bei bloßer Gefälligkeit: deliktisch nach §§ 823 ff. BGB; ob Schutzpflichten nach § 241 Abs. 2 BGB mit Haftung aus § 280 Abs. 1 BGB bestehen, ist Einzelfallentscheidung.",
+        "3. Haftungserleichterung? Analogie zu §§ 521, 599, 690 BGB (Teile der Literatur) oder ergänzende Vertragsauslegung nach § 242 BGB/hypothetischem Parteiwillen (Rechtsprechung): kein Haftpflichtversicherungsschutz, nicht hinzunehmendes Haftungsrisiko, besondere Umstände."
+      ],
+      "src": [{"doc": "BGB_2", "page": 10}, {"doc": "BGB_2", "page": 11}, {"doc": "BGB_2", "page": 12}, {"doc": "BGB_2", "page": 13}]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welches Element des subjektiven Tatbestands ist nach heute h.M. als einziges zwingende Voraussetzung einer Willenserklärung (ohne dass ein bloß potentielles Vorliegen genügt)?",
+      "options": ["Handlungswille", "Erklärungsbewusstsein", "Geschäftswille", "Rechtsbindungswille"],
+      "answer": [0],
+      "explanation": "Nach h.M. gehört allein der Handlungswille zu den zwingenden subjektiven Voraussetzungen. Beim Erklärungsbewusstsein genügt das potentielle, der Geschäftswille ist nicht konstitutiv. Der Rechtsbindungswille gehört zum objektiven Tatbestand.",
+      "hints": ["Ein Element ist unstreitig konstitutiv.", "Der Rechtsbindungswille ist trotz seines Namens kein subjektives Element."],
+      "src": [{"doc": "BGB_2", "page": 14}, {"doc": "BGB_2", "page": 19}]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Das BGB enthält eine gesetzliche Definition der Willenserklärung.",
+      "answer": false,
+      "explanation": "Das BGB verwendet den Begriff an vielen Stellen (z.B. §§ 105, 116, 119, 130), definiert ihn aber ebenso wenig wie das Rechtsgeschäft.",
+      "hints": ["Denken Sie an die Rechtswissenschaft des 19. Jahrhunderts."],
+      "src": [{"doc": "BGB_2", "page": 5}, {"doc": "BGB_2", "page": 6}]
+    },
+    {
+      "id": "q3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Der subjektive Tatbestand einer Willenserklärung lässt sich untergliedern in {{1}}, {{2}} und {{3}}.",
+      "blanks": [["Handlungswille", "Handlungswillen", "Betätigungswille"], ["Erklärungsbewusstsein", "Erklärungsbewußtsein", "Erklärungswille"], ["Geschäftswille", "Geschäftswillen"]],
+      "explanation": "So die Gliederung des Skripts: Handlungswille, Erklärungsbewusstsein und Geschäftswille bilden den inneren Tatbestand; die Kundgabe den äußeren.",
+      "hints": ["Vom Allgemeinen (Handeln überhaupt) zum Speziellen (bestimmte Rechtsfolge)."],
+      "src": [{"doc": "BGB_2", "page": 7}]
+    },
+    {
+      "id": "q4",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm der zutreffenden Rechtsfolge zu.",
+      "pairs": [
+        ["§ 116 S. 1 BGB", "Geheimer Vorbehalt ist unbeachtlich, Erklärung wirksam"],
+        ["§ 116 S. 2 BGB", "Nichtigkeit bei Kenntnis des Empfängers vom Vorbehalt"],
+        ["§ 117 Abs. 1 BGB", "Nichtigkeit der einverständlich zum Schein abgegebenen Erklärung"],
+        ["§ 117 Abs. 2 BGB", "Verdecktes, gewolltes Geschäft ist nach den für es geltenden Vorschriften zu beurteilen"],
+        ["§ 118 BGB", "Nichtigkeit der nicht ernstlich gemeinten Erklärung"],
+        ["§ 122 Abs. 1 BGB", "Ersatz des Vertrauensschadens"]
+      ],
+      "explanation": "Vgl. die Übersicht S. 21 sowie zu § 118 und § 122 S. 22.",
+      "hints": ["§ 116 unterscheidet nach Kenntnis des Empfängers.", "§ 122 gewährt das negative Interesse."],
+      "src": [{"doc": "BGB_2", "page": 20}, {"doc": "BGB_2", "page": 21}, {"doc": "BGB_2", "page": 22}]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wie ordnet das Skript den „Rechtsbindungswillen“ systematisch ein?",
+      "options": [
+        "Als Element des objektiven Erklärungstatbestands, zu ermitteln aus Sicht des Erklärungsempfängers",
+        "Als Synonym für den Geschäftswillen im subjektiven Tatbestand",
+        "Als Unterfall des Erklärungsbewusstseins, das tatsächlich beim Erklärenden vorliegen muss",
+        "Als Wirksamkeitsvoraussetzung, die erst bei der Anfechtung nach § 119 BGB geprüft wird"
+      ],
+      "answer": [0],
+      "explanation": "Der Rechtsbindungswille ist dem objektiven Erklärungstatbestand zuzuordnen; maßgeblich ist, ob sich dem Verhalten aus Empfängersicht der Wunsch nach rechtlicher Bindung beimessen lässt (BGHZ 21, 102). Er ist nicht mit dem Geschäftswillen gleichzusetzen.",
+      "hints": ["Es geht nicht um den nicht in Erscheinung getretenen inneren Willen."],
+      "src": [{"doc": "BGB_2", "page": 9}, {"doc": "BGB_2", "page": 18}]
+    },
+    {
+      "id": "q6",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Gesichtspunkte zieht man nach dem Skript für die Feststellung des Rechtsbindungswillens bei einer Gefälligkeit heran? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Art des zu erledigenden Geschäfts",
+        "Die wirtschaftliche Bedeutung der Angelegenheit",
+        "Das erkennbare Interesse des Begünstigten und die erkennbare Gefahr bei fehlerhafter Leistung",
+        "Die Unentgeltlichkeit, die den rechtsgeschäftlichen Charakter stets ausschließt",
+        "Der nicht geäußerte innere Wille des Leistenden"
+      ],
+      "answer": [0, 1, 2],
+      "explanation": "Relevant sind Art, wirtschaftliche Bedeutung, Wert einer anvertrauten Sache sowie erkennbares Interesse und Gefahr. Unentgeltlichkeit allein schließt den rechtsgeschäftlichen Charakter nicht aus (vgl. §§ 516, 598, 662). Auf den inneren Willen kommt es nicht an.",
+      "hints": ["Denken Sie an Schenkung, Leihe und Auftrag.", "Maßstab ist der objektive Empfängerhorizont."],
+      "src": [{"doc": "BGB_2", "page": 9}, {"doc": "BGB_2", "page": 10}, {"doc": "BGB_2", "page": 11}]
+    },
+    {
+      "id": "q7",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Eine Scherzerklärung ist nach § 118 BGB auch dann nichtig, wenn der Mangel der Ernstlichkeit für Dritte objektiv nicht erkennbar war.",
+      "answer": true,
+      "explanation": "Nach dem Wortlaut des § 118 BGB ist die Erklärung auch dann nichtig, wenn die Erwartung des Erklärenden nicht gerechtfertigt war. Der vertrauende Adressat wird über § 122 BGB geschützt.",
+      "hints": ["Der Schutz des Empfängers erfolgt auf Sekundärebene."],
+      "src": [{"doc": "BGB_2", "page": 22}]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bei einer Versteigerung wird der zuschauende A von einer Biene gestochen und reißt vor Schmerz den Arm hoch. Der Auktionator erteilt ihm den Zuschlag. Wie ist die Rechtslage?",
+      "options": [
+        "A hat mangels Handlungswillens keine Willenserklärung abgegeben.",
+        "A hat eine Willenserklärung abgegeben, die er analog § 119 BGB anfechten kann.",
+        "A hat eine wirksame Willenserklärung abgegeben, weil der objektive Tatbestand vorliegt.",
+        "Die Erklärung ist nach § 118 BGB nichtig; A haftet nach § 122 BGB."
+      ],
+      "answer": [0],
+      "explanation": "Objektiv liegt ein schlüssiges Gebot vor, es fehlt aber der unstreitig konstitutive Handlungswille, da nur eine Reflexbewegung vorliegt. Es gibt daher keine Willenserklärung, die angefochten werden müsste.",
+      "hints": ["Wollte A überhaupt eine Handlung vornehmen?"],
+      "src": [{"doc": "BGB_2", "page": 14}, {"doc": "BGB_2", "page": 15}]
+    },
+    {
+      "id": "q9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Trierer Weinversteigerung: Ein ortsfremder Besucher winkt einem Freund zu, ohne zu wissen, dass das Heben des Arms ein höheres Gebot bedeutet. Wie ist der Fall nach der vom Skript vertretenen h.M. zu lösen?",
+      "options": [
+        "Die Erklärung wird dem Besucher zugerechnet; er kann sie analog §§ 119, 121, 142 f. BGB anfechten, haftet dann aber nach § 122 Abs. 1 BGB.",
+        "Die Erklärung ist analog § 118 BGB nichtig, weil das aktuelle Erklärungsbewusstsein fehlt.",
+        "Es liegt mangels Handlungswillens keine Willenserklärung vor.",
+        "Die Erklärung ist wirksam und unanfechtbar, weil das Fehlen des Erklärungsbewusstseins kein Irrtum ist."
+      ],
+      "answer": [0],
+      "explanation": "Der Besucher hat Handlungswillen, aber kein aktuelles Erklärungsbewusstsein. Von ihm kann verlangt werden, sich über die Gepflogenheiten zu informieren (potentielles Erklärungsbewusstsein), daher wird ihm das Verhalten zugerechnet. Mangels Irrtums i.S.v. § 119 gelten die Anfechtungsregeln analog; bei Anfechtung haftet er nach § 122. Die Nichtigkeit analog § 118 entspricht der Willenstheorie (Mindermeinung).",
+      "hints": ["Handlungswille liegt vor – er wollte winken.", "Endgültige Bindung ohne Lösungsmöglichkeit wäre mit §§ 118, 122 unvereinbar."],
+      "src": [{"doc": "BGB_2", "page": 15}, {"doc": "BGB_2", "page": 16}, {"doc": "BGB_2", "page": 23}, {"doc": "BGB_2", "page": 24}]
+    },
+    {
+      "id": "q10",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte bei einer Erklärung ohne aktuelles Erklärungsbewusstsein in die richtige Reihenfolge.",
+      "items": [
+        "Auslegung: Hat das Verhalten objektiv eine rechtsgeschäftliche Bindung zum Ausdruck gebracht?",
+        "Lag Handlungswille vor?",
+        "Fehlt das aktuelle Erklärungsbewusstsein?",
+        "Lag potentielles Erklärungsbewusstsein vor (Erkennbarkeit und Vermeidbarkeit bei verkehrserforderlicher Sorgfalt)?",
+        "Anfechtung analog §§ 119, 121, 142 f. BGB",
+        "Schadensersatzpflicht nach § 122 BGB"
+      ],
+      "explanation": "„Auslegung vor Anfechtung“: Zunächst ist der objektive Tatbestand festzustellen; dann Handlungswille; erst bei fehlendem aktuellem, aber vorhandenem potentiellem Erklärungsbewusstsein kommt die analoge Anfechtung in Betracht, an die § 122 anknüpft.",
+      "hints": ["Die Anfechtung setzt eine zunächst zugerechnete Erklärung voraus."],
+      "src": [{"doc": "BGB_2", "page": 24}]
+    },
+    {
+      "id": "q11",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Stellen Sie den Streit um die Bedeutung des Erklärungsbewusstseins dar (Willenstheorie und Erklärungstheorie) und begründen Sie, warum die h.M. die Anfechtungsregeln analog anwendet.",
+      "modelAnswer": "Nach der Willenstheorie (Teile der Lehre) ist das aktuelle Erklärungsbewusstsein konstitutiv; fehlt es, ist die Erklärung analog § 118 BGB nichtig. Begründet wird dies mit der Selbstbestimmung als Teil der Privatautonomie. Rechtsprechung und h.M. (Erklärungstheorie) halten das aktuelle Erklärungsbewusstsein für entbehrlich; erforderlich und ausreichend ist das potentielle Erklärungsbewusstsein: Der Erklärende hätte bei Anwendung der im Verkehr erforderlichen Sorgfalt erkennen und vermeiden können, dass sein Verhalten nach Treu und Glauben und der Verkehrssitte als Willenserklärung aufgefasst werden durfte, und der Empfänger hat es so verstanden (BGH NJW 1984, 2279). Damit wird das Vertrauen des Verkehrs geschützt; der Erklärende trägt das Erklärungsrisiko. Eine dauerhafte Bindung wäre aber mit §§ 118, 122 BGB unvereinbar, wo der Empfänger nur das negative Interesse erhält. Zudem besteht kein grundsätzlicher Unterschied zum Erklärungs- oder Inhaltsirrtum; die Fehlvorstellung ist sogar größer. Da kein Irrtum i.S.v. § 119 BGB vorliegt, sind §§ 119, 121, 142 f. BGB analog anzuwenden; bei Anfechtung haftet der Erklärende nach § 122 Abs. 1 BGB, sofern nicht § 122 Abs. 2 eingreift.",
+      "rubric": [
+        "Willenstheorie: aktuelles Erklärungsbewusstsein nötig, sonst Nichtigkeit analog § 118",
+        "Erklärungstheorie/h.M.: potentielles Erklärungsbewusstsein genügt, Definition korrekt",
+        "Argument Verkehrs-/Vertrauensschutz",
+        "Argument Wertung §§ 118, 122 und Vergleichbarkeit mit § 119-Irrtum",
+        "Analoge (nicht direkte) Anwendung der §§ 119, 121, 142 f.; Folge § 122"
+      ],
+      "hints": ["Was gilt nach § 118 BGB für den Empfänger?", "Warum nur analog?"],
+      "src": [{"doc": "BGB_2", "page": 16}, {"doc": "BGB_2", "page": 23}, {"doc": "BGB_2", "page": 24}]
+    },
+    {
+      "id": "q12",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "A trifft den ihm unbekannten B im ICE Karlsruhe–Hannover. In Koblenz bittet A den B, ihn vor der Einfahrt in Köln Hbf zu wecken, weil er dort aussteigen müsse. Beide schlafen ein; B wacht erst in Wuppertal auf. A versäumt in Köln einen wichtigen Termin, wodurch ihm ein Schaden von 500 € entsteht. Hat A gegen B einen vertraglichen Schadensersatzanspruch?",
+      "modelAnswer": "A könnte gegen B einen Anspruch auf Schadensersatz aus §§ 280 ff. BGB haben. Dann müsste zwischen A und B ein Vertrag, zu denken ist an einen Auftrag (§ 662 BGB), zustande gekommen sein. Dies setzt voraus, dass beide ihren Willen, sich rechtlich zu binden, zum Ausdruck gebracht haben (Rechtsbindungswille), was aus Sicht eines objektiven Empfängers zu beurteilen ist. Kriterien sind u.a. die wirtschaftliche Bedeutung und die erkennbare Gefahr bei fehlerhafter Leistung. B war die wirtschaftliche Bedeutung des Weckens nicht bekannt; er kannte die Gefahr nicht, in die A geraten konnte. Das war für A erkennbar, da er B über den Termin nicht informiert hatte. Es liegt daher eine bloße Gefälligkeit ohne rechtsgeschäftlichen Charakter vor. Mangels Willenserklärung des B ist kein Vertrag zustande gekommen; A hat keinen vertraglichen Schadensersatzanspruch.",
+      "rubric": [
+        "Anspruchsgrundlage §§ 280 ff. BGB; Vertrag (Auftrag, § 662) erforderlich",
+        "Rechtsbindungswille als objektives Kriterium aus Empfängersicht",
+        "Subsumtion: fehlende Kenntnis von wirtschaftlicher Bedeutung und Gefahr, für A erkennbar",
+        "Ergebnis: bloße Gefälligkeit, kein vertraglicher Anspruch"
+      ],
+      "hints": ["Welchen Vertragstyp könnte man erwägen?", "Wusste B, was für A auf dem Spiel stand?"],
+      "src": [{"doc": "BGB_2", "page": 13}, {"doc": "BGB_2", "page": 14}]
+    },
+    {
+      "id": "q13",
+      "type": "cloze",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "V verkauft seinem Freund K einen PKW für 4.250 €; aus steuerlichen Gründen schließen beide schriftlich zum Schein nur einen Leihvertrag. Der Leihvertrag ist nach {{1}} nichtig; der verdeckte Kaufvertrag ist nach {{2}} wirksam.",
+      "blanks": [["§ 117 Abs. 1 BGB", "§ 117 I BGB", "§ 117 Abs. 1", "§ 117 I"], ["§ 117 Abs. 2 BGB", "§ 117 II BGB", "§ 117 Abs. 2", "§ 117 II"]],
+      "explanation": "Die einverständlich zum Schein abgegebenen Erklärungen sind nach § 117 Abs. 1 nichtig; das verdeckte, von beiden gewollte Geschäft ist nach § 117 Abs. 2 wirksam, sodass beide Erfüllung des Kaufvertrags verlangen können.",
+      "hints": ["Beide Normen finden sich in derselben Vorschrift."],
+      "src": [{"doc": "BGB_2", "page": 20}, {"doc": "BGB_2", "page": 21}]
+    },
+    {
+      "id": "q14",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wie ist eine unter vis compulsiva (Drohung mit Schlägen) unterschriebene Vertragserklärung einzuordnen?",
+      "options": [
+        "Es liegt eine Willenserklärung vor, die nach § 123 BGB angefochten werden kann.",
+        "Es liegt mangels Handlungswillens keine Willenserklärung vor.",
+        "Die Erklärung ist nach § 116 S. 2 BGB nichtig.",
+        "Die Erklärung ist nach § 118 BGB nichtig."
+      ],
+      "answer": [0],
+      "explanation": "Bei vis compulsiva findet trotz Drohung eine Willensbetätigung statt; der Gesetzgeber ermöglicht die Anfechtung nach § 123 BGB. Nur bei vis absoluta (körperliche Überwältigung) fehlt der Handlungswille.",
+      "hints": ["Unterscheiden Sie physischen und psychischen Zwang."],
+      "src": [{"doc": "BGB_2", "page": 14}, {"doc": "BGB_2", "page": 15}]
+    },
+    {
+      "id": "q15",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "P hat seinen „intelligenten“ Kühlschrank so programmiert, dass bei Unterschreiten eines Bestands automatisch ein vorgefertigtes Kaufangebot an den Bauern gemailt wird. Dieses Angebot ist keine Willenserklärung des P, weil im Zeitpunkt der Erzeugung der Mail kein Handlungswille des P vorliegt.",
+      "answer": false,
+      "explanation": "Bei automatischen Erklärungen nach einer Wenn-Dann-Regelung handelt es sich um echte Willenserklärungen des Nutzers. Handlungswille, Erklärungsbewusstsein und Geschäftswille liegen bei Einstellung der Regelung vor und wirken fort.",
+      "hints": ["Wer entscheidet über Inhalt und Inverkehrbringen der Erklärung?"],
+      "src": [{"doc": "BGB_2", "page": 25}, {"doc": "BGB_2", "page": 26}]
+    },
+    {
+      "id": "q16",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu Erklärungen unter Einsatz Künstlicher Intelligenz treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Eine Willenserklärung der KI selbst gibt es nicht; Erklärungen müssen einer natürlichen oder juristischen Person zugerechnet werden.",
+        "Wird KI nur als Hilfsmittel der Verkörperung eingesetzt, macht es keinen Unterschied zur Verwendung einer Textverarbeitung.",
+        "Die Zurechnung von Erklärungen autonom agierender Systeme ist noch nicht geklärt; diskutiert werden u.a. Botenschaft und Stellvertretung (analog).",
+        "Autonome KI-Systeme sind nach geltendem Recht als Stellvertreter i.S.d. § 164 BGB anerkannt.",
+        "KI-Erklärungen sind stets nach § 118 BGB nichtig, weil der KI das Erklärungsbewusstsein fehlt."
+      ],
+      "answer": [0, 1, 2],
+      "explanation": "Das Skript unterscheidet KI als Hilfsmittel (wie Textverarbeitung) und KI als autonomen Erklärenden. Für Letzteres ist die Einordnung ungeklärt; genannt werden eigene WE des Verwenders, künstlich-intelligenter Bote, Stellvertreter (analog), Blanketthaftung, Risikoprinzip/Vertrauenshaftung. Eine anerkannte Stellvertretung oder Nichtigkeit nach § 118 nennt das Skript nicht.",
+      "hints": ["Das Skript zählt mehrere Zurechnungsansätze auf, ohne sich festzulegen."],
+      "src": [{"doc": "BGB_2", "page": 27}, {"doc": "BGB_2", "page": 28}]
+    },
+    {
+      "id": "q17",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Grenzen Sie § 116 S. 2 BGB von § 117 Abs. 1 BGB ab und erläutern Sie, warum der Gesetzgeber in § 116 S. 1 BGB die Erklärung trotz fehlenden Geschäftswillens für wirksam erklärt.",
+      "modelAnswer": "In beiden Fällen fehlt dem Erklärenden der Geschäftswille. § 116 S. 2 BGB greift, wenn der Empfänger den geheimen Vorbehalt bloß kennt; § 117 Abs. 1 BGB setzt ein Einverständnis voraus, d.h. der Adressat weiß, dass der Erklärung keine rechtliche Bindung zukommen soll, und billigt dies. Liegt der Scheinwille nur auf einer Seite, ist § 116 oder § 118 einschlägig. Beide Normen ordnen Nichtigkeit an, weil der Empfänger nicht schutzwürdig ist. § 116 S. 1 BGB erklärt den Vorbehalt dagegen für unbeachtlich, weil der Erklärende bewusst, mit Erklärungsbewusstsein, einen Erklärungstatbestand geschaffen hat und das Vertrauen des ahnungslosen Adressaten Schutz verdient; man kann dies als gesetzliche Haftung für den veranlassten Rechtsschein verstehen. Eine Anfechtung ist nicht möglich.",
+      "rubric": [
+        "Gemeinsamkeit: fehlender Geschäftswille bei vorhandenem Erklärungsbewusstsein",
+        "§ 116 S. 2: bloße Kenntnis; § 117 I: Einverständnis (Wissen und Billigen)",
+        "Einseitiger Scheinwille → § 116 oder § 118",
+        "Begründung § 116 S. 1: Vertrauensschutz, Rechtsscheinhaftung, keine Anfechtung"
+      ],
+      "hints": ["Kenntnis ist weniger als Einverständnis."],
+      "src": [{"doc": "BGB_2", "page": 19}, {"doc": "BGB_2", "page": 20}, {"doc": "BGB_2", "page": 21}]
+    }
+  ],
+  "case": {
+    "title": "Die irrtümliche Bürgschaftserklärung der B-Bank",
+    "facts": "Die Firma A befindet sich in finanziellen Schwierigkeiten. Ihr Lieferant L macht weitere Lieferungen davon abhängig, dass A zur Sicherung rückständiger Verbindlichkeiten eine Bankbürgschaft über 25.000 € beibringt. A erklärt, sie werde sich um eine Bürgschaft der B-Bank bemühen. Wenige Tage später erhält L ein Schreiben der B-Bank: „Unsere Bürgschaft in Höhe von 25.000 € zugunsten Firma A. Zugunsten der Firma A haben wir gegenüber Ihrer Firma die selbstschuldnerische Bürgschaft in Höhe von 25.000 € übernommen. Bitte teilen Sie uns möglichst bald mit, wie hoch sich die Verpflichtungen der Firma A bei Ihnen derzeit belaufen.“ L bestätigt den Eingang und teilt mit, es bestünden rückständige Verbindlichkeiten von 27.500 €, die nunmehr weitgehend abgesichert seien. Die B-Bank antwortet, sie habe keine Bürgschaft übernommen; über den Antrag des A sei noch nicht abschließend entschieden worden, man sei infolge eines Irrtums von einem bereits zustande gekommenen Bürgschaftsvertrag ausgegangen und habe sich zu keiner Zeit rechtlich binden wollen. Nachdem A in die Insolvenz geraten ist, nimmt L die B-Bank aus der Bürgschaft in Anspruch.",
+    "question": "Hat L gegen die B-Bank einen Anspruch auf Zahlung von 25.000 € aus § 765 Abs. 1 BGB? (Die Frage einer Anfechtung ist nicht zu prüfen.)",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "L könnte gegen die B-Bank einen Anspruch auf Zahlung von 25.000 € gemäß § 765 Abs. 1 BGB haben. Dann müsste zwischen L und der B-Bank ein Bürgschaftsvertrag zustande gekommen sein. Das Angebot hierzu könnte im ersten Schreiben der B-Bank an L liegen.",
+        "rubric": ["Anspruchsgrundlage § 765 Abs. 1 BGB genannt", "Konjunktiv („könnte“)", "Voraussetzung Bürgschaftsvertrag durch Angebot und Annahme benannt"],
+        "hints": ["Wer will was von wem woraus?"]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie die für das Problem maßgeblichen Begriffe (Willenserklärung, Erklärungsbewusstsein, potentielles Erklärungsbewusstsein).",
+        "model": "Eine Willenserklärung ist eine Erklärung, mit der eine Person ihren Willen kundtut, eine Rechtsfolge herbeizuführen. Sie setzt objektiv eine Erklärungshandlung voraus, die aus Sicht eines objektiven Empfängers auf eine rechtliche Bindung gerichtet ist. Subjektiv ist das Erklärungsbewusstsein das Bewusstsein, überhaupt eine rechtsgeschäftliche Erklärung abzugeben. Fehlt das aktuelle Erklärungsbewusstsein, liegt nach Rechtsprechung und h.M. gleichwohl eine Willenserklärung vor, wenn der Erklärende bei Anwendung der im Verkehr erforderlichen Sorgfalt hätte erkennen und vermeiden können, dass seine Äußerung nach Treu und Glauben und der Verkehrssitte als Willenserklärung aufgefasst werden durfte, und wenn der Empfänger sie auch tatsächlich so verstanden hat (potentielles Erklärungsbewusstsein).",
+        "rubric": ["Objektiver Tatbestand mit Empfängerhorizont", "Definition Erklärungsbewusstsein", "Vollständige Definition des potentiellen Erklärungsbewusstseins inkl. tatsächlichem Verständnis des Empfängers"],
+        "hints": ["Die Formel stammt aus BGH NJW 1984, 2279.", "Zwei Elemente: Erkennbarkeit/Vermeidbarkeit und tatsächliches Verständnis."]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie den Sachverhalt unter diese Voraussetzungen und prüfen Sie auch die Annahme durch L.",
+        "model": "Bedenken bestehen hinsichtlich des Erklärungsbewusstseins der B-Bank, da sie geltend macht, ohne Willen zur rechtlichen Bindung gehandelt zu haben; ein aktuelles Erklärungsbewusstsein fehlte. L konnte dem Wortlaut des Schreibens jedoch entnehmen, dass die zuständigen Gremien intern einem Bürgschaftsantrag zugestimmt hatten, zumal A zuvor erklärt hatte, sich um eine Bürgschaft der B-Bank zu bemühen. Die Erklärung erfüllt zudem die sonstigen Anforderungen an eine Bürgschaftsverpflichtung: Der Hauptschuldner A ist zweifelsfrei bezeichnet, die gesicherten Forderungen aus Warenlieferungen des L an A sind hinreichend bestimmbar. Ein objektiver Beobachter hätte das Schreiben als Angebot zum Abschluss eines Bürgschaftsvertrags aufgefasst, und L hat es auch so verstanden. Die B-Bank hätte dies bei Anwendung der im Verkehr erforderlichen Sorgfalt erkennen und vermeiden können. Sie hatte daher potentielles Erklärungsbewusstsein; das Angebot ist ihr als Willenserklärung zuzurechnen. In seinem Bestätigungsschreiben hat L den Willen, das Angebot anzunehmen, konkludent zum Ausdruck gebracht. Eine der Bürgschaft zugrunde liegende Hauptforderung über 27.500 € besteht (Akzessorietät).",
+        "rubric": ["Problem: fehlendes aktuelles Erklärungsbewusstsein erkannt", "Empfängersicht: Wortlaut, Vorankündigung des A, Bestimmtheit von Hauptschuldner und Forderungen", "Erkennbarkeit und Vermeidbarkeit für die Bank bejaht", "Konkludente Annahme durch L", "Hauptforderung (Akzessorietät)"],
+        "hints": ["Was durfte L aus dem Schreiben schließen?", "Wodurch hat L angenommen?"]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Zwischen L und der B-Bank ist ein wirksamer Bürgschaftsvertrag zustande gekommen. L hat gegen die B-Bank einen Anspruch auf Zahlung von 25.000 € gemäß § 765 Abs. 1 BGB. (Ob die Bank die ihr zugerechnete Erklärung analog §§ 119, 121, 142 f. BGB anfechten kann, ist hier nicht zu erörtern.)",
+        "rubric": ["Ergebnis im Indikativ", "Bezug zur Fallfrage und Anspruchsgrundlage", "Hinweis, dass Anfechtung gesondert zu prüfen wäre"],
+        "hints": ["Das Ergebnis beantwortet die Fallfrage."]
+      }
+    ],
+    "src": [{"doc": "BGB_2", "page": 16}, {"doc": "BGB_2", "page": 17}, {"doc": "BGB_2", "page": 18}]
+  },
+  "flashcards": [
+    {"front": "Was ist ein Rechtsgeschäft?", "back": "Eine Rechtshandlung, deren erklärte Rechtsfolge (nur) deshalb eintritt, weil sie gewollt ist; sie enthält mindestens eine Willenserklärung.", "src": [{"doc": "BGB_2", "page": 5}]},
+    {"front": "Einseitiges vs. mehrseitiges Rechtsgeschäft – Beispiele?", "back": "Einseitig: Kündigung (Gestaltungsrecht). Mehrseitig: Verträge sowie Beschlüsse (z.B. §§ 28 Abs. 1, 32 Abs. 1 BGB).", "src": [{"doc": "BGB_2", "page": 6}]},
+    {"front": "Wie viele Verträge und Willenserklärungen liegen beim Brötchenkauf vor?", "back": "Drei Verträge mit sechs Willenserklärungen: Kaufvertrag, Übereignung der Brötchen, Übereignung des Geldes (Trennungs- und Abstraktionsprinzip; Einigungen nach § 929 S. 1 BGB konkludent).", "src": [{"doc": "BGB_2", "page": 8}]},
+    {"front": "Wo ist der Rechtsbindungswille systematisch zu prüfen?", "back": "Im objektiven Tatbestand: Entscheidend ist, ob der Empfänger nach Treu und Glauben mit Rücksicht auf die Verkehrssitte auf einen Bindungswillen schließen musste (BGHZ 21, 102).", "src": [{"doc": "BGB_2", "page": 9}]},
+    {"front": "Rechtsfolgen einer bloßen Gefälligkeit?", "back": "Keine primären Leistungspflichten (kein Erfüllungs-, kein Aufwendungsersatzanspruch); Haftung nach §§ 823 ff. BGB; Schutzpflichten nach § 241 Abs. 2 BGB nur im Einzelfall; kann Rechtsgrund i.S.v. § 812 BGB sein.", "src": [{"doc": "BGB_2", "page": 11}, {"doc": "BGB_2", "page": 12}]},
+    {"front": "Welche Normen beschränken bei Gefälligkeitsverträgen die Haftung auf Vorsatz und grobe Fahrlässigkeit?", "back": "§ 521 (Schenker), § 599 (Verleiher), § 680 (Geschäftsführer bei dringender GoA), § 690 (unentgeltlicher Verwahrer); nicht § 662 (Auftrag).", "src": [{"doc": "BGB_2", "page": 12}]},
+    {"front": "vis absoluta vs. vis compulsiva?", "back": "vis absoluta: körperliche Überwältigung – kein Handlungswille, keine WE. vis compulsiva: psychischer Zwang – Willensbetätigung liegt vor, WE nach § 123 BGB anfechtbar.", "src": [{"doc": "BGB_2", "page": 14}]},
+    {"front": "Potentielles Erklärungsbewusstsein – Definition?", "back": "Der Erklärende hätte bei verkehrserforderlicher Sorgfalt erkennen und vermeiden können, dass seine Äußerung nach Treu und Glauben und Verkehrssitte als WE aufgefasst werden durfte, und der Empfänger hat sie tatsächlich so verstanden (BGH NJW 1984, 2279).", "src": [{"doc": "BGB_2", "page": 16}, {"doc": "BGB_2", "page": 19}]},
+    {"front": "Rechtsfolge fehlenden aktuellen, aber vorhandenen potentiellen Erklärungsbewusstseins?", "back": "Wirksame, zugerechnete WE; Anfechtung analog §§ 119, 121, 142 f. BGB; bei Anfechtung Schadensersatz nach § 122 Abs. 1 (entfällt nach § 122 Abs. 2 bei Kenntnis des Adressaten).", "src": [{"doc": "BGB_2", "page": 24}]},
+    {"front": "Ist der Geschäftswille konstitutiv?", "back": "Nach h.M. nein. Fehlt oder weicht er ab, ist die WE wirksam, aber ggf. nach §§ 119 ff. BGB (direkt) anfechtbar.", "src": [{"doc": "BGB_2", "page": 19}, {"doc": "BGB_2", "page": 25}]},
+    {"front": "§ 116 S. 1 und S. 2 BGB?", "back": "S. 1: geheimer Vorbehalt unbeachtlich, WE wirksam, keine Anfechtung. S. 2: WE nichtig, wenn der Empfänger den Vorbehalt kennt.", "src": [{"doc": "BGB_2", "page": 20}]},
+    {"front": "§ 117 BGB – Scheingeschäft?", "back": "Abs. 1: einverständlich zum Schein abgegebene WE nichtig. Abs. 2: Ein verdecktes, gewolltes Geschäft ist nach den für es geltenden Vorschriften zu beurteilen (z.B. verdeckter Kauf hinter Schein-Leihe wirksam).", "src": [{"doc": "BGB_2", "page": 20}, {"doc": "BGB_2", "page": 21}]},
+    {"front": "§ 118 BGB – Scherzerklärung?", "back": "Nicht ernstlich gemeinte Erklärung in der Erwartung, der Mangel werde erkannt: nichtig, auch wenn objektiv nicht erkennbar; Vertrauensschaden nach § 122 Abs. 1 BGB (Beispiel Aprilscherz-Kündigung).", "src": [{"doc": "BGB_2", "page": 22}]},
+    {"front": "Automatische Erklärungen (Wenn-Dann-Regelung) – wessen Willenserklärung?", "back": "Echte WE des Nutzers/Betreibers; Handlungswille, Erklärungsbewusstsein und Geschäftswille liegen bei Einstellung der Regelung vor und wirken fort.", "src": [{"doc": "BGB_2", "page": 26}]}
+  ]
+}
