@@ -8,6 +8,14 @@ if ! command -v node >/dev/null 2>&1; then
   read -r -p "Enter zum Schließen"
   exit 1
 fi
+NODE_MAJOR=$(node -p "process.versions.node.split('.')[0]")
+NODE_MINOR=$(node -p "process.versions.node.split('.')[1]")
+if [ "$NODE_MAJOR" -lt 22 ] || { [ "$NODE_MAJOR" -eq 22 ] && [ "$NODE_MINOR" -lt 13 ]; }; then
+  echo "Deine Node.js-Version ($(node -v)) ist zu alt. Bitte die aktuelle LTS-Version von https://nodejs.org installieren."
+  open "https://nodejs.org/de/download"
+  read -r -p "Enter zum Schließen"
+  exit 1
+fi
 [ -f .env.local ] || cp .env.example .env.local
 if [ ! -d node_modules ] || [ package-lock.json -nt node_modules/.package-lock.json ]; then
   echo "Installiere Abhängigkeiten (nur beim ersten Start oder nach Updates, ca. 1–3 Minuten) …"

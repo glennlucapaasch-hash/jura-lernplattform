@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   // Native/Node-only packages must not be bundled.
-  serverExternalPackages: ["better-sqlite3", "unpdf", "mammoth", "pdfjs-dist"],
+  serverExternalPackages: ["unpdf", "mammoth", "pdfjs-dist"],
   experimental: {
     proxyClientMaxBodySize: "60mb",
     serverActions: { bodySizeLimit: "60mb" },

@@ -1,4 +1,4 @@
-import Database from "better-sqlite3";
+import { Database } from "./sqlite";
 import { mkdirSync } from "node:fs";
 import path from "node:path";
 import { MIGRATIONS } from "./migrations";
@@ -7,7 +7,7 @@ export const DATA_DIR = path.resolve(process.env.DATA_DIR || path.join(process.c
 export const UPLOAD_DIR = path.join(DATA_DIR, "uploads");
 export const BACKUP_DIR = path.join(DATA_DIR, "backups");
 
-type DB = Database.Database;
+type DB = Database;
 const g = globalThis as unknown as { __juraDb?: DB };
 
 export function db(): DB {
