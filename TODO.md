@@ -26,6 +26,7 @@
   - VerfR KE 1: Ausnahmen von der Gegenzeichnung (Art. 58 S. 2 GG) – Skript nennt auch Art. 68; Gesetzestext prüfen
   - VerfR KE 3: Fristen der Verfassungsbeschwerde als „§ 94 I/III BVerfGG“ zitiert (bisher § 93 BVerfGG) – nach der GG-Reform 2024 (Art. 93/94 GG neu) Gesetzestext prüfen; „§ 64 II GG“ meint BVerfGG
   - KE 7, S. 62–63: Lösung zu Aufgabe 2 bejaht Duldungs- und Anscheinsvollmacht zugleich; S. 45: Missbrauchsbeispiel ist eher Überschreitung der Vertretungsmacht
+  - VerfR KE 1: Art. 72 III GG ohne Nr. 7; Sechsmonatsregel (Art. 72 III 2) zu weit; „Art. 83 III“ statt Art. 85 III 2; „Art. 3 III 2“ statt Art. 3 II 2 GG
 - [ ] Gesetzestext BGB als eigenes Dokument hochladen (z. B. von gesetze-im-internet.de). Dann kann die Quellenprüfung auch Normen gegen den Gesetzestext abgleichen.
 
 ## Technik
