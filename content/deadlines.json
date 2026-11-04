@@ -5,7 +5,7 @@
    "id": "ea-55101-3",
    "moduleId": "55101",
    "kind": "einsendeaufgabe",
-   "title": "BGB AT – Einsendeaufgabe Teil 3",
+   "title": "BGB AT – Einsendeaufgabe (freiwillig) Teil 3",
    "date": "2026-11-16",
    "covers": {
     "ke": [
@@ -17,15 +17,15 @@
    "prepDays": 2,
    "workMinutes": 120,
    "status": "unconfirmed",
-   "source": "eigene Angabe",
-   "note": "Annahme: deckt KE 1–3 ab. Abgabeweg und Uhrzeit auf der Modulseite / in Moodle prüfen.",
-   "requiredForAdmission": "unknown"
+   "source": "eigene Angabe; Moodle 55101, FAQ (Foto vom 04.11.2026)",
+   "note": "Deckt KE 1–3 ab. Freiwillig, keine Zulassungsvoraussetzung – aber die beste Übung: wie eine Klausur möglichst ohne Hilfsmittel schreiben, dann gibt es eine individuelle Korrektur. Abgabe als PDF im Online-Übungssystem; nach Fristablauf wird nichts mehr berücksichtigt. Endtermin bitte im Online-Übungssystem bestätigen.",
+   "requiredForAdmission": "no"
   },
   {
    "id": "ea-55101-8",
    "moduleId": "55101",
    "kind": "einsendeaufgabe",
-   "title": "BGB AT – Einsendeaufgabe Teil 8",
+   "title": "BGB AT – Einsendeaufgabe (freiwillig) Teil 8",
    "date": "2026-12-21",
    "covers": {
     "ke": [
@@ -42,9 +42,9 @@
    "prepDays": 2,
    "workMinutes": 120,
    "status": "unconfirmed",
-   "source": "eigene Angabe",
-   "note": "Annahme: setzt KE 1–8 voraus.",
-   "requiredForAdmission": "unknown"
+   "source": "eigene Angabe; Moodle 55101, FAQ (Foto vom 04.11.2026)",
+   "note": "Deckt KE 1–8 ab. Freiwillig, keine Zulassungsvoraussetzung – aber die beste Übung: wie eine Klausur möglichst ohne Hilfsmittel schreiben, dann gibt es eine individuelle Korrektur. Abgabe als PDF im Online-Übungssystem; nach Fristablauf wird nichts mehr berücksichtigt. Endtermin bitte im Online-Übungssystem bestätigen.",
+   "requiredForAdmission": "no"
   },
   {
    "id": "ha-55101",
@@ -59,24 +59,24 @@
    "prepDays": 0,
    "status": "confirmed",
    "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
-   "note": "Bearbeitungszeitraum der Kurzhausarbeit. In dieser Zeit plant die App keinen neuen Stoff ein.",
+   "note": "Bearbeitungszeitraum der Kurzhausarbeit. Prüfungsanmeldung über POS; die FernUni informiert dazu im Wintersemester Mitte Dezember per E-Mail. Formalia (Deckblatt, Gliederung, Literaturverzeichnis, Zeilenzahl, Ränder) vorab mit der Vorlage aus Moodle (Prüfungsbereich) vorbereiten. In dieser Zeit plant die App keinen neuen Stoff ein.",
    "requiredForAdmission": "unknown"
   },
   {
    "id": "klausur-55100",
    "moduleId": "55100",
    "kind": "klausur",
-   "title": "Propädeutikum – Online-Klausur",
+   "title": "Propädeutikum – Online-Klausur (Multiple Choice)",
    "date": "2027-03-10",
    "covers": {
     "all": true
    },
    "prepDays": 6,
    "status": "confirmed",
-   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
-   "requiredForAdmission": "unknown",
+   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt); Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "requiredForAdmission": "no",
    "time": "16:00–18:00",
-   "note": "Online-Klausur, 16:00–18:00 Uhr. Technische Voraussetzungen (Prüfungsumgebung, Ausweis) rechtzeitig vorher prüfen."
+   "note": "Zweistündige E-Klausur zu Hause unter Online-Aufsicht, 16:00–18:00 Uhr. Neu ab diesem Semester: Multiple-Choice-Klausur, keine Gutachtenklausur. Keine Zugangsvoraussetzungen, aber fristwahrende Anmeldung (04.01.–01.02.2027) erforderlich."
   },
   {
    "id": "klausur-55104",
@@ -109,25 +109,223 @@
  ],
  "reminders": [
   {
-   "id": "check-anmeldung",
-   "moduleId": null,
+   "id": "anmeldung-55100",
+   "moduleId": "55100",
    "kind": "anmeldung",
-   "title": "Anmeldung zu Online-Klausuren (10./11.03.) und Hausarbeiten im Prüfungsportal prüfen",
-   "date": "2026-12-01",
-   "status": "unconfirmed",
-   "source": "https://www.fernuni-hagen.de/rewi/studium/termine/klausuren-ws/index.shtml",
-   "note": "Im WS 2025/26 lag die Anmeldung laut Fakultätsseite vom 07.01. bis 30.01.2026. Für WS 2026/27 noch nicht bestätigt – Datum hier eintragen, sobald bekannt."
+   "title": "Anmeldung Propädeutikum-Klausur im Prüfungsportal (pos.fernuni-hagen.de)",
+   "date": "2027-01-04",
+   "endDate": "2027-02-01",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Anmeldezeitraum 04.01.–01.02.2027. Ohne fristgerechte Anmeldung keine Teilnahme am 10.03.2027."
   },
   {
-   "id": "check-ea-regeln",
+   "id": "check-anmeldung-55104",
+   "moduleId": "55104",
+   "kind": "anmeldung",
+   "title": "Anmeldezeitraum Verfassungsrecht-Klausur (11.03.) prüfen – vermutlich ebenfalls 04.01.–01.02.2027",
+   "date": "2027-01-04",
+   "status": "unconfirmed",
+   "source": "Annahme nach dem Anmeldezeitraum des Propädeutikums; bitte in Moodle/Prüfungsportal bestätigen",
+   "note": "Auch die Anmeldung zur BGB-Kurzhausarbeit und zur Schuldrecht-Hausarbeit prüfen."
+  },
+  {
+   "id": "probeklausur-55100",
+   "moduleId": "55100",
+   "kind": "sonstiges",
+   "title": "Probeklausur Propädeutikum in Moodle (freiwillig, 1 Stunde)",
+   "date": "2027-01-19",
+   "endDate": "2027-01-31",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Freiwillig und ohne Anmeldung. Besprechung in der 11. Online-Lektion am 01.02.2027."
+  },
+  {
+   "id": "lektion-55100-4",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 4. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2026-11-09",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Juristische Literatur, Zitation und Recherche, alternative Tatbestandsvoraussetzungen, Klausurtechnik (Lösungsskizzen); Fall „Der pinselnde Pionier“. Teilnahmevoraussetzung: Übungen „Finde den Fehler I“, „Finde den Fehler II“ und „Der Pinselnde Pionier“ in Moodle mit mind. 50 % Bearbeitungsfortschritt."
+  },
+  {
+   "id": "lektion-55100-5",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 5. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2026-11-23",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Juristisches Arbeiten ohne und mit KI, einschränkende Rechtsnormen, Fiktion, Auslegung (Einführung); Fall „Waffen, Haft & Alkohol“. Teilnahmevoraussetzung: Übung „Datenbankschnitzeljagd“ in Moodle mit mind. 50 % Bearbeitungsfortschritt."
+  },
+  {
+   "id": "lektion-55100-6",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 6. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2026-11-30",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Arbeiten mit Schemata, Recherche, Auslegung (Vertiefung); Fall „Retter im Halteverbot“. Teilnahmevoraussetzung: „Übungen zu Rechtsgebieten, Prüfungsreihenfolge und Obersatzbildung“ in Moodle mit mind. 50 % Bearbeitungsfortschritt."
+  },
+  {
+   "id": "lektion-55100-7",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 7. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2026-12-07",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Rechtsfortbildung (Analogie, teleologische Reduktion); Fall „Holz im Fluss“. Teilnahmevoraussetzung: „Übungen zum Zitieren von Rechtsnormen II“ in Moodle mit mind. 50 % Bearbeitungsfortschritt."
+  },
+  {
+   "id": "lektion-55100-8",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 8. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2026-12-14",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Darstellung des Meinungsstreits im Gutachten; Fall „Gangsterrapper“. Teilnahmevoraussetzung: „Übungen zu Legaldefinition, Auslegung und Recherche“ in Moodle mit mind. 50 % Bearbeitungsfortschritt."
+  },
+  {
+   "id": "lektion-55100-9",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 9. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2027-01-11",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Wiederholung und Vertiefung Meinungsstreit; Fall „Autoreparatur“. Keine Teilnahmevoraussetzung."
+  },
+  {
+   "id": "lektion-55100-10",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 10. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2027-01-18",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Wiederholung Auslegung und Analogie; Fall „Das Finale“. Keine Teilnahmevoraussetzung."
+  },
+  {
+   "id": "lektion-55100-11",
+   "moduleId": "55100",
+   "kind": "lektion",
+   "title": "Prop. 11. Online-Lektion (Zoom, 18:00 Uhr)",
+   "date": "2027-02-01",
+   "time": "18:00",
+   "status": "confirmed",
+   "source": "Folienskript 1. Online-Lektion Propädeutikum WiSe 2026/27, Folien 8–9 (von dir hochgeladen)",
+   "note": "Inhalte: Besprechung der Probeklausur, Vorbereitung auf die Abschlussklausur. Keine Teilnahmevoraussetzung."
+  },
+  {
+   "id": "ag-55104-2026-11-15",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2026-11-15",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2026-11-22",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2026-11-22",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2026-11-29",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2026-11-29",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2026-12-13",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2026-12-13",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2026-12-20",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2026-12-20",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2026-12-27",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2026-12-27",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2027-01-10",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2027-01-10",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "ag-55104-2027-01-17",
+   "moduleId": "55104",
+   "kind": "ag",
+   "title": "AG Staats- und Verfassungsrecht (Florian Drexler, Zoom)",
+   "date": "2027-01-17",
+   "time": "18:00–21:00",
+   "status": "confirmed",
+   "source": "Moodle-Raum AG 55104 Florian Drexler – vorläufige Terminübersicht (Foto vom 04.11.2026)",
+   "note": "Teilnahme über den Zoom-Dauerlink im Moodle-Raum der AG (vorher Zoom-Konto der FernUni anlegen). Vorläufige Termine – kurzfristige Ausfälle stehen im Forum „Aktuelles“. Kontakt: florian.drexler@fernuni-hagen.de"
+  },
+  {
+   "id": "kurzha-info-55101",
    "moduleId": "55101",
    "kind": "sonstiges",
-   "title": "Prüfen: Sind die BGB-Einsendeaufgaben Zulassungsvoraussetzung? (Modulseite / Studienordnung)",
-   "date": "2026-11-09",
+   "title": "Infos zur Kurzhausarbeit BGB AT kommen per E-Mail – Anmeldung über POS vormerken",
+   "date": "2026-12-15",
    "status": "unconfirmed",
-   "source": "https://www.fernuni-hagen.de/rewi/studium/termine/",
-   "note": "Seit WS 2022/23 stehen EA-Termine auf den Modulseiten der Fakultät, nicht mehr im Studienheft."
+   "source": "Moodle 55101, FAQ (Foto vom 04.11.2026)",
+   "note": "Laut FAQ verschickt die FernUni im Wintersemester Mitte Dezember die Informationen zu Prüfungsformen und -modalitäten; danach ist die Prüfungsanmeldung über POS möglich."
   }
  ],
- "revision": 2
+ "revision": 4
 }

@@ -216,7 +216,10 @@ export function lessonsForTopic(topicId: string): LessonPack[] {
   const t = getTopic(topicId);
   const ids = [topicId, t?.parent_id].filter(Boolean) as string[];
   const rows = db().prepare("SELECT json, topic_ids FROM lessons").all() as { json: string; topic_ids: string }[];
-  return rows.filter((r) => (JSON.parse(r.topic_ids) as string[]).some((x) => ids.includes(x))).map((r) => JSON.parse(r.json));
+  return rows
+    .filter((r) => (JSON.parse(r.topic_ids) as string[]).some((x) => ids.includes(x)))
+    .map((r) => JSON.parse(r.json) as LessonPack)
+    .sort((a, b) => (a.kind && a.kind !== "lesson" ? 1 : 0) - (b.kind && b.kind !== "lesson" ? 1 : 0) || (ids.indexOf(a.topicIds.find((t) => ids.includes(t))!) - ids.indexOf(b.topicIds.find((t) => ids.includes(t))!)));
 }
 
 export function getLesson(id: string): LessonPack | undefined {

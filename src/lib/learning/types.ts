@@ -70,6 +70,8 @@ export interface Flashcard {
 
 export interface LessonPack {
   id: string;
+  /** "drill" = reines Abfragetraining (z. B. MC-Klausurvorbereitung); wird nicht als Tageslektion verwendet */
+  kind?: "lesson" | "drill" | "extra"; // extra = Vertiefung aus Begleitmaterial
   moduleId: string;
   ke?: number;
   topicIds: string[];

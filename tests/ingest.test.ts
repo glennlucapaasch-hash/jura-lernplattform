@@ -4,7 +4,7 @@ import { ingestDocument, retrieve, searchDocuments, listDocuments } from "@/lib/
 import { listTopics, currentPlan, lessonsForTopic } from "@/lib/repo/study";
 
 const sample = `Studium Rechtswissenschaft\nKurs 55101\nAllgemeiner Teil des BGB\nKurseinheit 2\n\f` +
-  `Inhaltsverzeichnis\n§ 2 Rechtsgeschäft und Willenserklärung .......... 3\nI. Der Begriff "Rechtsgeschäft" ........ 3\n\f` +
+  `Inhaltsverzeichnis\n§ 2 Rechtsgeschäft und Willenserklärung .......... 3\nI. Der Begriff "Rechtsgeschäft" ........ 3\nII. Die Willenserklärung ........ 3\n1. Überblick ........ 3\n2. Tatbestand ........ 4\n§ 3 Das Wirksamwerden ........ 4\n\f` +
   `§ 2 Rechtsgeschäft und Willenserklärung\nDer Zugang einer Willenserklärung unter Abwesenden setzt voraus, dass sie in den Machtbereich des Empfängers gelangt.\n\f` +
   `Das Erklärungsbewusstsein ist das Bewusstsein, irgendetwas rechtlich Erhebliches zu erklären.`;
 
@@ -19,6 +19,10 @@ describe("ingestion + retrieval", () => {
     const dup = await ingestDocument("Kopie.txt", new TextEncoder().encode(sample));
     expect(dup.duplicate).toBe(true);
     expect(listDocuments()).toHaveLength(1);
+    const ea = await ingestDocument("Einsendeaufgabe.txt", new TextEncoder().encode("Einsendearbeit zum Modul 55101 Allgemeiner Teil des BGB Kurseinheit 03\nFall 1: Der Preisfehler"));
+    expect(ea.document.doc_key).toMatch(/^DOC_/);
+    expect(ea.document.module_id).toBe("55101");
+    expect(ea.topicsLinked).toBe(0);
   });
   it("retrieves passages with page numbers", () => {
     const hits = retrieve("Was bedeutet Erklärungsbewusstsein?", { moduleId: "55101" });

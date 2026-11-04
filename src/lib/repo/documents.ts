@@ -45,10 +45,21 @@ export function docByKey(key: string): DocumentRow | undefined {
     | undefined;
 }
 
-function canonicalKey(filename: string, moduleId?: string, ke?: number) {
+/**
+ * Only real Studienbriefe (with a table of contents) get the canonical key used by lesson sources (e.g. BGB_3).
+ * Einsendeaufgaben, Folien, Merkblätter etc. of the same module get a key derived from the file name,
+ * so they never replace the Studienbrief in the source links.
+ */
+export function isStudienbrief(head: string, tocEntries: number) {
+  if (/Einsendearbeit|Einsendeaufgabe|Online[- ]Lektion|Folie\b|Lösungs(hinweise|vorschlag)|Musterlösung/i.test(head)) return false;
+  return tocEntries >= 5;
+}
+
+function canonicalKey(filename: string, moduleId: string | undefined, ke: number | undefined, studienbrief: boolean) {
   const mod = KNOWN_MODULES.find((m) => m.id === moduleId);
-  if (mod && mod.id !== "gesetze") return `${mod.prefix.toUpperCase()}_${ke ?? 1}`;
-  return path.basename(filename).replace(/\.[^.]+$/, "").replace(/[^A-Za-z0-9_-]+/g, "_");
+  if (studienbrief && mod && mod.id !== "gesetze") return `${mod.prefix.toUpperCase()}_${ke ?? 1}`;
+  const stem = path.basename(filename).replace(/\.[^.]+$/, "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/[^A-Za-z0-9_-]+/g, "_");
+  return `DOC_${stem}`.slice(0, 80);
 }
 
 export interface IngestResult {
@@ -84,8 +95,9 @@ export async function ingestDocument(filename: string, data: Uint8Array, opts: {
     const toc = parseToc(r.pages);
     const offset = r.kind === "pdf" ? detectPageOffset(r.pages, toc) : 0;
     const words = r.pages.reduce((n, p) => n + p.text.split(/\s+/).filter(Boolean).length, 0);
-    const title = buildTitle(moduleId, ke, r.title, filename);
-    const key = canonicalKey(filename, moduleId ?? undefined, ke ?? undefined);
+    const title = buildTitle(moduleId, ke, r.title, filename, isStudienbrief(head, toc.length), head);
+    const studienbrief = isStudienbrief(head, toc.length);
+    const key = canonicalKey(filename, moduleId ?? undefined, ke ?? undefined, studienbrief);
 
     let created = 0;
     let linked = 0;
@@ -96,7 +108,7 @@ export async function ingestDocument(filename: string, data: Uint8Array, opts: {
         insPage.run(id, p.page, p.text);
         insFts.run(p.text, id, p.page);
       }
-      if (moduleId && moduleId !== "gesetze") {
+      if (studienbrief && moduleId && moduleId !== "gesetze") {
         const mod = KNOWN_MODULES.find((m) => m.id === moduleId) ?? { id: moduleId, prefix: moduleId };
         const existing = d.prepare("SELECT COUNT(*) n FROM topics WHERE module_id = ? AND ke IS ? AND placeholder = 0").get(moduleId, ke) as { n: number };
         if (existing.n > 0) {
@@ -122,9 +134,10 @@ export async function ingestDocument(filename: string, data: Uint8Array, opts: {
   }
 }
 
-function buildTitle(moduleId: string | null, ke: number | null, meta: string | undefined, filename: string) {
+function buildTitle(moduleId: string | null, ke: number | null, meta: string | undefined, filename: string, studienbrief = true, head = "") {
   const mod = KNOWN_MODULES.find((m) => m.id === moduleId);
-  if (mod && mod.id !== "gesetze") return `${mod.short} – ${ke ? `Kurseinheit ${ke}` : "Studienbrief"}`;
+  if (mod && mod.id !== "gesetze" && studienbrief) return `${mod.short} – ${ke ? `Kurseinheit ${ke}` : "Studienbrief"}`;
+  if (mod && /Einsendearbeit|Einsendeaufgabe/i.test(head)) return `${mod.short} – Einsendeaufgabe${ke ? ` (KE ${ke})` : ""}`;
   if (meta && meta.length > 3 && !/^microsoft|untitled/i.test(meta)) return meta;
   return filename.replace(/\.[^.]+$/, "");
 }

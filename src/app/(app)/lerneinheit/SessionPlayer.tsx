@@ -11,6 +11,7 @@ import { GutachtenCase } from "@/components/learn/GutachtenCase";
 import { FlashcardReview, type ReviewCard } from "@/components/learn/FlashcardReview";
 import { TutorChat } from "@/components/tutor/TutorChat";
 import { PdfPages } from "@/components/docs/PdfViewer";
+import { BiteReader } from "@/components/learn/BiteReader";
 
 const KIND_LABEL: Record<string, string> = { review: "Wiederholung", new: "Neuer Stoff", exercise: "Übungen", application: "Anwendung", check: "Lernkontrolle", reading: "Skript", prep: "Vorbereitung", hausarbeit: "Hausarbeit" };
 
@@ -33,6 +34,7 @@ export function SessionPlayer({ session, plan, lessons, items, cards, readingDoc
   const [tutorOpen, setTutorOpen] = useState(false);
   const [finished, setFinished] = useState(session.status === "done");
   const [results, setResults] = useState<number[]>([]);
+  const [view, setView] = useState<"haeppchen" | "ganz">("haeppchen");
   const tick = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
@@ -150,7 +152,16 @@ export function SessionPlayer({ session, plan, lessons, items, cards, readingDoc
 
       {block.kind === "new" && lesson && (
         <div className="space-y-6">
-          <LessonSections sections={lesson.sections.filter((s) => block.sectionIds?.includes(s.id))} />
+          <div className="inline-flex rounded-xl border border-line bg-surface p-0.5 text-sm">
+            {(["haeppchen", "ganz"] as const).map((v) => (
+              <button key={v} onClick={() => setView(v)} className={cx("rounded-lg px-3 py-1", view === v ? "bg-brand-500 text-white" : "text-ink-soft")}>{v === "haeppchen" ? "In Häppchen" : "Ganzer Text"}</button>
+            ))}
+          </div>
+          {view === "haeppchen" ? (
+            <BiteReader lessonId={lesson.id} sections={lesson.sections.filter((s) => block.sectionIds?.includes(s.id))} definitions={lesson.definitions} quiz={lesson.quiz} sessionId={session.id} topicId={block.topicId} />
+          ) : (
+            <LessonSections sections={lesson.sections.filter((s) => block.sectionIds?.includes(s.id))} />
+          )}
           {lesson.definitions.length > 0 && <details className="group"><summary className="cursor-pointer font-semibold">Definitionen ({lesson.definitions.length})</summary><div className="mt-3"><DefinitionList defs={lesson.definitions} /></div></details>}
           {lesson.schemas.length > 0 && <details><summary className="cursor-pointer font-semibold">Prüfungsschemata ({lesson.schemas.length})</summary><div className="mt-3"><SchemaList schemas={lesson.schemas} /></div></details>}
           <Link href={`/lektion/${lesson.id}`} className="inline-block text-sm text-brand-600">Ganze Lerneinheit „{lesson.title}“ ansehen →</Link>

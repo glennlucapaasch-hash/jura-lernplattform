@@ -71,7 +71,10 @@ export function buildTodaySession(date = today()): SessionPlan {
   if (day?.mode === "vorbereitung" && day.milestoneId) {
     const ms = db().prepare("SELECT module_id FROM deadlines WHERE id = ?").get(day.milestoneId) as { module_id: string } | undefined;
     prepItems = listLessons(ms?.module_id)
-      .flatMap((l) => (getLesson(l.id)?.quiz ?? []).filter((q) => q.level === "apply" || q.level === "understand").map((q) => ({ lessonId: l.id, itemId: q.id })))
+      // Propädeutikum: Multiple-Choice-Klausur → geschlossene Aufgaben; sonst Anwendung und Verständnis
+      .flatMap((l) => (getLesson(l.id)?.quiz ?? [])
+        .filter((q) => ms?.module_id === "55100" ? ["mc-single", "mc-multi", "truefalse"].includes(q.type) : q.level === "apply" || q.level === "understand")
+        .map((q) => ({ lessonId: l.id, itemId: q.id })))
       .sort(() => Math.random() - 0.5);
   }
   return buildSession({

@@ -5,7 +5,7 @@ import { Pencil, Trash2, Plus, Check } from "lucide-react";
 import { Badge, Button, Card, CardBody, cx, formatDate } from "@/components/ui";
 import type { DeadlineRow } from "@/lib/repo/study";
 
-const KIND: Record<string, string> = { anmeldung: "Anmeldung", ruecktritt: "Rücktritt/Abmeldung", einsendeaufgabe: "Einsendeaufgabe", hausarbeit: "Hausarbeit", klausur: "Klausur", belegung: "Belegung", sonstiges: "Aufgabe/Sonstiges" };
+const KIND: Record<string, string> = { anmeldung: "Anmeldung", ruecktritt: "Rücktritt/Abmeldung", einsendeaufgabe: "Einsendeaufgabe", hausarbeit: "Hausarbeit", klausur: "Klausur", lektion: "Online-Lektion", ag: "Arbeitsgemeinschaft", belegung: "Belegung", sonstiges: "Aufgabe/Sonstiges" };
 const ADM: Record<string, string> = { yes: "Zulassungsvoraussetzung", no: "keine Zulassungsvoraussetzung", unknown: "Zulassungsrelevanz ungeklärt" };
 
 function daysUntil(t: string, d: string) { return Math.round((Date.parse(d + "T12:00:00") - Date.parse(t + "T12:00:00")) / 86400000); }

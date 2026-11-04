@@ -6,6 +6,9 @@ import { getOrCreateTodaySession, dueCardIds } from "@/lib/repo/session";
 import { daysBetween } from "@/lib/learning/planner";
 import { aiAvailable } from "@/lib/ai/client";
 import type { SessionPlan } from "@/lib/learning/session";
+import { buildTodos } from "@/lib/learning/today";
+import { docByKey } from "@/lib/repo/documents";
+import { KNOWN_MODULES } from "@/lib/docs/curriculum";
 
 const BLOCK_ICON: Record<string, string> = { review: "↻", new: "✦", exercise: "✎", application: "⚖", check: "✓", reading: "📖", prep: "◎", hausarbeit: "✍" };
 
@@ -20,6 +23,13 @@ export default function Dashboard() {
   const deadlines = listDeadlines().filter((d) => !d.done && (d.end_date ?? d.date) >= t).slice(0, 4);
   const due = dueCardIds(500).length;
   const next7 = plan.days.slice(1, 8).filter((d) => d.mode !== "frei");
+  const topicTitle = sp.mode === "hausarbeit" ? sp.label ?? "Hausarbeit" : sp.mode === "vorbereitung" ? sp.label ?? "Prüfungsvorbereitung" : sp.blocks.find((b) => b.kind === "new" || b.kind === "reading")?.title.replace(/^(Neuer Stoff|Skript lesen): /, "") ?? "Wiederholung & freies Üben";
+  const todos = buildTodos({ today: t, session: { status: session.status, topic: topicTitle, minutes: sp.totalMinutes }, deadlines: listDeadlines(), dueCards: due });
+  // optional: the matching pages of the original Skript for today's section
+  const unit = sp.unitIds[0] ? getTopic(sp.unitIds[0]) : undefined;
+  const mod = unit ? KNOWN_MODULES.find((m) => m.id === unit.module_id) : undefined;
+  const unitDoc = unit && mod ? docByKey(`${mod.prefix.toUpperCase()}_${unit.ke ?? 1}`) : undefined;
+  const printed = (p: number | null) => (p == null ? "" : String(p - (unitDoc?.page_offset ?? 0)));
 
   return (
     <div className="space-y-8">
@@ -27,6 +37,31 @@ export default function Dashboard() {
         <p className="text-sm text-ink-faint">{formatDate(t, { weekday: "long", day: "numeric", month: "long", year: "numeric" })}</p>
         <h1 className="text-2xl font-semibold tracking-tight sm:text-[28px]">Guten Tag! Das steht heute an.</h1>
       </div>
+
+      {/* Heute zu tun */}
+      <Card>
+        <CardBody>
+          <p className="mb-3 font-semibold">Heute zu tun</p>
+          <ol className="space-y-2.5">
+            {todos.map((td, i) => (
+              <li key={td.id}>
+                <Link href={td.href ?? "/"} className="flex items-start gap-3 rounded-xl p-2 -m-2 hover:bg-brand-50/60">
+                  <span className={`mt-0.5 grid h-6 w-6 shrink-0 place-items-center rounded-full text-xs font-semibold ${td.done ? "bg-ok text-white" : td.tone === "bad" ? "bg-bad text-white" : td.tone === "warn" ? "bg-warn-soft text-warn" : "bg-brand-50 text-brand-700"}`}>{td.done ? "✓" : i + 1}</span>
+                  <span className="min-w-0">
+                    <span className={`block text-[15px] font-medium ${td.done ? "text-ink-faint line-through" : ""}`}>{td.title}</span>
+                    {td.detail && <span className="block text-sm text-ink-soft">{td.detail}</span>}
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ol>
+          {unit && unitDoc && unit.pdf_start && (
+            <p className="mt-4 border-t border-line pt-3 text-sm text-ink-soft">
+              📖 Lesen musst du nichts – die Lerneinheit erklärt alles. Wer nachschlagen will: <Link className="text-brand-600 underline" href={`/bibliothek/${unitDoc.id}?page=${unit.pdf_start}`}>{unitDoc.title}, S. {printed(unit.pdf_start)}–{printed(unit.pdf_end)}</Link>
+            </p>
+          )}
+        </CardBody>
+      </Card>
 
       {/* Today's session */}
       <Card className="overflow-hidden">

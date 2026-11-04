@@ -33,6 +33,7 @@ for (const f of files.filter((x) => x.endsWith(".json"))) {
     if (!Array.isArray(src) || !src.length) { if (required) errs.push(`${where}: missing src`); return; }
     for (const s of src) {
       if (typeof s.doc !== "string" || typeof s.page !== "number") { errs.push(`${where}: bad src ${JSON.stringify(s)}`); continue; }
+      if (s.doc.startsWith("EXTRA_")) continue; // Begleitmaterial (Folien, Merkblätter) ohne Seitenbereich
       const ok = ranges.some((r) => r.key === s.doc && s.page >= r.from - 1 && s.page <= r.to + 1);
       const solutionsPage = s.page > (Math.max(...ranges.filter((r) => r.key === s.doc).map((r) => r.to)) || 0);
       if (!ok && !(solutionsPage && ranges.some((r) => r.key === s.doc))) errs.push(`${where}: src ${s.doc} p.${s.page} outside topic pages`);
@@ -47,7 +48,7 @@ for (const f of files.filter((x) => x.endsWith(".json"))) {
   } else {
     for (const k of ["id", "moduleId", "title"]) if (typeof j[k] !== "string" || !j[k]) errs.push(`missing ${k}`);
     if (path.basename(f, ".json") !== j.id) errs.push(`file name must equal id (${j.id})`);
-    if (!Array.isArray(j.sections) || j.sections.length < 3) errs.push("≥3 sections");
+    if (!Array.isArray(j.sections) || j.sections.length < (j.kind === "drill" ? 1 : 3)) errs.push("≥3 sections");
     (j.sections ?? []).forEach((s: any, i: number) => { if (!s.id || !s.title || !s.short || !s.long) errs.push(`section ${i} incomplete`); checkSrc(s.src, `section ${s.id}`); });
     (j.definitions ?? []).forEach((d: any, i: number) => { if (!d.term || !d.text) errs.push(`definition ${i} incomplete`); checkSrc(d.src, `definition ${d.term}`); });
     if (!j.schemas?.length) warn.push("no Prüfungsschema");
@@ -77,18 +78,20 @@ for (const f of files.filter((x) => x.endsWith(".json"))) {
       if (!q.hints?.length) warn.push(`${w}: no hints`);
       checkSrc(q.src, w);
     });
-    if ((j.quiz ?? []).length < 12) errs.push(`only ${(j.quiz ?? []).length} quiz items (≥12)`);
-    for (const t of TYPES) if (!seenTypes.has(t)) errs.push(`quiz type missing: ${t}`);
-    for (const l of LEVELS) if (!seenLevels.has(l)) errs.push(`level missing: ${l}`);
+    const drill = j.kind === "drill";
+    if ((j.quiz ?? []).length < (drill ? 25 : 12)) errs.push(`only ${(j.quiz ?? []).length} quiz items (≥${drill ? 25 : 12})`);
+    if (!drill) for (const t of TYPES) if (!seenTypes.has(t)) errs.push(`quiz type missing: ${t}`);
+    if (!drill) for (const l of LEVELS) if (!seenLevels.has(l)) errs.push(`level missing: ${l}`);
     for (const d of [1, 2, 3]) if (!seenDiff.has(d)) errs.push(`difficulty missing: ${d}`);
-    if (!j.case) errs.push("no Gutachten case");
+    if (drill) { /* drill packs: case optional */ }
+    else if (!j.case) errs.push("no Gutachten case");
     else {
       const parts = (j.case.steps ?? []).map((s: any) => s.part).join(",");
       if (parts !== "obersatz,definition,subsumtion,ergebnis") errs.push(`case steps must be obersatz,definition,subsumtion,ergebnis (got ${parts})`);
       (j.case.steps ?? []).forEach((s: any, i: number) => { if (!s.prompt || !s.model || !s.rubric?.length) errs.push(`case step ${i} incomplete`); });
       checkSrc(j.case.src, "case");
     }
-    if ((j.flashcards ?? []).length < 8) errs.push("≥8 flashcards");
+    if ((j.flashcards ?? []).length < (j.kind === "drill" ? 0 : 8)) errs.push("≥8 flashcards");
     (j.flashcards ?? []).forEach((c: any, i: number) => { if (!c.front || !c.back) errs.push(`card ${i} incomplete`); checkSrc(c.src, `card ${i}`); });
     // coverage: each sub-section of the pack's topics should be referenced by ≥1 section and ≥2 quiz items
     const subs = cur.filter((t) => topics.includes(t.parentId ?? "") && t.pdfStart != null);

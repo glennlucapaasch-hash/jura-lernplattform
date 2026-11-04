@@ -1,0 +1,125 @@
+{
+ "_note": "Begleitinformationen zu den Einsendeaufgaben. Der Aufgabentext selbst bleibt in deiner Bibliothek (nicht im Repository). Die App liefert keine Lösung – Einsendearbeiten sind selbständig zu bearbeiten.",
+ "rules": [
+  "Freiwillig und keine Zulassungsvoraussetzung – aber die beste Übung mit individueller Korrektur.",
+  "Wie eine Klausur behandeln: möglichst ohne Hilfsmittel lösen (Tipp: im Klausurtrainer mit Zeitlimit schreiben).",
+  "Maschinengeschrieben als PDF im Online-Übungssystem bis zum Endtermin einreichen – danach wird nichts mehr berücksichtigt.",
+  "Keine Gliederung und kein Literaturverzeichnis; keine Zitate für Rechtsprechungs- oder Literaturnachweise (z. B. für Definitionen oder Rechtsansichten).",
+  "Keine Vorgaben zu Schriftart und -größe; üblich sind Times New Roman 12 pt, Arial 11 pt oder Calibri 11 pt.",
+  "Korrekturrand: 1/3 jeder Seite links frei lassen. Auf jeder Seite oben links die Matrikelnummer.",
+  "Keine Seitenbegrenzung – aber Schwerpunkte richtig setzen: Überflüssiges breit zu erörtern wirkt sich negativ aus.",
+  "Nur A4, kein Bearbeitungs- oder Schreibschutz im PDF; mit der Abgabe versicherst du, selbständig gearbeitet zu haben.",
+  "Die Korrektur kommt spätestens eine Woche vor der nächsten Abgabe (EA bzw. Kurzhausarbeit) – Anmerkungen dann direkt umsetzen."
+ ],
+ "assignments": [
+  {
+   "id": "ea-55101-3",
+   "deadlineId": "ea-55101-3",
+   "moduleId": "55101",
+   "title": "Einsendeaufgabe BGB AT – KE 1–3",
+   "scope": "Kurseinheiten 1–3",
+   "parts": [
+    {
+     "label": "Fall 1 – Aufgabe 1",
+     "points": 30,
+     "topic": "Vertragsschluss im Online-Handel",
+     "lessons": [
+      "bgb-ke3-vertragsschluss",
+      "bgb-ke4-agb-internet",
+      "bgb-ke2-zugang"
+     ]
+    },
+    {
+     "label": "Fall 2 – Aufgabe 2",
+     "points": 70,
+     "topic": "Willenserklärung und ihre Voraussetzungen, Erklärungen mithilfe technischer Einrichtungen",
+     "lessons": [
+      "bgb-ke2-willenserklaerung",
+      "bgb-ke2-zugang",
+      "bgb-ke3-vertragsschluss"
+     ]
+    }
+   ],
+   "method": [
+    "bgb-ke1-gutachten-privatautonomie",
+    "prop-gutachtentechnik",
+    "prop-sachverhalt"
+   ],
+   "hints": "Lies den Bearbeitervermerk und die Anmerkungen am Ende genau: Dort steht, welche Normen nicht zu prüfen sind und von welchen Annahmen du ausgehen sollst."
+  },
+  {
+   "id": "ea-55101-8",
+   "deadlineId": "ea-55101-8",
+   "moduleId": "55101",
+   "title": "Einsendeaufgabe BGB AT – KE 1–8",
+   "scope": "Kurseinheiten 1–8",
+   "parts": [
+    {
+     "label": "Aufgabe 1",
+     "points": 45,
+     "topic": "Kaufpreisanspruch – Vertragsschluss und Lösung vom Vertrag",
+     "lessons": [
+      "bgb-ke3-vertragsschluss",
+      "bgb-ke6-anfechtung",
+      "bgb-ke4-auslegung"
+     ]
+    },
+    {
+     "label": "Aufgabe 2",
+     "points": 55,
+     "topic": "Schadensersatz bei Vertragsverhandlungen",
+     "lessons": [
+      "bgb-ke3-vertragsschluss",
+      "bgb-ke6-anfechtung"
+     ]
+    }
+   ],
+   "method": [
+    "bgb-ke1-gutachten-privatautonomie",
+    "prop-gutachtentechnik",
+    "prop-meinungsstreit"
+   ],
+   "hints": "Bearbeitervermerk beachten: Es ist auf alle aufgeworfenen Fragen einzugehen, ggf. hilfsgutachterlich; bestimmte Normen sind ausdrücklich ausgeschlossen."
+  }
+ ],
+ "steps": [
+  {
+   "id": "lesen",
+   "label": "Sachverhalt zweimal lesen, Personen- und Zeitskizze anfertigen",
+   "daysBefore": 7,
+   "lesson": "prop-sachverhalt"
+  },
+  {
+   "id": "stoff",
+   "label": "Die verlinkten Lerneinheiten wiederholen (Quiz der jeweiligen Einheit)",
+   "daysBefore": 6
+  },
+  {
+   "id": "skizze",
+   "label": "Lösungsskizze (nur für dich – in der EA selbst keine Gliederung): Anspruchsgrundlage, Prüfungspunkte, Schwerpunkte markieren",
+   "daysBefore": 5,
+   "lesson": "prop-gutachtentechnik"
+  },
+  {
+   "id": "gutachten",
+   "label": "Gutachten ausformulieren (Obersatz – Definition – Subsumtion – Ergebnis)",
+   "daysBefore": 4
+  },
+  {
+   "id": "ueberarbeiten",
+   "label": "Überarbeiten: Gutachtenstil, Normzitate, Schwerpunkte, Ergebnis passt zum Obersatz",
+   "daysBefore": 2,
+   "lesson": "prop-normzitation-gutachtenebenen"
+  },
+  {
+   "id": "formalia",
+   "label": "Formalia: A4, Matrikelnummer oben links, 1/3 Korrekturrand links, keine Gliederung/kein Literaturverzeichnis, PDF ohne Schutz",
+   "daysBefore": 1
+  },
+  {
+   "id": "upload",
+   "label": "PDF im Online-Übungssystem hochladen und Eingang prüfen",
+   "daysBefore": 1
+  }
+ ]
+}

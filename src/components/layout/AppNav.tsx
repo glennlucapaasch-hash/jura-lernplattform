@@ -3,12 +3,12 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import {
-  LayoutDashboard, CalendarDays, AlarmClock, Library, GraduationCap, ListChecks, PenLine, Timer, Layers, BookOpen, TrendingUp, Search, Settings, Menu, X, Scale,
+  LayoutDashboard, CalendarDays, AlarmClock, Library, GraduationCap, ListChecks, PenLine, Timer, Layers, BookOpen, TrendingUp, Search, Settings, Menu, X, Scale, ClipboardList,
 } from "lucide-react";
 import { NAV, MOBILE_PRIMARY } from "./nav-items";
 import { cx } from "@/components/ui";
 
-const ICONS = { LayoutDashboard, CalendarDays, AlarmClock, Library, GraduationCap, ListChecks, PenLine, Timer, Layers, BookOpen, TrendingUp, Search, Settings };
+const ICONS = { LayoutDashboard, CalendarDays, AlarmClock, Library, GraduationCap, ListChecks, PenLine, Timer, Layers, BookOpen, TrendingUp, Search, Settings, ClipboardList };
 
 function isActive(path: string, href: string) {
   return href === "/" ? path === "/" : path === href || path.startsWith(href + "/");

@@ -7,11 +7,12 @@ import { QuizItemView } from "@/components/learn/QuizItemView";
 import { GutachtenCase } from "@/components/learn/GutachtenCase";
 import { TutorChat } from "@/components/tutor/TutorChat";
 import { SourceChips } from "@/components/docs/SourceChips";
+import { BiteReader } from "@/components/learn/BiteReader";
 
-const TABS = ["Erklärung", "Definitionen", "Schemata", "Quiz", "Gutachtenfall", "Karteikarten", "KI-Dozent"] as const;
+const TABS = ["Häppchen", "Erklärung", "Definitionen", "Schemata", "Quiz", "Gutachtenfall", "Karteikarten", "KI-Dozent"] as const;
 
 export function LessonView({ lesson, moduleTitle, aiReady }: { lesson: LessonPack; moduleTitle: string; aiReady: boolean }) {
-  const [tab, setTab] = useState<(typeof TABS)[number]>("Erklärung");
+  const [tab, setTab] = useState<(typeof TABS)[number]>(lesson.kind === "drill" ? "Quiz" : "Häppchen");
   const [ask, setAsk] = useState<LessonSection | null>(null);
   const [qi, setQi] = useState(0);
   return (
@@ -22,6 +23,7 @@ export function LessonView({ lesson, moduleTitle, aiReady }: { lesson: LessonPac
           <button key={t} onClick={() => setTab(t)} className={cx("shrink-0 rounded-full px-4 py-1.5 text-sm font-medium", tab === t ? "bg-brand-500 text-white" : "bg-surface text-ink-soft border border-line")}>{t}</button>
         ))}
       </div>
+      {tab === "Häppchen" && <BiteReader lessonId={lesson.id} sections={lesson.sections} definitions={lesson.definitions} quiz={lesson.quiz} topicId={lesson.topicIds[0]} />}
       {tab === "Erklärung" && <LessonSections sections={lesson.sections} onAsk={(s) => { setAsk(s); setTab("KI-Dozent"); }} />}
       {tab === "Definitionen" && <DefinitionList defs={lesson.definitions} />}
       {tab === "Schemata" && <SchemaList schemas={lesson.schemas} />}

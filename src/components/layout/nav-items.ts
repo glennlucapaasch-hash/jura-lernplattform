@@ -2,6 +2,7 @@ export const NAV = [
   { href: "/", label: "Dashboard", icon: "LayoutDashboard" },
   { href: "/lernplan", label: "Lernplan", icon: "CalendarDays" },
   { href: "/termine", label: "Termine & Fristen", icon: "AlarmClock" },
+  { href: "/einsendeaufgaben", label: "Einsendeaufgaben", icon: "ClipboardList" },
   { href: "/module", label: "Meine Module", icon: "Library" },
   { href: "/dozent", label: "KI-Dozent", icon: "GraduationCap" },
   { href: "/quiz", label: "Quiz", icon: "ListChecks" },
