@@ -2,7 +2,9 @@
   "id": "prop-auslegung",
   "moduleId": "55100",
   "ke": null,
-  "topicIds": ["prop-d"],
+  "topicIds": [
+    "prop-d"
+  ],
   "title": "Die Auslegung von Gesetzen: Methoden, besondere Argumentationsformen, Analogie und teleologische Reduktion",
   "estMinutes": 70,
   "sections": [
@@ -10,63 +12,254 @@
       "id": "s1",
       "title": "Einführung: Warum und mit welchem Ziel werden Gesetze ausgelegt?",
       "short": "Manche Normen versteht man schon beim Lesen (§ 985 BGB), andere nicht (§ 242 BGB: „alles und nichts“). Gesetze sind daher auszulegen, d. h. ihr Sinn ist zu erforschen – meist bezogen auf einzelne Tatbestandsmerkmale, manchmal auf ganze Normteile („Treu und Glauben“). Ziel ist nach der objektiven Theorie der im Wortlaut verobjektivierte Wille des Gesetzgebers, nicht dessen subjektiver Wille. Vorüberlegung: Ist die Norm überhaupt auslegungsbedürftig?",
-      "long": "## Verständliche und unverständliche Normen (S. 143)\n\n- **§ 985 BGB** erschließt sich weitgehend beim Lesen: Der Eigentümer kann vom Besitzer (der die tatsächliche Sachherrschaft ausübt) die Herausgabe verlangen.\n- **§ 242 BGB** enthält „alles und nichts“; anerkannt ist aber, dass ihm über den Wortlaut hinaus ein das gesamte Rechtsleben beherrschender Grundsatz zu entnehmen ist: Jeder hat bei der Erfüllung seiner Vertragspflichten nach **Treu und Glauben** zu handeln.\n\nGesetze sind daher **auszulegen**: Welche Bedeutung hat eine Regelung, welchen Fall betrifft sie? Meist geht es um einzelne **Tatbestandsmerkmale** – bei § 985 BGB etwa: Ist auch **Miteigentum** gemeint? Ist der **mittelbare Besitzer** erfasst (der Vermieter gegenüber dem Mieter als unmittelbarem Besitzer)? Was muss der Besitzer zur Herausgabe tun? Manchmal ist ein ganzer Normteil auslegungsbedürftig – bei § 242 BGB wird nicht zwischen „Treu“ und „Glauben“ unterschieden.\n\n## Ziel der Auslegung (S. 143–144)\n\nZiel ist, den **im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers** herauszufinden (**objektive Theorie**). Auf den subjektiven Willen kommt es nicht an: Er lässt sich bei alten Gesetzen oft nicht feststellen und kann durch veränderte Lebensumstände überholt sein.\n\n**Merke – Auslegungsmethoden (S. 144):** sprachlich-grammatikalische, systematische, teleologische und historische Auslegung.\n\n**Vorüberlegung:** Ist die Norm überhaupt auslegungsbedürftig? Bestehen Zweifel am Regelungsgehalt?",
-      "src": [{"doc":"PROP_1","page":143},{"doc":"PROP_1","page":144}]
+      "long": "## Verständliche und unverständliche Normen (S. 144)\n\n- **§ 985 BGB** erschließt sich weitgehend beim Lesen: Der Eigentümer kann vom Besitzer (der die tatsächliche Sachherrschaft ausübt) die Herausgabe verlangen.\n- **§ 242 BGB** enthält „alles und nichts“; anerkannt ist aber, dass ihm über den Wortlaut hinaus ein das gesamte Rechtsleben beherrschender Grundsatz zu entnehmen ist: Jeder hat bei der Erfüllung seiner Vertragspflichten nach **Treu und Glauben** zu handeln.\n\nGesetze sind daher **auszulegen**: Welche Bedeutung hat eine Regelung, welchen Fall betrifft sie? Meist geht es um einzelne **Tatbestandsmerkmale** – bei § 985 BGB etwa: Ist auch **Miteigentum** gemeint? Ist der **mittelbare Besitzer** erfasst (der Vermieter gegenüber dem Mieter als unmittelbarem Besitzer)? Was muss der Besitzer zur Herausgabe tun? Manchmal ist ein ganzer Normteil auslegungsbedürftig – bei § 242 BGB wird nicht zwischen „Treu“ und „Glauben“ unterschieden.\n\n## Ziel der Auslegung (S. 144–145)\n\nZiel ist, den **im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers** herauszufinden (**objektive Theorie**). Auf den subjektiven Willen kommt es nicht an: Er lässt sich bei alten Gesetzen oft nicht feststellen und kann durch veränderte Lebensumstände überholt sein.\n\n**Merke – Auslegungsmethoden (S. 145):** sprachlich-grammatikalische, systematische, teleologische und historische Auslegung.\n\n**Vorüberlegung:** Ist die Norm überhaupt auslegungsbedürftig? Bestehen Zweifel am Regelungsgehalt?",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        },
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
     },
     {
       "id": "s2",
       "title": "Sprachlich-grammatikalische Auslegung",
       "short": "Der Wortlaut ist Ausgangspunkt und Grenze der Auslegung, man darf aber nicht am buchstäblichen Ausdruck haften. Legaldefinitionen sind bindend (z. B. „unverzüglich“ = ohne schuldhaftes Zögern, § 121 Abs. 1 S. 1 BGB, mit Allgemeingültigkeit im Privatrecht). Fehlt eine Legaldefinition, gilt der juristische, im Übrigen der allgemeine Sprachgebrauch (Hypothek). Ein eindeutiger Wortsinn bindet grundsätzlich – § 985 BGB richtet sich nicht gegen den Besitzdiener.",
-      "long": "## Wortlaut als Ausgangspunkt (S. 144)\n\nMan darf nicht am buchstäblichen Ausdruck haften, aber der **Wortlaut ist immer der Ausgangspunkt**.\n\n## Legaldefinitionen (S. 144)\n\nRegelt das Gesetz selbst, wie ein Merkmal zu verstehen ist, liegt eine **Legaldefinition** vor; sie ist **bindend**. Man erkennt sie häufig daran, dass der definierte Begriff **in Klammern hinter der Definition** steht. *Beispiel:* § 121 Abs. 1 S. 1 BGB – „unverzüglich“ bedeutet **ohne schuldhaftes Zögern**. Diese Legaldefinition hat **Allgemeingültigkeit im gesamten Privatrecht**; steht „unverzüglich“ etwa in § 377 Abs. 1 HGB, kann man auf § 121 BGB verweisen.\n\n## Sprachgebrauch (S. 145)\n\nFehlt eine Legaldefinition, gilt der **Sprachgebrauch der Juristen**, im Übrigen der **allgemeine Sprachgebrauch**. Spricht das Gesetz von einer **Hypothek**, ist die Hypothek i. S. d. §§ 1113 ff. BGB gemeint – obwohl der Alltag oft kaum zwischen Hypothek und Grundschuld unterscheidet.\n\n## Wortlautgrenze (S. 145)\n\nEin durch Auslegung eindeutig festgestellter Wortsinn ist **grundsätzlich bindend**, da der Wortlaut die **Grenze jeder Auslegung** ist. *Beispiel § 985 BGB:* Anspruchsgegner ist nach dem eindeutigen Wortlaut nur der **Besitzer**, also wer aufgrund eines Herrschaftswillens die tatsächliche Sachherrschaft ausübt – nicht der **Besitzdiener**, der die Sache zwar in der Hand hält, aber keine Sachherrschaft ausübt (z. B. die Hausangestellte bezüglich der Sachen in der Wohnung ihres Arbeitgebers). Anderes gilt nur in **absoluten Ausnahmefällen**, wenn Sinn und Zweck eine andere Auslegung nicht nur nahelegen, sondern **gebieten**.\n\n**Merke:** Der Wortlaut ist Ausgangspunkt und Grenze der Auslegung; nicht am buchstäblichen Ausdruck haften bleiben.\n\n**Erster Arbeitsschritt:** Lesen Sie die auszulegende Vorschrift genau durch!",
-      "src": [{"doc":"PROP_1","page":144},{"doc":"PROP_1","page":145}]
+      "long": "## Wortlaut als Ausgangspunkt (S. 145)\n\nMan darf nicht am buchstäblichen Ausdruck haften, aber der **Wortlaut ist immer der Ausgangspunkt**.\n\n## Legaldefinitionen (S. 145)\n\nRegelt das Gesetz selbst, wie ein Merkmal zu verstehen ist, liegt eine **Legaldefinition** vor; sie ist **bindend**. Man erkennt sie häufig daran, dass der definierte Begriff **in Klammern hinter der Definition** steht. *Beispiel:* § 121 Abs. 1 S. 1 BGB – „unverzüglich“ bedeutet **ohne schuldhaftes Zögern**. Diese Legaldefinition hat **Allgemeingültigkeit im gesamten Privatrecht**; steht „unverzüglich“ etwa in § 377 Abs. 1 HGB, kann man auf § 121 BGB verweisen.\n\n## Sprachgebrauch (S. 146)\n\nFehlt eine Legaldefinition, gilt der **Sprachgebrauch der Juristen**, im Übrigen der **allgemeine Sprachgebrauch**. Spricht das Gesetz von einer **Hypothek**, ist die Hypothek i. S. d. §§ 1113 ff. BGB gemeint – obwohl der Alltag oft kaum zwischen Hypothek und Grundschuld unterscheidet.\n\n## Wortlautgrenze (S. 146)\n\nEin durch Auslegung eindeutig festgestellter Wortsinn ist **grundsätzlich bindend**, da der Wortlaut die **Grenze jeder Auslegung** ist. *Beispiel § 985 BGB:* Anspruchsgegner ist nach dem eindeutigen Wortlaut nur der **Besitzer**, also wer aufgrund eines Herrschaftswillens die tatsächliche Sachherrschaft ausübt – nicht der **Besitzdiener**, der die Sache zwar in der Hand hält, aber keine Sachherrschaft ausübt (z. B. die Hausangestellte bezüglich der Sachen in der Wohnung ihres Arbeitgebers). Anderes gilt nur in **absoluten Ausnahmefällen**, wenn Sinn und Zweck eine andere Auslegung nicht nur nahelegen, sondern **gebieten**.\n\n**Merke:** Der Wortlaut ist Ausgangspunkt und Grenze der Auslegung; nicht am buchstäblichen Ausdruck haften bleiben.\n\n**Erster Arbeitsschritt:** Lesen Sie die auszulegende Vorschrift genau durch!",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        },
+        {
+          "doc": "PROP_1",
+          "page": 145
+        }
+      ]
     },
     {
       "id": "s3",
       "title": "Systematische Auslegung mit verfassungs- und richtlinienkonformer Auslegung",
       "short": "Bleibt der Wortlaut uneindeutig, fragt die systematische Auslegung nach dem Bedeutungszusammenhang in der Rechtsordnung. „Sonstiges Recht“ in § 823 Abs. 1 BGB muss – im Vergleich zu Leben, Gesundheit, Freiheit, Eigentum – ein absolutes Recht sein; Forderungen und das Vermögen sind nicht geschützt. Unterfälle: verfassungskonforme Auslegung (allgemeines Persönlichkeitsrecht als sonstiges Recht) und richtlinienkonforme Auslegung (Ein- und Ausbaukosten bei § 439 BGB im Verbrauchsgüterkauf), die aber am klaren entgegenstehenden Wortlaut endet; bei überschießender Umsetzung besteht keine Pflicht.",
-      "long": "## Allgemeines (S. 145–146)\n\nKommt die grammatikalische Auslegung zu keinem eindeutigen Ergebnis, fragt man nach dem **Bedeutungszusammenhang**: Ein Rechtssatz ist im **Gesamtzusammenhang der Rechtsordnung** zu verstehen; man zieht mit ihm zusammenhängende Normen heran.\n\n**Beispiel § 823 Abs. 1 BGB (S. 145–146):** Der Wortlaut „sonstiges Recht“ ließe ein sehr weites Verständnis zu (alle dinglichen und obligatorischen Rechte). Der Vergleich mit den ausdrücklich genannten Rechtsgütern **Leben, Gesundheit, Freiheit und Eigentum** zeigt aber, dass auch sonstige Rechte einen vergleichbaren **Ausschließlichkeitscharakter** haben müssen – ein **absolutes, von jedermann zu beachtendes Recht**. **Bloße Forderungen** gegen eine bestimmte Person oder das **Vermögen** selbst sind nicht geschützt.\n\nEin eindeutiges systematisches Ergebnis ist grundsätzlich bindend, sofern Sinn und Zweck nichts anderes ergeben.\n\n## Verfassungskonforme Auslegung (S. 146)\n\n**Unterfall der systematischen Auslegung**; vor allem im öffentlichen Recht relevant, aber auch im Zivilrecht heranzuziehen: Bei mehreren Auslegungsmöglichkeiten ist eine Norm so auszulegen, dass sie **mit der Verfassung in Einklang** steht. Daher ist im Rahmen des § 823 Abs. 1 BGB auch das aus Art. 1 i. V. m. Art. 2 GG folgende **allgemeine Persönlichkeitsrecht** als „sonstiges Recht“ geschützt.\n\n## Richtlinienkonforme Auslegung (S. 146–147)\n\nWeiterer **Unterfall**: Ist eine Norm aufgrund einer **EU-Richtlinie** erlassen, ist zu prüfen, ob sie den Vorgaben entspricht. Wurde eine Richtlinie nicht umgesetzt, ist das geltende Recht **ab Ablauf der Umsetzungsfrist** richtlinienkonform auszulegen, damit die Richtlinie volle Wirksamkeit entfaltet. Die Auslegung hält sich aber an die nationalen Auslegungsregeln: **Bei klarem und entgegenstehendem Wortlaut scheidet sie aus.**\n\n*Beispiel § 439 Abs. 1 BGB (Verbrauchsgüterrichtlinie 1999/44/EG):* Umfasst die Nacherfüllung bei eingebauten Sachen (Fliesen, Teppichboden, Dachziegel) die **Ein- und Ausbaukosten**? Nach zwei EuGH-Verfahren (EuGH, Urt. v. 16.06.2011 – C-65/09 und C-87/09) galt richtlinienkonform: Beim **Verbrauchsgüterkauf (b2c**, § 474 Abs. 1 S. 1 BGB) kann der Käufer diese Kosten verlangen; bei **c2c** oder **b2b** nur Lieferung einer mangelfreien Sache. Seit dem **01.01.2018** regelt **§ 439 Abs. 3 BGB** den Anspruch ausdrücklich, sodass diese Auslegung nicht mehr erfolgt (Fn. 102).\n\n**Überschießende Umsetzung (S. 147):** Regelt der nationale Gesetzgeber mehr als die Richtlinie oder wendet er sie auf Fälle außerhalb ihres Anwendungsbereichs an, besteht dort **keine Pflicht** zur richtlinienkonformen Auslegung.\n\n**Merke:** Die systematische Auslegung betrachtet eine Norm im Gesamtgefüge der Rechtsordnung. **Zweiter Arbeitsschritt:** Auch die Vorschriften vor und hinter der Norm lesen; Grundgesetz und Europarecht im Hinterkopf behalten!",
-      "src": [{"doc":"PROP_1","page":145},{"doc":"PROP_1","page":146},{"doc":"PROP_1","page":147}]
+      "long": "## Allgemeines (S. 146–147)\n\nKommt die grammatikalische Auslegung zu keinem eindeutigen Ergebnis, fragt man nach dem **Bedeutungszusammenhang**: Ein Rechtssatz ist im **Gesamtzusammenhang der Rechtsordnung** zu verstehen; man zieht mit ihm zusammenhängende Normen heran.\n\n**Beispiel § 823 Abs. 1 BGB (S. 146–147):** Der Wortlaut „sonstiges Recht“ ließe ein sehr weites Verständnis zu (alle dinglichen und obligatorischen Rechte). Der Vergleich mit den ausdrücklich genannten Rechtsgütern **Leben, Gesundheit, Freiheit und Eigentum** zeigt aber, dass auch sonstige Rechte einen vergleichbaren **Ausschließlichkeitscharakter** haben müssen – ein **absolutes, von jedermann zu beachtendes Recht**. **Bloße Forderungen** gegen eine bestimmte Person oder das **Vermögen** selbst sind nicht geschützt.\n\nEin eindeutiges systematisches Ergebnis ist grundsätzlich bindend, sofern Sinn und Zweck nichts anderes ergeben.\n\n## Verfassungskonforme Auslegung (S. 147)\n\n**Unterfall der systematischen Auslegung**; vor allem im öffentlichen Recht relevant, aber auch im Zivilrecht heranzuziehen: Bei mehreren Auslegungsmöglichkeiten ist eine Norm so auszulegen, dass sie **mit der Verfassung in Einklang** steht. Daher ist im Rahmen des § 823 Abs. 1 BGB auch das aus Art. 1 i. V. m. Art. 2 GG folgende **allgemeine Persönlichkeitsrecht** als „sonstiges Recht“ geschützt.\n\n## Richtlinienkonforme Auslegung (S. 147–148)\n\nWeiterer **Unterfall**: Ist eine Norm aufgrund einer **EU-Richtlinie** erlassen, ist zu prüfen, ob sie den Vorgaben entspricht. Wurde eine Richtlinie nicht umgesetzt, ist das geltende Recht **ab Ablauf der Umsetzungsfrist** richtlinienkonform auszulegen, damit die Richtlinie volle Wirksamkeit entfaltet. Die Auslegung hält sich aber an die nationalen Auslegungsregeln: **Bei klarem und entgegenstehendem Wortlaut scheidet sie aus.**\n\n*Beispiel § 439 Abs. 1 BGB (Verbrauchsgüterrichtlinie 1999/44/EG):* Umfasst die Nacherfüllung bei eingebauten Sachen (Fliesen, Teppichboden, Dachziegel) die **Ein- und Ausbaukosten**? Nach zwei EuGH-Verfahren (EuGH, Urt. v. 16.06.2011 – C-65/09 und C-87/09) galt richtlinienkonform: Beim **Verbrauchsgüterkauf (b2c**, § 474 Abs. 1 S. 1 BGB) kann der Käufer diese Kosten verlangen; bei **c2c** oder **b2b** nur Lieferung einer mangelfreien Sache. Seit dem **01.01.2018** regelt **§ 439 Abs. 3 BGB** den Anspruch ausdrücklich, sodass diese Auslegung nicht mehr erfolgt (Fn. 102).\n\n**Überschießende Umsetzung (S. 148):** Regelt der nationale Gesetzgeber mehr als die Richtlinie oder wendet er sie auf Fälle außerhalb ihres Anwendungsbereichs an, besteht dort **keine Pflicht** zur richtlinienkonformen Auslegung.\n\n**Merke:** Die systematische Auslegung betrachtet eine Norm im Gesamtgefüge der Rechtsordnung. **Zweiter Arbeitsschritt:** Auch die Vorschriften vor und hinter der Norm lesen; Grundgesetz und Europarecht im Hinterkopf behalten!",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 146
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
     },
     {
       "id": "s4",
       "title": "Teleologische und historische Auslegung",
       "short": "Grundsätzlich entscheidend ist die teleologische Auslegung nach dem Gesetzeszweck (ratio legis); sie hat Vorrang und bezieht Zweckmäßigkeits- und Gerechtigkeitserwägungen, Rechtssicherheit und Vertrauensschutz ein (§ 826 BGB als zurückhaltend anzuwendender Auffangtatbestand: besonders verwerfliches Verhalten nötig). Die historische Auslegung untersucht die Entstehungsgeschichte (Motive und Protokolle bei Mugdan, Bundestags- und Bundesratsdrucksachen); sie hat geringe Bedeutung und kann ein Ergebnis nur stützen (§ 325 BGB und die frühere „Rücktrittsfalle“).",
-      "long": "## Teleologische Auslegung (S. 147–149)\n\nEntscheidend ist **grundsätzlich** die Auslegung nach dem Gesetzeszweck, der **ratio legis** (Sinn und Zweck). Sie hat gegenüber den anderen Methoden **grundsätzlich Vorrang**. Zu erforschen ist der mit der konkreten Norm verfolgte Zweck; dabei sind auch **allgemeine Zweckmäßigkeits- und Gerechtigkeitserwägungen** sowie **Rechtssicherheit** und **Vertrauensschutz** zu berücksichtigen.\n\n*Beispiel § 826 BGB:* Wann ist eine Schädigung sittenwidrig? § 826 BGB ist die **deliktische Generalklausel**, ein **Auffangtatbestand** und „letzter Rettungsanker des Deliktsrechts“, der nur eingreift, wenn andere Tatbestände (z. B. § 823 BGB) Schutzlücken lassen. Daher ist er **zurückhaltend** anzuwenden: Ein bloßer Vertrags- oder Vertrauensbruch genügt nicht; erforderlich ist ein **besonders verwerfliches Verhalten**.\n\n**Merke:** Die teleologische Auslegung ist grundsätzlich entscheidend. **Dritter Arbeitsschritt:** Welchen Zweck soll die Vorschrift erfüllen?\n\n## Historische Auslegung (S. 149)\n\nSie beleuchtet die **Entstehungsgeschichte**: Wie wurde das Problem vor Erlass der Norm gelöst? Welche Regelungsabsicht, welcher Zweck, welche Normvorstellung hatte der historische Gesetzgeber? Quellen: für das BGB von 1900 die **„Motive“ und „Protokolle“** (veröffentlicht bei Mugdan, 1899, Nachdruck 1979); für neuere Gesetze **Bundestags- und Bundesratsdrucksachen**.\n\n**Geringe Bedeutung:** Praktisch wurden Auslegungsprobleme im Gesetzgebungsverfahren oft gar nicht gesehen; rechtlich kann die historische Auslegung ein gefundenes Ergebnis **nur stützen**, nie zu einem Ergebnis führen, das den anderen Auslegungen widerspricht.\n\n*Beispiel § 325 BGB:* Dass man nach einem Rücktritt zusätzlich Schadensersatz verlangen kann, wirkt selbstverständlich. Der Sinn erschließt sich erst historisch: Vor der **Schuldrechtsmodernisierung** galt das Gegenteil (§ 326 Abs. 1 BGB a. F., „**Rücktrittsfalle**“); § 325 BGB wurde zur **Klarstellung** eingefügt.\n\n**Merke:** Die historische Auslegung kann nur ein bereits gefundenes Ergebnis stützen. **Vierter Arbeitsschritt:** Etwas über die geschichtliche Entwicklung der Vorschrift herausfinden!\n\n**Hinweis zur Einordnung:** In Teil A (S. 41–42) wird Studierenden empfohlen, die Methoden bei Zweifeln in der Reihenfolge Wortlaut – Systematik – Historie – Telos abzuhandeln; Teil D betont, dass das Telos grundsätzlich entscheidet und die Historie nur stützt.",
-      "src": [{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":148},{"doc":"PROP_1","page":149}]
+      "long": "## Teleologische Auslegung (S. 148–150)\n\nEntscheidend ist **grundsätzlich** die Auslegung nach dem Gesetzeszweck, der **ratio legis** (Sinn und Zweck). Sie hat gegenüber den anderen Methoden **grundsätzlich Vorrang**. Zu erforschen ist der mit der konkreten Norm verfolgte Zweck; dabei sind auch **allgemeine Zweckmäßigkeits- und Gerechtigkeitserwägungen** sowie **Rechtssicherheit** und **Vertrauensschutz** zu berücksichtigen.\n\n*Beispiel § 826 BGB:* Wann ist eine Schädigung sittenwidrig? § 826 BGB ist die **deliktische Generalklausel**, ein **Auffangtatbestand** und „letzter Rettungsanker des Deliktsrechts“, der nur eingreift, wenn andere Tatbestände (z. B. § 823 BGB) Schutzlücken lassen. Daher ist er **zurückhaltend** anzuwenden: Ein bloßer Vertrags- oder Vertrauensbruch genügt nicht; erforderlich ist ein **besonders verwerfliches Verhalten**.\n\n**Merke:** Die teleologische Auslegung ist grundsätzlich entscheidend. **Dritter Arbeitsschritt:** Welchen Zweck soll die Vorschrift erfüllen?\n\n## Historische Auslegung (S. 150)\n\nSie beleuchtet die **Entstehungsgeschichte**: Wie wurde das Problem vor Erlass der Norm gelöst? Welche Regelungsabsicht, welcher Zweck, welche Normvorstellung hatte der historische Gesetzgeber? Quellen: für das BGB von 1900 die **„Motive“ und „Protokolle“** (veröffentlicht bei Mugdan, 1899, Nachdruck 1979); für neuere Gesetze **Bundestags- und Bundesratsdrucksachen**.\n\n**Geringe Bedeutung:** Praktisch wurden Auslegungsprobleme im Gesetzgebungsverfahren oft gar nicht gesehen; rechtlich kann die historische Auslegung ein gefundenes Ergebnis **nur stützen**, nie zu einem Ergebnis führen, das den anderen Auslegungen widerspricht.\n\n*Beispiel § 325 BGB:* Dass man nach einem Rücktritt zusätzlich Schadensersatz verlangen kann, wirkt selbstverständlich. Der Sinn erschließt sich erst historisch: Vor der **Schuldrechtsmodernisierung** galt das Gegenteil (§ 326 Abs. 1 BGB a. F., „**Rücktrittsfalle**“); § 325 BGB wurde zur **Klarstellung** eingefügt.\n\n**Merke:** Die historische Auslegung kann nur ein bereits gefundenes Ergebnis stützen. **Vierter Arbeitsschritt:** Etwas über die geschichtliche Entwicklung der Vorschrift herausfinden!\n\n**Hinweis zur Einordnung:** In Teil A (S. 42–43) wird Studierenden empfohlen, die Methoden bei Zweifeln in der Reihenfolge Wortlaut – Systematik – Historie – Telos abzuhandeln; Teil D betont, dass das Telos grundsätzlich entscheidet und die Historie nur stützt.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 148
+        },
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
     },
     {
       "id": "s5",
       "title": "Besondere Auslegungsformen: extensiv/restriktiv, Umkehrschluss, Erst-recht-Schluss, effet utile",
       "short": "Typische Argumentationsformen zur Bestimmung der ratio legis: Die extensive Auslegung fasst einen Tatbestand weit, die restriktive eng (Bande i. S. d. § 244 Abs. 1 Nr. 2 StGB: der Große Senat des BGH entschied sich restriktiv, mindestens drei Personen). Der Umkehrschluss (argumentum e contrario) schließt aus ausdrücklich geregelten Fällen, dass ähnliche ungeregelte nicht erfasst sind (§ 119 BGB: kein Anfechtungsrecht beim Motivirrtum). Der Erst-recht-Schluss (a maiore ad minus) schließt vom Ganzen auf Teile (§ 2255 BGB). Effet utile: Normen aus EU-Richtlinien sind im Zweifel so anzuwenden, dass die Richtlinie volle Wirkung entfaltet.",
-      "long": "## Extensive und restriktive Auslegung (S. 149)\n\nDie **extensive** Auslegung fasst einen Tatbestand möglichst **weit**, um den Anwendungsbereich zu vergrößern; die **restriktive** setzt die Grenzen möglichst **eng**.\n\n*Beispiel § 244 Abs. 1 Nr. 2 StGB – Bande:* Extensiv könnte man schon bei mehr als einer Person eine Bande annehmen; restriktiv lässt der allgemeine Sprachgebrauch an **mindestens drei** Personen denken. Nach langem Streit hat sich der **Große Senat für Strafsachen des BGH** für die **restriktive** Auslegung entschieden.\n\n## Umkehrschluss – argumentum e contrario (S. 149)\n\nEin Sachverhalt fällt **nicht** unter einen Tatbestand, **weil** das Gesetz ähnlich gelagerte Sachverhalte **ausdrücklich** geregelt hat. *Beispiel § 119 BGB:* Geregelt sind Inhalts-, Erklärungs- und Eigenschaftsirrtum. Im Gegenschluss berechtigen andere Irrtümer, insbesondere der **Motivirrtum**, nicht zur Anfechtung. Der Vater, der Eheringe für Tochter und Bräutigam kauft, kann den Kauf nicht anfechten, wenn die Hochzeit ausfällt.\n\n**Merke:** Regelt das Gesetz einen oder mehrere Fälle ausdrücklich, fällt ein dort nicht geregelter, ähnlich gelagerter Fall im Umkehrschluss nicht in den Anwendungsbereich.\n\n## Erst-recht-Schluss – argumentum a maiore ad minus (S. 150)\n\nVom **Größeren auf das Kleinere**, vom Allgemeinen auf das Spezielle, vom Mehr auf das Weniger: Knüpft das Gesetz an einen Tatbestand eine Rechtsfolge, gilt sie auch für einen ähnlichen Tatbestand, auf den der Gesetzeszweck **in noch stärkerem Maße** zutrifft. *Beispiel § 2255 BGB:* Wenn schon das **ganze Testament** durch Vernichtung oder Veränderung widerrufen werden kann, dann erst recht **Teile** davon.\n\n**Merke:** Regelt eine Norm nur das Ganze, Große, Allgemeine, gilt sie auch für Teile, das Kleinere, das Speziellere.\n\n## Effet utile (S. 150)\n\nMit der Europäisierung wächst die Bedeutung des **effet utile**: Der Rechtsanwender muss eine Norm im Zweifel so auslegen, dass die zugrunde liegende **EU-Richtlinie volle Wirkung** entfaltet. *Beispiel § 48 VwVfG:* Wird einem Bürger aufgrund einer Richtlinie per Verwaltungsakt eine Geldzahlung zugesprochen, kann der effet utile die **Rücknahme** des richtlinienwidrigen VA rechtfertigen, auch wenn sie nach der sonst abschließenden Regelung des § 48 VwVfG nicht mehr möglich wäre.",
-      "src": [{"doc":"PROP_1","page":149},{"doc":"PROP_1","page":150}]
+      "long": "## Extensive und restriktive Auslegung (S. 150)\n\nDie **extensive** Auslegung fasst einen Tatbestand möglichst **weit**, um den Anwendungsbereich zu vergrößern; die **restriktive** setzt die Grenzen möglichst **eng**.\n\n*Beispiel § 244 Abs. 1 Nr. 2 StGB – Bande:* Extensiv könnte man schon bei mehr als einer Person eine Bande annehmen; restriktiv lässt der allgemeine Sprachgebrauch an **mindestens drei** Personen denken. Nach langem Streit hat sich der **Große Senat für Strafsachen des BGH** für die **restriktive** Auslegung entschieden.\n\n## Umkehrschluss – argumentum e contrario (S. 150)\n\nEin Sachverhalt fällt **nicht** unter einen Tatbestand, **weil** das Gesetz ähnlich gelagerte Sachverhalte **ausdrücklich** geregelt hat. *Beispiel § 119 BGB:* Geregelt sind Inhalts-, Erklärungs- und Eigenschaftsirrtum. Im Gegenschluss berechtigen andere Irrtümer, insbesondere der **Motivirrtum**, nicht zur Anfechtung. Der Vater, der Eheringe für Tochter und Bräutigam kauft, kann den Kauf nicht anfechten, wenn die Hochzeit ausfällt.\n\n**Merke:** Regelt das Gesetz einen oder mehrere Fälle ausdrücklich, fällt ein dort nicht geregelter, ähnlich gelagerter Fall im Umkehrschluss nicht in den Anwendungsbereich.\n\n## Erst-recht-Schluss – argumentum a maiore ad minus (S. 151)\n\nVom **Größeren auf das Kleinere**, vom Allgemeinen auf das Spezielle, vom Mehr auf das Weniger: Knüpft das Gesetz an einen Tatbestand eine Rechtsfolge, gilt sie auch für einen ähnlichen Tatbestand, auf den der Gesetzeszweck **in noch stärkerem Maße** zutrifft. *Beispiel § 2255 BGB:* Wenn schon das **ganze Testament** durch Vernichtung oder Veränderung widerrufen werden kann, dann erst recht **Teile** davon.\n\n**Merke:** Regelt eine Norm nur das Ganze, Große, Allgemeine, gilt sie auch für Teile, das Kleinere, das Speziellere.\n\n## Effet utile (S. 151)\n\nMit der Europäisierung wächst die Bedeutung des **effet utile**: Der Rechtsanwender muss eine Norm im Zweifel so auslegen, dass die zugrunde liegende **EU-Richtlinie volle Wirkung** entfaltet. *Beispiel § 48 VwVfG:* Wird einem Bürger aufgrund einer Richtlinie per Verwaltungsakt eine Geldzahlung zugesprochen, kann der effet utile die **Rücknahme** des richtlinienwidrigen VA rechtfertigen, auch wenn sie nach der sonst abschließenden Regelung des § 48 VwVfG nicht mehr möglich wäre.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        },
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
     },
     {
       "id": "s6",
       "title": "Überschreiten der Auslegungsgrenzen: Analogie und teleologische Reduktion",
       "short": "Der Wortlaut ist grundsätzlich Grenze der Auslegung; ausnahmsweise kann der Gesetzeszweck gebieten, sie zu überschreiten. Analogie: Anwendung einer Norm auf einen Fall, der sich nicht unter ihren Tatbestand subsumieren lässt – Voraussetzungen planwidrige Regelungslücke und vergleichbare Interessenlage. Gesetzesanalogie: eine konkrete Norm (§ 31 BGB auf alle juristischen Personen und rechtsfähige Personengesellschaften); Rechtsanalogie: übergeordnetes Prinzip aus mehreren Rechtssätzen (früher c. i. c., heute § 311 Abs. 2 Nr. 1 BGB). Teleologische Reduktion: Nichtanwendung trotz einschlägigen Wortlauts, wenn der Zweck dies gebietet (§ 181 BGB bei Zustimmung oder lediglich rechtlichem Vorteil).",
-      "long": "## Grundsatz (S. 150)\n\nDer Wortlaut ist grundsätzlich die Grenze jeder Auslegung. **In Ausnahmefällen** kann der **Gesetzeszweck** gebieten, sie zu überschreiten.\n\n## Analogie (S. 150–151)\n\nEine Norm wird auf einen Fall angewendet, der sich **nicht unter ihren Tatbestand subsumieren** lässt. **Voraussetzungen:**\n1. eine **planwidrige Regelungslücke** und\n2. eine **vergleichbare Interessenlage**.\n\n- **Gesetzesanalogie:** Eine **konkrete Norm** wird über ihren Wortlaut hinaus auf einen ungeregelten Fall angewendet. *Beispiel § 31 BGB:* Der Wortlaut betrifft nur die Haftung des **Vereins**; die Norm wird u. a. analog auf **alle juristischen Personen** (GmbH, AG, Genossenschaft) sowie **rechtsfähige Personengesellschaften** (OHG, KG) angewendet – nach dem Grundsatz, dass sich juristische Personen das Handeln ihrer **Organe** als eigenes zurechnen lassen müssen.\n- **Rechtsanalogie:** Aus **mehreren Rechtssätzen** wird ein **übergeordnetes Prinzip** herausgearbeitet. *Beispiel § 311 Abs. 2 Nr. 1 BGB:* Mit der Schuldrechtsmodernisierung eingefügt; bis dahin war die **culpa in contrahendo (c. i. c.)** eine Rechtsanalogie zum gesamten Schuldrecht: Vertragliche Schutzpflichten entstehen bereits mit **Aufnahme von Vertragsverhandlungen** (Kunde rutscht im Supermarkt auf einem Salatblatt aus – der Inhaber haftet, obwohl noch kein Vertrag besteht).\n\n**Merke:** Bei der Analogie wird eine Norm **über ihren Wortlaut hinaus** angewendet.\n\n## Teleologische Reduktion (S. 151)\n\nEine Norm wird **im Widerspruch zu ihrem Wortlaut** auf einen Sachverhalt **nicht angewendet** – nur, wenn der Gesetzeszweck die Anwendung **verbietet**. *Beispiel § 181 BGB:* Zweck ist, den Vertretenen vor **In-sich-Geschäften** seines Vertreters zu schützen (der Generalbevollmächtigte verkauft sich selbst das Grundstück des Vertretenen für 1 €) und **Interessenkonflikte** zu vermeiden. Liegt kein Interessenkonflikt vor, findet die Norm keine Anwendung – etwa wenn der Vertretene **zustimmt** oder das Geschäft für ihn **lediglich rechtlich vorteilhaft** (§ 107 BGB) ist.\n\n**Merke:** Bei der teleologischen Reduktion wird eine Norm **trotz ihres entgegenstehenden einschlägigen Wortlauts** nicht angewendet.",
-      "src": [{"doc":"PROP_1","page":150},{"doc":"PROP_1","page":151}]
+      "long": "## Grundsatz (S. 151)\n\nDer Wortlaut ist grundsätzlich die Grenze jeder Auslegung. **In Ausnahmefällen** kann der **Gesetzeszweck** gebieten, sie zu überschreiten.\n\n## Analogie (S. 151–152)\n\nEine Norm wird auf einen Fall angewendet, der sich **nicht unter ihren Tatbestand subsumieren** lässt. **Voraussetzungen:**\n1. eine **planwidrige Regelungslücke** und\n2. eine **vergleichbare Interessenlage**.\n\n- **Gesetzesanalogie:** Eine **konkrete Norm** wird über ihren Wortlaut hinaus auf einen ungeregelten Fall angewendet. *Beispiel § 31 BGB:* Der Wortlaut betrifft nur die Haftung des **Vereins**; die Norm wird u. a. analog auf **alle juristischen Personen** (GmbH, AG, Genossenschaft) sowie **rechtsfähige Personengesellschaften** (OHG, KG) angewendet – nach dem Grundsatz, dass sich juristische Personen das Handeln ihrer **Organe** als eigenes zurechnen lassen müssen.\n- **Rechtsanalogie:** Aus **mehreren Rechtssätzen** wird ein **übergeordnetes Prinzip** herausgearbeitet. *Beispiel § 311 Abs. 2 Nr. 1 BGB:* Mit der Schuldrechtsmodernisierung eingefügt; bis dahin war die **culpa in contrahendo (c. i. c.)** eine Rechtsanalogie zum gesamten Schuldrecht: Vertragliche Schutzpflichten entstehen bereits mit **Aufnahme von Vertragsverhandlungen** (Kunde rutscht im Supermarkt auf einem Salatblatt aus – der Inhaber haftet, obwohl noch kein Vertrag besteht).\n\n**Merke:** Bei der Analogie wird eine Norm **über ihren Wortlaut hinaus** angewendet.\n\n## Teleologische Reduktion (S. 152)\n\nEine Norm wird **im Widerspruch zu ihrem Wortlaut** auf einen Sachverhalt **nicht angewendet** – nur, wenn der Gesetzeszweck die Anwendung **verbietet**. *Beispiel § 181 BGB:* Zweck ist, den Vertretenen vor **In-sich-Geschäften** seines Vertreters zu schützen (der Generalbevollmächtigte verkauft sich selbst das Grundstück des Vertretenen für 1 €) und **Interessenkonflikte** zu vermeiden. Liegt kein Interessenkonflikt vor, findet die Norm keine Anwendung – etwa wenn der Vertretene **zustimmt** oder das Geschäft für ihn **lediglich rechtlich vorteilhaft** (§ 107 BGB) ist.\n\n**Merke:** Bei der teleologischen Reduktion wird eine Norm **trotz ihres entgegenstehenden einschlägigen Wortlauts** nicht angewendet.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        },
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
     },
     {
       "id": "s7",
       "title": "Beispiel zur Auslegung: Das Werkunternehmerpfandrecht am Vorbehaltsgut",
       "short": "E verkauft D einen PKW unter Eigentumsvorbehalt; D lässt ihn bei W reparieren (1.000 €), wird insolvent, E tritt zurück und verlangt von W Herausgabe nach § 985 BGB. W könnte ein Besitzrecht (§ 986 BGB) aus einem Werkunternehmerpfandrecht (§ 647 BGB) haben. Wortlaut § 647: Sache „des Bestellers“ – D war nicht Eigentümer. Gutgläubiger Erwerb über § 1207 BGB? Systematisch nur für vertragliche Pfandrechte; § 1257 BGB verweist nach seinem Wortlaut („entstandenes Pfandrecht“) nicht auf Entstehungsvorschriften. Analogie zu § 1207 BGB scheitert an der Planwidrigkeit: § 366 Abs. 3 HGB trägt weder systematisch (kein Erst-recht-Schluss vom Speziellen aufs Allgemeine) noch historisch.",
-      "long": "## Der Fall (S. 152)\n\nEigentümer **E** verkauft dem **D** unter **Eigentumsvorbehalt** (D wird erst mit Zahlung der letzten Rate Eigentümer, § 449 BGB) einen PKW mit der Maßgabe, ihn bei Bedarf auf eigene Kosten reparieren zu lassen. Nach einem Lackschaden bringt D ihn zu Werkunternehmer **W** (Kosten 1.000 €). D wird **insolvent**, zahlt nicht weiter; E **tritt zurück** und verlangt von W **Herausgabe nach § 985 BGB**.\n\n## Vorüberlegungen (S. 152)\n\nE ist Eigentümer, W Besitzer – die Voraussetzungen des § 985 BGB liegen vor. W könnte aber nach **§ 986 BGB** ein **Recht zum Besitz** haben, und zwar aus einem **Werkunternehmerpfandrecht nach § 647 BGB**. Fraglich ist, ob W durch den Werkvertrag mit D (§ 631 BGB) ein solches erlangt hat.\n\n## Die Auslegung (S. 153–154)\n\n1. **§ 647 BGB – Wortlaut:** Erforderlich ist eine Sache **„des Bestellers“**, also **Eigentum des Bestellers**. Besteller war D, nicht der Eigentümer E → kein Pfandrecht nach § 647 BGB.\n2. **Gutgläubiger Erwerb vom Nichteigentümer?** Den Fall regelt § 647 BGB nicht. Nach **§ 1207 BGB** ist bei Pfandrechten gutgläubiger Erwerb nach §§ 932 ff. BGB möglich – § 647 BGB ist aber ein **gesetzliches** Pfandrecht.\n3. **§ 1207 BGB auch für gesetzliche Pfandrechte?** *Wortlaut* unergiebig (keine Unterscheidung). *Systematik:* § 1207 BGB steht bei den Vorschriften über das **rechtsgeschäftliche** Pfandrecht (§§ 1204 ff. BGB) → grundsätzlich nur für vertragliche Pfandrechte.\n4. **Verweis über § 1257 BGB?** § 1257 BGB erklärt die Vorschriften über das vertragliche Pfandrecht auf ein **kraft Gesetzes entstandenes** Pfandrecht für entsprechend anwendbar. Der Wortlaut („entstandenes Pfandrecht“) setzt die Entstehung **voraus** und verweist daher **nicht** auf Entstehungsvorschriften wie § 1207 BGB – wegen des eindeutigen Wortlauts scheidet dieser Weg aus.\n5. **Analogie zu § 1207 BGB?** Eine **Regelungslücke** besteht (gutgläubiger Erwerb gesetzlicher Pfandrechte ist im BGB nicht geregelt). Ist sie **planwidrig**?\n   - *Systematisch* mit **§ 366 Abs. 3 HGB** (Sonderregel für gesetzliche Pfandrechte im Handelsrecht)? Überzeugt nicht: Von einer Spezialregel des Sonderprivatrechts der Kaufleute kann man nicht auf das allgemeine Bürgerliche Recht schließen; das wäre **kein Erst-recht-Schluss**, sondern ein Schluss vom Speziellen auf das Allgemeine.\n   - *Historisch:* § 366 Abs. 3 HGB entspricht § 306 Abs. 3 AHGB von **1862**, als es noch nicht einmal Vorarbeiten zum BGB gab. Daraus folgt eher umgekehrt, dass eine solche Sonderregel **außerhalb des HGB gerade nicht** gelten soll.\n   - → Der gutgläubige Erwerb gesetzlicher Pfandrechte ist im BGB **vom Gesetzgeber nicht gewollt**; keine Planwidrigkeit, **keine Analogie**.\n\n**Auslegungsergebnis (S. 154):** W konnte das Werkunternehmerpfandrecht gemäß § 647 BGB nicht durch den Werkvertrag mit D erwerben. Ob E letztlich Herausgabe verlangen kann, erfordert weitere Prüfung – das Beispiel soll nur die Methode zeigen.",
-      "src": [{"doc":"PROP_1","page":152},{"doc":"PROP_1","page":153},{"doc":"PROP_1","page":154}]
+      "long": "## Der Fall (S. 153)\n\nEigentümer **E** verkauft dem **D** unter **Eigentumsvorbehalt** (D wird erst mit Zahlung der letzten Rate Eigentümer, § 449 BGB) einen PKW mit der Maßgabe, ihn bei Bedarf auf eigene Kosten reparieren zu lassen. Nach einem Lackschaden bringt D ihn zu Werkunternehmer **W** (Kosten 1.000 €). D wird **insolvent**, zahlt nicht weiter; E **tritt zurück** und verlangt von W **Herausgabe nach § 985 BGB**.\n\n## Vorüberlegungen (S. 153)\n\nE ist Eigentümer, W Besitzer – die Voraussetzungen des § 985 BGB liegen vor. W könnte aber nach **§ 986 BGB** ein **Recht zum Besitz** haben, und zwar aus einem **Werkunternehmerpfandrecht nach § 647 BGB**. Fraglich ist, ob W durch den Werkvertrag mit D (§ 631 BGB) ein solches erlangt hat.\n\n## Die Auslegung (S. 154–155)\n\n1. **§ 647 BGB – Wortlaut:** Erforderlich ist eine Sache **„des Bestellers“**, also **Eigentum des Bestellers**. Besteller war D, nicht der Eigentümer E → kein Pfandrecht nach § 647 BGB.\n2. **Gutgläubiger Erwerb vom Nichteigentümer?** Den Fall regelt § 647 BGB nicht. Nach **§ 1207 BGB** ist bei Pfandrechten gutgläubiger Erwerb nach §§ 932 ff. BGB möglich – § 647 BGB ist aber ein **gesetzliches** Pfandrecht.\n3. **§ 1207 BGB auch für gesetzliche Pfandrechte?** *Wortlaut* unergiebig (keine Unterscheidung). *Systematik:* § 1207 BGB steht bei den Vorschriften über das **rechtsgeschäftliche** Pfandrecht (§§ 1204 ff. BGB) → grundsätzlich nur für vertragliche Pfandrechte.\n4. **Verweis über § 1257 BGB?** § 1257 BGB erklärt die Vorschriften über das vertragliche Pfandrecht auf ein **kraft Gesetzes entstandenes** Pfandrecht für entsprechend anwendbar. Der Wortlaut („entstandenes Pfandrecht“) setzt die Entstehung **voraus** und verweist daher **nicht** auf Entstehungsvorschriften wie § 1207 BGB – wegen des eindeutigen Wortlauts scheidet dieser Weg aus.\n5. **Analogie zu § 1207 BGB?** Eine **Regelungslücke** besteht (gutgläubiger Erwerb gesetzlicher Pfandrechte ist im BGB nicht geregelt). Ist sie **planwidrig**?\n   - *Systematisch* mit **§ 366 Abs. 3 HGB** (Sonderregel für gesetzliche Pfandrechte im Handelsrecht)? Überzeugt nicht: Von einer Spezialregel des Sonderprivatrechts der Kaufleute kann man nicht auf das allgemeine Bürgerliche Recht schließen; das wäre **kein Erst-recht-Schluss**, sondern ein Schluss vom Speziellen auf das Allgemeine.\n   - *Historisch:* § 366 Abs. 3 HGB entspricht § 306 Abs. 3 AHGB von **1862**, als es noch nicht einmal Vorarbeiten zum BGB gab. Daraus folgt eher umgekehrt, dass eine solche Sonderregel **außerhalb des HGB gerade nicht** gelten soll.\n   - → Der gutgläubige Erwerb gesetzlicher Pfandrechte ist im BGB **vom Gesetzgeber nicht gewollt**; keine Planwidrigkeit, **keine Analogie**.\n\n**Auslegungsergebnis (S. 155):** W konnte das Werkunternehmerpfandrecht gemäß § 647 BGB nicht durch den Werkvertrag mit D erwerben. Ob E letztlich Herausgabe verlangen kann, erfordert weitere Prüfung – das Beispiel soll nur die Methode zeigen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 152
+        },
+        {
+          "doc": "PROP_1",
+          "page": 153
+        },
+        {
+          "doc": "PROP_1",
+          "page": 154
+        }
+      ]
     }
   ],
   "definitions": [
-    {"term": "Auslegung (Ziel nach der objektiven Theorie)", "text": "Erforschung des Sinns einer Norm mit dem Ziel, den im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers herauszufinden; der subjektive Wille des historischen Gesetzgebers ist nicht maßgeblich.", "src": [{"doc":"PROP_1","page":143},{"doc":"PROP_1","page":144}]},
-    {"term": "Legaldefinition", "text": "Gesetzliche Festlegung, wie eine Norm oder ein Tatbestandsmerkmal auszulegen ist; sie ist bindend und häufig daran zu erkennen, dass der definierte Begriff in Klammern hinter der Definition steht.", "norm": "z. B. § 121 Abs. 1 S. 1 BGB", "src": [{"doc":"PROP_1","page":144}]},
-    {"term": "Unverzüglich", "text": "Ohne schuldhaftes Zögern; diese Legaldefinition gilt im gesamten Privatrecht (z. B. auch für § 377 Abs. 1 HGB).", "norm": "§ 121 Abs. 1 S. 1 BGB", "src": [{"doc":"PROP_1","page":144}]},
-    {"term": "Systematische Auslegung", "text": "Auslegung aus dem Bedeutungszusammenhang: Die Norm wird im Gesamtgefüge der Rechtsordnung und im Vergleich mit zusammenhängenden Normen verstanden; Unterfälle sind die verfassungskonforme und die richtlinienkonforme Auslegung.", "src": [{"doc":"PROP_1","page":145},{"doc":"PROP_1","page":146},{"doc":"PROP_1","page":147}]},
-    {"term": "Teleologische Auslegung", "text": "Auslegung nach Sinn und Zweck des Gesetzes (ratio legis) unter Einbeziehung von Zweckmäßigkeits- und Gerechtigkeitserwägungen, Rechtssicherheit und Vertrauensschutz; grundsätzlich entscheidend und vorrangig.", "src": [{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":148}]},
-    {"term": "Historische Auslegung", "text": "Untersuchung der Entstehungsgeschichte, der Regelungsabsicht und Normvorstellung des historischen Gesetzgebers anhand der Materialien; kann ein gefundenes Ergebnis nur stützen.", "src": [{"doc":"PROP_1","page":148},{"doc":"PROP_1","page":149}]},
-    {"term": "Umkehrschluss (argumentum e contrario)", "text": "Ein Sachverhalt fällt nicht unter einen Tatbestand, weil das Gesetz ähnlich gelagerte Sachverhalte ausdrücklich geregelt hat.", "src": [{"doc":"PROP_1","page":149}]},
-    {"term": "Erst-recht-Schluss (argumentum a maiore ad minus)", "text": "Schluss vom Größeren auf das Kleinere, vom Allgemeinen auf das Spezielle: Die Rechtsfolge gilt auch für einen ähnlichen Tatbestand, auf den der Gesetzeszweck in noch stärkerem Maße zutrifft.", "src": [{"doc":"PROP_1","page":150}]},
-    {"term": "Analogie", "text": "Anwendung einer Norm auf einen Fall, der sich nicht unter ihren Tatbestand subsumieren lässt; Voraussetzungen: planwidrige Regelungslücke und vergleichbare Interessenlage. Gesetzesanalogie (eine Norm) und Rechtsanalogie (Prinzip aus mehreren Rechtssätzen).", "src": [{"doc":"PROP_1","page":150},{"doc":"PROP_1","page":151}]},
-    {"term": "Teleologische Reduktion", "text": "Nichtanwendung einer Norm auf einen Sachverhalt trotz ihres entgegenstehenden einschlägigen Wortlauts, weil der Gesetzeszweck die Anwendung verbietet.", "src": [{"doc":"PROP_1","page":151}]}
+    {
+      "term": "Auslegung (Ziel nach der objektiven Theorie)",
+      "text": "Erforschung des Sinns einer Norm mit dem Ziel, den im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers herauszufinden; der subjektive Wille des historischen Gesetzgebers ist nicht maßgeblich.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        },
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "term": "Legaldefinition",
+      "text": "Gesetzliche Festlegung, wie eine Norm oder ein Tatbestandsmerkmal auszulegen ist; sie ist bindend und häufig daran zu erkennen, dass der definierte Begriff in Klammern hinter der Definition steht.",
+      "norm": "z. B. § 121 Abs. 1 S. 1 BGB",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "term": "Unverzüglich",
+      "text": "Ohne schuldhaftes Zögern; diese Legaldefinition gilt im gesamten Privatrecht (z. B. auch für § 377 Abs. 1 HGB).",
+      "norm": "§ 121 Abs. 1 S. 1 BGB",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "term": "Systematische Auslegung",
+      "text": "Auslegung aus dem Bedeutungszusammenhang: Die Norm wird im Gesamtgefüge der Rechtsordnung und im Vergleich mit zusammenhängenden Normen verstanden; Unterfälle sind die verfassungskonforme und die richtlinienkonforme Auslegung.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 146
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "term": "Teleologische Auslegung",
+      "text": "Auslegung nach Sinn und Zweck des Gesetzes (ratio legis) unter Einbeziehung von Zweckmäßigkeits- und Gerechtigkeitserwägungen, Rechtssicherheit und Vertrauensschutz; grundsätzlich entscheidend und vorrangig.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 148
+        }
+      ]
+    },
+    {
+      "term": "Historische Auslegung",
+      "text": "Untersuchung der Entstehungsgeschichte, der Regelungsabsicht und Normvorstellung des historischen Gesetzgebers anhand der Materialien; kann ein gefundenes Ergebnis nur stützen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 148
+        },
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "term": "Umkehrschluss (argumentum e contrario)",
+      "text": "Ein Sachverhalt fällt nicht unter einen Tatbestand, weil das Gesetz ähnlich gelagerte Sachverhalte ausdrücklich geregelt hat.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "term": "Erst-recht-Schluss (argumentum a maiore ad minus)",
+      "text": "Schluss vom Größeren auf das Kleinere, vom Allgemeinen auf das Spezielle: Die Rechtsfolge gilt auch für einen ähnlichen Tatbestand, auf den der Gesetzeszweck in noch stärkerem Maße zutrifft.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "term": "Analogie",
+      "text": "Anwendung einer Norm auf einen Fall, der sich nicht unter ihren Tatbestand subsumieren lässt; Voraussetzungen: planwidrige Regelungslücke und vergleichbare Interessenlage. Gesetzesanalogie (eine Norm) und Rechtsanalogie (Prinzip aus mehreren Rechtssätzen).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        },
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "term": "Teleologische Reduktion",
+      "text": "Nichtanwendung einer Norm auf einen Sachverhalt trotz ihres entgegenstehenden einschlägigen Wortlauts, weil der Gesetzeszweck die Anwendung verbietet.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    }
   ],
   "schemas": [
     {
@@ -80,7 +273,28 @@
         "5. Ggf. besondere Argumentationsformen: extensiv/restriktiv, Umkehrschluss, Erst-recht-Schluss, effet utile.",
         "6. Grenze überschritten? Analogie (planwidrige Regelungslücke + vergleichbare Interessenlage) oder teleologische Reduktion (Zweck verbietet Anwendung)."
       ],
-      "src": [{"doc":"PROP_1","page":144},{"doc":"PROP_1","page":145},{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":149},{"doc":"PROP_1","page":150}]
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        },
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 149
+        },
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
     },
     {
       "title": "Prüfung einer Analogie",
@@ -91,154 +305,856 @@
         "4. Vergleichbare Interessenlage mit dem geregelten Fall?",
         "5. Ergebnis: analoge Anwendung (Gesetzes- oder Rechtsanalogie) oder Ablehnung."
       ],
-      "src": [{"doc":"PROP_1","page":150},{"doc":"PROP_1","page":151},{"doc":"PROP_1","page":153},{"doc":"PROP_1","page":154}]
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        },
+        {
+          "doc": "PROP_1",
+          "page": 151
+        },
+        {
+          "doc": "PROP_1",
+          "page": 153
+        },
+        {
+          "doc": "PROP_1",
+          "page": 154
+        }
+      ]
     }
   ],
   "quiz": [
-    {"id": "q1", "type": "truefalse", "level": "recognize", "difficulty": 1,
-     "prompt": "Ziel der Gesetzesauslegung ist nach Teil D des Studienbriefs der subjektive Wille der am Gesetzgebungsverfahren Beteiligten.",
-     "answer": false, "explanation": "Ziel ist der im Wortlaut verobjektivierte Wille des Gesetzgebers (objektive Theorie); der subjektive Wille lässt sich oft nicht feststellen und kann überholt sein (S. 143–144).",
-     "hints": ["Objektive Theorie."], "src": [{"doc":"PROP_1","page":143},{"doc":"PROP_1","page":144}]},
-    {"id": "q2", "type": "mc-multi", "level": "understand", "difficulty": 2,
-     "prompt": "Welche Auslegungsfragen nennt der Studienbrief zu § 985 BGB? Wählen Sie alle zutreffenden Antworten.",
-     "options": ["Ob auch das Miteigentum gemeint ist", "Ob auch der mittelbare Besitzer erfasst ist", "Was der Besitzer zur Herausgabe genau tun muss", "Ob zwischen „Treu“ und „Glauben“ zu unterscheiden ist"],
-     "answer": [0, 1, 2], "explanation": "„Treu und Glauben“ betrifft § 242 BGB, wo der gesamte Normteil auslegungsbedürftig ist und gerade nicht zwischen beiden Wörtern unterschieden wird (S. 143).",
-     "hints": ["Eigentümer, Besitzer, Herausgabe."], "src": [{"doc":"PROP_1","page":143}]},
-    {"id": "q3", "type": "cloze", "level": "recall", "difficulty": 1,
-     "prompt": "Nach § 121 Abs. 1 S. 1 BGB bedeutet „unverzüglich“ {{1}}. Eine Legaldefinition erkennt man häufig daran, dass der definierte Begriff in {{2}} hinter der Definition steht.",
-     "blanks": [["ohne schuldhaftes Zögern"], ["Klammern", "Klammer"]],
-     "explanation": "Die Legaldefinition gilt im gesamten Privatrecht, z. B. auch für § 377 Abs. 1 HGB (S. 144).",
-     "hints": ["Zögern …", "Satzzeichen."], "src": [{"doc":"PROP_1","page":144}]},
-    {"id": "q4", "type": "mc-single", "level": "apply", "difficulty": 2,
-     "prompt": "Die Hausangestellte H hält eine Vase ihres Arbeitgebers in der Hand. Eigentümer E verlangt von H Herausgabe nach § 985 BGB. Wie ist nach dem Studienbrief zu entscheiden?",
-     "options": ["§ 985 BGB richtet sich nach seinem eindeutigen Wortlaut nur gegen den Besitzer, nicht gegen den Besitzdiener H", "H ist als Inhaberin der tatsächlichen Gewalt stets Anspruchsgegnerin", "§ 985 BGB ist analog auf Besitzdiener anzuwenden", "Die Frage ist allein nach der historischen Auslegung zu beantworten"],
-     "answer": [0], "explanation": "Besitzer ist, wer aufgrund eines Herrschaftswillens die tatsächliche Sachherrschaft ausübt; der Besitzdiener hält die Sache nur in der Hand (S. 145).",
-     "hints": ["Wortlautgrenze.", "Wer übt die Sachherrschaft aus?"], "src": [{"doc":"PROP_1","page":145}]},
-    {"id": "q5", "type": "truefalse", "level": "recall", "difficulty": 1,
-     "prompt": "Fehlt eine Legaldefinition, gilt zunächst der Sprachgebrauch der Juristen und im Übrigen der allgemeine Sprachgebrauch.",
-     "answer": true, "explanation": "Beispiel Hypothek: gemeint ist die Hypothek i. S. d. §§ 1113 ff. BGB, auch wenn der Alltag kaum zwischen Hypothek und Grundschuld unterscheidet (S. 145).",
-     "hints": ["Fachsprache vor Alltagssprache."], "src": [{"doc":"PROP_1","page":145}]},
-    {"id": "q6", "type": "mc-single", "level": "understand", "difficulty": 2,
-     "prompt": "Warum sind bloße Forderungen nach der systematischen Auslegung kein „sonstiges Recht“ i. S. d. § 823 Abs. 1 BGB?",
-     "options": ["Weil die ausdrücklich genannten Rechtsgüter (Leben, Gesundheit, Freiheit, Eigentum) zeigen, dass ein absolutes, von jedermann zu beachtendes Recht gemeint ist", "Weil der Wortlaut „sonstiges Recht“ eindeutig nur dingliche Rechte erfasst", "Weil die Gesetzesmaterialien Forderungen ausdrücklich ausschließen", "Weil § 826 BGB als Spezialnorm vorgeht"],
-     "answer": [0], "explanation": "Der Wortlaut allein ließe ein weites Verständnis zu; erst der Vergleich mit den übrigen Rechtsgütern ergibt den Ausschließlichkeitscharakter (S. 145–146).",
-     "hints": ["Vergleich mit den Nachbarbegriffen."], "src": [{"doc":"PROP_1","page":145},{"doc":"PROP_1","page":146}]},
-    {"id": "q7", "type": "mc-multi", "level": "understand", "difficulty": 3,
-     "prompt": "Welche Aussagen zur richtlinienkonformen Auslegung treffen nach dem Studienbrief zu? Wählen Sie alle zutreffenden Antworten.",
-     "options": ["Sie ist ein Unterfall der systematischen Auslegung", "Bei klarem und entgegenstehendem Wortlaut scheidet sie aus", "Bei überschießender Umsetzung besteht für Fälle außerhalb des Anwendungsbereichs der Richtlinie keine Pflicht zu ihr", "Sie verdrängt die nationalen Auslegungsregeln vollständig"],
-     "answer": [0, 1, 2], "explanation": "Sie hat sich nach heutigem Verständnis gerade an die nationalen Auslegungsregeln zu halten (S. 146–147).",
-     "hints": ["Grenze Wortlaut.", "Überschießende Umsetzung."], "src": [{"doc":"PROP_1","page":146},{"doc":"PROP_1","page":147}]},
-    {"id": "q8", "type": "mc-single", "level": "apply", "difficulty": 3,
-     "prompt": "Nach der vom Studienbrief dargestellten richtlinienkonformen Auslegung des § 439 Abs. 1 BGB (vor Einführung des § 439 Abs. 3 BGB): In welcher Konstellation konnte der Käufer die Ein- und Ausbaukosten verlangen?",
-     "options": ["Nur beim Verbrauchsgüterkauf (b2c)", "Bei jedem Kaufvertrag (b2c, c2c, b2b)", "Nur beim Kauf zwischen Unternehmern (b2b)", "Nur beim Kauf zwischen Verbrauchern (c2c)"],
-     "answer": [0], "explanation": "Bei c2c und b2b ergab sich aus § 439 Abs. 1 BGB nur ein Anspruch auf Lieferung einer mangelfreien Sache; seit 01.01.2018 regelt § 439 Abs. 3 BGB die Kosten (S. 146–147).",
-     "hints": ["§ 474 Abs. 1 S. 1 BGB.", "Für wen gilt die Verbrauchsgüterrichtlinie?"], "src": [{"doc":"PROP_1","page":146},{"doc":"PROP_1","page":147}]},
-    {"id": "q9", "type": "truefalse", "level": "recall", "difficulty": 1,
-     "prompt": "Nach Teil D des Studienbriefs ist die teleologische Auslegung für das Auslegungsergebnis grundsätzlich entscheidend und hat gegenüber den anderen Methoden grundsätzlich Vorrang.",
-     "answer": true, "explanation": "S. 147–148: Orientierung an der ratio legis, unter Einbeziehung von Zweckmäßigkeit, Gerechtigkeit, Rechtssicherheit und Vertrauensschutz.",
-     "hints": ["ratio legis."], "src": [{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":148}]},
-    {"id": "q10", "type": "mc-single", "level": "understand", "difficulty": 2,
-     "prompt": "Warum genügt nach dem Studienbrief für die Sittenwidrigkeit i. S. d. § 826 BGB ein bloßer Vertrags- oder Vertrauensbruch nicht?",
-     "options": ["Weil § 826 BGB als deliktische Generalklausel und Auffangtatbestand nach seinem Zweck zurückhaltend anzuwenden ist", "Weil der Wortlaut des § 826 BGB ausdrücklich einen Vertragsbruch ausschließt", "Weil die Gesetzesmaterialien zum BGB dies so vorsehen", "Weil § 826 BGB nur für Verbraucher gilt"],
-     "answer": [0], "explanation": "Teleologische Auslegung: „letzter Rettungsanker“; erforderlich ist ein besonders verwerfliches Verhalten (S. 147–148).",
-     "hints": ["Welche Funktion hat die Norm im Deliktsrecht?"], "src": [{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":148}]},
-    {"id": "q11", "type": "mc-single", "level": "recognize", "difficulty": 2,
-     "prompt": "Welche Rolle spielt die historische Auslegung nach Teil D des Studienbriefs?",
-     "options": ["Sie hat geringe Bedeutung und kann ein bereits gefundenes Ergebnis nur stützen", "Sie ist entscheidend, wenn die Materialien eindeutig sind", "Sie geht der grammatikalischen Auslegung vor", "Sie ist im Zivilrecht unzulässig"],
-     "answer": [0], "explanation": "Sie kann nie zu einem Ergebnis führen, das den anderen Auslegungen widerspricht; oft wurde das Problem im Gesetzgebungsverfahren gar nicht gesehen (S. 149).",
-     "hints": ["Merke auf S. 149."], "src": [{"doc":"PROP_1","page":149}]},
-    {"id": "q12", "type": "free", "level": "understand", "difficulty": 2,
-     "prompt": "Erklären Sie mit dem Beispiel des Studienbriefs, warum sich Sinn und Zweck des § 325 BGB nur historisch erschließen.",
-     "modelAnswer": "§ 325 BGB stellt klar, dass das Recht, Schadensersatz zu verlangen, durch den Rücktritt nicht ausgeschlossen wird. Für den unbefangenen Leser wirkt das selbstverständlich. Bis zur Schuldrechtsmodernisierung galt aber das Gegenteil (§ 326 Abs. 1 BGB a. F.): Wer zurücktrat, konnte keinen Schadensersatz mehr verlangen („Rücktrittsfalle“). Mit der Reform wurde diese Regelung gestrichen und § 325 BGB zur bloßen Klarstellung eingefügt. Erst dieser historische Hintergrund erklärt, warum die Norm existiert.",
-     "rubric": ["Scheinbare Selbstverständlichkeit", "frühere Rechtslage § 326 Abs. 1 BGB a. F. / Rücktrittsfalle", "Schuldrechtsmodernisierung", "Klarstellungsfunktion"],
-     "hints": ["Was galt vor 2002?"], "src": [{"doc":"PROP_1","page":149}]},
-    {"id": "q13", "type": "order", "level": "recall", "difficulty": 2,
-     "prompt": "Bringen Sie die vier Arbeitsschritte der Auslegung in die Reihenfolge, in der sie in Teil D des Studienbriefs dargestellt werden.",
-     "items": ["Die auszulegende Vorschrift genau durchlesen (Wortlaut)", "Vorschriften vor und hinter der Norm lesen, GG und Europarecht beachten (Systematik)", "Fragen, welchen Zweck die Vorschrift erfüllen soll (Telos)", "Die geschichtliche Entwicklung der Vorschrift herausfinden (Historie)"],
-     "explanation": "Erster bis vierter Arbeitsschritt (S. 145, 147, 149).",
-     "hints": ["In Teil D steht die Historie am Schluss."], "src": [{"doc":"PROP_1","page":145},{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":149}]},
-    {"id": "q14", "type": "match", "level": "apply", "difficulty": 2,
-     "prompt": "Ordnen Sie das Beispiel der besonderen Auslegungsform zu.",
-     "pairs": [["Bande i. S. d. § 244 Abs. 1 Nr. 2 StGB: mindestens drei Personen", "restriktive Auslegung"], ["Kein Anfechtungsrecht des Vaters wegen ausgefallener Hochzeit (§ 119 BGB)", "Umkehrschluss"], ["Widerruf von Teilen eines Testaments (§ 2255 BGB)", "Erst-recht-Schluss"], ["Rücknahme eines richtlinienwidrigen VA trotz § 48 VwVfG", "effet utile"]],
-     "explanation": "S. 149–150.",
-     "hints": ["e contrario – a maiore ad minus."], "src": [{"doc":"PROP_1","page":149},{"doc":"PROP_1","page":150}]},
-    {"id": "q15", "type": "truefalse", "level": "understand", "difficulty": 2,
-     "prompt": "Der Umkehrschluss aus § 119 BGB ergibt, dass ein bloßer Motivirrtum nicht zur Anfechtung berechtigt.",
-     "answer": true, "explanation": "§ 119 BGB regelt Inhalts-, Erklärungs- und Eigenschaftsirrtum ausdrücklich; andere Irrtümer berechtigen im Gegenschluss nicht zur Anfechtung (S. 149).",
-     "hints": ["argumentum e contrario."], "src": [{"doc":"PROP_1","page":149}]},
-    {"id": "q16", "type": "cloze", "level": "recall", "difficulty": 1,
-     "prompt": "Voraussetzungen einer Analogie sind eine {{1}} Regelungslücke und eine {{2}} Interessenlage.",
-     "blanks": [["planwidrige"], ["vergleichbare"]],
-     "explanation": "S. 150.",
-     "hints": ["Ungewollt …", "Ähnlich …"], "src": [{"doc":"PROP_1","page":150}]},
-    {"id": "q17", "type": "match", "level": "understand", "difficulty": 2,
-     "prompt": "Ordnen Sie das Beispiel der Rechtsfigur zu.",
-     "pairs": [["§ 31 BGB wird auf GmbH, AG und OHG angewendet", "Gesetzesanalogie"], ["culpa in contrahendo vor Einfügung des § 311 Abs. 2 Nr. 1 BGB", "Rechtsanalogie"], ["§ 181 BGB gilt nicht bei lediglich rechtlich vorteilhaftem In-sich-Geschäft", "teleologische Reduktion"]],
-     "explanation": "Gesetzesanalogie: eine Norm; Rechtsanalogie: Prinzip aus mehreren Rechtssätzen; teleologische Reduktion: Nichtanwendung trotz Wortlaut (S. 151).",
-     "hints": ["Über den Wortlaut hinaus – oder trotz Wortlaut nicht?"], "src": [{"doc":"PROP_1","page":151}]},
-    {"id": "q18", "type": "mc-single", "level": "understand", "difficulty": 3,
-     "prompt": "Worin unterscheidet sich die teleologische Reduktion von der Analogie?",
-     "options": ["Bei der teleologischen Reduktion wird eine Norm trotz einschlägigen Wortlauts nicht angewendet; bei der Analogie wird sie über ihren Wortlaut hinaus angewendet", "Beide wenden eine Norm über ihren Wortlaut hinaus an, die Reduktion aber nur im Strafrecht", "Die teleologische Reduktion setzt eine planwidrige Regelungslücke voraus, die Analogie nicht", "Die Analogie ist ein Unterfall der historischen Auslegung"],
-     "answer": [0], "explanation": "Beide überschreiten die Wortlautgrenze, aber in entgegengesetzte Richtungen (S. 150–151).",
-     "hints": ["Mehr oder weniger anwenden als der Wortlaut?"], "src": [{"doc":"PROP_1","page":150},{"doc":"PROP_1","page":151}]},
-    {"id": "q19", "type": "case", "level": "apply", "difficulty": 3,
-     "prompt": "G ist Generalbevollmächtigter des V. G schenkt dem V ein Bild und nimmt das Schenkungsangebot zugleich im Namen des V an; für V ist das Geschäft lediglich rechtlich vorteilhaft. Ist § 181 BGB anzuwenden? Begründen Sie mit der Methode des Studienbriefs.",
-     "modelAnswer": "Dem Wortlaut nach liegt ein In-sich-Geschäft vor, das § 181 BGB grundsätzlich untersagt. Sinn und Zweck des § 181 BGB ist es aber, den Vertretenen vor Geschäften seines Vertreters mit sich selbst zu schützen und Interessenkonflikte zu vermeiden. Ist das Geschäft für den Vertretenen lediglich rechtlich vorteilhaft (§ 107 BGB), besteht kein solcher Interessenkonflikt. Der Gesetzeszweck verbietet hier die Anwendung; im Wege der teleologischen Reduktion ist § 181 BGB trotz seines einschlägigen Wortlauts nicht anzuwenden.",
-     "rubric": ["Wortlaut erfasst den Fall", "Schutzzweck: Interessenkonflikt vermeiden", "lediglich rechtlicher Vorteil (§ 107 BGB) → kein Konflikt", "teleologische Reduktion als Ergebnis"],
-     "hints": ["Was soll § 181 BGB verhindern?", "Vergleichen Sie das Beispiel S. 151."], "src": [{"doc":"PROP_1","page":151}]},
-    {"id": "q20", "type": "order", "level": "apply", "difficulty": 3,
-     "prompt": "Bringen Sie die Prüfungsschritte des Auslegungsbeispiels (Werkunternehmerpfandrecht des W) in die richtige Reihenfolge.",
-     "items": ["§ 985 BGB: E ist Eigentümer, W Besitzer", "Recht zum Besitz nach § 986 BGB aus § 647 BGB?", "Wortlaut § 647 BGB: Sache „des Bestellers“ – D war nicht Eigentümer", "Gutgläubiger Erwerb über § 1207 BGB? Systematisch nur für vertragliche Pfandrechte", "Verweis über § 1257 BGB? Wortlaut „entstandenes Pfandrecht“ – nein", "Analogie zu § 1207 BGB? Keine planwidrige Lücke (§ 366 Abs. 3 HGB, Historie)"],
-     "explanation": "S. 152–154.",
-     "hints": ["Vom Anspruch über die Einwendung zur Auslegung."], "src": [{"doc":"PROP_1","page":152},{"doc":"PROP_1","page":153},{"doc":"PROP_1","page":154}]},
-    {"id": "q21", "type": "mc-single", "level": "understand", "difficulty": 3,
-     "prompt": "Warum lässt sich die Planwidrigkeit der Regelungslücke im Auslegungsbeispiel nicht mit § 366 Abs. 3 HGB begründen?",
-     "options": ["Weil man von einer Spezialregel des kaufmännischen Sonderprivatrechts nicht auf das allgemeine Bürgerliche Recht schließen kann und die Norm historisch älter als die BGB-Vorarbeiten ist", "Weil § 366 Abs. 3 HGB inzwischen aufgehoben wurde", "Weil § 366 Abs. 3 HGB nur vertragliche Pfandrechte betrifft", "Weil ein Erst-recht-Schluss im Zivilrecht unzulässig ist"],
-     "answer": [0], "explanation": "Es wäre ein Schluss vom Speziellen auf das Allgemeine, also kein Erst-recht-Schluss; historisch (AHGB 1862) spricht eher dafür, dass die Sonderregel außerhalb des HGB nicht gelten soll (S. 153–154).",
-     "hints": ["Systematik und Historie."], "src": [{"doc":"PROP_1","page":153},{"doc":"PROP_1","page":154}]},
-    {"id": "q22", "type": "free", "level": "formulate", "difficulty": 2,
-     "prompt": "Formulieren Sie im Gutachtenstil (Obersatz, Begründung, Ergebnis) die Prüfung, ob § 1257 BGB auf § 1207 BGB verweist.",
-     "modelAnswer": "Fraglich ist, ob § 1257 BGB dahin auszulegen ist, dass sein Verweis auch § 1207 BGB erfasst. § 1257 BGB erklärt die Vorschriften über das rechtsgeschäftlich bestellte Pfandrecht auf ein kraft Gesetzes „entstandenes“ Pfandrecht für entsprechend anwendbar. Nach diesem eindeutigen Wortlaut setzt die Norm die Entstehung des Pfandrechts bereits voraus; sie verweist daher nicht auf Vorschriften, die – wie § 1207 BGB – die Entstehung regeln. Der Wortlaut ist Grenze der Auslegung. Somit erstreckt sich der Verweis des § 1257 BGB nicht auf § 1207 BGB.",
-     "rubric": ["Obersatz mit „Fraglich ist, ob …“", "Wortlautargument „entstandenes Pfandrecht“", "Wortlaut als Grenze", "Ergebnis spiegelt den Obersatz"],
-     "hints": ["Konzentrieren Sie sich auf ein Wort in § 1257 BGB."], "src": [{"doc":"PROP_1","page":153}]}
+    {
+      "id": "q1",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Ziel der Gesetzesauslegung ist nach Teil D des Studienbriefs der subjektive Wille der am Gesetzgebungsverfahren Beteiligten.",
+      "answer": false,
+      "explanation": "Ziel ist der im Wortlaut verobjektivierte Wille des Gesetzgebers (objektive Theorie); der subjektive Wille lässt sich oft nicht feststellen und kann überholt sein (S. 144–145).",
+      "hints": [
+        "Objektive Theorie."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        },
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Auslegungsfragen nennt der Studienbrief zu § 985 BGB? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Ob auch das Miteigentum gemeint ist",
+        "Ob auch der mittelbare Besitzer erfasst ist",
+        "Was der Besitzer zur Herausgabe genau tun muss",
+        "Ob zwischen „Treu“ und „Glauben“ zu unterscheiden ist"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "„Treu und Glauben“ betrifft § 242 BGB, wo der gesamte Normteil auslegungsbedürftig ist und gerade nicht zwischen beiden Wörtern unterschieden wird (S. 144).",
+      "hints": [
+        "Eigentümer, Besitzer, Herausgabe."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach § 121 Abs. 1 S. 1 BGB bedeutet „unverzüglich“ {{1}}. Eine Legaldefinition erkennt man häufig daran, dass der definierte Begriff in {{2}} hinter der Definition steht.",
+      "blanks": [
+        [
+          "ohne schuldhaftes Zögern"
+        ],
+        [
+          "Klammern",
+          "Klammer"
+        ]
+      ],
+      "explanation": "Die Legaldefinition gilt im gesamten Privatrecht, z. B. auch für § 377 Abs. 1 HGB (S. 145).",
+      "hints": [
+        "Zögern …",
+        "Satzzeichen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Die Hausangestellte H hält eine Vase ihres Arbeitgebers in der Hand. Eigentümer E verlangt von H Herausgabe nach § 985 BGB. Wie ist nach dem Studienbrief zu entscheiden?",
+      "options": [
+        "§ 985 BGB richtet sich nach seinem eindeutigen Wortlaut nur gegen den Besitzer, nicht gegen den Besitzdiener H",
+        "H ist als Inhaberin der tatsächlichen Gewalt stets Anspruchsgegnerin",
+        "§ 985 BGB ist analog auf Besitzdiener anzuwenden",
+        "Die Frage ist allein nach der historischen Auslegung zu beantworten"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Besitzer ist, wer aufgrund eines Herrschaftswillens die tatsächliche Sachherrschaft ausübt; der Besitzdiener hält die Sache nur in der Hand (S. 146).",
+      "hints": [
+        "Wortlautgrenze.",
+        "Wer übt die Sachherrschaft aus?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Fehlt eine Legaldefinition, gilt zunächst der Sprachgebrauch der Juristen und im Übrigen der allgemeine Sprachgebrauch.",
+      "answer": true,
+      "explanation": "Beispiel Hypothek: gemeint ist die Hypothek i. S. d. §§ 1113 ff. BGB, auch wenn der Alltag kaum zwischen Hypothek und Grundschuld unterscheidet (S. 146).",
+      "hints": [
+        "Fachsprache vor Alltagssprache."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum sind bloße Forderungen nach der systematischen Auslegung kein „sonstiges Recht“ i. S. d. § 823 Abs. 1 BGB?",
+      "options": [
+        "Weil die ausdrücklich genannten Rechtsgüter (Leben, Gesundheit, Freiheit, Eigentum) zeigen, dass ein absolutes, von jedermann zu beachtendes Recht gemeint ist",
+        "Weil der Wortlaut „sonstiges Recht“ eindeutig nur dingliche Rechte erfasst",
+        "Weil die Gesetzesmaterialien Forderungen ausdrücklich ausschließen",
+        "Weil § 826 BGB als Spezialnorm vorgeht"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Wortlaut allein ließe ein weites Verständnis zu; erst der Vergleich mit den übrigen Rechtsgütern ergibt den Ausschließlichkeitscharakter (S. 146–147).",
+      "hints": [
+        "Vergleich mit den Nachbarbegriffen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 146
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussagen zur richtlinienkonformen Auslegung treffen nach dem Studienbrief zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Sie ist ein Unterfall der systematischen Auslegung",
+        "Bei klarem und entgegenstehendem Wortlaut scheidet sie aus",
+        "Bei überschießender Umsetzung besteht für Fälle außerhalb des Anwendungsbereichs der Richtlinie keine Pflicht zu ihr",
+        "Sie verdrängt die nationalen Auslegungsregeln vollständig"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sie hat sich nach heutigem Verständnis gerade an die nationalen Auslegungsregeln zu halten (S. 147–148).",
+      "hints": [
+        "Grenze Wortlaut.",
+        "Überschießende Umsetzung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 146
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Nach der vom Studienbrief dargestellten richtlinienkonformen Auslegung des § 439 Abs. 1 BGB (vor Einführung des § 439 Abs. 3 BGB): In welcher Konstellation konnte der Käufer die Ein- und Ausbaukosten verlangen?",
+      "options": [
+        "Nur beim Verbrauchsgüterkauf (b2c)",
+        "Bei jedem Kaufvertrag (b2c, c2c, b2b)",
+        "Nur beim Kauf zwischen Unternehmern (b2b)",
+        "Nur beim Kauf zwischen Verbrauchern (c2c)"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Bei c2c und b2b ergab sich aus § 439 Abs. 1 BGB nur ein Anspruch auf Lieferung einer mangelfreien Sache; seit 01.01.2018 regelt § 439 Abs. 3 BGB die Kosten (S. 147–148).",
+      "hints": [
+        "§ 474 Abs. 1 S. 1 BGB.",
+        "Für wen gilt die Verbrauchsgüterrichtlinie?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 146
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach Teil D des Studienbriefs ist die teleologische Auslegung für das Auslegungsergebnis grundsätzlich entscheidend und hat gegenüber den anderen Methoden grundsätzlich Vorrang.",
+      "answer": true,
+      "explanation": "S. 148–149: Orientierung an der ratio legis, unter Einbeziehung von Zweckmäßigkeit, Gerechtigkeit, Rechtssicherheit und Vertrauensschutz.",
+      "hints": [
+        "ratio legis."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 148
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum genügt nach dem Studienbrief für die Sittenwidrigkeit i. S. d. § 826 BGB ein bloßer Vertrags- oder Vertrauensbruch nicht?",
+      "options": [
+        "Weil § 826 BGB als deliktische Generalklausel und Auffangtatbestand nach seinem Zweck zurückhaltend anzuwenden ist",
+        "Weil der Wortlaut des § 826 BGB ausdrücklich einen Vertragsbruch ausschließt",
+        "Weil die Gesetzesmaterialien zum BGB dies so vorsehen",
+        "Weil § 826 BGB nur für Verbraucher gilt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Teleologische Auslegung: „letzter Rettungsanker“; erforderlich ist ein besonders verwerfliches Verhalten (S. 148–149).",
+      "hints": [
+        "Welche Funktion hat die Norm im Deliktsrecht?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 148
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Rolle spielt die historische Auslegung nach Teil D des Studienbriefs?",
+      "options": [
+        "Sie hat geringe Bedeutung und kann ein bereits gefundenes Ergebnis nur stützen",
+        "Sie ist entscheidend, wenn die Materialien eindeutig sind",
+        "Sie geht der grammatikalischen Auslegung vor",
+        "Sie ist im Zivilrecht unzulässig"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Sie kann nie zu einem Ergebnis führen, das den anderen Auslegungen widerspricht; oft wurde das Problem im Gesetzgebungsverfahren gar nicht gesehen (S. 150).",
+      "hints": [
+        "Merke auf S. 150."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Erklären Sie mit dem Beispiel des Studienbriefs, warum sich Sinn und Zweck des § 325 BGB nur historisch erschließen.",
+      "modelAnswer": "§ 325 BGB stellt klar, dass das Recht, Schadensersatz zu verlangen, durch den Rücktritt nicht ausgeschlossen wird. Für den unbefangenen Leser wirkt das selbstverständlich. Bis zur Schuldrechtsmodernisierung galt aber das Gegenteil (§ 326 Abs. 1 BGB a. F.): Wer zurücktrat, konnte keinen Schadensersatz mehr verlangen („Rücktrittsfalle“). Mit der Reform wurde diese Regelung gestrichen und § 325 BGB zur bloßen Klarstellung eingefügt. Erst dieser historische Hintergrund erklärt, warum die Norm existiert.",
+      "rubric": [
+        "Scheinbare Selbstverständlichkeit",
+        "frühere Rechtslage § 326 Abs. 1 BGB a. F. / Rücktrittsfalle",
+        "Schuldrechtsmodernisierung",
+        "Klarstellungsfunktion"
+      ],
+      "hints": [
+        "Was galt vor 2002?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die vier Arbeitsschritte der Auslegung in die Reihenfolge, in der sie in Teil D des Studienbriefs dargestellt werden.",
+      "items": [
+        "Die auszulegende Vorschrift genau durchlesen (Wortlaut)",
+        "Vorschriften vor und hinter der Norm lesen, GG und Europarecht beachten (Systematik)",
+        "Fragen, welchen Zweck die Vorschrift erfüllen soll (Telos)",
+        "Die geschichtliche Entwicklung der Vorschrift herausfinden (Historie)"
+      ],
+      "explanation": "Erster bis vierter Arbeitsschritt (S. 146, 147, 149).",
+      "hints": [
+        "In Teil D steht die Historie am Schluss."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Beispiel der besonderen Auslegungsform zu.",
+      "pairs": [
+        [
+          "Bande i. S. d. § 244 Abs. 1 Nr. 2 StGB: mindestens drei Personen",
+          "restriktive Auslegung"
+        ],
+        [
+          "Kein Anfechtungsrecht des Vaters wegen ausgefallener Hochzeit (§ 119 BGB)",
+          "Umkehrschluss"
+        ],
+        [
+          "Widerruf von Teilen eines Testaments (§ 2255 BGB)",
+          "Erst-recht-Schluss"
+        ],
+        [
+          "Rücknahme eines richtlinienwidrigen VA trotz § 48 VwVfG",
+          "effet utile"
+        ]
+      ],
+      "explanation": "S. 150–151.",
+      "hints": [
+        "e contrario – a maiore ad minus."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        },
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Der Umkehrschluss aus § 119 BGB ergibt, dass ein bloßer Motivirrtum nicht zur Anfechtung berechtigt.",
+      "answer": true,
+      "explanation": "§ 119 BGB regelt Inhalts-, Erklärungs- und Eigenschaftsirrtum ausdrücklich; andere Irrtümer berechtigen im Gegenschluss nicht zur Anfechtung (S. 150).",
+      "hints": [
+        "argumentum e contrario."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Voraussetzungen einer Analogie sind eine {{1}} Regelungslücke und eine {{2}} Interessenlage.",
+      "blanks": [
+        [
+          "planwidrige"
+        ],
+        [
+          "vergleichbare"
+        ]
+      ],
+      "explanation": "S. 151.",
+      "hints": [
+        "Ungewollt …",
+        "Ähnlich …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Beispiel der Rechtsfigur zu.",
+      "pairs": [
+        [
+          "§ 31 BGB wird auf GmbH, AG und OHG angewendet",
+          "Gesetzesanalogie"
+        ],
+        [
+          "culpa in contrahendo vor Einfügung des § 311 Abs. 2 Nr. 1 BGB",
+          "Rechtsanalogie"
+        ],
+        [
+          "§ 181 BGB gilt nicht bei lediglich rechtlich vorteilhaftem In-sich-Geschäft",
+          "teleologische Reduktion"
+        ]
+      ],
+      "explanation": "Gesetzesanalogie: eine Norm; Rechtsanalogie: Prinzip aus mehreren Rechtssätzen; teleologische Reduktion: Nichtanwendung trotz Wortlaut (S. 152).",
+      "hints": [
+        "Über den Wortlaut hinaus – oder trotz Wortlaut nicht?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Worin unterscheidet sich die teleologische Reduktion von der Analogie?",
+      "options": [
+        "Bei der teleologischen Reduktion wird eine Norm trotz einschlägigen Wortlauts nicht angewendet; bei der Analogie wird sie über ihren Wortlaut hinaus angewendet",
+        "Beide wenden eine Norm über ihren Wortlaut hinaus an, die Reduktion aber nur im Strafrecht",
+        "Die teleologische Reduktion setzt eine planwidrige Regelungslücke voraus, die Analogie nicht",
+        "Die Analogie ist ein Unterfall der historischen Auslegung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Beide überschreiten die Wortlautgrenze, aber in entgegengesetzte Richtungen (S. 151–152).",
+      "hints": [
+        "Mehr oder weniger anwenden als der Wortlaut?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        },
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "G ist Generalbevollmächtigter des V. G schenkt dem V ein Bild und nimmt das Schenkungsangebot zugleich im Namen des V an; für V ist das Geschäft lediglich rechtlich vorteilhaft. Ist § 181 BGB anzuwenden? Begründen Sie mit der Methode des Studienbriefs.",
+      "modelAnswer": "Dem Wortlaut nach liegt ein In-sich-Geschäft vor, das § 181 BGB grundsätzlich untersagt. Sinn und Zweck des § 181 BGB ist es aber, den Vertretenen vor Geschäften seines Vertreters mit sich selbst zu schützen und Interessenkonflikte zu vermeiden. Ist das Geschäft für den Vertretenen lediglich rechtlich vorteilhaft (§ 107 BGB), besteht kein solcher Interessenkonflikt. Der Gesetzeszweck verbietet hier die Anwendung; im Wege der teleologischen Reduktion ist § 181 BGB trotz seines einschlägigen Wortlauts nicht anzuwenden.",
+      "rubric": [
+        "Wortlaut erfasst den Fall",
+        "Schutzzweck: Interessenkonflikt vermeiden",
+        "lediglich rechtlicher Vorteil (§ 107 BGB) → kein Konflikt",
+        "teleologische Reduktion als Ergebnis"
+      ],
+      "hints": [
+        "Was soll § 181 BGB verhindern?",
+        "Vergleichen Sie das Beispiel S. 152."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Bringen Sie die Prüfungsschritte des Auslegungsbeispiels (Werkunternehmerpfandrecht des W) in die richtige Reihenfolge.",
+      "items": [
+        "§ 985 BGB: E ist Eigentümer, W Besitzer",
+        "Recht zum Besitz nach § 986 BGB aus § 647 BGB?",
+        "Wortlaut § 647 BGB: Sache „des Bestellers“ – D war nicht Eigentümer",
+        "Gutgläubiger Erwerb über § 1207 BGB? Systematisch nur für vertragliche Pfandrechte",
+        "Verweis über § 1257 BGB? Wortlaut „entstandenes Pfandrecht“ – nein",
+        "Analogie zu § 1207 BGB? Keine planwidrige Lücke (§ 366 Abs. 3 HGB, Historie)"
+      ],
+      "explanation": "S. 153–155.",
+      "hints": [
+        "Vom Anspruch über die Einwendung zur Auslegung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 152
+        },
+        {
+          "doc": "PROP_1",
+          "page": 153
+        },
+        {
+          "doc": "PROP_1",
+          "page": 154
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Warum lässt sich die Planwidrigkeit der Regelungslücke im Auslegungsbeispiel nicht mit § 366 Abs. 3 HGB begründen?",
+      "options": [
+        "Weil man von einer Spezialregel des kaufmännischen Sonderprivatrechts nicht auf das allgemeine Bürgerliche Recht schließen kann und die Norm historisch älter als die BGB-Vorarbeiten ist",
+        "Weil § 366 Abs. 3 HGB inzwischen aufgehoben wurde",
+        "Weil § 366 Abs. 3 HGB nur vertragliche Pfandrechte betrifft",
+        "Weil ein Erst-recht-Schluss im Zivilrecht unzulässig ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Es wäre ein Schluss vom Speziellen auf das Allgemeine, also kein Erst-recht-Schluss; historisch (AHGB 1862) spricht eher dafür, dass die Sonderregel außerhalb des HGB nicht gelten soll (S. 154–155).",
+      "hints": [
+        "Systematik und Historie."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 153
+        },
+        {
+          "doc": "PROP_1",
+          "page": 154
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Formulieren Sie im Gutachtenstil (Obersatz, Begründung, Ergebnis) die Prüfung, ob § 1257 BGB auf § 1207 BGB verweist.",
+      "modelAnswer": "Fraglich ist, ob § 1257 BGB dahin auszulegen ist, dass sein Verweis auch § 1207 BGB erfasst. § 1257 BGB erklärt die Vorschriften über das rechtsgeschäftlich bestellte Pfandrecht auf ein kraft Gesetzes „entstandenes“ Pfandrecht für entsprechend anwendbar. Nach diesem eindeutigen Wortlaut setzt die Norm die Entstehung des Pfandrechts bereits voraus; sie verweist daher nicht auf Vorschriften, die – wie § 1207 BGB – die Entstehung regeln. Der Wortlaut ist Grenze der Auslegung. Somit erstreckt sich der Verweis des § 1257 BGB nicht auf § 1207 BGB.",
+      "rubric": [
+        "Obersatz mit „Fraglich ist, ob …“",
+        "Wortlautargument „entstandenes Pfandrecht“",
+        "Wortlaut als Grenze",
+        "Ergebnis spiegelt den Obersatz"
+      ],
+      "hints": [
+        "Konzentrieren Sie sich auf ein Wort in § 1257 BGB."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 153
+        }
+      ]
+    }
   ],
   "case": {
     "title": "Das reparierte Vorbehaltsauto: Hat W ein Werkunternehmerpfandrecht erworben?",
     "facts": "E verkauft dem D unter Eigentumsvorbehalt einen PKW; D soll das Fahrzeug bei Reparaturbedürftigkeit auf eigene Kosten reparieren lassen. Nach einem Lackschaden beauftragt D den Werkunternehmer W mit der Reparatur (Kosten 1.000 €). D wird insolvent und zahlt die Raten nicht weiter; E tritt vom Kaufvertrag zurück und verlangt von W die Herausgabe des PKW nach § 985 BGB. W beruft sich auf ein Recht zum Besitz (§ 986 BGB) aus einem Werkunternehmerpfandrecht. (Auslegungsbeispiel des Studienbriefs)",
     "question": "Hat W an dem PKW ein Werkunternehmerpfandrecht nach § 647 BGB erlangt?",
     "steps": [
-      {"part": "obersatz", "prompt": "Formulieren Sie den Obersatz zur Teilfrage.",
-       "model": "W könnte durch den Werkvertrag mit D (§ 631 BGB) ein Werkunternehmerpfandrecht an dem PKW nach § 647 BGB erlangt haben, das ihm ein Recht zum Besitz gegenüber E (§ 986 BGB) vermitteln würde.",
-       "rubric": ["Konjunktiv", "§ 647 BGB als Prüfungsnorm", "Bezug zu § 986 BGB/Kontext des § 985 BGB", "Werkvertrag mit D benannt"],
-       "hints": ["Wer könnte was wodurch erlangt haben?", "Warum ist die Frage für § 985 BGB relevant?"]},
-      {"part": "definition", "prompt": "Bestimmen Sie den Maßstab: Was setzt § 647 BGB nach seinem Wortlaut voraus, welche Wege eines Erwerbs vom Nichteigentümer kommen in Betracht und unter welchen Voraussetzungen ist eine Analogie zulässig?",
-       "model": "§ 647 BGB setzt nach seinem Wortlaut eine Sache „des Bestellers“ voraus, also Eigentum des Bestellers. Ein gutgläubiger Erwerb eines Pfandrechts ist nach § 1207 BGB i. V. m. §§ 932 ff. BGB möglich; § 1207 BGB steht aber systematisch bei den Vorschriften über das rechtsgeschäftliche Pfandrecht (§§ 1204 ff. BGB). § 1257 BGB erstreckt diese Vorschriften auf ein kraft Gesetzes „entstandenes“ Pfandrecht. Eine analoge Anwendung einer Norm setzt eine planwidrige Regelungslücke und eine vergleichbare Interessenlage voraus.",
-       "rubric": ["Wortlaut „des Bestellers“ = Eigentum", "§ 1207 BGB und seine systematische Stellung", "§ 1257 BGB und das Wort „entstanden“", "Analogievoraussetzungen"],
-       "hints": ["Erster Arbeitsschritt: Wortlaut.", "Zweiter: Systematik – wo steht § 1207 BGB?"]},
-      {"part": "subsumtion", "prompt": "Wenden Sie den Maßstab an (Wortlaut, Systematik, Verweis, Analogie mit Planwidrigkeit).",
-       "model": "Besteller war D, nicht der Eigentümer E; nach dem Wortlaut des § 647 BGB ist daher kein Pfandrecht entstanden. § 1207 BGB gilt nach seiner systematischen Stellung grundsätzlich nur für vertragliche Pfandrechte; § 647 BGB begründet aber ein gesetzliches Pfandrecht. § 1257 BGB setzt nach seinem eindeutigen Wortlaut ein bereits entstandenes Pfandrecht voraus und verweist deshalb nicht auf die Entstehungsvorschrift des § 1207 BGB. In Betracht kommt nur eine Analogie. Eine Regelungslücke besteht, weil der gutgläubige Erwerb gesetzlicher Pfandrechte im BGB nicht geregelt ist. Sie ist jedoch nicht planwidrig: Aus § 366 Abs. 3 HGB, einer Sonderregel des Handelsrechts, kann nicht auf das allgemeine Bürgerliche Recht geschlossen werden – das wäre ein Schluss vom Speziellen auf das Allgemeine und kein Erst-recht-Schluss. Historisch geht die Vorschrift auf § 306 Abs. 3 AHGB von 1862 zurück, als es noch keine Vorarbeiten zum BGB gab; daraus folgt eher, dass eine solche Sonderregel außerhalb des HGB gerade nicht gelten soll. Eine Analogie zu § 1207 BGB scheidet daher aus.",
-       "rubric": ["D ist nicht Eigentümer → § 647 BGB (−)", "§ 1207 BGB systematisch nur vertragliche Pfandrechte", "§ 1257 BGB: Wortlaut „entstanden“", "Lücke bejaht, Planwidrigkeit verneint", "Argument § 366 Abs. 3 HGB systematisch und historisch entkräftet"],
-       "hints": ["Prüfen Sie Schritt für Schritt – jeder Weg braucht ein eigenes Zwischenergebnis.", "Ist die Lücke vom Gesetzgeber gewollt?"]},
-      {"part": "ergebnis", "prompt": "Formulieren Sie das Ergebnis.",
-       "model": "W hat durch den Werkvertrag mit D kein Werkunternehmerpfandrecht nach § 647 BGB an dem PKW erlangt.",
-       "rubric": ["Indikativ", "Spiegel des Obersatzes", "eindeutig"],
-       "hints": ["Keine weiteren Erwägungen im Ergebnis."]}
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz zur Teilfrage.",
+        "model": "W könnte durch den Werkvertrag mit D (§ 631 BGB) ein Werkunternehmerpfandrecht an dem PKW nach § 647 BGB erlangt haben, das ihm ein Recht zum Besitz gegenüber E (§ 986 BGB) vermitteln würde.",
+        "rubric": [
+          "Konjunktiv",
+          "§ 647 BGB als Prüfungsnorm",
+          "Bezug zu § 986 BGB/Kontext des § 985 BGB",
+          "Werkvertrag mit D benannt"
+        ],
+        "hints": [
+          "Wer könnte was wodurch erlangt haben?",
+          "Warum ist die Frage für § 985 BGB relevant?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Bestimmen Sie den Maßstab: Was setzt § 647 BGB nach seinem Wortlaut voraus, welche Wege eines Erwerbs vom Nichteigentümer kommen in Betracht und unter welchen Voraussetzungen ist eine Analogie zulässig?",
+        "model": "§ 647 BGB setzt nach seinem Wortlaut eine Sache „des Bestellers“ voraus, also Eigentum des Bestellers. Ein gutgläubiger Erwerb eines Pfandrechts ist nach § 1207 BGB i. V. m. §§ 932 ff. BGB möglich; § 1207 BGB steht aber systematisch bei den Vorschriften über das rechtsgeschäftliche Pfandrecht (§§ 1204 ff. BGB). § 1257 BGB erstreckt diese Vorschriften auf ein kraft Gesetzes „entstandenes“ Pfandrecht. Eine analoge Anwendung einer Norm setzt eine planwidrige Regelungslücke und eine vergleichbare Interessenlage voraus.",
+        "rubric": [
+          "Wortlaut „des Bestellers“ = Eigentum",
+          "§ 1207 BGB und seine systematische Stellung",
+          "§ 1257 BGB und das Wort „entstanden“",
+          "Analogievoraussetzungen"
+        ],
+        "hints": [
+          "Erster Arbeitsschritt: Wortlaut.",
+          "Zweiter: Systematik – wo steht § 1207 BGB?"
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Wenden Sie den Maßstab an (Wortlaut, Systematik, Verweis, Analogie mit Planwidrigkeit).",
+        "model": "Besteller war D, nicht der Eigentümer E; nach dem Wortlaut des § 647 BGB ist daher kein Pfandrecht entstanden. § 1207 BGB gilt nach seiner systematischen Stellung grundsätzlich nur für vertragliche Pfandrechte; § 647 BGB begründet aber ein gesetzliches Pfandrecht. § 1257 BGB setzt nach seinem eindeutigen Wortlaut ein bereits entstandenes Pfandrecht voraus und verweist deshalb nicht auf die Entstehungsvorschrift des § 1207 BGB. In Betracht kommt nur eine Analogie. Eine Regelungslücke besteht, weil der gutgläubige Erwerb gesetzlicher Pfandrechte im BGB nicht geregelt ist. Sie ist jedoch nicht planwidrig: Aus § 366 Abs. 3 HGB, einer Sonderregel des Handelsrechts, kann nicht auf das allgemeine Bürgerliche Recht geschlossen werden – das wäre ein Schluss vom Speziellen auf das Allgemeine und kein Erst-recht-Schluss. Historisch geht die Vorschrift auf § 306 Abs. 3 AHGB von 1862 zurück, als es noch keine Vorarbeiten zum BGB gab; daraus folgt eher, dass eine solche Sonderregel außerhalb des HGB gerade nicht gelten soll. Eine Analogie zu § 1207 BGB scheidet daher aus.",
+        "rubric": [
+          "D ist nicht Eigentümer → § 647 BGB (−)",
+          "§ 1207 BGB systematisch nur vertragliche Pfandrechte",
+          "§ 1257 BGB: Wortlaut „entstanden“",
+          "Lücke bejaht, Planwidrigkeit verneint",
+          "Argument § 366 Abs. 3 HGB systematisch und historisch entkräftet"
+        ],
+        "hints": [
+          "Prüfen Sie Schritt für Schritt – jeder Weg braucht ein eigenes Zwischenergebnis.",
+          "Ist die Lücke vom Gesetzgeber gewollt?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "W hat durch den Werkvertrag mit D kein Werkunternehmerpfandrecht nach § 647 BGB an dem PKW erlangt.",
+        "rubric": [
+          "Indikativ",
+          "Spiegel des Obersatzes",
+          "eindeutig"
+        ],
+        "hints": [
+          "Keine weiteren Erwägungen im Ergebnis."
+        ]
+      }
     ],
-    "src": [{"doc":"PROP_1","page":152},{"doc":"PROP_1","page":153},{"doc":"PROP_1","page":154}]
+    "src": [
+      {
+        "doc": "PROP_1",
+        "page": 152
+      },
+      {
+        "doc": "PROP_1",
+        "page": 153
+      },
+      {
+        "doc": "PROP_1",
+        "page": 154
+      }
+    ]
   },
   "flashcards": [
-    {"front": "Ziel der Auslegung (Teil D)?", "back": "Den im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers herausfinden (objektive Theorie).", "src": [{"doc":"PROP_1","page":143}]},
-    {"front": "Vier klassische Auslegungsmethoden?", "back": "Sprachlich-grammatikalisch, systematisch, teleologisch, historisch.", "src": [{"doc":"PROP_1","page":144}]},
-    {"front": "Funktion des Wortlauts?", "back": "Ausgangspunkt und Grenze der Auslegung – aber nicht am buchstäblichen Ausdruck haften.", "src": [{"doc":"PROP_1","page":145}]},
-    {"front": "„Unverzüglich“?", "back": "Ohne schuldhaftes Zögern (§ 121 Abs. 1 S. 1 BGB), allgemeingültig im Privatrecht.", "src": [{"doc":"PROP_1","page":144}]},
-    {"front": "„Sonstiges Recht“ i. S. d. § 823 Abs. 1 BGB?", "back": "Absolutes, von jedermann zu beachtendes Recht (systematisch); nicht Forderungen oder das Vermögen; verfassungskonform auch das allgemeine Persönlichkeitsrecht.", "src": [{"doc":"PROP_1","page":145},{"doc":"PROP_1","page":146}]},
-    {"front": "Grenze der richtlinienkonformen Auslegung?", "back": "Klarer, entgegenstehender Wortlaut; bei überschießender Umsetzung keine Pflicht außerhalb des Richtlinienbereichs.", "src": [{"doc":"PROP_1","page":146},{"doc":"PROP_1","page":147}]},
-    {"front": "Welche Methode ist grundsätzlich entscheidend?", "back": "Die teleologische Auslegung (ratio legis).", "src": [{"doc":"PROP_1","page":147},{"doc":"PROP_1","page":148}]},
-    {"front": "Rolle der historischen Auslegung?", "back": "Gering; kann ein gefundenes Ergebnis nur stützen (Quellen: Motive, Protokolle, Drucksachen).", "src": [{"doc":"PROP_1","page":149}]},
-    {"front": "Umkehrschluss?", "back": "Ausdrücklich geregelte ähnliche Fälle → der ungeregelte Fall ist nicht erfasst (§ 119 BGB: Motivirrtum).", "src": [{"doc":"PROP_1","page":149}]},
-    {"front": "Erst-recht-Schluss?", "back": "Vom Größeren auf das Kleinere (§ 2255 BGB: ganzes Testament → erst recht Teile).", "src": [{"doc":"PROP_1","page":150}]},
-    {"front": "Effet utile?", "back": "Normen aufgrund einer EU-Richtlinie im Zweifel so anwenden, dass die Richtlinie volle Wirkung entfaltet.", "src": [{"doc":"PROP_1","page":150}]},
-    {"front": "Analogie – Voraussetzungen und Arten?", "back": "Planwidrige Regelungslücke + vergleichbare Interessenlage; Gesetzesanalogie (§ 31 BGB) und Rechtsanalogie (c. i. c.).", "src": [{"doc":"PROP_1","page":150},{"doc":"PROP_1","page":151}]},
-    {"front": "Teleologische Reduktion?", "back": "Nichtanwendung trotz einschlägigen Wortlauts, weil der Zweck es verbietet (§ 181 BGB bei rechtlichem Vorteil).", "src": [{"doc":"PROP_1","page":151}]}
+    {
+      "front": "Ziel der Auslegung (Teil D)?",
+      "back": "Den im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers herausfinden (objektive Theorie).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        }
+      ]
+    },
+    {
+      "front": "Vier klassische Auslegungsmethoden?",
+      "back": "Sprachlich-grammatikalisch, systematisch, teleologisch, historisch.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "front": "Funktion des Wortlauts?",
+      "back": "Ausgangspunkt und Grenze der Auslegung – aber nicht am buchstäblichen Ausdruck haften.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "front": "„Unverzüglich“?",
+      "back": "Ohne schuldhaftes Zögern (§ 121 Abs. 1 S. 1 BGB), allgemeingültig im Privatrecht.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "front": "„Sonstiges Recht“ i. S. d. § 823 Abs. 1 BGB?",
+      "back": "Absolutes, von jedermann zu beachtendes Recht (systematisch); nicht Forderungen oder das Vermögen; verfassungskonform auch das allgemeine Persönlichkeitsrecht.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 146
+        }
+      ]
+    },
+    {
+      "front": "Grenze der richtlinienkonformen Auslegung?",
+      "back": "Klarer, entgegenstehender Wortlaut; bei überschießender Umsetzung keine Pflicht außerhalb des Richtlinienbereichs.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 146
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "front": "Welche Methode ist grundsätzlich entscheidend?",
+      "back": "Die teleologische Auslegung (ratio legis).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 148
+        }
+      ]
+    },
+    {
+      "front": "Rolle der historischen Auslegung?",
+      "back": "Gering; kann ein gefundenes Ergebnis nur stützen (Quellen: Motive, Protokolle, Drucksachen).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "front": "Umkehrschluss?",
+      "back": "Ausdrücklich geregelte ähnliche Fälle → der ungeregelte Fall ist nicht erfasst (§ 119 BGB: Motivirrtum).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "front": "Erst-recht-Schluss?",
+      "back": "Vom Größeren auf das Kleinere (§ 2255 BGB: ganzes Testament → erst recht Teile).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "front": "Effet utile?",
+      "back": "Normen aufgrund einer EU-Richtlinie im Zweifel so anwenden, dass die Richtlinie volle Wirkung entfaltet.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "front": "Analogie – Voraussetzungen und Arten?",
+      "back": "Planwidrige Regelungslücke + vergleichbare Interessenlage; Gesetzesanalogie (§ 31 BGB) und Rechtsanalogie (c. i. c.).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        },
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "front": "Teleologische Reduktion?",
+      "back": "Nichtanwendung trotz einschlägigen Wortlauts, weil der Zweck es verbietet (§ 181 BGB bei rechtlichem Vorteil).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    }
   ]
 }

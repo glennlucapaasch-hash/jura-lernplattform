@@ -46,7 +46,8 @@ npm run import -- "/Users/DEINNAME/Downloads/Skripte"
 4. Trage den Schlüssel ein: `ANTHROPIC_API_KEY=sk-ant-…` und speichere.
 5. Schließe das Terminal-Fenster der App und starte sie neu (Doppelklick wie in Schritt 3).
 
-Ohne Schlüssel funktionieren bereits: Lernplan, Termine, Bibliothek und Suche, die vorbereiteten Lerneinheiten,
+**Die App ist vollständig ohne KI nutzbar.** Alle Kapitel sind als Lerneinheiten vorbereitet: 30 Einheiten mit 715 Aufgaben, 426 Karteikarten und 12 Übungsklausuren.
+Ohne Schlüssel funktionieren: Lernplan, Termine, Bibliothek und Suche, die vorbereiteten Lerneinheiten,
 alle Quizformate, Karteikarten, Klausurtraining mit Selbstbewertung und Vorlesen.
 Mit Schlüssel kommen dazu: der KI-Dozent, die Bewertung freier Antworten und Gutachten, neue Lerneinheiten für
 alle weiteren Kapitel und neue Übungsklausuren mit Auswertung.

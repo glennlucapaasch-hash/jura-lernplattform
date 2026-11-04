@@ -2,7 +2,9 @@
   "id": "prop-gutachtentechnik",
   "moduleId": "55100",
   "ke": null,
-  "topicIds": ["prop-c"],
+  "topicIds": [
+    "prop-c"
+  ],
   "title": "Einführung in die Gutachtentechnik: Obersatz, Voraussetzungen, Definition, Subsumtion, Ergebnis",
   "estMinutes": 200,
   "sections": [
@@ -10,84 +12,502 @@
       "id": "s1",
       "title": "Zweck des Gutachtens und fingierte Situation",
       "short": "Ein Rechtsgutachten sucht rechtlich begründete Lösungen: Man unterstellt ein mögliches Ergebnis und prüft Rechtsgründe, die es stützen könnten – in einem Konditionalstil („Ergebnis E ist gegeben, wenn Voraussetzung V gegeben ist“). Die Gutachtentechnik fingiert die Lage des Berichterstatters vor dem Kollegialgericht; im Studium beschränkt sie sich auf die materiell-rechtliche Argumentation: im Zivilrecht Ansprüche, im Strafrecht Strafbarkeit, im Öffentlichen Recht Rechtmäßigkeit (oft mit prozessualen Fragen).",
-      "long": "## Zweck (S. 81)\n\nDer Zweck eines Rechtsgutachtens: rechtlich begründete Lösungen für ein Problem finden. Man **unterstellt ein mögliches Ergebnis** und prüft Rechtsgrundlagen, die es stützen könnten – also **Sichten und Prüfen der Rechtsgründe, die für oder gegen eine angenommene Falllösung sprechen**. Die Prüfung erfolgt im **Konditionalstil** (Wenn → Dann): *„Ergebnis E ist (dann) gegeben, wenn dessen Voraussetzung V gegeben ist.“* (Abb. 31: konditionale Prüfkette, S. 82).\n\n## Herkunft und fingierte Situation (S. 82)\n\nDie Gutachtentechnik (ungenau auch „Gutachtenstil“) ist eine **Besonderheit der deutschen Juristenausbildung** und wird seit Ende des 19. Jahrhunderts geübt. Sie fingiert die Situation des **Berichterstatters vor seinem Kollegialgericht**: Ein Mitglied des Gerichts nimmt intern Stellung und bereitet die Entscheidung vor. Im Studium beschränkt sich das Gutachten auf den **rechtlichen Teil** – persönliche, wirtschaftliche oder rechtspolitische Konsequenzen sind nicht zu erörtern. Es konzentriert sich auf **materiell-rechtliche** Überlegungen:\n- **Zivilrecht:** Hat jemand einen Anspruch gegen einen anderen aus einer (oder mehreren) Anspruchsgrundlagen?\n- **Strafrecht:** Hat sich der Täter nach einem (oder mehreren) Gesetzen strafbar gemacht?\n- **Öffentliches Recht:** Ist ein hoheitliches Handeln (Gesetz, Verwaltungsakt) rechtmäßig, insbesondere verfassungsgemäß? Hier sind regelmäßig auch die **Erfolgsaussichten einer Klage** und damit prozessuale Fragen (Zulässigkeit und Begründetheit nach Schema) zu prüfen; im Mittelpunkt steht aber auch dort die materiell-rechtliche Prüfung (S. 82–83).",
-      "src": [{"doc":"PROP_1","page":81},{"doc":"PROP_1","page":82},{"doc":"PROP_1","page":83}]
+      "long": "## Zweck (S. 82)\n\nDer Zweck eines Rechtsgutachtens: rechtlich begründete Lösungen für ein Problem finden. Man **unterstellt ein mögliches Ergebnis** und prüft Rechtsgrundlagen, die es stützen könnten – also **Sichten und Prüfen der Rechtsgründe, die für oder gegen eine angenommene Falllösung sprechen**. Die Prüfung erfolgt im **Konditionalstil** (Wenn → Dann): *„Ergebnis E ist (dann) gegeben, wenn dessen Voraussetzung V gegeben ist.“* (Abb. 31: konditionale Prüfkette, S. 83).\n\n## Herkunft und fingierte Situation (S. 83)\n\nDie Gutachtentechnik (ungenau auch „Gutachtenstil“) ist eine **Besonderheit der deutschen Juristenausbildung** und wird seit Ende des 19. Jahrhunderts geübt. Sie fingiert die Situation des **Berichterstatters vor seinem Kollegialgericht**: Ein Mitglied des Gerichts nimmt intern Stellung und bereitet die Entscheidung vor. Im Studium beschränkt sich das Gutachten auf den **rechtlichen Teil** – persönliche, wirtschaftliche oder rechtspolitische Konsequenzen sind nicht zu erörtern. Es konzentriert sich auf **materiell-rechtliche** Überlegungen:\n- **Zivilrecht:** Hat jemand einen Anspruch gegen einen anderen aus einer (oder mehreren) Anspruchsgrundlagen?\n- **Strafrecht:** Hat sich der Täter nach einem (oder mehreren) Gesetzen strafbar gemacht?\n- **Öffentliches Recht:** Ist ein hoheitliches Handeln (Gesetz, Verwaltungsakt) rechtmäßig, insbesondere verfassungsgemäß? Hier sind regelmäßig auch die **Erfolgsaussichten einer Klage** und damit prozessuale Fragen (Zulässigkeit und Begründetheit nach Schema) zu prüfen; im Mittelpunkt steht aber auch dort die materiell-rechtliche Prüfung (S. 83–84).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 81
+        },
+        {
+          "doc": "PROP_1",
+          "page": 82
+        },
+        {
+          "doc": "PROP_1",
+          "page": 83
+        }
+      ]
     },
     {
       "id": "s2",
       "title": "Such- und Prüfmodus versus Urteilsstil; Suchen mit System",
       "short": "Der Gutachtenstil kombiniert den Such- und Prüfmodus („Ob es so ist?“), das Begründen im Konditionalstil und die Idee des Justizsyllogismus. Das Gutachten dokumentiert einen Suchprozess: Erwägung → möglicher Grund → Prüfung → Ergebnis. Der Urteilsstil stellt dagegen das Ergebnis an den Anfang und begründet danach. Ordnungsregeln: Jede aufgeworfene Frage beantworten, keine Verweise nach vorn, bei dem gewählten Grund bleiben, jeden weiteren Grund unter einem neuen gleichrangigen Gliederungspunkt prüfen.",
-      "long": "## Drei Ansätze (S. 83)\n\nDer Gutachtenstil kombiniert:\n1. den **Such- und Prüfmodus** – *Ob es so ist?*\n2. das **Begründen im Konditionalstil** („… Ergebnis ist, wenn dessen Voraussetzung V ist …“),\n3. die **Idee des Justizsyllogismus**.\n\n## Such- und Prüfmodus (S. 83–84)\n\nDas Gutachten **dokumentiert einen Suchprozess**: Suchauftrag klären → mögliches Ergebnis erwägen → Rechtsgrundlagen sichten → jeden Rechtsgrund für sich prüfen → Ergebnis feststellen.\n\n| | Alltagsbeispiel | Rechtsbeispiel |\n|---|---|---|\n| Erwägung | Ich könnte heute länger schlafen … | V könnte gegen K einen Anspruch auf Zahlung von 50 EUR haben … |\n| Grund? | … denn möglicherweise ist Feiertag? | V und K haben möglicherweise einen Kaufvertrag geschlossen? |\n| Prüfung | Der Kalender bestätigt: Feiertag! | V und K haben einen entsprechenden Vertrag geschlossen! |\n| Ergebnis | Ich kann heute länger schlafen. | V hat gegen K einen Anspruch auf Zahlung von 50 EUR. |\n\n## Urteilsstil (S. 84)\n\nDer **Urteilsstil** stellt das **Ergebnis an den Anfang** (Gerichtsentscheidung: Suchprozess abgeschlossen) und nennt danach den Grund: „V steht gegen K ein Anspruch auf Kaufpreiszahlung aus § 433 Abs. 2 BGB in Höhe von 50 EUR zu. Die Voraussetzungen liegen vor; V und K haben einen wirksamen Kaufvertrag geschlossen.“\n\n## Suchen mit System – Ordnungsregeln (S. 85–86)\n\nIm Zivilrecht sammelt man zunächst **Anspruchsgrundlagen**; für weitere Obersätze kommen auch andere Normen, Definitionen, Auslegungsgrundsätze oder Lehrsätze in Betracht. **Oberstes Ziel: strikt Ordnung halten.**\n- **Keine Fäden fallen lassen:** Wer eine Frage (Ob?) aufwirft, muss sie beantworten. *Erwägung:* „Zu prüfen ist, ob R ihre Willenserklärung durch Anfechtung gemäß § 142 Abs. 1 BGB rückwirkend (ex tunc) vernichtet hat.“ – *Ergebnis:* „Somit ist die Willenserklärung der R als von Anfang an nichtig anzusehen.“\n- **Nur feststellen, was zuvor begründet wurde.** Keine Verweise nach vorn („wie noch zu zeigen sein wird“, „s. u.“ – falsch); Rückbezüge sind erlaubt („wie bereits festgestellt“, „s. o.“ – richtig).\n- **Beim gewählten Grund bleiben:** Unter einem Gliederungspunkt nur diesen einen möglichen Grund untersuchen (z. B. Rückgabeanspruch aus § 604 Abs. 1 BGB; Sachbeschädigung nach § 303 Abs. 1 StGB).\n- **Jeder weitere Gesichtspunkt** erhält eine neue Prüfung unter einem **neuen gleichrangigen Gliederungspunkt**.\n\n**Mehrere Gesichtspunkte (S. 86):** A. Ergebnishypothese „länger schlafen“ – I. Feiertag? (−) – II. erster Termin fällt aus? (+) – III. weil ich müde bin? Hier ist schon die „Regel“ selbst zweifelhaft (**Geltungsprüfung**; im Recht z. B. Prüfung der Verfassungsmäßigkeit eines Gesetzes, Fn. 66) (−) – B. Endergebnis gemäß Begründung II.",
-      "src": [{"doc":"PROP_1","page":83},{"doc":"PROP_1","page":84},{"doc":"PROP_1","page":85},{"doc":"PROP_1","page":86}]
+      "long": "## Drei Ansätze (S. 84)\n\nDer Gutachtenstil kombiniert:\n1. den **Such- und Prüfmodus** – *Ob es so ist?*\n2. das **Begründen im Konditionalstil** („… Ergebnis ist, wenn dessen Voraussetzung V ist …“),\n3. die **Idee des Justizsyllogismus**.\n\n## Such- und Prüfmodus (S. 84–85)\n\nDas Gutachten **dokumentiert einen Suchprozess**: Suchauftrag klären → mögliches Ergebnis erwägen → Rechtsgrundlagen sichten → jeden Rechtsgrund für sich prüfen → Ergebnis feststellen.\n\n| | Alltagsbeispiel | Rechtsbeispiel |\n|---|---|---|\n| Erwägung | Ich könnte heute länger schlafen … | V könnte gegen K einen Anspruch auf Zahlung von 50 EUR haben … |\n| Grund? | … denn möglicherweise ist Feiertag? | V und K haben möglicherweise einen Kaufvertrag geschlossen? |\n| Prüfung | Der Kalender bestätigt: Feiertag! | V und K haben einen entsprechenden Vertrag geschlossen! |\n| Ergebnis | Ich kann heute länger schlafen. | V hat gegen K einen Anspruch auf Zahlung von 50 EUR. |\n\n## Urteilsstil (S. 85)\n\nDer **Urteilsstil** stellt das **Ergebnis an den Anfang** (Gerichtsentscheidung: Suchprozess abgeschlossen) und nennt danach den Grund: „V steht gegen K ein Anspruch auf Kaufpreiszahlung aus § 433 Abs. 2 BGB in Höhe von 50 EUR zu. Die Voraussetzungen liegen vor; V und K haben einen wirksamen Kaufvertrag geschlossen.“\n\n## Suchen mit System – Ordnungsregeln (S. 86–87)\n\nIm Zivilrecht sammelt man zunächst **Anspruchsgrundlagen**; für weitere Obersätze kommen auch andere Normen, Definitionen, Auslegungsgrundsätze oder Lehrsätze in Betracht. **Oberstes Ziel: strikt Ordnung halten.**\n- **Keine Fäden fallen lassen:** Wer eine Frage (Ob?) aufwirft, muss sie beantworten. *Erwägung:* „Zu prüfen ist, ob R ihre Willenserklärung durch Anfechtung gemäß § 142 Abs. 1 BGB rückwirkend (ex tunc) vernichtet hat.“ – *Ergebnis:* „Somit ist die Willenserklärung der R als von Anfang an nichtig anzusehen.“\n- **Nur feststellen, was zuvor begründet wurde.** Keine Verweise nach vorn („wie noch zu zeigen sein wird“, „s. u.“ – falsch); Rückbezüge sind erlaubt („wie bereits festgestellt“, „s. o.“ – richtig).\n- **Beim gewählten Grund bleiben:** Unter einem Gliederungspunkt nur diesen einen möglichen Grund untersuchen (z. B. Rückgabeanspruch aus § 604 Abs. 1 BGB; Sachbeschädigung nach § 303 Abs. 1 StGB).\n- **Jeder weitere Gesichtspunkt** erhält eine neue Prüfung unter einem **neuen gleichrangigen Gliederungspunkt**.\n\n**Mehrere Gesichtspunkte (S. 87):** A. Ergebnishypothese „länger schlafen“ – I. Feiertag? (−) – II. erster Termin fällt aus? (+) – III. weil ich müde bin? Hier ist schon die „Regel“ selbst zweifelhaft (**Geltungsprüfung**; im Recht z. B. Prüfung der Verfassungsmäßigkeit eines Gesetzes, Fn. 66) (−) – B. Endergebnis gemäß Begründung II.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 83
+        },
+        {
+          "doc": "PROP_1",
+          "page": 84
+        },
+        {
+          "doc": "PROP_1",
+          "page": 85
+        },
+        {
+          "doc": "PROP_1",
+          "page": 86
+        }
+      ]
     },
     {
       "id": "s3",
       "title": "Begründungsstile und Denken unter Voraussetzungen",
       "short": "Drei Arten zu begründen: intuitiv (Gründe anhäufen, wie sie einem einfallen), im Urteilsstil (nur die tragfähigen Gründe, Entscheidung → Grund → Grund) und im konditionalen Gutachtenstil, der statt einer direkten Antwort die Bedingungen nennt. Im hypothetischen Hauptteil prüft man Voraussetzungen, im Ergebnisteil durchläuft man die Stationen rückwärts. Das Umwegdenken verzögert die Lösung, durchkämmt das Problemfeld, schafft sachliche Distanz und ist weniger fehleranfällig.",
-      "long": "## Drei Begründungsstile (S. 87–89)\n\n- **Intuitiv:** Gründe werden angehäuft, wie sie einem in den Sinn kommen (unter Freunden, in Foren) – oft bleibt unklar, auf welcher Norm ein Argument beruht.\n- **Urteilsstil:** formstreng, aber er zeigt den Begründungstest nur im Ergebnis: *Entscheidung → Grund → Grund → Grund*. Beispiel: „Ich kann länger schlafen! Da mein erster Termin ausfällt. Denn die Fa. Faul hat abgesagt. Beweis: E-Mail von gestern 19:30.“\n- **Konditionaler Gutachtenstil:** Statt die Frage direkt zu beantworten, nennt man die **Bedingungen** für die Antwort (Tabelle 8): *Hypothetischer Teil:* „Ich könnte länger schlafen. Dann müsste mein erster Termin ausfallen.“ → *Ergebnisteil:* „Mein erster Termin fällt aus. Ich kann länger schlafen!“\n\nDer **hypothetische Hauptteil** beansprucht fast den ganzen Raum: „Das mögliche Ergebnis könnte mit Grund G begründet werden, wenn Voraussetzung x vorliegt.“ Im **Ergebnisteil** durchläuft man jede Begründungsstation im **Rückwärtsgang**; so entsteht eine Begründungskette wie beim Urteilsstil, aber „von unten nach oben“: **z → y → x → G → Ergebnis** (S. 88–89).\n\n## Denken unter Voraussetzungen (S. 90–93)\n\nStatt auf das Ergebnis loszustürmen, sucht man ein **„sicheres Drittes“** zwischen Hypothese und Begründung – Bedingungen, Voraussetzungen, Erklärungen. Dadurch\n- verzögert man die Lösung und hält sich länger im Suchfeld auf,\n- durchkämmt das gesamte rechtliche Problemfeld,\n- übersieht keinen Aspekt,\n- entdeckt unerwartete Gesichtspunkte (S. 91).\n\n**Vergleich:** Der Urteilsstil nennt nur die tragenden Gründe, verschweigt fehlgeschlagene Ansätze – diskreter, aber weniger transparent. Der Gutachtenstil macht die **Suche nachvollziehbar**, folgt idealisiert den gewohnten Denkbewegungen, bezieht viele Gesichtspunkte ein (Tatbestandsmerkmale, Definitionen, Leitsätze) und schafft **Distanz**: Aus der Frage, ob A bestraft werden sollte, wird ein begriffliches Problem – etwa ob das Anbringen von Graffiti ein „Zerstören“ i. S. d. § 303 Abs. 1 StGB ist. Diese **Übertragung vom Persönlichen ins Sachliche** rationalisiert Konflikte, bringt dem juristischen Denken aber den Vorwurf ein, kühl und lebensfern zu sein (S. 92).\n\nDer Konditionalstil gibt eine feste Struktur vor, bleibt durch seinen hypothetischen Grundzug („… könnte … haben“) **ergebnisoffen**, vermeidet frühe einseitige Festlegungen und ist **weniger fehleranfällig** als die direkte Suche nach Gründen – kein bloß akademisches Exerzitium (S. 92–93).",
-      "src": [{"doc":"PROP_1","page":87},{"doc":"PROP_1","page":88},{"doc":"PROP_1","page":89},{"doc":"PROP_1","page":90},{"doc":"PROP_1","page":91},{"doc":"PROP_1","page":92},{"doc":"PROP_1","page":93}]
+      "long": "## Drei Begründungsstile (S. 88–90)\n\n- **Intuitiv:** Gründe werden angehäuft, wie sie einem in den Sinn kommen (unter Freunden, in Foren) – oft bleibt unklar, auf welcher Norm ein Argument beruht.\n- **Urteilsstil:** formstreng, aber er zeigt den Begründungstest nur im Ergebnis: *Entscheidung → Grund → Grund → Grund*. Beispiel: „Ich kann länger schlafen! Da mein erster Termin ausfällt. Denn die Fa. Faul hat abgesagt. Beweis: E-Mail von gestern 19:30.“\n- **Konditionaler Gutachtenstil:** Statt die Frage direkt zu beantworten, nennt man die **Bedingungen** für die Antwort (Tabelle 8): *Hypothetischer Teil:* „Ich könnte länger schlafen. Dann müsste mein erster Termin ausfallen.“ → *Ergebnisteil:* „Mein erster Termin fällt aus. Ich kann länger schlafen!“\n\nDer **hypothetische Hauptteil** beansprucht fast den ganzen Raum: „Das mögliche Ergebnis könnte mit Grund G begründet werden, wenn Voraussetzung x vorliegt.“ Im **Ergebnisteil** durchläuft man jede Begründungsstation im **Rückwärtsgang**; so entsteht eine Begründungskette wie beim Urteilsstil, aber „von unten nach oben“: **z → y → x → G → Ergebnis** (S. 89–90).\n\n## Denken unter Voraussetzungen (S. 91–94)\n\nStatt auf das Ergebnis loszustürmen, sucht man ein **„sicheres Drittes“** zwischen Hypothese und Begründung – Bedingungen, Voraussetzungen, Erklärungen. Dadurch\n- verzögert man die Lösung und hält sich länger im Suchfeld auf,\n- durchkämmt das gesamte rechtliche Problemfeld,\n- übersieht keinen Aspekt,\n- entdeckt unerwartete Gesichtspunkte (S. 92).\n\n**Vergleich:** Der Urteilsstil nennt nur die tragenden Gründe, verschweigt fehlgeschlagene Ansätze – diskreter, aber weniger transparent. Der Gutachtenstil macht die **Suche nachvollziehbar**, folgt idealisiert den gewohnten Denkbewegungen, bezieht viele Gesichtspunkte ein (Tatbestandsmerkmale, Definitionen, Leitsätze) und schafft **Distanz**: Aus der Frage, ob A bestraft werden sollte, wird ein begriffliches Problem – etwa ob das Anbringen von Graffiti ein „Zerstören“ i. S. d. § 303 Abs. 1 StGB ist. Diese **Übertragung vom Persönlichen ins Sachliche** rationalisiert Konflikte, bringt dem juristischen Denken aber den Vorwurf ein, kühl und lebensfern zu sein (S. 93).\n\nDer Konditionalstil gibt eine feste Struktur vor, bleibt durch seinen hypothetischen Grundzug („… könnte … haben“) **ergebnisoffen**, vermeidet frühe einseitige Festlegungen und ist **weniger fehleranfällig** als die direkte Suche nach Gründen – kein bloß akademisches Exerzitium (S. 93–94).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 87
+        },
+        {
+          "doc": "PROP_1",
+          "page": 88
+        },
+        {
+          "doc": "PROP_1",
+          "page": 89
+        },
+        {
+          "doc": "PROP_1",
+          "page": 90
+        },
+        {
+          "doc": "PROP_1",
+          "page": 91
+        },
+        {
+          "doc": "PROP_1",
+          "page": 92
+        },
+        {
+          "doc": "PROP_1",
+          "page": 93
+        }
+      ]
     },
     {
       "id": "s4",
       "title": "Grundaufbau und erster Obersatz: Rechtsfrage, Ergebnishypothese, Konjunktiv",
       "short": "Das Gutachten verbindet Konditionalstil und Justizsyllogismus in fünf Schritten: Obersatz – Voraussetzung – Definition – Subsumtion – Ergebnis. Der erste Obersatz formuliert den Prüfauftrag und enthält drei Elemente: Rechtsfrage, Ergebnishypothese und Rechtsnorm. Das Gutachten beginnt „bottom up“ beim Sachverhaltsproblem; im Zivilrecht hilft die W-Formel. Die Hypothese steht traditionell im Konjunktiv II (Irrealis); Definition, Auslegung und Subsumtion stehen im Indikativ Präsens. Hypothetische Mittel nicht doppeln.",
-      "long": "## Fünf Schritte (S. 93–94)\n\nDas Gutachten kombiniert den konditionalen Begründungsstil mit dem **Justizsyllogismus** (Hauptschluss/Nebenschluss). Grundaufbau (Abb. 43): **1. Obersatz – 2. Voraussetzung – 3. Definition – 4. Subsumtion – 5. Ergebnis.** Diese Schritte werden ganz oder teilweise wiederholt und zu hierarchischen oder parallelen Prüfprogrammen verknüpft.\n\n## Erster Obersatz (S. 94–95)\n\nDer Obersatz formuliert den **gutachterlichen Prüfauftrag**: „V könnte gegen K einen Anspruch auf Zahlung von 80 EUR aus § 433 Abs. 2 BGB haben.“ Neben dem ersten gibt es viele **weitere Obersätze** („V müsste ein Angebot abgegeben haben.“ „Die Orchidee müsste eine Sache sein.“). Der erste ist der wichtigste – er setzt die Untersuchung auf die richtige Spur. **Drei Elemente:**\n1. **Rechtsfrage** („Kann V von K Zahlung von 80 EUR verlangen?“),\n2. **Ergebnishypothese** („V könnte gegen K einen Anspruch auf Zahlung von 80 EUR haben“),\n3. **Rechtsnorm** („… aus § 433 Abs. 2 BGB“).\n\n## Rechtsfrage (S. 95–96)\n\nAnders als der Justizsyllogismus („top down“) beginnt das Gutachten **„bottom up“** beim Problem des Sachverhalts. *Lederjacke:* V überlässt K die Jacke für 80 EUR, K weigert sich zu zahlen – Rechtsfrage: Hat V gegen K einen Anspruch auf Zahlung der 80 EUR? Im **Strafrecht** ist ausdrücklich auf den Sachverhalt Bezug zu nehmen: „Hat sich A strafbar gemacht, indem er die Orchidee Paphiopedilum Parishii des B zertreten hat?“ Auf eine vorgegebene Fallfrage ist kein Verlass – Sie müssen die korrekte Rechtsfrage selbst stellen. **W-Formel (Zivilrecht):** *Wer will was von wem?*\n\n## Ergebnishypothese und Konjunktiv (S. 96–98)\n\nDie Hypothese unterstellt für den folgenden Abschnitt, dass die Rechtsfrage mit Ja zu beantworten ist – als Gedankenspiel traditionell im **Konjunktiv II (Irrealis)**: könnte, hätte, müsste (gebildet aus dem Präteritum: war → wäre, konnte → könnte, grub → grübe). „würde“ dringt vor, sollte in Prüfungsarbeiten aber vermieden werden. Grammatisch korrekt steht das **gesamte Konditionalgefüge** im Irrealis („Ich flög’ zu dir, wenn ich ein Vöglein wäre“). Vorbedingungen einer Voraussetzung: Irrealis Plusquamperfekt („hätten sich geeinigt haben müssen“).\n\nSobald man **definiert, interpretiert und subsumiert**, springt man in den **Indikativ Präsens** („Ein Kaufvertrag kommt durch … zustande. Vorliegend haben V und K …“).\n\n**Formulierungsvorschläge (S. 98):** „Fraglich ist, ob …“, „Möglicherweise …“, „Zu prüfen ist, ob …“, „In Betracht kommt, dass …“, „Zu erwägen ist, ob …“. **Nicht doppeln:** „Möglicherweise könnte A in Notwehr gehandelt haben“ und „In Betracht kommt, dass A gerechtfertigt sein könnte“ sind falsch. Legen Sie sich ein **Repertoire an Standardformulierungen** zu und wiederholen Sie es – abwechslungsreiche Wortwahl ist nicht gefragt. Manche Prüfer lehnen den Irrealis ab und lassen den Indikativ zu („V hat gegen K einen Anspruch …, wenn …“); im Zweifel bei den Lehrstühlen informieren.",
-      "src": [{"doc":"PROP_1","page":93},{"doc":"PROP_1","page":94},{"doc":"PROP_1","page":95},{"doc":"PROP_1","page":96},{"doc":"PROP_1","page":97},{"doc":"PROP_1","page":98}]
+      "long": "## Fünf Schritte (S. 94–95)\n\nDas Gutachten kombiniert den konditionalen Begründungsstil mit dem **Justizsyllogismus** (Hauptschluss/Nebenschluss). Grundaufbau (Abb. 43): **1. Obersatz – 2. Voraussetzung – 3. Definition – 4. Subsumtion – 5. Ergebnis.** Diese Schritte werden ganz oder teilweise wiederholt und zu hierarchischen oder parallelen Prüfprogrammen verknüpft.\n\n## Erster Obersatz (S. 95–96)\n\nDer Obersatz formuliert den **gutachterlichen Prüfauftrag**: „V könnte gegen K einen Anspruch auf Zahlung von 80 EUR aus § 433 Abs. 2 BGB haben.“ Neben dem ersten gibt es viele **weitere Obersätze** („V müsste ein Angebot abgegeben haben.“ „Die Orchidee müsste eine Sache sein.“). Der erste ist der wichtigste – er setzt die Untersuchung auf die richtige Spur. **Drei Elemente:**\n1. **Rechtsfrage** („Kann V von K Zahlung von 80 EUR verlangen?“),\n2. **Ergebnishypothese** („V könnte gegen K einen Anspruch auf Zahlung von 80 EUR haben“),\n3. **Rechtsnorm** („… aus § 433 Abs. 2 BGB“).\n\n## Rechtsfrage (S. 96–97)\n\nAnders als der Justizsyllogismus („top down“) beginnt das Gutachten **„bottom up“** beim Problem des Sachverhalts. *Lederjacke:* V überlässt K die Jacke für 80 EUR, K weigert sich zu zahlen – Rechtsfrage: Hat V gegen K einen Anspruch auf Zahlung der 80 EUR? Im **Strafrecht** ist ausdrücklich auf den Sachverhalt Bezug zu nehmen: „Hat sich A strafbar gemacht, indem er die Orchidee Paphiopedilum Parishii des B zertreten hat?“ Auf eine vorgegebene Fallfrage ist kein Verlass – Sie müssen die korrekte Rechtsfrage selbst stellen. **W-Formel (Zivilrecht):** *Wer will was von wem?*\n\n## Ergebnishypothese und Konjunktiv (S. 97–99)\n\nDie Hypothese unterstellt für den folgenden Abschnitt, dass die Rechtsfrage mit Ja zu beantworten ist – als Gedankenspiel traditionell im **Konjunktiv II (Irrealis)**: könnte, hätte, müsste (gebildet aus dem Präteritum: war → wäre, konnte → könnte, grub → grübe). „würde“ dringt vor, sollte in Prüfungsarbeiten aber vermieden werden. Grammatisch korrekt steht das **gesamte Konditionalgefüge** im Irrealis („Ich flög’ zu dir, wenn ich ein Vöglein wäre“). Vorbedingungen einer Voraussetzung: Irrealis Plusquamperfekt („hätten sich geeinigt haben müssen“).\n\nSobald man **definiert, interpretiert und subsumiert**, springt man in den **Indikativ Präsens** („Ein Kaufvertrag kommt durch … zustande. Vorliegend haben V und K …“).\n\n**Formulierungsvorschläge (S. 99):** „Fraglich ist, ob …“, „Möglicherweise …“, „Zu prüfen ist, ob …“, „In Betracht kommt, dass …“, „Zu erwägen ist, ob …“. **Nicht doppeln:** „Möglicherweise könnte A in Notwehr gehandelt haben“ und „In Betracht kommt, dass A gerechtfertigt sein könnte“ sind falsch. Legen Sie sich ein **Repertoire an Standardformulierungen** zu und wiederholen Sie es – abwechslungsreiche Wortwahl ist nicht gefragt. Manche Prüfer lehnen den Irrealis ab und lassen den Indikativ zu („V hat gegen K einen Anspruch …, wenn …“); im Zweifel bei den Lehrstühlen informieren.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 93
+        },
+        {
+          "doc": "PROP_1",
+          "page": 94
+        },
+        {
+          "doc": "PROP_1",
+          "page": 95
+        },
+        {
+          "doc": "PROP_1",
+          "page": 96
+        },
+        {
+          "doc": "PROP_1",
+          "page": 97
+        },
+        {
+          "doc": "PROP_1",
+          "page": 98
+        }
+      ]
     },
     {
       "id": "s5",
       "title": "Die Rechtsnorm im Obersatz, Besonderheiten im Strafrecht und weitere Obersätze",
       "short": "Im ersten Obersatz wird die Hypothese mit dem ersten Rechtsgrund verbunden (Anspruchsgrundlage bzw. Strafnorm); die W-Formel wird zu „Wer will was von wem woraus?“. Die Rechtsfolge der Norm muss dem Begehren entsprechen (Krügerrand: Kaufpreis → § 433 Abs. 2, Übergabe/Übereignung → § 433 Abs. 1 S. 1 BGB). Die Norm ist zu nennen (Gesetzesbindung, Vorbehalt des Gesetzes, nulla poena sine lege) und genau zu zitieren. Im Strafrecht: Täter, Tathandlung, Delikt, Norm – Tathandlung mit „indem“, nie mit „da/weil“. Weitere Obersätze sind knapp und tragen stillschweigend eine Vor- und eine Nachprämisse.",
-      "long": "## Rechtsnorm und fünf W (S. 99)\n\nIm Zivil- und Strafrecht kombiniert man die Hypothese unmittelbar mit dem ersten Rechtsgrund: „Ergebnis E ist möglicherweise gegeben wegen Rechtsgrund G.“ Beispiele: „V könnte gegen M einen Anspruch auf Zahlung der Miete für Januar in Höhe von 650 EUR gemäß § 535 Abs. 2 BGB haben.“ – „A könnte sich wegen Sachbeschädigung nach § 303 Abs. 1 StGB strafbar gemacht haben, indem er Bs Orchidee zertreten hat.“ **Fünf W:** *Wer will was von wem woraus?* (C begehrt von E die Rückgabe des Cabrios aus § 604 Abs. 1 BGB).\n\n## Obersatz und Rechtsfolge (S. 99–101)\n\nDie Rechtsfolge ist das **Anspruchsbegehren in abstrakter Form**; fallbezogen erscheint sie als hypothetisches Ergebnis. Der Tatbestand enthält die Voraussetzungen, die erst im nächsten Abschnitt benannt werden. **Krügerrand:** Verlangt V den Kaufpreis von 950 EUR, ist § 433 Abs. 2 BGB maßgeschneidert. Will V die Münze nach der Einigung auf dem Straßenfest doch behalten und fragt K nach seinen Rechten, lautet der Obersatz: „K könnte gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze Krügerrand 1 Unze für 950 EUR aus § 433 Abs. 1 S. 1 BGB haben.“\n\n**Warum ein Gesetz nennen? (S. 101)** Der Gutachter bereitet einen Rechtsakt vor, der meist mit Grundrechtseingriffen einhergeht – **Vorbehalt des Gesetzes**; die Rechtsprechung ist an das Gesetz gebunden (Art. 20 Abs. 3, 97 Abs. 1 GG); im Strafrecht gilt **nulla poena sine lege**, auch kein rückwirkendes Strafgesetz (Art. 103 Abs. 2 GG).\n\n**Welche Norm? (S. 101)** Der Blick ins Gesetz ist unverzichtbar, gibt aber keine abschließende Auskunft, ob eine Vorschrift Anspruchsgrundlage ist und passt; Auskunft geben Dogmatik, Studienkurse, Lehrbücher, Kommentare, Rechtsprechung und Aufbauschemata.\n\n## Besonderheiten im Strafrecht (S. 101–103)\n\nWer hat sich durch welche Handlung wegen welches Delikts nach welcher Norm strafbar gemacht? **Täter – Tathandlung – Delikt – Norm.** Beispiel: „A könnte sich durch das Zertrampeln von Bs Orchidee wegen Sachbeschädigung gemäß § 303 Abs. 1 StGB strafbar gemacht haben.“\n- Die Norm **genau** bezeichnen: „A könnte gemäß §§ 437 Nr. 2, 323 Abs. 1 BGB vom Kaufvertrag zurückgetreten sein“ statt bloß „zurückgetreten sein“.\n- Die **Tathandlung** genau benennen: Pilzfall – „… nach §§ 212 Abs. 1, 22, 23 Abs. 1, 13 Abs. 1 StGB wegen versuchten Totschlags durch Unterlassen strafbar gemacht, indem er es unterließ, M auf die giftigen Pilze hinzuweisen.“\n- Die Tathandlung hat im Obersatz **keine Begründungsfunktion**: „A könnte ein Dieb sein, da er X das Auto wegnahm“ ist Urteilsstil – falsch; richtig: „…, indem er …“. Geprüft wird die **Tat**, nicht der Täter (S. 103).\n- **Keine Garnierung** mit Einleitung oder Sachverhaltsausflug („Bevor man sich der Frage zuwendet …“, „Wie sich aus dem Sachverhalt ergibt …“ – falsch).\n\n## Weitere Obersätze, Vor- und Nachprämisse (S. 103–105)\n\nJeder anschließende Prüfungsabschnitt beginnt mit einem **weiteren Obersatz** („Fraglich ist, ob es sich bei dieser Äußerung um ein Angebot gehandelt hat.“ „Zu prüfen ist, ob ein Maltipoo-Welpe eine Sache im Sinne der Vorschrift ist.“ „E müsste Eigentümer, B Besitzer sein.“ „Die Klage müsste begründet sein.“). Gebot: **begriffliche Klarheit und Sparsamkeit** – so knapp wie möglich, so umfassend wie nötig. Jeder Obersatz wird von zwei (oft unausgesprochenen) allgemeinen Prämissen begleitet:\n- **Vorprämisse:** begründet, *warum gerade jetzt* diese Frage gestellt wird („Ein Vertrag setzt zwei übereinstimmende Willenserklärungen – Angebot und Annahme – voraus“ → also ist das Angebot zu prüfen).\n- **Nachprämisse:** begründet, *woher die Voraussetzungen* zur Beantwortung stammen – typischerweise eine Definition („Sachen sind körperliche Gegenstände.“).\n\nBeispiel (S. 104): „Die Orchidee müsste eine Sache sein.“ (Zwischenobersatz) – „Sachen sind körperliche Gegenstände.“ (Nachprämisse) – „Orchideen als Pflanzen sind körperliche Gegenstände …“ (Subsumtion, Zwischenergebnis).",
-      "src": [{"doc":"PROP_1","page":99},{"doc":"PROP_1","page":100},{"doc":"PROP_1","page":101},{"doc":"PROP_1","page":102},{"doc":"PROP_1","page":103},{"doc":"PROP_1","page":104},{"doc":"PROP_1","page":105}]
+      "long": "## Rechtsnorm und fünf W (S. 100)\n\nIm Zivil- und Strafrecht kombiniert man die Hypothese unmittelbar mit dem ersten Rechtsgrund: „Ergebnis E ist möglicherweise gegeben wegen Rechtsgrund G.“ Beispiele: „V könnte gegen M einen Anspruch auf Zahlung der Miete für Januar in Höhe von 650 EUR gemäß § 535 Abs. 2 BGB haben.“ – „A könnte sich wegen Sachbeschädigung nach § 303 Abs. 1 StGB strafbar gemacht haben, indem er Bs Orchidee zertreten hat.“ **Fünf W:** *Wer will was von wem woraus?* (C begehrt von E die Rückgabe des Cabrios aus § 604 Abs. 1 BGB).\n\n## Obersatz und Rechtsfolge (S. 100–102)\n\nDie Rechtsfolge ist das **Anspruchsbegehren in abstrakter Form**; fallbezogen erscheint sie als hypothetisches Ergebnis. Der Tatbestand enthält die Voraussetzungen, die erst im nächsten Abschnitt benannt werden. **Krügerrand:** Verlangt V den Kaufpreis von 950 EUR, ist § 433 Abs. 2 BGB maßgeschneidert. Will V die Münze nach der Einigung auf dem Straßenfest doch behalten und fragt K nach seinen Rechten, lautet der Obersatz: „K könnte gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze Krügerrand 1 Unze für 950 EUR aus § 433 Abs. 1 S. 1 BGB haben.“\n\n**Warum ein Gesetz nennen? (S. 102)** Der Gutachter bereitet einen Rechtsakt vor, der meist mit Grundrechtseingriffen einhergeht – **Vorbehalt des Gesetzes**; die Rechtsprechung ist an das Gesetz gebunden (Art. 20 Abs. 3, 97 Abs. 1 GG); im Strafrecht gilt **nulla poena sine lege**, auch kein rückwirkendes Strafgesetz (Art. 103 Abs. 2 GG).\n\n**Welche Norm? (S. 102)** Der Blick ins Gesetz ist unverzichtbar, gibt aber keine abschließende Auskunft, ob eine Vorschrift Anspruchsgrundlage ist und passt; Auskunft geben Dogmatik, Studienkurse, Lehrbücher, Kommentare, Rechtsprechung und Aufbauschemata.\n\n## Besonderheiten im Strafrecht (S. 102–104)\n\nWer hat sich durch welche Handlung wegen welches Delikts nach welcher Norm strafbar gemacht? **Täter – Tathandlung – Delikt – Norm.** Beispiel: „A könnte sich durch das Zertrampeln von Bs Orchidee wegen Sachbeschädigung gemäß § 303 Abs. 1 StGB strafbar gemacht haben.“\n- Die Norm **genau** bezeichnen: „A könnte gemäß §§ 437 Nr. 2, 323 Abs. 1 BGB vom Kaufvertrag zurückgetreten sein“ statt bloß „zurückgetreten sein“.\n- Die **Tathandlung** genau benennen: Pilzfall – „… nach §§ 212 Abs. 1, 22, 23 Abs. 1, 13 Abs. 1 StGB wegen versuchten Totschlags durch Unterlassen strafbar gemacht, indem er es unterließ, M auf die giftigen Pilze hinzuweisen.“\n- Die Tathandlung hat im Obersatz **keine Begründungsfunktion**: „A könnte ein Dieb sein, da er X das Auto wegnahm“ ist Urteilsstil – falsch; richtig: „…, indem er …“. Geprüft wird die **Tat**, nicht der Täter (S. 104).\n- **Keine Garnierung** mit Einleitung oder Sachverhaltsausflug („Bevor man sich der Frage zuwendet …“, „Wie sich aus dem Sachverhalt ergibt …“ – falsch).\n\n## Weitere Obersätze, Vor- und Nachprämisse (S. 104–106)\n\nJeder anschließende Prüfungsabschnitt beginnt mit einem **weiteren Obersatz** („Fraglich ist, ob es sich bei dieser Äußerung um ein Angebot gehandelt hat.“ „Zu prüfen ist, ob ein Maltipoo-Welpe eine Sache im Sinne der Vorschrift ist.“ „E müsste Eigentümer, B Besitzer sein.“ „Die Klage müsste begründet sein.“). Gebot: **begriffliche Klarheit und Sparsamkeit** – so knapp wie möglich, so umfassend wie nötig. Jeder Obersatz wird von zwei (oft unausgesprochenen) allgemeinen Prämissen begleitet:\n- **Vorprämisse:** begründet, *warum gerade jetzt* diese Frage gestellt wird („Ein Vertrag setzt zwei übereinstimmende Willenserklärungen – Angebot und Annahme – voraus“ → also ist das Angebot zu prüfen).\n- **Nachprämisse:** begründet, *woher die Voraussetzungen* zur Beantwortung stammen – typischerweise eine Definition („Sachen sind körperliche Gegenstände.“).\n\nBeispiel (S. 105): „Die Orchidee müsste eine Sache sein.“ (Zwischenobersatz) – „Sachen sind körperliche Gegenstände.“ (Nachprämisse) – „Orchideen als Pflanzen sind körperliche Gegenstände …“ (Subsumtion, Zwischenergebnis).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 99
+        },
+        {
+          "doc": "PROP_1",
+          "page": 100
+        },
+        {
+          "doc": "PROP_1",
+          "page": 101
+        },
+        {
+          "doc": "PROP_1",
+          "page": 102
+        },
+        {
+          "doc": "PROP_1",
+          "page": 103
+        },
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 105
+        }
+      ]
     },
     {
       "id": "s6",
       "title": "Voraussetzungen: Tatbestandsmerkmale finden und formulieren",
       "short": "Nach dem Obersatz nennt man die Voraussetzungen, unter denen er zu bejahen wäre – sie bilden das Prüfprogramm. Bei Normen entsprechen sie den Tatbestandsmerkmalen, die man durch sorgfältiges Lesen, aber auch durch rechtsfachliche Übereinkunft gewinnt (bei § 303 StGB ist „rechtswidrig“ kein Tatbestandsmerkmal; § 263 StGB kennt das ungeschriebene Merkmal „Vermögensverfügung“). Voraussetzungen können auch aus Definitionen stammen (Wegnahme, Gattungsschuld). Beispiele und Regelbeispiele sind keine Tatbestandsvoraussetzungen. Die Nennung und Definition der Voraussetzungen steht immer im Indikativ.",
-      "long": "## Funktion (S. 105–106)\n\nDie Voraussetzungen sind die Bedingungen, unter denen ein Anspruch bestünde, A sich strafbar gemacht hätte oder eine Verfassungsbeschwerde Erfolg hätte. Sie formulieren das **gutachterliche Prüfprogramm** – zu jeder genannten Voraussetzung muss Stellung genommen werden. Der Studienbrief behandelt sie als **eigenen Schritt**, weil der Obersatz schon drei Elemente hat (Fn. 72).\n\n**Tabelle 9 – drei Betrachtungsweisen:** *gutachtlich:* Obersatz gilt, wenn Voraussetzung erfüllt; *rechtlich:* Rechtsfolge tritt ein, wenn Tatbestand erfüllt; *logisch:* Folge gilt, wenn Bedingung gegeben.\n\n## Tatbestandsmerkmale finden (S. 106–110)\n\n- § 303 StGB: „A müsste eine 1. fremde (a) Sache (b) 2. beschädigt oder zerstört haben.“\n- § 239 Abs. 1 Var. 1 StGB: „Dafür müsste A einen anderen Menschen eingesperrt oder auf andere Weise der Freiheit beraubt haben.“\n- § 433 Abs. 1 S. 1 BGB: „Dafür müssten K und V einen wirksamen Kaufvertrag geschlossen haben.“\n\n**Exkurs Gesetzestext lesen (S. 107–108):** Wort für Wort, zunächst mit eigenen Worten wiedergeben, dann Feinanalyse (jedes Komma, „und“/„oder“, „ist“/„soll“, Gesamtstruktur, Inhaltsverzeichnis), ggf. Literatur heranziehen – und danach das Gesetz **noch einmal lesen**.\n\nTatbestandsmerkmale sind keine objektiv erkennbaren Wahrheiten, sondern **Resultat rechtsfachlicher Übereinkunft**. Bei § 303 Abs. 1 StGB sind „beschädigt“ und „zerstört“ alternativ, im Übrigen kumulativ; **„rechtswidrig“ gilt nicht als Tatbestandsmerkmal**, die Rechtswidrigkeit wird nach h. A. gesondert geprüft (Fn. 74). **Ungeschriebene Tatbestandsmerkmale** sollen Sinn und Zweck besser zur Geltung bringen: Beim Betrug (§ 263 StGB) verbindet die ungeschriebene **Vermögensverfügung** Irrtum und Vermögensschaden; weil sie die Strafbarkeit einschränkt, verstößt sie nicht gegen Art. 103 Abs. 2 GG (S. 109). Häufig anzuwendende Merkmale lernt man auswendig.\n\n## Voraussetzungen, die nicht aus Gesetzen stammen (S. 109–110)\n\nWird ein Obersatz durch eine **Definition** gestützt, liest man das Definiens wie einen Tatbestand: „Wegnahme ist der Bruch fremden und die gleichzeitige oder spätere Begründung neuen, nicht notwendig tätereigenen Gewahrsams“ → Elemente in richtiger Reihenfolge prüfen. Ebenso **Gattungsschuld** (§ 243 BGB): Sache nicht individualisiert, Auswahl aus einer Mehrzahl von Stücken mit gemeinsamen, die Gattung beschreibenden Merkmalen; oder **Cookies** (kleine Datensätze, auf dem Rechner des Nutzers gespeichert). So bewahrt man den rechtsgutachterlichen Duktus statt eines journalistischen Diskutierstils.\n\n## Unbekannte Probleme (S. 111)\n\nOhne Recherchemöglichkeit: Mut zeigen und aus anerkannten Vor- und Nachprämissen selbst Voraussetzungen entwickeln. Vorher prüfen: Will der Aufgabensteller das Problem wirklich – oder ist es ein **Nebengleis** (unverhältnismäßiger Aufwand für ein Detail)? Dann die Voraussetzung **lapidar bejahen** („Steuerrechtliche Fragen sind als geklärt zu betrachten.“ „Die übrigen Zulässigkeitsvoraussetzungen liegen vor.“). Ist das Problem erheblich: Rechtsfrage destillieren, Prämisse wählen bzw. erarbeiten, Voraussetzungen ableiten, einzeln prüfen.\n\n## Vielgestaltigkeit, Beispiele und Regelbeispiele (S. 111–113)\n\nPrüfvoraussetzungen heißen auch Merkmal, Element, Kriterium, Eigenschaft, Fallgruppe. Ein mehrdeutiger Begriff ist auszulegen; das Auslegungsergebnis liefert neue Merkmale. **Gesetzliche Beispiele** (z. B. Disketten, CD-ROMs als dauerhafte Datenträger) sind keine abstrakten Voraussetzungen, sondern Erfahrungssätze zur **Konkretisierung** – sie gehören in die Subsumtion. **Regelbeispiele** nehmen eine Zwischenstellung ein: Ihre Verwirklichung ist nach der Rechtsprechung nur ein **Indiz** (z. B. für einen besonders schweren Fall, § 370 Abs. 3 S. 2 AO), das entkräftet werden kann.\n\n## Formulierung (S. 113–114)\n\n- Unmittelbarer Anschluss an den Irrealis-Obersatz: „Das ist der Fall, wenn … wäre“, „Dazu müsste …“ – irreale Folge mit irrealer Bedingung kombinieren.\n- Nennt man die Voraussetzung direkt: **Indikativ** („Voraussetzung für einen solchen Anspruch ist der Abschluss eines wirksamen Kaufvertrages i. S. d. § 433 BGB.“) – es geht um die allgemein gültige Rechtslage.\n- **Merke:** Nennung, Bestimmung, Definition und Interpretation der Voraussetzung erfolgen **immer im Indikativ**.\n\n## Alle Voraussetzungen prüfen? (S. 115)\n\nAnfänger und im Strafrecht: **alle tatbestandlichen Voraussetzungen benennen** – aber nicht jedes Merkmal in Langversion; Kürzungen bis zum Urteilsstil („Dieses Merkmal liegt ebenfalls vor.“) und Gruppenbildung sind möglich. **Lösungsrelevantes ausführlich, Nebensächliches kurz.**",
-      "src": [{"doc":"PROP_1","page":105},{"doc":"PROP_1","page":106},{"doc":"PROP_1","page":107},{"doc":"PROP_1","page":108},{"doc":"PROP_1","page":109},{"doc":"PROP_1","page":110},{"doc":"PROP_1","page":111},{"doc":"PROP_1","page":112},{"doc":"PROP_1","page":113},{"doc":"PROP_1","page":114},{"doc":"PROP_1","page":115}]
+      "long": "## Funktion (S. 106–107)\n\nDie Voraussetzungen sind die Bedingungen, unter denen ein Anspruch bestünde, A sich strafbar gemacht hätte oder eine Verfassungsbeschwerde Erfolg hätte. Sie formulieren das **gutachterliche Prüfprogramm** – zu jeder genannten Voraussetzung muss Stellung genommen werden. Der Studienbrief behandelt sie als **eigenen Schritt**, weil der Obersatz schon drei Elemente hat (Fn. 72).\n\n**Tabelle 9 – drei Betrachtungsweisen:** *gutachtlich:* Obersatz gilt, wenn Voraussetzung erfüllt; *rechtlich:* Rechtsfolge tritt ein, wenn Tatbestand erfüllt; *logisch:* Folge gilt, wenn Bedingung gegeben.\n\n## Tatbestandsmerkmale finden (S. 107–111)\n\n- § 303 StGB: „A müsste eine 1. fremde (a) Sache (b) 2. beschädigt oder zerstört haben.“\n- § 239 Abs. 1 Var. 1 StGB: „Dafür müsste A einen anderen Menschen eingesperrt oder auf andere Weise der Freiheit beraubt haben.“\n- § 433 Abs. 1 S. 1 BGB: „Dafür müssten K und V einen wirksamen Kaufvertrag geschlossen haben.“\n\n**Exkurs Gesetzestext lesen (S. 108–109):** Wort für Wort, zunächst mit eigenen Worten wiedergeben, dann Feinanalyse (jedes Komma, „und“/„oder“, „ist“/„soll“, Gesamtstruktur, Inhaltsverzeichnis), ggf. Literatur heranziehen – und danach das Gesetz **noch einmal lesen**.\n\nTatbestandsmerkmale sind keine objektiv erkennbaren Wahrheiten, sondern **Resultat rechtsfachlicher Übereinkunft**. Bei § 303 Abs. 1 StGB sind „beschädigt“ und „zerstört“ alternativ, im Übrigen kumulativ; **„rechtswidrig“ gilt nicht als Tatbestandsmerkmal**, die Rechtswidrigkeit wird nach h. A. gesondert geprüft (Fn. 74). **Ungeschriebene Tatbestandsmerkmale** sollen Sinn und Zweck besser zur Geltung bringen: Beim Betrug (§ 263 StGB) verbindet die ungeschriebene **Vermögensverfügung** Irrtum und Vermögensschaden; weil sie die Strafbarkeit einschränkt, verstößt sie nicht gegen Art. 103 Abs. 2 GG (S. 110). Häufig anzuwendende Merkmale lernt man auswendig.\n\n## Voraussetzungen, die nicht aus Gesetzen stammen (S. 110–111)\n\nWird ein Obersatz durch eine **Definition** gestützt, liest man das Definiens wie einen Tatbestand: „Wegnahme ist der Bruch fremden und die gleichzeitige oder spätere Begründung neuen, nicht notwendig tätereigenen Gewahrsams“ → Elemente in richtiger Reihenfolge prüfen. Ebenso **Gattungsschuld** (§ 243 BGB): Sache nicht individualisiert, Auswahl aus einer Mehrzahl von Stücken mit gemeinsamen, die Gattung beschreibenden Merkmalen; oder **Cookies** (kleine Datensätze, auf dem Rechner des Nutzers gespeichert). So bewahrt man den rechtsgutachterlichen Duktus statt eines journalistischen Diskutierstils.\n\n## Unbekannte Probleme (S. 112)\n\nOhne Recherchemöglichkeit: Mut zeigen und aus anerkannten Vor- und Nachprämissen selbst Voraussetzungen entwickeln. Vorher prüfen: Will der Aufgabensteller das Problem wirklich – oder ist es ein **Nebengleis** (unverhältnismäßiger Aufwand für ein Detail)? Dann die Voraussetzung **lapidar bejahen** („Steuerrechtliche Fragen sind als geklärt zu betrachten.“ „Die übrigen Zulässigkeitsvoraussetzungen liegen vor.“). Ist das Problem erheblich: Rechtsfrage destillieren, Prämisse wählen bzw. erarbeiten, Voraussetzungen ableiten, einzeln prüfen.\n\n## Vielgestaltigkeit, Beispiele und Regelbeispiele (S. 112–114)\n\nPrüfvoraussetzungen heißen auch Merkmal, Element, Kriterium, Eigenschaft, Fallgruppe. Ein mehrdeutiger Begriff ist auszulegen; das Auslegungsergebnis liefert neue Merkmale. **Gesetzliche Beispiele** (z. B. Disketten, CD-ROMs als dauerhafte Datenträger) sind keine abstrakten Voraussetzungen, sondern Erfahrungssätze zur **Konkretisierung** – sie gehören in die Subsumtion. **Regelbeispiele** nehmen eine Zwischenstellung ein: Ihre Verwirklichung ist nach der Rechtsprechung nur ein **Indiz** (z. B. für einen besonders schweren Fall, § 370 Abs. 3 S. 2 AO), das entkräftet werden kann.\n\n## Formulierung (S. 114–115)\n\n- Unmittelbarer Anschluss an den Irrealis-Obersatz: „Das ist der Fall, wenn … wäre“, „Dazu müsste …“ – irreale Folge mit irrealer Bedingung kombinieren.\n- Nennt man die Voraussetzung direkt: **Indikativ** („Voraussetzung für einen solchen Anspruch ist der Abschluss eines wirksamen Kaufvertrages i. S. d. § 433 BGB.“) – es geht um die allgemein gültige Rechtslage.\n- **Merke:** Nennung, Bestimmung, Definition und Interpretation der Voraussetzung erfolgen **immer im Indikativ**.\n\n## Alle Voraussetzungen prüfen? (S. 116)\n\nAnfänger und im Strafrecht: **alle tatbestandlichen Voraussetzungen benennen** – aber nicht jedes Merkmal in Langversion; Kürzungen bis zum Urteilsstil („Dieses Merkmal liegt ebenfalls vor.“) und Gruppenbildung sind möglich. **Lösungsrelevantes ausführlich, Nebensächliches kurz.**",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 105
+        },
+        {
+          "doc": "PROP_1",
+          "page": 106
+        },
+        {
+          "doc": "PROP_1",
+          "page": 107
+        },
+        {
+          "doc": "PROP_1",
+          "page": 108
+        },
+        {
+          "doc": "PROP_1",
+          "page": 109
+        },
+        {
+          "doc": "PROP_1",
+          "page": 110
+        },
+        {
+          "doc": "PROP_1",
+          "page": 111
+        },
+        {
+          "doc": "PROP_1",
+          "page": 112
+        },
+        {
+          "doc": "PROP_1",
+          "page": 113
+        },
+        {
+          "doc": "PROP_1",
+          "page": 114
+        },
+        {
+          "doc": "PROP_1",
+          "page": 115
+        }
+      ]
     },
     {
       "id": "s7",
       "title": "Definition: Brückenbau, Standarddefinitionen und umstrittene Definitionen",
       "short": "Ist eine Voraussetzung zu abstrakt für die Subsumtion, wird sie durch eine Definition konkretisiert – sie schlägt die Brücke zwischen Norm und Sachverhalt; notfalls werden die Merkmale des Definiens weiter definiert. Legaldefinitionen haben Vorrang und sind in ihren wesentlichen Begriffen wörtlich zu verwenden („Sorgfalt“, nicht „Achtsamkeit“); Standarddefinitionen der h. M. möglichst exakt übernehmen. Viele Begriffe sind umstritten (Stellungskrieg, Neuland, Aufstand); der Meinungsstreit wird abstrakt mit allgemeinen Prämissen, nicht mit Einzelbeispielen ausgetragen.",
-      "long": "## Brückenbau (S. 115–118)\n\nVoraussetzungen gelten als erfüllt, wenn man ihnen ein Sachverhaltselement zuordnen kann. Ist das nicht evident, wird das Merkmal durch **Inhaltsbestimmung (Definition)** konkretisiert. *Leihvertrag:* „Unter einem Leihvertrag ist die Verpflichtung zur vorübergehenden unentgeltlichen Gebrauchsüberlassung zu verstehen.“ Dann wird der Sachverhalt dem **Definiens** untergeordnet. Verlangt der Fall Differenzierung, ordnet man die Sachverhaltselemente den **einzelnen Merkmalen** zu (S. 117): a) Gebrauchsüberlassung („ausborgen“ – nicht Übereignung), b) unentgeltlich (Wortsinn von „borgen“), c) vorübergehend („für ein Wochenende“ – zwar Beginn und Ende unbestimmt, aber auf wenige Tage begrenzt). Reicht das nicht, werden die Merkmale des Definiens selbst definiert – bis der Sprung zum Sachverhaltselement gelingt (S. 118).\n\n## Standarddefinitionen (S. 118–119)\n\n**Legaldefinitionen** haben stets Vorrang und müssen in ihren **wesentlichen Begriffen wörtlich** verwendet werden: „Gemäß § 276 II BGB handelt fahrlässig, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt“ – richtig; „… Achtsamkeit verletzt“ – falsch. Übrige Definitionen dürfen freier wiedergegeben werden, Standarddefinitionen aber möglichst exakt nach h. M. Begriffe haben eine **Ordnungsfunktion** wie Dateititel (Juris-Treffer: „Fahrlässigkeit“ + „Achtsamkeit“ 78; + „Sorgfalt“ fast 19.653). In den ersten Semestern: **keine Kreativität**, wo Autoritäten seit langem Begriffe bereitgestellt haben – aber eigenständig mitdenken und mit wachsender Sicherheit zu eigenen Ansichten stehen; in Qualifikationsarbeiten sind eigene Vorschläge zur Begriffskonkretisierung gefragt.\n\n## Umstrittene Definitionen (S. 119–123)\n\nFür die meisten Begriffe gibt es **keine Standarddefinition**. *Richtermediation (Tabelle 13):* M1 – wie außergerichtliche Mediation (Regierungsentwurf); M2 – im Verfahrensrecht verankerte spezielle richterliche Funktion (Mediationsgesetz). **Drei Konstellationen:** „**Stellungskrieg**“ (seit Langem unentschieden), „**Neuland**“ (neuer Falltypus oder neuer Begriff/neue Norm), „**Aufstand**“ (die h. M. wird infrage gestellt).\n\n**Aufbau eines Meinungsstreits (S. 120–121):** Zwischenobersatz zum streitigen Begriffsinhalt („Problematisch ist, was unter dem Tod eines Menschen zu verstehen ist.“) → I. Streitstand: je Meinung Definition, Begründung, **Subsumtion** („Folgt man dieser Auffassung, …“) → II. **Streitentscheid durch Stellungnahme nur, wenn die Meinungen im Fall zu unterschiedlichen Ergebnissen führen**. *Beispiel Todesbegriff (S. 121–123):* h. M. Gesamthirntod (gestützt auf das Transplantationsgesetz) – Herztodkriterium – Teilhirn-/Kortikaltod; Stellungnahme für den Gesamthirntod (Verlust der zentralen Steuerung und der Bewusstseins- und Empfindungsfähigkeit); kein Argument ist die Transplantationsmedizin, weil Leben nicht gegen Leben verrechnet werden kann; Ergebnis: A kann B nicht getötet haben.\n\n## Begründung einer Definition (S. 123–126)\n\nDefinitionen sind abstrakt (Sache = körperlicher Gegenstand, § 90 BGB) – der Streit wird für eine unbestimmte Vielzahl von Fällen geführt. Deshalb **nur allgemeine Prämissen** anführen (Normen, Lehrsätze, Leitsätze, Denk- und Naturgesetze, Alltagsregeln). Ein **Einzelbeispiel widerlegt keine Definition** (Syracuse-Fall 2009 als Gegenargument: falsch; „Leben ist nicht gegen Leben abwägbar“: richtig). Beispiele (*exemplum*) haben ihren Platz: (1) **Illustration** (Pathos, sparsam), (2) **Bildung neuer Begriffe** durch Vergleich und Abstraktion, (3) **Fallreihen** – Subsumtion durch unausgesprochenen Analogieschluss (Theaterbesuche; BGH zu Brand-, Wasser-, Ölschäden als positive Vertragsverletzung). Dabei: geordnet vorgehen, im Obersatz sagen, wozu die Fälle dienen, wo möglich abstrahieren, **Vergleichbarkeit darlegen**. Die Subsumtion unter das jeweilige Definiens bleibt stets **Frage des Einzelfalls** („Folgt man den Verfechtern des Herztodkriteriums, hat B noch gelebt …“).\n\n## Definition und Auslegung (S. 126–128)\n\n| | Definition | Auslegung |\n|---|---|---|\n| Gegenstand | alle Begriffe | Rechtsnorm, Vertrag, Willenserklärung |\n| Grund | Begriff zu abstrakt | unverständlich |\n| Ziel | konkretisieren | verstehen |\n| Quelle | Rechtssystem | der rechtsnormative Text |\n\nAuslegung ist geboten, wenn der Begriff Element einer Norm, eines Vertrags oder einer Willenserklärung ist **und** seine Bedeutung dunkel ist. Grundlagen im BGB AT: **§ 133 BGB** (wirklicher Wille, nicht am buchstäblichen Sinne haften) und **§ 157 BGB** (Treu und Glauben mit Rücksicht auf die Verkehrssitte). Urteile und Lehrsätze sind kein Auslegungsgegenstand: Die **Gattungsschuld** (§ 243 BGB) kann man auslegen, die gesetzlich nicht genannte **Stückschuld** nur definieren. *Tabelle 15:* V bietet per E-Mail sein „spirituellstes Werk“ an – Auslegung nach §§ 133, 157 BGB: Da V fast nur vom Bild „Tau und Totem“ sprach, versteht ein objektiver Empfänger dieses Bild. Bei der Gesetzesinterpretation verschwimmt die Grenze (objektive Theorie), praktisch klären Gerichte Begriffe meist über belegte Definitionen.",
-      "src": [{"doc":"PROP_1","page":115},{"doc":"PROP_1","page":116},{"doc":"PROP_1","page":117},{"doc":"PROP_1","page":118},{"doc":"PROP_1","page":119},{"doc":"PROP_1","page":120},{"doc":"PROP_1","page":121},{"doc":"PROP_1","page":123},{"doc":"PROP_1","page":124},{"doc":"PROP_1","page":125},{"doc":"PROP_1","page":126},{"doc":"PROP_1","page":127},{"doc":"PROP_1","page":128}]
+      "long": "## Brückenbau (S. 116–119)\n\nVoraussetzungen gelten als erfüllt, wenn man ihnen ein Sachverhaltselement zuordnen kann. Ist das nicht evident, wird das Merkmal durch **Inhaltsbestimmung (Definition)** konkretisiert. *Leihvertrag:* „Unter einem Leihvertrag ist die Verpflichtung zur vorübergehenden unentgeltlichen Gebrauchsüberlassung zu verstehen.“ Dann wird der Sachverhalt dem **Definiens** untergeordnet. Verlangt der Fall Differenzierung, ordnet man die Sachverhaltselemente den **einzelnen Merkmalen** zu (S. 118): a) Gebrauchsüberlassung („ausborgen“ – nicht Übereignung), b) unentgeltlich (Wortsinn von „borgen“), c) vorübergehend („für ein Wochenende“ – zwar Beginn und Ende unbestimmt, aber auf wenige Tage begrenzt). Reicht das nicht, werden die Merkmale des Definiens selbst definiert – bis der Sprung zum Sachverhaltselement gelingt (S. 119).\n\n## Standarddefinitionen (S. 119–120)\n\n**Legaldefinitionen** haben stets Vorrang und müssen in ihren **wesentlichen Begriffen wörtlich** verwendet werden: „Gemäß § 276 II BGB handelt fahrlässig, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt“ – richtig; „… Achtsamkeit verletzt“ – falsch. Übrige Definitionen dürfen freier wiedergegeben werden, Standarddefinitionen aber möglichst exakt nach h. M. Begriffe haben eine **Ordnungsfunktion** wie Dateititel (Juris-Treffer: „Fahrlässigkeit“ + „Achtsamkeit“ 78; + „Sorgfalt“ fast 19.653). In den ersten Semestern: **keine Kreativität**, wo Autoritäten seit langem Begriffe bereitgestellt haben – aber eigenständig mitdenken und mit wachsender Sicherheit zu eigenen Ansichten stehen; in Qualifikationsarbeiten sind eigene Vorschläge zur Begriffskonkretisierung gefragt.\n\n## Umstrittene Definitionen (S. 120–124)\n\nFür die meisten Begriffe gibt es **keine Standarddefinition**. *Richtermediation (Tabelle 13):* M1 – wie außergerichtliche Mediation (Regierungsentwurf); M2 – im Verfahrensrecht verankerte spezielle richterliche Funktion (Mediationsgesetz). **Drei Konstellationen:** „**Stellungskrieg**“ (seit Langem unentschieden), „**Neuland**“ (neuer Falltypus oder neuer Begriff/neue Norm), „**Aufstand**“ (die h. M. wird infrage gestellt).\n\n**Aufbau eines Meinungsstreits (S. 121–122):** Zwischenobersatz zum streitigen Begriffsinhalt („Problematisch ist, was unter dem Tod eines Menschen zu verstehen ist.“) → I. Streitstand: je Meinung Definition, Begründung, **Subsumtion** („Folgt man dieser Auffassung, …“) → II. **Streitentscheid durch Stellungnahme nur, wenn die Meinungen im Fall zu unterschiedlichen Ergebnissen führen**. *Beispiel Todesbegriff (S. 122–124):* h. M. Gesamthirntod (gestützt auf das Transplantationsgesetz) – Herztodkriterium – Teilhirn-/Kortikaltod; Stellungnahme für den Gesamthirntod (Verlust der zentralen Steuerung und der Bewusstseins- und Empfindungsfähigkeit); kein Argument ist die Transplantationsmedizin, weil Leben nicht gegen Leben verrechnet werden kann; Ergebnis: A kann B nicht getötet haben.\n\n## Begründung einer Definition (S. 124–127)\n\nDefinitionen sind abstrakt (Sache = körperlicher Gegenstand, § 90 BGB) – der Streit wird für eine unbestimmte Vielzahl von Fällen geführt. Deshalb **nur allgemeine Prämissen** anführen (Normen, Lehrsätze, Leitsätze, Denk- und Naturgesetze, Alltagsregeln). Ein **Einzelbeispiel widerlegt keine Definition** (Syracuse-Fall 2009 als Gegenargument: falsch; „Leben ist nicht gegen Leben abwägbar“: richtig). Beispiele (*exemplum*) haben ihren Platz: (1) **Illustration** (Pathos, sparsam), (2) **Bildung neuer Begriffe** durch Vergleich und Abstraktion, (3) **Fallreihen** – Subsumtion durch unausgesprochenen Analogieschluss (Theaterbesuche; BGH zu Brand-, Wasser-, Ölschäden als positive Vertragsverletzung). Dabei: geordnet vorgehen, im Obersatz sagen, wozu die Fälle dienen, wo möglich abstrahieren, **Vergleichbarkeit darlegen**. Die Subsumtion unter das jeweilige Definiens bleibt stets **Frage des Einzelfalls** („Folgt man den Verfechtern des Herztodkriteriums, hat B noch gelebt …“).\n\n## Definition und Auslegung (S. 127–129)\n\n| | Definition | Auslegung |\n|---|---|---|\n| Gegenstand | alle Begriffe | Rechtsnorm, Vertrag, Willenserklärung |\n| Grund | Begriff zu abstrakt | unverständlich |\n| Ziel | konkretisieren | verstehen |\n| Quelle | Rechtssystem | der rechtsnormative Text |\n\nAuslegung ist geboten, wenn der Begriff Element einer Norm, eines Vertrags oder einer Willenserklärung ist **und** seine Bedeutung dunkel ist. Grundlagen im BGB AT: **§ 133 BGB** (wirklicher Wille, nicht am buchstäblichen Sinne haften) und **§ 157 BGB** (Treu und Glauben mit Rücksicht auf die Verkehrssitte). Urteile und Lehrsätze sind kein Auslegungsgegenstand: Die **Gattungsschuld** (§ 243 BGB) kann man auslegen, die gesetzlich nicht genannte **Stückschuld** nur definieren. *Tabelle 15:* V bietet per E-Mail sein „spirituellstes Werk“ an – Auslegung nach §§ 133, 157 BGB: Da V fast nur vom Bild „Tau und Totem“ sprach, versteht ein objektiver Empfänger dieses Bild. Bei der Gesetzesinterpretation verschwimmt die Grenze (objektive Theorie), praktisch klären Gerichte Begriffe meist über belegte Definitionen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 115
+        },
+        {
+          "doc": "PROP_1",
+          "page": 116
+        },
+        {
+          "doc": "PROP_1",
+          "page": 117
+        },
+        {
+          "doc": "PROP_1",
+          "page": 118
+        },
+        {
+          "doc": "PROP_1",
+          "page": 119
+        },
+        {
+          "doc": "PROP_1",
+          "page": 120
+        },
+        {
+          "doc": "PROP_1",
+          "page": 121
+        },
+        {
+          "doc": "PROP_1",
+          "page": 123
+        },
+        {
+          "doc": "PROP_1",
+          "page": 124
+        },
+        {
+          "doc": "PROP_1",
+          "page": 125
+        },
+        {
+          "doc": "PROP_1",
+          "page": 126
+        },
+        {
+          "doc": "PROP_1",
+          "page": 127
+        },
+        {
+          "doc": "PROP_1",
+          "page": 128
+        }
+      ]
     },
     {
       "id": "s8",
       "title": "Subsumtion: Ort, Sachverhaltsbezug und Zuordnung",
       "short": "Nach der Definition schlägt die Subsumtion die Brücke zum Sachverhaltselement: Sachverhalt kurz und sachlich-neutral wiedergeben, dann begründet zuordnen, warum Sollen und Sein sich entsprechen. Subsumiert wird praktisch unter die Merkmale der jeweils tiefsten Gliederungsebene (Wegnahme → Gewahrsam → tatsächliche Sachherrschaft). Das Sachverhaltselement ist treffend, ohne Veränderung und auf die Merkmale zugeschnitten zu formulieren – nicht wörtlich abschreiben, nicht zu viel, nicht zu wenig, Rechtsbegriffe nicht bloß wiederholen. Gedanklich durchläuft man für jedes Merkmal alle Stationen.",
-      "long": "## Ablauf (S. 128–131)\n\nDie Voraussetzung ist durch Definition oder Auslegung so aufbereitet, dass man die **Brücke zum Sachverhaltselement** schlagen kann. Der Sachverhalt wird **ohne Übergang kurz und sachlich-neutral** wiedergegeben („Nachdem K zuvor ein Kaufinteresse bekundete, fragte ihn V, ob er von ihm seine Goldmünze Krügerrand 1 Unze für 950 EUR haben wolle.“). Dann erläutert man, **warum Recht und Sachverhalt sich entsprechen** – außer die Zuordnung ist evident.\n\n**Tabelle 16 (Angebot):** *Obersatz:* V könnte ein Angebot abgegeben haben. *Definition:* auf Vertragsschluss gerichtete empfangsbedürftige Willenserklärung mit den **essentialia negotii** (Vertragspartner, Leistung, Gegenleistung); indiziell: Annahme mit einfachem „Ja“ möglich. *Subsumtion – Sachverhalt:* V fragte K nach dessen Kaufinteresse, ob er die Münze für 950 EUR haben wolle. *– Zuordnung:* Vertragspartner, Leistung und Gegenleistung waren der Äußerung zu entnehmen; ein „Ja“ genügte. *Ergebnis:* V hat ein vollständiges Angebot abgegeben.\n\n## Ort der Subsumtion (S. 130–132)\n\nDer Idee nach unter den gesetzlichen Tatbestand, **praktisch unter alle Definitions- bzw. Auslegungsmerkmale der jeweils tiefsten Gliederungsebene**. Diebstahl (§ 242 StGB): Wegnahme einer fremden beweglichen Sache; Wegnahme = Bruch fremden und Begründung neuen, nicht notwendig tätereigenen Gewahrsams. „Fremd“ und „Sache“ sind meist auf dieser Ebene subsumierbar; der **Gewahrsam** ist umstritten („Stellungskrieg“) und wird weiter definiert – nach dem herrschenden **faktischen** Begriff subsumiert man unter „tatsächliche Sachherrschaft“, nach dem **normativ-sozialen** unter „normativ-soziale Zuordnung einer Sache zu einer Person“. **Anfänger: im Zweifel lieber eine Definition zu viel.** Am Ende jeder Prüfkette wird subsumiert – das zwingt zum ständigen Blick in den Sachverhalt.\n\n## Bezug auf den Sachverhalt (Tabelle 17, S. 132–133)\n\nDas Element muss **treffend gewählt und ohne Veränderung des Sachverhalts auf die Rechtsaussage hin** formuliert werden. Fehler: **wörtliche Übernahme** des Sachverhalts; **zu viel** (Pizzabestellung); **zu wenig** (Kaufpreis fehlt); **vom Sachverhalt abgelöst** und nicht auf die Merkmale zugeschnitten („würde sich … trennen“); **Obersatz/Einleitung** in der Subsumtion. Ort- und Zeitangaben nur, wenn die Erklärung von anderen unterschieden werden muss.\n\n**Grausamkeit (S. 133):** Falsch ist eine Subsumtion, die nur die Rechtsbegriffe der Definition wiederholt („aus gefühlloser, unbarmherziger Gesinnung …“). Richtig: die Tatsachen beschreiben (Verhungern als langer, langsamer Prozess mit Schmerzen und Todesangst bei vollem Bewusstsein) und daraus die Zuordnung begründen.\n\n## Zuordnung (S. 133–134)\n\nDie Subsumtion endet mit der **begründeten Zuordnung**. Ist sie evident, kann man Merkmale gemeinsam prüfen oder Schritte überspringen – nie aber pauschal argumentieren. **Merke: Gedanklich (implizit) müssen Sie für alle Merkmale alle Prüfungsstationen absolvieren.** Beispiel: „Die Sache müsste fremd sein. Fremd ist eine Sache, die im Eigentum oder Miteigentum einer anderen Person steht. Die Orchidee gehörte B. Damit handelte es sich um eine fremde Sache.“ Verkürzt: „Bei der Orchidee handelte es sich um eine Sache im Eigentum des B.“ Bleibt eine Lücke, braucht es neue Obersätze; auch **Fakten** können rechtlich zu deuten sein: Ob „haben wollen“ „kaufen wollen“ bedeutet, ist nach §§ 133, 157 BGB auszulegen.",
-      "src": [{"doc":"PROP_1","page":128},{"doc":"PROP_1","page":129},{"doc":"PROP_1","page":130},{"doc":"PROP_1","page":131},{"doc":"PROP_1","page":132},{"doc":"PROP_1","page":133},{"doc":"PROP_1","page":134}]
+      "long": "## Ablauf (S. 129–132)\n\nDie Voraussetzung ist durch Definition oder Auslegung so aufbereitet, dass man die **Brücke zum Sachverhaltselement** schlagen kann. Der Sachverhalt wird **ohne Übergang kurz und sachlich-neutral** wiedergegeben („Nachdem K zuvor ein Kaufinteresse bekundete, fragte ihn V, ob er von ihm seine Goldmünze Krügerrand 1 Unze für 950 EUR haben wolle.“). Dann erläutert man, **warum Recht und Sachverhalt sich entsprechen** – außer die Zuordnung ist evident.\n\n**Tabelle 16 (Angebot):** *Obersatz:* V könnte ein Angebot abgegeben haben. *Definition:* auf Vertragsschluss gerichtete empfangsbedürftige Willenserklärung mit den **essentialia negotii** (Vertragspartner, Leistung, Gegenleistung); indiziell: Annahme mit einfachem „Ja“ möglich. *Subsumtion – Sachverhalt:* V fragte K nach dessen Kaufinteresse, ob er die Münze für 950 EUR haben wolle. *– Zuordnung:* Vertragspartner, Leistung und Gegenleistung waren der Äußerung zu entnehmen; ein „Ja“ genügte. *Ergebnis:* V hat ein vollständiges Angebot abgegeben.\n\n## Ort der Subsumtion (S. 131–133)\n\nDer Idee nach unter den gesetzlichen Tatbestand, **praktisch unter alle Definitions- bzw. Auslegungsmerkmale der jeweils tiefsten Gliederungsebene**. Diebstahl (§ 242 StGB): Wegnahme einer fremden beweglichen Sache; Wegnahme = Bruch fremden und Begründung neuen, nicht notwendig tätereigenen Gewahrsams. „Fremd“ und „Sache“ sind meist auf dieser Ebene subsumierbar; der **Gewahrsam** ist umstritten („Stellungskrieg“) und wird weiter definiert – nach dem herrschenden **faktischen** Begriff subsumiert man unter „tatsächliche Sachherrschaft“, nach dem **normativ-sozialen** unter „normativ-soziale Zuordnung einer Sache zu einer Person“. **Anfänger: im Zweifel lieber eine Definition zu viel.** Am Ende jeder Prüfkette wird subsumiert – das zwingt zum ständigen Blick in den Sachverhalt.\n\n## Bezug auf den Sachverhalt (Tabelle 17, S. 133–134)\n\nDas Element muss **treffend gewählt und ohne Veränderung des Sachverhalts auf die Rechtsaussage hin** formuliert werden. Fehler: **wörtliche Übernahme** des Sachverhalts; **zu viel** (Pizzabestellung); **zu wenig** (Kaufpreis fehlt); **vom Sachverhalt abgelöst** und nicht auf die Merkmale zugeschnitten („würde sich … trennen“); **Obersatz/Einleitung** in der Subsumtion. Ort- und Zeitangaben nur, wenn die Erklärung von anderen unterschieden werden muss.\n\n**Grausamkeit (S. 134):** Falsch ist eine Subsumtion, die nur die Rechtsbegriffe der Definition wiederholt („aus gefühlloser, unbarmherziger Gesinnung …“). Richtig: die Tatsachen beschreiben (Verhungern als langer, langsamer Prozess mit Schmerzen und Todesangst bei vollem Bewusstsein) und daraus die Zuordnung begründen.\n\n## Zuordnung (S. 134–135)\n\nDie Subsumtion endet mit der **begründeten Zuordnung**. Ist sie evident, kann man Merkmale gemeinsam prüfen oder Schritte überspringen – nie aber pauschal argumentieren. **Merke: Gedanklich (implizit) müssen Sie für alle Merkmale alle Prüfungsstationen absolvieren.** Beispiel: „Die Sache müsste fremd sein. Fremd ist eine Sache, die im Eigentum oder Miteigentum einer anderen Person steht. Die Orchidee gehörte B. Damit handelte es sich um eine fremde Sache.“ Verkürzt: „Bei der Orchidee handelte es sich um eine Sache im Eigentum des B.“ Bleibt eine Lücke, braucht es neue Obersätze; auch **Fakten** können rechtlich zu deuten sein: Ob „haben wollen“ „kaufen wollen“ bedeutet, ist nach §§ 133, 157 BGB auszulegen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 128
+        },
+        {
+          "doc": "PROP_1",
+          "page": 129
+        },
+        {
+          "doc": "PROP_1",
+          "page": 130
+        },
+        {
+          "doc": "PROP_1",
+          "page": 131
+        },
+        {
+          "doc": "PROP_1",
+          "page": 132
+        },
+        {
+          "doc": "PROP_1",
+          "page": 133
+        },
+        {
+          "doc": "PROP_1",
+          "page": 134
+        }
+      ]
     },
     {
       "id": "s9",
       "title": "Ergebnis und Anspruchsaufbau",
       "short": "Das Ergebnis ist das wortgleiche Gegenstück des Obersatzes – nicht hypothetisch, sondern entschieden bejahend oder verneinend, ohne „Ja“ oder „Nein“. Es muss eindeutig sein („dürfte … haben“ ist falsch) und objektiv formuliert werden (kein „meines Erachtens“). Wegen des Anspruchsaufbaus (entstanden – untergegangen – durchsetzbar) kommt man im Zivilrecht oft zu vorläufigen Ergebnissen; diese werden dennoch uneingeschränkt festgestellt und erst mit einem neuen Obersatz infrage gestellt.",
-      "long": "## Wortgleiches Gegenstück (S. 135)\n\nAm Ende jedes Prüfungsdurchlaufs steht das **Ergebnis** als endgültige Antwort auf die im Obersatz aufgeworfene Frage – das **wortgleiche Gegenstück** des Obersatzes, entschieden bejahend oder verneinend, ohne die Wörter „Ja“ oder „Nein“.\n- *Obersatz:* V könnte gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR haben.\n- *Richtig:* V hat gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR.\n- *Falsch:* V hat mit K einen wirksamen Kaufvertrag … abgeschlossen. V hat daher einen Anspruch … (anderes Thema als der Obersatz).\n\nAuch Zwischenergebnisse spiegeln ihren weiteren Obersatz („Zu prüfen ist, ob V ein Angebot abgegeben hat. … V hat ein Angebot abgegeben.“). Die Hypothese ist **auf derselben logischen Ebene** in eine Behauptung zu wandeln (S. 136).\n\n## Eindeutigkeit und Objektivität (S. 136–138)\n\n- **Eindeutig:** keine Alternativlösungen, Mehrdeutigkeit oder Offenheit. „Nach alledem dürfte V … haben“ – falsch; „Nach alledem hat V …“ – richtig.\n- **Vorläufige Ergebnisse uneingeschränkt feststellen:** „… soweit dieser nicht verjährt ist“ – falsch. Richtig: Ergebnis feststellen, dann **neuer Obersatz**: „Dieser Anspruch könnte jedoch verjährt sein.“\n- **Objektiver Ton:** kein „ich denke“, „meines Erachtens“, „meiner Meinung nach“ – auch nicht nach einer eigenen Stellungnahme im Meinungsstreit.\n\n## Exkurs Anspruchsaufbau (S. 136–138)\n\nDas Eindeutigkeitsgebot bereitet im Zivilrecht Probleme, weil der aus dem römischen Prozess stammende Aufbau zu vorläufigen Ergebnissen führt:\n- **I. Anspruch entstanden?** Tatbestandsvoraussetzungen der Anspruchsgrundlage; **rechtshindernde Einwendungen** (z. B. §§ 105, 125, 134, 138, 117, 118 BGB).\n- **II. Anspruch untergegangen?** **Rechtsvernichtende Einwendungen** (z. B. Erfüllung § 362 I, Aufrechnung § 389, Unmöglichkeit § 275 I, Anfechtung § 142 I, Rücktritt § 346 BGB).\n- **III. Anspruch durchsetzbar?** **Rechtshemmende Einwendungen (Einreden)**: peremptorisch (dauerhaft, z. B. Verjährung § 214 I BGB) oder dilatorisch (verzögernd, z. B. § 320 I, § 273 I BGB).\n\nAuch der **historische Prüfungsaufbau** (ursprünglich Eigentümer? – Eigentumsverlust durch Ereignis 1, 2, 3?) führt zu vorläufigen Ergebnissen.",
-      "src": [{"doc":"PROP_1","page":135},{"doc":"PROP_1","page":136},{"doc":"PROP_1","page":137},{"doc":"PROP_1","page":138}]
+      "long": "## Wortgleiches Gegenstück (S. 136)\n\nAm Ende jedes Prüfungsdurchlaufs steht das **Ergebnis** als endgültige Antwort auf die im Obersatz aufgeworfene Frage – das **wortgleiche Gegenstück** des Obersatzes, entschieden bejahend oder verneinend, ohne die Wörter „Ja“ oder „Nein“.\n- *Obersatz:* V könnte gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR haben.\n- *Richtig:* V hat gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR.\n- *Falsch:* V hat mit K einen wirksamen Kaufvertrag … abgeschlossen. V hat daher einen Anspruch … (anderes Thema als der Obersatz).\n\nAuch Zwischenergebnisse spiegeln ihren weiteren Obersatz („Zu prüfen ist, ob V ein Angebot abgegeben hat. … V hat ein Angebot abgegeben.“). Die Hypothese ist **auf derselben logischen Ebene** in eine Behauptung zu wandeln (S. 137).\n\n## Eindeutigkeit und Objektivität (S. 137–139)\n\n- **Eindeutig:** keine Alternativlösungen, Mehrdeutigkeit oder Offenheit. „Nach alledem dürfte V … haben“ – falsch; „Nach alledem hat V …“ – richtig.\n- **Vorläufige Ergebnisse uneingeschränkt feststellen:** „… soweit dieser nicht verjährt ist“ – falsch. Richtig: Ergebnis feststellen, dann **neuer Obersatz**: „Dieser Anspruch könnte jedoch verjährt sein.“\n- **Objektiver Ton:** kein „ich denke“, „meines Erachtens“, „meiner Meinung nach“ – auch nicht nach einer eigenen Stellungnahme im Meinungsstreit.\n\n## Exkurs Anspruchsaufbau (S. 137–139)\n\nDas Eindeutigkeitsgebot bereitet im Zivilrecht Probleme, weil der aus dem römischen Prozess stammende Aufbau zu vorläufigen Ergebnissen führt:\n- **I. Anspruch entstanden?** Tatbestandsvoraussetzungen der Anspruchsgrundlage; **rechtshindernde Einwendungen** (z. B. §§ 105, 125, 134, 138, 117, 118 BGB).\n- **II. Anspruch untergegangen?** **Rechtsvernichtende Einwendungen** (z. B. Erfüllung § 362 I, Aufrechnung § 389, Unmöglichkeit § 275 I, Anfechtung § 142 I, Rücktritt § 346 BGB).\n- **III. Anspruch durchsetzbar?** **Rechtshemmende Einwendungen (Einreden)**: peremptorisch (dauerhaft, z. B. Verjährung § 214 I BGB) oder dilatorisch (verzögernd, z. B. § 320 I, § 273 I BGB).\n\nAuch der **historische Prüfungsaufbau** (ursprünglich Eigentümer? – Eigentumsverlust durch Ereignis 1, 2, 3?) führt zu vorläufigen Ergebnissen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 136
+        },
+        {
+          "doc": "PROP_1",
+          "page": 137
+        },
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
     },
     {
       "id": "s10",
       "title": "Weitere Obersätze und der Sinn fürs Wesentliche",
       "short": "Jede Frage im Gutachten wird als weiterer Obersatz formuliert – knapp, klar, ohne unmittelbare Normnennung; die tragende Prämisse wird impliziert, explizit folgt die Definition. Juristen überspringen Selbstverständliches (Tabelle 19: „Die Orchidee stand im Eigentum des B und war somit eine fremde Sache“). Anfänger prüfen jedes Merkmal gründlich; mit wachsender Sicherheit fassen sie Unwichtiges zusammen. Wesentlich ist, wo Sachverhalt und Dogmatik ein Problem anzeigen: Beim schlafenden Opfer ist nicht „Mensch“, sondern „heimtückisch“ zu vertiefen.",
-      "long": "## Weitere Obersätze (S. 138–141)\n\n**Merke: Jede Frage, die sich Ihnen bei Ihrem Gutachten stellt, formulieren Sie als weiteren Obersatz.** Auch diese mit höchster Konzentration, so knapp wie möglich, so umfassend wie nötig. Im Unterschied zum ersten Obersatz wird ein weiterer Obersatz **nicht unmittelbar mit einer Rechtsnorm verbunden** (Tabelle 18: „V könnte einen Anspruch … gemäß § 433 II BGB haben“ vs. „Möglicherweise hat V ein Angebot abgegeben“). Die Prämisse („Wenn die Merkmale eines Angebots vorliegen → liegt ein Angebot vor“) bleibt **implizit**; explizit nennt man ihre Merkmale in Gestalt einer **Definition**: „Ein Angebot ist eine ● auf Vertragsschluss gerichtete empfangsbedürftige Willenserklärung, ● die so gestaltet ist, dass das Zustandekommen des Vertrages nur vom Einverständnis, d. h. der Annahme, des anderen abhängt.“\n\n## Sinn fürs Wesentliche (S. 141–142)\n\nDer Jurist geizt mit Worten, verwendet Fachbegriffe ohne Erklärung und nimmt „mehrere Treppenstufen auf einmal“. **Tabelle 19** analysiert die Kurzprüfung „Voraussetzung ist, dass das Tatobjekt eine fremde Sache ist. Die tatgegenständliche Orchidee stand im Eigentum des B und war somit eine fremde Sache.“: Die Definition von „Sache“ wird übersprungen, die von „fremd“ impliziert; die Zuordnung „Orchidee = Sache“ und „B = andere Person“ ist evident.\n\nGegenüber Laien sollte man ausführlicher erklären. Im Studium gilt es, die Balance zu wahren zwischen dem **Wesentlichen** (ausdrücklich), dem **weniger Wesentlichen** (streifen) und dem **Unwesentlichen** (überspringen). **Anfänger:** jedes Merkmal ansprechen und gründlich durch alle Stationen prüfen; später Unwichtiges zusammenfassen und in den Feststellungsstil wechseln. Eine feste Regel gibt es nicht – entscheidend ist der **Schwerpunkt** der Falllösung: Unproblematisches übergehen, Streitiges ausführen.\n\n**Beispiel (S. 142):** „Während B schlief, hat A ihn erstickt.“ Unwesentlich: ob B „ein anderer Mensch“ ist – eine Diskussion über biologische oder philosophische Menschenbegriffe wäre verfehlt; wo der Sachverhalt schweigt, ist vom Gewöhnlichen auszugehen. **Wesentlich:** das Mordmerkmal **„heimtückisch“** (§ 211 Abs. 2 StGB) – das Stichwort „schlafendes Opfer“ ruft das Problem ab, ob ein Schlafender arglos sein kann. Dort gründlich: Heimtücke auslegen („bewusstes Ausnutzen der auf Arglosigkeit beruhenden Wehrlosigkeit des Opfers“), Arg- und Wehrlosigkeit definieren und in den Streit eintreten. Erkenntnisquellen: **Sachverhalt und Rechtsdogmatik**. Die juristische **Einschätzungsgabe** gehört zum **Judiz** und setzt Rechtskenntnis und Fallerfahrung voraus.",
-      "src": [{"doc":"PROP_1","page":138},{"doc":"PROP_1","page":139},{"doc":"PROP_1","page":140},{"doc":"PROP_1","page":141},{"doc":"PROP_1","page":142}]
+      "long": "## Weitere Obersätze (S. 139–142)\n\n**Merke: Jede Frage, die sich Ihnen bei Ihrem Gutachten stellt, formulieren Sie als weiteren Obersatz.** Auch diese mit höchster Konzentration, so knapp wie möglich, so umfassend wie nötig. Im Unterschied zum ersten Obersatz wird ein weiterer Obersatz **nicht unmittelbar mit einer Rechtsnorm verbunden** (Tabelle 18: „V könnte einen Anspruch … gemäß § 433 II BGB haben“ vs. „Möglicherweise hat V ein Angebot abgegeben“). Die Prämisse („Wenn die Merkmale eines Angebots vorliegen → liegt ein Angebot vor“) bleibt **implizit**; explizit nennt man ihre Merkmale in Gestalt einer **Definition**: „Ein Angebot ist eine ● auf Vertragsschluss gerichtete empfangsbedürftige Willenserklärung, ● die so gestaltet ist, dass das Zustandekommen des Vertrages nur vom Einverständnis, d. h. der Annahme, des anderen abhängt.“\n\n## Sinn fürs Wesentliche (S. 142–143)\n\nDer Jurist geizt mit Worten, verwendet Fachbegriffe ohne Erklärung und nimmt „mehrere Treppenstufen auf einmal“. **Tabelle 19** analysiert die Kurzprüfung „Voraussetzung ist, dass das Tatobjekt eine fremde Sache ist. Die tatgegenständliche Orchidee stand im Eigentum des B und war somit eine fremde Sache.“: Die Definition von „Sache“ wird übersprungen, die von „fremd“ impliziert; die Zuordnung „Orchidee = Sache“ und „B = andere Person“ ist evident.\n\nGegenüber Laien sollte man ausführlicher erklären. Im Studium gilt es, die Balance zu wahren zwischen dem **Wesentlichen** (ausdrücklich), dem **weniger Wesentlichen** (streifen) und dem **Unwesentlichen** (überspringen). **Anfänger:** jedes Merkmal ansprechen und gründlich durch alle Stationen prüfen; später Unwichtiges zusammenfassen und in den Feststellungsstil wechseln. Eine feste Regel gibt es nicht – entscheidend ist der **Schwerpunkt** der Falllösung: Unproblematisches übergehen, Streitiges ausführen.\n\n**Beispiel (S. 143):** „Während B schlief, hat A ihn erstickt.“ Unwesentlich: ob B „ein anderer Mensch“ ist – eine Diskussion über biologische oder philosophische Menschenbegriffe wäre verfehlt; wo der Sachverhalt schweigt, ist vom Gewöhnlichen auszugehen. **Wesentlich:** das Mordmerkmal **„heimtückisch“** (§ 211 Abs. 2 StGB) – das Stichwort „schlafendes Opfer“ ruft das Problem ab, ob ein Schlafender arglos sein kann. Dort gründlich: Heimtücke auslegen („bewusstes Ausnutzen der auf Arglosigkeit beruhenden Wehrlosigkeit des Opfers“), Arg- und Wehrlosigkeit definieren und in den Streit eintreten. Erkenntnisquellen: **Sachverhalt und Rechtsdogmatik**. Die juristische **Einschätzungsgabe** gehört zum **Judiz** und setzt Rechtskenntnis und Fallerfahrung voraus.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 138
+        },
+        {
+          "doc": "PROP_1",
+          "page": 139
+        },
+        {
+          "doc": "PROP_1",
+          "page": 140
+        },
+        {
+          "doc": "PROP_1",
+          "page": 141
+        },
+        {
+          "doc": "PROP_1",
+          "page": 142
+        }
+      ]
     }
   ],
   "definitions": [
-    {"term": "Gutachtenstil (Gutachtentechnik)", "text": "Darstellungsweise, die den Such- und Prüfmodus („Ob es so ist?“), das Begründen im Konditionalstil und die Idee des Justizsyllogismus kombiniert: Ein mögliches Ergebnis wird unterstellt und anhand der Voraussetzungen der Rechtsgründe geprüft, bevor das Ergebnis festgestellt wird.", "src": [{"doc":"PROP_1","page":81},{"doc":"PROP_1","page":83}]},
-    {"term": "Urteilsstil", "text": "Darstellungsweise, die das Ergebnis an den Anfang stellt und anschließend nur die tragfähigen Gründe in einer Kette nennt (Entscheidung → Grund → Grund); typisch für Gerichtsentscheidungen.", "src": [{"doc":"PROP_1","page":84},{"doc":"PROP_1","page":87}]},
-    {"term": "Erster Obersatz", "text": "Formuliert den gutachterlichen Prüfauftrag und enthält drei Elemente: die anstehende Rechtsfrage, eine Ergebnishypothese und die Rechtsnorm (bzw. einen anderen Rechtssatz), die das Ergebnis begründen könnte.", "src": [{"doc":"PROP_1","page":94},{"doc":"PROP_1","page":95}]},
-    {"term": "W-Formel", "text": "Im Zivilrecht: Wer will was von wem? – mit Nennung der Norm erweitert zu: Wer will was von wem woraus? (Anspruchsteller, Begehren, Anspruchsgegner, Anspruchsnorm).", "src": [{"doc":"PROP_1","page":96},{"doc":"PROP_1","page":99}]},
-    {"term": "Vor- und Nachprämisse", "text": "Die zwei allgemeinen, oft unausgesprochenen Prämissen eines (weiteren) Obersatzes: Die Vorprämisse begründet, warum gerade diese Frage gestellt wird; die Nachprämisse (meist eine Definition) begründet, woher die Voraussetzungen für ihre Beantwortung stammen.", "src": [{"doc":"PROP_1","page":104},{"doc":"PROP_1","page":105}]},
-    {"term": "Ungeschriebenes Tatbestandsmerkmal", "text": "Von der Rechtsdogmatik ergänztes, nicht im Gesetzestext genanntes Merkmal, das Sinn und Zweck der Norm besser zur Geltung bringen soll – z. B. die Vermögensverfügung beim Betrug (§ 263 StGB).", "norm": "§ 263 StGB", "src": [{"doc":"PROP_1","page":108},{"doc":"PROP_1","page":109}]},
-    {"term": "Regelbeispiel", "text": "Gesetzestechnisch zwischen Beispiel und Tatbestandsmerkmal stehende Fallbeschreibung; ihre Verwirklichung ist nach der Rechtsprechung nur ein (widerlegbares) Indiz, z. B. für einen besonders schweren Fall.", "src": [{"doc":"PROP_1","page":112},{"doc":"PROP_1","page":113}]},
-    {"term": "Angebot", "text": "Auf einen Vertragsschluss gerichtete empfangsbedürftige Willenserklärung, die die essentialia negotii (Vertragspartner, Leistung, Gegenleistung) enthält und so bestimmt ist, dass der Vertrag nur noch von der Annahme (einem einfachen „Ja“) abhängt.", "src": [{"doc":"PROP_1","page":127},{"doc":"PROP_1","page":131},{"doc":"PROP_1","page":139}]},
-    {"term": "Sache / fremd (Beispieldefinitionen)", "text": "Sachen sind körperliche Gegenstände (vgl. § 90 BGB). Fremd ist eine Sache, die im Eigentum oder Miteigentum einer anderen Person steht.", "norm": "§ 90 BGB", "src": [{"doc":"PROP_1","page":104},{"doc":"PROP_1","page":123},{"doc":"PROP_1","page":134}]},
-    {"term": "Ergebnis", "text": "Wortgleiches, nicht mehr hypothetisches Gegenstück des Obersatzes; entschieden bejahend oder verneinend, eindeutig und objektiv formuliert.", "src": [{"doc":"PROP_1","page":135},{"doc":"PROP_1","page":136}]}
+    {
+      "term": "Gutachtenstil (Gutachtentechnik)",
+      "text": "Darstellungsweise, die den Such- und Prüfmodus („Ob es so ist?“), das Begründen im Konditionalstil und die Idee des Justizsyllogismus kombiniert: Ein mögliches Ergebnis wird unterstellt und anhand der Voraussetzungen der Rechtsgründe geprüft, bevor das Ergebnis festgestellt wird.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 81
+        },
+        {
+          "doc": "PROP_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "term": "Urteilsstil",
+      "text": "Darstellungsweise, die das Ergebnis an den Anfang stellt und anschließend nur die tragfähigen Gründe in einer Kette nennt (Entscheidung → Grund → Grund); typisch für Gerichtsentscheidungen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 84
+        },
+        {
+          "doc": "PROP_1",
+          "page": 87
+        }
+      ]
+    },
+    {
+      "term": "Erster Obersatz",
+      "text": "Formuliert den gutachterlichen Prüfauftrag und enthält drei Elemente: die anstehende Rechtsfrage, eine Ergebnishypothese und die Rechtsnorm (bzw. einen anderen Rechtssatz), die das Ergebnis begründen könnte.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 94
+        },
+        {
+          "doc": "PROP_1",
+          "page": 95
+        }
+      ]
+    },
+    {
+      "term": "W-Formel",
+      "text": "Im Zivilrecht: Wer will was von wem? – mit Nennung der Norm erweitert zu: Wer will was von wem woraus? (Anspruchsteller, Begehren, Anspruchsgegner, Anspruchsnorm).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 96
+        },
+        {
+          "doc": "PROP_1",
+          "page": 99
+        }
+      ]
+    },
+    {
+      "term": "Vor- und Nachprämisse",
+      "text": "Die zwei allgemeinen, oft unausgesprochenen Prämissen eines (weiteren) Obersatzes: Die Vorprämisse begründet, warum gerade diese Frage gestellt wird; die Nachprämisse (meist eine Definition) begründet, woher die Voraussetzungen für ihre Beantwortung stammen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 105
+        }
+      ]
+    },
+    {
+      "term": "Ungeschriebenes Tatbestandsmerkmal",
+      "text": "Von der Rechtsdogmatik ergänztes, nicht im Gesetzestext genanntes Merkmal, das Sinn und Zweck der Norm besser zur Geltung bringen soll – z. B. die Vermögensverfügung beim Betrug (§ 263 StGB).",
+      "norm": "§ 263 StGB",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 108
+        },
+        {
+          "doc": "PROP_1",
+          "page": 109
+        }
+      ]
+    },
+    {
+      "term": "Regelbeispiel",
+      "text": "Gesetzestechnisch zwischen Beispiel und Tatbestandsmerkmal stehende Fallbeschreibung; ihre Verwirklichung ist nach der Rechtsprechung nur ein (widerlegbares) Indiz, z. B. für einen besonders schweren Fall.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 112
+        },
+        {
+          "doc": "PROP_1",
+          "page": 113
+        }
+      ]
+    },
+    {
+      "term": "Angebot",
+      "text": "Auf einen Vertragsschluss gerichtete empfangsbedürftige Willenserklärung, die die essentialia negotii (Vertragspartner, Leistung, Gegenleistung) enthält und so bestimmt ist, dass der Vertrag nur noch von der Annahme (einem einfachen „Ja“) abhängt.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 127
+        },
+        {
+          "doc": "PROP_1",
+          "page": 131
+        },
+        {
+          "doc": "PROP_1",
+          "page": 139
+        }
+      ]
+    },
+    {
+      "term": "Sache / fremd (Beispieldefinitionen)",
+      "text": "Sachen sind körperliche Gegenstände (vgl. § 90 BGB). Fremd ist eine Sache, die im Eigentum oder Miteigentum einer anderen Person steht.",
+      "norm": "§ 90 BGB",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 123
+        },
+        {
+          "doc": "PROP_1",
+          "page": 134
+        }
+      ]
+    },
+    {
+      "term": "Ergebnis",
+      "text": "Wortgleiches, nicht mehr hypothetisches Gegenstück des Obersatzes; entschieden bejahend oder verneinend, eindeutig und objektiv formuliert.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 136
+        }
+      ]
+    }
   ],
   "schemas": [
     {
@@ -100,7 +520,32 @@
         "5. Ergebnis: wortgleiches Gegenstück des Obersatzes, eindeutig, ohne „Ja/Nein“, ohne „meines Erachtens“",
         "6. Für jedes weitere Merkmal bzw. jede weitere Frage: weiterer Obersatz – Schritte 2–5 wiederholen; jeden weiteren Rechtsgrund unter neuem gleichrangigem Gliederungspunkt prüfen"
       ],
-      "src": [{"doc":"PROP_1","page":93},{"doc":"PROP_1","page":94},{"doc":"PROP_1","page":105},{"doc":"PROP_1","page":115},{"doc":"PROP_1","page":128},{"doc":"PROP_1","page":135}]
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 93
+        },
+        {
+          "doc": "PROP_1",
+          "page": 94
+        },
+        {
+          "doc": "PROP_1",
+          "page": 105
+        },
+        {
+          "doc": "PROP_1",
+          "page": 115
+        },
+        {
+          "doc": "PROP_1",
+          "page": 128
+        },
+        {
+          "doc": "PROP_1",
+          "page": 135
+        }
+      ]
     },
     {
       "title": "Aufbau eines Meinungsstreits um eine Definition",
@@ -112,7 +557,24 @@
         "5. Sonst: Streitentscheid durch eigene Stellungnahme (Argumente und Gegenargumente)",
         "6. Gesamtsubsumtion und Ergebnis im objektiven Ton"
       ],
-      "src": [{"doc":"PROP_1","page":120},{"doc":"PROP_1","page":121},{"doc":"PROP_1","page":122},{"doc":"PROP_1","page":123}]
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 120
+        },
+        {
+          "doc": "PROP_1",
+          "page": 121
+        },
+        {
+          "doc": "PROP_1",
+          "page": 122
+        },
+        {
+          "doc": "PROP_1",
+          "page": 123
+        }
+      ]
     },
     {
       "title": "Anspruchsaufbau im Zivilrecht",
@@ -122,189 +584,1080 @@
         "III. Anspruch durchsetzbar? – Einreden: peremptorisch (z. B. Verjährung § 214 I BGB) oder dilatorisch (z. B. §§ 320 I, 273 I BGB)",
         "Jedes (vorläufige) Zwischenergebnis uneingeschränkt feststellen; Einschränkungen mit neuem Obersatz"
       ],
-      "src": [{"doc":"PROP_1","page":137},{"doc":"PROP_1","page":138}]
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 137
+        },
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
     }
   ],
   "quiz": [
-    {"id": "q1", "type": "mc-single", "level": "recognize", "difficulty": 1,
-     "prompt": "Welche Situation fingiert die Gutachtentechnik nach dem Studienbrief?",
-     "options": ["Die des Berichterstatters, der intern vor seinem Kollegialgericht Stellung nimmt und die Entscheidung vorbereitet", "Die eines Anwalts, der vor Gericht plädiert", "Die eines Richters, der sein fertiges Urteil verkündet", "Die eines Gesetzgebers, der eine neue Norm begründet"],
-     "answer": [0], "explanation": "S. 82. Im Studium beschränkt sich das Gutachten auf den rechtlichen Teil dieser Stellungnahme; das fertige Urteil steht im Urteilsstil.",
-     "hints": ["Ein Mitglied des Gerichts bereitet vor …"], "src": [{"doc":"PROP_1","page":82}]},
-    {"id": "q2", "type": "match", "level": "recall", "difficulty": 1,
-     "prompt": "Ordnen Sie dem Rechtsgebiet die typische Prüfungsfrage des Gutachtens zu.",
-     "pairs": [["Zivilrecht", "Hat jemand einen Anspruch aus einer Anspruchsgrundlage?"], ["Strafrecht", "Hat sich der Täter nach einem Gesetz strafbar gemacht?"], ["Öffentliches Recht", "Ist ein hoheitliches Handeln rechtmäßig, insbesondere verfassungsgemäß?"]],
-     "explanation": "S. 82; im Öffentlichen Recht sind regelmäßig auch die Erfolgsaussichten einer Klage zu prüfen.",
-     "hints": ["Materiell-rechtliche Überlegungen."], "src": [{"doc":"PROP_1","page":82}]},
-    {"id": "q3", "type": "mc-multi", "level": "recall", "difficulty": 1,
-     "prompt": "Welche Ansätze kombiniert der Gutachtenstil nach dem Studienbrief? Wählen Sie alle zutreffenden Antworten.",
-     "options": ["Den Such- und Prüfmodus („Ob es so ist?“)", "Das Begründen im Konditionalstil", "Die Idee des Justizsyllogismus", "Die Voranstellung des Ergebnisses"],
-     "answer": [0, 1, 2], "explanation": "Die Voranstellung des Ergebnisses kennzeichnet den Urteilsstil (S. 84).",
-     "hints": ["Drei Ansätze, S. 83."], "src": [{"doc":"PROP_1","page":83}]},
-    {"id": "q4", "type": "truefalse", "level": "understand", "difficulty": 2,
-     "prompt": "Im Gutachten ist es zulässig, zur Entlastung auf spätere Ausführungen zu verweisen („wie noch zu zeigen sein wird“), sofern diese tatsächlich folgen.",
-     "answer": false, "explanation": "Nur feststellen, was zuvor begründet wurde: keine Verweise nach vorn; Rückbezüge („wie bereits festgestellt“, „s. o.“) sind gestattet.",
-     "hints": ["Vorwärts oder rückwärts?"], "src": [{"doc":"PROP_1","page":85}]},
-    {"id": "q5", "type": "mc-single", "level": "understand", "difficulty": 2,
-     "prompt": "Sie haben unter „I. Feiertag?“ geprüft, ob Sie länger schlafen können, und das Ergebnis verneint. Nun kommt Ihnen der Gedanke, dass Ihr erster Termin ausfällt. Wie gehen Sie nach dem Studienbrief vor?",
-     "options": ["Ich prüfe den neuen Gesichtspunkt unter einem neuen, gleichrangigen Gliederungspunkt (II.)", "Ich ergänze den Gesichtspunkt unter I., weil es um dieselbe Ergebnishypothese geht", "Ich nenne ihn nur im Endergebnis", "Ich verzichte darauf, weil die Hypothese bereits verneint wurde"],
-     "answer": [0], "explanation": "Unter einem Gliederungspunkt bleibt man bei dem einen gewählten Grund; jeder zusätzliche Gesichtspunkt wird neu unter einem gleichrangigen Punkt geprüft (S. 85–86).",
-     "hints": ["Abb. 34: Mehrere Rechtsgründe."], "src": [{"doc":"PROP_1","page":85},{"doc":"PROP_1","page":86}]},
-    {"id": "q6", "type": "order", "level": "understand", "difficulty": 2,
-     "prompt": "Bringen Sie die Glieder einer Begründung im Urteilsstil (Alltagsbeispiel) in die richtige Reihenfolge.",
-     "items": ["Ich kann länger schlafen!", "Da heute mein erster Termin ausfällt.", "Denn der Termin wurde von der Fa. Faul abgesagt.", "Beweis: E-Mail von gestern 19:30."],
-     "explanation": "Urteilsstil: Entscheidung → Grund → Grund → Grund (S. 87).",
-     "hints": ["Das Ergebnis steht vorn."], "src": [{"doc":"PROP_1","page":87}]},
-    {"id": "q7", "type": "mc-multi", "level": "understand", "difficulty": 3,
-     "prompt": "Welche Vorzüge schreibt der Studienbrief dem konditionalen Gutachtenstil gegenüber intuitivem Begründen und Urteilsstil zu? Wählen Sie alle zutreffenden Antworten.",
-     "options": ["Er macht die Suche nach der Lösung für den Leser nachvollziehbar", "Er schafft Distanz und überträgt die Frage vom Persönlichen ins Sachliche", "Er ist durch seinen hypothetischen Grundzug ergebnisoffen und weniger fehleranfällig", "Er erwähnt fehlgeschlagene Lösungsansätze nicht und ist dadurch diskreter"],
-     "answer": [0, 1, 2], "explanation": "Diskretion durch Verschweigen fehlgeschlagener Ansätze kennzeichnet gerade den Urteilsstil (S. 91–92).",
-     "hints": ["Was ist „diskreter, aber weniger transparent“?"], "src": [{"doc":"PROP_1","page":91},{"doc":"PROP_1","page":92},{"doc":"PROP_1","page":93}]},
-    {"id": "q8", "type": "truefalse", "level": "understand", "difficulty": 2,
-     "prompt": "Im Ergebnisteil des Konditionalstils werden die Begründungsstationen im Rückwärtsgang durchlaufen, sodass eine Kette „von unten nach oben“ entsteht (z → y → x → G → Ergebnis).",
-     "answer": true, "explanation": "S. 88–89: Spiegelverkehrt zur Konditionalkette des hypothetischen Hauptteils.",
-     "hints": ["Abb. 37/38."], "src": [{"doc":"PROP_1","page":88},{"doc":"PROP_1","page":89}]},
-    {"id": "q9", "type": "order", "level": "recall", "difficulty": 1,
-     "prompt": "Bringen Sie die fünf Schritte des gutachterlichen Grundschemas in die richtige Reihenfolge.",
-     "items": ["Obersatz", "Voraussetzung", "Definition", "Subsumtion", "Ergebnis"],
-     "explanation": "Abb. 43 (S. 94). Der Studienbrief hebt die Voraussetzung als eigenen Schritt hervor.",
-     "hints": ["Vom Prüfauftrag zur Antwort."], "src": [{"doc":"PROP_1","page":93},{"doc":"PROP_1","page":94}]},
-    {"id": "q10", "type": "cloze", "level": "recall", "difficulty": 1,
-     "prompt": "Der erste Obersatz enthält drei Elemente: die {{1}}, eine {{2}} und eine {{3}}, die das Ergebnis begründen könnte.",
-     "blanks": [["Rechtsfrage"], ["Ergebnishypothese", "Hypothese"], ["Rechtsnorm", "Norm", "Rechtsgrundlage"]],
-     "explanation": "„V könnte gegen K einen Anspruch auf Zahlung von 80 EUR aus § 433 Abs. 2 BGB haben.“ (S. 95)",
-     "hints": ["Frage – Annahme – Grundlage."], "src": [{"doc":"PROP_1","page":95}]},
-    {"id": "q11", "type": "mc-single", "level": "apply", "difficulty": 2,
-     "prompt": "V und K haben sich über den Verkauf von Vs Goldmünze Krügerrand für 950 EUR geeinigt. V will die Münze nun doch behalten; K will sie haben. Welcher Obersatz ist richtig?",
-     "options": ["K könnte gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze aus § 433 Abs. 1 S. 1 BGB haben.", "K könnte gegen V einen Anspruch auf Zahlung von 950 EUR aus § 433 Abs. 2 BGB haben.", "V könnte gegen K einen Anspruch auf Abnahme der Münze aus § 433 Abs. 2 BGB haben.", "K hat gegen V einen Anspruch aus § 433 BGB, da sie sich geeinigt haben."],
-     "answer": [0], "explanation": "Die Rechtsfolge der Norm muss dem Begehren entsprechen: K will die Münze – das regelt § 433 Abs. 1 S. 1 BGB. D ist Urteilsstil und ungenau zitiert.",
-     "hints": ["Wer will was?", "Welche Rechtsfolge passt zum Begehren?"], "src": [{"doc":"PROP_1","page":100},{"doc":"PROP_1","page":101}]},
-    {"id": "q12", "type": "mc-single", "level": "recognize", "difficulty": 2,
-     "prompt": "Welche Formulierung ist nach dem Studienbrief korrekt?",
-     "options": ["Fraglich ist, ob A in Notwehr gehandelt hat.", "Möglicherweise könnte A in Notwehr gehandelt haben.", "In Betracht kommt, dass A durch Notwehr gerechtfertigt sein könnte.", "A könnte möglicherweise in Notwehr gehandelt haben."],
-     "answer": [0], "explanation": "Die hypothetischen Mittel dürfen nicht gedoppelt werden (S. 98). B, C und D kombinieren zwei Mittel.",
-     "hints": ["Zählen Sie die Unsicherheitsmarker."], "src": [{"doc":"PROP_1","page":98}]},
-    {"id": "q13", "type": "truefalse", "level": "recall", "difficulty": 2,
-     "prompt": "Sobald man im Gutachten definiert, interpretiert und subsumiert, wechselt man in den Indikativ Präsens.",
-     "answer": true, "explanation": "S. 97; ebenso erfolgt die Nennung, Bestimmung und Definition der Voraussetzungen immer im Indikativ (S. 114).",
-     "hints": ["Allgemeine Rechtslage wird festgestellt."], "src": [{"doc":"PROP_1","page":97},{"doc":"PROP_1","page":114}]},
-    {"id": "q14", "type": "mc-single", "level": "apply", "difficulty": 3,
-     "prompt": "X lässt seine Mitbewohnerin M giftige Pilze essen, ohne sie zu warnen; M überlebt. Welcher Obersatz entspricht den Anforderungen des Studienbriefs?",
-     "options": ["Möglicherweise hat sich X nach §§ 212 Abs. 1, 22, 23 Abs. 1, 13 Abs. 1 StGB wegen versuchten Totschlags durch Unterlassen strafbar gemacht, indem er es unterließ, M auf die giftigen Pilze hinzuweisen.", "Möglicherweise hat sich X nach §§ 212, 22, 23, 13 StGB wegen versuchten Totschlags strafbar gemacht, indem er die M nicht auf die Pilze hinwies.", "X könnte ein Totschläger sein, da er M nicht gewarnt hat.", "Bevor man sich der Strafbarkeit zuwendet, ist zu klären, ob X von den Pilzen wusste."],
-     "answer": [0], "explanation": "Norm genau zitieren, Delikt vollständig (durch Unterlassen) und Tathandlung präzise benennen. C ist Urteilsstil („da“) und beurteilt den Täter statt der Tat; D garniert den Obersatz.",
-     "hints": ["Täter – Tathandlung – Delikt – Norm.", "Absätze nennen."], "src": [{"doc":"PROP_1","page":102},{"doc":"PROP_1","page":103}]},
-    {"id": "q15", "type": "match", "level": "understand", "difficulty": 3,
-     "prompt": "Ordnen Sie im Beispiel § 303 StGB den Sätzen ihre Funktion zu.",
-     "pairs": [["„Die Orchidee müsste eine Sache sein.“", "Zwischenobersatz"], ["„Sachen sind körperliche Gegenstände.“", "Nachprämisse (Definition)"], ["„Wenn jemand eine fremde Sache beschädigt oder zerstört, ist der obj. Tatbestand erfüllt.“", "Vorprämisse"], ["„Orchideen als Pflanzen sind körperliche Gegenstände.“", "Subsumtion"]],
-     "explanation": "S. 104: Die Vorprämisse erklärt, warum die Frage jetzt gestellt wird; die Nachprämisse liefert die Prüfmerkmale.",
-     "hints": ["Warum jetzt? – Woher die Merkmale?"], "src": [{"doc":"PROP_1","page":104}]},
-    {"id": "q16", "type": "truefalse", "level": "understand", "difficulty": 3,
-     "prompt": "Bei § 303 Abs. 1 StGB („Wer rechtswidrig eine fremde Sache beschädigt oder zerstört“) gilt nach herrschender Ansicht auch „rechtswidrig“ als Tatbestandsmerkmal.",
-     "answer": false, "explanation": "„Rechtswidrig“ gilt nicht als Tatbestandsmerkmal; die Rechtswidrigkeit wird gesondert geprüft. Das ist durch bloßes Lesen nicht erkennbar – Tatbestandsmerkmale sind Ergebnis rechtsfachlicher Übereinkunft (S. 108, Fn. 74).",
-     "hints": ["Wird die Rechtswidrigkeit unter einem eigenen Obersatz geprüft?"], "src": [{"doc":"PROP_1","page":108}]},
-    {"id": "q17", "type": "mc-single", "level": "understand", "difficulty": 2,
-     "prompt": "Warum verstößt das ungeschriebene Tatbestandsmerkmal „Vermögensverfügung“ beim Betrug (§ 263 StGB) nach dem Studienbrief nicht gegen Art. 103 Abs. 2 GG?",
-     "options": ["Weil es die Voraussetzungen der Strafbarkeit erhöht und damit für den Täter günstig ist", "Weil ungeschriebene Merkmale im Strafrecht generell zulässig sind", "Weil es ausdrücklich im Gesetzeswortlaut steht", "Weil Art. 103 Abs. 2 GG nur für das Zivilrecht gilt"],
-     "answer": [0], "explanation": "S. 109: Die Ergänzung schränkt die Strafbarkeit ein und verbindet Irrtum und Vermögensschaden ursächlich.",
-     "hints": ["Wem nützt das zusätzliche Merkmal?"], "src": [{"doc":"PROP_1","page":109}]},
-    {"id": "q18", "type": "mc-single", "level": "apply", "difficulty": 2,
-     "prompt": "In einer Klausur stoßen Sie auf eine steuerrechtliche Detailfrage, deren Klärung unverhältnismäßigen Aufwand erfordern würde; der Sachverhalt deutet nicht darauf hin. Was empfiehlt der Studienbrief?",
-     "options": ["Die Voraussetzung lapidar bejahen, z. B. „Steuerrechtliche Fragen sind als geklärt zu betrachten.“", "Die Frage ausführlich mit selbst entwickelten Prämissen erörtern", "Die Bearbeitung abbrechen", "Ein Alternativergebnis für beide Varianten formulieren"],
-     "answer": [0], "explanation": "Unverhältnismäßiger Aufwand für ein Detail ist ein Indiz für ein Nebengleis (S. 111). Alternativergebnisse sind ohnehin unzulässig.",
-     "hints": ["Will der Aufgabensteller das wirklich?"], "src": [{"doc":"PROP_1","page":111}]},
-    {"id": "q19", "type": "truefalse", "level": "understand", "difficulty": 2,
-     "prompt": "Vom Gesetzgeber genannte Beispiele (etwa Disketten und CD-ROMs als dauerhafte Datenträger) sind abstrakte Tatbestandsvoraussetzungen und daher bei den Voraussetzungen aufzuführen.",
-     "answer": false, "explanation": "Beispiele sind Erfahrungssätze zur Konkretisierung der Tatbestandselemente; sie gehören in die Subsumtion. Regelbeispiele sind nur ein Indiz (S. 112–113).",
-     "hints": ["Konkretisierung statt Voraussetzung."], "src": [{"doc":"PROP_1","page":112},{"doc":"PROP_1","page":113}]},
-    {"id": "q20", "type": "mc-single", "level": "recognize", "difficulty": 1,
-     "prompt": "Welche Wiedergabe der Legaldefinition aus § 276 Abs. 2 BGB ist korrekt?",
-     "options": ["Gemäß § 276 II BGB handelt fahrlässig, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt.", "Fahrlässig handelt, wer die im Verkehr erforderliche Achtsamkeit verletzt, § 276 II BGB.", "Fahrlässig handelt, wer unvorsichtig ist, § 276 II BGB.", "Fahrlässig handelt, wer nicht aufpasst, obwohl er könnte, § 276 II BGB."],
-     "answer": [0], "explanation": "Legaldefinitionen sind in ihren wesentlichen Begriffen wörtlich zu verwenden; „Achtsamkeit“ führt auf einen Holzweg (S. 118).",
-     "hints": ["Wortgenauigkeit."], "src": [{"doc":"PROP_1","page":118}]},
-    {"id": "q21", "type": "match", "level": "recall", "difficulty": 2,
-     "prompt": "Ordnen Sie den drei Hauptkonstellationen von Meinungsstreitigkeiten ihre Beschreibung zu.",
-     "pairs": [["Stellungskrieg", "Seit Langem umkämpft, Auffassungen werden kaum verändert ausgetauscht"], ["Neuland", "Neuer Falltypus oder neuer Begriff, noch keine führende Meinung"], ["Aufstand", "Eine bisher herrschende Meinung wird durch Gegenstimmen infrage gestellt"]],
-     "explanation": "S. 120.",
-     "hints": ["Militärische Metaphern."], "src": [{"doc":"PROP_1","page":120}]},
-    {"id": "q22", "type": "mc-single", "level": "understand", "difficulty": 3,
-     "prompt": "Ein Bearbeiter wendet sich gegen das Hirntodkriterium mit dem Hinweis auf einen Fall von 2009, in dem eine Frau versehentlich für hirntot erklärt wurde. Wie bewertet der Studienbrief dieses Vorgehen?",
-     "options": ["Als fehlerhaft: Ein Einzelbeispiel widerlegt keine abstrakte Definition; im Streit sind allgemeine Prämissen anzuführen", "Als besonders überzeugend, weil Beispiele zu den stärksten Argumenten zählen", "Als korrekt, solange der Fall durch eine Fundstelle belegt ist", "Als zulässig, weil es sich um einen Stellungskrieg handelt"],
-     "answer": [0], "explanation": "Durch nur einen Fall wird im Recht grundsätzlich kein Gesetz widerlegt. Das Beispiel darf aber zur Illustration dienen (Pathos, sparsam) (S. 123–124).",
-     "hints": ["Definitionen gelten für eine unbestimmte Vielzahl von Fällen."], "src": [{"doc":"PROP_1","page":123},{"doc":"PROP_1","page":124}]},
-    {"id": "q23", "type": "cloze", "level": "recall", "difficulty": 2,
-     "prompt": "Auslegung ist geboten, wenn der fragliche Begriff Element einer Rechtsnorm, eines Vertrages oder einer {{1}} ist und seine Bedeutung dunkel erscheint. Für Willenserklärungen ordnet § 133 BGB an, den {{2}} Willen zu erforschen; Verträge sind nach § 157 BGB so auszulegen, wie {{3}} mit Rücksicht auf die Verkehrssitte es erfordern.",
-     "blanks": [["Willenserklärung", "sonstigen Willenserklärung"], ["wirklichen"], ["Treu und Glauben"]],
-     "explanation": "S. 126–127; die Definition dagegen konkretisiert abstrakte Begriffe aus dem Rechtssystem heraus.",
-     "hints": ["Tabelle 14.", "Nicht am buchstäblichen Sinne haften."], "src": [{"doc":"PROP_1","page":126},{"doc":"PROP_1","page":127}]},
-    {"id": "q24", "type": "mc-single", "level": "apply", "difficulty": 3,
-     "prompt": "Welche Subsumtion zur Grausamkeit („Grausam tötet, wer dem Opfer aus gefühlloser, unbarmherziger Gesinnung … Schmerzen oder Qualen zufügt, die über das zur Tötung erforderliche Maß hinausgehen“) ist nach dem Studienbrief richtig?",
-     "options": ["Verhungern ist ein langer, langsamer Prozess mit Schmerzen und Todesangst; B hat diese Qualen, die weit über die anderer Tötungsarten hinausgehen, lange bei vollem Bewusstsein erlitten.", "Indem A den B verhungern ließ, hat er ihm aus gefühlloser, unbarmherziger Gesinnung Qualen zugefügt, die über das zur Tötung erforderliche Maß hinausgehen.", "A ist ein grausamer Mensch, weil er B verhungern ließ.", "Fraglich ist, ob der Sachverhalt unter den Begriff der Grausamkeit fällt; A ließ B verhungern."],
-     "answer": [0], "explanation": "B wiederholt nur die Rechtsbegriffe der Definition; C beurteilt den Täter im Urteilsstil; D setzt Obersatz und Einleitung in die Subsumtion (S. 132–133).",
-     "hints": ["Tatsachen beschreiben statt Definition wiederholen."], "src": [{"doc":"PROP_1","page":132},{"doc":"PROP_1","page":133}]},
-    {"id": "q25", "type": "truefalse", "level": "understand", "difficulty": 2,
-     "prompt": "Ist die Zuordnung „Merkmal – Sachverhalt“ evident, darf man einzelne Prüfungsschritte im Text überspringen; gedanklich müssen aber für alle Merkmale alle Prüfungsstationen absolviert werden.",
-     "answer": true, "explanation": "Merke auf S. 134; die Kürzung darf nie zu einer pauschalen Gedankenführung verleiten.",
-     "hints": ["Explizit vs. implizit."], "src": [{"doc":"PROP_1","page":134}]},
-    {"id": "q26", "type": "mc-single", "level": "recognize", "difficulty": 2,
-     "prompt": "Obersatz: „V könnte gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR haben.“ Welches Ergebnis ist korrekt formuliert?",
-     "options": ["V hat gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR.", "Nach alledem dürfte V gegen K einen Anspruch auf Zahlung von 950 EUR haben.", "V hat mit K einen wirksamen Kaufvertrag geschlossen.", "Meines Erachtens hat V gegen K einen Anspruch auf 950 EUR, soweit dieser nicht verjährt ist."],
-     "answer": [0], "explanation": "Wortgleiches Gegenstück, eindeutig, objektiv. B ist nicht eindeutig, C beantwortet eine andere Frage, D ist subjektiv und eingeschränkt (S. 135–138).",
-     "hints": ["Spiegeln Sie den Obersatz."], "src": [{"doc":"PROP_1","page":135},{"doc":"PROP_1","page":136},{"doc":"PROP_1","page":138}]},
-    {"id": "q27", "type": "match", "level": "recall", "difficulty": 2,
-     "prompt": "Ordnen Sie die Einwendung der richtigen Prüfungsstation des Anspruchsaufbaus zu.",
-     "pairs": [["Sittenwidrigkeit, § 138 BGB", "Anspruch entstanden? (rechtshindernd)"], ["Erfüllung, § 362 I BGB", "Anspruch untergegangen? (rechtsvernichtend)"], ["Verjährung, § 214 I BGB", "Anspruch durchsetzbar? (peremptorische Einrede)"], ["Zurückbehaltungsrecht, § 273 I BGB", "Anspruch durchsetzbar? (dilatorische Einrede)"]],
-     "explanation": "Exkurs Anspruchsaufbau (S. 137).",
-     "hints": ["Entstehen – Untergehen – Durchsetzen."], "src": [{"doc":"PROP_1","page":137}]},
-    {"id": "q28", "type": "free", "level": "formulate", "difficulty": 3,
-     "prompt": "„Während B schlief, hat A ihn erstickt.“ Erläutern Sie, welche Merkmale im Gutachten wesentlich und welche unwesentlich sind, und woher Sie das nach dem Studienbrief wissen.",
-     "modelAnswer": "Unwesentlich ist, ob A mit B einen anderen Menschen getötet hat: Der Sachverhalt schweigt dazu, also ist vom Gewöhnlichen auszugehen – B ist ein lebender Mensch; eine biologische oder philosophische Diskussion über den Menschenbegriff wäre verfehlt. Wesentlich ist das Mordmerkmal „heimtückisch“ (§ 211 Abs. 2 StGB): Das Stichwort „B schlief“ ruft aus der Rechtsdogmatik das Problem ab, ob ein Schlafender arglos sein kann. Dort ist gründlich vorzugehen: Heimtücke definieren (bewusstes Ausnutzen der auf Arglosigkeit beruhenden Wehrlosigkeit), Arg- und Wehrlosigkeit definieren und in den Streit eintreten. Erkenntnisquellen sind der Sachverhalt und die Rechtsdogmatik; die Einschätzungsgabe gehört zum Judiz.",
-     "rubric": ["„Mensch/getötet“ als unwesentlich erkannt", "Begründung: Sachverhalt schweigt → Normalfall", "Heimtücke als Schwerpunkt", "Problem Arglosigkeit des Schlafenden", "Quellen: Sachverhalt und Dogmatik"],
-     "hints": ["S. 142.", "Welches Stichwort lässt die Alarmglocke läuten?"], "src": [{"doc":"PROP_1","page":142}]},
-    {"id": "q29", "type": "case", "level": "formulate", "difficulty": 3,
-     "prompt": "A und B geraten in Streit; im Zorn zertritt A die seltene Orchidee Paphiopedilum Parishii des B. Formulieren Sie im Gutachtenstil den ersten Obersatz, die Voraussetzungen des objektiven Tatbestands und die vollständige Prüfung des Merkmals „Sache“ (Zwischenobersatz, Definition, Subsumtion, Zwischenergebnis).",
-     "modelAnswer": "A könnte sich durch das Zertreten von Bs Orchidee wegen Sachbeschädigung gemäß § 303 Abs. 1 StGB strafbar gemacht haben. I. Objektiver Tatbestand: Dafür müsste A eine fremde Sache beschädigt oder zerstört haben. 1. Fraglich ist, ob die Orchidee eine Sache ist. Sachen sind körperliche Gegenstände. Die Orchidee ist als Pflanze ein körperlicher Gegenstand. Die Orchidee ist somit eine Sache.",
-     "rubric": ["Obersatz mit Täter, Tathandlung („durch das Zertreten“/„indem“), Delikt, Norm", "Konjunktiv im Obersatz", "Voraussetzungen benannt (fremd, Sache, beschädigen oder zerstören)", "Definition Sache im Indikativ", "Subsumtion mit Sachverhaltsbezug", "Zwischenergebnis spiegelt den Zwischenobersatz"],
-     "hints": ["S. 102 und S. 104/140.", "Kein „da“ oder „weil“ im Obersatz."], "src": [{"doc":"PROP_1","page":102},{"doc":"PROP_1","page":104},{"doc":"PROP_1","page":106},{"doc":"PROP_1","page":140}]}
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Situation fingiert die Gutachtentechnik nach dem Studienbrief?",
+      "options": [
+        "Die des Berichterstatters, der intern vor seinem Kollegialgericht Stellung nimmt und die Entscheidung vorbereitet",
+        "Die eines Anwalts, der vor Gericht plädiert",
+        "Die eines Richters, der sein fertiges Urteil verkündet",
+        "Die eines Gesetzgebers, der eine neue Norm begründet"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 83. Im Studium beschränkt sich das Gutachten auf den rechtlichen Teil dieser Stellungnahme; das fertige Urteil steht im Urteilsstil.",
+      "hints": [
+        "Ein Mitglied des Gerichts bereitet vor …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie dem Rechtsgebiet die typische Prüfungsfrage des Gutachtens zu.",
+      "pairs": [
+        [
+          "Zivilrecht",
+          "Hat jemand einen Anspruch aus einer Anspruchsgrundlage?"
+        ],
+        [
+          "Strafrecht",
+          "Hat sich der Täter nach einem Gesetz strafbar gemacht?"
+        ],
+        [
+          "Öffentliches Recht",
+          "Ist ein hoheitliches Handeln rechtmäßig, insbesondere verfassungsgemäß?"
+        ]
+      ],
+      "explanation": "S. 83; im Öffentlichen Recht sind regelmäßig auch die Erfolgsaussichten einer Klage zu prüfen.",
+      "hints": [
+        "Materiell-rechtliche Überlegungen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Welche Ansätze kombiniert der Gutachtenstil nach dem Studienbrief? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Den Such- und Prüfmodus („Ob es so ist?“)",
+        "Das Begründen im Konditionalstil",
+        "Die Idee des Justizsyllogismus",
+        "Die Voranstellung des Ergebnisses"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die Voranstellung des Ergebnisses kennzeichnet den Urteilsstil (S. 85).",
+      "hints": [
+        "Drei Ansätze, S. 84."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Im Gutachten ist es zulässig, zur Entlastung auf spätere Ausführungen zu verweisen („wie noch zu zeigen sein wird“), sofern diese tatsächlich folgen.",
+      "answer": false,
+      "explanation": "Nur feststellen, was zuvor begründet wurde: keine Verweise nach vorn; Rückbezüge („wie bereits festgestellt“, „s. o.“) sind gestattet.",
+      "hints": [
+        "Vorwärts oder rückwärts?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 85
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Sie haben unter „I. Feiertag?“ geprüft, ob Sie länger schlafen können, und das Ergebnis verneint. Nun kommt Ihnen der Gedanke, dass Ihr erster Termin ausfällt. Wie gehen Sie nach dem Studienbrief vor?",
+      "options": [
+        "Ich prüfe den neuen Gesichtspunkt unter einem neuen, gleichrangigen Gliederungspunkt (II.)",
+        "Ich ergänze den Gesichtspunkt unter I., weil es um dieselbe Ergebnishypothese geht",
+        "Ich nenne ihn nur im Endergebnis",
+        "Ich verzichte darauf, weil die Hypothese bereits verneint wurde"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Unter einem Gliederungspunkt bleibt man bei dem einen gewählten Grund; jeder zusätzliche Gesichtspunkt wird neu unter einem gleichrangigen Punkt geprüft (S. 86–87).",
+      "hints": [
+        "Abb. 34: Mehrere Rechtsgründe."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 85
+        },
+        {
+          "doc": "PROP_1",
+          "page": 86
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Glieder einer Begründung im Urteilsstil (Alltagsbeispiel) in die richtige Reihenfolge.",
+      "items": [
+        "Ich kann länger schlafen!",
+        "Da heute mein erster Termin ausfällt.",
+        "Denn der Termin wurde von der Fa. Faul abgesagt.",
+        "Beweis: E-Mail von gestern 19:30."
+      ],
+      "explanation": "Urteilsstil: Entscheidung → Grund → Grund → Grund (S. 88).",
+      "hints": [
+        "Das Ergebnis steht vorn."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 87
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Vorzüge schreibt der Studienbrief dem konditionalen Gutachtenstil gegenüber intuitivem Begründen und Urteilsstil zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Er macht die Suche nach der Lösung für den Leser nachvollziehbar",
+        "Er schafft Distanz und überträgt die Frage vom Persönlichen ins Sachliche",
+        "Er ist durch seinen hypothetischen Grundzug ergebnisoffen und weniger fehleranfällig",
+        "Er erwähnt fehlgeschlagene Lösungsansätze nicht und ist dadurch diskreter"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Diskretion durch Verschweigen fehlgeschlagener Ansätze kennzeichnet gerade den Urteilsstil (S. 92–93).",
+      "hints": [
+        "Was ist „diskreter, aber weniger transparent“?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 91
+        },
+        {
+          "doc": "PROP_1",
+          "page": 92
+        },
+        {
+          "doc": "PROP_1",
+          "page": 93
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die fünf Schritte des gutachterlichen Grundschemas in die richtige Reihenfolge.",
+      "items": [
+        "Obersatz",
+        "Voraussetzung",
+        "Definition",
+        "Subsumtion",
+        "Ergebnis"
+      ],
+      "explanation": "Abb. 43 (S. 95). Der Studienbrief hebt die Voraussetzung als eigenen Schritt hervor.",
+      "hints": [
+        "Vom Prüfauftrag zur Antwort."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 93
+        },
+        {
+          "doc": "PROP_1",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Der erste Obersatz enthält drei Elemente: die {{1}}, eine {{2}} und eine {{3}}, die das Ergebnis begründen könnte.",
+      "blanks": [
+        [
+          "Rechtsfrage"
+        ],
+        [
+          "Ergebnishypothese",
+          "Hypothese"
+        ],
+        [
+          "Rechtsnorm",
+          "Norm",
+          "Rechtsgrundlage"
+        ]
+      ],
+      "explanation": "„V könnte gegen K einen Anspruch auf Zahlung von 80 EUR aus § 433 Abs. 2 BGB haben.“ (S. 96)",
+      "hints": [
+        "Frage – Annahme – Grundlage."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 95
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "V und K haben sich über den Verkauf von Vs Goldmünze Krügerrand für 950 EUR geeinigt. V will die Münze nun doch behalten; K will sie haben. Welcher Obersatz ist richtig?",
+      "options": [
+        "K könnte gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze aus § 433 Abs. 1 S. 1 BGB haben.",
+        "K könnte gegen V einen Anspruch auf Zahlung von 950 EUR aus § 433 Abs. 2 BGB haben.",
+        "V könnte gegen K einen Anspruch auf Abnahme der Münze aus § 433 Abs. 2 BGB haben.",
+        "K hat gegen V einen Anspruch aus § 433 BGB, da sie sich geeinigt haben."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Rechtsfolge der Norm muss dem Begehren entsprechen: K will die Münze – das regelt § 433 Abs. 1 S. 1 BGB. D ist Urteilsstil und ungenau zitiert.",
+      "hints": [
+        "Wer will was?",
+        "Welche Rechtsfolge passt zum Begehren?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 100
+        },
+        {
+          "doc": "PROP_1",
+          "page": 101
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Formulierung ist nach dem Studienbrief korrekt?",
+      "options": [
+        "Fraglich ist, ob A in Notwehr gehandelt hat.",
+        "Möglicherweise könnte A in Notwehr gehandelt haben.",
+        "In Betracht kommt, dass A durch Notwehr gerechtfertigt sein könnte.",
+        "A könnte möglicherweise in Notwehr gehandelt haben."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die hypothetischen Mittel dürfen nicht gedoppelt werden (S. 99). B, C und D kombinieren zwei Mittel.",
+      "hints": [
+        "Zählen Sie die Unsicherheitsmarker."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 98
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Sobald man im Gutachten definiert, interpretiert und subsumiert, wechselt man in den Indikativ Präsens.",
+      "answer": true,
+      "explanation": "S. 98; ebenso erfolgt die Nennung, Bestimmung und Definition der Voraussetzungen immer im Indikativ (S. 115).",
+      "hints": [
+        "Allgemeine Rechtslage wird festgestellt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 97
+        },
+        {
+          "doc": "PROP_1",
+          "page": 114
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "X lässt seine Mitbewohnerin M giftige Pilze essen, ohne sie zu warnen; M überlebt. Welcher Obersatz entspricht den Anforderungen des Studienbriefs?",
+      "options": [
+        "Möglicherweise hat sich X nach §§ 212 Abs. 1, 22, 23 Abs. 1, 13 Abs. 1 StGB wegen versuchten Totschlags durch Unterlassen strafbar gemacht, indem er es unterließ, M auf die giftigen Pilze hinzuweisen.",
+        "Möglicherweise hat sich X nach §§ 212, 22, 23, 13 StGB wegen versuchten Totschlags strafbar gemacht, indem er die M nicht auf die Pilze hinwies.",
+        "X könnte ein Totschläger sein, da er M nicht gewarnt hat.",
+        "Bevor man sich der Strafbarkeit zuwendet, ist zu klären, ob X von den Pilzen wusste."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Norm genau zitieren, Delikt vollständig (durch Unterlassen) und Tathandlung präzise benennen. C ist Urteilsstil („da“) und beurteilt den Täter statt der Tat; D garniert den Obersatz.",
+      "hints": [
+        "Täter – Tathandlung – Delikt – Norm.",
+        "Absätze nennen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 102
+        },
+        {
+          "doc": "PROP_1",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie im Beispiel § 303 StGB den Sätzen ihre Funktion zu.",
+      "pairs": [
+        [
+          "„Die Orchidee müsste eine Sache sein.“",
+          "Zwischenobersatz"
+        ],
+        [
+          "„Sachen sind körperliche Gegenstände.“",
+          "Nachprämisse (Definition)"
+        ],
+        [
+          "„Wenn jemand eine fremde Sache beschädigt oder zerstört, ist der obj. Tatbestand erfüllt.“",
+          "Vorprämisse"
+        ],
+        [
+          "„Orchideen als Pflanzen sind körperliche Gegenstände.“",
+          "Subsumtion"
+        ]
+      ],
+      "explanation": "S. 105: Die Vorprämisse erklärt, warum die Frage jetzt gestellt wird; die Nachprämisse liefert die Prüfmerkmale.",
+      "hints": [
+        "Warum jetzt? – Woher die Merkmale?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Bei § 303 Abs. 1 StGB („Wer rechtswidrig eine fremde Sache beschädigt oder zerstört“) gilt nach herrschender Ansicht auch „rechtswidrig“ als Tatbestandsmerkmal.",
+      "answer": false,
+      "explanation": "„Rechtswidrig“ gilt nicht als Tatbestandsmerkmal; die Rechtswidrigkeit wird gesondert geprüft. Das ist durch bloßes Lesen nicht erkennbar – Tatbestandsmerkmale sind Ergebnis rechtsfachlicher Übereinkunft (S. 109, Fn. 74).",
+      "hints": [
+        "Wird die Rechtswidrigkeit unter einem eigenen Obersatz geprüft?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 108
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum verstößt das ungeschriebene Tatbestandsmerkmal „Vermögensverfügung“ beim Betrug (§ 263 StGB) nach dem Studienbrief nicht gegen Art. 103 Abs. 2 GG?",
+      "options": [
+        "Weil es die Voraussetzungen der Strafbarkeit erhöht und damit für den Täter günstig ist",
+        "Weil ungeschriebene Merkmale im Strafrecht generell zulässig sind",
+        "Weil es ausdrücklich im Gesetzeswortlaut steht",
+        "Weil Art. 103 Abs. 2 GG nur für das Zivilrecht gilt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 110: Die Ergänzung schränkt die Strafbarkeit ein und verbindet Irrtum und Vermögensschaden ursächlich.",
+      "hints": [
+        "Wem nützt das zusätzliche Merkmal?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 109
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "In einer Klausur stoßen Sie auf eine steuerrechtliche Detailfrage, deren Klärung unverhältnismäßigen Aufwand erfordern würde; der Sachverhalt deutet nicht darauf hin. Was empfiehlt der Studienbrief?",
+      "options": [
+        "Die Voraussetzung lapidar bejahen, z. B. „Steuerrechtliche Fragen sind als geklärt zu betrachten.“",
+        "Die Frage ausführlich mit selbst entwickelten Prämissen erörtern",
+        "Die Bearbeitung abbrechen",
+        "Ein Alternativergebnis für beide Varianten formulieren"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Unverhältnismäßiger Aufwand für ein Detail ist ein Indiz für ein Nebengleis (S. 112). Alternativergebnisse sind ohnehin unzulässig.",
+      "hints": [
+        "Will der Aufgabensteller das wirklich?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 111
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Vom Gesetzgeber genannte Beispiele (etwa Disketten und CD-ROMs als dauerhafte Datenträger) sind abstrakte Tatbestandsvoraussetzungen und daher bei den Voraussetzungen aufzuführen.",
+      "answer": false,
+      "explanation": "Beispiele sind Erfahrungssätze zur Konkretisierung der Tatbestandselemente; sie gehören in die Subsumtion. Regelbeispiele sind nur ein Indiz (S. 113–114).",
+      "hints": [
+        "Konkretisierung statt Voraussetzung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 112
+        },
+        {
+          "doc": "PROP_1",
+          "page": 113
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Wiedergabe der Legaldefinition aus § 276 Abs. 2 BGB ist korrekt?",
+      "options": [
+        "Gemäß § 276 II BGB handelt fahrlässig, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt.",
+        "Fahrlässig handelt, wer die im Verkehr erforderliche Achtsamkeit verletzt, § 276 II BGB.",
+        "Fahrlässig handelt, wer unvorsichtig ist, § 276 II BGB.",
+        "Fahrlässig handelt, wer nicht aufpasst, obwohl er könnte, § 276 II BGB."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Legaldefinitionen sind in ihren wesentlichen Begriffen wörtlich zu verwenden; „Achtsamkeit“ führt auf einen Holzweg (S. 119).",
+      "hints": [
+        "Wortgenauigkeit."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 118
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den drei Hauptkonstellationen von Meinungsstreitigkeiten ihre Beschreibung zu.",
+      "pairs": [
+        [
+          "Stellungskrieg",
+          "Seit Langem umkämpft, Auffassungen werden kaum verändert ausgetauscht"
+        ],
+        [
+          "Neuland",
+          "Neuer Falltypus oder neuer Begriff, noch keine führende Meinung"
+        ],
+        [
+          "Aufstand",
+          "Eine bisher herrschende Meinung wird durch Gegenstimmen infrage gestellt"
+        ]
+      ],
+      "explanation": "S. 121.",
+      "hints": [
+        "Militärische Metaphern."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ein Bearbeiter wendet sich gegen das Hirntodkriterium mit dem Hinweis auf einen Fall von 2009, in dem eine Frau versehentlich für hirntot erklärt wurde. Wie bewertet der Studienbrief dieses Vorgehen?",
+      "options": [
+        "Als fehlerhaft: Ein Einzelbeispiel widerlegt keine abstrakte Definition; im Streit sind allgemeine Prämissen anzuführen",
+        "Als besonders überzeugend, weil Beispiele zu den stärksten Argumenten zählen",
+        "Als korrekt, solange der Fall durch eine Fundstelle belegt ist",
+        "Als zulässig, weil es sich um einen Stellungskrieg handelt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Durch nur einen Fall wird im Recht grundsätzlich kein Gesetz widerlegt. Das Beispiel darf aber zur Illustration dienen (Pathos, sparsam) (S. 124–125).",
+      "hints": [
+        "Definitionen gelten für eine unbestimmte Vielzahl von Fällen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 123
+        },
+        {
+          "doc": "PROP_1",
+          "page": 124
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Auslegung ist geboten, wenn der fragliche Begriff Element einer Rechtsnorm, eines Vertrages oder einer {{1}} ist und seine Bedeutung dunkel erscheint. Für Willenserklärungen ordnet § 133 BGB an, den {{2}} Willen zu erforschen; Verträge sind nach § 157 BGB so auszulegen, wie {{3}} mit Rücksicht auf die Verkehrssitte es erfordern.",
+      "blanks": [
+        [
+          "Willenserklärung",
+          "sonstigen Willenserklärung"
+        ],
+        [
+          "wirklichen"
+        ],
+        [
+          "Treu und Glauben"
+        ]
+      ],
+      "explanation": "S. 127–128; die Definition dagegen konkretisiert abstrakte Begriffe aus dem Rechtssystem heraus.",
+      "hints": [
+        "Tabelle 14.",
+        "Nicht am buchstäblichen Sinne haften."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 126
+        },
+        {
+          "doc": "PROP_1",
+          "page": 127
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Welche Subsumtion zur Grausamkeit („Grausam tötet, wer dem Opfer aus gefühlloser, unbarmherziger Gesinnung … Schmerzen oder Qualen zufügt, die über das zur Tötung erforderliche Maß hinausgehen“) ist nach dem Studienbrief richtig?",
+      "options": [
+        "Verhungern ist ein langer, langsamer Prozess mit Schmerzen und Todesangst; B hat diese Qualen, die weit über die anderer Tötungsarten hinausgehen, lange bei vollem Bewusstsein erlitten.",
+        "Indem A den B verhungern ließ, hat er ihm aus gefühlloser, unbarmherziger Gesinnung Qualen zugefügt, die über das zur Tötung erforderliche Maß hinausgehen.",
+        "A ist ein grausamer Mensch, weil er B verhungern ließ.",
+        "Fraglich ist, ob der Sachverhalt unter den Begriff der Grausamkeit fällt; A ließ B verhungern."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "B wiederholt nur die Rechtsbegriffe der Definition; C beurteilt den Täter im Urteilsstil; D setzt Obersatz und Einleitung in die Subsumtion (S. 133–134).",
+      "hints": [
+        "Tatsachen beschreiben statt Definition wiederholen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 132
+        },
+        {
+          "doc": "PROP_1",
+          "page": 133
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ist die Zuordnung „Merkmal – Sachverhalt“ evident, darf man einzelne Prüfungsschritte im Text überspringen; gedanklich müssen aber für alle Merkmale alle Prüfungsstationen absolviert werden.",
+      "answer": true,
+      "explanation": "Merke auf S. 135; die Kürzung darf nie zu einer pauschalen Gedankenführung verleiten.",
+      "hints": [
+        "Explizit vs. implizit."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 134
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Obersatz: „V könnte gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR haben.“ Welches Ergebnis ist korrekt formuliert?",
+      "options": [
+        "V hat gegen K gemäß § 433 Abs. 2 BGB einen Anspruch auf Zahlung des Kaufpreises in Höhe von 950 EUR.",
+        "Nach alledem dürfte V gegen K einen Anspruch auf Zahlung von 950 EUR haben.",
+        "V hat mit K einen wirksamen Kaufvertrag geschlossen.",
+        "Meines Erachtens hat V gegen K einen Anspruch auf 950 EUR, soweit dieser nicht verjährt ist."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Wortgleiches Gegenstück, eindeutig, objektiv. B ist nicht eindeutig, C beantwortet eine andere Frage, D ist subjektiv und eingeschränkt (S. 136–139).",
+      "hints": [
+        "Spiegeln Sie den Obersatz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 136
+        },
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Einwendung der richtigen Prüfungsstation des Anspruchsaufbaus zu.",
+      "pairs": [
+        [
+          "Sittenwidrigkeit, § 138 BGB",
+          "Anspruch entstanden? (rechtshindernd)"
+        ],
+        [
+          "Erfüllung, § 362 I BGB",
+          "Anspruch untergegangen? (rechtsvernichtend)"
+        ],
+        [
+          "Verjährung, § 214 I BGB",
+          "Anspruch durchsetzbar? (peremptorische Einrede)"
+        ],
+        [
+          "Zurückbehaltungsrecht, § 273 I BGB",
+          "Anspruch durchsetzbar? (dilatorische Einrede)"
+        ]
+      ],
+      "explanation": "Exkurs Anspruchsaufbau (S. 138).",
+      "hints": [
+        "Entstehen – Untergehen – Durchsetzen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 137
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "„Während B schlief, hat A ihn erstickt.“ Erläutern Sie, welche Merkmale im Gutachten wesentlich und welche unwesentlich sind, und woher Sie das nach dem Studienbrief wissen.",
+      "modelAnswer": "Unwesentlich ist, ob A mit B einen anderen Menschen getötet hat: Der Sachverhalt schweigt dazu, also ist vom Gewöhnlichen auszugehen – B ist ein lebender Mensch; eine biologische oder philosophische Diskussion über den Menschenbegriff wäre verfehlt. Wesentlich ist das Mordmerkmal „heimtückisch“ (§ 211 Abs. 2 StGB): Das Stichwort „B schlief“ ruft aus der Rechtsdogmatik das Problem ab, ob ein Schlafender arglos sein kann. Dort ist gründlich vorzugehen: Heimtücke definieren (bewusstes Ausnutzen der auf Arglosigkeit beruhenden Wehrlosigkeit), Arg- und Wehrlosigkeit definieren und in den Streit eintreten. Erkenntnisquellen sind der Sachverhalt und die Rechtsdogmatik; die Einschätzungsgabe gehört zum Judiz.",
+      "rubric": [
+        "„Mensch/getötet“ als unwesentlich erkannt",
+        "Begründung: Sachverhalt schweigt → Normalfall",
+        "Heimtücke als Schwerpunkt",
+        "Problem Arglosigkeit des Schlafenden",
+        "Quellen: Sachverhalt und Dogmatik"
+      ],
+      "hints": [
+        "S. 143.",
+        "Welches Stichwort lässt die Alarmglocke läuten?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 142
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "case",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "A und B geraten in Streit; im Zorn zertritt A die seltene Orchidee Paphiopedilum Parishii des B. Formulieren Sie im Gutachtenstil den ersten Obersatz, die Voraussetzungen des objektiven Tatbestands und die vollständige Prüfung des Merkmals „Sache“ (Zwischenobersatz, Definition, Subsumtion, Zwischenergebnis).",
+      "modelAnswer": "A könnte sich durch das Zertreten von Bs Orchidee wegen Sachbeschädigung gemäß § 303 Abs. 1 StGB strafbar gemacht haben. I. Objektiver Tatbestand: Dafür müsste A eine fremde Sache beschädigt oder zerstört haben. 1. Fraglich ist, ob die Orchidee eine Sache ist. Sachen sind körperliche Gegenstände. Die Orchidee ist als Pflanze ein körperlicher Gegenstand. Die Orchidee ist somit eine Sache.",
+      "rubric": [
+        "Obersatz mit Täter, Tathandlung („durch das Zertreten“/„indem“), Delikt, Norm",
+        "Konjunktiv im Obersatz",
+        "Voraussetzungen benannt (fremd, Sache, beschädigen oder zerstören)",
+        "Definition Sache im Indikativ",
+        "Subsumtion mit Sachverhaltsbezug",
+        "Zwischenergebnis spiegelt den Zwischenobersatz"
+      ],
+      "hints": [
+        "S. 103 und S. 105/140.",
+        "Kein „da“ oder „weil“ im Obersatz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 102
+        },
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 106
+        },
+        {
+          "doc": "PROP_1",
+          "page": 140
+        }
+      ]
+    }
   ],
   "case": {
     "title": "Die Goldmünze im „Casa mia“ (Anspruch des K aus § 433 Abs. 1 S. 1 BGB)",
     "facts": "K hat dem V mehrfach erzählt, er wolle Gold ankaufen. In der Gaststätte „Casa mia“ erklärt K dem V bei einem Pizzaessen am 12. Juni nochmals, am Ankauf von Gold interessiert zu sein. Darauf zeigt V dem K eine goldene Münze und fragt ihn: „Möchten Sie die kaufen?“ Auf die Gegenfrage des K, was ihn das koste, entgegnet V: „Dafür möchte ich schon 950 EUR. Ist ja auch reines Gold, 1 Unze Krügerrand.“ K antwortet sofort: „Ja, einverstanden.“ Über Nacht besinnt sich V und möchte die Münze nun doch behalten. K verlangt die Münze.",
     "question": "Kann K von V Übergabe und Übereignung der Goldmünze verlangen? (Prüfen Sie nur den Vertragsschluss; Fragen der Wirksamkeit sind nicht zu erörtern.)",
     "steps": [
-      {"part": "obersatz", "prompt": "Formulieren Sie den ersten Obersatz (Rechtsfrage + Ergebnishypothese + Rechtsnorm) und benennen Sie anschließend die Voraussetzung.",
-       "model": "K könnte gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze Krügerrand 1 Unze aus § 433 Abs. 1 S. 1 BGB haben. Dafür müssten K und V einen Kaufvertrag über die Münze geschlossen haben.",
-       "rubric": ["Wer (K) will was (Übergabe und Übereignung der Münze) von wem (V) woraus (§ 433 Abs. 1 S. 1 BGB)?", "Rechtsfolge der Norm entspricht dem Begehren (nicht § 433 Abs. 2 BGB)", "Ergebnishypothese im Konjunktiv II („könnte … haben“)", "Keine Einleitung, kein Sachverhaltsausflug, kein „da/weil“", "Voraussetzung klar benannt: Kaufvertrag"],
-       "hints": ["Prüfen Sie zuerst die W-Formel: Wer will was von wem woraus?", "Welche Absatz-/Satzangabe regelt die Pflicht des Verkäufers, die Sache zu übergeben und zu übereignen?", "Nur ein hypothetisches Mittel verwenden – „könnte“ genügt."]},
-      {"part": "definition", "prompt": "Nennen Sie die Prämisse für das Zustandekommen des Kaufvertrags und definieren Sie das hier entscheidende Merkmal „Angebot“ (Indikativ!).",
-       "model": "Ein Kaufvertrag kommt, wie jeder Vertrag, durch zwei übereinstimmende Willenserklärungen – Angebot und Annahme – zustande. Fraglich ist zunächst, ob V ein Angebot abgegeben hat. Ein Angebot ist eine auf einen Vertragsschluss gerichtete empfangsbedürftige Willenserklärung. Es muss die essentialia negotii enthalten, also die Vertragspartner, die Leistung und die Gegenleistung; indiziell für ein vollständiges Angebot ist, dass es mit einem einfachen „Ja“ angenommen werden kann. Die Annahme ist das Einverständnis des anderen mit dem Angebot, von dem das Zustandekommen des Vertrags dann nur noch abhängt.",
-       "rubric": ["Vorprämisse: Vertrag durch Angebot und Annahme", "Weiterer Obersatz zum Angebot („Fraglich ist, ob …“) ohne Normnennung", "Definition Angebot im Indikativ", "essentialia negotii: Vertragspartner, Leistung, Gegenleistung", "Kriterium einfaches „Ja“", "Annahme als Einverständnis mit dem Angebot"],
-       "hints": ["Warum prüfen Sie gerade das Angebot? – Das ist die Vorprämisse.", "Die Definition ist die Nachprämisse: Sie liefert die Prüfmerkmale.", "Definitionen stehen im Indikativ Präsens."]},
-      {"part": "subsumtion", "prompt": "Subsumieren Sie: Geben Sie das Sachverhaltselement kurz, neutral und merkmalsbezogen wieder und ordnen Sie es den Merkmalen zu. Prüfen Sie danach kurz die Annahme.",
-       "model": "Nachdem K zuvor ein Kaufinteresse bekundet hatte, hat V ihn gefragt, ob er die Goldmünze Krügerrand 1 Unze für 950 EUR kaufen wolle. Dieser Äußerung waren die Vertragspartner (V und K), die Leistung (Verkauf der Münze „Krügerrand 1 Unze“) und die Gegenleistung (950 EUR) zu entnehmen. Sie war auf einen Vertragsschluss gerichtet und konnte mit einem einfachen „Ja“ angenommen werden. Somit hat V ein Angebot abgegeben. K hat darauf „Ja, einverstanden“ erklärt und damit sein Einverständnis mit genau diesem Angebot erklärt; er hat es angenommen. Angebot und Annahme stimmen überein.",
-       "rubric": ["Sachverhalt nicht wörtlich abgeschrieben, nicht zu viel (Pizza), nicht zu wenig (Kaufpreis!)", "Ort/Zeit nur, wenn zur Unterscheidung nötig", "Begründete Zuordnung zu jedem Merkmal (Partner, Leistung, Gegenleistung, einfaches „Ja“)", "Zwischenergebnis Angebot", "Annahme kurz und evident subsumiert", "Indikativ in der Subsumtion"],
-       "hints": ["Welche Teile des Sachverhalts brauchen Sie wirklich? Tabelle 17 zeigt typische Fehler.", "Ordnen Sie jedes Merkmal des Definiens einem Sachverhaltselement zu.", "Bei evidenten Merkmalen (Annahme durch „Ja“) dürfen Sie kürzer werden."]},
-      {"part": "ergebnis", "prompt": "Formulieren Sie Zwischenergebnis und Endergebnis.",
-       "model": "K und V haben somit einen Kaufvertrag über die Goldmünze geschlossen. Dass V es sich über Nacht anders überlegt hat, ändert daran nichts. Damit hat K gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze Krügerrand 1 Unze aus § 433 Abs. 1 S. 1 BGB.",
-       "rubric": ["Zwischenergebnis Kaufvertrag", "Sinneswandel des V als Sachverhaltshinweis verwertet", "Endergebnis wortgleiches Gegenstück des Obersatzes", "Indikativ, eindeutig, ohne „Ja/Nein“ und ohne „meines Erachtens“"],
-       "hints": ["Vergleichen Sie Ihr Ergebnis Wort für Wort mit dem Obersatz.", "Kein „dürfte“, kein „m. E.“."]}
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den ersten Obersatz (Rechtsfrage + Ergebnishypothese + Rechtsnorm) und benennen Sie anschließend die Voraussetzung.",
+        "model": "K könnte gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze Krügerrand 1 Unze aus § 433 Abs. 1 S. 1 BGB haben. Dafür müssten K und V einen Kaufvertrag über die Münze geschlossen haben.",
+        "rubric": [
+          "Wer (K) will was (Übergabe und Übereignung der Münze) von wem (V) woraus (§ 433 Abs. 1 S. 1 BGB)?",
+          "Rechtsfolge der Norm entspricht dem Begehren (nicht § 433 Abs. 2 BGB)",
+          "Ergebnishypothese im Konjunktiv II („könnte … haben“)",
+          "Keine Einleitung, kein Sachverhaltsausflug, kein „da/weil“",
+          "Voraussetzung klar benannt: Kaufvertrag"
+        ],
+        "hints": [
+          "Prüfen Sie zuerst die W-Formel: Wer will was von wem woraus?",
+          "Welche Absatz-/Satzangabe regelt die Pflicht des Verkäufers, die Sache zu übergeben und zu übereignen?",
+          "Nur ein hypothetisches Mittel verwenden – „könnte“ genügt."
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Nennen Sie die Prämisse für das Zustandekommen des Kaufvertrags und definieren Sie das hier entscheidende Merkmal „Angebot“ (Indikativ!).",
+        "model": "Ein Kaufvertrag kommt, wie jeder Vertrag, durch zwei übereinstimmende Willenserklärungen – Angebot und Annahme – zustande. Fraglich ist zunächst, ob V ein Angebot abgegeben hat. Ein Angebot ist eine auf einen Vertragsschluss gerichtete empfangsbedürftige Willenserklärung. Es muss die essentialia negotii enthalten, also die Vertragspartner, die Leistung und die Gegenleistung; indiziell für ein vollständiges Angebot ist, dass es mit einem einfachen „Ja“ angenommen werden kann. Die Annahme ist das Einverständnis des anderen mit dem Angebot, von dem das Zustandekommen des Vertrags dann nur noch abhängt.",
+        "rubric": [
+          "Vorprämisse: Vertrag durch Angebot und Annahme",
+          "Weiterer Obersatz zum Angebot („Fraglich ist, ob …“) ohne Normnennung",
+          "Definition Angebot im Indikativ",
+          "essentialia negotii: Vertragspartner, Leistung, Gegenleistung",
+          "Kriterium einfaches „Ja“",
+          "Annahme als Einverständnis mit dem Angebot"
+        ],
+        "hints": [
+          "Warum prüfen Sie gerade das Angebot? – Das ist die Vorprämisse.",
+          "Die Definition ist die Nachprämisse: Sie liefert die Prüfmerkmale.",
+          "Definitionen stehen im Indikativ Präsens."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie: Geben Sie das Sachverhaltselement kurz, neutral und merkmalsbezogen wieder und ordnen Sie es den Merkmalen zu. Prüfen Sie danach kurz die Annahme.",
+        "model": "Nachdem K zuvor ein Kaufinteresse bekundet hatte, hat V ihn gefragt, ob er die Goldmünze Krügerrand 1 Unze für 950 EUR kaufen wolle. Dieser Äußerung waren die Vertragspartner (V und K), die Leistung (Verkauf der Münze „Krügerrand 1 Unze“) und die Gegenleistung (950 EUR) zu entnehmen. Sie war auf einen Vertragsschluss gerichtet und konnte mit einem einfachen „Ja“ angenommen werden. Somit hat V ein Angebot abgegeben. K hat darauf „Ja, einverstanden“ erklärt und damit sein Einverständnis mit genau diesem Angebot erklärt; er hat es angenommen. Angebot und Annahme stimmen überein.",
+        "rubric": [
+          "Sachverhalt nicht wörtlich abgeschrieben, nicht zu viel (Pizza), nicht zu wenig (Kaufpreis!)",
+          "Ort/Zeit nur, wenn zur Unterscheidung nötig",
+          "Begründete Zuordnung zu jedem Merkmal (Partner, Leistung, Gegenleistung, einfaches „Ja“)",
+          "Zwischenergebnis Angebot",
+          "Annahme kurz und evident subsumiert",
+          "Indikativ in der Subsumtion"
+        ],
+        "hints": [
+          "Welche Teile des Sachverhalts brauchen Sie wirklich? Tabelle 17 zeigt typische Fehler.",
+          "Ordnen Sie jedes Merkmal des Definiens einem Sachverhaltselement zu.",
+          "Bei evidenten Merkmalen (Annahme durch „Ja“) dürfen Sie kürzer werden."
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie Zwischenergebnis und Endergebnis.",
+        "model": "K und V haben somit einen Kaufvertrag über die Goldmünze geschlossen. Dass V es sich über Nacht anders überlegt hat, ändert daran nichts. Damit hat K gegen V einen Anspruch auf Übergabe und Übereignung der Goldmünze Krügerrand 1 Unze aus § 433 Abs. 1 S. 1 BGB.",
+        "rubric": [
+          "Zwischenergebnis Kaufvertrag",
+          "Sinneswandel des V als Sachverhaltshinweis verwertet",
+          "Endergebnis wortgleiches Gegenstück des Obersatzes",
+          "Indikativ, eindeutig, ohne „Ja/Nein“ und ohne „meines Erachtens“"
+        ],
+        "hints": [
+          "Vergleichen Sie Ihr Ergebnis Wort für Wort mit dem Obersatz.",
+          "Kein „dürfte“, kein „m. E.“."
+        ]
+      }
     ],
-    "src": [{"doc":"PROP_1","page":100},{"doc":"PROP_1","page":101},{"doc":"PROP_1","page":105},{"doc":"PROP_1","page":129},{"doc":"PROP_1","page":130},{"doc":"PROP_1","page":131},{"doc":"PROP_1","page":132},{"doc":"PROP_1","page":135}]
+    "src": [
+      {
+        "doc": "PROP_1",
+        "page": 100
+      },
+      {
+        "doc": "PROP_1",
+        "page": 101
+      },
+      {
+        "doc": "PROP_1",
+        "page": 105
+      },
+      {
+        "doc": "PROP_1",
+        "page": 129
+      },
+      {
+        "doc": "PROP_1",
+        "page": 130
+      },
+      {
+        "doc": "PROP_1",
+        "page": 131
+      },
+      {
+        "doc": "PROP_1",
+        "page": 132
+      },
+      {
+        "doc": "PROP_1",
+        "page": 135
+      }
+    ]
   },
   "flashcards": [
-    {"front": "Zweck des Rechtsgutachtens?", "back": "Sichten und Prüfen der Rechtsgründe, die für oder gegen eine angenommene Falllösung sprechen – im Konditionalstil.", "src": [{"doc":"PROP_1","page":81}]},
-    {"front": "Gutachtenstil vs. Urteilsstil?", "back": "Gutachten: Ob? – Hypothese, Voraussetzungen, Prüfung, Ergebnis am Ende. Urteil: Ergebnis zuerst, dann die tragenden Gründe.", "src": [{"doc":"PROP_1","page":84}]},
-    {"front": "Ordnungsregeln beim Suchen mit System?", "back": "Keine Fäden fallen lassen; nur Begründetes feststellen (keine Verweise nach vorn); beim gewählten Grund bleiben; jeder weitere Grund unter neuem gleichrangigem Punkt.", "src": [{"doc":"PROP_1","page":85}]},
-    {"front": "Fünf Schritte des Gutachtens?", "back": "Obersatz – Voraussetzung – Definition – Subsumtion – Ergebnis.", "src": [{"doc":"PROP_1","page":94}]},
-    {"front": "Drei Elemente des ersten Obersatzes?", "back": "Rechtsfrage, Ergebnishypothese, Rechtsnorm.", "src": [{"doc":"PROP_1","page":95}]},
-    {"front": "W-Formel (Zivilrecht)?", "back": "Wer will was von wem woraus?", "src": [{"doc":"PROP_1","page":99}]},
-    {"front": "Obersatz im Strafrecht – vier Gesichtspunkte?", "back": "Täter, Tathandlung (mit „indem“), Delikt, Norm (genau zitiert).", "src": [{"doc":"PROP_1","page":102}]},
-    {"front": "Konjunktiv oder Indikativ?", "back": "Obersatz traditionell Konjunktiv II (könnte, müsste); Nennung und Definition der Voraussetzungen, Auslegung und Subsumtion im Indikativ.", "src": [{"doc":"PROP_1","page":97},{"doc":"PROP_1","page":114}]},
-    {"front": "Vorprämisse und Nachprämisse?", "back": "Vorprämisse: warum diese Frage jetzt? Nachprämisse: woher die Prüfmerkmale (meist Definition)?", "src": [{"doc":"PROP_1","page":104}]},
-    {"front": "Wie sind Legaldefinitionen zu verwenden?", "back": "Vorrangig und in ihren wesentlichen Begriffen wörtlich („Sorgfalt“, nicht „Achtsamkeit“).", "src": [{"doc":"PROP_1","page":118}]},
-    {"front": "Wann muss ein Meinungsstreit entschieden werden?", "back": "Nur wenn die Meinungen im konkreten Fall zu unterschiedlichen Ergebnissen führen.", "src": [{"doc":"PROP_1","page":121}]},
-    {"front": "Definition vs. Auslegung?", "back": "Definition: alle Begriffe, zu abstrakt, konkretisieren, Quelle Rechtssystem. Auslegung: Norm/Vertrag/WE, unverständlich, verstehen, Quelle der Text.", "src": [{"doc":"PROP_1","page":126}]},
-    {"front": "Wo wird subsumiert?", "back": "Praktisch unter die Definitions- bzw. Auslegungsmerkmale der jeweils tiefsten Gliederungsebene.", "src": [{"doc":"PROP_1","page":130}]},
-    {"front": "Anforderungen an das Ergebnis?", "back": "Wortgleiches Gegenstück des Obersatzes, eindeutig, ohne „Ja/Nein“, objektiv (kein „m. E.“); Einschränkungen mit neuem Obersatz.", "src": [{"doc":"PROP_1","page":135},{"doc":"PROP_1","page":136},{"doc":"PROP_1","page":138}]},
-    {"front": "Anspruchsaufbau?", "back": "I. entstanden (rechtshindernde Einwendungen) – II. untergegangen (rechtsvernichtende) – III. durchsetzbar (Einreden).", "src": [{"doc":"PROP_1","page":137}]}
+    {
+      "front": "Zweck des Rechtsgutachtens?",
+      "back": "Sichten und Prüfen der Rechtsgründe, die für oder gegen eine angenommene Falllösung sprechen – im Konditionalstil.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "front": "Gutachtenstil vs. Urteilsstil?",
+      "back": "Gutachten: Ob? – Hypothese, Voraussetzungen, Prüfung, Ergebnis am Ende. Urteil: Ergebnis zuerst, dann die tragenden Gründe.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "front": "Ordnungsregeln beim Suchen mit System?",
+      "back": "Keine Fäden fallen lassen; nur Begründetes feststellen (keine Verweise nach vorn); beim gewählten Grund bleiben; jeder weitere Grund unter neuem gleichrangigem Punkt.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 85
+        }
+      ]
+    },
+    {
+      "front": "Fünf Schritte des Gutachtens?",
+      "back": "Obersatz – Voraussetzung – Definition – Subsumtion – Ergebnis.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "front": "Drei Elemente des ersten Obersatzes?",
+      "back": "Rechtsfrage, Ergebnishypothese, Rechtsnorm.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 95
+        }
+      ]
+    },
+    {
+      "front": "W-Formel (Zivilrecht)?",
+      "back": "Wer will was von wem woraus?",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 99
+        }
+      ]
+    },
+    {
+      "front": "Obersatz im Strafrecht – vier Gesichtspunkte?",
+      "back": "Täter, Tathandlung (mit „indem“), Delikt, Norm (genau zitiert).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 102
+        }
+      ]
+    },
+    {
+      "front": "Konjunktiv oder Indikativ?",
+      "back": "Obersatz traditionell Konjunktiv II (könnte, müsste); Nennung und Definition der Voraussetzungen, Auslegung und Subsumtion im Indikativ.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 97
+        },
+        {
+          "doc": "PROP_1",
+          "page": 114
+        }
+      ]
+    },
+    {
+      "front": "Vorprämisse und Nachprämisse?",
+      "back": "Vorprämisse: warum diese Frage jetzt? Nachprämisse: woher die Prüfmerkmale (meist Definition)?",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        }
+      ]
+    },
+    {
+      "front": "Wie sind Legaldefinitionen zu verwenden?",
+      "back": "Vorrangig und in ihren wesentlichen Begriffen wörtlich („Sorgfalt“, nicht „Achtsamkeit“).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 118
+        }
+      ]
+    },
+    {
+      "front": "Wann muss ein Meinungsstreit entschieden werden?",
+      "back": "Nur wenn die Meinungen im konkreten Fall zu unterschiedlichen Ergebnissen führen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "front": "Definition vs. Auslegung?",
+      "back": "Definition: alle Begriffe, zu abstrakt, konkretisieren, Quelle Rechtssystem. Auslegung: Norm/Vertrag/WE, unverständlich, verstehen, Quelle der Text.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 126
+        }
+      ]
+    },
+    {
+      "front": "Wo wird subsumiert?",
+      "back": "Praktisch unter die Definitions- bzw. Auslegungsmerkmale der jeweils tiefsten Gliederungsebene.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 130
+        }
+      ]
+    },
+    {
+      "front": "Anforderungen an das Ergebnis?",
+      "back": "Wortgleiches Gegenstück des Obersatzes, eindeutig, ohne „Ja/Nein“, objektiv (kein „m. E.“); Einschränkungen mit neuem Obersatz.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 136
+        },
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
+    },
+    {
+      "front": "Anspruchsaufbau?",
+      "back": "I. entstanden (rechtshindernde Einwendungen) – II. untergegangen (rechtsvernichtende) – III. durchsetzbar (Einreden).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 137
+        }
+      ]
+    }
   ]
 }

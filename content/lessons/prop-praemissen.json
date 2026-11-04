@@ -1,0 +1,1589 @@
+{
+  "id": "prop-praemissen",
+  "moduleId": "55100",
+  "ke": null,
+  "topicIds": [
+    "prop-f",
+    "prop-g"
+  ],
+  "title": "Prämissen finden und Hinweise zu Seminar- und Bachelorarbeiten",
+  "estMinutes": 180,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Was ist eine Prämisse?",
+      "short": "Eine Prämisse ist eine Aussage P, die eine Behauptung B stützt bzw. aus der B folgt. Im Justizsyllogismus ist die erste Prämisse die Normprämisse, die zweite die Fallprämisse. Juristen vermeiden absolute Wertungen („richtig/falsch“) und sprechen von „vertretbar“ oder „überzeugend“; ihre Prämissen sind regelmäßig anerkannt. Am überzeugendsten sind einleuchtende Denkgesetze (Satz vom Widerspruch, tertium non datur, Satz vom zureichenden Grund); Schlüsse a minori ad maius und a maiori ad minus taugen nur begrenzt. Besonders prämissentauglich sind Aussagen anerkannter Instanzen – an erster Stelle des demokratisch legitimierten Gesetzgebers.",
+      "long": "## Begriff (S. 195–196)\n\nJuristisches Arbeiten besteht zu einem wesentlichen Teil aus dem **Auffinden, Diskutieren und Auswählen plausibler Prämissen**. In der Ausbildungsliteratur spricht man meist spezifischer von „Tatbestandsvoraussetzungen“, „Meinungen“ oder „Definitionen“; der Prämissenbegriff ist umfassender und topisch (nicht rein logisch) verstanden.\n\n**Prämisse = eine Aussage P, die eine andere Aussage – die Behauptung B – stützt bzw. aus der B folgt.** Beispiele: Eine strafrechtliche Verurteilung (B) muss auf ein passendes Gesetz (P) gestützt werden; ein Kaufpreisanspruch (B) folgt aus Gesetz (P1) und Vertrag (P2); die Entscheidung für eine Auslegung oder für die h. M. stützt sich auf Gründe P1–P3.\n\n**Norm- und Fallprämisse (S. 196):** Im Justizsyllogismus stellt die erste Prämisse die abstrakte Rechtsregel auf (**Normprämisse**), die zweite stellt fest, dass der Sachverhalt den Tatbestand erfüllt (**Fallprämisse**, gefolgert aus dem Nebenschema). Kapitel F behandelt das Finden der **Normprämisse**.\n\n## Keine absoluten Wertungen (S. 196)\n\nJuristen bemühen sich wie Logiker um Klarheit, wissen aber, dass dies nur begrenzt gelingt. Im offiziellen Text vermeiden sie „richtig/falsch“ und sprechen von **„vertretbar“, „überzeugend“, „kaum noch vertretbar“, äußerstenfalls „unvertretbar“**. Lösungen sollen Anerkennung finden; daher sind auch die Prämissen regelmäßig **anerkannt**.\n\n## Einleuchtende Prämissen (S. 197)\n\n- **Satz vom Widerspruch:** Man kann derselben Aussage nicht zustimmen und sie zugleich verneinen – so urteilt der BGH, ein Richter, der die Unvertretbarkeit seiner Entscheidung kennt oder billigend in Kauf nimmt, könne nicht zugleich von ihrer Richtigkeit „überzeugt“ sein (BGHSt 59, 144).\n- **Satz vom ausgeschlossenen Dritten (tertium non datur):** Entweder der Anspruch besteht oder er besteht nicht.\n- **Satz vom zureichenden Grund:** im Recht das **Begründungsgebot**; ein Verstoß ist der **Zirkelschluss (petitio principii)**, wenn Behauptung und Begründung identisch sind oder die Begründung die Behauptung voraussetzt.\n\nEinleuchtende Prämissen gelten nicht unumschränkt: **a minori ad maius** (wenn 120 km/h zu schnell sind, dann erst recht 160 km/h) – aber wer eine Goldmünze schuldet, schuldet nicht „erst recht“ zwei; **a maiori ad minus** (wer Mieter ist, darf sich auch in der Wohnung aufhalten) – aber Teilleistungen sind nach § 266 BGB gerade nicht erlaubt.\n\n## Anerkannte Instanzen (S. 197–198)\n\nPrämissentauglich ist vor allem, was von einer **anerkannten Instanz** stammt: an erster Stelle der **legitimierte Normgeber**; ferner Entscheidungen, Leitsätze, tragende Gründe, manchmal **obiter dicta** (nicht tragende, „bei Gelegenheit“ geäußerte Rechtsansichten) oberster Gerichte, hergebrachte Lehrsätze, autorisierte Stellen, Naturwissenschaften, Erfahrungswissen. Wegen der **Rechtssicherheit** (Vorhersehbarkeit) müssen Prämissen übersichtlich geordnet und systematisch gesucht werden – in Katalogen mit Ober- und Unterbegriffen wie an **Sammelstellen**. Hinzu kommt die **öffentliche Akzeptanz**; die Sachgerechtigkeit nie aus dem Auge verlieren. In der Rhetorik heißen solche allgemein überzeugenden Prämissen **Endoxa**.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 194
+        },
+        {
+          "doc": "PROP_1",
+          "page": 195
+        },
+        {
+          "doc": "PROP_1",
+          "page": 196
+        },
+        {
+          "doc": "PROP_1",
+          "page": 197
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Formen juristischer (Norm-)Prämissen",
+      "short": "Der wichtigste, aber nicht einzige Fundus juristischer Prämissen ist „das Gesetz“ (hier: alle im förmlichen Verfahren erlassenen Rechtsnormen); es liefert meist die Ausgangsprämisse des Obersatzes, aus der die Tatbestandsvoraussetzungen entnommen werden. Hinzu kommen Definitionen (als juristische Lehrsätze überwiegend von Rechtsprechung und Lehre entwickelt), Leitsätze gerichtlicher Entscheidungen, durch Auslegung gewonnene Prämissen, Lehrsätze, Gewohnheitsrecht und Erfahrungssätze aus dem Alltag.",
+      "long": "## Das „Gesetz“ (S. 198)\n\n„Gesetz“ ist streng juristisch unpräzise; hier meint es vereinfachend alle **im förmlichen Gesetzgebungsverfahren** erlassenen Rechtsnormen. Der Fundus juristischer Prämissen erschöpft sich aber **nicht** in Paragrafen; aus dem Gesetz entlehnte Prämissen sind nur – wenn auch im Rechtsstaat der wichtigste – Teil. Im Justizsyllogismus liefern sie meist die **Ausgangsprämisse des Obersatzes**: „A könnte einen Anspruch auf Zahlung des Kaufpreises in Höhe von 100 EUR gemäß § 433 Abs. 2 BGB gegen B haben.“\n\n## Tatbestandsvoraussetzungen als zu prüfende Prämissen (S. 199)\n\nAus der zitierten Vorschrift entnimmt man die Tatbestandsvoraussetzungen: „Dafür müsste zwischen A und B ein Kaufvertrag zustande gekommen sein.“ – oder: „A könnte sich gemäß § 303 Abs. 1 StGB wegen Sachbeschädigung strafbar gemacht haben, indem er den **Apfelbaum** im Garten des B fällte. Dazu müsste es sich bei dem Apfelbaum um eine Sache handeln [Definition, Subsumtion, Zwischenergebnis]. Weiterhin müsste der Baum für A fremd gewesen sein …“\n\n## Weitere Prämissentypen (S. 199–200)\n\n- **Definitionen** – unter die Oberkategorie „juristische Lehrsätze“ (ausgenommen Legaldefinitionen), überwiegend von Rechtsprechung und Lehre entwickelt; sie folgen zwangsläufig aus den abstrakten, teils bewusst weit gefassten Tatbestandsmerkmalen.\n- **Leitsätze** gerichtlicher Entscheidungen,\n- im Rahmen der **Gesetzesauslegung** gewonnene Prämissen,\n- **juristische Lehrsätze**, **Gewohnheitsrecht**,\n- **Lehr- und Erfahrungssätze aus dem nichtjuristischen Alltag** (z. B. „Verstoß gegen Grundgedanken der Gerechtigkeit und Menschlichkeit“, BGHSt 39, 1 ff., oder „Zumutbarkeit“, BVerfG 102, 1 ff.).\n\nDie Liste ist **nicht abschließend**.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 197
+        },
+        {
+          "doc": "PROP_1",
+          "page": 198
+        },
+        {
+          "doc": "PROP_1",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Prämissensuche und Topoi",
+      "short": "Effizient findet man Prämissen nur durch eine über Jahre trainierte systematische Suche, ein Grundverständnis typischer Argumentationsmuster und das Auswendiglernen regelmäßig gebrauchter Prämissen bzw. ihrer „Sammelstellen“. Eine solche Sammelstelle heißt in der Rhetorik Topos (Plural: Topoi). Ein formaler Topos wie der Gleichbehandlungsgrundsatz versammelt konkretere materiale Topoi (Art. 3 Abs. 1, Art. 3 Abs. 3 S. 2, Art. 38 Abs. 1 GG, § 3 Abs. 1 WpÜG, AGG); er hilft beim Auffinden und ist zugleich ein Kreativitätsschema.",
+      "long": "## Effiziente Suche (S. 200)\n\nIn der Klausur bleiben wenige Stunden, in der Gerichtsverhandlung oft nur Sekunden. Eine vertretbare Lösung gelingt nur mit\n- einer über Jahre **antrainierten systematischen Vorgehensweise**,\n- einem **Grundverständnis typischer juristischer Argumentationsmuster**,\n- dem **Auswendiglernen** regelmäßig gebrauchter Prämissen bzw. der Verinnerlichung der **„Sammelstellen“**.\n\nDiese **Prämissensammelstellen** sind Dreh- und Angelpunkt des Studiums und der Praxis. Juristen wählen Prämissen nicht willkürlich, sondern finden sie auf **nachvollziehbaren, strukturierten Wegen**.\n\n## Topos (S. 200–201)\n\nIn der Rhetorik heißt eine Sammelstelle **Topos** (Ort; Plural **Topoi**). Beispiel: Der **Gleichbehandlungsgrundsatz** („Gleiches muss gleich und Ungleiches ungleich behandelt werden“) ist ein **formaler Topos**; unter ihm finden sich **materiale Topoi**, z. B.:\n- „Alle Menschen sind vor dem Gesetz gleich.“ (Art. 3 Abs. 1 GG)\n- „Niemand darf wegen seiner Behinderung benachteiligt werden.“ (Art. 3 Abs. 3 S. 2 GG)\n- gleiche Wahl der Abgeordneten (Art. 38 Abs. 1 GG)\n- Gleichbehandlung der Inhaber von Wertpapieren derselben Gattung (§ 3 Abs. 1 WpÜG)\n- Benachteiligungsverbot bei sozialen Vergünstigungen (§§ 1 i. V. m. 2 Abs. 1 Nr. 6 AGG)\n\nDer formale Topos hilft, die Prämisse **aufzufinden oder einzuordnen**, und ist ein **Kreativitätsschema**: Kennt man die konkrete Prämisse nicht, kann man durch Vergleich mit den gesammelten Prämissen nachvollziehbar eine passende für den neuen Fall gewinnen (S. 201).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        },
+        {
+          "doc": "PROP_1",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Sammelstelle Gesetz: Inhaltsverzeichnis, Strukturmerkmale, Gesetzessammlungen",
+      "short": "„Ein Blick ins Gesetz erleichtert die Rechtsfindung“: Ausgangspunkt der Prämissensuche ist der Gesetzestext. Niemand muss das BGB auswendig kennen, wohl aber wiederkehrende Strukturmerkmale. Das Inhaltsverzeichnis hilft (Fahrradkauf → § 433 Abs. 2 BGB), stößt aber an Grenzen (GbR §§ 705 ff. BGB vs. OHG §§ 105 ff. HGB); zudem ist die aktuelle Lesart einer Norm zu kennen (objektive Sicht des BVerfG; Bedeutungswandel von „Gewalt“). Weitere Strukturen: formelles/materielles Recht, Allgemeiner/Besonderer Teil („vor die Klammer“), Regelungszusammenhänge („Fünf vor, fünf zurück“: § 108 → § 110 BGB) und Stichwortverzeichnisse von Gesetzessammlungen (Schönfelder, Sartorius).",
+      "long": "## Ausgangspunkt Gesetzestext (S. 201)\n\nIm Ideal- und wohl Regelfall beginnt die Prämissensuche beim **Gesetzestext**. Gesetze folgen keinem logischen System, haben aber **wiederkehrende Strukturmerkmale**. Die über 2000 Paragrafen des BGB kennt niemand auswendig – Auswendiglernen ganzer Gesetzbücher gehört nicht zum Tätigkeitsprofil; die **Verinnerlichung der Strukturen** dagegen ist unverzichtbar. Das BGB gehört zum Zivilrecht (Rechtsbeziehungen gleichgeordneter Personen; anders das Öffentliche Recht mit Über-/Unterordnung).\n\n## Das Inhaltsverzeichnis (S. 202–204)\n\n*Beispiel:* A verkauft B sein Fahrrad für 100 EUR → 2. Buch, Abschnitt 8, Titel 1 „Kauf und Tausch“ → **§ 433 Abs. 2 BGB**. *Abwandlung:* B kauft für das mit C betriebene Geschäft „BC Bikes“; A will von C Zahlung. In Betracht kommen die **GbR** (§§ 705 ff. BGB: Zusammenschluss zur Förderung eines gemeinsamen Zwecks) oder die **OHG** (§§ 105 ff. **HGB**: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma) – über das Inhaltsverzeichnis des BGB kaum zu finden. Gesetze regeln Inhalte oft nur **fragmentarisch** nach vom Gesetzgeber gewählten Oberbegriffen (Topoi).\n\n**Erkenntnisse (S. 204):** Gesetze sind (teil-)strukturiert, die Struktur erfasst eine Materie aber nicht abschließend; ohne Vorwissen hilft sie nur eingeschränkt. Deshalb Gesetze regelmäßig zur Hand nehmen, jede Norm aus Fallösungen und Lehrbüchern nachschlagen, Inhaltsverzeichnisse ansehen.\n\n**Aktuelle Lesart (S. 204–205):** Das BVerfG vertritt die **objektive Sicht** (BVerfGE 1, 299, 312): maßgeblich ist der objektivierte Wille des Gesetzgebers aus Wortlaut und Sinnzusammenhang. Zum Verständnis eines Gesetzes gehört seine **jeweils aktuelle Lesart**. *Beispiel „Gewalt“* (in 27 Paragraphen des StGB, nicht einheitlich): zunächst Anwendung körperlicher Kraft, dann körperliche Zwangswirkung beim Opfer, schließlich auch psychischer Zwang („Vergeistigung“). Man muss das gängige **Interpretationsspektrum** kennen.\n\n## Weitere Strukturmerkmale (S. 205–207)\n\n- **Materielles und formelles Recht:** § 433 Abs. 2 BGB regelt, *ob* A Zahlung verlangen kann; die ZPO, *wie* er den Anspruch gerichtlich durchsetzt (z. B. §§ 12, 13, 253 ZPO).\n- **Allgemeiner und Besonderer Teil:** Der AT enthält, was man „**vor die Klammer ziehen**“ kann – der Vertragsschluss durch Angebot und Annahme (§§ 145 ff. BGB) gilt für alle Vertragstypen; die Abnahmepflicht (§ 640 BGB) nur für den Werkvertrag. Teils stehen ganze Gesetze für den AT (VwVfG, VwVG).\n- **Regelungszusammenhänge:** Zusammengehörende Normen stehen meist beieinander → Faustregel **„Fünf vor, fünf zurück“**. *Beispiel:* Wer § 108 BGB für den Kaugummikauf des zehnjährigen A gefunden hat, stößt zwei Vorschriften weiter auf die Ausnahme des **§ 110 BGB**. Keine Gewähr, aber hohe „Trefferquote“.\n- **Gesetzessammlungen (S. 207):** „Schönfelder“ (Zivil- und Strafrecht) und „Sartorius“ (Öffentliches Recht). Ihr **Stichwortverzeichnis** („Idiotenwiese“) listet auch Begriffe, die nicht im Gesetz stehen: „Taschengeld“ → § 110 BGB („Taschengeldparagraf“).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 200
+        },
+        {
+          "doc": "PROP_1",
+          "page": 201
+        },
+        {
+          "doc": "PROP_1",
+          "page": 202
+        },
+        {
+          "doc": "PROP_1",
+          "page": 203
+        },
+        {
+          "doc": "PROP_1",
+          "page": 204
+        },
+        {
+          "doc": "PROP_1",
+          "page": 205
+        },
+        {
+          "doc": "PROP_1",
+          "page": 206
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Sammelstelle Lehre und Rechtsprechung",
+      "short": "Wegen Art. 20 Abs. 3 GG müssen alle Prämissen unmittelbar oder mittelbar auf Gesetze zurückführbar sein; praktisch greift man aber auf von Lehre und Rechtsprechung erarbeitete Prämissen zurück. Dazu gehören ungeschriebene Tatbestandsmerkmale (Vermögensverfügung beim Betrug zur Abgrenzung vom Diebstahl), Definitionen (in der Klausur meist vorher zu kennen) und Sätze der Rechtsprechung: Urteile wirken grundsätzlich nur inter partes (Ausnahme § 31 Abs. 2 BVerfGG), gefestigte höchstrichterliche Rechtsprechung entfaltet aber faktische Bindungswirkung. Studierende sollen sie dennoch kritisch betrachten. Auch Ergebnisse richterlicher Rechtsfortbildung (Analogie, teleologische Extension/Reduktion) sind Prämissen.",
+      "long": "## Prämissen „außerhalb des Gesetzes“ (S. 207)\n\nWegen der Bindung an „Gesetz und Recht“ (**Art. 20 Abs. 3 GG**) müssen alle Prämissen **unmittelbar oder mittelbar** auf Gesetze zurückzuführen sein; ob es gültige Prämissen außerhalb des Gesetzes gibt, ist hoch umstritten. Sicher ist: Komplexe Fälle lassen sich selten allein durch unbefangenes Lesen lösen.\n\n## a) Ungeschriebene Tatbestandsmerkmale (S. 207–208)\n\n§ 263 Abs. 1 StGB: Mit der Wenn-Dann-Methode erhält man Vorspiegelung falscher Tatsachen – dadurch Irrtum – dadurch Vermögensschaden – Bereicherungsabsicht. Die ganz h. M. verlangt zusätzlich die **Vermögensverfügung**; nur so lässt sich der Betrug vom **Diebstahl abgrenzen**. Beim Lesen findet man das kaum; man ist sich aber einig, dass es sich aus der **Gesetzessystematik** ergibt.\n\n## b) Definitionen (S. 208)\n\nPraktisch wichtigstes Beispiel. Methodisch „entnimmt“ man sie durch Auslegung dem Gesetz, faktisch muss man sie in der Klausur **vorher kennen**: Für eine umfassende Auslegung fehlt die Zeit, und der Korrektor erwartet die anerkannten Definitionen. Eine **eigene Definition** würde als Zeichen **unzureichender Vorbereitung** gewertet.\n\n## c) Sätze der Rechtsprechung (S. 208–210)\n\n- Gerichtsentscheidungen wirken grundsätzlich nur **inter partes** (Gewaltenteilung); Ausnahme: Entscheidungen des BVerfG in Normkontrollverfahren und über Verfassungsbeschwerden (**§ 31 Abs. 2 BVerfGG**).\n- Gefestigte **höchstrichterliche** Rechtsprechung (BGH, BAG, BSG …) entfaltet **faktische Bindungswirkung**, weil abweichende Urteile wahrscheinlich aufgehoben würden; dennoch weichen untere Gerichte manchmal ab und stoßen Änderungen an.\n- Im Studium unterliegen Sie nicht dem „**Zwang des Faktischen**“: Höchstrichterliche Rechtsprechung ist ebenso **kritisch** zu betrachten wie die Lehre.\n- Fundorte: amtliche Sammlungen (**BGHZ, BVerfGE, BVerwGE**), Fachzeitschriften, Onlineportale (**juris.de, beck-online.de**), Entscheidungsarchive der Gerichte (z. B. nrwe.de).\n\n**Exkurs Rechtsfortbildung (S. 209–210):** Wegen des Entscheidungszwangs dürfen und müssen Gerichte unter bestimmten Voraussetzungen **Lücken schließen** – durch **Analogie** und **teleologische Extension bzw. Reduktion**. Die Abgrenzung zur Auslegung ist höchst umstritten; die so gewonnenen Prämissen müssen jedenfalls diskutiert und gelernt werden.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 206
+        },
+        {
+          "doc": "PROP_1",
+          "page": 207
+        },
+        {
+          "doc": "PROP_1",
+          "page": 208
+        },
+        {
+          "doc": "PROP_1",
+          "page": 209
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Sammelstelle Prüfungs- und Aufbauschemata",
+      "short": "Prüfungsschemata sind die unverzichtbaren Topoikataloge des Studiums: Sie geben Tatbestandsmerkmale, Definitionen und typische Problemkonstellationen in fester Reihenfolge vor (z. B. § 433 Abs. 2 BGB: entstanden – untergegangen – durchsetzbar). Manche lassen sich ad hoc aus dem Gesetz ableiten (Verwaltungsakt, § 35 S. 1 VwVfG), andere folgen aus der Systematik (Tatbestand – Rechtswidrigkeit – Schuld; Reihenfolge der Anspruchsgrundlagen). Empfehlung: eigene Schemata erstellen. Schemata sind Checklisten, keine Pflichtprogramme: Unproblematisches knapp, Problematisches ausführlich („Problembewusstsein“).",
+      "long": "## Topoikataloge (S. 210)\n\nOhne Schemata müsste man jede neue Vorschrift auf alle Prämissen, ihre Reihenfolge, Abhängigkeiten und Ausnahmen untersuchen – zeitlich unmöglich. **Prüfungs- oder Aufbauschemata** geben von Tatbestandsmerkmalen über Definitionen bis zu typischen Problemen eine **Reihenfolge der zu diskutierenden Prämissen** vor.\n\n**Beispiel § 433 Abs. 2 BGB (S. 210–211):** A. Anspruch entstanden? – I. Vertragsschluss: 1. Angebot (Willenserklärung, wesentliche Vertragsbestandteile, Zugang), 2. Annahme (Willenserklärung, in Bezug auf das Angebot, Einverständnis, Zugang) – B. Anspruch untergegangen? (Widerruf, Rücktritt, Aufrechnung, Anfechtung [str.]) – C. Anspruch durchsetzbar? (Verjährung, Zurückbehaltungsrechte). Hinter den Punkten stecken wiederum eigene Schemata.\n\n## Ad hoc ableitbar oder systematisch (S. 211–212)\n\n- **§ 35 S. 1 VwVfG** liefert das Schema des Verwaltungsakts: 1. hoheitliche Maßnahme, 2. einer Behörde, 3. Regelung eines Einzelfalls, 4. auf dem Gebiet des öffentlichen Rechts, 5. auf unmittelbare Rechtswirkung nach außen gerichtet.\n- Bei § 263 StGB ergibt sich das Schema dagegen nicht offensichtlich aus der Norm.\n- **Strafrecht:** Deliktsprüfung immer dreischrittig – **Tatbestand, Rechtswidrigkeit, Schuld** – aus der Systematik von AT und BT.\n- **Zivilrecht:** anerkannte Reihenfolge der Anspruchsgrundlagen – **vertragliche, vertragsähnliche, dingliche, deliktische, bereicherungsrechtliche** –, nicht gesetzlich angeordnet, sondern aus **Effizienzgründen** (Vermeidung überflüssiger Prüfungen).\n\n**Empfehlung (S. 212):** **Eigene Schemata erstellen** – mit Ausbildungsliteratur und Gesetz; Grobgliederungen ähneln sich, Feingliederungen weichen ab. Schemata sind Orientierungshilfe, **nicht sklavisch abzuarbeiten**.\n\n## Schema als Checkliste (S. 213–215)\n\nWie beim **Kofferpacken** („Der Koffer könnte vollständig gepackt sein“): Socken und Zahnbürste vergisst man selten; ob „Sonnencreme“ nötig ist, hängt von den Umständen ab – also vom **Sachverhalt**. Beispiel: Ist das Angebot unstreitig, aber der **Zugang der Annahme** problematisch, wird nur dieser Punkt vertieft (Machtbereich; gewöhnliche Verhältnisse). Der Zugang kann sogar entbehrlich sein (**§ 151 BGB**). Punkte wie „Abendgarderobe“ verlangen zusätzlich die Klärung, was genau gemeint ist – vergleichbar der **Auslegung** eines Merkmals; sie nehmen den größten Raum ein. Offensichtliches ist kurz, wenn nötig im Urteilsstil, abzuhandeln (**„Problembewusstsein“**, Wesentlichkeitsprinzip). Auch der Richter erörtert nicht die Verjährung eines sechs Monate alten Anspruchs. **Widerstehen Sie dem Drang**, irrelevantes Wissen in die Klausur einzubringen (S. 215).\n\n**Zirkuläre Arbeitsweise (S. 215–216):** „A wirft einen Stein nach B“ → Körperverletzung? → Schema aufrufen → mit Sachverhalt abgleichen → „Stein“ → gefährliches Werkzeug? → § 224 Abs. 1 StGB – bis alle relevanten Punkte geklärt sind.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 209
+        },
+        {
+          "doc": "PROP_1",
+          "page": 210
+        },
+        {
+          "doc": "PROP_1",
+          "page": 211
+        },
+        {
+          "doc": "PROP_1",
+          "page": 212
+        },
+        {
+          "doc": "PROP_1",
+          "page": 213
+        },
+        {
+          "doc": "PROP_1",
+          "page": 214
+        },
+        {
+          "doc": "PROP_1",
+          "page": 215
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Lehrbücher und Kommentare, Generalklauseln, Auslegungskanon als Topoi",
+      "short": "Kommentare folgen der Paragrafenfolge, verarbeiten vor allem die Rechtsprechung und richten sich an Praktiker; Lehrbücher folgen einem didaktisch-systematischen Konzept auf höherer Abstraktionsebene. In der Klausur sind beide nicht zugelassen; zur Vorbereitung dienen vor allem Lehrbücher, für Haus-, Seminar- und Bachelorarbeiten auch Kommentare. Generalklauseln (§ 242 BGB) sind ausfüllungsbedürftig und werden über Fallgruppen (Rechtsmissbrauch, Verwirkung, widersprüchliches Verhalten), grundrechtliche Wertungen und römische Rechtssätze konkretisiert. Der Auslegungskanon dient als Topos: Gelernte Definitionen wiedergeben (gefährliches Werkzeug) oder selbst argumentieren (Bordsteinkante: Wortlaut vor Telos wegen Art. 103 Abs. 2 GG).",
+      "long": "## Lehrbücher und Kommentare (S. 215–217)\n\n| | Kommentar | Lehrbuch |\n|---|---|---|\n| Aufbau | Paragraf für Paragraf | sachlich-didaktisch, an der dogmatischen Systembildung orientiert |\n| Inhalt | Fülle der Praxis, v. a. Rechtsprechung in Stichworten, Leitsätze zu Tatbestandsmerkmalen | Grundsätze, Hintergründe, Begriffe im systematischen Zusammenhang |\n| Adressat | Praktiker, Fortgeschrittene; Nachschlagewerk | Studierende – aber „Lehrbuch“ ist kein „Lernbuch“ |\n\n„Klassiker“: Brox/Walker, Allgemeiner Teil des BGB; Grüneberg, BGB (ca. 3200 Seiten, 2,4 kg). In der **Klausur** sind keine Lehrbücher und meist nur **unkommentierte Gesetzestexte** zugelassen. Zur Vorbereitung dienen schwerpunktmäßig **Lehrbücher**; Kommentare helfen, wenn man sich eingearbeitet hat (Definitionen, Streitstände schnell finden; kritischer als Lehrbücher, „a. A.“-Nachweise). *Beispiel (S. 217):* Die Definition „Vorteil“ in § 331 Abs. 1 StGB findet man leicht im Kommentar, kaum im Lehrbuch; den Dreischritt Tatbestand – Rechtswidrigkeit – Schuld oder das Analogieverbot zulasten des Täters erklärt der Kommentar dagegen nicht. In **Einsende-, Seminar- und Bachelorarbeiten** sind Kommentare wichtig, weil das Meinungsspektrum in voller Breite darzustellen ist.\n\n## Generalklauseln (S. 217–219)\n\nSie stehen im Gesetz, sind aber so generell, dass die ihnen unterstellten Prämissen nicht mehr „dem Gesetzestext entnommen“ sind. **§ 242 BGB** (Leistung nach Treu und Glauben mit Rücksicht auf die Verkehrssitte) – schon Tatbestand und Rechtsfolge lassen sich kaum herausarbeiten; weitere Beispiele § 118 Abs. 1 OWiG, polizeiliche Generalklausel (NRW: § 8 Abs. 1 PolG). Der Gesetzgeber schafft damit ein **Einfallstor** für zeitgemäße Anwendung und Gerechtigkeitserwägungen (missbraucht im Nationalsozialismus). Handhabbar über die **Kasuistik**: anerkannte **Fallgruppen** zu § 242 BGB – **Rechtsmissbrauch, Verwirkung, widersprüchliches Verhalten**. Generalklauseln sind auch Sammelstelle **grundrechtlicher Wertungen** im Zivilrecht (Parabolantenne: Informationsfreiheit des Mieters, Art. 5 Abs. 1 S. 1 HS 2 GG, gegen Eigentum des Vermieters, Art. 14 Abs. 1 GG; z. B. BGH NJW 1994, 1147 ff.) und **römischer Rechtssätze** (*dolo agit, qui petit, quod statim redditurus est*; *venire contra factum proprium*). Keine „Allzweckwaffe“: Die Lösungsskizze erwartet fast immer eine **anerkannte Fallgruppe**.\n\n## Auslegungskanon als Topoi (S. 218–221)\n\nDie vier Auslegungsformen sind wesentliche Topoi. Zwei Formen der Begegnung:\n1. **Gelernte Prämissen** wiedergeben: „Ein Werkzeug ist gefährlich, wenn es nach seiner objektiven Beschaffenheit und nach der Art seiner Benutzung im konkreten Fall geeignet ist, erhebliche Körperverletzungen herbeizuführen.“\n2. Den Topos als **Werkzeug** nutzen, um selbst eine Prämisse herzustellen – kein richtiges oder falsches, nur ein **überzeugendes** Ergebnis; der Kanon schließt Willkür aus.\n\n*Beispiel § 224 Abs. 1 Nr. 2 StGB:* Vorschlaghammer gegen den Kopf → eindeutig, keine Auslegung im Gutachten. **Bordsteinkante:** Wortlaut („Werkzeug“ – niemand denkt an eine fest verbaute Kante) spricht dagegen, Schutzzweck (besonders gefährliche Körperverletzungen härter bestrafen) dafür. Nach dem Satz vom Widerspruch ist über die Sammelstelle „Kollisionsregeln“ zu entscheiden: **Wortlaut als Grenze der Auslegung**, im Strafrecht wegen **Art. 103 Abs. 2 GG** höchst anerkannt → grammatische Auslegung hat Vorrang (so BGH und h. L.; Gegenansicht in Fn. 174, die ggf. über Nr. 5 zur Strafbarkeit gelangt). Eine **ökonomische** Prämisse („im Zweifel kürzere Haft zugunsten des Staatshaushalts“) lässt sich keiner Auslegungsmethode zuordnen und ist daher juristisch kaum plausibel (S. 221).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 214
+        },
+        {
+          "doc": "PROP_1",
+          "page": 215
+        },
+        {
+          "doc": "PROP_1",
+          "page": 216
+        },
+        {
+          "doc": "PROP_1",
+          "page": 217
+        },
+        {
+          "doc": "PROP_1",
+          "page": 218
+        },
+        {
+          "doc": "PROP_1",
+          "page": 219
+        },
+        {
+          "doc": "PROP_1",
+          "page": 220
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Die Prämissensuche in der Klausur",
+      "short": "Es gibt kein Patentrezept, aber eine Arbeitsstruktur: Denkzirkel, der Aspekte einbezieht, abgleicht, verwirft oder vertieft. 1. Sachverhalt unbefangen lesen, dann die Fallfrage, die das Prüfungsprogramm festlegt (von „Hat A gegen B einen Anspruch aus § 433 Abs. 2 BGB?“ bis „Wie ist die Rechtslage?“). 2. Passende Rechtsnorm suchen – gröbster Filter ist die Rechtsfolge, dann die Tatbestandsseite (Anstreicher-Fall: §§ 280 ff., 823 Abs. 1 BGB). 3. Tatbestandsvoraussetzungen herausarbeiten und in der Lösungsskizze mit „+“/„−“ markieren. 4. Weitere Prämissen durch Vertiefung (§§ 249, 276 Abs. 2 BGB). 5. Eigene Prämissen herstellen – oft drei Positionen: zwei Extrempole und eine vermittelnde Ansicht (§ 153 StGB).",
+      "long": "## Denkzirkel (S. 221)\n\nKein Patentrezept, aber eine **Arbeitsstruktur**, die die Wahrscheinlichkeit erhöht, keine wesentliche Prämisse zu übersehen. Die Lösung wird in einem **Denkzirkel** gefunden: Aspekte einbeziehen, mit dem Sachverhalt abgleichen, verwerfen oder vertiefen – bis unpassende Prämissen ausgeschieden und passende so weit subsumiert sind, dass sie die Rechtsfolge plausibel begründen.\n\n## 1. Sachverhalt und Fallfrage (S. 221–222)\n\nDer Sachverhalt steht fest und ist auf das Wesentliche reduziert – alle Informationen sind potentiell relevant. Erst **unbefangen ohne Fallfrage** lesen (sonst selektives Lesen). Dann die **Fallfrage**: Sie legt das **Prüfungsprogramm** fest.\n- Eng: „Hat A gegen B einen Anspruch auf Zahlung von 200 EUR aus § 433 Abs. 2 BGB?“ – Ausgangsprämisse steht fest (im Strafrecht: „Hat C sich gemäß § 249 Abs. 1 strafbar gemacht?“; im Öffentlichen Recht: Verletzt das Luftsicherheitsgesetz B in Art. 1 Abs. 1 GG?).\n- Weit: „**Wie ist die Rechtslage?**“ – alle Rechtsfragen selbst entdecken, zunächst die gesuchten **Rechtsfolgen** bestimmen.\n- Dazwischen: „Welche Ansprüche stehen V zu?“, „Kann A von B Herausgabe verlangen?“, „Ist der Bescheid rechtmäßig?“\n\n## 2. Passende Rechtsnorm (S. 222–224)\n\nAnsatz immer am **Gesetz**: einschlägige Norm für den ersten Obersatz („V könnte gemäß § 823 Abs. 1 BGB einen Anspruch auf Schadensersatz i. H. v. 500 EUR gegen S haben.“). **Gröbster Filter: die Rechtsfolge** (im Strafrecht wenig hilfreich – fast nur Strafbarkeit, Rechtfertigung, Entschuldigung). Dann die **Tatbestandsseite** über die bekannten Topoi. *Anstreicher-Fall:* A verschüttet Farbe auf dem Perserteppich des B (Zeitwert 3000 EUR). § 823 Abs. 1 BGB kennt man aus dem Zivilrechtskurs; nach dem Schema zuerst **vertragliche** Ansprüche: Es geht nicht um schlechtes Streichen (Primärpflicht), sondern um Schäden anlässlich der Erfüllung → Verträge sind Schuldverhältnisse (§ 311 BGB) → **§§ 280 ff. BGB**.\n\n## 3. Tatbestandsvoraussetzungen herausarbeiten (S. 224)\n\nAlle Prämissen (Tatbestandsmerkmale, Definitionen) entnehmen bzw. durch Auslegung oder Lernwissen ergänzen; **Schemata niederschreiben**, im Kopf mit dem Sachverhalt abgleichen und mit **„+“ oder „−“** kennzeichnen = **Lösungsskizze** als Grundlage des Gutachtens.\n\n## 4. Weitere Prämissen durch Vertiefung (S. 224–225)\n\n§ 823 Abs. 1 BGB: Eigentumsverletzung (+), Verletzungshandlung (+), Kausalität (+), Verschulden ??? → § 276 Abs. 2 BGB. So finden auch Normen Eingang, die andere ausgestalten: **§ 249 Abs. 1 BGB** (Naturalrestitution), **§ 276 Abs. 2 BGB** (Fahrlässigkeit), **§ 22 StGB** (Versuch), **§ 37 Abs. 1 VwVfG** (Bestimmtheit).\n\n## 5. „Eigene“ Prämissen herstellen (S. 225–226)\n\nReichen Gesetz und Lernwissen nicht, muss man – unter Zeitdruck – selbst Prämissen ableiten. Strategie: Bei streitigen Fragen bilden sich meist **drei Positionen** – **zwei Extrempole und eine vermittelnde Ansicht**. *Beispiel § 153 StGB* („falsch“ aussagen): **objektive Theorie** (Abweichung vom tatsächlichen Geschehen), **subjektive Theorie** (Abweichung vom Vorstellungsbild des Aussagenden), **modifizierte objektive Theorie** (Abweichung vom wirklichen Erlebnisbild). Weitere Gegensatzpaare: formell – materiell, extensiv – restriktiv. Das entspricht dem Rechtsstreit: volles Obsiegen, volles Unterliegen oder vermittelnde Lösung.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 220
+        },
+        {
+          "doc": "PROP_1",
+          "page": 221
+        },
+        {
+          "doc": "PROP_1",
+          "page": 222
+        },
+        {
+          "doc": "PROP_1",
+          "page": 223
+        },
+        {
+          "doc": "PROP_1",
+          "page": 224
+        },
+        {
+          "doc": "PROP_1",
+          "page": 225
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Exkurs G: Einführung und Inhalt wissenschaftlicher Arbeiten",
+      "short": "Spätestens zum Ende des LL.B.-Studiums sind Hausarbeiten anzufertigen, die eine Frage „wissenschaftlich“ unter Berücksichtigung von Rechtsprechung und Literatur bearbeiten – teils als Fall, teils als Thema. Formalien sind keine Kleinlichkeit: Wer die Gepflogenheiten missachtet, ist wie der Hochzeitsgast in Jeans. Vor der Reinschrift Kontakt mit der Betreuung aufnehmen. Leitbild ist ein Beitrag für eine Fachzeitschrift: kurze Einleitung, klare Zusammenfassung, eigene durchdachte Sicht nach Abwägung der Auffassungen – kein bloßes Referieren fremder Meinungen.",
+      "long": "## Einführung (S. 227)\n\nSpätestens zum Ende des Bachelor of Laws sind **Hausarbeiten** anzufertigen, die eine Frage **„wissenschaftlich“** – unter Berücksichtigung von Rechtsprechung und Literatur – bearbeiten; teils ohne Fall, als **Thema** (z. B. „Der Schutz Minderjähriger im deutschen und im französischen Recht“). Mit einer Hausarbeit beweist man, ob man am **wissenschaftlichen Diskurs** teilnehmen kann. Wer die Gepflogenheiten missachtet, gleicht dem **Hochzeitsgast in Jeans und Turnschuhen** – belächelt oder abgelehnt. Als Fachkollege ernst genommen wird nur, wer die formalen Regeln fehlerfrei beherrscht. Da Details unter Hochschullehrern umstritten sind: **vor der Reinschrift Kontakt mit der Betreuerin oder dem Betreuer** aufnehmen.\n\n## Inhalt und Aufbau (S. 227–228)\n\nAnders als bei Klausuren gibt keine „Anspruchsmethode“ die Struktur vor; man hat größere Freiheit. Orientierung: Stellen Sie sich vor, Sie schrieben einen **Beitrag für eine Fachzeitschrift**. Lesen Sie früh Ausbildungszeitschriften (**JuS, Jura, JA**); das kaum erreichbare Ideal einer Bachelorarbeit wäre ein Beitrag in einer **Archivzeitschrift** (z. B. AcP, ZZP).\n\n- **Kurze Einleitung** in das Thema, am Ende **klare Zusammenfassung** der Ergebnisse.\n- Ziel ist **keine lehrbuchartige Darstellung**, sondern eine **eigene, durchdachte Sicht** nach Abwägung der in Rechtsprechung und Literatur vertretenen Auffassungen.\n- Das längliche **Referieren** fremder Auffassungen („1. Rechtsprechung des BGH; 2. Auffassung von Meier; … 5. Eigene Meinung“) bringt selten Erkenntnisfortschritt.\n- Bei einer **Fallhausarbeit** gelten die Regeln der Falllösung wie bei Klausuren, zusätzlich die formalen Hinweise.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 226
+        },
+        {
+          "doc": "PROP_1",
+          "page": 227
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Exkurs G: Formale Hinweise – Bestandteile, Gliederung, Verzeichnisse, Text und Zitierweise",
+      "short": "Bestandteile: Titelblatt (ohne Seitenzahl), Inhaltsverzeichnis, ggf. Abkürzungsverzeichnis, Literaturverzeichnis (römisch paginiert), dann der arabisch paginierte Text. Gliederung klassisch „A. I. 1. a) aa) (1) (a)“, höchstens etwa sieben Ebenen, „wer A sagt, muss auch B sagen“. Literaturverzeichnis alphabetisch, nur zitierte Literatur, keine Gesetze, Drucksachen oder Urteile. Text: Times New Roman 12 oder Arial 11, ein Drittel Korrekturrand, 1,5 Zeilen; einfacher Stil, keine Evidenzformeln. Normen exakt zitieren; Quellen in Fußnoten am Seitenende, sinngemäß; unmarkierte wörtliche Übernahmen sind Plagiate. Rechtsprechung möglichst nach amtlicher Sammlung, Internetquellen nur mit Abrufdatum; einheitlich „aus einem Guss“.",
+      "long": "## Bestandteile (S. 228)\n\nTitelblatt, Inhaltsverzeichnis, ggf. Abkürzungsverzeichnis, Literaturverzeichnis und Text. Die vorderen Teile (einschließlich Literaturverzeichnis) werden **römisch** nummeriert, das **Titelblatt erhält keine Seitenzahl**; der Text wird **arabisch** paginiert; Seitenvorgaben betreffen nur den Text.\n- **Titelblatt:** Name, Anschrift (Telefon/E-Mail), Matrikelnummer; mittig die Bezeichnung (Seminararbeit im Studiengang Bachelor of Laws der FernUniversität in Hagen zum Thema „XY“); unten das Abgabedatum.\n\n## Gliederung (S. 228–229)\n\nGliederung und Literaturverzeichnis sind die **„Visitenkarte“** der Arbeit. Klassisch **„A. I. 1. a) aa) (1) (a)“**; kaum je mehr als **sieben Ebenen**. **„Wer A sagt, muss auch B sagen“** – auf jeden Gliederungspunkt folgt mindestens ein weiterer derselben Ebene. Der größte Teil des Textes steht in der **untersten Ebene**; auf höheren Ebenen nur kurze Einführungen. Meist **drei bis fünf** Überschriften pro Ebene; mehr als sieben deuten auf unklare Struktur. Überschriften in Gliederung und Text müssen gleich lauten; die Gliederung selbst ist kein Gliederungspunkt.\n\n## Abkürzungs- und Literaturverzeichnis (S. 229–232)\n\n- **Abkürzungsverzeichnis** nicht nötig bei üblichen Abkürzungen; Hinweis auf ein gängiges Verzeichnis (Kirchner) genügt – dann aber dessen Abkürzungen verwenden.\n- **Literaturverzeichnis:** die gesamte zitierte Literatur (aber nur diese), **alphabetisch**, **nicht nach Gattungen** aufgeteilt.\n  - *Monografien:* Name, Vorname (kursiv), Titel, Auflage (ab 2.), Ort, Jahr; Verlag überflüssig; „Diss.“ bei reinen Dissertationsdrucken; ggf. Kurztitel („zitiert: SachenR“).\n  - *Beiträge in Zeitschriften/Sammelwerken:* Autor, Titel, Fundort, **erste und letzte Seite**; bei Archivzeitschriften auch die **Bandzahl**.\n  - *Kommentare:* unter dem (früheren) Autorennamen bzw. – bei reinen Herausgeberwerken – unter dem Titel; bei mehrbändigen Werken der benutzte Band; Hinweis auf die Zitierweise.\n  - *Amtliche Werke:* Gesetze, BT-/BR-Drucksachen und Gerichtsentscheidungen gehören **nicht** ins Literaturverzeichnis; Entscheidungsanmerkungen schon.\n\n## Text (S. 232)\n\n**Times New Roman 12 oder Arial 11**, **linkes Drittel als Korrekturrand**, **1,5-zeilig**; einheitliche Absatzabstände; keine überlangen (mehr als halbe Seite) oder Ein-Satz-Absätze. Keine Rechtschreib- und Grammatikfehler – **das Instrument des Juristen ist die Sprache**. Kein komplizierter Stil: statt „Die Annahme des Angebots durch V dürfte erfolgt sein, indem die Lieferung … getätigt wurde“ besser „V nahm das Angebot durch Lieferung der Ware an K an“. **Evidenzformeln** („selbstverständlich“, „offensichtlich“) vermeiden, Ergebnisse nicht übervorsichtig formulieren; direkte Fragen sparsam.\n\n## Zitierweise (S. 233–237)\n\n- Rechtsvorschriften **so exakt wie möglich** (§ 179 Abs. 3 Satz 1 BGB; § 309 Nr. 2 lit. a BGB; § 812 Abs. 1 Satz 1, 1. Alt. BGB); die abgekürzte Klausurweise (§ 433 I 2 BGB) ist zulässig, begegnet aber gelegentlich Vorbehalten.\n- Zitate dokumentieren das wissenschaftliche Gespräch; **i. d. R. sinngemäß** in eigenen Worten; wörtliche Zitate nur gekennzeichnet und sparsam. **Unmarkierte wörtliche Übernahmen** können das Urheberrecht verletzen (§§ 97 ff., 106 ff. UrhG) und sind ein **Täuschungsversuch** (Nichtbestehen); auch sinngemäße Übernahmen ohne Zitat verstoßen gegen gute wissenschaftliche Praxis.\n- Quellen außer Normen in **Fußnoten am Ende jeder Seite** (kleinere Schrift, einzeilig); mehrere Quellen durch **Semikolon** getrennt; Fußnoten beginnen mit **Großbuchstaben** und enden mit **Punkt**. Die **h. M.** wird mit Rechtsprechung und Literatur belegt, die **h. L.** mit Literatur, die **st. Rspr.** nur mit Urteilen; „Vgl.“ nur, wenn das Zitat die Aussage nicht direkt stützt.\n- **Rechtsprechung** möglichst nach der **amtlichen Sammlung** (Band, erste Seite, Fundstelle; Datum empfehlenswert; Randnummer, wo vorhanden); EuGH nach Slg. mit Parteinamen/Kurzbezeichnung; sonst gängige Zeitschrift; mehrere Entscheidungen nach **Rang der Gerichte** absteigend.\n- **Literatur** in Fußnoten kurz (Kommentar: Kurztitel/Bearbeiter, Vorschrift, Rn.; Aufsatz: Autor, Zeitschrift, Jahrgang, erste und konkrete Seite).\n- **Amtliche Werke** mit Überschrift und Fundstelle; **Internetquellen** nur, wenn nicht gedruckt verfügbar, mit **Datum des letzten Abrufs**; Entscheidungen sonst nach beck-online oder juris.\n- **Gemischte Fußnoten:** Rechtsprechung zuerst (nach Rang); im Übrigen ist die Reihenfolge Geschmackssache – wichtig ist, dass die Arbeit **„aus einem Guss“** ist.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 227
+        },
+        {
+          "doc": "PROP_1",
+          "page": 228
+        },
+        {
+          "doc": "PROP_1",
+          "page": 229
+        },
+        {
+          "doc": "PROP_1",
+          "page": 230
+        },
+        {
+          "doc": "PROP_1",
+          "page": 231
+        },
+        {
+          "doc": "PROP_1",
+          "page": 232
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        },
+        {
+          "doc": "PROP_1",
+          "page": 234
+        },
+        {
+          "doc": "PROP_1",
+          "page": 235
+        },
+        {
+          "doc": "PROP_1",
+          "page": 236
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prämisse",
+      "text": "Eine Aussage P, die eine andere Aussage – die Behauptung B – stützt bzw. aus der B folgt (topisches, nicht rein logisches Verständnis).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 194
+        }
+      ]
+    },
+    {
+      "term": "Normprämisse und Fallprämisse",
+      "text": "Im Justizsyllogismus stellt die erste Prämisse die abstrakte Rechtsregel auf (Normprämisse); die zweite stellt fest, dass der Sachverhalt den Tatbestand erfüllt (Fallprämisse), gefolgert aus dem Nebenschema.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 195
+        }
+      ]
+    },
+    {
+      "term": "Petitio principii (Zirkelschluss)",
+      "text": "Verstoß gegen den Satz vom zureichenden Grund: Behauptung und Begründung sind dieselbe Aussage oder die Begründung setzt die Behauptung voraus.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        }
+      ]
+    },
+    {
+      "term": "Topos (formaler und materialer)",
+      "text": "Prämissensammelstelle („Ort“, Plural Topoi). Ein formaler Topos (z. B. Gleichbehandlungsgrundsatz) ist ein Oberbegriff, unter dem sich konkretere materiale Topoi finden, die als Prämissen dienen können.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        },
+        {
+          "doc": "PROP_1",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "term": "Faustregel „Fünf vor, fünf zurück“",
+      "text": "Bei unbekannten Gesetzestexten die fünf vorherigen und die fünf nachfolgenden Vorschriften der für einschlägig gehaltenen Norm lesen, weil zusammengehörende Normen meist textlich beieinanderstehen.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 205
+        }
+      ]
+    },
+    {
+      "term": "Wirkung inter partes",
+      "text": "Gerichtsentscheidungen wirken grundsätzlich nur zwischen den am Rechtsstreit beteiligten Parteien (Ausnahme: § 31 Abs. 2 BVerfGG); gefestigte höchstrichterliche Rechtsprechung hat aber faktische Bindungswirkung.",
+      "norm": "§ 31 Abs. 2 BVerfGG",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 207
+        }
+      ]
+    },
+    {
+      "term": "Prüfungs- bzw. Aufbauschema",
+      "text": "Katalog von Prämissensammelstellen (Topoikatalog), der Tatbestandsmerkmale, Definitionen und typische Problemkonstellationen in einer festen Prüfungsreihenfolge vorgibt; Orientierungshilfe, keine sklavisch abzuarbeitende Liste.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 209
+        },
+        {
+          "doc": "PROP_1",
+          "page": 211
+        }
+      ]
+    },
+    {
+      "term": "Generalklausel",
+      "text": "Im Gesetz stehende, sehr generell gehaltene und daher ausfüllungsbedürftige Norm (z. B. § 242 BGB); sie wird über anerkannte Fallgruppen (Kasuistik) handhabbar gemacht und dient als Sammelstelle grundrechtlicher Wertungen.",
+      "norm": "§ 242 BGB",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 216
+        },
+        {
+          "doc": "PROP_1",
+          "page": 217
+        }
+      ]
+    },
+    {
+      "term": "Gefährliches Werkzeug",
+      "text": "Ein Werkzeug ist gefährlich, wenn es nach seiner objektiven Beschaffenheit und nach der Art seiner Benutzung im konkreten Fall geeignet ist, erhebliche Körperverletzungen herbeizuführen.",
+      "norm": "§ 224 Abs. 1 Nr. 2 StGB",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 218
+        }
+      ]
+    },
+    {
+      "term": "Lösungsskizze",
+      "text": "Denkstütze, in der die Prüfungsschemata niedergeschrieben, mit dem Sachverhalt abgeglichen und die Voraussetzungen mit „+“ oder „−“ markiert werden; inhaltliche Grundlage der Niederschrift des Gutachtens.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 223
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Prämissensuche in der Klausur",
+      "steps": [
+        "1. Sachverhalt unbefangen (ohne Fallfrage) lesen",
+        "2. Fallfrage lesen: Prüfungsprogramm bestimmen; bei „Wie ist die Rechtslage?“ zuerst die gesuchten Rechtsfolgen ermitteln",
+        "3. Passende Rechtsnorm suchen: Filter Rechtsfolge, dann Tatbestandsseite (Inhaltsverzeichnis, AT/BT, „Fünf vor, fünf zurück“, Stichwortverzeichnis, gelernte Schemata – im Zivilrecht Reihenfolge der Anspruchsgrundlagen)",
+        "4. Tatbestandsvoraussetzungen und Definitionen herausarbeiten; Lösungsskizze mit „+“/„−“",
+        "5. Weitere Prämissen durch Vertiefung (ausgestaltende Normen, z. B. §§ 249, 276 Abs. 2 BGB)",
+        "6. Fehlen Prämissen: eigene herstellen (Auslegungskanon als Topos; drei Positionen: zwei Extrempole + vermittelnde Ansicht)",
+        "7. Ständiger Abgleich mit dem Sachverhalt (Denkzirkel), Schwerpunkte setzen"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 220
+        },
+        {
+          "doc": "PROP_1",
+          "page": 221
+        },
+        {
+          "doc": "PROP_1",
+          "page": 222
+        },
+        {
+          "doc": "PROP_1",
+          "page": 223
+        },
+        {
+          "doc": "PROP_1",
+          "page": 224
+        }
+      ]
+    },
+    {
+      "title": "Prüfungsschema Zahlungsanspruch § 433 Abs. 2 BGB (nach dem Studienbrief)",
+      "steps": [
+        "A. Anspruch entstanden? – I. Vertragsschluss: 1. Angebot (Willenserklärung, wesentliche Vertragsbestandteile, Zugang); 2. Annahme (Willenserklärung, in Bezug auf das Angebot, Einverständnis, Zugang); II. Zwischenergebnis",
+        "B. Anspruch untergegangen? – z. B. Widerruf, Rücktritt, Aufrechnung, Anfechtung (str.)",
+        "C. Anspruch durchsetzbar? – z. B. Verjährung, Zurückbehaltungsrechte"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 209
+        },
+        {
+          "doc": "PROP_1",
+          "page": 210
+        }
+      ]
+    },
+    {
+      "title": "Formaler Aufbau einer Seminar- oder Bachelorarbeit",
+      "steps": [
+        "1. Titelblatt (ohne Seitenzahl): Name, Anschrift, Matrikelnummer; Bezeichnung und Thema; Abgabedatum",
+        "2. Inhaltsverzeichnis/Gliederung (römisch paginiert): „A. I. 1. a) aa) (1) (a)“, wer A sagt, muss B sagen",
+        "3. Ggf. Abkürzungsverzeichnis (sonst Hinweis auf gängiges Verzeichnis)",
+        "4. Literaturverzeichnis: alphabetisch, nur zitierte Literatur, keine Gesetze/Drucksachen/Urteile",
+        "5. Text (arabisch paginiert): Einleitung – Hauptteil mit eigener Abwägung – Zusammenfassung; Times New Roman 12 oder Arial 11, 1,5-zeilig, ein Drittel Rand",
+        "6. Fußnoten am Seitenende: Großbuchstabe am Anfang, Semikolon zwischen Quellen, Punkt am Ende; einheitlich „aus einem Guss“"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 227
+        },
+        {
+          "doc": "PROP_1",
+          "page": 228
+        },
+        {
+          "doc": "PROP_1",
+          "page": 229
+        },
+        {
+          "doc": "PROP_1",
+          "page": 231
+        },
+        {
+          "doc": "PROP_1",
+          "page": 234
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Unter einer Prämisse versteht der Studienbrief eine Aussage P, die eine andere Aussage – die {{1}} B – stützt bzw. aus der B folgt. Im Justizsyllogismus heißt die erste Prämisse {{2}}, die zweite {{3}}.",
+      "blanks": [
+        [
+          "Behauptung"
+        ],
+        [
+          "Normprämisse"
+        ],
+        [
+          "Fallprämisse"
+        ]
+      ],
+      "explanation": "S. 195–196. Kapitel F befasst sich mit dem Auffinden der Normprämisse.",
+      "hints": [
+        "Rechtsregel – Sachverhalt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 194
+        },
+        {
+          "doc": "PROP_1",
+          "page": 195
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Denkgesetze ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "Satz vom Widerspruch",
+          "Man kann derselben Aussage nicht zugleich zustimmen und sie verneinen"
+        ],
+        [
+          "Satz vom ausgeschlossenen Dritten",
+          "Entweder der Anspruch besteht oder er besteht nicht"
+        ],
+        [
+          "Satz vom zureichenden Grund",
+          "Eine Aussage gilt, wenn man sie mit einer anderen geltenden Aussage begründen kann"
+        ]
+      ],
+      "explanation": "S. 197; ein Verstoß gegen den Satz vom zureichenden Grund ist der Zirkelschluss (petitio principii).",
+      "hints": [
+        "tertium non datur."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Der Erst-recht-Schluss a minori ad maius gilt nach dem Studienbrief uneingeschränkt: Wer eine Goldmünze schuldet, schuldet erst recht zwei.",
+      "answer": false,
+      "explanation": "Einleuchtende Prämissen gelten nicht unumschränkt; das Goldmünzen-Beispiel zeigt gerade die Grenze. Auch a maiori ad minus stößt an Grenzen (§ 266 BGB: keine Teilleistungen) (S. 197).",
+      "hints": [
+        "Was zeigt das Beispiel?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Instanz steht nach dem Studienbrief an erster Stelle, wenn es um besonders prämissentaugliche Aussagen geht?",
+      "options": [
+        "Der legitimierte Normgeber, in Deutschland der demokratisch legitimierte Gesetzgeber",
+        "Die herrschende Lehre in Lehrbüchern",
+        "Das allgemeine Erfahrungswissen",
+        "Die Instanzgerichte"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Danach folgen u. a. Entscheidungen oberster Gerichte (auch obiter dicta), Lehrsätze, autorisierte Stellen, Naturwissenschaften und Erfahrungswissen (S. 197–198).",
+      "hints": [
+        "Demokratische Legitimation."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        },
+        {
+          "doc": "PROP_1",
+          "page": 197
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Prämissentypen nennt der Studienbrief neben dem Gesetz? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Definitionen als juristische Lehrsätze",
+        "Leitsätze gerichtlicher Entscheidungen",
+        "Gewohnheitsrecht und Erfahrungssätze aus dem Alltag",
+        "Ausschließlich Legaldefinitionen"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Hinzu kommen durch Auslegung gewonnene Prämissen; die Liste ist nicht abschließend. Legaldefinitionen sind gerade aus der Kategorie der Lehrsätze ausgenommen (S. 199–200).",
+      "hints": [
+        "Die Liste ist nicht abschließend."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 198
+        },
+        {
+          "doc": "PROP_1",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was ist nach dem Studienbrief das Verhältnis von formalem und materialem Topos?",
+      "options": [
+        "Der formale Topos (z. B. Gleichbehandlungsgrundsatz) ist ein Oberbegriff, unter dem sich konkretere materiale Topoi (z. B. Art. 3 Abs. 1 GG) als mögliche Prämissen finden",
+        "Der materiale Topos ist der Oberbegriff, der formale die konkrete Norm",
+        "Formale Topoi gibt es nur im Strafrecht",
+        "Beide Begriffe bezeichnen dasselbe"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der formale Topos hilft beim Auffinden und Einordnen und ist ein Kreativitätsschema (S. 200–201).",
+      "hints": [
+        "Sammelstelle und Inhalt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        },
+        {
+          "doc": "PROP_1",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum braucht ein Jurist nach dem Studienbrief „Prämissensammelstellen“, und was leistet ein Topos dabei?",
+      "modelAnswer": "In Klausur und Praxis steht nur wenig Zeit zur Verfügung; eine vertretbare Lösung gelingt nur mit einer antrainierten systematischen Suche, Kenntnis typischer Argumentationsmuster und dem Lernen häufig gebrauchter Prämissen bzw. ihrer Sammelstellen. Prämissen dürfen nicht willkürlich, sondern müssen auf nachvollziehbaren Wegen gefunden werden. Ein Topos ist eine solche Sammelstelle: Ein formaler Topos wie der Gleichbehandlungsgrundsatz bündelt konkrete materiale Topoi (z. B. Art. 3 Abs. 1 GG). Er hilft, die passende Prämisse zu finden oder einzuordnen, und dient als Kreativitätsschema, um im Vergleich mit bekannten Prämissen eine neue für den Fall zu gewinnen.",
+      "rubric": [
+        "Zeitdruck/Effizienz",
+        "nachvollziehbare statt willkürlicher Auswahl",
+        "Topos als Sammelstelle",
+        "formaler vs. materialer Topos",
+        "Kreativitätsschema"
+      ],
+      "hints": [
+        "S. 200–201."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        },
+        {
+          "doc": "PROP_1",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Sie haben für den Kaugummikauf des zehnjährigen A § 108 BGB gefunden. Welche Arbeitsregel des Studienbriefs führt Sie zur Ausnahme des § 110 BGB?",
+      "options": [
+        "„Fünf vor, fünf zurück“ – die benachbarten Vorschriften lesen",
+        "Zuerst immer das Inhaltsverzeichnis des HGB prüfen",
+        "Nur die Legaldefinitionen lesen",
+        "Den Kommentar zu § 108 BGB in der Klausur aufschlagen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Zusammengehörende Normen stehen meist beieinander; zwei Vorschriften weiter steht § 110 BGB (S. 206). Kommentare sind in der Klausur regelmäßig nicht zugelassen.",
+      "hints": [
+        "Regelungszusammenhänge."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 205
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Warum hilft das Inhaltsverzeichnis des BGB in der Abwandlung „BC Bikes“ (A will Zahlung von C) nach dem Studienbrief kaum weiter?",
+      "options": [
+        "Weil die einschlägigen Regeln (GbR §§ 705 ff. BGB, OHG §§ 105 ff. HGB) ohne Vorwissen über Gesellschaften und das Handelsrecht nicht aufzufinden sind und teils außerhalb des BGB stehen",
+        "Weil das BGB gar kein Inhaltsverzeichnis hat",
+        "Weil § 433 Abs. 2 BGB den Fall vollständig regelt",
+        "Weil Gesellschaften ausschließlich im Öffentlichen Recht geregelt sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Gesetze regeln Materien oft fragmentarisch nach vom Gesetzgeber gewählten Topoi; ohne Vorstellung vom Rechtsinstitut hilft die Struktur nur eingeschränkt (S. 202–204).",
+      "hints": [
+        "Wo ist die OHG geregelt?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 201
+        },
+        {
+          "doc": "PROP_1",
+          "page": 202
+        },
+        {
+          "doc": "PROP_1",
+          "page": 203
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Beispiel dem Strukturmerkmal von Gesetzen zu.",
+      "pairs": [
+        [
+          "§ 433 Abs. 2 BGB vs. §§ 12, 13, 253 ZPO",
+          "materielles und formelles Recht"
+        ],
+        [
+          "§§ 145 ff. BGB gelten für alle Vertragstypen, § 640 BGB nur für den Werkvertrag",
+          "Allgemeiner und Besonderer Teil"
+        ],
+        [
+          "§ 108 BGB und zwei Normen weiter § 110 BGB",
+          "Regelungszusammenhang"
+        ],
+        [
+          "„Gewalt“: körperliche Kraft → Zwangswirkung → psychischer Zwang",
+          "aktuelle Lesart / Bedeutungswandel"
+        ]
+      ],
+      "explanation": "S. 204–206.",
+      "hints": [
+        "Ob vs. Wie; vor die Klammer gezogen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 203
+        },
+        {
+          "doc": "PROP_1",
+          "page": 204
+        },
+        {
+          "doc": "PROP_1",
+          "page": 205
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wie bewertet der Studienbrief es, wenn ein Student in der Klausur für ein bekanntes Tatbestandsmerkmal eine eigene Definition formuliert, statt die anerkannte zu verwenden?",
+      "options": [
+        "Als Zeichen unzureichender Klausurvorbereitung",
+        "Als besonders kreative Leistung",
+        "Als zwingend erforderlich, weil Definitionen stets selbst auszulegen sind",
+        "Als gleichwertig, sofern die Definition plausibel ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Korrektor erwartet die in Rechtsprechung und Lehre anerkannten Definitionen; für eine umfassende Auslegung fehlt die Zeit (S. 208).",
+      "hints": [
+        "Was erwartet der Korrektor?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 207
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Weil gefestigte höchstrichterliche Rechtsprechung faktische Bindungswirkung entfaltet, sollen Studierende sie unkritisch übernehmen.",
+      "answer": false,
+      "explanation": "Im Studium unterliegen Sie nicht dem „Zwang des Faktischen“; erwartet wird, die höchstrichterliche Rechtsprechung ebenso kritisch zu betrachten wie die Lehre (S. 208–209).",
+      "hints": [
+        "Zwang des Faktischen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 207
+        },
+        {
+          "doc": "PROP_1",
+          "page": 208
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Wirkung haben Gerichtsentscheidungen im deutschen Rechtssystem grundsätzlich?",
+      "options": [
+        "Wirkung inter partes – nur zwischen den Beteiligten",
+        "Allgemeinverbindliche Wirkung für alle Bürger",
+        "Wirkung nur für das jeweilige Gericht",
+        "Keinerlei rechtliche Wirkung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Folge der Gewaltenteilung; Ausnahme: BVerfG-Entscheidungen nach § 31 Abs. 2 BVerfGG (S. 208).",
+      "hints": [
+        "Lateinischer Fachbegriff."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 207
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die im Zivilrecht anerkannte Reihenfolge der Anspruchsgrundlagen in die richtige Ordnung.",
+      "items": [
+        "vertragliche Ansprüche",
+        "vertragsähnliche Ansprüche",
+        "dingliche Ansprüche",
+        "deliktische Ansprüche",
+        "bereicherungsrechtliche Ansprüche"
+      ],
+      "explanation": "Nicht gesetzlich angeordnet, sondern aus Effizienzgründen (S. 212).",
+      "hints": [
+        "Vertrag zuerst, Bereicherung zuletzt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 211
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Im Strafrecht erfolgt die Deliktsprüfung immer dreischrittig: {{1}}, {{2}} und {{3}}.",
+      "blanks": [
+        [
+          "Tatbestand"
+        ],
+        [
+          "Rechtswidrigkeit"
+        ],
+        [
+          "Schuld"
+        ]
+      ],
+      "explanation": "Ergibt sich aus der Systematik von Allgemeinem und Besonderem Teil des StGB (S. 212).",
+      "hints": [
+        "TB – RW – S."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 211
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu Prüfungsschemata treffen nach dem Studienbrief zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Sie sind wie eine Checkliste: problematische Punkte werden ausdifferenziert, offensichtliche kurz abgehakt",
+        "Man sollte eigene Schemata erstellen",
+        "Sie müssen in jeder Klausur sklavisch vollständig abgearbeitet werden",
+        "Manche lassen sich ad hoc aus dem Gesetz ableiten, z. B. der Verwaltungsakt aus § 35 S. 1 VwVfG"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Schemata sind Orientierungshilfe, keinesfalls sklavisch abzuarbeiten (S. 211–214).",
+      "hints": [
+        "Kofferpacken."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 210
+        },
+        {
+          "doc": "PROP_1",
+          "page": 211
+        },
+        {
+          "doc": "PROP_1",
+          "page": 212
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie zu: Kommentar oder Lehrbuch?",
+      "pairs": [
+        [
+          "Paragraf für Paragraf aufgebaut, viele Leitsätze der Rechtsprechung",
+          "Kommentar"
+        ],
+        [
+          "Sachlich-didaktisches, an der Systembildung orientiertes Konzept",
+          "Lehrbuch"
+        ],
+        [
+          "Erklärt den Dreischritt Tatbestand – Rechtswidrigkeit – Schuld",
+          "Lehrbuch"
+        ],
+        [
+          "Definition des „Vorteils“ in § 331 Abs. 1 StGB leicht auffindbar",
+          "Kommentar"
+        ]
+      ],
+      "explanation": "S. 215–217.",
+      "hints": [
+        "Praktiker vs. Studierende."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 214
+        },
+        {
+          "doc": "PROP_1",
+          "page": 216
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein Mieter will gegen den Willen des Vermieters eine Parabolantenne anbringen. Wie gelangen nach dem Studienbrief grundrechtliche Wertungen in diesen Zivilrechtsstreit?",
+      "options": [
+        "Über die Generalklausel (Treu und Glauben): Abwägung der Informationsfreiheit des Mieters (Art. 5 Abs. 1 S. 1 HS 2 GG) mit dem Eigentum des Vermieters (Art. 14 Abs. 1 GG)",
+        "Gar nicht, weil Grundrechte nur zwischen Bürger und Staat gelten",
+        "Durch unmittelbare Anwendung des Art. 5 GG als Anspruchsgrundlage",
+        "Ausschließlich über das Mietvertragsformular"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Generalklauseln sind Sammelstelle grundrechtlicher Wertungen im Zivilrecht (S. 217–218).",
+      "hints": [
+        "Einfallstor."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 216
+        },
+        {
+          "doc": "PROP_1",
+          "page": 217
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Fallgruppen des § 242 BGB nennt der Studienbrief als „treuwidrig“? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Rechtsmissbrauch",
+        "Verwirkung von Rechten",
+        "Widersprüchliches Verhalten",
+        "Motivirrtum"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Der Motivirrtum betrifft die Anfechtung (§ 119 BGB), keine Fallgruppe des § 242 BGB (S. 218).",
+      "hints": [
+        "Kasuistik."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 217
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "A schlägt den Kopf des B gegen eine Bordsteinkante; B erleidet einen Schädelbasisbruch. Begründen Sie mit der Methode des Studienbriefs, ob die Bordsteinkante ein „gefährliches Werkzeug“ i. S. d. § 224 Abs. 1 Nr. 2 StGB ist.",
+      "modelAnswer": "Fraglich ist, ob die Bordsteinkante ein gefährliches Werkzeug ist. Nach dem Wortlaut denkt niemand, der die deutsche Sprache sicher beherrscht, bei einem „Werkzeug“ an eine fest verbaute, von Menschenhand nicht zu bewegende Bordsteinkante. Nach dem Schutzzweck des § 224 StGB, Körperverletzungen mit besonders hohem Gefahrenpotential härter zu bestrafen, spräche dagegen viel für eine Einordnung. Beide Prämissen widersprechen sich; nach dem Satz vom Widerspruch ist zu entscheiden. Maßgeblich ist der Grundsatz, dass der Wortlaut die Grenze jeder Auslegung bildet; er ist im Strafrecht wegen Art. 103 Abs. 2 GG in höchstem Maße anerkannt. Der grammatischen Auslegung ist daher der Vorzug zu geben: Die Bordsteinkante ist kein gefährliches Werkzeug i. S. d. § 224 Abs. 1 Nr. 2 StGB.",
+      "rubric": [
+        "Wortlautargument",
+        "teleologisches Gegenargument",
+        "Kollision und Satz vom Widerspruch",
+        "Wortlautgrenze / Art. 103 Abs. 2 GG",
+        "Ergebnis: kein gefährliches Werkzeug"
+      ],
+      "hints": [
+        "Zwei Auslegungstopoi führen zu entgegengesetzten Prämissen.",
+        "Welche Kollisionsregel gilt im Strafrecht?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 219
+        },
+        {
+          "doc": "PROP_1",
+          "page": 220
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was ist nach dem Studienbrief der „gröbste Suchfilter“ für potentiell einschlägige Rechtsnormen?",
+      "options": [
+        "Die Rechtsfolge",
+        "Die Paragrafennummer",
+        "Das Alter des Gesetzes",
+        "Der Name des Gesetzes"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ist Schadensersatz gefragt, scheiden Normen mit anderen Rechtsfolgen aus; im Strafrecht hilft dieser Filter kaum (S. 223).",
+      "hints": [
+        "Was will der Anspruchsteller?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 222
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Arbeitsschritte der Prämissensuche in der Klausur in die richtige Reihenfolge.",
+      "items": [
+        "Sachverhalt unbefangen lesen",
+        "Fallfrage lesen und Prüfungsprogramm bestimmen",
+        "Passende Rechtsnorm suchen",
+        "Tatbestandsvoraussetzungen herausarbeiten (Lösungsskizze mit +/−)",
+        "Weitere Prämissen durch Vertiefung gewinnen"
+      ],
+      "explanation": "V. 1.–4. (S. 221–225); ggf. folgt das Herstellen eigener Prämissen.",
+      "hints": [
+        "Vom Sachverhalt zur Vertiefung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 220
+        },
+        {
+          "doc": "PROP_1",
+          "page": 221
+        },
+        {
+          "doc": "PROP_1",
+          "page": 223
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie den Theorien zur „falschen“ Aussage (§ 153 StGB) ihren Maßstab zu.",
+      "pairs": [
+        [
+          "objektive Theorie",
+          "Abweichung vom tatsächlich Geschehenen"
+        ],
+        [
+          "subjektive Theorie",
+          "Abweichung vom Vorstellungsbild des Aussagenden zum Zeitpunkt der Aussage"
+        ],
+        [
+          "modifizierte objektive Theorie",
+          "Abweichung vom wirklichen Erlebnisbild des Aussagenden"
+        ]
+      ],
+      "explanation": "Muster: zwei Extrempole und eine vermittelnde Ansicht (S. 225–226).",
+      "hints": [
+        "Drei Positionen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 224
+        },
+        {
+          "doc": "PROP_1",
+          "page": 225
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Vor der Reinschrift einer Seminar- oder Bachelorarbeit empfiehlt der Studienbrief, unbedingt Kontakt mit der Betreuerin oder dem Betreuer aufzunehmen.",
+      "answer": true,
+      "explanation": "Manche Details sind unter Hochschullehrern umstritten; so erhält man Hinweise auf gewünschte Besonderheiten (S. 227).",
+      "hints": [
+        "Hochzeitsgast in Jeans."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 226
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was ist nach dem Studienbrief das inhaltliche Ziel einer Seminararbeit über ein Thema?",
+      "options": [
+        "Unter Abwägung der in Rechtsprechung und Literatur vertretenen Auffassungen zu einer eigenen, durchdachten Sicht zu kommen",
+        "Eine lehrbuchartige Darstellung des gesamten Rechtsgebiets",
+        "Möglichst viele fremde Auffassungen nacheinander zu referieren und am Ende eine eigene Meinung anzuhängen",
+        "Einen Fall nach der Anspruchsmethode zu lösen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Leitbild ist ein Fachzeitschriftenbeitrag mit Einleitung und klarer Zusammenfassung; das längliche Referieren bringt selten Erkenntnisfortschritt (S. 227–228).",
+      "hints": [
+        "Fachzeitschrift."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 226
+        },
+        {
+          "doc": "PROP_1",
+          "page": 227
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Regeln zur Gliederung und zu den Verzeichnissen nennt der Studienbrief? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Gliederung nach „A. I. 1. a) aa) (1) (a)“; wer A sagt, muss auch B sagen",
+        "Das Literaturverzeichnis ist alphabetisch und nicht nach Literaturgattungen geordnet",
+        "Gerichtsentscheidungen und Gesetzestexte gehören nicht ins Literaturverzeichnis",
+        "Das Titelblatt erhält die Seitenzahl I"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das Titelblatt erhält keine Seitenzahl; die übrigen Vorspannteile werden römisch nummeriert (S. 228–232).",
+      "hints": [
+        "Visitenkarte der Arbeit."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 227
+        },
+        {
+          "doc": "PROP_1",
+          "page": 228
+        },
+        {
+          "doc": "PROP_1",
+          "page": 229
+        },
+        {
+          "doc": "PROP_1",
+          "page": 231
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Verbessern Sie den Satz „Die Annahme des Angebots durch V dürfte erfolgt sein, indem die Lieferung der Ware von V an K getätigt wurde.“ und erläutern Sie, welche Stilregeln des Studienbriefs Sie anwenden.",
+      "modelAnswer": "Besser: „V nahm das Angebot durch Lieferung der Ware an K an.“ Angewendet werden die Regeln, umständliche Substantivierungen und Passivkonstruktionen zu vermeiden, Ergebnisse nicht übervorsichtig („dürfte“) zu formulieren und einen einfachen, klaren Stil zu wählen – ein komplizierter Stil ist nicht besonders „juristisch“. Ebenfalls zu vermeiden sind Evidenzformeln wie „selbstverständlich“ oder „offensichtlich“.",
+      "rubric": [
+        "Aktiver, knapper Satz",
+        "Substantivierungen/Passiv vermieden",
+        "keine übervorsichtige Formulierung",
+        "Hinweis auf einfachen Stil bzw. Evidenzformeln"
+      ],
+      "hints": [
+        "S. 232."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 231
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Welche Fußnote entspricht den Regeln des Studienbriefs?",
+      "options": [
+        "„BGH, Urt. v. 11. Oktober 1995 – VIII ZR 325/94, BGHZ 131, 66, 68.“",
+        "„bgh, BGHZ 131, 66“",
+        "„Vgl. BGHZ 131, 66, 68, juris, abgerufen irgendwann“",
+        "„BGHZ 131, 66, 68 – Grüneberg/Sprau, § 818 BGB Rn. 45 – LG Bielefeld …“ (ohne Semikolon, ohne Punkt)"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Großbuchstabe am Anfang, amtliche Sammlung mit Band, erster Seite und Fundstelle, Datum/Aktenzeichen empfehlenswert, Punkt am Ende; mehrere Quellen durch Semikolon (S. 235–236).",
+      "hints": [
+        "Großbuchstabe – Semikolon – Punkt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 234
+        },
+        {
+          "doc": "PROP_1",
+          "page": 235
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Die Bordsteinkante: Prämissen aus dem Auslegungskanon gewinnen (§ 224 Abs. 1 Nr. 2 StGB)",
+    "facts": "Im Streit packt A den B und schlägt dessen Kopf mit voller Wucht gegen eine Bordsteinkante. B erleidet einen Schädelbasisbruch. (Beispiel des Studienbriefs)",
+    "question": "Hat A die Körperverletzung „mittels eines gefährlichen Werkzeugs“ i. S. d. § 224 Abs. 1 Nr. 2 StGB begangen? (Andere Varianten des § 224 StGB sind nicht zu prüfen.)",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den (weiteren) Obersatz zum Merkmal.",
+        "model": "Fraglich ist, ob A die Körperverletzung mittels eines gefährlichen Werkzeugs (§ 224 Abs. 1 Nr. 2 StGB) begangen hat, indem er den Kopf des B gegen eine Bordsteinkante schlug. Dann müsste die Bordsteinkante ein gefährliches Werkzeug sein.",
+        "rubric": [
+          "Weiterer Obersatz („Fraglich ist, ob …“)",
+          "Tathandlung mit „indem“",
+          "Norm genau zitiert",
+          "Voraussetzung benannt: Bordsteinkante = gefährliches Werkzeug?"
+        ],
+        "hints": [
+          "Konzentrieren Sie sich auf das eine problematische Merkmal.",
+          "Beim Vorschlaghammer wäre das unproblematisch – hier nicht."
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Nennen Sie die gelernte Definition und die beiden Auslegungstopoi, die zu entgegengesetzten Prämissen führen.",
+        "model": "Ein Werkzeug ist gefährlich, wenn es nach seiner objektiven Beschaffenheit und nach der Art seiner Benutzung im konkreten Fall geeignet ist, erhebliche Körperverletzungen herbeizuführen. Fraglich ist, ob schon der Begriff „Werkzeug“ unbewegliche Gegenstände erfasst. Nach dem Wortlaut ist ein Werkzeug ein Gegenstand, an den man bei einer fest verbauten, von Menschenhand nicht zu bewegenden Bordsteinkante nicht denkt. Nach dem Schutzzweck soll § 224 StGB Körperverletzungen mit besonders hohem Gefahrenpotential härter bestrafen als die einfache Körperverletzung nach § 223 StGB.",
+        "rubric": [
+          "Definition gefährliches Werkzeug korrekt",
+          "Problem: unbewegliche Gegenstände als „Werkzeug“",
+          "Wortlauttopos",
+          "teleologischer Topos (Schutzzweck)"
+        ],
+        "hints": [
+          "Topos 1: grammatisch.",
+          "Topos 2: teleologisch."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Wenden Sie die Prämissen auf den Fall an und lösen Sie die Kollision.",
+        "model": "Die Wucht des Aufpralls auf die Bordsteinkante war geeignet, erhebliche Verletzungen herbeizuführen, wie der Schädelbasisbruch zeigt; nach dem Schutzzweck läge eine Einordnung als gefährliches Werkzeug nahe. Nach dem Wortlaut ist die fest verbaute Bordsteinkante dagegen kein Werkzeug. Beide Prämissen können nach dem Satz vom Widerspruch nicht zugleich gelten; zu entscheiden ist über eine Kollisionsregel: Der Wortlaut ist die Grenze jeder Auslegung. Dieser Grundsatz ist im Strafrecht wegen des Bestimmtheitsgrundsatzes aus Art. 103 Abs. 2 GG in höchstem Maße anerkannt. Der grammatischen Auslegung ist daher der Vorzug zu geben. Die Bordsteinkante ist kein Werkzeug und damit kein gefährliches Werkzeug.",
+        "rubric": [
+          "Gefährlichkeit der Benutzung gesehen",
+          "Wortlaut schließt fest verbaute Gegenstände aus",
+          "Kollision benannt (Satz vom Widerspruch)",
+          "Wortlautgrenze mit Art. 103 Abs. 2 GG begründet",
+          "Zwischenergebnis"
+        ],
+        "hints": [
+          "Welche Sammelstelle hilft bei widersprechenden Prämissen?",
+          "Im Strafrecht ist eine Analogie zulasten des Täters verboten."
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "A hat die Körperverletzung nicht mittels eines gefährlichen Werkzeugs i. S. d. § 224 Abs. 1 Nr. 2 StGB begangen.",
+        "rubric": [
+          "Indikativ",
+          "Spiegel des Obersatzes",
+          "Beschränkung auf Nr. 2 beachtet"
+        ],
+        "hints": [
+          "Andere Varianten (z. B. Nr. 5) waren nicht zu prüfen."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "PROP_1",
+        "page": 218
+      },
+      {
+        "doc": "PROP_1",
+        "page": 219
+      },
+      {
+        "doc": "PROP_1",
+        "page": 220
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Was ist eine Prämisse?",
+      "back": "Eine Aussage P, die eine Behauptung B stützt bzw. aus der B folgt.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 194
+        }
+      ]
+    },
+    {
+      "front": "Normprämisse vs. Fallprämisse?",
+      "back": "Normprämisse: abstrakte Rechtsregel (P1). Fallprämisse: Sachverhalt erfüllt Tatbestand (P2).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 195
+        }
+      ]
+    },
+    {
+      "front": "Wie bewerten Juristen Rechtsauffassungen?",
+      "back": "Nicht „richtig/falsch“, sondern „vertretbar“, „überzeugend“, „kaum noch vertretbar“, äußerstenfalls „unvertretbar“.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 195
+        }
+      ]
+    },
+    {
+      "front": "Petitio principii?",
+      "back": "Zirkelschluss: Behauptung und Begründung identisch oder Begründung setzt die Behauptung voraus.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        }
+      ]
+    },
+    {
+      "front": "Topos?",
+      "back": "Prämissensammelstelle; formaler Topos (z. B. Gleichbehandlung) bündelt materiale Topoi (z. B. Art. 3 Abs. 1 GG).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        },
+        {
+          "doc": "PROP_1",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "front": "„Fünf vor, fünf zurück“?",
+      "back": "Die fünf Normen vor und nach der gefundenen Vorschrift lesen (§ 108 → § 110 BGB).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 205
+        }
+      ]
+    },
+    {
+      "front": "Wozu dient das Stichwortverzeichnis der Gesetzessammlung?",
+      "back": "Es führt auch über Begriffe, die nicht im Gesetz stehen, zur Norm („Taschengeld“ → § 110 BGB).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 206
+        }
+      ]
+    },
+    {
+      "front": "Ungeschriebenes Merkmal beim Betrug?",
+      "back": "Vermögensverfügung – grenzt den Betrug vom Diebstahl ab; folgt aus der Gesetzessystematik.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 206
+        },
+        {
+          "doc": "PROP_1",
+          "page": 207
+        }
+      ]
+    },
+    {
+      "front": "Wirkung von Urteilen?",
+      "back": "Grundsätzlich inter partes (Ausnahme § 31 Abs. 2 BVerfGG); höchstrichterliche Rechtsprechung bindet faktisch.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 207
+        }
+      ]
+    },
+    {
+      "front": "Reihenfolge der Anspruchsgrundlagen?",
+      "back": "Vertraglich – vertragsähnlich – dinglich – deliktisch – bereicherungsrechtlich.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 211
+        }
+      ]
+    },
+    {
+      "front": "Fallgruppen des § 242 BGB?",
+      "back": "Rechtsmissbrauch, Verwirkung, widersprüchliches Verhalten (venire contra factum proprium).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 217
+        },
+        {
+          "doc": "PROP_1",
+          "page": 218
+        }
+      ]
+    },
+    {
+      "front": "Bordsteinkante = gefährliches Werkzeug?",
+      "back": "Nein: Wortlaut spricht dagegen, Telos dafür; im Strafrecht ist der Wortlaut wegen Art. 103 Abs. 2 GG die Grenze.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 219
+        },
+        {
+          "doc": "PROP_1",
+          "page": 220
+        }
+      ]
+    },
+    {
+      "front": "Typische drei Positionen im Streit?",
+      "back": "Zwei Extrempole und eine vermittelnde Ansicht (z. B. § 153 StGB: objektiv, subjektiv, modifiziert objektiv).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 224
+        },
+        {
+          "doc": "PROP_1",
+          "page": 225
+        }
+      ]
+    },
+    {
+      "front": "Leitbild einer Seminararbeit?",
+      "back": "Beitrag für eine Fachzeitschrift: Einleitung, eigene abwägende Sicht, klare Zusammenfassung.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 226
+        },
+        {
+          "doc": "PROP_1",
+          "page": 227
+        }
+      ]
+    },
+    {
+      "front": "Drei Fußnotenregeln?",
+      "back": "Großbuchstabe am Anfang, Semikolon zwischen Quellen, Punkt am Ende.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 234
+        }
+      ]
+    }
+  ]
+}

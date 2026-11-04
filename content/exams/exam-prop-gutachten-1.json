@@ -1,0 +1,81 @@
+{
+  "id": "exam-prop-gutachten-1",
+  "moduleId": "55100",
+  "topicIds": [
+    "prop-c",
+    "prop-e"
+  ],
+  "title": "Gutachtenübung: Todeszeitpunkt auf der Intensivstation und das Sonderangebot im Schaufenster",
+  "difficulty": 2,
+  "durationMin": 60,
+  "facts": "Teil 1:\nB wurde nach einem schweren Verkehrsunfall auf die Intensivstation eines Krankenhauses gebracht. Zwei Ärzte stellten übereinstimmend fest, dass bei B der irreversible Funktionsverlust des gesamten Gehirns (Gesamthirntod) eingetreten ist. Atmung und Kreislauf des B werden seitdem nur noch durch Geräte aufrechterhalten, sein Herz schlägt. A, ein früherer Geschäftspartner, der B seit Jahren hasst, erfährt von dem Unfall. Er weiß nichts von dem Befund und will, dass B „endlich stirbt“. Nachts verschafft er sich Zugang zur Station und schaltet das Beatmungsgerät ab. Wenige Minuten später kommt es bei B zum endgültigen Stillstand von Atmung und Kreislauf.\n\nTeil 2:\nWeinhändlerin W stellt in ihrem Schaufenster mehrere Flaschen eines Rotweins aus. Daneben steht eine Tafel mit der Aufschrift: „Im Angebot: Rotwein, 6 EUR / Flasche“. Kunde K, der den Wein für ein Fest benötigt, betritt den Laden und erklärt: „Ich nehme zwölf Flaschen von dem Rotwein aus dem Fenster.“ W antwortet: „Das tut mir leid, die Restbestände sind schon alle für Stammkunden reserviert.“ K ist empört. Er meint, mit der Tafel habe W ihm den Wein verbindlich angeboten; er habe das Angebot angenommen und könne deshalb die zwölf Flaschen verlangen.",
+  "question": "Teil 1: Hat A durch das Abschalten des Beatmungsgeräts den objektiven Tatbestand des Totschlags (§ 212 Abs. 1 StGB) verwirklicht? (Versuchsstrafbarkeit und andere Delikte sind nicht zu prüfen.)\nTeil 2: Kann K von W Übergabe und Übereignung von zwölf Flaschen Rotwein aus § 433 Abs. 1 S. 1 BGB verlangen?\nBearbeiten Sie beide Teile in Gutachtenform.",
+  "solution": "## Teil 1: Objektiver Tatbestand des Totschlags (§ 212 Abs. 1 StGB)\n\n**Obersatz:** A könnte durch das Abschalten des Beatmungsgeräts den objektiven Tatbestand des Totschlags gemäß § 212 Abs. 1 StGB verwirklicht haben.\n\n**Voraussetzung:** Dann müsste A einen anderen Menschen getötet haben. Das setzt voraus, dass B im Zeitpunkt der Tathandlung noch lebte.\n\n### I. Problem: Was ist unter dem Tod eines Menschen zu verstehen?\n\n**Einleitung (Zwischenobersatz):** Fraglich ist, was unter dem Tod eines Menschen zu verstehen ist. Hierzu werden verschiedene Ansichten vertreten. (Hinweis: Das Merkmal „Mensch“ ist hier nicht selbstverständlich, weil der Sachverhalt mit dem festgestellten Gesamthirntod gezielt einen Problemhinweis setzt.)\n\n**1. Gesamthirntodkriterium:** Nach der herrschenden Auffassung tritt der Tod mit dem irreversiblen Funktionsverlust des Gesamthirns ein. Gestützt wird dies vor allem auf das Transplantationsgesetz, das zwar keine strafrechtliche Todesdefinition enthält, den Gesamthirntod aber als Voraussetzung einer Organentnahme bei „toten“ Spendern anerkennt (§ 3 Abs. 2 Nr. 2 TPG). *Subsumtion:* Bei B war der Gesamthirntod bereits vor dem Abschalten eingetreten. Nach dieser Auffassung war B im Zeitpunkt der Handlung schon tot; A konnte ihn nicht mehr töten.\n\n**2. Herztodkriterium:** Nach einer anderen Ansicht geht die Vorverlagerung des Todeszeitpunkts durch das Hirntodkriterium zu weit; maßgeblich sei auch beim Hirntoten der irreversible Stillstand von Atmung bzw. Kreislauf. *Subsumtion:* Atmung und Kreislauf des B kamen erst wenige Minuten nach dem Abschalten endgültig zum Stillstand. Nach dieser Ansicht lebte B noch, als A handelte; A hätte ihn getötet.\n\n**3. Teilhirn- bzw. Kortikaltodkriterium:** Einer dritten Auffassung geht das Gesamthirnkriterium nicht weit genug; schon der irreversible Ausfall einer Teilhirnfunktion, insbesondere des Großhirns, beende das Leben. *Subsumtion:* Da bei B sogar der Gesamthirntod eingetreten war, war auch nach dieser Ansicht der Tod bereits vor der Handlung eingetreten. Sie gelangt zum selben Ergebnis wie die erste Auffassung.\n\n### II. Stellungnahme\n\nDa sich die Ansichten in ihren Auswirkungen auf den Fall unterscheiden (Herztodkriterium: Tötung; übrige Auffassungen: keine Tötung), ist der Streit zu entscheiden.\n\nFür das Herztodkriterium spricht zwar, dass es den Lebensschutz zeitlich weit ausdehnt. Für das Gesamthirntodkriterium spricht jedoch, dass es auf den Funktionsverlust nicht eines einzelnen Organs, sondern der zentralen Steuerungsinstanz der biologisch-organischen Abläufe abstellt, der zugleich den Verlust jeglicher Bewusstseinsprozesse bedeutet. Das Kortikaltodkriterium stellt dagegen vor allem auf den Zusammenhang zwischen Hirntätigkeit und „Personsein“ ab und provoziert das Missverständnis, ein bestimmtes Potential an Kognitivität sei Voraussetzung menschlichen Lebens. Das Gesamthirntodkriterium berücksichtigt hingegen sowohl den bewusstseinsmäßigen als auch den biologisch-organischen Aspekt des Lebens. Kein tragfähiges Argument ist allerdings die Bedeutung des Todeszeitpunkts für die Transplantationsmedizin, weil Leben nicht gegen Leben verrechnet werden kann. Nach alledem ist dem Gesamthirntodkriterium zu folgen.\n\n### III. Ergebnis\n\nB war zur Zeit der Tathandlung bereits tot. A hat durch das Abschalten des Beatmungsgeräts den objektiven Tatbestand des Totschlags gemäß § 212 Abs. 1 StGB nicht verwirklicht. (Ob ein Versuch in Betracht kommt, war nicht zu prüfen.)\n\n## Teil 2: Anspruch des K gegen W aus § 433 Abs. 1 S. 1 BGB\n\n**Obersatz:** K könnte gegen W einen Anspruch auf Übergabe und Übereignung von zwölf Flaschen Rotwein aus § 433 Abs. 1 S. 1 BGB haben.\n\n**Voraussetzung:** Dafür müssten K und W einen Kaufvertrag über die zwölf Flaschen geschlossen haben. Ein Vertrag kommt durch zwei übereinstimmende Willenserklärungen – Angebot und Annahme – zustande.\n\n### I. Angebot der W durch die Tafel im Schaufenster\n\n**1. Obersatz:** W könnte durch die Tafel „Im Angebot: Rotwein, 6 EUR / Flasche“ ein Angebot abgegeben haben.\n\n**2. Definition:** Ein Angebot ist eine Willenserklärung, durch die dem anderen Teil ein Vertragsschluss so angetragen wird, dass das Zustandekommen des Vertrags nur noch von dessen Einverständnis abhängt. Es muss die wesentlichen Vertragsbestandteile (essentialia negotii) enthalten, und es muss Rechtsbindungswille vorhanden sein.\n\n**3. Subsumtion:** Ware und Preis sind der Tafel zu entnehmen. Fraglich ist jedoch, ob W damit einen Rechtsbindungswillen zum Ausdruck gebracht hat. Dies ist durch Auslegung zu ermitteln. Maßgeblich ist nicht der innere Wille der W, sondern wie ihre Äußerung vom Empfängerhorizont her zu verstehen war (§§ 133, 157 BGB); heranzuziehen sind alle für einen objektiven Beobachter erkennbaren Umstände. Wer sich – wie W mit einer Schaufensterauslage – an das breite Publikum wendet, muss sich vor einem verbindlichen Vertragsschluss vorbehalten, die eigene Leistungsfähigkeit (hier: den vorhandenen Vorrat) und die Zahlungsfähigkeit des Gegners zu prüfen. Andernfalls müsste W mit jedem Kunden einen Vertrag schließen, auch wenn ihr Bestand längst erschöpft ist. Zwar spricht die Tafel von „Angebot“. In der Verbindung „im Angebot“ bezeichnet das Wort nach allgemeinem Sprachverständnis aber nur eine Ware zu einem günstigen Preis („Sonderangebot“), nicht eine verbindliche Rechtserklärung. Ein objektiver Empfänger konnte die Tafel daher nur als Aufforderung verstehen, seinerseits Angebote abzugeben (invitatio ad offerendum).\n\n**4. Ergebnis:** W hat durch die Tafel kein Angebot abgegeben. Die gegenteilige Rechtsansicht des K ist eine im Sachverhalt geäußerte Rechtsausführung, die nicht verbindlich ist und hier widerlegt wird.\n\n### II. Angebot des K und Annahme durch W\n\n**1. Angebot des K:** Mit der Erklärung „Ich nehme zwölf Flaschen von dem Rotwein aus dem Fenster“ hat K der W einen Vertragsschluss über zwölf Flaschen zum ausgeschriebenen Preis angetragen; die Erklärung ist so bestimmt, dass ein einfaches „Ja“ genügt hätte. K hat damit ein Angebot abgegeben.\n\n**2. Annahme durch W:** W müsste dieses Angebot angenommen haben. Eine Annahme ist eine grundsätzlich empfangsbedürftige Willenserklärung, durch die der Angebotsempfänger sein uneingeschränktes Einverständnis mit dem angetragenen Vertragsschluss zum Ausdruck bringt. W hat erklärt, die Restbestände seien reserviert. Damit hat sie gerade kein Einverständnis erklärt, sondern den Vertragsschluss abgelehnt. Eine Annahme liegt nicht vor.\n\n### III. Ergebnis\n\nK und W haben keinen Kaufvertrag geschlossen. K hat gegen W keinen Anspruch auf Übergabe und Übereignung von zwölf Flaschen Rotwein aus § 433 Abs. 1 S. 1 BGB.",
+  "rubric": [
+    "Teil 1: Korrekter erster Obersatz im Konjunktiv mit Tathandlung („durch das Abschalten“), Delikt und genauer Norm (§ 212 Abs. 1 StGB); kein „da/weil“",
+    "Teil 1: Erkennen des Problemschwerpunkts (Todeszeitpunkt) aus dem Sachverhaltshinweis „Gesamthirntod“ und knappe Einleitung des Meinungsstreits",
+    "Teil 1: Darstellung von mindestens zwei Ansichten (Gesamthirntod, Herztod; ggf. Teilhirn-/Kortikaltod) jeweils mit Begründung und inhaltsbezogener Bezeichnung",
+    "Teil 1: Gesonderte Subsumtion und Ergebnis unter jede Ansicht (Herztod: Tötung; Gesamthirntod/Kortikaltod: keine Tötung)",
+    "Teil 1: Feststellung, dass die Ergebnisse auseinanderfallen und daher eine Stellungnahme erforderlich ist",
+    "Teil 1: Sachliche Stellungnahme mit Argumenten (zentrale Steuerungsinstanz, Bewusstsein und Biologie; Transplantationsmedizin kein Argument), ohne „meines Erachtens“; Ergebnis: objektiver Tatbestand (−)",
+    "Teil 2: Obersatz mit W-Formel (Wer will was von wem woraus?) und passender Norm § 433 Abs. 1 S. 1 BGB; Voraussetzung Kaufvertrag durch Angebot und Annahme",
+    "Teil 2: Definition des Angebots einschließlich Rechtsbindungswille; Auslegung nach §§ 133, 157 BGB aus objektiver Empfängersicht",
+    "Teil 2: Einordnung der Schaufenstertafel als invitatio ad offerendum mit Begründung (breites Publikum, Vorrat/Leistungsfähigkeit, „im Angebot“ = Sonderangebot) und Behandlung der Rechtsansicht des K als zu erörternde Rechtsausführung",
+    "Teil 2: Erklärung des K als Angebot; Definition der Annahme; Ablehnung durch W → keine Annahme",
+    "Beide Teile: Ergebnisse als wortgleiches Gegenstück der Obersätze, eindeutig, im Indikativ; Definitionen und Subsumtion im Indikativ; Schwerpunktsetzung (Unproblematisches knapp)"
+  ],
+  "src": [
+    {
+      "doc": "PROP_1",
+      "page": 102
+    },
+    {
+      "doc": "PROP_1",
+      "page": 120
+    },
+    {
+      "doc": "PROP_1",
+      "page": 121
+    },
+    {
+      "doc": "PROP_1",
+      "page": 122
+    },
+    {
+      "doc": "PROP_1",
+      "page": 123
+    },
+    {
+      "doc": "PROP_1",
+      "page": 131
+    },
+    {
+      "doc": "PROP_1",
+      "page": 135
+    },
+    {
+      "doc": "PROP_1",
+      "page": 160
+    },
+    {
+      "doc": "PROP_1",
+      "page": 173
+    },
+    {
+      "doc": "PROP_1",
+      "page": 174
+    },
+    {
+      "doc": "PROP_1",
+      "page": 179
+    },
+    {
+      "doc": "PROP_1",
+      "page": 184
+    },
+    {
+      "doc": "PROP_1",
+      "page": 185
+    }
+  ]
+}

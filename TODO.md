@@ -7,7 +7,9 @@
 - [ ] Prüfen, ob „Einsendeaufgabe Teil 3“ tatsächlich KE 1–3 abdeckt (Annahme in `content/deadlines.json`)
 
 ## Inhalt
-- [ ] Vorbereitete Lerneinheiten für BGB KE 4–8, Verfassungsrecht und Propädeutikum. Mit API-Schlüssel per Knopfdruck unter *Meine Module*; besser wären geprüfte, vorbereitete Pakete.
+- [x] Vorbereitete Lerneinheiten für alle Kapitel (30 Einheiten, 12 Übungsklausuren)
+- [ ] Verfassungsrecht KE 2: Lerneinheit erstellen, sobald die Unterlagen vorliegen
+- [ ] Lerneinheiten wurden automatisch geprüft (Struktur, Seitenbelege), aber nicht von einer Fachperson gegengelesen. Bei Zweifeln gilt das Skript bzw. das Gesetz.
 - [ ] Mögliche Unstimmigkeiten im Skript, die beim Erstellen auffielen. Sie wurden in den Lerneinheiten vorsichtig formuliert und sollten anhand des Gesetzes geprüft werden:
   - KE 2, S. 30 / 51: Vernehmungstheorie, h.M. vs. Rechtsprechung
   - KE 2, S. 16 vs. 24: § 119 direkt oder analog bei fehlendem Erklärungsbewusstsein

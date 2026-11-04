@@ -34,6 +34,8 @@ try {
   await page.getByText(/Heutige Lerneinheit (starten|fortsetzen)|Noch einmal ansehen/).first().waitFor();
 
   step("Start session");
+  const cur = await (await page.request.get(BASE + "/api/session")).json();
+  if (cur.session.status !== "planned") await page.request.post(BASE + "/api/session", { data: { id: cur.session.id, action: "restart" } });
   await page.goto(BASE + "/lerneinheit");
   const los = page.getByRole("button", { name: /Los geht/ });
   if (await los.count()) await los.click();

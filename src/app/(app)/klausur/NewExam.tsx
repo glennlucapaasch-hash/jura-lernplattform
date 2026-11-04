@@ -32,7 +32,7 @@ export function NewExam({ ai, modules, offline, initialModule }: { ai: boolean; 
       </div>
       <div className="flex flex-wrap gap-2">
         <button onClick={() => setSource("ai")} disabled={!ai} className={cx("rounded-xl border px-3 py-2 text-left text-sm disabled:opacity-50", source === "ai" ? "border-brand-400 bg-brand-50" : "border-line")}><span className="font-medium">Neuer Fall vom KI-Dozenten</span><br /><span className="text-ink-soft">aus deinen bereits bearbeiteten Themen{ai ? "" : " (API-Schlüssel nötig)"}</span></button>
-        <button onClick={() => setSource("offline")} className={cx("rounded-xl border px-3 py-2 text-left text-sm", source === "offline" ? "border-brand-400 bg-brand-50" : "border-line")}><span className="font-medium">Fall aus den Lerneinheiten</span><br /><span className="text-ink-soft">Fälle aus deinen Skripten</span></button>
+        <button onClick={() => setSource("offline")} className={cx("rounded-xl border px-3 py-2 text-left text-sm", source === "offline" ? "border-brand-400 bg-brand-50" : "border-line")}><span className="font-medium">Vorbereiteter Fall</span><br /><span className="text-ink-soft">12 Klausurfälle + Gutachtenfälle aus den Lerneinheiten</span></button>
       </div>
       {source === "ai" && (
         <div className="flex gap-1">{[1, 2, 3].map((d) => <button key={d} onClick={() => setDifficulty(d)} className={cx("rounded-full border px-3 py-1 text-sm", difficulty === d ? "border-brand-400 bg-brand-50 text-brand-700" : "border-line text-ink-soft")}>{["", "leicht", "mittel", "schwer"][d]}</button>)}</div>

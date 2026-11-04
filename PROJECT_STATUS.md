@@ -16,12 +16,12 @@ Stand: 04.11.2026
 
 ## Inhalte
 - Gliederung aller Unterlagen: `content/curriculum/*.json` (BGB KE 1–8, VerfR KE 1+3 sowie Platzhalter für KE 2, Propädeutikum)
-- Vorbereitete Lerneinheiten mit Erklärung kurz und ausführlich, Definitionen, Schemata, 17–18 Aufgaben in allen 8 Formaten, Gutachtenfall und Karteikarten:
-  - `bgb-ke1-gutachten-privatautonomie` (KE 1: Gutachten, § 1)
-  - `bgb-ke2-willenserklaerung` (KE 2: § 2)
-  - `bgb-ke2-zugang` (KE 2: § 3)
-  - `bgb-ke3-vertragsschluss` (KE 3: §§ 4–6)
-- Für alle weiteren Kapitel erstellt die KI Lerneinheiten auf Knopfdruck, sobald ein API-Schlüssel hinterlegt ist.
+- **30 vorbereitete Lerneinheiten** (`content/lessons/`). Sie decken alle Kapitel ab: BGB AT KE 1–8, Verfassungsrecht KE 1 und 3, Propädeutikum.
+  - Jede Einheit enthält eine Erklärung (kurz und ausführlich), Definitionen, Prüfungsschemata, Aufgaben in allen 8 Formaten, einen Gutachtenfall und Karteikarten. Jedes Element ist mit Seitenangabe belegt.
+  - Zusammen sind das **715 Aufgaben** und **426 Karteikarten**.
+- **12 Übungsklausuren** mit Musterlösung im Gutachtenstil und Bewertungspunkten (`content/exams/`).
+- Jede Lerneinheit wurde mit `scripts/validate-content.ts` geprüft: Struktur, Antwortindizes, Seitenbelege innerhalb des Abschnitts und Abdeckung aller Unterabschnitte.
+- **Die App ist vollständig ohne KI nutzbar.** Die KI bleibt eine optionale Ergänzung für den Dozenten-Dialog, die automatische Korrektur und neue Fälle.
 
 ## Tests
 - `npm test`: 20 Tests für Planer, Lernstand, Bewertung, Gliederungserkennung, Upload, Retrieval und Quellenprüfung
