@@ -325,7 +325,95 @@
    "status": "unconfirmed",
    "source": "Moodle 55101, FAQ (Foto vom 04.11.2026)",
    "note": "Laut FAQ verschickt die FernUni im Wintersemester Mitte Dezember die Informationen zu Prüfungsformen und -modalitäten; danach ist die Prüfungsanmeldung über POS möglich."
+  },
+  {
+   "id": "ag-55101-2026-11-18",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2026-11-18",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2026-12-02",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2026-12-02",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2026-12-09",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2026-12-09",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2026-12-16",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2026-12-16",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2027-01-06",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2027-01-06",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2027-01-13",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2027-01-13",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2027-01-20",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2027-01-20",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
+  },
+  {
+   "id": "ag-55101-2027-01-27",
+   "moduleId": "55101",
+   "kind": "ag",
+   "title": "AG BGB AT (Schmöning 1, Zoom)",
+   "date": "2027-01-27",
+   "time": "08:00–11:00",
+   "status": "confirmed",
+   "source": "Moodle 55101, AG-Übersicht „Schmöning 1“ (Foto vom 04.11.2026)",
+   "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
   }
  ],
- "revision": 4
+ "revision": 5
 }
