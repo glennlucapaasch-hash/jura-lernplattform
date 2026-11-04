@@ -31,7 +31,7 @@ export async function POST(req: Request) {
   res.cookies.set(SESSION_COOKIE, await createSessionToken(), {
     httpOnly: true,
     sameSite: "lax",
-    secure: new URL(req.url).protocol === "https:",
+    secure: new URL(req.url).protocol === "https:" || req.headers.get("x-forwarded-proto") === "https",
     path: "/",
     maxAge: SESSION_DAYS * 86400,
   });

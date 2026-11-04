@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "Jura-Lernbegleiter",
   description: "Persönlicher Studienbegleiter für das Jurastudium an der FernUniversität in Hagen",
   appleWebApp: { capable: true, title: "Jura", statusBarStyle: "default" },
+  robots: { index: false, follow: false },
 };
 
 export const viewport: Viewport = {
