@@ -1,0 +1,1342 @@
+{
+  "id": "prop-mc-klausurtraining",
+  "moduleId": "55100",
+  "ke": null,
+  "kind": "drill",
+  "topicIds": [
+    "prop-a",
+    "prop-b",
+    "prop-c",
+    "prop-d",
+    "prop-e",
+    "prop-f"
+  ],
+  "title": "MC-Klausurtraining Propädeutikum",
+  "estMinutes": 75,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "So funktioniert die Modulabschlussklausur (Multiple Choice)",
+      "short": "Ab dem WiSe 2026/27 ist die Abschlussprüfung im Modul 55100 eine Multiple-Choice-Klausur statt einer Gutachtenklausur: eine zweistündige E-Klausur, die Sie zu Hause unter Online-Aufsicht schreiben. Termin laut Folien: 10.03.2027, 16:00–18:00 Uhr; fristwahrende Anmeldung vom 04.01. bis 01.02.2027. Eine freiwillige Probeklausur in Moodle läuft vom 19.01. bis 31.01.2027. Inhalte und Prüfungsrelevanz bleiben unverändert.",
+      "long": "## Was sagen die Folien der 1. Online-Lektion? (Folien 9 und 11, Stand 19.10.2026)\n\n- **Bestehen des Moduls:** Dafür ist das erfolgreiche Absolvieren der Abschlussprüfung notwendig.\n- **Format:** zweistündige **E-Klausur** – Sie schreiben sie **zu Hause unter Online-Aufsicht**. Einzelheiten zur Aufsicht kündigen die Folien „im Laufe des Semesters“ an.\n- **Neu ab diesem Semester:** **Multiple-Choice-Klausur, keine Gutachtenklausur.**\n- **Inhalte und Prüfungsrelevanz bleiben unverändert** – nur das Format ändert sich. Vorteil laut Folie: zeitnahe Ergebnisse statt wochenlangen Wartens auf die Korrektur.\n\n## Termine (Ablaufplan, Folie 9)\n\n| Was | Wann |\n|---|---|\n| Anmeldezeitraum Modulabschlussklausur | 04.01.2027 bis 01.02.2027 über das Prüfungsportal (pos.fernuni-hagen.de) – **fristwahrende Anmeldung erforderlich** |\n| Probeklausur in Moodle | 19.01.2027 bis 31.01.2027, **1 Stunde** Bearbeitungszeit, freiwillig und ohne Anmeldung |\n| 11. Online-Lektion | 01.02.2027, 18:00 Uhr: Besprechung der Probeklausur, Vorbereitung auf die Abschlussklausur |\n| **Modulabschlussklausur** | **10.03.2027, 16:00 bis 18:00 Uhr** |\n\n*Quelle: Folienskript der 1. Online-Lektion (Lehrstuhl). Maßgeblich bleiben die aktuellen Ankündigungen in Moodle und im Prüfungsportal.*\n\n## Was heißt das für Ihr Lernen?\n\n- Weil die **Inhalte gleich bleiben**, müssen Sie Gutachtentechnik, Auslegung, Meinungsstreit und Prämissensuche weiterhin *verstehen* – geprüft wird nur in anderer Form, etwa: Welcher Obersatz ist korrekt formuliert? Welche Auslegungsmethode liegt vor? Welche Aussage zum Sachverhalt trifft zu?\n- Dieses Training enthält deshalb drei Aufgabenarten: **Einfachauswahl** (genau eine richtige Antwort), **Mehrfachauswahl** (die Aufgabe nennt, wie viele Antworten richtig sind) und **Richtig/Falsch**.\n- Stufen: *Wiedererkennen* (Begriffe, Definitionen), *Verstehen* (Zusammenhänge, Gründe) und *Anwenden* (kurzer Sachverhalt – welche Aussage stimmt?).\n- Tipp für MC: Lesen Sie jede Antwortoption als eigenständige Aussage und prüfen Sie sie gegen den Studienbrief. Typische Fallen sind vertauschte Begriffe (Tatbestand/Rechtsfolge, Alt./Var.), absolute Wörter („immer“, „nie“, „ausschließlich“) und Aussagen, die nur zur Hälfte stimmen.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 9
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 11
+        }
+      ]
+    }
+  ],
+  "definitions": [],
+  "schemas": [],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was verstehen Juristen nach dem Studienbrief unter einem „Fall“?",
+      "options": [
+        "Eine Streitigkeit zwischen wenigstens zwei Parteien, die zu ihrer Lösung einer rechtlichen Entscheidung bedarf",
+        "Jeden zwischenmenschlichen Konflikt, auch wenn er sich ohne rechtliche Entscheidung lösen lässt",
+        "Ausschließlich einen bereits vor Gericht anhängigen Rechtsstreit",
+        "Einen abstrakt-generellen Tatbestand, den der Gesetzgeber geregelt hat"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 17 f.: Ein Fall ist eine Streitigkeit zwischen wenigstens zwei Parteien, die zu ihrer Lösung einer rechtlichen Entscheidung bedarf. Kommt er vor Gericht, wird er zum „Rechtsstreit“. Der Fall gehört zum Sein, das Recht zum Sollen.",
+      "hints": [
+        "Drei Elemente: Streit, Parteien, rechtliche Entscheidung.",
+        "Der Rechtsstreit ist der Fall vor Gericht – nicht umgekehrt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 16
+        },
+        {
+          "doc": "PROP_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bleibt der tatsächliche Hergang eines Falls ungeklärt („non liquet“), darf sich der Richter auf das Urteil „unentschieden“ zurückziehen.",
+      "answer": false,
+      "explanation": "S. 18: Juristen, besonders Richter, stehen unter Entscheidungszwang. Bei offenem Hergang geben Beweislastregeln den Ausschlag.",
+      "hints": [
+        "Denken Sie an den Entscheidungszwang.",
+        "Was hilft, wenn sich der Hergang nicht klären lässt?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "In einem Gutachten heißt es: „V hat gegenüber K ein Angebot erklärt, das K angenommen hat. Damit ist ein Vertrag gem. § 433 BGB zustande gekommen.“ Welche Aussage trifft nach dem Studienbrief zu?",
+      "options": [
+        "Es handelt sich um ein Enthymem: Die selbstverständliche Prämisse, dass Kaufverträge durch Angebot und Annahme zustande kommen, bleibt unausgesprochen.",
+        "Es handelt sich um einen vollständigen Syllogismus, weil alle drei Sätze ausdrücklich genannt sind.",
+        "Die Begründung ist unzulässig, weil im Gutachten jede Prämisse ausgeschrieben werden muss.",
+        "Es handelt sich um einen Erst-recht-Schluss vom Größeren auf das Kleinere."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 22: Der Text enthält Untersatz und Schlusssatz; der Obersatz (Kaufverträge kommen durch Angebot und Annahme zustande) fehlt. Solche unvollständigen Schlüsse heißen Enthymeme – knapp, für Kundige verständlich und wirken wie ein vollständiger Schluss.",
+      "hints": [
+        "Welcher der drei Sätze eines Syllogismus fehlt?",
+        "Wie nennt der Studienbrief „Lückentext-Schlüsse“?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Anforderungen stellt der Studienbrief an eine gute Definition? Wählen Sie zwei zutreffende Antworten.",
+      "options": [
+        "Das Definierte darf nicht im Erklärungsteil enthalten sein (Verbot der Zirkularität).",
+        "Sie sollte weder zu eng noch zu weit gefasst sein.",
+        "Sie muss stets wörtlich aus einem Gesetz stammen.",
+        "Sie sollte die konkreten Tatsachen des Falls enthalten, damit die Subsumtion leichter fällt."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "S. 37: speziell, eindeutig, nicht widersprüchlich, weder zu eng noch zu weit; Verbot der Zirkularität (falsch: „Ein Anspruch ist ein Recht, mit dem man etwas beanspruchen kann“). Definitionen stammen oft aus Lehre und Rechtsprechung, und sie sind abstrakt, also ohne Sachverhaltstatsachen.",
+      "hints": [
+        "Denken Sie an das Anspruch-Beispiel.",
+        "Definitionen sind abstrakt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wie zitieren Sie nach dem Studienbrief den ersten Halbsatz von Satz 1 des Absatzes 1 des § 326 BGB?",
+      "options": [
+        "§ 326 Abs. 1 S. 1, 1. Hs. BGB",
+        "§ 326 (1) S. 1 1. Hs. BGB",
+        "§ 326 1. Hs., S. 1, Abs. 1 BGB",
+        "§326Abs.1S.1Hs.1BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 46: „§ 326 Abs. 1 S. 1, 1. Hs. BGB“ – Leerstellen einhalten, vom Großen zum Kleinen, Komma vor dem Halbsatz. In Klausuren ist für den Absatz auch die römische Zahl ohne „Abs.“ erlaubt.",
+      "hints": [
+        "Reihenfolge: Paragraf – Absatz – Satz – Halbsatz – Gesetz.",
+        "Klammern wie im Gesetzestext gehören nicht ins Zitat."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "§ 604 Abs. 1 BGB lautet: „Der Entleiher ist verpflichtet, die geliehene Sache nach dem Ablauf der für die Leihe bestimmten Zeit zurückzugeben.“ Welche Zuordnung von Tatbestand und Rechtsfolge ist richtig?",
+      "options": [
+        "Tatbestand: Die für die Leihe bestimmte Zeit ist abgelaufen. – Rechtsfolge: Der Entleiher muss die Sache zurückgeben.",
+        "Tatbestand: Der Entleiher muss die Sache zurückgeben. – Rechtsfolge: Die Leihzeit ist abgelaufen.",
+        "Tatbestand und Rechtsfolge fallen hier zusammen, weil die Norm nur aus einem Satz besteht.",
+        "Die Norm hat keinen Tatbestand, sondern nur eine Rechtsfolge."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 47: Rechtsnormen sind normative, abstrakt-generelle Konditionalverknüpfungen. Das „Wenn“ (Ablauf der Leihzeit) ist der Tatbestand, das „Dann“ (Rückgabepflicht) die Rechtsfolge – genau dieses Beispiel nennt der Studienbrief.",
+      "hints": [
+        "Formulieren Sie die Norm als „Wenn …, dann …“.",
+        "Die Rechtsfolge ist das, was „gelten soll“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Studentin S sucht für einen Fall eine passende Norm, liest sie, schaut erneut in den Sachverhalt, präzisiert ihr Verständnis des Problems und sucht dann weiter. Wie beschreibt der Studienbrief dieses Vorgehen?",
+      "options": [
+        "Als ständige Kreisbewegung zwischen gefundenen Rechtssätzen und sachverhaltlichem Rechtsproblem („hermeneutischer Zirkel“)",
+        "Als fehlerhafte Petitio principii, weil die Begründung das Ergebnis voraussetzt",
+        "Als Sachverhaltsquetsche, weil der Sachverhalt an die Norm angepasst wird",
+        "Als vollständigen Justizsyllogismus, der nur einen Durchgang erfordert"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 58: Man blickt immer wieder in den Sachverhalt und prüft, ob die gefundenen Rechtssätze passen; das Problemverständnis ändert sich mit wachsendem Verständnis der Rechtslage (Fn.: „hermeneutischer Zirkel“). Das ist kein Fehler, sondern Methode.",
+      "hints": [
+        "Norm und Sachverhalt beeinflussen sich gegenseitig.",
+        "Der Begriff steht in einer Fußnote auf S. 58."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Nach dem Studienbrief genügt für eine Falllösung die sichere Beherrschung des Justizsyllogismus; weitere Fähigkeiten sind nicht erforderlich.",
+      "answer": false,
+      "explanation": "S. 58: Der Justizsyllogismus ist das Ideal einer Arbeitsstruktur. Zur Falllösung gehören aber ebenso die Erfassung des Sachverhalts, die Suche der ersten Prämissen, die Gutachtentechnik sowie Formulierungs- und Argumentationskunst.",
+      "hints": [
+        "Der Studienbrief zählt vier weitere Elemente auf.",
+        "„Nicht minder“ wichtig …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Im Studium ist der Sachverhalt vorgegeben und in allen Teilen „unstreitig“; die Lösung steht bereits fest.",
+      "answer": true,
+      "explanation": "S. 62: Der Sachverhalt vertextet einen angenommenen Rechtsstreit; er ist vorgegeben, unstreitig, und die Lösung steht fest – auch wenn bei Details Spielräume bleiben.",
+      "hints": [
+        "Wer hat sich den Sachverhalt ausgedacht?",
+        "Anders ist es in der Praxis."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A verklagt B auf Übergabe eines Pkw gegen Zahlung von 4.000 EUR; B behauptet, man habe sich auf 5.000 EUR geeinigt. Worin liegt nach dem Studienbrief die eigentliche Herausforderung dieses Praxisfalls?",
+      "options": [
+        "In der Sachverhaltsermittlung: ob sich A und B auf 4.000 EUR oder 5.000 EUR geeinigt haben",
+        "In der Frage, ob ein mündlicher Kaufvertrag überhaupt wirksam sein kann",
+        "In der Auslegung des Begriffs „Kaufpreis“",
+        "In einem Meinungsstreit über die Zulässigkeit von Zug-um-Zug-Klagen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 62 (Beispiel 1): Die Schwierigkeit liegt nicht in der rechtlichen Bewertung, sondern in der Frage, was als Sachverhalt gilt. In der Praxis liegt der Schwerpunkt oft bei dieser Sachverhaltsermittlung.",
+      "hints": [
+        "Ist hier die Rechtslage oder die Tatsachenlage unklar?",
+        "Praxis: zwei Ebenen der Arbeit."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Warum empfiehlt der Studienbrief, den Sachverhalt vor der Fallfrage zu lesen?",
+      "options": [
+        "Um ihn unvoreingenommen zu betrachten und nicht durch die Fallfrage nur einzelne Aspekte wahrzunehmen",
+        "Weil die Fallfrage für die Lösung grundsätzlich unerheblich ist",
+        "Weil man beim ersten Lesen bereits alle wichtigen Stellen farbig markieren soll",
+        "Damit man sofort die passende Anspruchsgrundlage notieren kann"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 65 f.: Erster Arbeitsschritt „Erfassen“ – Überblick über Personen, Beziehungen und Ablauf. Liest man die Fallfrage zuerst, richtet man die Aufmerksamkeit leicht nur auf einen Aspekt. Beim ersten Durchgang nur zurückhaltend unterstreichen.",
+      "hints": [
+        "Was bewirkt die Fallfrage beim Lesen?",
+        "Unterstreichen erst nach mehrfacher Lektüre."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-multi",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden Schritte gehören zu den vier Arbeitsschritten im Umgang mit dem Sachverhalt? Wählen Sie drei zutreffende Antworten.",
+      "options": [
+        "Erfassen",
+        "Ordnen (Gliedern)",
+        "Verarbeiten",
+        "Ergänzen fehlender Tatsachen durch eigene Annahmen"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "S. 65: Erfassen – Suchen und Sammeln – Ordnen – Verarbeiten; die Schritte laufen teils parallel. Eigene Unterstellungen sind dagegen grundsätzlich unzulässig (S. 71 f.).",
+      "hints": [
+        "Der vierte Schritt fehlt in der Liste: „Suchen und Sammeln“.",
+        "Darf man den Sachverhalt anreichern?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 64
+        },
+        {
+          "doc": "PROP_1",
+          "page": 70
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Im Sachverhalt steht, dass A „das Futter, das zur Äsung der Rehe und des Schwarzwilds im Wald ausliegt“, mitnimmt. Bearbeiter B erläutert seitenlang, dass man bei Schwarzwild nicht von „Äsung“ spreche. Wie ist das nach dem Studienbrief zu bewerten?",
+      "options": [
+        "Fehl am Platz: Faktische Angaben des Sachverhalts sind hinzunehmen, auch wenn man sie fachlich bezweifelt.",
+        "Lobenswert, weil es Sachkunde zeigt und Punkte bringt.",
+        "Notwendig, weil Sachverhaltsangaben stets auf Richtigkeit zu prüfen sind.",
+        "Richtig, weil damit eine Rechtsausführung des Sachverhalts widerlegt wird."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 71 f. (Beispiel 12): Ausdrückliche Auseinandersetzungen mit den faktischen Angaben sind fehl am Platz; die Fakten sind verbindlich, selbst wenn sie lebensfremd wirken.",
+      "hints": [
+        "Sind Tatsachenangaben verhandelbar?",
+        "„Äsung“ ist keine Rechtsausführung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 70
+        },
+        {
+          "doc": "PROP_1",
+          "page": 71
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Im Sachverhalt erklärt S, die vor 30 Jahren einen Ring von ihrer Schwester geliehen hat: „Nach dieser langen Zeit darf ich den Ring endgültig behalten.“ Diese Rechtsansicht der S ist verbindlich und ohne eigene Prüfung zu übernehmen.",
+      "answer": false,
+      "explanation": "S. 72 (Beispiel 13): Rechtsausführungen, die den Beteiligten in den Mund gelegt werden, sind weder verbindlich noch erschöpfend noch folgerichtig. Sie zeigen aber, welche Aspekte zu erörtern sind (hier: Ersitzung bzw. Verjährung) – sie sind zu belegen oder zu widerlegen.",
+      "hints": [
+        "Wer äußert die Rechtsansicht – der Erzähler oder eine Partei?",
+        "Rechtsausführungen sind Hinweise, keine Feststellungen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 71
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussage zu Rechtsaussagen im Sachverhalt trifft zu?",
+      "options": [
+        "Schildert der Erzähler, A habe „fahrlässig“ gehandelt, ist das ohne eigene Prüfung zu übernehmen; heißt es, A habe ein Restaurant „gemietet“ (in Anführungszeichen), ist das Mietverhältnis zu prüfen.",
+        "Alle rechtlichen Begriffe im Sachverhalt sind unverbindlich und stets vollständig zu prüfen.",
+        "Rechtsaussagen im Sachverhalt sind immer verbindlich, auch wenn sie in Anführungszeichen stehen.",
+        "Nur Rechtsausführungen der Beteiligten sind verbindlich, Aussagen des Erzählers nicht."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 72: Rechtsaussagen aus der objektiven Erzählerposition sind zu übernehmen; bewusst als fraglich gekennzeichnete Fachausdrücke (Anführungszeichen) sind dagegen zu klären. Rechtsausführungen der Beteiligten sind stets zu erörtern.",
+      "hints": [
+        "Unterscheiden Sie Erzähler und Beteiligte.",
+        "Was signalisieren Anführungszeichen?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 71
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ist im Sachverhalt von einem Vertrag die Rede und gibt es keinen Anlass zu Zweifeln, dürfen Sie von dessen Wirksamkeit ausgehen.",
+      "answer": true,
+      "explanation": "S. 73 (Vollständigkeitsprinzip): Informationen, die sich nicht ohne weiteres erschließen, sind entweder irrelevant oder vom Normalfall aus zu ergänzen – Gesetze und Verträge gelten ohne besonderen Hinweis als wirksam.",
+      "hints": [
+        "Der Sachverhalt enthält alle nötigen Informationen.",
+        "Vom Normalfall ausgehen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 72
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was kennzeichnet nach dem Studienbrief den Urteilsstil?",
+      "options": [
+        "Das Ergebnis steht am Anfang; die Begründung folgt danach.",
+        "Das Ergebnis wird als Hypothese im Konjunktiv vorangestellt und am Ende geprüft.",
+        "Er verzichtet auf jede Begründung.",
+        "Er ist der vorgeschriebene Stil für studentische Gutachten."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 85: Anders als der suchende Gutachtenstil („Ob?“) stellt der Urteilsstil das Ergebnis an den Anfang – typisch für die Gerichtsentscheidung, deren Suchprozess abgeschlossen ist.",
+      "hints": [
+        "Denken Sie an ein Gerichtsurteil.",
+        "„Ich kann länger schlafen – weil Feiertag ist.“"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Im Gutachten sind Verweise nach vorn wie „…, wie noch zu zeigen sein wird“ zulässig, sofern die Ausführungen später tatsächlich folgen.",
+      "answer": false,
+      "explanation": "S. 86: Nur feststellen, was zuvor begründet wurde – keine Verweise nach vorn. Rückbezüge („wie bereits festgestellt“, „s. o.“) sind erlaubt.",
+      "hints": [
+        "„s. u.“ ist falsch, „s. o.“ ist richtig.",
+        "Ordnung halten – keine Fäden fallen lassen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 85
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Mit welcher Formel ermitteln Sie im Zivilrecht die gutachtengegenständliche Rechtsfrage?",
+      "options": [
+        "Wer will was von wem?",
+        "Wer hat wann wo gehandelt?",
+        "Was ist strafbar und warum?",
+        "Welche Meinung herrscht vor?"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 97: W-Formel – Anspruchsteller (wer), Begehren (was), Anspruchsgegner (von wem); im ersten Obersatz kommt die Norm („woraus“) hinzu.",
+      "hints": [
+        "Anspruchsteller, Begehren, Anspruchsgegner.",
+        "Drei W-Fragen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 96
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Welcher Satz ist nach dem Studienbrief grammatisch korrekt im Irrealis gebildet?",
+      "options": [
+        "A hätte Recht, wenn B am Vortag gekündigt hätte.",
+        "A hätte Recht, wenn B am Vortag gekündigt hat.",
+        "A würde Recht haben, wenn B am Vortag kündigen würde.",
+        "A hat Recht, wenn B am Vortag gekündigt hätte."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 98: Das gesamte Konditionalgefüge steht im Irrealis („b wäre, wenn a wäre“). Die Bildung mit „würde“ dringt vor, sollte in Prüfungsarbeiten aber vermieden werden.",
+      "hints": [
+        "Beide Satzteile in denselben Modus.",
+        "„Ich flög´ zu dir, wenn ich ein Vöglein wäre.“"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 97
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Die Formulierung „Fahrlässig handelt, wer die im Verkehr erforderliche Achtsamkeit verletzt, § 276 II BGB“ ist eine zulässige Wiedergabe der Legaldefinition.",
+      "answer": false,
+      "explanation": "S. 119: Legaldefinitionen müssen in ihren wesentlichen Begriffen wörtlich verwendet werden. Richtig: „Gemäß § 276 II BGB handelt fahrlässig, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt.“",
+      "hints": [
+        "Achtsamkeit oder Sorgfalt?",
+        "Wesentliche Begriffe dürfen nicht variiert werden."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 118
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Anforderungen stellt der Studienbrief an das Ergebnis eines Prüfungsabschnitts? Wählen Sie zwei zutreffende Antworten.",
+      "options": [
+        "Es ist das wortgleiche Gegenstück des Obersatzes, aber entschieden bejahend oder verneinend.",
+        "Es ist objektiv zu formulieren, ohne Floskeln wie „meines Erachtens“.",
+        "Es beginnt mit „Ja“ oder „Nein“, damit der Leser sofort Bescheid weiß.",
+        "Es darf offen bleiben, wenn mehrere Lösungen vertretbar sind („dürfte … haben“)."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "S. 136 f., 139: Ergebnis = wortgleiches Gegenstück des Obersatzes, entschieden, ohne „Ja/Nein“; eindeutig, keine Alternativlösungen oder Offenheit; sachliche Feststellung ohne „ich denke“ oder „meines Erachtens“.",
+      "hints": [
+        "Kongruenz mit dem Obersatz.",
+        "Eindeutigkeitsgebot."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 136
+        },
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Sie haben den Kaufpreisanspruch des V gegen K bejaht, vermuten aber, dass er verjährt sein könnte. Wie verfahren Sie nach dem Studienbrief?",
+      "options": [
+        "Ich stelle fest: „V hat gegen K einen Anspruch auf Zahlung des Kaufpreises …“ und setze mit einem neuen Obersatz an: „Dieser Anspruch könnte jedoch verjährt sein.“",
+        "Ich formuliere: „V hat gegen K einen Anspruch auf Zahlung, soweit dieser nicht verjährt ist.“",
+        "Ich lasse das Ergebnis offen, bis die Verjährung geprüft ist.",
+        "Ich schreibe: „V dürfte einen Anspruch haben.“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 139: Auch ein absehbar nur vorläufiges Ergebnis ist unter dem vorliegenden Obersatz ohne Einschränkung festzustellen; die Einschränkung prüft man mit einem neuen Obersatz.",
+      "hints": [
+        "Ergebnisse ohne Vorbehalt.",
+        "Jede neue Frage = neuer Obersatz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Worin unterscheidet sich ein weiterer Obersatz („Möglicherweise hat V ein Angebot abgegeben.“) nach dem Studienbrief vom ersten Obersatz?",
+      "options": [
+        "Er wird nicht unmittelbar mit einer Rechtsnorm verbunden; die tragende Prämisse wird meist nur impliziert.",
+        "Er muss stets eine Anspruchsgrundlage mit Absatz und Satz nennen.",
+        "Er steht immer im Indikativ und enthält bereits das Ergebnis.",
+        "Er braucht keine Prämisse, weil er nur eine Tatsachenfrage stellt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 140: Im Unterschied zum ersten Obersatz wird ein weiterer Obersatz nicht unmittelbar mit einer Rechtsnorm verbunden. Trotzdem arbeitet man mit einer Norm oder anerkannten Prämisse – sie wird impliziert; ausdrücklich benennt man erst wieder deren Merkmale in Gestalt einer Definition.",
+      "hints": [
+        "Vergleichen Sie „gemäß § 433 II BGB“ mit „Möglicherweise hat V …“.",
+        "Wo tauchen die Merkmale wieder auf?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 139
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was ist nach der objektiven Theorie das Ziel der Gesetzesauslegung?",
+      "options": [
+        "Den im Gesetzeswortlaut verobjektivierten Willen des Gesetzgebers herauszufinden",
+        "Den subjektiven Willen der historischen Gesetzesverfasser zu ermitteln",
+        "Das für den Mandanten günstigste Ergebnis zu begründen",
+        "Die herrschende Meinung festzustellen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 144 f.: Maßgeblich ist der verobjektivierte Wille; auf den subjektiven Willen kommt es nicht an – er ist oft nicht feststellbar und durch veränderte Lebensumstände überholt.",
+      "hints": [
+        "Objektiv vs. subjektiv.",
+        "Was steht im Wortlaut?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        },
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Die Legaldefinition von „unverzüglich“ (ohne schuldhaftes Zögern) in § 121 Abs. 1 S. 1 BGB gilt nach dem Studienbrief im gesamten Privatrecht, z. B. auch für § 377 Abs. 1 HGB.",
+      "answer": true,
+      "explanation": "S. 145: Legaldefinitionen sind bindend; für „unverzüglich“ ist anerkannt, dass die Definition Allgemeingültigkeit im gesamten Privatrecht besitzt.",
+      "hints": [
+        "Legaldefinition = bindend.",
+        "Gilt sie nur in § 121 BGB selbst?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussage zum Verhältnis der klassischen Auslegungsmethoden trifft nach dem Studienbrief zu?",
+      "options": [
+        "Die teleologische Auslegung hat grundsätzlich Vorrang; die historische Auslegung kann ein gefundenes Ergebnis nur stützen.",
+        "Die historische Auslegung hat Vorrang, weil es auf den Willen der damaligen Gesetzesverfasser ankommt.",
+        "Der Wortlaut spielt keine Rolle, sobald der Zweck einer Norm bekannt ist.",
+        "Alle Methoden sind stets gleichrangig; das Ergebnis folgt aus der Mehrheit der Methoden."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 148: Für das Ergebnis entscheidend ist grundsätzlich die teleologische Auslegung (ratio legis). S. 150: Die historische Auslegung kann nur ein bereits gefundenes Ergebnis stützen. Der Wortlaut bleibt Ausgangspunkt (S. 145).",
+      "hints": [
+        "Sinn und Zweck.",
+        "Welche Methode „stützt“ nur?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Vater V kauft Eheringe für seine Tochter, weil er fest mit der Hochzeit rechnet. Die Hochzeit platzt. V meint, er könne den Kauf anfechten, weil er sich „geirrt“ habe. Mit welcher Argumentationsform verneint der Studienbrief ein Anfechtungsrecht?",
+      "options": [
+        "Umkehrschluss: § 119 BGB regelt bestimmte Irrtümer ausdrücklich, andere – wie der Motivirrtum – berechtigen daher nicht zur Anfechtung.",
+        "Erst-recht-Schluss: Wenn schon der Inhaltsirrtum zur Anfechtung berechtigt, dann erst recht der Motivirrtum.",
+        "Analogie: § 119 BGB wird auf den Motivirrtum entsprechend angewendet.",
+        "Teleologische Reduktion des § 119 BGB auf Eheringe."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 150: Argumentum e contrario – weil das Gesetz ähnlich gelagerte Fälle ausdrücklich regelt (Inhalts-, Erklärungs-, Eigenschaftsirrtum), fällt der ungeregelte Motivirrtum nicht darunter.",
+      "hints": [
+        "Was regelt § 119 BGB ausdrücklich – und was nicht?",
+        "„e contrario“ = aus dem Gegenteil."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Nach § 2255 BGB kann ein Testament durch Vernichtung oder Veränderung widerrufen werden. Erblasser E streicht nur einen einzelnen Absatz seines Testaments durch. Mit welcher Argumentationsform begründet der Studienbrief, dass auch dieser Teilwiderruf möglich ist?",
+      "options": [
+        "Erst-recht-Schluss (argumentum a maiore ad minus)",
+        "Umkehrschluss (argumentum e contrario)",
+        "Teleologische Reduktion",
+        "Effet utile"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 151: Wenn schon das gesamte Testament widerrufen werden kann, dann erst recht Teile davon – Schluss vom Größeren auf das Kleinere.",
+      "hints": [
+        "Ganzes → Teil.",
+        "Vom Mehr auf das Weniger."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "mc-multi",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Voraussetzungen nennt der Studienbrief für eine Analogie? Wählen Sie zwei zutreffende Antworten.",
+      "options": [
+        "Eine planwidrige Regelungslücke",
+        "Eine vergleichbare Interessenlage",
+        "Ein eindeutiger Wortlaut, der den Fall bereits erfasst",
+        "Eine ausdrückliche Verweisung im Gesetz auf die analog anzuwendende Norm"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "S. 151: Analogie = Anwendung einer Norm auf einen Fall, der sich nicht unter ihren Tatbestand subsumieren lässt; Voraussetzungen: planwidrige Regelungslücke und vergleichbare Interessenlage. Erfasst der Wortlaut den Fall, braucht es keine Analogie.",
+      "hints": [
+        "Es muss eine Lücke geben – und zwar eine ungewollte.",
+        "Sind die Fälle vergleichbar?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "q31",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "G ist Vertreter des M und schließt im Namen des M mit sich selbst ein Geschäft, das für M lediglich rechtlich vorteilhaft ist. Nach dem Studienbrief findet § 181 BGB hier keine Anwendung. Wie nennt man dieses methodische Vorgehen?",
+      "options": [
+        "Teleologische Reduktion: Die Norm wird trotz einschlägigen Wortlauts nicht angewendet, weil ihr Zweck (Schutz vor Interessenkonflikten) nicht betroffen ist.",
+        "Analogie: § 181 BGB wird über seinen Wortlaut hinaus angewendet.",
+        "Umkehrschluss aus § 107 BGB",
+        "Extensive Auslegung des § 181 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 152: Bei der teleologischen Reduktion wird eine Norm trotz ihres einschlägigen Wortlauts nicht angewendet, weil der Gesetzeszweck die Anwendung verbietet – bei § 181 BGB etwa, wenn das Geschäft für den Vertretenen lediglich rechtlich vorteilhaft ist.",
+      "hints": [
+        "Wortlaut passt – aber passt der Zweck?",
+        "Gegenstück zur Analogie."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "id": "q32",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "E verkauft D einen Pkw unter Eigentumsvorbehalt; D lässt ihn bei W reparieren. Warum entsteht nach dem Studienbrief kein Werkunternehmerpfandrecht des W nach § 647 BGB unmittelbar aus dem Gesetz?",
+      "options": [
+        "Weil § 647 BGB nach seinem Wortlaut eine Sache „des Bestellers“ voraussetzt und Besteller D nicht Eigentümer ist",
+        "Weil Werkunternehmerpfandrechte nur an Grundstücken entstehen können",
+        "Weil § 647 BGB nur für Kaufverträge gilt",
+        "Weil W keinen Werkvertrag mit D geschlossen hat"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 153 f.: Der Wortlaut („Sache des Bestellers“) setzt Eigentum des Bestellers voraus; Besteller war D, Eigentümer E. Auch ein gutgläubiger Erwerb über § 1207 BGB (systematisch nur für vertragliche Pfandrechte) oder § 1257 BGB scheidet aus.",
+      "hints": [
+        "Lesen Sie den Wortlaut des § 647 BGB genau.",
+        "Wer ist Eigentümer, wer Besteller?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 152
+        },
+        {
+          "doc": "PROP_1",
+          "page": 153
+        }
+      ]
+    },
+    {
+      "id": "q33",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Im Beispiel zum Werkunternehmerpfandrecht lässt der Studienbrief einen gutgläubigen Erwerb gesetzlicher Pfandrechte im BGB im Wege eines Erst-recht-Schlusses aus § 366 Abs. 3 HGB zu.",
+      "answer": false,
+      "explanation": "S. 154 f.: Von einer Spezialregelung des Handelsrechts kann man nicht auf das allgemeine Bürgerliche Recht schließen – das wäre ein Schluss vom Speziellen auf das Allgemeine, kein Erst-recht-Schluss. Historisch spricht die Norm (aus dem AHGB von 1862) eher für den Umkehrschluss. Eine Analogie zu § 1207 BGB scheidet aus.",
+      "hints": [
+        "In welche Richtung müsste der Erst-recht-Schluss gehen?",
+        "Spezial → allgemein?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 153
+        },
+        {
+          "doc": "PROP_1",
+          "page": 154
+        }
+      ]
+    },
+    {
+      "id": "q34",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Der idealtypische Fünfschritt lautet: Obersatz – ? – Definition – Subsumtion – Ergebnis. Welcher Schritt fehlt?",
+      "options": [
+        "Voraussetzung",
+        "Stellungnahme",
+        "Sachverhaltswiedergabe",
+        "Normzitat"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 156: Auf die Frage im Obersatz folgt die Voraussetzung, unter der sie bejaht werden kann; diese wird durch eine Definition erläutert, dann wird subsumiert und das Ergebnis festgestellt. In der Praxis wird der Fünfschritt oft verkürzt, immer erweitert.",
+      "hints": [
+        "Unter welcher Bedingung kann der Obersatz bejaht werden?",
+        "Folie: „Voraussetzung(en)“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 155
+        }
+      ]
+    },
+    {
+      "id": "q35",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wann ist die „Insbesondere-Prüfung“ (nur ein Merkmal wird stellvertretend geprüft) nach dem Studienbrief erlaubt? Wählen Sie drei zutreffende Antworten.",
+      "options": [
+        "Wenn es sich um eine eher nebensächliche Prüfung handelt",
+        "Wenn alle weiteren Merkmale offensichtlich unproblematisch sind",
+        "Wenn das ausgewählte Merkmal deutlich die kritischste Bedingung („Flaschenhals“) ist",
+        "Immer dann, wenn in der Klausur die Zeit knapp wird, unabhängig vom Schwerpunkt"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "S. 158: Die drei Bedingungen müssen vorliegen. Anfänger sollen sich nur mit äußerster Vorsicht daran wagen und danach hinzufügen, dass „alle übrigen Voraussetzungen erfüllt sind“.",
+      "hints": [
+        "pars pro toto – nur unter engen Bedingungen.",
+        "Zeitnot ist kein methodisches Kriterium."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "id": "q36",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bei einem gänzlich unzweifelhaften Fall darf man die Prüfung auf eine knappe Feststellung verkürzen und dabei Feststellungen und Begründungen im Urteilsstil verwenden.",
+      "answer": true,
+      "explanation": "S. 161: Die „knappe Feststellung“ kommt in Betracht, wenn der Fall gänzlich unzweifelhaft ist und andere Probleme warten – häufig gegen Ende eines Abschnitts, wo fernerliegende Normen abgehakt werden.",
+      "hints": [
+        "Kurzform: Obersatz – Subsumtion/Ergebnis.",
+        "Wo im Gutachten findet man solche Kurzprüfungen?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 160
+        }
+      ]
+    },
+    {
+      "id": "q37",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "„V könnte einen Anspruch aus § 433 Abs. 2 BGB haben. Das setzt einen wirksamen Kaufvertrag voraus. Dafür müssten V und K zwei übereinstimmende Willenserklärungen abgegeben haben.“ Was zeigt diese Voraussetzungskette nach dem Studienbrief?",
+      "options": [
+        "Eine Voraussetzung, die selbst von einer weiteren Bedingung abhängt, ist zugleich Obersatz der folgenden Prüfung (Doppelfunktion).",
+        "Voraussetzungen dürfen nie selbst wieder Voraussetzungen haben.",
+        "Der Kaufvertrag ist eine alternative, keine kumulative Voraussetzung.",
+        "Die zweite Voraussetzung ersetzt den ersten Obersatz."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 164 f.: Bei einer Voraussetzungskette hat die erste Voraussetzung eine Doppelfunktion – sie ist zugleich Obersatz der nächsten Bedingung. Dadurch entsteht neben der horizontalen eine vertikale Prüfebene.",
+      "hints": [
+        "Voraussetzung ↔ Obersatz.",
+        "Horizontale und vertikale Ebene."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 163
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "id": "q38",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Nach juristischer Gliederungstradition muss auf einen Unterpunkt „1.“ ein Unterpunkt „2.“ folgen.",
+      "answer": true,
+      "explanation": "S. 165: „Wer A sagt, muss auch B sagen“ – selbst dann, wenn es nichts zu sagen gäbe. Übersichtlich heißt hier: fachlich bewährt.",
+      "hints": [
+        "„Wer A sagt …“",
+        "Ein einzelner Unterpunkt ist kein Gliederungspunkt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "id": "q39",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wann darf der Gutachter nach dem Studienbrief einen Meinungsstreit unentschieden lassen?",
+      "options": [
+        "Wenn alle streitigen Auffassungen im konkreten Fall zum selben Ergebnis führen",
+        "Wenn die herrschende Meinung eindeutig ist",
+        "Wenn der BGH sich noch nicht geäußert hat",
+        "Nie – der Streit muss in jedem Fall entschieden werden"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 180: Der Gutachter steht unter Entscheidungszwang; Ausnahme: Alle Auffassungen führen im konkreten Fall zum selben Ergebnis. Anfänger sollen dieses Werkzeug nur mit Vorsicht einsetzen.",
+      "hints": [
+        "Entscheidungszwang mit einer Ausnahme.",
+        "Ist der Streit folgenlos?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 179
+        }
+      ]
+    },
+    {
+      "id": "q40",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Sie stellen in einem Meinungsstreit zwei Ansichten zur Versammlungsfreiheit rechtsextremer Gruppen dar. Welche Überschrift empfiehlt der Studienbrief für die erste Ansicht?",
+      "options": [
+        "„Beschränkung rechtsextremistischer Versammlungen“",
+        "„Herrschende Meinung“",
+        "„Mindermeinung“",
+        "„Meine Ansicht“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 183 f.: Empfehlenswert sind inhaltsbezogene Überschriften; „Erste/Zweite Ansicht“ ist nicht falsch. Zu vermeiden sind qualifizierende Überschriften wie „Herrschende Meinung“ oder „Mindermeinung“, weil sie das Ansehen (Ethos) statt des Inhalts (Logos) betreffen.",
+      "hints": [
+        "Logos statt Ethos.",
+        "Die Überschrift soll den Inhalt der Meinung verraten."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 182
+        },
+        {
+          "doc": "PROP_1",
+          "page": 183
+        }
+      ]
+    },
+    {
+      "id": "q41",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Welche Formulierung der Streitentscheidung entspricht den Vorgaben des Studienbriefs?",
+      "options": [
+        "„Die Gründe des Vertrauensschutzes sprechen für die zuletzt genannte Auffassung. Es erscheint sachgerechter, …“",
+        "„Die vorgenannten Meinungen überzeugen nicht. Richtigerweise vertritt dagegen die herrschende Meinung …“",
+        "„Richtig ist dagegen meine, auch vom BVerfG unterstützte Meinung …“",
+        "„Wenn auch die vertretene Gegenauffassung beachtlich ist, soll doch im Weiteren dem BGH gefolgt werden.“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 192: Sie selbst entscheiden und begründen – nicht „der BGH“ oder „die herrschende Meinung“. Ihre eigene Meinung präsentieren Sie aber auch nicht ausdrücklich als Lösung; die Entscheidung erfolgt über Argumente im objektiven Ton.",
+      "hints": [
+        "Wer entscheidet – eine Autorität oder ein Argument?",
+        "Kein „meine Meinung“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 191
+        }
+      ]
+    },
+    {
+      "id": "q42",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was versteht der Studienbrief unter einer Prämisse?",
+      "options": [
+        "Eine Aussage P, die eine andere Aussage – die Behauptung B – stützt bzw. aus der B folgt",
+        "Ausschließlich eine Norm aus einem Parlamentsgesetz",
+        "Das Ergebnis eines Gutachtens",
+        "Eine Tatsache, die im Sachverhalt fehlt und unterstellt werden muss"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 195: Der Begriff ist umfassender als „Tatbestandsvoraussetzung“, „Meinung“ oder „Definition“ und wird topisch, nicht rein logisch verstanden.",
+      "hints": [
+        "P stützt B.",
+        "Das Gesetz ist nur eine von vielen Prämissenquellen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 194
+        }
+      ]
+    },
+    {
+      "id": "q43",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ein Zirkelschluss (petitio principii) liegt vor, wenn Behauptung und Begründung dieselbe Aussage sind oder die Begründung die Behauptung bereits voraussetzt.",
+      "answer": true,
+      "explanation": "S. 197: Das ist ein Verstoß gegen den Satz vom zureichenden Grund, der im Recht für das Begründungsgebot steht.",
+      "hints": [
+        "Satz vom zureichenden Grund.",
+        "Begründet sich die Aussage selbst?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        }
+      ]
+    },
+    {
+      "id": "q44",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussage zu den Formen juristischer Normprämissen trifft nach dem Studienbrief zu?",
+      "options": [
+        "Aus dem Gesetz entlehnte Prämissen sind der wichtigste, aber nicht der einzige Teil juristischer Argumentationsgrundlagen; sie liefern meist die Ausgangsprämisse des Obersatzes.",
+        "Prämissen dürfen ausschließlich Gesetzen entnommen werden; Definitionen und Lehrsätze sind keine Prämissen.",
+        "Gesetzesprämissen spielen im Justizsyllogismus keine Rolle.",
+        "Nur Urteile des BVerfG sind als Prämissen geeignet."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 198–200: Der Fundus erschöpft sich nicht in Paragrafen; hinzu kommen u. a. Definitionen, Leitsätze, durch Auslegung gewonnene Prämissen, Lehrsätze, Gewohnheitsrecht und Erfahrungssätze. Gesetzesprämissen liefern zumeist die Ausgangsprämisse des Obersatzes.",
+      "hints": [
+        "„Wichtigster“ heißt nicht „einziger“.",
+        "Beispiel: § 433 Abs. 2 BGB im ersten Obersatz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 197
+        },
+        {
+          "doc": "PROP_1",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "q45",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wie bezeichnet man in der Rhetorik eine Prämissensammelstelle, etwa den Gleichbehandlungsgrundsatz?",
+      "options": [
+        "Topos (Plural: Topoi)",
+        "Enthymem",
+        "Obiter dictum",
+        "Petitio principii"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 200: Ein Topos („Ort“) ist eine Sammelstelle für Prämissen. Unter einem formalen Topos (Gleichbehandlung) finden sich konkretere materiale Topoi wie Art. 3 Abs. 1 GG.",
+      "hints": [
+        "Griechisch für „Ort“.",
+        "Formaler und materialer …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "q46",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wodurch können Juristen nach dem Studienbrief in begrenzter Zeit effizient passende Prämissen finden? Wählen Sie drei zutreffende Antworten.",
+      "options": [
+        "Durch eine über Jahre antrainierte systematische Vorgehensweise bei der Suche",
+        "Durch ein Grundverständnis typischer juristischer Argumentationsmuster",
+        "Durch Auswendiglernen regelmäßig gebrauchter Prämissen bzw. ihrer Sammelstellen",
+        "Durch freie Auswahl nach dem eigenen Rechtsgefühl, weil Prämissen beliebig sind"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "S. 200: Effizienz gelingt nur mit systematischer Vorgehensweise, Grundverständnis der Argumentationsmuster und dem Auswendiglernen bzw. Verinnerlichen der Sammelstellen. Prämissen werden gerade nicht willkürlich, sondern auf nachvollziehbaren Wegen gefunden.",
+      "hints": [
+        "Prämissen sind relational, aber nicht beliebig.",
+        "Drei Säulen: System, Muster, Lernen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        },
+        {
+          "doc": "PROP_1",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "q47",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der zehnjährige A will Kaugummis von seinem Taschengeld kaufen. Studentin S findet § 108 BGB und meint, der Vertrag hänge von der Genehmigung der Eltern ab. Welcher Ratschlag aus dem Studienbrief hätte ihr geholfen?",
+      "options": [
+        "Die Faustregel „Fünf vor, fünf zurück“: Benachbarte Vorschriften lesen – zwei Paragrafen weiter steht mit § 110 BGB eine Ausnahme.",
+        "Nur den Wortlaut des § 108 BGB lesen, weil benachbarte Normen grundsätzlich irrelevant sind.",
+        "Im Inhaltsverzeichnis nach dem Wort „Taschengeld“ suchen, weil es im Gesetzeswortlaut vorkommt.",
+        "Den Fall sofort per Analogie zu § 108 BGB lösen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 206: Bei unbekannten oder flüchtig bekannten Normen die fünf vorherigen und fünf nachfolgenden Vorschriften lesen. „Taschengeld“ steht nicht im Gesetzeswortlaut; man findet § 110 BGB aber über das Stichwortverzeichnis einer Gesetzessammlung.",
+      "hints": [
+        "Zusammengehörende Normen stehen meist beieinander.",
+        "Kommt das Wort „Taschengeld“ im Gesetz vor?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 205
+        }
+      ]
+    },
+    {
+      "id": "q48",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Gerichtsentscheidungen wirken im deutschen Recht grundsätzlich nur zwischen den Parteien des Rechtsstreits (inter partes); gefestigte höchstrichterliche Rechtsprechung entfaltet aber faktisch Bindungswirkung.",
+      "answer": true,
+      "explanation": "S. 208: Grundsatz inter partes (Ausnahme: Entscheidungen des BVerfG in bestimmten Verfahren, § 31 Abs. 2 BVerfGG). Faktische Bindung, weil untere Gerichte selten gegen die ständige Rechtsprechung entscheiden; im Studium ist sie dennoch kritisch zu betrachten.",
+      "hints": [
+        "Rechtliche vs. faktische Bindung.",
+        "Gewaltenteilung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 207
+        }
+      ]
+    },
+    {
+      "id": "q49",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Anstreicher A verschüttet beim Streichen Farbe auf den Perserteppich des B; B verlangt 3.000 EUR. Welcher Suchfilter für die einschlägigen Normen ist nach dem Studienbrief der gröbste und kommt zuerst?",
+      "options": [
+        "Die Rechtsfolge: Gesucht sind Normen, die Schadensersatz anordnen.",
+        "Die Tatbestandsseite: Gesucht sind Normen, in denen „Teppich“ vorkommt.",
+        "Die Rechtsprechung: Gesucht ist ein BGH-Urteil zu Perserteppichen.",
+        "Das Stichwortverzeichnis unter „Anstreicher“."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 222 f.: Der gröbste Suchfilter ist die Rechtsfolge (hier Schadensersatz); danach richtet man den Blick auf die Tatbestandsseite (z. B. § 823 Abs. 1 BGB, §§ 280 ff. BGB). Im Strafrecht hilft dieser Filter kaum.",
+      "hints": [
+        "Was will B?",
+        "Erst grob, dann fein."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 221
+        },
+        {
+          "doc": "PROP_1",
+          "page": 222
+        }
+      ]
+    },
+    {
+      "id": "q50",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Die „Lösungsskizze“ ist nach dem Studienbrief eine Denkstütze, in der man die Prüfungsschemata niederschreibt, mit dem Sachverhalt abgleicht und die Voraussetzungen mit „+“ oder „−“ markiert.",
+      "answer": true,
+      "explanation": "S. 224: Ist die Skizze komplett, dient sie als inhaltliche Grundlage für die Niederschrift des ausformulierten Gutachtens.",
+      "hints": [
+        "Plus und Minus.",
+        "Vor der Reinschrift."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 223
+        }
+      ]
+    }
+  ],
+  "flashcards": []
+}
