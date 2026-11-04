@@ -29,7 +29,7 @@ data/  (lokal, gitignored)
 |---|---|---|
 | Framework | Next.js 16, React 19, TypeScript | gewünscht; Server und UI in einem Projekt |
 | Styling | Tailwind CSS 4, eigene Komponenten (`src/components/ui`) | konsistentes, schlankes Designsystem ohne schwere Bibliothek |
-| Datenbank | **SQLite** (better-sqlite3) statt PostgreSQL | Ein Nutzer, lokaler Betrieb: kein Datenbankserver nötig, Backup = Dateikopie. Das SQL ist bewusst einfach gehalten, ein Umstieg auf PostgreSQL ist möglich (siehe TODO). |
+| Datenbank | **SQLite** (in Node.js eingebaut, `node:sqlite`) statt PostgreSQL – kein Kompilieren auf dem Mac nötig | Ein Nutzer, lokaler Betrieb: kein Datenbankserver nötig, Backup = Dateikopie. Das SQL ist bewusst einfach gehalten, ein Umstieg auf PostgreSQL ist möglich (siehe TODO). |
 | Suche / RAG | SQLite **FTS5 + BM25**, seitenweise indiziert | Quellen bis auf die Seite genau, offline und kostenlos. Anthropic bietet keine Embeddings an. Juristische Fachbegriffe lassen sich mit Schlagwortsuche gut finden. |
 | PDF | pdf.js (unpdf auf dem Server, pdfjs-dist im Viewer) | Text seitenweise mit Zeilenrekonstruktion; integrierter Viewer springt auf die Seite |
 | DOCX/TXT | mammoth / UTF-8, in Pseudo-Seiten zu ~450 Wörtern | |
