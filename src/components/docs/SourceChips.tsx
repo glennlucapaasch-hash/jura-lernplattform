@@ -4,10 +4,13 @@ import type { SrcRef } from "@/lib/learning/types";
 
 const DOC_LABEL: Record<string, string> = { BGB: "BGB AT KE", VR: "VerfR KE", PROP: "Propädeutikum" };
 
+/** PDF page = printed page + offset (front matter); labels show the printed page as in the Studienbrief. */
+const PAGE_OFFSET: Record<string, number> = { VR_1: 13, VR_3: 6, PROP_1: -1 };
+
 export function srcLabel(s: SrcRef) {
   const [pre, n] = s.doc.split("_");
   const base = DOC_LABEL[pre] ? (pre === "PROP" ? DOC_LABEL[pre] : `${DOC_LABEL[pre]} ${n}`) : s.doc;
-  return `${base}, S. ${s.page}`;
+  return `${base}, S. ${s.page - (PAGE_OFFSET[s.doc] ?? 0)}`;
 }
 
 /** Links to the exact page of the original document in the built-in viewer. */

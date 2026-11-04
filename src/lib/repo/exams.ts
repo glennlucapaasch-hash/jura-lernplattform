@@ -1,3 +1,5 @@
+import { readdirSync, readFileSync, existsSync } from "node:fs";
+import path from "node:path";
 import { db, now, uid } from "../db";
 import { listLessons, getLesson, recordAttempt, recordMistake } from "./study";
 
@@ -20,9 +22,26 @@ export function createExam(e: { moduleId: string; title: string; difficulty: num
   return id;
 }
 
-/** Cases available without AI: the Gutachten cases of the prepared lesson packs. */
+export interface PreparedExam { id: string; moduleId: string; topicIds: string[]; title: string; difficulty: number; durationMin: number; facts: string; question: string; solution: string; rubric: string[]; src: { doc: string; page: number }[] }
+
+/** Prepared exam cases shipped in content/exams. */
+export function preparedExams(moduleId?: string): PreparedExam[] {
+  const dir = path.join(process.cwd(), "content", "exams");
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((f) => f.endsWith(".json"))
+    .flatMap((f) => { try { return [JSON.parse(readFileSync(path.join(dir, f), "utf8")) as PreparedExam]; } catch { return []; } })
+    .filter((e) => !moduleId || e.moduleId === moduleId)
+    .sort((a, b) => a.moduleId.localeCompare(b.moduleId) || a.title.localeCompare(b.title));
+}
+
+/** Cases available without AI: prepared exam cases plus the Gutachten cases of the lesson packs. */
 export function offlineCases(moduleId?: string) {
-  return listLessons(moduleId)
+  const exams = preparedExams(moduleId).map((e) => ({
+    lessonId: `exam:${e.id}`, moduleId: e.moduleId, title: `${e.title} (Klausurfall, ${e.durationMin} Min.)`, facts: e.facts, question: e.question,
+    solution: e.solution, rubric: e.rubric, src: e.src, durationMin: e.durationMin, difficulty: e.difficulty,
+  }));
+  return [...exams, ...listLessons(moduleId)
     .map((l) => getLesson(l.id)!)
     .filter((l) => l.case)
     .map((l) => ({
@@ -34,7 +53,9 @@ export function offlineCases(moduleId?: string) {
       solution: l.case!.steps.map((s) => `**${s.part[0].toUpperCase() + s.part.slice(1)}:** ${s.model}`).join("\n\n"),
       rubric: l.case!.steps.flatMap((s) => s.rubric),
       src: l.case!.src,
-    }));
+      durationMin: 30,
+      difficulty: 1,
+    }))];
 }
 
 export function saveDraft(id: string, answer: string) {

@@ -2,7 +2,9 @@
   "id": "bgb-ke2-zugang",
   "moduleId": "55101",
   "ke": 2,
-  "topicIds": ["bgb-ke2-s3"],
+  "topicIds": [
+    "bgb-ke2-s3"
+  ],
   "title": "Das Wirksamwerden von Willenserklärungen: Abgabe, Zugang, Widerruf",
   "estMinutes": 70,
   "sections": [
@@ -11,42 +13,156 @@
       "title": "Empfangsbedürftigkeit, Abgabe und Zugang unter Anwesenden",
       "short": "Willenserklärungen sind grundsätzlich empfangsbedürftig: Sie müssen abgegeben werden und dem Empfänger zugehen. Abgegeben ist eine Erklärung, wenn sie mit Wissen und Wollen des Erklärenden so auf den Weg gebracht wird, dass ohne sein weiteres Zutun Zugang eintreten kann; umstritten ist die abhandengekommene Willenserklärung. Nicht verkörperte Erklärungen unter Anwesenden gehen nach der (gemäßigten) Vernehmungstheorie zu; Telefon und Echtzeit-Chats werden wie Anwesenheit behandelt.",
       "long": "## Empfangsbedürftigkeit (S. 29)\n\nDie Rechtsfolge einer Willenserklärung tritt erst ein, wenn die Person, der gegenüber die Erklärung abzugeben ist, die Möglichkeit hat, sie wahrzunehmen. Bis auf wenige Ausnahmen sind Willenserklärungen daher **empfangsbedürftig**: **Abgabe** → **Zugang**.\n\n## Abgabe (S. 29–30)\n\n**Def.:** Abgegeben ist eine Willenserklärung, wenn die Erklärung **mit Wissen und Wollen** des Erklärenden so in Richtung auf den Empfänger auf den Weg gebracht wird, dass **ohne sein weiteres Zutun** der Zugang eintreten kann.\n\n**Abhandengekommene Willenserklärung – Beispiele (S. 29):** Der Sekretär der T kuvertiert einen fertigen, aber noch nicht freigegebenen Brief und versendet ihn; bzw. er drückt bei einem gespeicherten E-Mail-Entwurf im gemeinsamen Postfach auf „Senden“.\n\n- *Ansicht 1* (BGH NJW-RR 2006, 847): Abgabe setzt zwingend **Abgabewillen** voraus (Privatautonomie; sonst Verwässerung des § 130). Der Empfänger kann ggf. Vertrauensschaden über § 122 analog oder §§ 311 Abs. 2, 280 Abs. 1, 241 Abs. 2 BGB verlangen.\n- *Ansicht 2*: Abgabewille nicht notwendig; in Parallele zum potentiellen Erklärungsbewusstsein genügt ein zurechenbarer **„potenzieller Abgabewille“**, insbesondere wenn die Erklärung durch eine Person aus dem Organisationsbereich des Erklärenden in den Verkehr gelangt; Schutz des Erklärenden durch Anfechtung nach § 119 Abs. 1 Alt. 2 BGB (S. 30).\n\n## Zugang unter Anwesenden (S. 30–32)\n\n- **Verkörperte** Erklärungen unter Anwesenden (z.B. Übergabe eines Briefes): Es gelten die Grundsätze für Abwesende; es genügt die Aushändigung, auf Kenntnisnahme kommt es nicht an (S. 31).\n- **Nicht verkörperte** (gesprochene) Erklärungen: wirksam, wenn der Empfänger sie sinnlich wahrnimmt. **Beispiel (S. 30):** V sagt zu K „Ich gebe es Ihnen für 5.000 €“ – sofort wirksam.\n  - *Strenge Vernehmungstheorie:* Zugang, wenn der Empfänger die Worte akustisch richtig vernommen hat.\n  - *Gemäßigte Vernehmungstheorie* (heute wohl h.M.): Es genügt, dass ein sorgfältig Erklärender davon ausgehen durfte, richtig verstanden worden zu sein; der Empfänger trägt das Risiko nicht erkennbarer Verständigungsprobleme. Ob der **Sinn** verstanden wurde, ist für den Zugang irrelevant; Sprachprobleme sind richtigerweise ein Auslegungs- und Irrtumsproblem (S. 30–31).\n- **Telefon:** einhellig unter Anwesenden, vgl. § 147 Abs. 1 S. 2 („Fernsprecher“) (S. 31).\n- **Video-Chat und Instant-Messaging** ermöglichen unmittelbare Kommunikation; **E-Mail** (früher Fax) ist Erklärung unter Abwesenden; auch die Mailbox-Nachricht (S. 31).\n- Maßgeblich ist nach dem Skript die **Möglichkeit der dauerhaften Speicherung**: Messenger-Nachrichten, die nach dem Einmal-Sehen gelöscht werden, sind wie unter Anwesenden, dauerhaft gespeicherte wie unter Abwesenden zu behandeln (S. 32).",
-      "src": [{"doc": "BGB_2", "page": 29}, {"doc": "BGB_2", "page": 30}, {"doc": "BGB_2", "page": 31}, {"doc": "BGB_2", "page": 32}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        },
+        {
+          "doc": "BGB_2",
+          "page": 30
+        },
+        {
+          "doc": "BGB_2",
+          "page": 31
+        },
+        {
+          "doc": "BGB_2",
+          "page": 32
+        }
+      ]
     },
     {
       "id": "s2",
       "title": "Zugang unter Abwesenden (§ 130 Abs. 1 S. 1 BGB) und Einzelfälle",
       "short": "Eine Willenserklärung unter Abwesenden ist zugegangen, wenn sie in verkehrsüblicher Weise so in den Machtbereich des Empfängers gelangt ist, dass dieser unter normalen Verhältnissen die Möglichkeit der Kenntnisnahme hat. Auf die tatsächliche Kenntnisnahme kommt es nicht an. Der Zugang markiert einen Risikoübergang; Einwurf zur Unzeit wirkt erst mit der nächsten üblichen Leerung. Für E-Mails im unternehmerischen Verkehr hat der BGH auf die Abrufbarkeit auf dem Server innerhalb der üblichen Geschäftszeiten abgestellt.",
       "long": "## Definition (S. 32)\n\n§ 130 BGB definiert den Zugang nicht. Nach dem RG genügt, dass der Empfänger in eine Lage versetzt wird, die ihm unter gewöhnlichen Verhältnissen die Möglichkeit der Kenntnisnahme gewährt.\n\n**Def.:** Eine Willenserklärung ist **zugegangen**, wenn sie in verkehrsüblicher Weise so in den **Machtbereich** des Empfängers gelangt ist, dass dieser **unter normalen Verhältnissen** die **Möglichkeit** hat, sie zur Kenntnis zu nehmen.\n\n**Beispiel (S. 32–33):** Der Brief des K liegt am 26. Juni 2025 im Briefkasten des S. Leert S den Kasten zwei Tage nicht, ändert das nichts: Wirksam am 26. Juni – maßgeblich ist der **Zugang, nicht die Kenntnisnahme**.\n\n## Risikoübergang und Empfangsvorkehrungen (S. 33–34)\n\nDer Zugang markiert einen **Risikoübergang**. Maßgeblich sind die erkennbaren Empfangsvorkehrungen (Briefkasten, Postfach, technische Einrichtungen). Bei elektronischen Vorrichtungen gehört die Vorrichtung zum Machtbereich, wenn der Empfänger zum Ausdruck gebracht hat, Rechtsgeschäfte elektronisch (E-Mail, WhatsApp) abzuschließen (BGH MMR 2023, 136). Der Empfänger trägt das **Speicher- und Abrufrisiko** (S. 34).\n\n**Zeitpunkt (S. 34):** Die Zugangswirkung tritt ein, wenn die Überprüfung der Empfangsvorkehrung nach den Regeln des täglichen Lebens erwartet werden kann; tatsächliche frühere Kenntnisnahme führt aber stets den Zugang herbei.\n\n**Beispiel Mitternachtskündigung (S. 34):** V wirft um Mitternacht eine Kündigung in den Briefkasten des M und am frühen Morgen einen Widerruf. Die Kündigung geht erst bei der üblichen morgendlichen Leerung zu – also gleichzeitig mit dem Widerruf; sie ist nach § 130 Abs. 1 S. 2 nicht wirksam.\n\n**Urlaubsabwesenheit (S. 35):** Arbeitgeber A schickt dem J, von dem er weiß, dass er zwei Wochen im Ausland ist, die Kündigung nach Hause. Die Rechtsprechung bejaht den Zugang auch bei Kenntnis des Arbeitgebers von der Abwesenheit; Schutz über § 5 KSchG (nachträgliche Zulassung bei Versäumung der Frist des § 4 KSchG), ausnahmsweise § 242 BGB.\n\n**Kaufleute (S. 35):** Gesteigerte Pflicht, Empfangsvorkehrungen für die Geschäftszeiten zu treffen, auch bei Geschäftsreise oder Urlaub; sonst keine Berufung auf verspäteten Zugang.\n\n## Einzelfälle (S. 38–39)\n\n1. **Postschließfach:** Zugang, wenn es üblicherweise geleert wird.\n2. **Telegramm** (bis 31.12.2022): wie Brief; telefonische Mitteilung = Zugang mit mündlicher Übermittlung.\n3. **Telefax:** bei Privatleuten regelmäßig mit Abschluss des Druckvorgangs; bei Geschäftsleuten nur während der Geschäftsstunden, sonst mit deren Beginn.\n4. **Übergabe-Einschreiben:** Zugang erst mit Übergabe; der Benachrichtigungszettel steht nicht gleich (kein Hinweis auf Absender und Inhalt). Holt der Empfänger trotz Benachrichtigung nicht ab, obwohl er mit rechtserheblichen Erklärungen rechnen musste, muss er sich nach Treu und Glauben so behandeln lassen, als sei zugegangen.\n5. **E-Mail an Unternehmer:** *Ansicht 1:* Zugang, wenn nach üblichem Geschäftsablauf mit Abruf zu rechnen ist (Mail nach Geschäftsschluss: nächster Morgen). *Ansicht 2:* Zugang bereits mit Abrufbarkeit auf dem Mailserver (gewidmete Adresse; Spam-Ordner irrelevant). Der **BGH** folgt der zweiten Auffassung für den unternehmerischen Verkehr **innerhalb der üblichen Geschäftszeiten** (BGH NJW 2022, 3791); ein Widerruf nach § 130 Abs. 1 S. 2 ist dann praktisch ausgeschlossen.\n\n## Abweichende Vereinbarungen (S. 40–41)\n\n§ 130 BGB ist nach h.M. **dispositiv**; der Zugang kann vertraglich erleichtert oder erschwert werden (*Beispiel:* Zugang nur bei der Zentrale in Frankfurt). Grenzen in AGB: **§ 309 Nr. 13 BGB** (besondere Zugangserfordernisse für Erklärungen gegenüber dem Verwender) und **§ 308 Nr. 6 BGB** (Zugangsfiktion für Erklärungen des Verwenders von besonderer Bedeutung – *Beispiel Bank-AGB „gelten nach gewöhnlichem Postlauf als zugegangen“*, S. 40). Vereinbarte Übermittlungsformen wie das Einschreiben dienen meist Beweiszwecken; Zugang auch bei abweichender Beförderung nach § 130 möglich.",
-      "src": [{"doc": "BGB_2", "page": 32}, {"doc": "BGB_2", "page": 33}, {"doc": "BGB_2", "page": 34}, {"doc": "BGB_2", "page": 35}, {"doc": "BGB_2", "page": 38}, {"doc": "BGB_2", "page": 39}, {"doc": "BGB_2", "page": 40}, {"doc": "BGB_2", "page": 41}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 32
+        },
+        {
+          "doc": "BGB_2",
+          "page": 33
+        },
+        {
+          "doc": "BGB_2",
+          "page": 34
+        },
+        {
+          "doc": "BGB_2",
+          "page": 35
+        },
+        {
+          "doc": "BGB_2",
+          "page": 38
+        },
+        {
+          "doc": "BGB_2",
+          "page": 39
+        },
+        {
+          "doc": "BGB_2",
+          "page": 40
+        },
+        {
+          "doc": "BGB_2",
+          "page": 41
+        }
+      ]
     },
     {
       "id": "s3",
       "title": "Dritte im Übermittlungsweg und Besonderheiten (§ 130 Abs. 2 und 3 BGB)",
       "short": "Beim Empfangsvertreter (§ 164 Abs. 3 BGB) kommt es auf den Zugang beim Vertreter an. Beim Empfangsboten geht die Erklärung zu, wenn unter gewöhnlichen Verhältnissen mit der Weitergabe an den Empfänger zu rechnen ist; das Übermittlungsrisiko trägt der Empfänger. Wer weder Empfangsvertreter noch Empfangsbote ist, ist Erklärungsbote des Absenders; Zugang erst mit tatsächlicher Übermittlung, Risiko beim Erklärenden. Tod oder Geschäftsunfähigkeit nach Abgabe sind nach § 130 Abs. 3 unerheblich.",
       "long": "## Empfangsvertreter (S. 35–36)\n\nEine Vollmacht zur Vornahme eines Rechtsgeschäfts umfasst in der Regel auch die Entgegennahme der Erklärungen des anderen Teils – **Passivvertreter, § 164 Abs. 3 BGB**. Maßgeblich ist der Zeitpunkt, in dem die Zugangsvoraussetzungen **in der Person des Vertreters** erfüllt sind; bereits dann geht die Erklärung mit Wirkung für und gegen den Vertretenen zu.\n\n## Empfangsbote (S. 36)\n\nEmpfangsbote ist eine Mittelsperson, die zur Entgegennahme **geeignet und ermächtigt** ist oder nach der Verkehrsauffassung als solche anzusehen ist – eine **„personifizierte Empfangseinrichtung“**. Mit Übergabe an den Boten ist die Erklärung im Machtbereich, aber erst zugegangen, wenn der Empfänger bei gewöhnlichen Verhältnissen die Möglichkeit der Kenntnisnahme hat (bzw. bei früherer tatsächlicher Kenntnisnahme dann). Übermittelt der Empfangsbote falsch, verspätet oder gar nicht, geht dies **zu Lasten des Empfängers**.\n\nIn der Regel geeignet und bestimmt: **kaufmännische Angestellte** im Betrieb, **Angehörige** in der Wohnung des Adressaten, **Ehepartner** auch außerhalb der Wohnung.\n\n## Erklärungsbote (S. 36–37)\n\nDer Erklärungsbote überbringt eine fertige Erklärung des Erklärenden; Zugang erst mit **tatsächlicher Übermittlung** an den Empfänger. Falschübermittlung geht **zu Lasten des Erklärenden**, der aber nach **§§ 120, 119 BGB** anfechten kann. Erklärungsbote ist **subsidiär**, wer weder Empfangsvertreter noch Empfangsbote ist.\n\n**Beispiel (S. 37):** Vermieterin E übergibt die Kündigung für M (7. Stock) dem im 5. Stock wohnenden Nachbarn B, der sie M eine Woche später gibt. B war nicht zum Empfang geeignet und bestimmt → **Erklärungsbote der E**; Zugang erst mit Übergabe an M.\n\n**Übersicht (S. 37):**\n| Person | Stellung | Zugang |\n|---|---|---|\n| Empfangsvertreter (§ 164 III) | Vertretungsmacht zur Entgegennahme | beim Vertreter |\n| Empfangsbote | zur Entgegennahme und Weitergabe ermächtigt anzusehen | bei erwartbarer Weitergabe |\n| Erklärungsbote | Bote des Erklärenden (subsidiär) | beim Empfänger |\n\n## Besonderheiten (S. 37)\n\n- **§ 130 Abs. 2 BGB** (Neuregelung seit 2026): Eine notariell beurkundete oder öffentlich beglaubigte Erklärung wird auch wirksam, wenn dem Empfänger eine öffentlich beglaubigte Abschrift der Urschrift zugeht.\n- **§ 130 Abs. 3 BGB:** Stirbt der Erklärende nach Abgabe und vor Zugang oder verliert er die unbeschränkte Geschäftsfähigkeit, ist dies für das Wirksamwerden ohne Bedeutung (Vertrauensschutz des Empfängers; vgl. Bonifatiusfall, RGZ 83, 223).",
-      "src": [{"doc": "BGB_2", "page": 35}, {"doc": "BGB_2", "page": 36}, {"doc": "BGB_2", "page": 37}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 35
+        },
+        {
+          "doc": "BGB_2",
+          "page": 36
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
     },
     {
       "id": "s4",
       "title": "Der Widerruf von Willenserklärungen (§ 130 Abs. 1 S. 2 BGB)",
       "short": "Eine empfangsbedürftige Willenserklärung wird nicht wirksam, wenn dem Empfänger vorher oder gleichzeitig ein Widerruf zugeht (§ 130 Abs. 1 S. 2 BGB). Maßgeblich ist allein der Zeitpunkt des Zugangs, nicht der Kenntnisnahme – auch wenn der Empfänger den Widerruf zuerst liest. Davon zu unterscheiden sind gesetzliche Widerrufsrechte, etwa nach § 355 BGB, die einen wirksamen Vertrag ex nunc beenden.",
       "long": "## Zwei Bedeutungen (S. 41)\n\n- Widerruf **vor Wirksamwerden** (§ 130 Abs. 1 S. 2 BGB): Die Erklärung wird gar nicht erst wirksam.\n- Widerruf eines **bereits geschlossenen Vertrags** bei eingeräumtem Widerrufsrecht, Wirkung ex nunc, z.B. bei Verbraucherverträgen (§ 355 BGB) und beim Auftrag (§ 671 BGB).\n\nDer Widerruf ist selbst eine **empfangsbedürftige Willenserklärung**.\n\n## § 130 Abs. 1 S. 2 BGB (S. 41–42)\n\nEine Willenserklärung wird nicht wirksam, wenn dem Empfänger **vorher oder gleichzeitig** ein Widerruf zugeht.\n\n**Beispiel Moselwein (S. 41):** A bestellt schriftlich 100 Flaschen; noch am selben Tag schreibt er, er wolle die Bestellung rückgängig machen. W findet beide Briefe am nächsten Tag im Briefkasten → gleichzeitiger Zugang, Bestellung nicht wirksam.\n\n**Abwandlung (S. 41–42):** Die Bestellung liegt morgens im Briefkasten der W (und mittags ungeöffnet auf dem Schreibtisch), der Widerruf wird erst um 16 Uhr zugestellt; W liest zuerst den Widerruf. Die Bestellung ist **bereits zugegangen und wirksam**; der Widerruf kam zu spät. Allein der Zugang ist maßgeblich, nicht die Kenntnisnahme (RGZ 91, 60, 63). Die Gegenansicht, die über **Treu und Glauben** auf fehlendes schutzwürdiges Vertrauen abstellt (Rüthers/Stadler), ist nach dem RG mit dem klaren Wortlaut des § 130 Abs. 1 S. 2 unvereinbar (S. 42).\n\n## Verbraucherwiderruf (S. 42)\n\nNach § 355 Abs. 1 und 2 BGB hat der Verbraucher (§ 13) gegenüber dem Unternehmer (§ 14) **14 Tage** Zeit zum Widerruf; danach sind beide an ihre Willenserklärungen nicht mehr gebunden. Der zunächst wirksame Vertrag endet ab diesem Zeitpunkt.\n\n**Selbsttestaufgabe 2 (S. 42–43, Lösung S. 52):** K wirft seine Kündigung in den Postkasten; am nächsten Morgen will er sie bei I „rückgängig machen“, doch das Schreiben wurde eine Stunde zuvor zugestellt (ungelesen). Die Kündigung ist bereits zugegangen; der unter Anwesenden sofort wirksame Widerruf kommt zu spät → Kündigung wirksam.",
-      "src": [{"doc": "BGB_2", "page": 41}, {"doc": "BGB_2", "page": 42}, {"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 52}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 41
+        },
+        {
+          "doc": "BGB_2",
+          "page": 42
+        },
+        {
+          "doc": "BGB_2",
+          "page": 43
+        },
+        {
+          "doc": "BGB_2",
+          "page": 52
+        }
+      ]
     },
     {
       "id": "s5",
       "title": "Zugangshindernisse: Verzögerung, Verhinderung und Vereitelung",
       "short": "§ 149 BGB regelt nur die verspätet zugegangene Annahme bei Beförderungsunregelmäßigkeiten. Im Übrigen entscheidet die Risikosphäre: Verzögerungen in der Sphäre des Erklärenden gehen zu seinen Lasten; liegen sie beim Empfänger, muss der Erklärende unverzüglich einen neuen Zustellungsversuch unternehmen und wird dann so gestellt, als sei rechtzeitig zugegangen. Bei grundloser oder arglistiger Zugangsvereitelung wird der Zugang ohne erneuten Versuch fingiert (§ 242, Rechtsgedanke §§ 162, 815 BGB).",
       "long": "## § 149 BGB (S. 43)\n\n§ 149 BGB betrifft Unregelmäßigkeiten bei der Beförderung (z.B. Poststreik): Der Annehmende soll darauf vertrauen dürfen, dass eine Annahme, die bei normalem Lauf rechtzeitig angekommen wäre, zum Vertragsschluss führt. Die verspätete Annahme gilt als rechtzeitig zugegangen, wenn die Verspätung (nach dem Wortlaut des § 149: für den Antragenden) erkennbar war und sie nicht rechtzeitig angezeigt wurde. Für andere Zugangshindernisse gibt es **keine gesetzliche Regelung**; es entscheiden Interessenabwägung und Risikosphären.\n\n## 1. Zugangsverzögerung (S. 43–44)\n\nEine allgemeine Pflicht zu Empfangsvorkehrungen besteht nicht; wohl aber eine **Obliegenheit**, wenn der Empfänger aufgrund bestehender oder angebahnter Beziehungen mit rechtserheblichen Erklärungen rechnen muss (Arbeitnehmer, Mieter; wer Fax oder E-Mail im Rechtsverkehr angibt).\n\n- **a) Sphäre des Erklärenden:** Die Erklärung ist verspätet; ggf. neuer Zustellungsversuch.\n- **b) Sphäre des Empfängers** (Verschulden nicht erforderlich): Der Erklärende hat ein **Wahlrecht**. Will er die Erklärung wirksam werden lassen, muss er **unverzüglich** (§ 121 Abs. 1 S. 1 BGB) einen erneuten Zustellungsversuch unternehmen – ggf. durch Gerichtsvollzieher (**§ 132 Abs. 1 BGB**) oder öffentliche Zustellung bei unbekanntem Aufenthalt (**§ 132 Abs. 2 BGB**). Der Empfänger muss sich dann so behandeln lassen, als sei die Erklärung **schon beim ersten Versuch** zugegangen.\n\n**Beispiel (S. 44, BGH NJW 1988, 2788):** A setzt B eine Annahmefrist von 14 Tagen und verlegt sein Geschäftslokal, ohne B und die Post zu informieren; die Annahme erreicht ihn nach 16 Tagen. A muss den Zugang nach Treu und Glauben als rechtzeitig gelten lassen.\n\n## 2. Zugangsverhinderung/-vereitelung (S. 45)\n\n- **a) Berechtigte Verweigerung** (z.B. fehlende Frankierung, unrichtige Adressierung) geht zu Lasten des Erklärenden – kein Zugang.\n- **b) Grundlose oder arglistige Verhinderung:** Die Erklärung **gilt** in dem Moment als zugegangen, in dem sie ohne die Verweigerung zugegangen wäre (**echte Zugangsfiktion**, kein erneuter Zustellungsversuch nötig). Herleitung aus § 242 BGB und dem Rechtsgedanken der **§§ 162, 815 BGB**. **Arglist:** Der Empfänger kennt den Inhalt oder rechnet mit einer Erklärung bestimmten Inhalts und verweigert deshalb die Annahme (z.B. Namensschild entfernen, Fax ausschalten).\n\n**Beispiel Mahnung (S. 45):** K erkennt am Absender den Gläubiger W, ahnt eine Mahnung und verweigert grundlos die Annahme → Zugang im Zeitpunkt des Übergabeversuchs.\n\n**Fall Cello (S. 45–47):** U macht M ein auf drei Wochen befristetes Angebot; M sendet ein Übergabe-Einschreiben mit der Annahme. U wird nicht angetroffen, holt den Brief trotz Benachrichtigungszettels nicht ab, weil er vermutet, dass er von M (Fan des Rivalen „Blau-Weiß“) stammt. *Lösung:* Der Benachrichtigungszettel bewirkt keinen Zugang. U musste aber mit der Annahme rechnen und hatte keinen vertretbaren Grund, den Zugang zu verhindern → **Zugangsfiktion** nach § 242 BGB bzw. dem Rechtsgedanken der §§ 162, 815 BGB; ein erneuter Zustellungsversuch ist entbehrlich. Ob auf den 10.11. oder 11.11.2025 abzustellen ist, kann offenbleiben (S. 47).",
-      "src": [{"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 44}, {"doc": "BGB_2", "page": 45}, {"doc": "BGB_2", "page": 46}, {"doc": "BGB_2", "page": 47}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 43
+        },
+        {
+          "doc": "BGB_2",
+          "page": 44
+        },
+        {
+          "doc": "BGB_2",
+          "page": 45
+        },
+        {
+          "doc": "BGB_2",
+          "page": 46
+        },
+        {
+          "doc": "BGB_2",
+          "page": 47
+        }
+      ]
     },
     {
       "id": "s6",
       "title": "Geschäftsähnliche Handlungen und Realakte",
       "short": "Geschäftsähnliche Handlungen (z.B. Mahnung, Abtretungsanzeige, Fristsetzung nach § 323 Abs. 1, Aufforderung nach §§ 108 Abs. 2, 177 Abs. 2) sind Willensäußerungen, deren Rechtsfolgen kraft Gesetzes eintreten; die Vorschriften über Willenserklärungen – insbesondere §§ 104 ff., 130–132, 164 ff., 182–184 – gelten entsprechend. Realakte (Fund, Verbindung, Verarbeitung) sind rein tatsächliche Vorgänge; auf sie finden die Regeln über Willenserklärungen keine Anwendung.",
       "long": "## Geschäftsähnliche Handlungen (S. 47–49)\n\nSie rufen eine Rechtsfolge hervor, ohne dass der Handelnde mit **Geschäftswillen** handeln muss; die Rechtsfolgen werden **durch das Gesetz**, nicht durch den Willen bestimmt.\n\n**Mahnung (S. 47):** formlose dringende Aufforderung an den Schuldner, die Leistung zu erbringen; weder Fristsetzung noch Androhung von Folgen erforderlich. Sie setzt den Schuldner unter den Voraussetzungen des § 286 Abs. 1 (fällige, einredefreie Leistung; Vertretenmüssen, § 286 Abs. 4) in Verzug.\n\n**Weitere Beispiele (S. 48):** Anzeige der Forderungsabtretung (§ 409), Fristsetzung beim Rücktritt (§ 323 Abs. 1), Aufforderung zur Genehmigung (§§ 108 Abs. 2, 177 Abs. 2).\n\nWegen der Nähe zur Willenserklärung gelten die allgemeinen Vorschriften **entsprechend**, insbesondere: Geschäftsfähigkeit (§§ 104 ff.), Wirksamwerden (§§ 130–132), Stellvertretung (§§ 164 ff.), Zustimmung (§§ 182–184). Ob auch die Vorschriften über **Willensmängel (§§ 116 ff.)** entsprechend gelten, ist **streitig**; es ist je Fallgruppe die Ähnlichkeit zu prüfen.\n\n**Beispiel Mahnung im Briefkasten (S. 48–49):** G mahnt S per Brief; Einwurf am 22.8.2025, S leert den Kasten aus Angst vor unangenehmer Post erst am 10.9.2025. Analog § 130 ist die Mahnung mit **Zugang am 22.8.2025** wirksam; ab diesem Tag ist S in Verzug – maßgeblich auch für den Verzugsschaden (§ 280 Abs. 2).\n\n## Realakte (S. 49)\n\nRein **tatsächliche Vorgänge**, an die das Gesetz eine Rechtsfolge knüpft; sie enthalten – anders als geschäftsähnliche Handlungen – keine Willensäußerung.\n\n**Beispiele:** **Fund** (§§ 965 ff.: Anzeige-, Verwahrungs-, Herausgabepflichten folgen aus dem Ansichnehmen), **Verbindung** mit einem Grundstück (§ 946), **Verarbeitung** (§ 950).\n\nDie Rechtsfolgen treten **ohne Rücksicht auf Geschäftsfähigkeit** ein; auch Vorschriften über Willensmängel, Zustimmung und Stellvertretung finden keine Anwendung, weil nichts erklärt wird.",
-      "src": [{"doc": "BGB_2", "page": 47}, {"doc": "BGB_2", "page": 48}, {"doc": "BGB_2", "page": 49}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 47
+        },
+        {
+          "doc": "BGB_2",
+          "page": 48
+        },
+        {
+          "doc": "BGB_2",
+          "page": 49
+        }
+      ]
     }
   ],
   "definitions": [
@@ -54,55 +170,112 @@
       "term": "Abgabe einer Willenserklärung",
       "text": "Abgegeben ist eine Willenserklärung, wenn die Erklärung mit Wissen und Wollen des Erklärenden so in Richtung auf den Empfänger auf den Weg gebracht wird, dass ohne sein weiteres Zutun der Zugang der Erklärung eintreten kann.",
       "norm": "§ 130 Abs. 1 S. 1 BGB",
-      "src": [{"doc": "BGB_2", "page": 29}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        }
+      ]
     },
     {
       "term": "Zugang (unter Abwesenden)",
       "text": "Eine Willenserklärung ist zugegangen, wenn sie in verkehrsüblicher Weise so in den Machtbereich des Empfängers gelangt ist, dass dieser unter normalen Verhältnissen die Möglichkeit hat, sie zur Kenntnis zu nehmen.",
       "norm": "§ 130 Abs. 1 S. 1 BGB",
-      "src": [{"doc": "BGB_2", "page": 32}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 32
+        }
+      ]
     },
     {
       "term": "Gemäßigte (eingeschränkte) Vernehmungstheorie",
       "text": "Eine nicht verkörperte Erklärung unter Anwesenden geht zu, wenn ein sorgfältig Erklärender davon ausgehen durfte, seine Erklärung sei akustisch richtig verstanden worden; der Empfänger trägt das Risiko für ihm zuzurechnende, für den Erklärenden nicht erkennbare Verständigungsprobleme.",
       "norm": "Grundgedanke des § 130 Abs. 1 BGB",
-      "src": [{"doc": "BGB_2", "page": 30}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 30
+        }
+      ]
     },
     {
       "term": "Empfangsvertreter (Passivvertreter)",
       "text": "Person mit Vertretungsmacht zur Entgegennahme von Willenserklärungen; der Zugang richtet sich nach dem Zeitpunkt, in dem die Zugangsvoraussetzungen in der Person des Vertreters erfüllt sind.",
       "norm": "§ 164 Abs. 3 BGB",
-      "src": [{"doc": "BGB_2", "page": 35}, {"doc": "BGB_2", "page": 36}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 35
+        },
+        {
+          "doc": "BGB_2",
+          "page": 36
+        }
+      ]
     },
     {
       "term": "Empfangsbote",
       "text": "Mittelsperson, die zur Entgegennahme von Willenserklärungen geeignet und ermächtigt ist oder nach der Verkehrsauffassung als geeignet und ermächtigt anzusehen ist („personifizierte Empfangseinrichtung“); Zugang, sobald unter gewöhnlichen Verhältnissen mit der Weitergabe zu rechnen ist; Übermittlungsrisiko beim Empfänger.",
       "norm": "",
-      "src": [{"doc": "BGB_2", "page": 36}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 36
+        }
+      ]
     },
     {
       "term": "Erklärungsbote",
       "text": "Überbringt eine fertige Willenserklärung des Erklärenden an den Empfänger; Erklärungsbote ist, wer weder Empfangsvertreter noch Empfangsbote ist. Zugang erst mit tatsächlicher Übermittlung; Falschübermittlung geht zu Lasten des Erklärenden (Anfechtung nach §§ 120, 119 BGB).",
       "norm": "§ 120 BGB",
-      "src": [{"doc": "BGB_2", "page": 36}, {"doc": "BGB_2", "page": 37}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 36
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
     },
     {
       "term": "Arglistige Zugangsvereitelung",
       "text": "Der Empfänger kennt den Inhalt der Erklärung oder rechnet mit dem Zugehen einer Erklärung bestimmten Inhalts und verweigert deshalb die Annahme; die Erklärung gilt als in dem Zeitpunkt zugegangen, in dem sie ohne die Verweigerung zugegangen wäre (Fiktion, kein erneuter Zustellungsversuch).",
       "norm": "§ 242 BGB, Rechtsgedanke §§ 162, 815 BGB",
-      "src": [{"doc": "BGB_2", "page": 45}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 45
+        }
+      ]
     },
     {
       "term": "Geschäftsähnliche Handlung",
       "text": "Willensäußerung, die eine Rechtsfolge hervorruft, ohne dass der Handelnde mit Geschäftswillen gehandelt haben muss, weil die Rechtsfolgen kraft Gesetzes und nicht aufgrund des geäußerten Willens eintreten (z.B. Mahnung); die Vorschriften über Willenserklärungen gelten entsprechend.",
       "norm": "z.B. § 286 Abs. 1 BGB",
-      "src": [{"doc": "BGB_2", "page": 47}, {"doc": "BGB_2", "page": 48}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 47
+        },
+        {
+          "doc": "BGB_2",
+          "page": 48
+        }
+      ]
     },
     {
       "term": "Realakt",
       "text": "Rein tatsächlicher Vorgang, an den das Gesetz eine Rechtsfolge knüpft (z.B. Fund, Verbindung, Verarbeitung); die Regeln über Willenserklärungen, einschließlich Geschäftsfähigkeit, finden keine Anwendung.",
       "norm": "§§ 946, 950, 965 ff. BGB",
-      "src": [{"doc": "BGB_2", "page": 49}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 49
+        }
+      ]
     }
   ],
   "schemas": [
@@ -115,7 +288,44 @@
         "4. Zugangshindernisse: Zugangsverzögerung (Risikosphäre, ggf. unverzüglicher neuer Zustellungsversuch) oder grundlose/arglistige Vereitelung (Zugangsfiktion nach § 242 BGB, Rechtsgedanke §§ 162, 815 BGB).",
         "5. Ggf. Rechtzeitigkeit (z.B. Annahmefrist §§ 146, 148 BGB) und abweichende Vereinbarungen (Grenzen §§ 308 Nr. 6, 309 Nr. 13 BGB)."
       ],
-      "src": [{"doc": "BGB_2", "page": 29}, {"doc": "BGB_2", "page": 30}, {"doc": "BGB_2", "page": 32}, {"doc": "BGB_2", "page": 37}, {"doc": "BGB_2", "page": 40}, {"doc": "BGB_2", "page": 41}, {"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 45}, {"doc": "BGB_2", "page": 52}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        },
+        {
+          "doc": "BGB_2",
+          "page": 30
+        },
+        {
+          "doc": "BGB_2",
+          "page": 32
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        },
+        {
+          "doc": "BGB_2",
+          "page": 40
+        },
+        {
+          "doc": "BGB_2",
+          "page": 41
+        },
+        {
+          "doc": "BGB_2",
+          "page": 43
+        },
+        {
+          "doc": "BGB_2",
+          "page": 45
+        },
+        {
+          "doc": "BGB_2",
+          "page": 52
+        }
+      ]
     },
     {
       "title": "Fallgruppen der Zugangshindernisse",
@@ -125,7 +335,20 @@
         "3. Berechtigte Annahmeverweigerung (z.B. fehlende Frankierung, falsche Adresse): kein Zugang, Risiko beim Erklärenden.",
         "4. Grundlose oder arglistige Annahmeverweigerung/Vereitelung: Zugangsfiktion zum Zeitpunkt, in dem die Erklärung sonst zugegangen wäre; kein erneuter Zustellungsversuch erforderlich."
       ],
-      "src": [{"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 44}, {"doc": "BGB_2", "page": 45}]
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 43
+        },
+        {
+          "doc": "BGB_2",
+          "page": 44
+        },
+        {
+          "doc": "BGB_2",
+          "page": 45
+        }
+      ]
     }
   ],
   "quiz": [
@@ -141,10 +364,20 @@
         "Sobald der Erklärende sie mit Wissen und Wollen auf den Weg gebracht hat",
         "Wenn der Empfänger den Inhalt verstanden und gebilligt hat"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "So die Definition des Skripts. Die tatsächliche Kenntnisnahme ist unerheblich; Option C beschreibt die Abgabe.",
-      "hints": ["Zugang ist nicht Kenntnisnahme.", "Machtbereich + Möglichkeit."],
-      "src": [{"doc": "BGB_2", "page": 32}]
+      "hints": [
+        "Zugang ist nicht Kenntnisnahme.",
+        "Machtbereich + Möglichkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 32
+        }
+      ]
     },
     {
       "id": "q2",
@@ -154,8 +387,19 @@
       "prompt": "Für das Wirksamwerden einer Willenserklärung unter Abwesenden kommt es auf die tatsächliche Kenntnisnahme durch den Empfänger an.",
       "answer": false,
       "explanation": "Maßgeblich ist nach § 130 Abs. 1 BGB der Zugang, nicht die Kenntnisnahme. Wer den Briefkasten zwei Tage nicht leert, muss die Erklärung gleichwohl ab Zugang gegen sich gelten lassen.",
-      "hints": ["Denken Sie an das Beispiel mit dem ungeleerten Briefkasten."],
-      "src": [{"doc": "BGB_2", "page": 32}, {"doc": "BGB_2", "page": 33}]
+      "hints": [
+        "Denken Sie an das Beispiel mit dem ungeleerten Briefkasten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 32
+        },
+        {
+          "doc": "BGB_2",
+          "page": 33
+        }
+      ]
     },
     {
       "id": "q3",
@@ -163,10 +407,27 @@
       "level": "recall",
       "difficulty": 1,
       "prompt": "Abgegeben ist eine Willenserklärung, wenn die Erklärung mit {{1}} des Erklärenden so in Richtung auf den Empfänger auf den Weg gebracht wird, dass ohne {{2}} der Zugang der Erklärung eintreten kann.",
-      "blanks": [["Wissen und Wollen", "Wissen und Willen"], ["sein weiteres Zutun", "weiteres Zutun", "sein Zutun"]],
+      "blanks": [
+        [
+          "Wissen und Wollen",
+          "Wissen und Willen"
+        ],
+        [
+          "sein weiteres Zutun",
+          "weiteres Zutun",
+          "sein Zutun"
+        ]
+      ],
       "explanation": "Definition der Abgabe (S. 29). Fehlt der Abgabewille, stellt sich das Problem der abhandengekommenen Willenserklärung.",
-      "hints": ["Zwei Elemente: ein kognitives und ein voluntatives."],
-      "src": [{"doc": "BGB_2", "page": 29}]
+      "hints": [
+        "Zwei Elemente: ein kognitives und ein voluntatives."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        }
+      ]
     },
     {
       "id": "q4",
@@ -175,16 +436,57 @@
       "difficulty": 2,
       "prompt": "Ordnen Sie die Norm ihrem Regelungsgehalt zu.",
       "pairs": [
-        ["§ 130 Abs. 1 S. 2 BGB", "Kein Wirksamwerden bei vorherigem oder gleichzeitigem Zugang eines Widerrufs"],
-        ["§ 130 Abs. 3 BGB", "Tod oder Verlust der Geschäftsfähigkeit nach Abgabe ohne Bedeutung"],
-        ["§ 132 Abs. 1 BGB", "Zustellung durch Vermittlung eines Gerichtsvollziehers"],
-        ["§ 149 BGB", "Verspätet zugegangene Annahme bei Unregelmäßigkeiten der Beförderung"],
-        ["§ 308 Nr. 6 BGB", "Unwirksamkeit von AGB-Zugangsfiktionen für Erklärungen des Verwenders von besonderer Bedeutung"],
-        ["§ 309 Nr. 13 BGB", "Unwirksamkeit von AGB-Klauseln mit besonderen Zugangserfordernissen für Erklärungen gegenüber dem Verwender"]
+        [
+          "§ 130 Abs. 1 S. 2 BGB",
+          "Kein Wirksamwerden bei vorherigem oder gleichzeitigem Zugang eines Widerrufs"
+        ],
+        [
+          "§ 130 Abs. 3 BGB",
+          "Tod oder Verlust der Geschäftsfähigkeit nach Abgabe ohne Bedeutung"
+        ],
+        [
+          "§ 132 Abs. 1 BGB",
+          "Zustellung durch Vermittlung eines Gerichtsvollziehers"
+        ],
+        [
+          "§ 149 BGB",
+          "Verspätet zugegangene Annahme bei Unregelmäßigkeiten der Beförderung"
+        ],
+        [
+          "§ 308 Nr. 6 BGB",
+          "Unwirksamkeit von AGB-Zugangsfiktionen für Erklärungen des Verwenders von besonderer Bedeutung"
+        ],
+        [
+          "§ 309 Nr. 13 BGB",
+          "Unwirksamkeit von AGB-Klauseln mit besonderen Zugangserfordernissen für Erklärungen gegenüber dem Verwender"
+        ]
       ],
       "explanation": "Vgl. S. 37 (§ 130 Abs. 3), S. 40 (§§ 308 Nr. 6, 309 Nr. 13), S. 41 (§ 130 Abs. 1 S. 2), S. 43 (§ 149), S. 44 (§ 132).",
-      "hints": ["§ 308 betrifft Erklärungen des Verwenders, § 309 Nr. 13 Erklärungen ihm gegenüber."],
-      "src": [{"doc": "BGB_2", "page": 37}, {"doc": "BGB_2", "page": 40}, {"doc": "BGB_2", "page": 41}, {"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 44}]
+      "hints": [
+        "§ 308 betrifft Erklärungen des Verwenders, § 309 Nr. 13 Erklärungen ihm gegenüber."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 37
+        },
+        {
+          "doc": "BGB_2",
+          "page": 40
+        },
+        {
+          "doc": "BGB_2",
+          "page": 41
+        },
+        {
+          "doc": "BGB_2",
+          "page": 43
+        },
+        {
+          "doc": "BGB_2",
+          "page": 44
+        }
+      ]
     },
     {
       "id": "q5",
@@ -198,10 +500,19 @@
         "Als Erklärungen unter Abwesenden, sofern die Entfernung erheblich ist",
         "Als nicht empfangsbedürftige Erklärungen"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Telefonische Erklärungen gelten einhellig als Erklärungen unter Anwesenden, auch bei tausenden Kilometern Entfernung. Mündliche Nachrichten auf einer Mailbox sind dagegen mangels direkter Kommunikation unter Abwesenden abgegeben.",
-      "hints": ["Maßgeblich ist die unmittelbare Kommunikation, nicht die räumliche Nähe."],
-      "src": [{"doc": "BGB_2", "page": 31}]
+      "hints": [
+        "Maßgeblich ist die unmittelbare Kommunikation, nicht die räumliche Nähe."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 31
+        }
+      ]
     },
     {
       "id": "q6",
@@ -213,13 +524,27 @@
         "Kaufmännische Angestellte in einem Betrieb",
         "Angehörige, sofern sie sich in der Wohnung des Adressaten befinden",
         "Ehepartner, auch außerhalb der Wohnung",
-        "Ein beliebiger Nachbar im selben Mehrfamilienhaus",
-        "Eine vom Absender mit der Überbringung beauftragte Person"
+        "Ein beliebiger Nachbar im selben Mehrfamilienhaus"
       ],
-      "answer": [0, 1, 2],
+      "answer": [
+        0,
+        1,
+        2
+      ],
       "explanation": "Das Skript nennt kaufmännische Angestellte, Angehörige in der Wohnung und Ehepartner auch außerhalb der Wohnung. Der Nachbar im 5. Stock war im Beispiel der E nicht geeignet und bestimmt; eine vom Absender eingeschaltete Person ist Erklärungsbote.",
-      "hints": ["Empfangsbote = personifizierte Empfangseinrichtung des Empfängers."],
-      "src": [{"doc": "BGB_2", "page": 36}, {"doc": "BGB_2", "page": 37}]
+      "hints": [
+        "Empfangsbote = personifizierte Empfangseinrichtung des Empfängers."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 36
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
     },
     {
       "id": "q7",
@@ -233,10 +558,23 @@
         "In dem Zeitpunkt, in dem unter gewöhnlichen Umständen mit der Weitergabe durch B zu rechnen war",
         "Überhaupt nicht, weil Kündigungen persönlich übergeben werden müssen"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "B war keine zum Empfang für M geeignete und bestimmte Person. Wer die Erklärung von einer nicht empfangsberechtigten Person übermitteln lässt, setzt einen Erklärungsboten ein; Zugang erst bei tatsächlicher Übermittlung an M, das Verzögerungsrisiko trägt E.",
-      "hints": ["Prüfen Sie zuerst, ob B Empfangsvertreter oder Empfangsbote sein kann."],
-      "src": [{"doc": "BGB_2", "page": 36}, {"doc": "BGB_2", "page": 37}]
+      "hints": [
+        "Prüfen Sie zuerst, ob B Empfangsvertreter oder Empfangsbote sein kann."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 36
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
     },
     {
       "id": "q8",
@@ -246,8 +584,15 @@
       "prompt": "V wirft um Mitternacht eine Kündigung in den Briefkasten des M und am frühen Morgen, noch vor der üblichen Leerung, einen Widerruf. Die Kündigung ist nicht wirksam geworden.",
       "answer": true,
       "explanation": "Die nachts eingeworfene Kündigung geht erst zu, wenn mit der Leerung des Briefkastens nach den Regeln des täglichen Lebens zu rechnen ist. Der Widerruf geht damit gleichzeitig zu; nach § 130 Abs. 1 S. 2 BGB wird die Kündigung nicht wirksam.",
-      "hints": ["Zugangswirkung tritt nicht zu jeder Zeit ein."],
-      "src": [{"doc": "BGB_2", "page": 34}]
+      "hints": [
+        "Zugangswirkung tritt nicht zu jeder Zeit ein."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 34
+        }
+      ]
     },
     {
       "id": "q9",
@@ -261,10 +606,24 @@
         "Die Bestellung ist zwar zugegangen, W kann sich aber nach Treu und Glauben nicht auf sie berufen, weil kein schutzwürdiges Vertrauen entstanden ist.",
         "Die Bestellung ist unwirksam, weil beide Briefe am selben Tag zugegangen sind."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Die Bestellung ist morgens zugegangen und wirksam geworden (§ 130 Abs. 1 S. 1). Der Widerruf ging nicht vorher oder gleichzeitig zu (§ 130 Abs. 1 S. 2). Die auf Treu und Glauben gestützte Gegenauffassung ist nach dem RG mit dem klaren Wortlaut unvereinbar.",
-      "hints": ["„Gleichzeitig“ heißt nicht „am selben Tag“.", "Welche Rolle spielt § 242 BGB nach dem RG?"],
-      "src": [{"doc": "BGB_2", "page": 41}, {"doc": "BGB_2", "page": 42}]
+      "hints": [
+        "„Gleichzeitig“ heißt nicht „am selben Tag“.",
+        "Welche Rolle spielt § 242 BGB nach dem RG?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 41
+        },
+        {
+          "doc": "BGB_2",
+          "page": 42
+        }
+      ]
     },
     {
       "id": "q10",
@@ -279,8 +638,23 @@
         "Der Empfänger liest den Brief (Kenntnisnahme – für den Zugang unerheblich)."
       ],
       "explanation": "Abgabe → Machtbereich → Möglichkeit der Kenntnisnahme unter normalen Verhältnissen (Zugang, § 130 Abs. 1 S. 1) → tatsächliche Kenntnisnahme. Bis zum Zugang kann noch nach § 130 Abs. 1 S. 2 widerrufen werden.",
-      "hints": ["Machtbereich und Zugang fallen nicht zwingend zusammen."],
-      "src": [{"doc": "BGB_2", "page": 29}, {"doc": "BGB_2", "page": 32}, {"doc": "BGB_2", "page": 34}]
+      "hints": [
+        "Machtbereich und Zugang fallen nicht zwingend zusammen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        },
+        {
+          "doc": "BGB_2",
+          "page": 32
+        },
+        {
+          "doc": "BGB_2",
+          "page": 34
+        }
+      ]
     },
     {
       "id": "q11",
@@ -294,10 +668,27 @@
         "Das Einschreiben geht erst zu, wenn der Empfänger es liest; bis dahin trägt stets der Absender das Risiko.",
         "Das Einschreiben gilt nach § 149 BGB als rechtzeitig zugegangen."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Der Benachrichtigungszettel enthält keinen Hinweis auf Absender und Inhalt und steht der Sendung nicht gleich. Den Empfänger trifft aber eine Abholobliegenheit; bei Verletzung greift § 242 BGB (vgl. Cello-Fall). § 149 betrifft nur Beförderungsunregelmäßigkeiten bei der Annahme.",
-      "hints": ["Unterscheiden Sie Zugang und Zugangsfiktion."],
-      "src": [{"doc": "BGB_2", "page": 38}, {"doc": "BGB_2", "page": 46}, {"doc": "BGB_2", "page": 47}]
+      "hints": [
+        "Unterscheiden Sie Zugang und Zugangsfiktion."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 38
+        },
+        {
+          "doc": "BGB_2",
+          "page": 46
+        },
+        {
+          "doc": "BGB_2",
+          "page": 47
+        }
+      ]
     },
     {
       "id": "q12",
@@ -305,10 +696,33 @@
       "level": "recall",
       "difficulty": 2,
       "prompt": "Die Mahnung ist keine Willenserklärung, sondern eine {{1}}, weil die Rechtsfolgen durch das Gesetz bestimmt werden. Auf sie finden die Regeln über das Wirksamwerden von Willenserklärungen ({{2}}) entsprechende Anwendung.",
-      "blanks": [["geschäftsähnliche Handlung", "geschäftsähnliche Willensäußerung"], ["§§ 130–132 BGB", "§§ 130-132 BGB", "§§ 130–132", "§§ 130-132", "§§ 130 bis 132 BGB"]],
+      "blanks": [
+        [
+          "geschäftsähnliche Handlung",
+          "geschäftsähnliche Willensäußerung"
+        ],
+        [
+          "§§ 130–132 BGB",
+          "§§ 130-132 BGB",
+          "§§ 130–132",
+          "§§ 130-132",
+          "§§ 130 bis 132 BGB"
+        ]
+      ],
       "explanation": "S. 47–48: Die Mahnung ist eine geschäftsähnliche Handlung; entsprechend anwendbar sind u.a. §§ 104 ff., 130–132, 164 ff., 182–184 BGB.",
-      "hints": ["Sie steht der Willenserklärung nahe, ist aber keine."],
-      "src": [{"doc": "BGB_2", "page": 47}, {"doc": "BGB_2", "page": 48}]
+      "hints": [
+        "Sie steht der Willenserklärung nahe, ist aber keine."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 47
+        },
+        {
+          "doc": "BGB_2",
+          "page": 48
+        }
+      ]
     },
     {
       "id": "q13",
@@ -318,8 +732,19 @@
       "prompt": "Auf Realakte wie den Fund (§§ 965 ff. BGB) sind die Vorschriften über die Geschäftsfähigkeit entsprechend anzuwenden.",
       "answer": false,
       "explanation": "Bei Realakten treten die Rechtsfolgen ohne Rücksicht auf die Geschäftsfähigkeit ein; auch Willensmängel, Zustimmung und Stellvertretung finden keine Anwendung, weil nichts erklärt wird. Die entsprechende Anwendung gilt nur für geschäftsähnliche Handlungen.",
-      "hints": ["Unterscheiden Sie geschäftsähnliche Handlung und Realakt."],
-      "src": [{"doc": "BGB_2", "page": 48}, {"doc": "BGB_2", "page": 49}]
+      "hints": [
+        "Unterscheiden Sie geschäftsähnliche Handlung und Realakt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 48
+        },
+        {
+          "doc": "BGB_2",
+          "page": 49
+        }
+      ]
     },
     {
       "id": "q14",
@@ -334,8 +759,19 @@
         "Erklärungsbote subsidiär, Sphäre des Erklärenden",
         "Zugang erst mit tatsächlicher Übermittlung; Risiko beim Erklärenden; §§ 120, 119 BGB"
       ],
-      "hints": ["Wessen Sphäre ist der Bote zuzuordnen?"],
-      "src": [{"doc": "BGB_2", "page": 36}, {"doc": "BGB_2", "page": 37}]
+      "hints": [
+        "Wessen Sphäre ist der Bote zuzuordnen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 36
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
     },
     {
       "id": "q15",
@@ -351,8 +787,24 @@
         "Einwurf um 20 Uhr: Kenntnisnahme erst am nächsten Tag zu erwarten → verspätet",
         "Ergebnis: kein Kaufvertrag, kein Anspruch"
       ],
-      "hints": ["Wann ist üblicherweise mit Post zu rechnen?", "Welche Norm regelt die gesetzte Annahmefrist?"],
-      "src": [{"doc": "BGB_2", "page": 39}, {"doc": "BGB_2", "page": 51}, {"doc": "BGB_2", "page": 52}]
+      "hints": [
+        "Wann ist üblicherweise mit Post zu rechnen?",
+        "Welche Norm regelt die gesetzte Annahmefrist?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 39
+        },
+        {
+          "doc": "BGB_2",
+          "page": 51
+        },
+        {
+          "doc": "BGB_2",
+          "page": 52
+        }
+      ]
     },
     {
       "id": "q16",
@@ -367,8 +819,23 @@
         "Arglist definiert; Fiktion ohne erneuten Versuch",
         "Begründung § 242, §§ 162, 815 BGB"
       ],
-      "hints": ["Worin unterscheiden sich die Rechtsfolgen hinsichtlich eines erneuten Zustellungsversuchs?"],
-      "src": [{"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 44}, {"doc": "BGB_2", "page": 45}]
+      "hints": [
+        "Worin unterscheiden sich die Rechtsfolgen hinsichtlich eines erneuten Zustellungsversuchs?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 43
+        },
+        {
+          "doc": "BGB_2",
+          "page": 44
+        },
+        {
+          "doc": "BGB_2",
+          "page": 45
+        }
+      ]
     },
     {
       "id": "q17",
@@ -382,10 +849,23 @@
         "Zugang erst am Ende der Geschäftszeit des Eingangstages",
         "Zugang nur, wenn die E-Mail im Posteingang und nicht im Spam-Ordner landet"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Der BGH (NJW 2022, 3791) folgt für den unternehmerischen Verkehr innerhalb der üblichen Geschäftszeiten der Ansicht, dass die E-Mail mit Abrufbarkeit auf dem Server zugeht; der Ordner ist irrelevant. Folge: Ein Widerruf nach § 130 Abs. 1 S. 2 ist praktisch ausgeschlossen.",
-      "hints": ["Der Mailserver wird wie ein elektronischer Briefkasten behandelt."],
-      "src": [{"doc": "BGB_2", "page": 38}, {"doc": "BGB_2", "page": 39}]
+      "hints": [
+        "Der Mailserver wird wie ein elektronischer Briefkasten behandelt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 38
+        },
+        {
+          "doc": "BGB_2",
+          "page": 39
+        }
+      ]
     }
   ],
   "case": {
@@ -397,48 +877,248 @@
         "part": "obersatz",
         "prompt": "Formulieren Sie den Obersatz.",
         "model": "K könnte das Arbeitsverhältnis mit I wirksam gekündigt haben. Die Kündigung ist eine empfangsbedürftige Willenserklärung. Sie müsste daher dem I gemäß § 130 Abs. 1 S. 1 BGB zugegangen sein, und es dürfte ihr nicht vorher oder gleichzeitig ein Widerruf zugegangen sein (§ 130 Abs. 1 S. 2 BGB).",
-        "rubric": ["Konjunktiv", "Kündigung als empfangsbedürftige Willenserklärung", "§ 130 Abs. 1 S. 1 und S. 2 BGB als Prüfungsmaßstab"],
-        "hints": ["Welche zwei Voraussetzungen ergeben sich aus § 130 Abs. 1 BGB?"]
+        "rubric": [
+          "Konjunktiv",
+          "Kündigung als empfangsbedürftige Willenserklärung",
+          "§ 130 Abs. 1 S. 1 und S. 2 BGB als Prüfungsmaßstab"
+        ],
+        "hints": [
+          "Welche zwei Voraussetzungen ergeben sich aus § 130 Abs. 1 BGB?"
+        ]
       },
       {
         "part": "definition",
         "prompt": "Definieren Sie den Zugang unter Abwesenden und benennen Sie die Voraussetzungen eines wirksamen Widerrufs sowie das Wirksamwerden einer mündlichen Erklärung unter Anwesenden.",
         "model": "Eine unter Abwesenden abgegebene Willenserklärung geht zu, wenn sie derart in den Machtbereich des Empfängers gelangt, dass bei Annahme gewöhnlicher Verhältnisse damit zu rechnen ist, er könne von ihr Kenntnis erlangen; die tatsächliche Kenntnisnahme ist nicht erforderlich. Bei Kaufleuten ist die Möglichkeit der Kenntnisnahme gegeben, wenn eine schriftliche Erklärung zu den gewöhnlichen Geschäftszeiten zugestellt wird. Ein Widerruf ist nur wirksam, wenn er dem Empfänger vor oder gleichzeitig mit der Erklärung zugeht (§ 130 Abs. 1 S. 2 BGB); maßgeblich ist allein der Zeitpunkt des Zugangs. Eine mündliche Erklärung unter Anwesenden wird wirksam, wenn der Empfänger sie vernimmt.",
-        "rubric": ["Zugangsdefinition (Machtbereich, gewöhnliche Verhältnisse, Möglichkeit der Kenntnisnahme)", "Kenntnisnahme unerheblich", "Widerruf: vorher oder gleichzeitig zugehen, Zugang maßgeblich", "Vernehmung bei Erklärung unter Anwesenden"],
-        "hints": ["Das Skript betont den Unterschied zwischen Zugang und Kenntnisnahme."]
+        "rubric": [
+          "Zugangsdefinition (Machtbereich, gewöhnliche Verhältnisse, Möglichkeit der Kenntnisnahme)",
+          "Kenntnisnahme unerheblich",
+          "Widerruf: vorher oder gleichzeitig zugehen, Zugang maßgeblich",
+          "Vernehmung bei Erklärung unter Anwesenden"
+        ],
+        "hints": [
+          "Das Skript betont den Unterschied zwischen Zugang und Kenntnisnahme."
+        ]
       },
       {
         "part": "subsumtion",
         "prompt": "Subsumieren Sie.",
         "model": "Indem K gegenüber I erklärte, er wolle die Kündigung rückgängig machen, brachte er zum Ausdruck, dass er seine Kündigung widerrufe. Diese Widerrufserklärung wurde unter Anwesenden abgegeben und wurde wirksam, als I sie vernahm, also sofort. Die schriftliche Kündigung war dagegen eine Erklärung unter Abwesenden. Sie war dem I bereits eine Stunde zuvor durch die Post während der gewöhnlichen Geschäftszeiten zugestellt worden; damit befand sie sich in seinem Machtbereich, und I als Kaufmann hatte unter gewöhnlichen Verhältnissen die Möglichkeit der Kenntnisnahme. Die Kündigung war folglich bereits zugegangen, bevor der Widerruf zuging. Dass I den Widerruf zeitlich vor der Kündigung zur Kenntnis nahm und das Schreiben noch nicht gelesen hatte, ist ohne Bedeutung, weil § 130 Abs. 1 BGB allein auf den Zugang abstellt. Der Widerruf erfolgte verspätet.",
-        "rubric": ["Auslegung der Äußerung als Widerruf", "Widerruf unter Anwesenden sofort wirksam", "Kündigung bereits während der Geschäftszeit zugegangen", "Kenntnisnahme durch I irrelevant", "Widerruf verspätet"],
-        "hints": ["Vergleichen Sie die Zeitpunkte des Zugangs beider Erklärungen.", "Spielt es eine Rolle, dass I den Brief noch nicht gelesen hat?"]
+        "rubric": [
+          "Auslegung der Äußerung als Widerruf",
+          "Widerruf unter Anwesenden sofort wirksam",
+          "Kündigung bereits während der Geschäftszeit zugegangen",
+          "Kenntnisnahme durch I irrelevant",
+          "Widerruf verspätet"
+        ],
+        "hints": [
+          "Vergleichen Sie die Zeitpunkte des Zugangs beider Erklärungen.",
+          "Spielt es eine Rolle, dass I den Brief noch nicht gelesen hat?"
+        ]
       },
       {
         "part": "ergebnis",
         "prompt": "Formulieren Sie das Ergebnis.",
         "model": "Die Kündigung ist dem I vor dem Widerruf zugegangen und damit nach § 130 Abs. 1 S. 1 BGB wirksam geworden; der Widerruf konnte sie nach § 130 Abs. 1 S. 2 BGB nicht mehr verhindern. K hat das Arbeitsverhältnis wirksam gekündigt.",
-        "rubric": ["Indikativ", "Beantwortung der Fallfrage", "Normbezug"],
-        "hints": ["Kurz und eindeutig."]
+        "rubric": [
+          "Indikativ",
+          "Beantwortung der Fallfrage",
+          "Normbezug"
+        ],
+        "hints": [
+          "Kurz und eindeutig."
+        ]
       }
     ],
-    "src": [{"doc": "BGB_2", "page": 42}, {"doc": "BGB_2", "page": 43}, {"doc": "BGB_2", "page": 52}]
+    "src": [
+      {
+        "doc": "BGB_2",
+        "page": 42
+      },
+      {
+        "doc": "BGB_2",
+        "page": 43
+      },
+      {
+        "doc": "BGB_2",
+        "page": 52
+      }
+    ]
   },
   "flashcards": [
-    {"front": "Was bedeutet Empfangsbedürftigkeit einer Willenserklärung?", "back": "Sie muss gegenüber einer anderen Person abgegeben werden und wird erst wirksam, wenn sie dieser zugeht (Abgabe → Zugang); das ist bis auf wenige Ausnahmen der Regelfall.", "src": [{"doc": "BGB_2", "page": 29}]},
-    {"front": "Abhandengekommene Willenserklärung – Meinungsstand?", "back": "Ansicht 1 (BGH NJW-RR 2006, 847): Abgabewille zwingend, sonst keine Abgabe; Vertrauensschaden über § 122 analog oder §§ 311 II, 280 I, 241 II. Ansicht 2: zurechenbarer „potenzieller Abgabewille“ genügt (v.a. Organisationsbereich), Anfechtung § 119 I Alt. 2.", "src": [{"doc": "BGB_2", "page": 29}, {"doc": "BGB_2", "page": 30}]},
-    {"front": "Strenge vs. gemäßigte Vernehmungstheorie?", "back": "Streng: Zugang, wenn der Empfänger akustisch richtig vernommen hat. Gemäßigt (heute wohl h.M.): genügt, dass ein sorgfältig Erklärender von richtigem Verständnis ausgehen durfte. Ob der Sinn verstanden wurde, ist nach beiden irrelevant.", "src": [{"doc": "BGB_2", "page": 30}]},
-    {"front": "Messenger-Nachricht – unter An- oder Abwesenden?", "back": "Nach dem Skript entscheidet die Möglichkeit dauerhafter Speicherung: Löschung nach Einmal-Sehen → wie unter Anwesenden; dauerhafte Speicherung → unter Abwesenden.", "src": [{"doc": "BGB_2", "page": 32}]},
-    {"front": "Definition Zugang unter Abwesenden?", "back": "Gelangen in den Machtbereich des Empfängers in verkehrsüblicher Weise, sodass dieser unter normalen Verhältnissen die Möglichkeit der Kenntnisnahme hat.", "src": [{"doc": "BGB_2", "page": 32}]},
-    {"front": "Wann geht ein nachts eingeworfener Brief zu?", "back": "Wenn nach den Regeln des täglichen Lebens mit der Leerung zu rechnen ist (z.B. am nächsten Morgen); eine tatsächliche frühere Kenntnisnahme bewirkt aber stets Zugang.", "src": [{"doc": "BGB_2", "page": 34}]},
-    {"front": "Kündigung an urlaubsabwesenden Arbeitnehmer?", "back": "Zugang mit Einwurf auch bei Kenntnis des Arbeitgebers von der Abwesenheit; Schutz des Arbeitnehmers über § 5 KSchG (Fristversäumung § 4 KSchG), ausnahmsweise § 242 BGB.", "src": [{"doc": "BGB_2", "page": 35}]},
-    {"front": "Empfangsvertreter, Empfangsbote, Erklärungsbote – Zugang wann?", "back": "Empfangsvertreter (§ 164 III): beim Vertreter. Empfangsbote: bei erwartbarer Weitergabe (Risiko Empfänger). Erklärungsbote: erst bei tatsächlicher Übermittlung (Risiko Erklärender, Anfechtung §§ 120, 119).", "src": [{"doc": "BGB_2", "page": 35}, {"doc": "BGB_2", "page": 36}, {"doc": "BGB_2", "page": 37}]},
-    {"front": "§ 130 Abs. 3 BGB?", "back": "Tod oder Verlust der unbeschränkten Geschäftsfähigkeit des Erklärenden nach Abgabe und vor Zugang hindern das Wirksamwerden nicht (Vertrauensschutz des Empfängers).", "src": [{"doc": "BGB_2", "page": 37}]},
-    {"front": "Übergabe-Einschreiben und Benachrichtigungszettel?", "back": "Zugang erst mit Übergabe; der Zettel genügt nicht (kein Hinweis auf Absender/Inhalt). Nichtabholung trotz Erwartung rechtserheblicher Erklärungen: Behandlung als zugegangen nach Treu und Glauben.", "src": [{"doc": "BGB_2", "page": 38}]},
-    {"front": "Ist § 130 BGB zwingend? Grenzen in AGB?", "back": "Nein, nach h.M. dispositiv. In AGB: § 309 Nr. 13 (keine besonderen Zugangserfordernisse für Erklärungen gegenüber dem Verwender), § 308 Nr. 6 (keine Zugangsfiktion für Erklärungen des Verwenders von besonderer Bedeutung).", "src": [{"doc": "BGB_2", "page": 40}]},
-    {"front": "Widerruf nach § 130 Abs. 1 S. 2 BGB – worauf kommt es an?", "back": "Der Widerruf muss vorher oder gleichzeitig zugehen; allein der Zugang, nicht die Kenntnisnahme ist maßgeblich (RGZ 91, 60). Liest der Empfänger den später zugegangenen Widerruf zuerst, bleibt die Erklärung wirksam.", "src": [{"doc": "BGB_2", "page": 41}, {"doc": "BGB_2", "page": 42}]},
-    {"front": "Zugangsverzögerung in der Sphäre des Empfängers – Folge?", "back": "Wahlrecht des Erklärenden; will er die Wirkung, unverzüglich neuer Zustellungsversuch (ggf. § 132 BGB); dann Behandlung, als sei beim ersten Versuch zugegangen.", "src": [{"doc": "BGB_2", "page": 44}]},
-    {"front": "Arglistige Zugangsvereitelung – Folge und Herleitung?", "back": "Echte Zugangsfiktion zum Zeitpunkt, in dem die Erklärung ohne Verweigerung zugegangen wäre; kein neuer Zustellungsversuch nötig; § 242 BGB, Rechtsgedanke §§ 162, 815 BGB.", "src": [{"doc": "BGB_2", "page": 45}]},
-    {"front": "Geschäftsähnliche Handlung vs. Realakt?", "back": "Geschäftsähnliche Handlung (z.B. Mahnung): Willensäußerung, Rechtsfolge kraft Gesetzes; Regeln über WE entsprechend (§§ 104 ff., 130–132, 164 ff., 182–184). Realakt (Fund, §§ 946, 950): rein tatsächlich; keine Anwendung der WE-Regeln, auch nicht der Geschäftsfähigkeit.", "src": [{"doc": "BGB_2", "page": 47}, {"doc": "BGB_2", "page": 48}, {"doc": "BGB_2", "page": 49}]}
+    {
+      "front": "Was bedeutet Empfangsbedürftigkeit einer Willenserklärung?",
+      "back": "Sie muss gegenüber einer anderen Person abgegeben werden und wird erst wirksam, wenn sie dieser zugeht (Abgabe → Zugang); das ist bis auf wenige Ausnahmen der Regelfall.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "front": "Abhandengekommene Willenserklärung – Meinungsstand?",
+      "back": "Ansicht 1 (BGH NJW-RR 2006, 847): Abgabewille zwingend, sonst keine Abgabe; Vertrauensschaden über § 122 analog oder §§ 311 II, 280 I, 241 II. Ansicht 2: zurechenbarer „potenzieller Abgabewille“ genügt (v.a. Organisationsbereich), Anfechtung § 119 I Alt. 2.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 29
+        },
+        {
+          "doc": "BGB_2",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "front": "Strenge vs. gemäßigte Vernehmungstheorie?",
+      "back": "Streng: Zugang, wenn der Empfänger akustisch richtig vernommen hat. Gemäßigt (heute wohl h.M.): genügt, dass ein sorgfältig Erklärender von richtigem Verständnis ausgehen durfte. Ob der Sinn verstanden wurde, ist nach beiden irrelevant.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "front": "Messenger-Nachricht – unter An- oder Abwesenden?",
+      "back": "Nach dem Skript entscheidet die Möglichkeit dauerhafter Speicherung: Löschung nach Einmal-Sehen → wie unter Anwesenden; dauerhafte Speicherung → unter Abwesenden.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "front": "Definition Zugang unter Abwesenden?",
+      "back": "Gelangen in den Machtbereich des Empfängers in verkehrsüblicher Weise, sodass dieser unter normalen Verhältnissen die Möglichkeit der Kenntnisnahme hat.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "front": "Wann geht ein nachts eingeworfener Brief zu?",
+      "back": "Wenn nach den Regeln des täglichen Lebens mit der Leerung zu rechnen ist (z.B. am nächsten Morgen); eine tatsächliche frühere Kenntnisnahme bewirkt aber stets Zugang.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "front": "Kündigung an urlaubsabwesenden Arbeitnehmer?",
+      "back": "Zugang mit Einwurf auch bei Kenntnis des Arbeitgebers von der Abwesenheit; Schutz des Arbeitnehmers über § 5 KSchG (Fristversäumung § 4 KSchG), ausnahmsweise § 242 BGB.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "front": "Empfangsvertreter, Empfangsbote, Erklärungsbote – Zugang wann?",
+      "back": "Empfangsvertreter (§ 164 III): beim Vertreter. Empfangsbote: bei erwartbarer Weitergabe (Risiko Empfänger). Erklärungsbote: erst bei tatsächlicher Übermittlung (Risiko Erklärender, Anfechtung §§ 120, 119).",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 35
+        },
+        {
+          "doc": "BGB_2",
+          "page": 36
+        },
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "§ 130 Abs. 3 BGB?",
+      "back": "Tod oder Verlust der unbeschränkten Geschäftsfähigkeit des Erklärenden nach Abgabe und vor Zugang hindern das Wirksamwerden nicht (Vertrauensschutz des Empfängers).",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Übergabe-Einschreiben und Benachrichtigungszettel?",
+      "back": "Zugang erst mit Übergabe; der Zettel genügt nicht (kein Hinweis auf Absender/Inhalt). Nichtabholung trotz Erwartung rechtserheblicher Erklärungen: Behandlung als zugegangen nach Treu und Glauben.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "Ist § 130 BGB zwingend? Grenzen in AGB?",
+      "back": "Nein, nach h.M. dispositiv. In AGB: § 309 Nr. 13 (keine besonderen Zugangserfordernisse für Erklärungen gegenüber dem Verwender), § 308 Nr. 6 (keine Zugangsfiktion für Erklärungen des Verwenders von besonderer Bedeutung).",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "front": "Widerruf nach § 130 Abs. 1 S. 2 BGB – worauf kommt es an?",
+      "back": "Der Widerruf muss vorher oder gleichzeitig zugehen; allein der Zugang, nicht die Kenntnisnahme ist maßgeblich (RGZ 91, 60). Liest der Empfänger den später zugegangenen Widerruf zuerst, bleibt die Erklärung wirksam.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 41
+        },
+        {
+          "doc": "BGB_2",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "front": "Zugangsverzögerung in der Sphäre des Empfängers – Folge?",
+      "back": "Wahlrecht des Erklärenden; will er die Wirkung, unverzüglich neuer Zustellungsversuch (ggf. § 132 BGB); dann Behandlung, als sei beim ersten Versuch zugegangen.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "front": "Arglistige Zugangsvereitelung – Folge und Herleitung?",
+      "back": "Echte Zugangsfiktion zum Zeitpunkt, in dem die Erklärung ohne Verweigerung zugegangen wäre; kein neuer Zustellungsversuch nötig; § 242 BGB, Rechtsgedanke §§ 162, 815 BGB.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "front": "Geschäftsähnliche Handlung vs. Realakt?",
+      "back": "Geschäftsähnliche Handlung (z.B. Mahnung): Willensäußerung, Rechtsfolge kraft Gesetzes; Regeln über WE entsprechend (§§ 104 ff., 130–132, 164 ff., 182–184). Realakt (Fund, §§ 946, 950): rein tatsächlich; keine Anwendung der WE-Regeln, auch nicht der Geschäftsfähigkeit.",
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 47
+        },
+        {
+          "doc": "BGB_2",
+          "page": 48
+        },
+        {
+          "doc": "BGB_2",
+          "page": 49
+        }
+      ]
+    }
   ]
 }

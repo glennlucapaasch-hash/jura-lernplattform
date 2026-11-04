@@ -18,7 +18,7 @@ export const POST = handle(async (req: Request) => {
   if (b.source === "offline") {
     const c = offlineCases().find((x) => x.lessonId === b.lessonId);
     if (!c) return fail("Fall nicht gefunden", 404);
-    return ok({ id: createExam({ moduleId: c.moduleId, title: c.title, difficulty: b.difficulty ?? 2, facts: c.facts, question: c.question, solution: c.solution + "\n\n**Bewertungspunkte:**\n" + c.rubric.map((r) => `- ${r}`).join("\n"), durationMin, src: c.src }) });
+    return ok({ id: createExam({ moduleId: c.moduleId, title: c.title.replace(/ \(Klausurfall.*\)$/, ""), difficulty: c.difficulty, facts: c.facts, question: c.question, solution: c.solution + "\n\n**Bewertungspunkte:**\n" + c.rubric.map((r) => `- ${r}`).join("\n"), durationMin: b.durationMin ?? c.durationMin, src: c.src }) });
   }
   const prog = progressMap();
   let topicIds = b.topicIds?.length ? b.topicIds : studyUnits(b.moduleId).filter((u) => prog.get(u.id)?.status === "studied" || prog.get(u.id)?.status === "learning").map((u) => u.id);

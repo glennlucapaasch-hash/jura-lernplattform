@@ -54,9 +54,9 @@ export default function Dashboard() {
       </Card>
 
       {!aiAvailable() && (
-        <Notice title="KI-Funktionen noch nicht aktiv">
-          Lernplan, Quiz, Karteikarten und die vorbereiteten Lerneinheiten funktionieren bereits. Für den KI-Dozenten, die Bewertung freier Antworten und das Erzeugen neuer Lerneinheiten
-          trage einen Claude-API-Schlüssel ein – Anleitung unter <Link className="underline" href="/einstellungen">Einstellungen</Link>.
+        <Notice title="Lernen ohne KI">
+          Alle Lerneinheiten, Quizfragen, Gutachtenfälle, Übungsklausuren und Karteikarten sind vorbereitet und funktionieren ohne KI. Freie Antworten vergleichst du selbst mit der Musterlösung.
+          Optional kannst du später den KI-Dozenten und die automatische Korrektur freischalten – siehe <Link className="underline" href="/einstellungen">Einstellungen</Link>.
         </Notice>
       )}
 

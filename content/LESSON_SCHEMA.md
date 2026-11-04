@@ -1,7 +1,7 @@
 # Lesson pack schema (content/lessons/<id>.json)
 
 Every pack is authored from the FernUni course text and MUST cite pages.
-`src` = { "doc": "BGB_2", "page": 8 }  (doc = file stem, page = PDF page number = printed page for BGB)
+`src` = { "doc": "BGB_2", "page": 8 }  (doc = document key, page = PDF page number; see v2 rules below)
 
 ```jsonc
 {
@@ -47,3 +47,28 @@ Rules: German; keep the course's terminology and systematics; never invent norms
 not in the course text (BGH-Entscheidungen only if the Skript cites them, with the Skript page);
 simplifications must not change legal meaning; every section/definition/question has src.
 Order items are stored in the CORRECT order (the app shuffles). Options are shuffled by the app too.
+
+## Additional rules (v2)
+- MC items have EXACTLY 4 options. mc-single: exactly 1 correct; mc-multi: 2–3 correct.
+- `src.page` is ALWAYS the PDF page number (1-based index in the PDF file), not the printed page number.
+  BGB: identical. VR_1: PDF = printed + 13. VR_3: PDF = printed + 6. PROP_1: PDF = printed − 1.
+  Doc keys: BGB_1…BGB_8, VR_1, VR_3, PROP_1.
+- Coverage: the pack's topics have sub-sections (I., II., …) with page ranges (see content/curriculum/<module>.json,
+  entries whose parentId is one of the pack's topicIds). Every sub-section must be covered by ≥1 section and
+  ≥2 quiz items whose src pages fall inside its page range, because the daily session picks content by page range.
+- Large topics: up to 10 sections and 20–28 quiz items so that all sub-sections are covered.
+- Validate with: `npx tsx scripts/validate-content.ts content/lessons/<id>.json` (must print ✓).
+
+## Exam case schema (content/exams/<id>.json)
+```jsonc
+{
+  "id": "exam-bgb-stellvertretung-1", "moduleId": "55101", "topicIds": ["bgb-ke7-s16"],
+  "title": "…", "difficulty": 2, "durationMin": 60,
+  "facts": "Sachverhalt (150–500 Wörter)", "question": "Fallfrage",
+  "solution": "Ausführliche Musterlösung im Gutachtenstil, Markdown mit Gliederung (A., I., 1.)",
+  "rubric": ["Bewertungspunkt 1", "…"],      // ≥ 6 concrete points (Anspruchsgrundlage, Probleme, Ergebnis)
+  "src": [{ "doc": "BGB_7", "page": 20 }]
+}
+```
+Exam cases must be solvable with the course material; base them on the Skript's Fälle/Beispiele where possible
+and vary facts so they are not identical to the lesson's Gutachten case.
