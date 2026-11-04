@@ -64,3 +64,25 @@ cd /opt/jura-lernplattform && sudo bash deploy/update-server.sh
 - Die Suchmaschinen-Indexierung ist abgeschaltet (`noindex`, `robots.txt`). Die App ist ohne Passwort nicht nutzbar.
 - Die Studienbriefe liegen auf deinem Server. Das ist nur für deine private Nutzung zulässig, gib den Zugang nicht weiter.
 - Über HTTPS funktioniert auf iPhone und iPad auch das Diktieren.
+
+## Sonderfall: Ports 80/443 gehören dem Caddy-Container einer anderen App (Docker)
+Das ist bei diesem Server so (Kostenerstattungs-App, Caddy im Container `kostenerstattung-caddy-1`, Netz-Gateway `172.18.0.1`).
+1. Die Lern-App lauscht auf dem Gateway des Docker-Netzes:
+   `sudo sed -i 's/-H 127.0.0.1/-H 172.18.0.1/; s/^After=network.target$/After=network.target docker.service/' /etc/systemd/system/jura-lernplattform.service && sudo systemctl daemon-reload && sudo systemctl restart jura-lernplattform`
+2. Ist die Firewall `ufw` aktiv, muss Port 3100 für das Docker-Netz freigegeben werden: `sudo ufw allow from 172.18.0.0/16 to any port 3100 proto tcp`
+3. Im Caddyfile der anderen App (`/opt/kostenerstattung/deploy/Caddyfile`) wird am Ende ein Block ergänzt, nach einer Sicherungskopie und nur mit `tee -a`, weil die Datei als Bind-Mount eingebunden ist:
+   ```
+   isabells-jura-studium.de, www.isabells-jura-studium.de {
+   	encode zstd gzip
+   	request_body {
+   		max_size 60MB
+   	}
+   	header X-Robots-Tag "noindex, nofollow"
+   	reverse_proxy 172.18.0.1:3100 {
+   		flush_interval -1
+   	}
+   }
+   ```
+4. Danach Caddy neu laden: `docker exec kostenerstattung-caddy-1 caddy reload --config /etc/caddy/Caddyfile --adapter caddyfile`
+5. **Wichtig:** Wenn die Kostenerstattungs-App neu ausgerollt wird und dabei ihr Caddyfile aus Git überschreibt, geht der Block verloren. Ihn deshalb auch in deren Repository übernehmen.
+6. Erneutes Ausführen von `install-server.sh` behält die Adresse 172.18.0.1 bei.

@@ -8,6 +8,12 @@ set -euo pipefail
 DOMAIN="${1:-}"
 EMAIL="${2:-}"
 PORT="${PORT:-3100}"
+# BIND_HOST: 127.0.0.1 (default) or the gateway IP of a Docker network whose Caddy should reach the app (e.g. 172.18.0.1)
+BIND_HOST="${BIND_HOST:-}"
+if [ -z "$BIND_HOST" ] && [ -f /etc/systemd/system/jura-lernplattform.service ]; then
+  BIND_HOST="$(grep -oP '(?<=-H )[0-9.]+' /etc/systemd/system/jura-lernplattform.service || true)"
+fi
+BIND_HOST="${BIND_HOST:-127.0.0.1}"
 APP_USER=jura
 DATA_DIR=/var/lib/jura-lernplattform
 APP_DIR="$(cd "$(dirname "$0")/.." && pwd)"
@@ -63,7 +69,7 @@ say "5/7 Dienst einrichten (startet automatisch, auch nach Neustart)"
 cat > /etc/systemd/system/$SERVICE.service <<UNIT
 [Unit]
 Description=Jura-Lernbegleiter
-After=network.target
+After=network.target docker.service
 
 [Service]
 User=$APP_USER
@@ -71,7 +77,7 @@ WorkingDirectory=$APP_DIR
 Environment=NODE_ENV=production
 Environment=DATA_DIR=$DATA_DIR
 Environment=NODE_OPTIONS=--no-warnings
-ExecStart=$NODE_BIN node_modules/next/dist/bin/next start -p $PORT -H 127.0.0.1
+ExecStart=$NODE_BIN node_modules/next/dist/bin/next start -p $PORT -H $BIND_HOST
 Restart=always
 RestartSec=5
 NoNewPrivileges=true
@@ -85,7 +91,7 @@ systemctl daemon-reload
 systemctl enable --now $SERVICE
 sleep 3
 systemctl is-active --quiet $SERVICE || { journalctl -u $SERVICE -n 30 --no-pager; die "Dienst startet nicht (Log oben)."; }
-curl -fsS -o /dev/null "http://127.0.0.1:$PORT/login" && echo "App läuft lokal auf Port $PORT."
+curl -fsS -o /dev/null "http://$BIND_HOST:$PORT/login" && echo "App läuft lokal auf $BIND_HOST:$PORT."
 
 say "6/7 DNS prüfen"
 SERVER_IP="$(curl -fsS -4 https://api.ipify.org || true)"
@@ -98,7 +104,13 @@ NAMES="$DOMAIN"; [ "$WWW_OK" -eq 1 ] && NAMES="$DOMAIN www.$DOMAIN"
 if [ -n "$EMAIL" ]; then CERT_MAIL="-m $EMAIL"; else CERT_MAIL="--register-unsafely-without-email"; fi
 
 say "7/7 Webserver einbinden"
-if systemctl is-active --quiet nginx; then
+DOCKER_CADDY="$(docker ps --format '{{.Names}} {{.Image}} {{.Ports}}' 2>/dev/null | awk '$2 ~ /caddy/ && /:443->/ {print $1; exit}')"
+if [ -n "$DOCKER_CADDY" ]; then
+  echo "Gefunden: Caddy im Docker-Container $DOCKER_CADDY (gehört zu einer anderen App)."
+  echo "Dieser Caddy wird nicht automatisch verändert. Eintrag für die Lern-App (einmalig, siehe deploy/SERVER.md, Abschnitt Docker-Caddy):"
+  echo "  $DOMAIN, www.$DOMAIN { reverse_proxy $BIND_HOST:$PORT { flush_interval -1 } }"
+  [ "$BIND_HOST" = "127.0.0.1" ] && warn "Die App lauscht nur auf 127.0.0.1 – aus dem Container nicht erreichbar. Mit BIND_HOST=<Gateway-IP des Docker-Netzes> erneut ausführen."
+elif systemctl is-active --quiet nginx; then
   echo "Gefunden: nginx"
   CONF=/etc/nginx/sites-available/$DOMAIN
   cat > "$CONF" <<NGX
