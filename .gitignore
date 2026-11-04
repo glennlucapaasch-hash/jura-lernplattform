@@ -45,3 +45,4 @@ next-env.d.ts
 /data/
 !.env.example
 tsconfig.tsbuildinfo
+e2e-failure.png

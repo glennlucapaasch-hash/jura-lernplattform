@@ -18,7 +18,9 @@ page.on("pageerror", (e) => errors.push(e.message));
 try {
   step("Login");
   await page.goto(BASE + "/login");
-  const needsSetup = await page.locator('input[type=password]').count() === 2;
+  await page.locator('input[type=password]').first().waitFor();
+  const needsSetup = (await (await fetch(BASE + "/api/auth")).json()).needsSetup;
+  if (needsSetup) await page.locator('input[type=password]').nth(1).waitFor();
   await page.locator('input[type=password]').first().fill(PW);
   if (needsSetup) await page.locator('input[type=password]').nth(1).fill(PW);
   await page.locator("button", { hasText: /Anmelden|Passwort speichern/ }).click();
