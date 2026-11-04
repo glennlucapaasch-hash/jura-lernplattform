@@ -1,0 +1,1076 @@
+{
+  "id": "vr-ke1-einleitung",
+  "moduleId": "55104",
+  "ke": 1,
+  "topicIds": [
+    "vr-ke1-a"
+  ],
+  "title": "Einleitung: Staat, Verfassung, Staatsstrukturprinzipien und Staatszielbestimmungen",
+  "estMinutes": 70,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Der Staatsbegriff: Drei-Elemente-Lehre nach Jellinek",
+      "short": "Nach Georg Jellinek ist der Staat eine mit ursprünglicher Herrschermacht ausgerüstete Körperschaft eines sesshaften Volkes. Er besteht aus drei Elementen: Staatsvolk, Staatsgebiet und Staatsgewalt. Die Lehre benennt die Mindesterfordernisse eines Staates und gilt auch im Völkerrecht, erklärt aber nicht das Wesen des Staates und blendet die Gesellschaft aus.",
+      "long": "## Definition (S. 1)\n\nNach **Jellinek** ist der Staat eine *mit ursprünglicher Herrschermacht ausgerüstete Körperschaft eines sesshaften Volkes* (Gebietskörperschaft). Drei Elemente bestimmen ihn (**Drei-Elemente-Lehre**):\n\n### 1. Staatsvolk (S. 1–2)\n- Gesamtheit der dem Staat zugehörigen Menschen (persönlicher Geltungsbereich); das formale Bindeglied ist die **Staatsangehörigkeit**.\n- Der Staat regelt Erwerb und Verlust der Staatsangehörigkeit im Rahmen des völkerrechtlich Zulässigen selbst. Grundmodelle: **Abstammungs- bzw. Personalitätsprinzip** (Staatsangehörigkeit der Eltern) und **Territorialitätsprinzip** (Geburt auf dem Staatsgebiet); Kombinationen sind möglich.\n- In Deutschland wird die Staatsangehörigkeit in der Regel nach dem Abstammungsprinzip erworben (§§ 3 ff. StAG).\n- **Volk ≠ Nation:** Für das Volk entscheidet die Staatsangehörigkeit, für die Nation gemeinsame Tradition, Sprache usw.\n\n### 2. Staatsgebiet (S. 2)\nAbgegrenzter Teil der Erdoberfläche, der zum dauernden Aufenthalt von Menschen geeignet ist. Die Grenzen richten sich nach der **tatsächlichen Beherrschbarkeit** – Luftraum und Erdinneres gehören nicht mehr dazu, wo diese endet.\n\n### 3. Staatsgewalt (S. 2)\n- Herrschaftsmacht über das Gebiet (**Gebietshoheit**) und das Volk (**Personalhoheit**): das Gemeinwesen kann Befehle erteilen und notfalls zwangsweise durchsetzen.\n- **Ursprünglichkeit:** letztverantwortlich und von niemandem abgeleitet – anders als bei Gemeinden, deren Gewalt vom Staat abgeleitet ist.\n- **Innere Souveränität** (Selbstorganisationsfähigkeit) genügt; umfassende Souveränität ist nicht nötig. Deshalb haben auch die **Länder** Staatsqualität, und die Übertragung von Hoheitsrechten nimmt einem Staat seine Staatsqualität nicht.\n- **Unteilbarkeit:** nur ein einheitlicher Träger (Volk, Monarch).\n\n## Völkerrecht und Kritik (S. 3)\nDer juristische Staatsbegriff gilt allgemein im Völkerrecht. Der „Staatsreifekatalog“ von **Montevideo (1933)** nennt: dauernde Bevölkerung, abgegrenztes Territorium, Regierung, Fähigkeit zu Beziehungen mit anderen Staaten.\n\nKritik: Die Lehre benennt nur Mindesterfordernisse, nicht das Wesen des Staates. Die Gesellschaft und ihre Konflikte kommen nicht vor; Legitimation folgt allein aus den drei Elementen, nicht aus dem Volk. Die Konzeption ist Ausdruck der **Trennung von Staat und Gesellschaft**.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        },
+        {
+          "doc": "VR_1",
+          "page": 15
+        },
+        {
+          "doc": "VR_1",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Das Staatsverständnis des Grundgesetzes: relativer Dualismus",
+      "short": "Unter dem Grundgesetz verliert die strikte Trennung von Staat und Gesellschaft an Berechtigung. Gründe sind das Sozialstaatsprinzip, Art. 1 I GG und das Verständnis der Grundrechte als objektive Wertordnung. Am deutlichsten zeigt sich das am Doppelcharakter der Parteien.",
+      "long": "## Abkehr von der strikten Trennung (S. 3–4)\n\nDie traditionelle Trennung von Staat und Gesellschaft verliert als Vorverständnis der Auslegung des GG „mehr und mehr ihre Berechtigung“ (Randnotiz: **relativer Dualismus**).\n\n**Gründe:**\n- **Sozialstaatsprinzip (Art. 20 I GG):** verfassungsrechtliches Mandat zu aktiver Sozial-, Wirtschafts- und Gesellschaftspolitik. Der Staat muss Probleme lösen, die die gesellschaftlichen Kräfte allein nicht bewältigen – eine Folge der industriellen Massengesellschaft (Intervention, Lenkung, planende Gestaltung).\n- **Entstehungsgeschichte** und **Art. 1 I GG:** Die Grundrechte sind nicht nur subjektive Abwehrrechte gegen den Staat, sondern bilden zugleich ein **Wertsystem und eine objektive Ordnung**.\n\n## Doppelcharakter der Parteien (S. 4)\n- **Art. 21 GG** weist den Parteien die Mitwirkung an der **politischen Willensbildung des Volkes** zu – sie sind eine Organisationsform gesellschaftlicher Interessen.\n- **§ 18 I BWahlG** ordnet sie zugleich in den durch Art. 20 II und Art. 38 I 1 GG strukturierten Prozess der **Ausübung von Staatsgewalt** ein.\n\nDie Parteien stehen damit an der Schnittstelle von Gesellschaft und Staat.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 16
+        },
+        {
+          "doc": "VR_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Verfassungsbegriff und Verfassungsfunktion",
+      "short": "Man unterscheidet ein faktisches (Verfassung als Seinszustand, Lassalle) und ein normatives Verfassungsverständnis. Normativ ist zwischen Verfassung im formellen Sinn (Verfassungsurkunde, Höherrangigkeit) und im materiellen Sinn (grundlegender Regelungsgegenstand, z.B. auch Wahl- und Parteiengesetz) zu trennen. Die verfassunggebende Gewalt steht dem Volk zu. Funktion der Verfassung ist die Organisation von Konfliktaustragung unter Wahrung der politischen Einheit.",
+      "long": "## Faktisches und normatives Verständnis (S. 5)\n- **Faktisch:** Verfassung als politischer Seinszustand – wer hat Macht, wie übt er sie aus? Nur mit empirischer Sozialwissenschaft erfassbar; erstmals formuliert von **Ferdinand Lassalle**, „Über das Verfassungswesen“ (1862).\n- **Normativ (juristisch):** Verfassung als rechtliche Regelung der Grundordnung eines Gemeinwesens.\n\n## Formeller und materieller Verfassungsbegriff (S. 5–6)\n| | formell | materiell |\n|---|---|---|\n| Maßstab | Zugehörigkeit zur Verfassungsurkunde | Inhalt/Regelungsgegenstand |\n| Folge | i.d.R. Höherrangigkeit gegenüber einfachem Recht | Verfassungsqualität auch ohne Höherrangigkeit |\n| Beispiel | Grundgesetz | auch **Parteiengesetz, Wahlgesetz** |\n\nMateriell betrifft Verfassung die Organisation des Gemeinwesens, die Beziehung des Einzelnen zum Staat und das Verhältnis zur internationalen Rechtsordnung (Völkerrecht, Unionsrecht).\n\n## Geschichtlicher Wandel (S. 6–7)\n- Aristoteles (*syntagma*), Rom (*constitutio*).\n- **Art. 16 der Französischen Erklärung der Menschen- und Bürgerrechte (1789):** Eine Gesellschaft ohne garantierten Schutz der Menschenrechte und ohne Gewaltenteilung hat keine Verfassung.\n- Provisorischer Charakter des „Grundgesetzes“: Art. 4 Einigungsvertrag – das GG verliert seine Gültigkeit, sobald eine vom deutschen Volk in freier Entscheidung beschlossene Verfassung in Kraft tritt (vgl. Art. 146 GG).\n\n## Verfassunggebende Gewalt (S. 7)\nDer **pouvoir constituant** steht dem **Volk** zu (Volkssouveränität, Art. 20 II 1 GG). Zwei Grundformen: verfassungsberatende Versammlung + Volksabstimmung oder gewählte verfassunggebende Versammlung. Das GG ging einen **dritten Weg**; es soll durch langjährige Akzeptanz nachträglich legitimiert sein – nach der Vereinigung stellt sich die Frage nach der Ausübung der verfassunggebenden Gewalt neu.\n\n## Regelungsbereich und Funktion (S. 8–10)\n- Das GG regelt die **staatliche** Sphäre (Kreation, Kompetenz und Kontrolle von Bundestag, Bundesrat, Bundesregierung, Bundespräsident; Finanzordnung; Grundrechte im Verhältnis Staat–Bürger).\n- Es regelt aber auch **gesellschaftliche** Bereiche: Parteien (Art. 21), Volkswillensbildung (Art. 38), Ehe und Familie (Art. 6), Religionsgesellschaften (Art. 140); Art. 9 III 2 GG gilt ausdrücklich zwischen Privaten.\n- Außenbezug: Präambel, Art. 23, 25, 26 GG.\n- **Konsequenz:** Regelungsbereich ist die gesamte politische Ordnung des Gemeinwesens – daher „Staats- **und** Verfassungsrecht“.\n- **Funktion:** In der Demokratie sind Konflikte legitim, zugleich ist politische Einheit „aufgegeben“ (Hesse). Die Verfassung dient der Dialektik von **Konfliktaustragungs- und Einheitsbildungsfunktion**: Organisation von Konfliktaustragung unter Wahrung der politischen Einheit (S. 10).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 18
+        },
+        {
+          "doc": "VR_1",
+          "page": 19
+        },
+        {
+          "doc": "VR_1",
+          "page": 20
+        },
+        {
+          "doc": "VR_1",
+          "page": 21
+        },
+        {
+          "doc": "VR_1",
+          "page": 22
+        },
+        {
+          "doc": "VR_1",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Geschriebene und ungeschriebene, starre und bewegliche Verfassung (Art. 79 GG)",
+      "short": "Das GG ist eine geschriebene Verfassung; zur geschriebenen Verfassung gehört auch, was durch Interpretation aus ihrem Text abgeleitet werden kann. Es ist relativ starr (Art. 79 I, II GG: ausdrückliche Textänderung, 2/3 der Mitglieder des Bundestages und 2/3 der Stimmen des Bundesrates) und hinsichtlich der Grundsätze des Art. 79 III GG absolut starr. Art. 79 III bindet nur den pouvoir constitué, nicht den pouvoir constituant (Art. 146 GG).",
+      "long": "## Ungeschriebenes Verfassungsrecht (S. 10–11)\nEine Verfassung kann kein lückenloses System sein. Versteht man mit **Hesse** die „Entfaltung“, „Vervollständigung“ oder „Fortbildung“ der geschriebenen Verfassung als ungeschriebenes Verfassungsrecht, schließt die Bindung an die geschriebene Verfassung ungeschriebenes Recht nicht aus. Das Skript betont aber: Zur *geschriebenen* Verfassung gehört der **Gesamtsinn** des Textes, also auch alles durch Interpretation Ableitbare. Weite Begriffe wie „sozial“ machen Verfassungsrecht oft eher gesellschaftspolitisch; Entscheidungen des BVerfG werden teils auch als politische Willensakte gesehen (vgl. BVerfGE 85, 264, 291 ff.). Das erschwert die Grenzziehung.\n\n## Starre der Verfassung (S. 11–14)\n- **Relativ starr:** Änderung nur durch ein Gesetz, das den **Wortlaut ausdrücklich ändert oder ergänzt** (Art. 79 I 1 GG), mit **2/3 der Mitglieder des Bundestages und 2/3 der Stimmen des Bundesrates** (Art. 79 II GG).\n- **Absolut starr (Art. 79 III GG):** unzulässig ist eine Änderung, die berührt\n  - die **Gliederung des Bundes in Länder** – garantiert ist die bundesstaatliche Ordnung, nicht der Bestand der vorhandenen Länder (vgl. Art. 29 GG); verboten ist der Verlust der Staatsqualität der Länder, d.h. eines Mindestmaßes eigener Kompetenzen in Gesetzgebung, Verwaltung, Rechtsprechung und eigener Finanzausstattung (BVerfGE 34, 9, 19 f.),\n  - die **grundsätzliche Mitwirkung der Länder bei der Gesetzgebung** – zumindest in den Grundzügen der Bundesratsstruktur (vgl. Art. 50 GG),\n  - die **Grundsätze der Art. 1 und 20 GG**: Menschenwürde, unverletzliche Menschenrechte, Grundrechtsbindung (die Grundrechte der Art. 2–19 GG über Art. 1 III GG zumindest in ihrem Menschenwürdekern); Republik, Demokratie, Sozialstaat, Bundesstaat, Rechtsstaat i.S.v. Gewaltenteilung und Bindung nach Art. 20 III GG (BVerfGE 30, 1, 24 f.) sowie die **Staatlichkeit** der Bundesrepublik (BVerfGE 123, 267, 343 – Lissabon; „integrationsfest“ über Art. 23 I 3 GG).\n- Auch **Art. 79 III GG selbst** ist änderungsfest. Der Begriff „Ewigkeitsgarantie“ ist nur bedingt treffend: Er bindet den **pouvoir constitué**, nicht den **pouvoir constituant** nach Art. 146 GG. Hintergrund: Erfahrungen der NS-Zeit.\n\n## Stabilität und Flexibilität (S. 14–15)\nStabilität sichert Art. 79 III GG; Flexibilität sichern Art. 79 I, II GG (Beispiel: Aufnahme des Umweltschutzes in Art. 20a GG). Verfassungen entwickeln sich zudem durch den **Bedeutungswandel** ihrer Begriffe (Menschenwürde, Demokratie, gesamtwirtschaftliches Gleichgewicht, Art. 109 II GG). Nach Hesse stellt sich die Frage einer Änderung erst, wo die Offenheit der Verfassung nicht mehr genügt.\n\n**Beispiel zur Anwendung:** Eine Verfassungsänderung, die den Bundesrat ersatzlos durch ein bloß beratendes Gremium ersetzt, berührt die grundsätzliche Mitwirkung der Länder an der Gesetzgebung und verstößt daher gegen Art. 79 III GG – auch wenn die Mehrheiten des Art. 79 II GG erreicht sind (S. 12).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 23
+        },
+        {
+          "doc": "VR_1",
+          "page": 24
+        },
+        {
+          "doc": "VR_1",
+          "page": 25
+        },
+        {
+          "doc": "VR_1",
+          "page": 26
+        },
+        {
+          "doc": "VR_1",
+          "page": 27
+        },
+        {
+          "doc": "VR_1",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Staatsstrukturprinzipien, Staatsorganisation und Aufbau des Kurses",
+      "short": "Die Staatsstrukturprinzipien des GG sind Republik, Bundesstaatlichkeit, Demokratie, Rechtsstaatlichkeit und Sozialstaatlichkeit (v.a. Art. 20 GG). Sie prägen die Staatsorganisation, binden einfachen und verfassungsändernden Gesetzgeber (Art. 79 III GG) und werden von Exekutive und Rechtsprechung bei der Auslegung herangezogen. Der Kurs ordnet die Verfassungsorgane jeweils einem Strukturprinzip zu.",
+      "long": "## Die fünf Strukturprinzipien (S. 15)\n**Republik, Bundesstaatlichkeit, Demokratie, Rechtsstaatlichkeit, Sozialstaatlichkeit** – festgelegt v.a. in Art. 20 GG. In der Literatur heißen sie auch verfassungsrechtliche Grundentscheidungen, Fundamentalnormen oder Staatsstrukturnormen.\n\n## Verzahnung mit der Staatsorganisation (S. 15–16)\n„Alle Staatsgewalt geht vom Volke aus“ (Art. 20 II 1 GG) – handeln aber tun die **Staatsorgane**:\n- Organe auf Bundes- **und** Landesebene → **Bundesstaatsprinzip**,\n- Existenz von Parlamenten → **Demokratieprinzip**,\n- Bindung von Regierung und Verwaltung an Recht und Gesetz → **Rechtsstaatsprinzip** (Art. 20 III GG),\n- kein Monarch an der Staatsspitze → **Republik**.\n\n**Bindungswirkung:** Der einfache Gesetzgeber darf nicht gegen sie verstoßen; der verfassungsändernde Gesetzgeber ist über **Art. 79 III GG** gebunden; Rechtsprechung und Exekutive ziehen sie bei Auslegung und Anwendung heran. Sie enthalten zudem **drittverbindliche** Rechtsprinzipien, die dem Bürger gegenüber direkt wirken.\n\n## Darstellungsweise des Kurses (S. 17)\nAbweichend von den üblichen Lehrbüchern werden die Verfassungsorgane und ihre Funktionen jeweils einem der fünf Strukturprinzipien zugeordnet (z.B. Bundestag/Bundesregierung → Demokratie, Bundespräsident → Republik), um ein „übergreifendes“ Verständnis zu ermöglichen. Schwerpunkte: **Demokratie, Bundesstaat, Rechtsstaat**. Republik (kaum praktische Rechtsprobleme) und Sozialstaat (eher politische als rechtliche Probleme) werden nicht ausführlich dargestellt.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 28
+        },
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Staatszielbestimmungen",
+      "short": "Staatszielbestimmungen sind Verfassungsnormen mit rechtlich bindender Wirkung, die der Staatstätigkeit die fortdauernde Beachtung oder Erfüllung bestimmter, sachlich umschriebener Ziele vorschreiben. Sie richten sich v.a. an den Gesetzgeber, sind zukunftsgerichtet und binden hinsichtlich der Ziele, nicht der Mittel. Beispiele: Art. 20a, Art. 3 II, Präambel/Art. 23 I GG, Sozialstaatsprinzip.",
+      "long": "## Abgrenzung zu Staatsstrukturprinzipien (S. 16)\nNach der vom Skript vertretenen Auffassung sind Staatszielbestimmungen von den Staatsstrukturprinzipien zu **unterscheiden**:\n- **Staatsstrukturprinzipien** bestimmen in erster Linie Struktur und Wesen des Staates (weisen aber in gewissem Maße auch in die Zukunft).\n- **Staatszielbestimmungen** sind **in die Zukunft gerichtet**.\n\n## Definition (S. 16)\nNach der Sachverständigenkommission Staatszielbestimmungen/Gesetzgebungsaufträge: „Verfassungsnormen mit **rechtlich bindender Wirkung**, die der Staatstätigkeit die **fortdauernde Beachtung oder Erfüllung bestimmter Aufgaben – sachlich umschriebener Ziele –** vorschreiben“.\n\n## Wirkung (S. 16–17)\n- Objektive Pflicht des Staates, auf ihre Verwirklichung hinzuwirken.\n- Adressaten: hauptsächlich die **Gesetzgebung**, die Verwaltung nur, soweit sie eigene Handlungsspielräume hat.\n- Verbindlich hinsichtlich der **Ziele, nicht der Mittel**.\n- Sie können **schrankenlos gewährte Grundrechte einschränken** – dort liegt ihre hauptsächliche Bedeutung.\n\n## Beispiele (S. 16–17)\n- Umweltschutz und Tierschutz (**Art. 20a GG**),\n- Gleichstellung von Frauen und Männern (**Art. 3 II GG**),\n- Verwirklichung eines vereinten Europas (**Präambel, Art. 23 I GG**),\n- das **Sozialstaatsprinzip** – wegen seines Gestaltungsauftrags zugleich Staatszielbestimmung.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Staat (Drei-Elemente-Lehre)",
+      "text": "Nach Jellinek eine mit ursprünglicher Herrschermacht ausgerüstete Körperschaft eines sesshaften Volkes (Gebietskörperschaft), bestimmt durch Staatsvolk, Staatsgebiet und Staatsgewalt.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "term": "Staatsvolk",
+      "text": "Gesamtheit der Staatsangehörigen; das formale Bindeglied ist die Staatsangehörigkeit (in Deutschland i.d.R. Erwerb nach dem Abstammungsprinzip, §§ 3 ff. StAG).",
+      "norm": "§§ 3 ff. StAG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        },
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "term": "Staatsgebiet",
+      "text": "Abgegrenzter Teil der Erdoberfläche, der zum dauernden Aufenthalt von Menschen geeignet ist und als Lebensgrundlage dienen kann; die Grenzen bestimmt der Grundsatz der tatsächlichen Beherrschbarkeit.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "term": "Staatsgewalt",
+      "text": "Ursprüngliche, d.h. von niemandem abgeleitete, selbstorganisationsfähige (innere Souveränität) und möglichst rechtlich gebundene Herrschaftsmacht über Staatsgebiet (Gebietshoheit) und Staatsvolk (Personalhoheit); Herrschaftsmacht liegt vor, wenn das Gemeinwesen Befehle erteilen und notfalls zwangsweise durchsetzen kann.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "term": "Verfassung im formellen Sinn",
+      "text": "Gesamtheit aller in einer Verfassungsurkunde niedergelegten Regeln; maßgeblich ist die Zugehörigkeit zum Verfassungstext (in Deutschland i.d.R. verbunden mit Höherrangigkeit gegenüber einfachem Recht), nicht der Inhalt.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 18
+        },
+        {
+          "doc": "VR_1",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Verfassung im materiellen Sinn",
+      "text": "Gesamtheit der grundlegenden Rechtsregeln über die Organisation des Gemeinwesens, die Beziehung des Einzelnen zu ihm und die Beziehung des innerstaatlichen Rechts zu internationalen Rechtsordnungen – unabhängig davon, ob sie in der Verfassungsurkunde stehen (z.B. Parteiengesetz, Wahlgesetz).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 18
+        },
+        {
+          "doc": "VR_1",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Verfassunggebende Gewalt (pouvoir constituant)",
+      "text": "Die Gewalt, eine Verfassung zu schaffen; sie steht nach dem Prinzip der Volkssouveränität (Art. 20 II 1 GG) dem Volk zu. Sie ist vom verfassungsändernden Gesetzgeber (pouvoir constitué) zu unterscheiden, den Art. 79 III GG bindet.",
+      "norm": "Art. 20 II 1, Art. 79 III, Art. 146 GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 20
+        },
+        {
+          "doc": "VR_1",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "term": "Starre Verfassung",
+      "text": "Eine Verfassung ist so weit starr, als sie eine Änderung ausschließt (absolut starr, beim GG Art. 79 III) oder nur unter erschwerten Bedingungen zulässt (relativ starr, beim GG Art. 79 I, II).",
+      "norm": "Art. 79 GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 24
+        },
+        {
+          "doc": "VR_1",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "term": "Staatsstrukturprinzipien",
+      "text": "Die tragenden Grundentscheidungen der Verfassung über Struktur und Wesen des Staates: Republik, Bundesstaatlichkeit, Demokratie, Rechtsstaatlichkeit, Sozialstaatlichkeit (v.a. Art. 20 GG); sie binden alles staatliche Handeln, über Art. 79 III GG auch den verfassungsändernden Gesetzgeber.",
+      "norm": "Art. 20, 79 III GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 28
+        },
+        {
+          "doc": "VR_1",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "term": "Staatszielbestimmungen",
+      "text": "Verfassungsnormen mit rechtlich bindender Wirkung, die der Staatstätigkeit die fortdauernde Beachtung oder Erfüllung bestimmter Aufgaben – sachlich umschriebener Ziele – vorschreiben; verbindlich hinsichtlich der Ziele, nicht der Mittel.",
+      "norm": "z.B. Art. 20a, Art. 3 II GG",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Prüfung der Verfassungsmäßigkeit einer Grundgesetzänderung (Art. 79 GG)",
+      "steps": [
+        "1. Formell: Gesetz, das den Wortlaut des GG ausdrücklich ändert oder ergänzt (Art. 79 I 1 GG)",
+        "2. Formell: Zustimmung von 2/3 der Mitglieder des Bundestages und 2/3 der Stimmen des Bundesrates (Art. 79 II GG)",
+        "3. Materiell: Kein Berühren der Gliederung des Bundes in Länder (Staatsqualität der Länder, nicht Bestand der einzelnen Länder)",
+        "4. Materiell: Kein Berühren der grundsätzlichen Mitwirkung der Länder bei der Gesetzgebung (Grundzüge der Bundesratsstruktur)",
+        "5. Materiell: Kein Berühren der Grundsätze der Art. 1 und 20 GG (einschließlich Menschenwürdekern der Grundrechte und Staatlichkeit)",
+        "6. Ergebnis"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 24
+        },
+        {
+          "doc": "VR_1",
+          "page": 25
+        },
+        {
+          "doc": "VR_1",
+          "page": 26
+        },
+        {
+          "doc": "VR_1",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "title": "Staatsqualität eines Gebildes (Drei-Elemente-Lehre)",
+      "steps": [
+        "1. Staatsvolk: Gesamtheit der Staatsangehörigen",
+        "2. Staatsgebiet: abgegrenzter, beherrschbarer Teil der Erdoberfläche",
+        "3. Staatsgewalt: ursprüngliche Herrschaftsmacht mit innerer Souveränität (umfassende Souveränität nicht erforderlich)",
+        "4. Ergebnis (vgl. ergänzend den Montevideo-Katalog: Regierung, Fähigkeit zu Außenbeziehungen)"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        },
+        {
+          "doc": "VR_1",
+          "page": 15
+        },
+        {
+          "doc": "VR_1",
+          "page": 16
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Elemente bestimmen den Staat nach der Drei-Elemente-Lehre Jellineks?",
+      "options": [
+        "Staatsvolk, Staatsgebiet, Staatsgewalt",
+        "Staatsvolk, Verfassung, Regierung",
+        "Staatsgebiet, Staatsgewalt, völkerrechtliche Anerkennung",
+        "Nation, Territorium, Souveränität nach außen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Jellinek bestimmt den Staat durch Staatsvolk, Staatsgebiet und Staatsgewalt. Regierung und Außenbeziehungen stammen aus dem Montevideo-Katalog; die Nation ist vom Volk gerade zu unterscheiden.",
+      "hints": [
+        "Drei Elemente – Personen, Raum, Herrschaft."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Weil die Länder der Bundesrepublik keine umfassende Souveränität besitzen, fehlt ihnen nach der Drei-Elemente-Lehre die Staatsqualität.",
+      "answer": false,
+      "explanation": "Erforderlich ist nur die innere Souveränität (Selbstorganisationsfähigkeit), nicht umfassende Souveränität. Die Länder haben daher Staatsqualität; auch die Übertragung von Hoheitsrechten nimmt einem Staat seine Staatsqualität nicht.",
+      "hints": [
+        "Welche Art von Souveränität verlangt das Skript?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach dem {{1}} entscheidet die Staatsangehörigkeit der Eltern über die Staatsangehörigkeit des Kindes; nach dem {{2}} erwirbt sie, wer auf dem Staatsgebiet geboren wird.",
+      "blanks": [
+        [
+          "Abstammungsprinzip",
+          "Personalitätsprinzip",
+          "Abstammungs- oder Personalitätsprinzip"
+        ],
+        [
+          "Territorialitätsprinzip"
+        ]
+      ],
+      "explanation": "Zwei Grundmodelle; Deutschland folgt in der Regel dem Abstammungsprinzip (§§ 3 ff. StAG).",
+      "hints": [
+        "Lateinisch territorium = Gebiet."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        },
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Punkte nennt der „Staatsreifekatalog“ von Montevideo (1933)? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Eine dauernde Bevölkerung",
+        "Eine Regierung",
+        "Die Fähigkeit, mit anderen Staaten Beziehungen aufzunehmen",
+        "Eine geschriebene Verfassung"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Der Katalog nennt dauernde Bevölkerung, abgegrenztes Territorium, Regierung und Fähigkeit zu Beziehungen mit anderen Staaten. Eine geschriebene Verfassung ist kein Kriterium – auch England kennt Verfassungsgewohnheitsrecht.",
+      "hints": [
+        "Vier Punkte; einer davon ist das Territorium."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Woran zeigt sich nach dem Skript die Überwindung des Dualismus von Staat und Gesellschaft „am deutlichsten“?",
+      "options": [
+        "Am Doppelcharakter der politischen Parteien (Art. 21 GG einerseits, § 18 I BWahlG andererseits)",
+        "An der Drei-Elemente-Lehre Jellineks",
+        "An der Ewigkeitsgarantie des Art. 79 III GG",
+        "An der Unabhängigkeit der Gerichte"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Parteien wirken an der Willensbildung des Volkes mit (gesellschaftlicher Bereich, Art. 21 GG) und werden zugleich in den Prozess der Ausübung von Staatsgewalt eingeordnet (§ 18 I BWahlG i.V.m. Art. 20 II, 38 I 1 GG). Jellineks Lehre ist gerade Ausdruck der Trennung.",
+      "hints": [
+        "Welche Akteure stehen zwischen Gesellschaft und Staat?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Erläutern Sie, warum die Trennung von Staat und Gesellschaft unter dem Grundgesetz als Vorverständnis der Auslegung an Berechtigung verliert.",
+      "modelAnswer": "Das Sozialstaatsprinzip (Art. 20 I GG) enthält ein Mandat zu aktiver Sozial-, Wirtschafts- und Gesellschaftspolitik; der Staat muss Probleme lösen, die die gesellschaftlichen Kräfte allein nicht bewältigen (Folge der industriellen Massengesellschaft). Zudem folgt aus der Entstehungsgeschichte und Art. 1 I GG, dass die Grundrechte nicht nur Abwehrrechte gegen den Staat, sondern zugleich ein Wertsystem und eine objektive Ordnung sind. Am deutlichsten zeigt sich die Überwindung am Doppelcharakter der Parteien (Art. 21 GG / § 18 I BWahlG).",
+      "rubric": [
+        "Sozialstaatsprinzip als Gestaltungsauftrag",
+        "Grundrechte als objektive Wertordnung (Art. 1 I GG)",
+        "Doppelcharakter der Parteien"
+      ],
+      "hints": [
+        "Denken Sie an Art. 20 I und Art. 1 I GG."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 16
+        },
+        {
+          "doc": "VR_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Begriffe ihrer Beschreibung zu.",
+      "pairs": [
+        [
+          "Faktisches Verfassungsverständnis",
+          "Verfassung als Seinszustand; empirische Frage, wer Macht hat (Lassalle 1862)"
+        ],
+        [
+          "Verfassung im formellen Sinn",
+          "Gesamtheit der in der Verfassungsurkunde niedergelegten Regeln"
+        ],
+        [
+          "Verfassung im materiellen Sinn",
+          "grundlegende Rechtsregeln über Organisation des Gemeinwesens, auch außerhalb der Urkunde"
+        ],
+        [
+          "Pouvoir constituant",
+          "verfassunggebende Gewalt des Volkes"
+        ]
+      ],
+      "explanation": "Normativ wird zwischen formellem (Urkunde) und materiellem (Inhalt) Verfassungsbegriff unterschieden; das faktische Verständnis betrachtet die Machtverteilung in der Wirklichkeit.",
+      "hints": [
+        "Formell = Form/Urkunde; materiell = Inhalt."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 18
+        },
+        {
+          "doc": "VR_1",
+          "page": 19
+        },
+        {
+          "doc": "VR_1",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Das Bundeswahlgesetz gehört zum materiellen Verfassungsrecht, hat aber keinen Vorrang vor anderen einfachen Bundesgesetzen.",
+      "answer": true,
+      "explanation": "Grundlegende Regelungen wie Parteien- und Wahlgesetz zählen inhaltlich zum materiellen Verfassungsrecht, stehen aber nicht in der Verfassungsurkunde und sind daher nicht höherrangig.",
+      "hints": [
+        "Materiell = Inhalt; Höherrangigkeit hängt an der Form."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Funktion der Verfassung betont das Skript in Anschluss an Hesse?",
+      "options": [
+        "Organisation von Konfliktaustragung unter Wahrung der politischen Einheit des Gemeinwesens",
+        "Ausschließlich die Begrenzung der staatlichen Macht gegenüber dem Bürger",
+        "Die Abbildung der tatsächlichen Machtverhältnisse",
+        "Die Verhinderung jedes politischen Konflikts durch Einheitlichkeit"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Verfassung dient der Dialektik von Konfliktaustragungs- und Einheitsbildungsfunktion. Konflikte sind in der Demokratie legitim; politische Einheit ist „aufgegeben“. Die bloße Abbildung der Machtverhältnisse entspricht dem faktischen Verständnis.",
+      "hints": [
+        "Zwei Funktionen in einem dialektischen Verhältnis."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 22
+        },
+        {
+          "doc": "VR_1",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den {{1}} des Grundgesetzes ausdrücklich ändert oder ergänzt. Es bedarf der Zustimmung von {{2}} der Mitglieder des Bundestages und zwei Dritteln der Stimmen des Bundesrates.",
+      "blanks": [
+        [
+          "Wortlaut"
+        ],
+        [
+          "zwei Dritteln",
+          "2/3",
+          "zwei Drittel"
+        ]
+      ],
+      "explanation": "Art. 79 I 1 und II GG – das GG ist insoweit relativ starr.",
+      "hints": [
+        "Kein Verfassungsdurchbrechung durch bloße Mehrheit."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussagen zu Art. 79 III GG treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Art. 79 III GG garantiert den Bestand der bundesstaatlichen Ordnung, nicht aber den Bestand der vorhandenen Länder.",
+        "Art. 79 III GG ist seinerseits änderungsfest.",
+        "Art. 79 III GG bindet auch den pouvoir constituant nach Art. 146 GG.",
+        "Die Grundrechte der Art. 2 bis 19 GG sind über Art. 79 III GG in ihrem gesamten Umfang unabänderlich."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Die Neugliederung (Art. 29 GG) bleibt möglich; Art. 79 III ist selbst änderungsfest. Er bindet aber nur den pouvoir constitué – deshalb ist „Ewigkeitsgarantie“ nur bedingt treffend. Die Art. 2–19 GG sind nur in ihrem Kern (Menschenwürdegehalt) über Art. 1 III GG geschützt.",
+      "hints": [
+        "Unterscheiden Sie verfassungsändernde und verfassunggebende Gewalt.",
+        "Welche Rolle spielt Art. 1 III GG?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Bundestag und Bundesrat beschließen mit jeweils 2/3-Mehrheit eine Grundgesetzänderung, nach der die Bundesrepublik in einem europäischen Bundesstaat vollständig aufgehen soll; Deutschland soll keine eigene Staatlichkeit mehr besitzen. Ist die Änderung mit Art. 79 III GG vereinbar?",
+      "modelAnswer": "Die Änderung könnte gegen Art. 79 III GG verstoßen. Nach der vom Skript zitierten Rechtsprechung (BVerfGE 123, 267, 343 – Lissabon) ist auch die Staatlichkeit der Bundesrepublik ein Verfassungsgrundsatz, den Art. 79 III i.V.m. Art. 20 II GG für unantastbar und über Art. 23 I 3 GG für integrationsfest erklärt. Argumente: Wenn das Bundesstaatsprinzip den Ländern einen Kern eigener Aufgaben sichert, muss dies erst recht für den Bund gelten; bei vollständigem Aufgehen ließe sich die Hoheitsgewalt nicht mehr auf das deutsche Volk zurückführen (Demokratieprinzip); Art. 79 III GG setzt einen verfassungsändernden Gesetzgeber und damit eine organisatorische Grundausstattung voraus. Die Änderung ist daher trotz Erreichens der Mehrheiten des Art. 79 II GG unzulässig. Möglich bliebe allenfalls eine neue Verfassung durch das Volk (Art. 146 GG), an die Art. 79 III nicht bindet.",
+      "rubric": [
+        "Art. 79 III GG als Prüfungsmaßstab",
+        "Staatlichkeit als unantastbarer Grundsatz (BVerfGE 123, 267 – Lissabon)",
+        "Argumente: Bundesstaatsprinzip (erst recht), Demokratieprinzip, Voraussetzung des verfassungsändernden Gesetzgebers",
+        "Ergebnis: Unzulässig; Hinweis auf Art. 146 GG"
+      ],
+      "hints": [
+        "Die Mehrheiten des Art. 79 II GG reichen nicht, wenn Art. 79 III berührt ist.",
+        "Lesen Sie den Spiegelstrich zur Staatlichkeit auf S. 13."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Nach dem Skript gehören zur „geschriebenen“ Verfassung auch die Prinzipien und Normen, die durch Interpretation aus dem Verfassungstext ableitbar sind.",
+      "answer": true,
+      "explanation": "Der Verfassungstext ist nur als Gesamtsinn relevant; auch durch Entfaltung, Vervollständigung oder Fortbildung Ableitbares gehört zur geschriebenen Verfassung.",
+      "hints": [
+        "Text als Gesamtsinn."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte für eine Grundgesetzänderung in die richtige Reihenfolge.",
+      "items": [
+        "Ausdrückliche Änderung oder Ergänzung des Wortlauts (Art. 79 I 1 GG)",
+        "2/3 der Mitglieder des Bundestages und 2/3 der Stimmen des Bundesrates (Art. 79 II GG)",
+        "Kein Berühren der in Art. 79 III GG genannten Grundsätze",
+        "Ergebnis"
+      ],
+      "explanation": "Erst die formellen Voraussetzungen (Art. 79 I, II), dann die materielle Grenze (Art. 79 III).",
+      "hints": [
+        "Formell vor materiell."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 24
+        },
+        {
+          "doc": "VR_1",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Aufzählung enthält genau die fünf Staatsstrukturprinzipien des Grundgesetzes?",
+      "options": [
+        "Republik, Bundesstaat, Demokratie, Rechtsstaat, Sozialstaat",
+        "Republik, Demokratie, Rechtsstaat, Umweltschutz, Europäische Integration",
+        "Monarchie, Demokratie, Bundesstaat, Rechtsstaat, Sozialstaat",
+        "Demokratie, Rechtsstaat, Sozialstaat, Gewaltenteilung, Gleichstellung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "So das Skript (S. 15). Umweltschutz (Art. 20a), Gleichstellung (Art. 3 II) und vereintes Europa sind Staatszielbestimmungen; Gewaltenteilung ist Teil des Rechtsstaatsprinzips.",
+      "hints": [
+        "Alle stehen in Art. 20 GG."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Wirkungen haben die Staatsstrukturprinzipien nach dem Skript? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Sie binden den einfachen Gesetzgeber.",
+        "Sie binden über Art. 79 III GG auch den verfassungsändernden Gesetzgeber.",
+        "Sie enthalten auch drittverbindliche Rechtsprinzipien, die dem Bürger gegenüber direkt wirken.",
+        "Sie gelten nur für die Bundesebene, nicht für die Länder."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die Strukturprinzipien sind verbindlich für alles staatliche Handeln. Die Länderebene ist gerade Folge des Bundesstaatsprinzips; über Art. 28 I GG gelten die Grundentscheidungen auch dort.",
+      "hints": [
+        "Wer ist an Art. 20 GG gebunden?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Staatszielbestimmungen schreiben dem Staat verbindlich vor, mit welchen Mitteln ein Ziel wie der Umweltschutz zu erreichen ist.",
+      "answer": false,
+      "explanation": "Staatszielbestimmungen sind verbindlich im Hinblick auf die Ziele, nicht aber auf die Mittel. Sie richten sich v.a. an den Gesetzgeber.",
+      "hints": [
+        "Ziele vs. Mittel."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie zu: Staatsstrukturprinzip oder Staatszielbestimmung?",
+      "pairs": [
+        [
+          "Art. 20a GG (Umwelt- und Tierschutz)",
+          "Staatszielbestimmung"
+        ],
+        [
+          "Art. 3 II GG (Gleichstellung von Frauen und Männern)",
+          "Staatszielbestimmung"
+        ],
+        [
+          "Republik (Art. 20 I GG)",
+          "Staatsstrukturprinzip"
+        ],
+        [
+          "Sozialstaatsprinzip",
+          "Staatsstrukturprinzip und zugleich Staatszielbestimmung"
+        ]
+      ],
+      "explanation": "Das Sozialstaatsprinzip ist wegen seines Gestaltungsauftrags an den Gesetzgeber zugleich Staatszielbestimmung (S. 17).",
+      "hints": [
+        "Ein Prinzip hat eine Doppelnatur."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Formulieren Sie in zwei bis vier Sätzen, warum der Kurs „Staats- und Verfassungsrecht“ heißt und nicht nur „Staatsrecht“, und wie er die Verfassungsorgane darstellt.",
+      "modelAnswer": "Der moderne Staat ist durch die Trennung von Staat und Gesellschaft nicht erfassbar; Macht entsteht auch in gesellschaftlichen Selbstorganisationsformen. Die Verfassung regelt daher die gesamte politische Ordnung des Gemeinwesens, also auch gesellschaftliche Institute wie Parteien (Art. 21 GG) – das Parlament ist ohne Parteien nicht zu verstehen. Der Kurs ordnet die Verfassungsorgane und ihre Funktionen jeweils einem der fünf Staatsstrukturprinzipien zu, um ein übergreifendes Verständnis zu ermöglichen.",
+      "rubric": [
+        "Regelungsbereich = gesamte politische Ordnung",
+        "Beispiel Parteien/Parlament",
+        "Zuordnung der Organe zu den Strukturprinzipien"
+      ],
+      "hints": [
+        "S. 9 und S. 17."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 22
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Die „Länderkammer“ ohne Gesetzgebungsmitwirkung",
+    "facts": "Um die Gesetzgebung zu beschleunigen, beschließen Bundestag und Bundesrat jeweils mit Zweidrittelmehrheit ein Gesetz, das den Wortlaut des Grundgesetzes ändert: Der Bundesrat wird abgeschafft. An seine Stelle tritt eine „Länderkammer“, in die jedes Land einen Vertreter entsendet. Die Länderkammer darf zu Gesetzentwürfen des Bundes Stellungnahmen abgeben, die der Bundestag jedoch nicht berücksichtigen muss. Weitere Mitwirkungsrechte bei der Bundesgesetzgebung bestehen nicht.",
+    "question": "Ist die Grundgesetzänderung materiell verfassungsgemäß?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "Das verfassungsändernde Gesetz könnte gegen Art. 79 III GG verstoßen. Dann müsste es die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung berühren.",
+        "rubric": [
+          "Konjunktiv",
+          "Art. 79 III GG als Maßstab",
+          "konkret benannte Garantie: grundsätzliche Mitwirkung der Länder bei der Gesetzgebung"
+        ],
+        "hints": [
+          "Formelle Voraussetzungen (Art. 79 I, II GG) sind laut Sachverhalt erfüllt – worauf kommt es materiell an?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Bestimmen Sie den Inhalt der Garantie „grundsätzliche Mitwirkung der Länder bei der Gesetzgebung“.",
+        "model": "Art. 79 III GG erklärt eine Änderung des Grundgesetzes für unzulässig, durch welche die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung berührt wird. Diese Mitwirkung an der Bundesgesetzgebung muss zumindest in den Grundzügen der Bundesratsstruktur (vgl. Art. 50 GG) erhalten bleiben. Garantiert ist nicht jede Einzelheit, wohl aber ein Mitwirken, das Einfluss auf die Bundesgesetzgebung vermittelt. Art. 79 III GG bindet den verfassungsändernden Gesetzgeber (pouvoir constitué) unabhängig von den erreichten Mehrheiten.",
+        "rubric": [
+          "Grundzüge der Bundesratsstruktur müssen erhalten bleiben (Art. 50 GG)",
+          "Mitwirkung an der Bundesgesetzgebung, nicht bloße Anhörung",
+          "Bindung des verfassungsändernden Gesetzgebers unabhängig von Mehrheiten"
+        ],
+        "hints": [
+          "S. 12 des Skripts."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Die Länderkammer kann lediglich unverbindliche Stellungnahmen abgeben, die der Bundestag nicht berücksichtigen muss. Einen Einfluss auf das Zustandekommen von Bundesgesetzen haben die Länder damit nicht mehr; die Grundzüge der Bundesratsstruktur – ein Organ, durch das die Länder bei der Gesetzgebung mitwirken – sind beseitigt. Dass die Änderung mit den Mehrheiten des Art. 79 II GG beschlossen und ausdrücklich in den Wortlaut aufgenommen wurde (Art. 79 I 1 GG), ändert nichts, da Art. 79 III GG gerade dem verfassungsändernden Gesetzgeber eine Grenze setzt.",
+        "rubric": [
+          "Bloßes Anhörungsrecht genügt nicht",
+          "Grundzüge der Bundesratsstruktur beseitigt",
+          "Mehrheiten nach Art. 79 II GG unerheblich"
+        ],
+        "hints": [
+          "Wäre die Mitwirkung auch dann gewahrt, wenn der Bundestag die Stellungnahmen ignorieren darf?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Die Grundgesetzänderung berührt die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung. Sie verstößt gegen Art. 79 III GG und ist materiell verfassungswidrig.",
+        "rubric": [
+          "Ergebnis im Indikativ",
+          "Bezug zum Obersatz"
+        ],
+        "hints": [
+          "Kurz und klar."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "VR_1",
+        "page": 24
+      },
+      {
+        "doc": "VR_1",
+        "page": 25
+      },
+      {
+        "doc": "VR_1",
+        "page": 27
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Wie definiert Jellinek den Staat?",
+      "back": "Als mit ursprünglicher Herrschermacht ausgerüstete Körperschaft eines sesshaften Volkes – bestimmt durch Staatsvolk, Staatsgebiet, Staatsgewalt.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "front": "Volk und Nation – worin liegt der Unterschied?",
+      "back": "Zugehörigkeit zum Volk: Staatsangehörigkeit. Zugehörigkeit zur Nation: gemeinsame Tradition, Sprache usw.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Was bedeutet „Ursprünglichkeit“ der Staatsgewalt?",
+      "back": "Sie ist letztverantwortlich und unabhängig, von niemandem abgeleitet (anders: Gemeinden, deren Gewalt vom Staat abgeleitet ist).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Warum haben die Länder Staatsqualität?",
+      "back": "Es genügt innere Souveränität (Selbstorganisationsfähigkeit); umfassende Souveränität ist nicht nötig.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Hauptkritik an der Drei-Elemente-Lehre?",
+      "back": "Sie nennt nur Mindesterfordernisse, nicht das Wesen des Staates; sie kennt die Gesellschaft nicht und ist Ausdruck der Trennung von Staat und Gesellschaft.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "front": "Doppelcharakter der Parteien – welche Normen?",
+      "back": "Art. 21 GG: Mitwirkung an der Willensbildung des Volkes (Gesellschaft). § 18 I BWahlG: Einordnung in den Prozess der Ausübung von Staatsgewalt (Art. 20 II, 38 I 1 GG).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "front": "Formeller vs. materieller Verfassungsbegriff?",
+      "back": "Formell: Zugehörigkeit zur Verfassungsurkunde (Höherrangigkeit). Materiell: grundlegender Regelungsgegenstand (z.B. auch Wahl- und Parteiengesetz).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 18
+        },
+        {
+          "doc": "VR_1",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "front": "Was besagt Art. 16 der Erklärung der Menschen- und Bürgerrechte von 1789?",
+      "back": "Eine Gesellschaft, in der Menschenrechtsschutz und Gewaltenteilung nicht garantiert sind, hat keine Verfassung.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "front": "Wem steht die verfassunggebende Gewalt zu?",
+      "back": "Dem Volk (Volkssouveränität, Art. 20 II 1 GG). Das GG ging entstehungsgeschichtlich einen „dritten Weg“ und soll durch langjährige Akzeptanz legitimiert sein.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "front": "Was schützt Art. 79 III GG?",
+      "back": "Gliederung des Bundes in Länder, grundsätzliche Mitwirkung der Länder bei der Gesetzgebung, Grundsätze der Art. 1 und 20 GG (inkl. Staatlichkeit, BVerfGE 123, 267 – Lissabon).",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 24
+        },
+        {
+          "doc": "VR_1",
+          "page": 25
+        },
+        {
+          "doc": "VR_1",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "front": "Warum ist „Ewigkeitsgarantie“ nur bedingt treffend?",
+      "back": "Art. 79 III GG bindet den pouvoir constitué, nicht aber den pouvoir constituant nach Art. 146 GG.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "front": "Wie sind die Grundrechte der Art. 2–19 GG über Art. 79 III GG geschützt?",
+      "back": "Sie sind nicht genannt, aber über Art. 1 III GG zumindest in ihrem Kern (Menschenwürdegehalt) garantiert.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "front": "Definition Staatszielbestimmung?",
+      "back": "Verfassungsnormen mit rechtlich bindender Wirkung, die der Staatstätigkeit die fortdauernde Beachtung oder Erfüllung bestimmter, sachlich umschriebener Ziele vorschreiben – bindend für Ziele, nicht Mittel.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "front": "Wie ordnet der Kurs die Verfassungsorgane?",
+      "back": "Jeweils einem der fünf Staatsstrukturprinzipien zu (übergreifendes Verständnis); Schwerpunkt Demokratie, Bundesstaat, Rechtsstaat.",
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1102 @@
+{
+  "id": "bgb-ke6-teilnichtigkeit-umdeutung",
+  "moduleId": "55101",
+  "ke": 6,
+  "topicIds": [
+    "bgb-ke6-s15"
+  ],
+  "title": "Teilnichtigkeit (§ 139), Umdeutung (§ 140) und Bestätigung (§ 141)",
+  "estMinutes": 80,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Teilnichtigkeit: Grundregel des § 139",
+      "short": "Betrifft ein Nichtigkeitsgrund (§ 134, § 138, Anfechtung) nur einen Teil eines Rechtsgeschäfts, fragt sich, ob das ganze Geschäft nichtig ist. § 139 vermutet Gesamtnichtigkeit, „wenn nicht anzunehmen ist, dass es auch ohne den nichtigen Teil vorgenommen sein würde“. Entscheidend sind die Teilbarkeit des Geschäfts und der (hypothetische) Parteiwille.",
+      "long": "## Problem (S. 37)\n\nDie Nichtigkeit wegen Verstoßes gegen ein gesetzliches Verbot, gegen die guten Sitten oder infolge Anfechtung kann **nur Teile** eines Rechtsgeschäfts betreffen. Dann ist zu klären, ob das **ganze Geschäft** oder nur der betroffene Teil nichtig ist und der Rest wirksam bleibt.\n\n**Beachte (S. 37):** Bei Dauerschuldverhältnissen ist eine **„Teilkündigung“** grundsätzlich nicht möglich – der zur Mietwohnung gehörende Pkw-Stellplatz kann in der Regel nicht isoliert gekündigt werden.\n\n## Die Vermutung des § 139 (S. 37–38)\n\n§ 139 begründet eine **Vermutung für die Gesamtnichtigkeit**. Sie ist eingeschränkt durch die Wendung „wenn nicht anzunehmen ist, dass es auch ohne den nichtigen Teil vorgenommen sein würde“. Es kommt also darauf an,\n\n1. ob das Rechtsgeschäft **teilbar** ist und\n2. welchen **Willen** die Parteien hatten.\n\n**Schema (S. 38):** einheitliches Rechtsgeschäft → Teil nichtig → Auslegung, ob der andere Teil gültig bleibt → **im Zweifel: § 139 – nichtig**.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Teilbarkeit und hypothetischer Parteiwille",
+      "short": "Teilnichtigkeit setzt voraus, dass nach Abtrennung des unwirksamen Teils ein Rest bleibt, der als selbständiges Rechtsgeschäft bestehen kann (objektive, quantitative oder subjektive Teilbarkeit). Über den Fortbestand entscheidet der durch – meist ergänzende – Auslegung zu ermittelnde hypothetische Parteiwille im Zeitpunkt des Vertragsschlusses. Ist eine wesentliche Vereinbarung wie der Pachtzins nichtig, fehlt schon die Teilbarkeit.",
+      "long": "## Arten der Teilbarkeit (S. 38)\n\nNach Abtrennung des unwirksamen Teils muss ein Rest verbleiben, der als **selbständiges Rechtsgeschäft** bestehen kann.\n\n- **Objektive Teilbarkeit:** Das Geschäft sieht **mehrere Hauptleistungsgegenstände** einer Partei vor, und die Gegenleistung lässt sich entsprechend aufteilen.\n- **Quantitative Teilbarkeit:** vor allem bei **Dauerschuldverhältnissen**, deren Leistungsgegenstand zeitlich bemessen und nach Zeitabschnitten teilbar ist – z.B. Gaststättenpacht gekoppelt mit Bierlieferungsvertrag.\n- **Subjektive Teilbarkeit:** Auf einer Seite sind **mehrere Personen** beteiligt; das Geschäft kann nur gegenüber einem Beteiligten nichtig und gegenüber den anderen wirksam sein.\n\n## Parteiwille und Auslegung (S. 38–39)\n\n§ 139 stellt auf den **hypothetischen Parteiwillen** ab, bezogen auf den **Zeitpunkt des Geschäftsabschlusses**; er ist durch Auslegung zu ermitteln. Regelt der Vertrag die Teilnichtigkeit nicht, liegt eine **Lücke** vor, die durch **ergänzende Vertragsauslegung** zu schließen ist: Was hätten die Parteien vernünftigerweise unter Berücksichtigung von Treu und Glauben und des Vertragszwecks gewollt?\n\nFür den Fortbestand spricht insbesondere, dass nur ein **geringfügiger Teil** nichtig ist und der für die Beteiligten im Vordergrund stehende überwiegende Teil nicht betroffen ist (S. 39).\n\n**Beispiel Pachtzins (S. 39):** In einem umfangreichen Pachtvertrag verstößt nur die Pachtzinsvereinbarung gegen § 138. Der Pachtzins ist **wesentlicher Vertragsbestandteil**; ohne ihn ist ein Pachtvertrag rechtlich nicht möglich (vgl. § 581). Das Geschäft ist daher **nicht teilbar** – der gesamte Vertrag ist nichtig, ohne dass es auf den Parteiwillen noch ankommt.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        },
+        {
+          "doc": "BGB_6",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Einheitlichkeit mehrerer Rechtsgeschäfte",
+      "short": "§ 139 setzt ein einheitliches Rechtsgeschäft voraus. Nach ständiger Rechtsprechung können auch äußerlich getrennte, in verschiedenen Urkunden niedergelegte Geschäfte unterschiedlichen Typs eine Einheit bilden, wenn sie nach dem Willen der Parteien „miteinander stehen und fallen sollen“. Es genügt, dass der Einheitlichkeitswille einer Partei für die andere erkennbar war und von ihr gebilligt oder hingenommen wurde; auch die Beteiligung verschiedener Personen schließt die Einheit nach dem BGH nicht aus.",
+      "long": "## Problem (S. 39)\n\nParteien schließen oft **mehrere zusammenhängende Verträge**. Ist einer davon nichtig (z.B. wegen Formmangels oder durch Anfechtung), stellt sich die Frage nach der **Einheitlichkeit des Rechtsgeschäfts** i.S.d. § 139.\n\n## Einheitlichkeitswille (S. 39–40)\n\n- Ein einheitliches Rechtsgeschäft kann auch bei einer **Mehrheit äußerlich getrennter**, insbesondere in **getrennten Urkunden** niedergelegter Geschäfte vorliegen, die **verschiedenen Geschäftstypen** angehören (st. Rspr., anknüpfend an das RG).\n- Maßgeblich ist der Wille, dass die Geschäfte „**miteinander stehen und fallen sollen**“ (BGH LM Nr. 34 zu § 139 = MDR 1966, 749; vielfach wiederholt, Literatur folgt überwiegend).\n- Es genügt, dass **einer** der Partner den Einheitlichkeitswillen hat und der andere ihn **erkennt und billigt oder zumindest hinnimmt** (zuletzt BGHZ 112, 376, 378).\n- **Verschiedene Beteiligte:** Ob dies der Einheit entgegensteht, wird von einem Teil der Literatur (Flume) verneint, in der Kommentarliteratur inzwischen überwiegend bejaht. Der BGH betont stets, es sei **nicht hinderlich**, „wenn an den Rechtsgeschäften nicht durchweg dieselben Personen teilgenommen haben“; entscheidend sei der Verbindungswille der Beteiligten.\n\n## Anhaltspunkte für einen Einheitlichkeitswillen (S. 40)\n\n- die gesamten, durch die Verträge deutlich gewordenen **Interessen** der Parteien;\n- einem Vertrag kommt **zentrale Bedeutung** zu, die anderen nehmen auf ihn Bezug;\n- **Verknüpfungen** der Verträge durch rechtsgeschäftliche **Bedingungen** und andere Bezugnahmen.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Verpflichtungs- und Verfügungsgeschäft: Einheit kraft Parteiwillens und Fehleridentität",
+      "short": "Ob Grund- und Erfüllungsgeschäft trotz Abstraktionsprinzip über § 139 zu einer Einheit verbunden werden können, ist in der Literatur umstritten; der BGH bejaht es (nicht aber für die Auflassung). Wegen hoher Anforderungen hat dies wenig praktische Relevanz. Davon zu unterscheiden ist die Fehleridentität: Derselbe Unwirksamkeitsgrund betrifft beide Geschäfte – typisch bei fehlender Geschäftsfähigkeit, oft bei § 123, selten bei §§ 134, 138 und bei Erklärungs-/Inhaltsirrtum.",
+      "long": "## Einheit kraft Parteiwillens? (S. 40–41)\n\n- **Gegenansicht** (u.a. Flume, Wolf/Neuner): Der Gesetzgeber habe sich für die Trennung und den abstrakten Charakter des dinglichen Geschäfts entschieden; § 139 dürfe diese Entscheidung nicht „aus den Angeln heben“.\n- **BGH** (z.B. BGH NJW 1979, 1495; NJW 1985, 3006): kein Vorrang des Abstraktionsprinzips vor der Privatautonomie; Grund- und Erfüllungsgeschäft **können** durch Parteiwillen zur Einheit verbunden werden – **nicht** jedoch Grundgeschäft und **Auflassung** bei Grundstücken.\n- **Skript:** Dem Gesetz ist kein Vorrang des Abstraktionsprinzips zu entnehmen; unumstritten ist die Verknüpfung durch eine **Bedingung**. Bei der Feststellung des Willens ist aber **Zurückhaltung** geboten; die Parteien müssen ihn sehr klar zum Ausdruck bringen. Deshalb geringe praktische Relevanz.\n\n## Fehleridentität (S. 41–45)\n\nDas Verfügungsgeschäft ist nicht schon deshalb nichtig, weil das Verpflichtungsgeschäft nichtig ist. Betrifft aber **derselbe Anfechtungs- oder Nichtigkeitsgrund** beide Geschäfte, ist auch die Verfügung anfechtbar bzw. nichtig – **ohne** dass das Abstraktionsprinzip durchbrochen wird.\n\n- **Fehlende Geschäftsfähigkeit:** wirkt grundsätzlich auf beide Geschäfte (zeitlichen Abstand beachten). Die Übereignung **an** einen Minderjährigen ist nach § 107 aber in der Regel wirksam.\n- **§ 134:** in der Regel nur das Verpflichtungsgeschäft nichtig, außer das Verbot will gerade den dinglichen Rechtsübergang verhindern (z.B. Drogenhandel, § 29 Abs. 1 BtMG).\n- **§ 138 Abs. 1:** Verfügungen sind meist „**sittlich neutral**“ und bleiben wirksam; anders, wenn mit dem dinglichen Vorgang sittenwidrige Zwecke verfolgt werden oder in ihm die Sittenwidrigkeit liegt (RGZ 145, 152; BGH NJW 1985, 3006).\n- **Erklärungs- und Inhaltsirrtum:** regelmäßig auf das Verpflichtungsgeschäft beschränkt.\n- **Eigenschaftsirrtum (Maler-Beispiel, S. 42–43):** Der Verkäufer irrt über den Maler eines Bildes (§ 119 Abs. 2). Steht und fällt die Übereignung mit der Eigenschaft (z.B. Sammler dieses Malers), liegt Fehleridentität vor; hätte er nur zu höherem Preis verkauft, verneint eine verbreitete Ansicht sie (nur mittelbare Kausalität), andere bejahen sie; eine weitere Ansicht stellt auf den zeitlichen Abstand ab. Die Anfechtungserklärung ist nach §§ 133, 157 auszulegen; die Anfechtung der Übereignung ist meist miterklärt.\n- **Folgen (S. 44–45):** Ohne Fehleridentität wird der Käufer Eigentümer → nur § 812 Abs. 1 S. 1 Var. 1 (Rückübereignung); mit Fehleridentität bleibt der Verkäufer Eigentümer → § 985 (kein Besitzrecht nach § 986) und § 812 (Besitz). Bedeutsam bei Insolvenz des Käufers (Aussonderung, § 47 InsO) und Weiterveräußerung (§ 818 Abs. 3 bzw. § 932). In der Klausur ist beides vertretbar; zur Vermeidung eines Hilfsgutachtens kann die Verneinung vorzugswürdig sein.\n- **§ 123:** häufig, nicht notwendig Fehleridentität – jedenfalls, wenn Irrtum oder Zwangslage bei der Verfügung noch andauern.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 40
+        },
+        {
+          "doc": "BGB_6",
+          "page": 41
+        },
+        {
+          "doc": "BGB_6",
+          "page": 42
+        },
+        {
+          "doc": "BGB_6",
+          "page": 43
+        },
+        {
+          "doc": "BGB_6",
+          "page": 44
+        },
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Sonderregel des § 306 für AGB, blue-pencil-test und Verbot der geltungserhaltenden Reduktion",
+      "short": "Abweichend von § 139 bleibt der Vertrag bei Nichteinbeziehung oder Unwirksamkeit von AGB grundsätzlich wirksam (§ 306 Abs. 1); Lücken füllt das Gesetz (§ 306 Abs. 2), Gesamtnichtigkeit nur bei unzumutbarer Härte (§ 306 Abs. 3). Sprachlich trennbare Klauseln können nach dem blue-pencil-test teilweise aufrechterhalten werden; eine richterliche Reduktion auf das gerade noch Zulässige ist dagegen verboten. Der BGH zählt §§ 133, 157 zu den gesetzlichen Vorschriften des § 306 Abs. 2.",
+      "long": "## § 306 statt § 139 (S. 45)\n\n- **§ 306 Abs. 1:** Die übrigen Vertragsbestandteile bleiben **grundsätzlich wirksam**.\n- **§ 306 Abs. 2:** Lücken werden durch die **gesetzlichen Vorschriften** gefüllt.\n- **§ 306 Abs. 3:** ausnahmsweise **Gesamtnichtigkeit**, wenn das Festhalten für eine Partei eine **unzumutbare Härte** wäre.\n- Wesentlicher Unterschied: Der Vertrag besteht im Zweifel **unabhängig vom Parteiwillen** fort.\n\n**Beispiel Neuwagen (S. 45):** AGB-Klausel: Erhöhen sich die Stahlpreise bis zur Lieferung in drei Monaten um mehr als 2 %, erhöht sich der Preis entsprechend. Die Klausel ist nach **§ 309 Nr. 1** unwirksam. Der Verkäufer kann nicht einwenden, ohne sie hätte er nicht abgeschlossen (§ 139), denn § 139 ist durch § 306 ausgeschlossen – er muss zum vereinbarten Preis liefern.\n\n## Teilbare Klauseln: blue-pencil-test (S. 46)\n\nIst eine Klausel aus sich heraus verständlich und **sinnvoll trennbar** in einen zulässigen und einen unzulässigen Teil, kann der zulässige Teil aufrechterhalten werden (BGH NJW 2021, 2193). **Beispiel:** zweistufige Ausschlussfrist im Arbeitsvertrag („binnen zwei Monaten schriftlich geltend zu machen und … binnen einem Monat einzuklagen“). Ist nur die Klagefrist zu kurz und nach § 307 Abs. 1 S. 1 unwirksam, bleibt die Geltendmachungsfrist wirksam (BAG ZIP 2008, 1651).\n\n## Verbot der geltungserhaltenden Reduktion (S. 46)\n\nEine unwirksame Klausel darf **nicht** durch richterliche Umgestaltung auf einen noch zulässigen Inhalt zurückgeführt werden; sonst könnte der Verwender risikolos über das Zulässige hinausgehen (BGHZ 115, 324, 326). **Beispiel:** „Der Mieter hat die Wohnung alle 5 Jahre zu renovieren“ – die Klausel entfällt insgesamt.\n\n## Ergänzende Vertragsauslegung (S. 46–47)\n\nUmstritten ist, ob §§ 133, 157 „gesetzliche Vorschriften“ i.S.d. § 306 Abs. 2 sind. Der BGH (BGHZ 90, 69; 117, 92) **bejaht** dies: Der Wortlaut biete keinen Anhalt, methodische Vorschriften auszugrenzen. Das Skript merkt an, die Grenze zur unzulässigen geltungserhaltenden Reduktion sei damit kaum noch zu ziehen.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        },
+        {
+          "doc": "BGB_6",
+          "page": 46
+        },
+        {
+          "doc": "BGB_6",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Die Umdeutung (§ 140)",
+      "short": "§ 140 lässt den angestrebten wirtschaftlichen Erfolg eintreten, wenn das gewählte Geschäft nichtig ist, aber den Erfordernissen eines anderen Geschäfts entspricht und dessen Geltung bei Kenntnis der Nichtigkeit gewollt wäre. Auslegung geht der Umdeutung stets vor. Das Ersatzgeschäft muss im nichtigen Geschäft enthalten sein und darf in seinen Wirkungen nicht darüber hinausgehen. Sittenwidrige Geschäfte sind nicht umdeutbar, solange ihr wirtschaftliches Ziel unverändert bleibt.",
+      "long": "## Überblick (S. 47)\n\nNeben § 139 bietet die **Umdeutung (Konversion)** eine weitere Möglichkeit, ein nichtiges Geschäft aufrechtzuerhalten. **Auslegung (§§ 133, 157) geht stets vor**; erst wenn sie nicht zum Erfolg führt und Nichtigkeit vorliegt, ist eine Umdeutung zu versuchen.\n\n## Voraussetzungen\n\n1. **Nichtiges Rechtsgeschäft (S. 47):** von vornherein nichtig oder später nichtig geworden, z.B. durch Anfechtung (§ 142). Ein schwebend unwirksames Geschäft ist jedenfalls umdeutungsfähig, wenn es durch **Verweigerung der Genehmigung** endgültig unwirksam geworden ist (BGHZ 40, 218, 222).\n2. **Ersatzgeschäft (S. 48):** Das nichtige Geschäft muss alle Bestandteile des anderen Geschäfts **„in sich schließen“**; die Umdeutung darf nicht zu einem Geschäft führen, das **über den Erfolg des ursprünglich gewollten hinausgeht**.\n3. **Mutmaßlicher Parteiwille (S. 48):** Was hätten die Parteien im **Zeitpunkt des Vertragsschlusses** bei **Kenntnis der Nichtigkeit** vereinbart? Abzustellen ist auf die verfolgten Zwecke und die beiderseitige Interessenlage. In der Regel zu bejahen, wenn das andere Geschäft **denselben wirtschaftlichen Erfolg** erreicht (BGHZ 19, 269, 273).\n\n## Grenze: sittenwidrige Geschäfte (S. 48)\n\nDer Vorwurf des § 138 richtet sich gegen den **Gesamtinhalt**, nicht nur gegen die Rechtsform (BGHZ 68, 204, 206). Soll das sittlich zu missbilligende wirtschaftliche Ziel ohne Inhaltsänderung nur auf anderem rechtlichen Weg erreicht werden, widerspräche das dem Zweck des § 138. Solange die verwerfliche Zielsetzung unverändert bleibt, ist **keine Umdeutung** möglich (für Umdeutungsfähigkeit u.a. MünchKomm/Busche).\n\n**Beispiel Kündigung (S. 48):** Wohnraummiete ist grundsätzlich nur unter Einhaltung der Fristen (vgl. § 573c) kündbar, fristlos nur in den gesetzlichen Ausnahmefällen (§§ 543, 569). Kündigt der Vermieter fristlos ohne einen solchen Grund, ist die Kündigung (nach dem Skript wegen Verstoßes gegen § 573c) nichtig. Sie ist aber nach § 140 in eine **fristgemäße Kündigung** umzudeuten, wenn feststeht, dass der Vermieter das Mietverhältnis auf jeden Fall beenden will, etwa weil er selbst einziehen möchte.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 47
+        },
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Die Bestätigung (§ 141)",
+      "short": "Die Bestätigung eines nichtigen Rechtsgeschäfts gilt als dessen Neuvornahme (§ 141 Abs. 1). Sie setzt ein nichtiges Geschäft, einen Bestätigungswillen und dessen ausdrückliche oder konkludente Äußerung voraus; als Neuvornahme muss sie alle Wirksamkeitsvoraussetzungen im Zeitpunkt der Bestätigung erfüllen. Sie wirkt nicht zurück; § 141 Abs. 2 schafft nur eine schuldrechtliche Rückbeziehung. Abzugrenzen sind § 144, die Heilung durch Erfüllung und die Genehmigung (z.B. § 108).",
+      "long": "## Begriff und Abgrenzung (S. 49)\n\n§ 141 Abs. 1 **fingiert** die Bestätigung eines nichtigen Rechtsgeschäfts als dessen **Neuvornahme**.\n\n- **Anfechtbares** Geschäft: Vorrang hat die Bestätigung nach **§ 144** – der Berechtigte verzichtet nur auf sein Anfechtungsrecht.\n- **Heilung durch Erfüllung** ist streng von § 141 zu trennen.\n- **Genehmigung** eines schwebend unwirksamen Vertrags (z.B. § 108) ist ebenfalls etwas anderes.\n\n## Voraussetzungen (S. 49)\n\n1. **Nichtiges** Rechtsgeschäft;\n2. **Bestätigungswille** und dessen **Äußerung** – ausdrücklich oder **konkludent** (BGHZ 11, 59, 60). Erfüllen die Parteien in **Kenntnis der Nichtigkeit** gleichwohl ihre Pflichten, liegt darin im Zweifel eine konkludente Bestätigung.\n3. Da die Bestätigung als Neuvornahme gilt, müssen im **Zeitpunkt der Bestätigung** die Wirksamkeitsvoraussetzungen vorliegen (im Beispiel: Formfreiheit).\n\n**Beispiel (S. 49):** BWL-Student S verbürgt sich gegenüber G **mündlich** für die Schulden seines Freundes B – nichtig nach §§ 766 S. 1, 125. Später gründet S einen Verlag und bejaht auf Nachfrage des G, weiter zu seinem Bürgschaftsversprechen zu stehen. Als Verleger ist S nach dem Skript Kaufmann (§ 1 Abs. 2 HGB) und durfte sich nach § 350 HGB mündlich verbürgen; durch die Bestätigung ist die Bürgschaft nach § 141 wirksam geworden.\n\n## Rechtsfolge (S. 49)\n\n**Keine Rückwirkung:** Das Geschäft ist erst **ab der Bestätigung** voll wirksam. § 141 Abs. 2 schafft im Zweifel eine **beschränkte schuldrechtliche Rückbeziehung**: Die Parteien müssen einander gewähren, was sie hätten, wenn der Vertrag von Anfang an gültig gewesen wäre.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Teilnichtigkeit",
+      "text": "Ein Nichtigkeitsgrund erfasst nur einen Teil eines einheitlichen Rechtsgeschäfts. Nach § 139 ist im Zweifel das ganze Geschäft nichtig, wenn nicht anzunehmen ist, dass es auch ohne den nichtigen Teil vorgenommen worden wäre.",
+      "norm": "§ 139 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "term": "Objektive Teilbarkeit",
+      "text": "Das Geschäft sieht mehrere Hauptleistungsgegenstände einer Partei vor, und die Gegenleistung ist dieser Mehrheit entsprechend aufteilbar.",
+      "norm": "§ 139 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "term": "Quantitative Teilbarkeit",
+      "text": "Vor allem bei Dauerschuldverhältnissen: Der Leistungsgegenstand ist zeitlich bemessen und nach Zeitabschnitten teilbar (z.B. Gaststättenpacht mit Bierlieferungsvertrag).",
+      "norm": "§ 139 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "term": "Subjektive Teilbarkeit",
+      "text": "Auf einer Seite sind mehrere Personen beteiligt, sodass das Geschäft nur gegenüber einem Beteiligten nichtig ist und gegenüber den anderen wirksam bleibt.",
+      "norm": "§ 139 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "term": "Einheitlichkeitswille",
+      "text": "Der Wille der Parteien, dass äußerlich getrennte Rechtsgeschäfte „miteinander stehen und fallen sollen“; es genügt, dass eine Partei ihn hat und die andere ihn erkennt und billigt oder hinnimmt.",
+      "norm": "§ 139 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "term": "Fehleridentität",
+      "text": "Derselbe Anfechtungs- oder Nichtigkeitsgrund, der das Verpflichtungsgeschäft anfechtbar oder unwirksam macht, haftet auch dem Verfügungsgeschäft an; deshalb – nicht wegen einer Durchbrechung des Abstraktionsprinzips – ist auch die Verfügung anfechtbar oder nichtig.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "term": "Verbot der geltungserhaltenden Reduktion",
+      "text": "Eine nach §§ 307 ff. unwirksame AGB-Klausel darf nicht durch richterliche Umgestaltung auf einen gerade noch zulässigen Inhalt zurückgeführt werden; sie entfällt insgesamt.",
+      "norm": "§ 306 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "term": "Umdeutung (Konversion)",
+      "text": "Ein nichtiges Rechtsgeschäft gilt als ein anderes, dessen Erfordernissen es entspricht, wenn anzunehmen ist, dass dessen Geltung bei Kenntnis der Nichtigkeit gewollt sein würde; das Ersatzgeschäft muss im nichtigen Geschäft enthalten sein und darf nicht über dessen Erfolg hinausgehen.",
+      "norm": "§ 140 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 47
+        },
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "term": "Mutmaßlicher Parteiwille (§ 140)",
+      "text": "Das, was die Parteien im Zeitpunkt des Vertragsschlusses vereinbart hätten, wenn sie die Nichtigkeit gekannt hätten; in der Regel zu bejahen, wenn das andere Geschäft denselben wirtschaftlichen Erfolg erreicht.",
+      "norm": "§ 140 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "term": "Bestätigung",
+      "text": "Die Bestätigung eines nichtigen Rechtsgeschäfts durch den, der es vorgenommen hat, ist als erneute Vornahme zu beurteilen (§ 141 Abs. 1); sie setzt Bestätigungswillen und dessen ausdrückliche oder konkludente Äußerung voraus und wirkt nicht zurück.",
+      "norm": "§ 141 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Prüfung der Teilnichtigkeit (§ 139 BGB)",
+      "steps": [
+        "1. Vorrang von Sonderregeln: bei AGB § 306 statt § 139.",
+        "2. Einheitliches Rechtsgeschäft (ggf. mehrere äußerlich getrennte Geschäfte mit Einheitlichkeitswillen: „stehen und fallen“; Verbindung von Verpflichtung und Verfügung nur bei sehr klarem Willen).",
+        "3. Nichtigkeit eines Teils (z.B. §§ 134, 138, Anfechtung).",
+        "4. Teilbarkeit: Bleibt ein Rest, der als selbständiges Geschäft bestehen kann? (objektiv, quantitativ, subjektiv; nicht bei wesentlichen Bestandteilen wie dem Pachtzins).",
+        "5. Hypothetischer Parteiwille im Zeitpunkt des Vertragsschlusses (ergänzende Auslegung; Indiz: nur geringfügiger Teil betroffen).",
+        "6. Ergebnis: Restgültigkeit oder – im Zweifel – Gesamtnichtigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 38
+        },
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        },
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "title": "Prüfung der Umdeutung (§ 140 BGB)",
+      "steps": [
+        "1. Vorrang der Auslegung (§§ 133, 157).",
+        "2. Nichtiges Rechtsgeschäft (auch nach Anfechtung, § 142, oder nach verweigerter Genehmigung).",
+        "3. Ersatzgeschäft, dessen Erfordernissen das nichtige Geschäft entspricht („in sich schließt“) und das nicht über dessen Erfolg hinausgeht.",
+        "4. Mutmaßlicher Parteiwille bei Kenntnis der Nichtigkeit (Zeitpunkt des Vertragsschlusses; gleicher wirtschaftlicher Erfolg als Indiz).",
+        "5. Kein Ausschluss: Bei § 138 keine Umdeutung, solange das sittenwidrige wirtschaftliche Ziel unverändert bleibt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 47
+        },
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wovon geht § 139 aus, wenn ein Teil eines Rechtsgeschäfts nichtig ist?",
+      "options": [
+        "Im Zweifel ist das ganze Rechtsgeschäft nichtig.",
+        "Im Zweifel bleibt der Rest wirksam.",
+        "Der nichtige Teil wird durch die gesetzliche Regelung ersetzt.",
+        "Das Geschäft ist schwebend unwirksam, bis die Parteien sich erklären."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 139 begründet eine Vermutung für die Gesamtnichtigkeit, „wenn nicht anzunehmen ist, dass es auch ohne den nichtigen Teil vorgenommen sein würde“ (S. 37). Die Ersetzung durch das Gesetz ist die Regel des § 306 Abs. 2 für AGB.",
+      "hints": [
+        "Lesen Sie den Wortlaut des § 139."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Art der Teilbarkeit ihrer Beschreibung zu.",
+      "pairs": [
+        [
+          "Objektive Teilbarkeit",
+          "mehrere Hauptleistungsgegenstände mit entsprechend aufteilbarer Gegenleistung"
+        ],
+        [
+          "Quantitative Teilbarkeit",
+          "Dauerschuldverhältnis, nach Zeitabschnitten teilbar"
+        ],
+        [
+          "Subjektive Teilbarkeit",
+          "mehrere Personen auf einer Seite"
+        ]
+      ],
+      "explanation": "Vgl. S. 38.",
+      "hints": [
+        "Gegenstand – Zeit – Person."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ist in einem umfangreichen Pachtvertrag nur die Pachtzinsvereinbarung sittenwidrig, bleibt der Vertrag im Übrigen nach § 139 wirksam, wenn die Parteien ihn auch ohne diese Vereinbarung geschlossen hätten.",
+      "answer": false,
+      "explanation": "Der Pachtzins ist wesentlicher Bestandteil; ohne ihn ist ein Pachtvertrag rechtlich nicht möglich (§ 581). Es fehlt schon an der Teilbarkeit, sodass der ganze Vertrag nichtig ist – auf den Parteiwillen kommt es nicht an (S. 39).",
+      "hints": [
+        "Welche Voraussetzung des § 139 prüft man vor dem Parteiwillen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 139 stellt auf den {{1}} Parteiwillen ab, bezogen auf den Zeitpunkt des {{2}}. Fehlt eine vertragliche Regelung, ist die Lücke im Wege der {{3}} Vertragsauslegung zu schließen.",
+      "blanks": [
+        [
+          "hypothetischen",
+          "mutmaßlichen"
+        ],
+        [
+          "Geschäftsabschlusses",
+          "Vertragsschlusses",
+          "Vertragsabschlusses"
+        ],
+        [
+          "ergänzenden"
+        ]
+      ],
+      "explanation": "Vgl. S. 38.",
+      "hints": [
+        "Es geht um den Willen, den die Parteien gehabt hätten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Unter welcher Voraussetzung bilden äußerlich getrennte, in verschiedenen Urkunden niedergelegte Verträge nach dem BGH ein einheitliches Rechtsgeschäft i.S.d. § 139?",
+      "options": [
+        "Wenn sie nach dem Willen der Parteien „miteinander stehen und fallen sollen“, wobei es genügt, dass der Einheitlichkeitswille einer Partei für die andere erkennbar war und von ihr gebilligt oder hingenommen wurde.",
+        "Nur wenn sie in derselben Urkunde zusammengefasst sind.",
+        "Nur wenn sie demselben Vertragstyp angehören und dieselben Personen beteiligt sind.",
+        "Stets, wenn sie am selben Tag geschlossen wurden."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Getrennte Urkunden und unterschiedliche Geschäftstypen schaden nicht (S. 39); entscheidend ist der Einheitlichkeitswille (S. 39–40). Auch die Beteiligung verschiedener Personen ist nach dem BGH nicht hinderlich (S. 40).",
+      "hints": [
+        "Die Formel lautet „stehen und fallen“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-multi",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Anhaltspunkte für einen Einheitlichkeitswillen nennt das Skript? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die gesamten, durch die Verträge deutlich gewordenen Interessen der Parteien",
+        "Einem Vertrag kommt zentrale Bedeutung zu, und die anderen nehmen auf ihn Bezug",
+        "Verknüpfung der Verträge durch rechtsgeschäftliche Bedingungen und andere Bezugnahmen",
+        "Die Aufnahme der Verträge in getrennte notarielle Urkunden"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die drei ersten Punkte nennt das Skript (S. 40). Getrennte Urkunden sind kein Indiz für Einheitlichkeit, stehen ihr aber auch nicht entgegen (S. 39).",
+      "hints": [
+        "Eine Option beschreibt einen neutralen, eher gegenläufigen Umstand."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach dem BGH können Grund- und Erfüllungsgeschäft durch den Parteiwillen über § 139 zu einer Einheit verbunden werden; dies gilt jedoch nicht für das Verhältnis von Grundgeschäft und Auflassung bei Grundstücksgeschäften.",
+      "answer": true,
+      "explanation": "Der BGH räumt dem Abstraktionsprinzip keinen Vorrang vor der Privatautonomie ein, nimmt aber die Auflassung aus (S. 41). Wegen hoher Anforderungen an den Willen ist die Frage praktisch wenig relevant.",
+      "hints": [
+        "Der BGH macht bei Grundstücksgeschäften eine Ausnahme."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ein Kaufvertrag ist nach § 138 Abs. 1 nichtig. Was gilt nach dem Skript in der Regel für die zur Erfüllung vorgenommene Übereignung?",
+      "options": [
+        "Sie ist als „sittlich neutrales“ Geschäft in der Regel wirksam, außer mit dem dinglichen Vorgang selbst werden sittenwidrige Zwecke verfolgt oder in ihm liegt die Sittenwidrigkeit.",
+        "Sie ist stets nichtig, weil die Nichtigkeit des Verpflichtungsgeschäfts auf die Verfügung durchschlägt.",
+        "Sie ist nach § 139 nichtig, weil Kaufvertrag und Übereignung stets ein einheitliches Geschäft bilden.",
+        "Sie ist schwebend unwirksam, bis der Käufer sie genehmigt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Dass allein die Nichtigkeit des Verpflichtungsgeschäfts die Verfügung erfasst, wird einhellig verneint; Verfügungen sind meist sittlich neutral (S. 42; RGZ 145, 152; BGH NJW 1985, 3006).",
+      "hints": [
+        "Abstraktionsprinzip und Fehleridentität."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "In welchen Konstellationen liegt nach dem Skript (regelmäßig) Fehleridentität vor? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Der Verkäufer ist bei Abschluss des Kaufvertrags und bei der Übereignung geschäftsunfähig.",
+        "Ein Drogenverkauf verstößt gegen § 29 Abs. 1 BtMG, dessen Zweck gerade die Verhinderung des dinglichen Rechtsübergangs ist.",
+        "Der Verkäufer hat sich beim Kaufvertrag verschrieben (Erklärungsirrtum).",
+        "Ein 16-Jähriger erhält von seinem Onkel ohne Zustimmung der Eltern einen Ring übereignet."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Fehlende Geschäftsfähigkeit wirkt auf beide Geschäfte; beim BtMG zielt das Verbot gerade auf den dinglichen Vorgang (S. 42). Erklärungs- und Inhaltsirrtum bleiben regelmäßig auf das Verpflichtungsgeschäft beschränkt. Die Übereignung an einen Minderjährigen ist nach § 107 in der Regel wirksam (S. 42).",
+      "hints": [
+        "Prüfen Sie für jede Option, ob der Mangel gerade die Verfügung betrifft."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte des § 139 in die richtige Reihenfolge.",
+      "items": [
+        "Ausschluss durch Sonderregel (z.B. § 306 bei AGB)?",
+        "Einheitliches Rechtsgeschäft",
+        "Nichtigkeit eines Teils",
+        "Teilbarkeit (selbständig bestehensfähiger Rest)",
+        "Hypothetischer Parteiwille",
+        "Ergebnis: Rest wirksam oder im Zweifel Gesamtnichtigkeit"
+      ],
+      "explanation": "Vgl. S. 37–40, 45: Vor § 139 ist zu fragen, ob § 306 eingreift; dann Einheit, Teilnichtigkeit, Teilbarkeit und Wille.",
+      "hints": [
+        "Teilbarkeit vor Parteiwille (Pachtzins-Beispiel)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 38
+        },
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Die AGB eines Neuwagenhändlers sehen vor, dass sich der Preis bei einer Stahlpreiserhöhung von mehr als 2 % bis zur Lieferung in drei Monaten entsprechend erhöht. Der Händler meint, ohne diese Klausel hätte er nie abgeschlossen; der Vertrag sei daher insgesamt nichtig. Zu Recht?",
+      "options": [
+        "Nein. Die Klausel ist nach § 309 Nr. 1 unwirksam, § 139 ist aber durch § 306 ausgeschlossen; der Händler muss zum vereinbarten Preis liefern.",
+        "Ja, denn nach § 139 kommt es auf den hypothetischen Willen des Händlers an.",
+        "Nein, die Klausel ist wirksam, weil sie eine sachliche Grenze von 2 % enthält.",
+        "Ja, nach § 306 Abs. 3 ist der Vertrag stets nichtig, wenn der Verwender ihn ohne die Klausel nicht geschlossen hätte."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Skript-Beispiel S. 45. § 306 Abs. 3 greift nur bei unzumutbarer Härte; das bloße Interesse des Verwenders an der Klausel genügt nicht, der Vertrag besteht im Zweifel unabhängig vom Parteiwillen fort.",
+      "hints": [
+        "Worin unterscheiden sich § 139 und § 306?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ist in einer zweistufigen arbeitsvertraglichen Ausschlussfrist nur die Klagefrist unangemessen kurz, entfällt die gesamte Klausel, weil sonst eine unzulässige geltungserhaltende Reduktion vorläge.",
+      "answer": false,
+      "explanation": "Ist die Klausel sprachlich und inhaltlich sinnvoll trennbar (blue-pencil-test), bleibt der zulässige Teil – hier die Geltendmachungsfrist – wirksam (BGH NJW 2021, 2193; BAG ZIP 2008, 1651). Das hat mit dem Verbot der geltungserhaltenden Reduktion nichts zu tun (S. 46).",
+      "hints": [
+        "Kann man den unwirksamen Teil einfach „streichen“?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein Formularmietvertrag bestimmt: „Der Mieter hat die Wohnung alle 5 Jahre zu renovieren.“ Die Klausel ist unangemessen. Was folgt daraus?",
+      "options": [
+        "Die Klausel entfällt insgesamt; das Gericht darf sie nicht auf einen gerade noch zulässigen Inhalt zurückführen.",
+        "Das Gericht reduziert die Pflicht auf eine angemessene Renovierungsfrist.",
+        "Der gesamte Mietvertrag ist nach § 139 nichtig.",
+        "Die Klausel bleibt wirksam, weil Schönheitsreparaturen stets übertragbar sind."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Verbot der geltungserhaltenden Reduktion (BGHZ 115, 324, 326; S. 46): Sonst könnte der Verwender risikolos überzogene Klauseln stellen. Der Vertrag bleibt nach § 306 Abs. 1 im Übrigen wirksam.",
+      "hints": [
+        "Welches Risiko trüge der Verwender sonst?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie den Streit, ob die ergänzende Vertragsauslegung (§§ 133, 157) zu den „gesetzlichen Vorschriften“ i.S.d. § 306 Abs. 2 gehört, und die Bedenken des Skripts.",
+      "modelAnswer": "Nach § 306 Abs. 2 richtet sich der Vertragsinhalt bei Unwirksamkeit einer AGB-Klausel nach den gesetzlichen Vorschriften. Umstritten ist, ob dazu auch die Normen der ergänzenden Vertragsauslegung (§§ 133, 157) gehören oder nur Vorschriften mit sachlichem Regelungsgehalt. Der BGH (BGHZ 90, 69; 117, 92) bejaht die ergänzende Vertragsauslegung: Bei §§ 157, 133 handele es sich um gesetzliche Vorschriften i.S.d. § 306 Abs. 2; der Wortlaut biete keinen Anhaltspunkt, methodische Vorschriften auszugrenzen. Das Skript gibt zu bedenken, dass damit die Grenze zur unzulässigen geltungserhaltenden Reduktion kaum noch zu ziehen sei: Wird die Lücke durch das ersetzt, was die Parteien redlicherweise vereinbart hätten, kann das im Ergebnis einer Rückführung der Klausel auf das gerade noch Zulässige nahekommen – obwohl der Verwender gerade nicht risikolos überzogene Klauseln stellen können soll.",
+      "rubric": [
+        "§ 306 Abs. 2: Lückenfüllung durch gesetzliche Vorschriften",
+        "Streitfrage: methodische vs. sachliche Vorschriften",
+        "BGH bejaht ergänzende Vertragsauslegung (Wortlautargument)",
+        "Bedenken: Abgrenzung zur geltungserhaltenden Reduktion kaum möglich"
+      ],
+      "hints": [
+        "Was ist der Zweck des Verbots der geltungserhaltenden Reduktion?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 46
+        },
+        {
+          "doc": "BGB_6",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Stets geht die {{1}} der Umdeutung i.S.d. § 140 vor. Die Umdeutung setzt voraus, dass das Rechtsgeschäft {{2}} ist; ein schwebend unwirksames Geschäft ist jedenfalls umdeutbar, wenn die {{3}} verweigert wurde.",
+      "blanks": [
+        [
+          "Auslegung"
+        ],
+        [
+          "nichtig"
+        ],
+        [
+          "Genehmigung"
+        ]
+      ],
+      "explanation": "Vgl. S. 47 (BGHZ 40, 218, 222).",
+      "hints": [
+        "§§ 133, 157 kommen zuerst."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Anforderung stellt das Skript an das Ersatzgeschäft bei der Umdeutung?",
+      "options": [
+        "Das nichtige Geschäft muss alle Bestandteile des Ersatzgeschäfts in sich schließen; das Ersatzgeschäft darf nicht über den Erfolg des ursprünglich gewollten hinausgehen.",
+        "Das Ersatzgeschäft muss denselben Geschäftstyp haben wie das nichtige Geschäft.",
+        "Das Ersatzgeschäft darf weitergehende Wirkungen haben, wenn beide Parteien davon profitieren.",
+        "Das Ersatzgeschäft muss von den Parteien ausdrücklich hilfsweise vereinbart worden sein."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 48 (Brox/Walker). Eine ausdrückliche Hilfsvereinbarung ist gerade nicht nötig; maßgeblich ist der mutmaßliche Wille.",
+      "hints": [
+        "Die Umdeutung ist ein „Weniger“, kein „Mehr“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ein nach § 138 nichtiges Geschäft kann nach § 140 in ein anderes Geschäft umgedeutet werden, wenn das sittlich zu missbilligende wirtschaftliche Ziel nur auf einem anderen rechtlichen Weg erreicht wird.",
+      "answer": false,
+      "explanation": "Der Vorwurf des § 138 richtet sich gegen den Gesamtinhalt, nicht nur gegen die Rechtsform. Solange die sittenwidrige Zielsetzung unverändert bleibt, ist eine Umdeutung ausgeschlossen (BGHZ 68, 204, 206 f.; S. 48).",
+      "hints": [
+        "Wogegen richtet sich der Sittenwidrigkeitsvorwurf?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Was ordnet § 141 Abs. 1 für die Bestätigung eines nichtigen Rechtsgeschäfts an?",
+      "options": [
+        "Sie ist als erneute Vornahme (Neuvornahme) zu beurteilen.",
+        "Sie heilt das Geschäft rückwirkend von Anfang an.",
+        "Sie ist ein Verzicht auf das Anfechtungsrecht.",
+        "Sie ist die Genehmigung eines schwebend unwirksamen Geschäfts."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 141 Abs. 1 fingiert die Neuvornahme; keine Rückwirkung. Der Verzicht auf die Anfechtung ist die Bestätigung nach § 144, die Genehmigung z.B. § 108 (S. 49).",
+      "hints": [
+        "Abgrenzung zu § 144 und § 108."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "BWL-Student S verbürgt sich gegenüber G mündlich für die Schulden seines Freundes B. Kurz darauf schließt S sein Studium ab und gründet einen Verlag. Auf Nachfrage des G erklärt S, er stehe weiterhin zu seinem Bürgschaftsversprechen. Prüfen Sie nach der Lösung des Skripts, ob S dem G aus Bürgschaft haftet.",
+      "modelAnswer": "G könnte gegen S einen Anspruch aus einem Bürgschaftsvertrag (§ 765 BGB) haben. Das mündliche Bürgschaftsversprechen des Studenten S war mangels Schriftform nach §§ 766 S. 1, 125 BGB nichtig. Die Bürgschaft könnte aber durch Bestätigung nach § 141 Abs. 1 BGB wirksam geworden sein. Die Bestätigung setzt ein nichtiges Rechtsgeschäft, einen Bestätigungswillen und dessen Äußerung voraus; sie gilt als Neuvornahme, sodass die Wirksamkeitsvoraussetzungen im Zeitpunkt der Bestätigung vorliegen müssen. Ein nichtiges Geschäft liegt vor. Mit der Erklärung, er stehe weiter zu seinem Versprechen, hat S seinen Bestätigungswillen ausdrücklich geäußert. Zum Zeitpunkt der Bestätigung betrieb S einen Verlag und war nach dem Skript gemäß § 1 Abs. 2 HGB Kaufmann; nach § 350 HGB konnte er sich daher formfrei, also auch mündlich, verbürgen. Die als Neuvornahme zu beurteilende Bestätigung ist damit formwirksam. Die Bürgschaft ist nach § 141 BGB wirksam geworden, allerdings ohne Rückwirkung erst ab der Bestätigung. S haftet dem G.",
+      "rubric": [
+        "Anfängliche Nichtigkeit nach §§ 766 S. 1, 125",
+        "Voraussetzungen des § 141: nichtiges Geschäft, Bestätigungswille, Äußerung",
+        "Bestätigung als Neuvornahme – Formerfordernis im Zeitpunkt der Bestätigung",
+        "Kaufmannseigenschaft und § 350 HGB (nach Skript)",
+        "Keine Rückwirkung; Ergebnis: Haftung"
+      ],
+      "hints": [
+        "Auf welchen Zeitpunkt kommt es für die Form an, wenn die Bestätigung als Neuvornahme gilt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Grenzen Sie die Bestätigung nach § 141 von der Bestätigung nach § 144, der Heilung durch Erfüllung und der Genehmigung ab und erläutern Sie die Wirkung des § 141 Abs. 2.",
+      "modelAnswer": "§ 141 betrifft nur nichtige Rechtsgeschäfte; die Bestätigung gilt als Neuvornahme (Abs. 1). Ist ein Geschäft lediglich anfechtbar, hat § 144 Vorrang: Die Bestätigung bedeutet dort nur den Verzicht des Anfechtungsberechtigten auf sein Anfechtungsrecht; das Geschäft ist ja bereits wirksam. Die Heilung eines unwirksamen Geschäfts durch Erfüllung ist ein eigenständiger Mechanismus und streng von § 141 zu trennen. Die Genehmigung (z.B. § 108) betrifft schwebend unwirksame, also noch nicht endgültig nichtige Geschäfte. Die Bestätigung nach § 141 wirkt nicht zurück; das Geschäft ist erst ab der Bestätigung voll wirksam. § 141 Abs. 2 schafft für Verträge aber eine beschränkte schuldrechtliche Rückbeziehung: Die Parteien sind im Zweifel verpflichtet, einander zu gewähren, was sie hätten, wenn der Vertrag von Anfang an gültig gewesen wäre.",
+      "rubric": [
+        "§ 141: nichtiges Geschäft, Neuvornahme",
+        "§ 144: anfechtbares Geschäft, Verzicht auf Anfechtung",
+        "Heilung durch Erfüllung und Genehmigung (§ 108) abgegrenzt",
+        "Keine Rückwirkung; § 141 Abs. 2 schuldrechtliche Rückbeziehung"
+      ],
+      "hints": [
+        "Welche Art von Unwirksamkeit setzt jedes Institut voraus?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Vermieter V kündigt dem Mieter M fristlos, ohne dass ein gesetzlicher Ausnahmefall vorliegt. V will das Mietverhältnis auf jeden Fall beenden, weil er selbst einziehen möchte. Was gilt nach dem Skript?",
+      "options": [
+        "Die fristlose Kündigung ist unwirksam, aber nach § 140 in eine fristgemäße Kündigung umzudeuten.",
+        "Die Kündigung ist wirksam, weil Eigenbedarf stets zur fristlosen Kündigung berechtigt.",
+        "Die Kündigung ist unwirksam; eine Umdeutung scheidet aus, weil eine fristgemäße Kündigung ein anderes Geschäft ist.",
+        "Die Kündigung ist nach § 141 durch erneute Erklärung rückwirkend wirksam."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Skript-Beispiel S. 48: Die fristgemäße Kündigung ist als „Weniger“ in der fristlosen enthalten, und der mutmaßliche Wille des V ist auf Beendigung gerichtet.",
+      "hints": [
+        "Ist die ordentliche Kündigung in der fristlosen „enthalten“?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Bei einem Mietvertrag kann der zur Wohnung gehörende Pkw-Stellplatz in der Regel isoliert gekündigt werden.",
+      "answer": false,
+      "explanation": "Bei Dauerschuldverhältnissen ist eine „Teilkündigung“ grundsätzlich nicht möglich (S. 37).",
+      "hints": [
+        "Stichwort: Teilkündigung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Die fristlose Eigenbedarfskündigung (Umdeutung, § 140)",
+    "facts": "V hat dem M seit Jahren eine Wohnung vermietet. Weil V nach seiner Scheidung selbst in die Wohnung einziehen möchte, schreibt er dem M: „Hiermit kündige ich Ihnen fristlos. Ich brauche die Wohnung für mich selbst und will das Mietverhältnis auf jeden Fall beenden.“ M hat seine Pflichten aus dem Mietvertrag stets ordnungsgemäß erfüllt; ein gesetzlicher Grund für eine fristlose Kündigung (§§ 543, 569 BGB) liegt nicht vor.",
+    "question": "Hat die Erklärung des V das Mietverhältnis beendet?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "Das Mietverhältnis zwischen V und M könnte durch die Kündigungserklärung des V beendet worden sein. Als fristlose Kündigung wäre sie nur wirksam, wenn ein gesetzlicher Ausnahmefall der §§ 543, 569 BGB vorläge. Ist sie als solche unwirksam, könnte sie gemäß § 140 BGB in eine fristgemäße Kündigung umzudeuten sein.",
+        "rubric": [
+          "Konjunktiv",
+          "Fristlose Kündigung nur nach §§ 543, 569",
+          "Umdeutung nach § 140 als zweiter Prüfungsschritt"
+        ],
+        "hints": [
+          "Prüfen Sie zuerst das, was V tatsächlich erklärt hat."
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Nennen Sie die Voraussetzungen der Umdeutung nach § 140.",
+        "model": "Eine Umdeutung kommt erst in Betracht, wenn die Auslegung (§§ 133, 157 BGB) nicht zum Erfolg führt. Sie setzt voraus: (1) ein nichtiges Rechtsgeschäft; (2) ein anderes Rechtsgeschäft, dessen Erfordernissen das nichtige entspricht – das nichtige Geschäft muss alle Bestandteile des Ersatzgeschäfts in sich schließen, und dieses darf nicht über den Erfolg des ursprünglich gewollten hinausgehen; (3) einen mutmaßlichen Parteiwillen: Es muss anzunehmen sein, dass der Erklärende bei Kenntnis der Nichtigkeit im Zeitpunkt der Vornahme das Ersatzgeschäft gewollt hätte. Davon ist in der Regel auszugehen, wenn das andere Geschäft denselben wirtschaftlichen Erfolg herbeiführt.",
+        "rubric": [
+          "Vorrang der Auslegung",
+          "Nichtiges Rechtsgeschäft",
+          "Ersatzgeschäft im nichtigen enthalten, kein Mehr an Wirkung",
+          "Mutmaßlicher Wille bei Kenntnis der Nichtigkeit; gleicher wirtschaftlicher Erfolg als Indiz"
+        ],
+        "hints": [
+          "Das Skript nennt drei Elemente und einen Vorrang."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Die Erklärung des V ist eindeutig als fristlose Kündigung formuliert; eine Auslegung als ordentliche Kündigung scheidet daher aus. Wohnraummietverhältnisse sind grundsätzlich nur unter Einhaltung der Kündigungsfristen (vgl. § 573c BGB) kündbar; fristlos nur in den gesetzlich geregelten Ausnahmefällen der §§ 543, 569 BGB. Ein solcher liegt nicht vor, da M seine Pflichten stets erfüllt hat. Die fristlose Kündigung ist daher – nach dem Skript wegen Verstoßes gegen § 573c BGB – nichtig. Als Ersatzgeschäft kommt eine fristgemäße Kündigung in Betracht. Sie ist in der fristlosen Kündigung als Weniger enthalten: Beide zielen auf die Beendigung desselben Mietverhältnisses, die fristgemäße Kündigung beendet es lediglich später und geht in ihren Wirkungen nicht über das Gewollte hinaus. V hat erklärt, er wolle das Mietverhältnis auf jeden Fall beenden, weil er selbst einziehen möchte. Hätte er gewusst, dass die fristlose Kündigung unwirksam ist, hätte er also jedenfalls fristgemäß gekündigt; der angestrebte wirtschaftliche Erfolg – die Rückerlangung der Wohnung – wird so, wenn auch später, erreicht. Der mutmaßliche Wille ist daher zu bejahen.",
+        "rubric": [
+          "Auslegung als ordentliche Kündigung scheidet aus",
+          "Kein Grund nach §§ 543, 569 → fristlose Kündigung nichtig",
+          "Fristgemäße Kündigung als im nichtigen Geschäft enthaltenes Weniger",
+          "Mutmaßlicher Wille aus dem unbedingten Beendigungswillen (Eigennutzung)"
+        ],
+        "hints": [
+          "Was wollte V wirtschaftlich erreichen?",
+          "Geht die fristgemäße Kündigung über die fristlose hinaus?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Die fristlose Kündigung des V ist nichtig, gemäß § 140 BGB aber in eine fristgemäße Kündigung umzudeuten. Das Mietverhältnis ist nicht sofort, wohl aber mit Ablauf der Kündigungsfrist (vgl. § 573c BGB) beendet.",
+        "rubric": [
+          "Fristlose Kündigung nichtig",
+          "Umdeutung nach § 140 (+)",
+          "Beendigung erst zum Ablauf der Kündigungsfrist"
+        ],
+        "hints": [
+          "Zu welchem Zeitpunkt endet das Mietverhältnis?"
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_6",
+        "page": 47
+      },
+      {
+        "doc": "BGB_6",
+        "page": 48
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Was vermutet § 139?",
+      "back": "Gesamtnichtigkeit des Rechtsgeschäfts bei Nichtigkeit eines Teils – es sei denn, es ist anzunehmen, dass es auch ohne den nichtigen Teil vorgenommen worden wäre.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Welche zwei Fragen entscheiden über § 139?",
+      "back": "1. Ist das Rechtsgeschäft teilbar? 2. Welchen (hypothetischen) Willen hatten die Parteien im Zeitpunkt des Vertragsschlusses?",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "Drei Arten der Teilbarkeit?",
+      "back": "Objektiv (mehrere Hauptleistungsgegenstände), quantitativ (Dauerschuldverhältnis nach Zeitabschnitten), subjektiv (mehrere Personen auf einer Seite).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "Warum ist ein Pachtvertrag mit sittenwidrigem Pachtzins insgesamt nichtig?",
+      "back": "Der Pachtzins ist wesentlicher Bestandteil (§ 581); ohne ihn bleibt kein selbständig bestehensfähiger Rest – es fehlt die Teilbarkeit.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "front": "Wann bilden mehrere getrennte Verträge ein einheitliches Rechtsgeschäft?",
+      "back": "Wenn sie nach dem Parteiwillen „miteinander stehen und fallen sollen“; es genügt der erkennbare und gebilligte oder hingenommene Wille einer Partei; verschiedene Beteiligte schaden nach dem BGH nicht.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "front": "Können Verpflichtungs- und Verfügungsgeschäft über § 139 verbunden werden?",
+      "back": "Literatur teils nein (Abstraktionsprinzip); BGH ja, außer bei der Auflassung. Der Wille muss sehr klar zum Ausdruck kommen – geringe praktische Relevanz.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 40
+        },
+        {
+          "doc": "BGB_6",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "front": "Was bedeutet Fehleridentität?",
+      "back": "Derselbe Nichtigkeits- oder Anfechtungsgrund betrifft Verpflichtungs- und Verfügungsgeschäft; die Verfügung ist dann ebenfalls unwirksam – ohne Durchbrechung des Abstraktionsprinzips.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "front": "Fehleridentität bei §§ 134, 138?",
+      "back": "§ 134: in der Regel nur Verpflichtung nichtig, außer das Verbot zielt auf den dinglichen Rechtsübergang (z.B. BtMG). § 138: Verfügungen meist sittlich neutral, außer die Sittenwidrigkeit liegt gerade im dinglichen Vorgang.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "front": "Wie unterscheidet sich § 306 von § 139?",
+      "back": "Nach § 306 Abs. 1 bleibt der Vertrag bei unwirksamen AGB grundsätzlich wirksam – unabhängig vom Parteiwillen; Lückenfüllung nach § 306 Abs. 2, Gesamtnichtigkeit nur bei unzumutbarer Härte (§ 306 Abs. 3).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "front": "blue-pencil-test vs. Verbot der geltungserhaltenden Reduktion?",
+      "back": "Blue-pencil: sprachlich trennbarer zulässiger Klauselteil bleibt bestehen. Geltungserhaltende Reduktion: Richter darf eine unwirksame Klausel nicht auf das gerade noch Zulässige zurückführen – sie entfällt ganz.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen der Umdeutung (§ 140)?",
+      "back": "Vorrang der Auslegung; nichtiges Geschäft; Ersatzgeschäft im nichtigen enthalten und nicht weitergehend; mutmaßlicher Parteiwille bei Kenntnis der Nichtigkeit (gleicher wirtschaftlicher Erfolg).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 47
+        },
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "front": "Sind sittenwidrige Geschäfte umdeutbar?",
+      "back": "Nicht, solange die sittenwidrige wirtschaftliche Zielsetzung unverändert bleibt; § 138 richtet sich gegen den Gesamtinhalt, nicht nur gegen die Rechtsform (BGHZ 68, 204).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "front": "Was bewirkt die Bestätigung nach § 141?",
+      "back": "Sie gilt als Neuvornahme des nichtigen Geschäfts (ausdrücklich oder konkludent, Bestätigungswille), wirkt nicht zurück; § 141 Abs. 2: schuldrechtliche Rückbeziehung im Verhältnis der Parteien.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    }
+  ]
+}

@@ -14,6 +14,9 @@
   - KE 2, S. 43: Wortlaut zu § 149 (Antragender vs. Antragsempfänger)
   - KE 1, S. 49: „Aufrechnung (§ 378)“ im Prüfungsschema
   - KE 3, S. 51 vs. 17: verspätete Annahme, § 150 Abs. 1 vs. Abs. 2
+  - KE 6, S. 22 vs. S. 20/§ 123 II: „grob fahrlässige Unkenntnis“ statt „kennen musste“
+  - KE 6, S. 25: Maler-Beispiel als „Inhaltsirrtum § 119 Abs. 2“ bezeichnet (eigentlich Eigenschaftsirrtum)
+  - KE 6, S. 35–36: Rechenfehler im Fall BGH NJW 1981, 1551 (11 × 72.000 € = 792.000 €)
 - [ ] Gesetzestext BGB als eigenes Dokument hochladen (z. B. von gesetze-im-internet.de). Dann kann die Quellenprüfung auch Normen gegen den Gesetzestext abgleichen.
 
 ## Technik

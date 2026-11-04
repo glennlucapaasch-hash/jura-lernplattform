@@ -1,0 +1,1521 @@
+{
+  "id": "bgb-ke5-abstraktion-geschaeftsfaehigkeit",
+  "moduleId": "55101",
+  "ke": 5,
+  "topicIds": [
+    "bgb-ke5-s10",
+    "bgb-ke5-s11"
+  ],
+  "title": "Trennungs- und Abstraktionsprinzip; Geschäftsunfähige und beschränkt Geschäftsfähige",
+  "estMinutes": 200,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Verpflichtungsgeschäft und Verfügungsgeschäft",
+      "short": "Das BGB zerlegt einen äußerlich einheitlichen Vorgang in verschiedene Rechtsgeschäfte. Das Verpflichtungsgeschäft (z.B. Kaufvertrag, § 433) begründet nur Ansprüche; erst das Verfügungsgeschäft (z.B. Übereignung, § 929 S. 1) wirkt unmittelbar auf ein Recht ein. Verfügung = ein Recht wird unmittelbar aufgehoben, übertragen, belastet oder inhaltlich geändert (A-U-B-I).",
+      "long": "## Ausgangspunkt (S. 6)\n\nAus § 433 Abs. 1 S. 1 BGB ergibt sich: Allein durch den Abschluss des Kaufvertrags wird der Käufer **nicht** Eigentümer. Der Verkäufer wird nur **verpflichtet**, die Sache zu übergeben und zu übereignen. Für den Eigentumsübergang ist ein **weiteres Geschäft** – die Übereignung nach §§ 929 ff. BGB – nötig.\n\n| Verpflichtungsgeschäft | Verfügungsgeschäft |\n|---|---|\n| z.B. Kaufvertrag, § 433 Abs. 1 | z.B. Übereignung, § 929 S. 1 |\n| „Ich verpflichte mich, das Eigentum zu übertragen“ | „Hiermit wirst du Eigentümer meiner Sache“ |\n| erzeugt einen Anspruch (§ 194 Abs. 1) | überträgt das Recht |\n\n## Das Verpflichtungsgeschäft (S. 6–7)\n\nMit dem Verpflichtungsgeschäft verpflichtet sich eine Person gegenüber einer anderen zu einer **Leistung**; es entstehen ein oder mehrere **Ansprüche** (§ 194 Abs. 1), der Gläubiger erwirbt ein **Forderungsrecht**. Meist entstehen Verpflichtungen durch **Verträge** (Kauf § 433, Miete § 535, Werkvertrag § 631, Darlehen § 488, Verträge des HGB), ausnahmsweise durch **einseitige** Rechtsgeschäfte (Auslobung, § 657).\n\nDoppelte Aufgabe im Warenverkehr (S. 7):\n1. Es **bereitet** die Güterbewegung **vor**: Der Gläubiger hat einen Anspruch auf Vornahme des Verfügungsgeschäfts und kann auf Erfüllung klagen; bei Leistungsstörungen kommen Rücktritt oder Schadensersatz in Betracht (beim Kauf z.B. §§ 437 Nr. 3, 440, 280 Abs. 1, 3, 281, 283, 311a).\n2. Es **sichert** die Güterbewegung, weil es ihren **rechtlichen Grund (causa)** bildet.\n\n## Das Verfügungsgeschäft (S. 7)\n\n**Def.:** Ein Rechtsgeschäft, durch das ein Recht **unmittelbar aufgehoben, übertragen, belastet oder inhaltlich geändert** wird (Eselsbrücke **A-U-B-I**).\n\nBeispiele: Übereignung beweglicher Sachen (§§ 929 ff.) und von Grundstücken (§§ 873, 925 ff.), Abtretung von Forderungen und Übertragung sonstiger Rechte, z.B. Marken oder Patente (§§ 398 ff.).\n\n**Beispiel Kfz-Kauf (S. 7–8):** K kauft beim Händler V einen grünen PKW, Auslieferung in vier Wochen.\n- a) Der **Kaufvertrag** wird sofort wirksam: K erwirbt einen Anspruch auf Übergabe und Eigentumsverschaffung (§ 433 Abs. 1), V einen Anspruch auf Kaufpreiszahlung (§ 433 Abs. 2).\n- b) Das **Eigentum** geht erst später über, wenn der PKW übergeben wird und beide sich über den Eigentumsübergang einig sind (§ 929 S. 1) – ein **weiteres** Geschäft, ein Verfügungsgeschäft.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 6
+        },
+        {
+          "doc": "BGB_5",
+          "page": 7
+        },
+        {
+          "doc": "BGB_5",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Eigentumserwerb vom Berechtigten: Einigung, Übergabe, Besitz",
+      "short": "Eine Verfügung setzt grundsätzlich Verfügungsmacht des Verfügenden voraus; Ausnahmen sind etwa § 185 und der gutgläubige Erwerb (§ 932). Manche Verfügungen bestehen nur aus Willenserklärungen (Abtretung, § 398), andere verlangen zusätzlich einen Realakt oder eine Registereintragung. Bei § 929 S. 1 sind dingliche Einigung und Übergabe (Übertragung des unmittelbaren Besitzes) nötig; Besitz und Eigentum sind streng zu trennen.",
+      "long": "## Verfügungsmacht (S. 8)\n\nWirksam verfügen kann grundsätzlich nur, wer **dazu berechtigt** ist (Verfügungsmacht). Das Eigentum kann in der Regel nur der Eigentümer übertragen; Verfügungen eines **Nichtberechtigten** sind nur ausnahmsweise wirksam, z.B. bei Berechtigung durch den Eigentümer (§ 185) oder unter den Voraussetzungen des gutgläubigen Erwerbs (§ 932).\n\n## Verfügungen nur durch Willenserklärungen (S. 8)\n\n**Beispiel Abtretung (§ 398):** Der Abtretungsvertrag kommt wie jeder Vertrag durch Willenserklärungen zustande; mit seinem Abschluss tritt der neue Gläubiger an die Stelle des bisherigen (§ 398 S. 2). Er ist ein Verfügungsgeschäft, weil die Forderung unmittelbar übertragen wird. Zugrunde liegt in der Regel ein Verpflichtungsgeschäft, etwa ein **Forderungskauf**.\n\nHäufig verlangt das Gesetz zusätzlich weitere Tatbestandsmerkmale, etwa die **Übergabe** einer Sache oder die **Eintragung** in ein Register.\n\n## § 929 S. 1 BGB (S. 8–9)\n\n- **Einigung**: ein **dinglicher Vertrag**, gerichtet auf die Eigentumsübertragung, zustande gekommen durch zwei übereinstimmende Einigungserklärungen von Veräußerer und Erwerber. Sie kann auch **konkludent** erfolgen – z.B. wenn der Bäcker die Ware über den Ladentisch reicht und der Käufer sie wortlos annimmt.\n- **Übergabe**: kein Rechtsgeschäft, sondern ein **Realakt**; sie ist die Übertragung des **unmittelbaren Besitzes** vom Eigentümer auf den Erwerber.\n\n## Besitz und Eigentum (S. 9)\n\n- **Besitz** = tatsächliche Herrschaft über eine Sache (§ 854 Abs. 1).\n- **Eigentum** = umfassende rechtliche Herrschaft über eine Sache (§ 903).\n\n**Beispiel (S. 9):** Ezechiel verleiht seinen PKW an Felix und händigt ihm die Schlüssel aus. E bleibt Eigentümer, F wird unmittelbarer Besitzer.\n\nOb tatsächliche Herrschaft besteht, richtet sich nach der **Verkehrsanschauung**; ein räumlicher Zusammenhang ist nicht immer nötig: Der Verreiste behält den Besitz an den Sachen in seiner Wohnung, der **Bauer** den Besitz an dem auf dem Feld stehenden Pflug, auch wenn er 2 km entfernt im Wohnhaus ist.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 8
+        },
+        {
+          "doc": "BGB_5",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Trennungs- und Abstraktionsprinzip",
+      "short": "Trennungsprinzip: Verpflichtungs- und Verfügungsgeschäft sind zwei verschiedene Rechtsgeschäfte (Gegenmodell: Einheitsprinzip, z.B. Frankreich). Abstraktionsprinzip: Das Verfügungsgeschäft ist inhaltlich und äußerlich von der causa gelöst; seine Wirksamkeit hängt nicht vom Bestehen oder der Wirksamkeit des Verpflichtungsgeschäfts ab (Gegenmodell: Kausalprinzip, z.B. Österreich). Die rechtsgrundlose Vermögensverschiebung wird über § 812 rückabgewickelt.",
+      "long": "## Trennungsprinzip (S. 9–10)\n\nZur **Erfüllung** (§ 362) eines Verpflichtungsgeschäfts ist häufig ein weiteres Rechtsgeschäft – eine **Verfügung** – nötig. Im Kfz-Beispiel erwirbt K aus dem Kaufvertrag nur den Anspruch auf Übereignung; Erfüllung tritt erst durch die Übereignung nach § 929 S. 1 ein.\n\nDiese Unterscheidung heißt **Trennungsprinzip**. Sie ist keine Selbstverständlichkeit: Nach dem **Einheitsprinzip** (z.B. französisches Recht) gibt es kein gesondertes Verfügungsgeschäft; für Verkauf und Übereignung genügt eine Einigung. Dort stellt sich nur noch die Frage, ob die Einigung allein das Eigentum übergehen lässt (**Konsensprinzip**) oder ob ein Kundgebungsakt wie Übergabe oder Registereintragung hinzukommen muss (**Traditionsprinzip**) (S. 10).\n\n## Abstraktionsprinzip (S. 10)\n\nEs **setzt die Trennung voraus** (ohne Trennung keine Abstraktion) und geht darüber hinaus. Zwei Abstraktionen:\n- **inhaltliche Abstraktion**: Das Verfügungsgeschäft muss **keine kausale Zweckbestimmung** enthalten; es muss nicht angegeben werden, warum verfügt wird.\n- **äußerliche Abstraktion**: Die Wirksamkeit der Verfügung hängt **weder vom Vorhandensein noch von der Wirksamkeit** des Verpflichtungsgeschäfts ab.\n\n**Beispiel (S. 10):** Ist der Kaufvertrag zwischen V und K etwa nach § 138 Abs. 1 nichtig, bleibt die Übereignung wirksam; das dingliche Geschäft ist grundsätzlich „sittlich neutral“. K ist Eigentümer, V hat aber regelmäßig einen Anspruch auf **Rückübereignung** aus § 812 Abs. 1 S. 1 Var. 1.\n\nGegenmodell ist das **Kausalprinzip** (z.B. österreichisches Recht): Die Verfügung muss ihren Grund enthalten; die Unwirksamkeit des Verpflichtungsgeschäfts zieht die der Verfügung nach sich.\n\n## Zweck (S. 10–11)\n\nDie Inhaberschaft an Rechten (z.B. Eigentum) soll **klar und zweifelsfrei feststellbar** sein. Die Verfügung soll von Mängeln des Kausalgeschäfts – z.B. § 134 oder Formmangel nach § 125 – grundsätzlich unberührt bleiben. Korrektur: Die ohne Rechtsgrund erfolgte Vermögensverschiebung wird über die **ungerechtfertigte Bereicherung (§ 812)** rückgängig gemacht.\n\n## Wahrnehmbarkeit der Trennung (S. 11)\n\n**Beispiel Zeitungskiosk:** K nimmt wortlos eine Zeitung und gibt V ein 2-Euro-Stück. Rechtlich liegen **drei Geschäfte** vor (Kaufvertrag, Übereignung der Zeitung, Übereignung der Münze), die Beteiligten sehen darin aber einen einheitlichen Vorgang. Deutlich nach außen tritt die Trennung, wenn Vertragsschluss und Verfügung **zeitlich auseinanderfallen** (Kfz-Beispiel).\n\n> **Trennungsprinzip** ⇒ zwei Rechtsgeschäfte. **Abstraktionsprinzip** ⇒ Verfügung unabhängig vom Bestehen bzw. der Wirksamkeit der Verpflichtung (S. 11).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Geschäftsfähigkeit – Abgrenzung zu Rechts- und Deliktsfähigkeit",
+      "short": "Geschäftsfähigkeit ist die Fähigkeit, durch Abgabe oder Empfang von Willenserklärungen Rechtsfolgen für sich oder andere herbeizuführen. Rechtsfähigkeit ist die Fähigkeit, Träger von Rechten und Pflichten zu sein (natürliche Personen ab Geburt, § 1; juristische Personen). Deliktsfähigkeit ist die Verantwortlichkeit für eigenes schuldhaftes Handeln (§§ 827, 828). Juristische Personen sind rechtsfähig, aber nicht geschäftsfähig; sie handeln durch Organe.",
+      "long": "## Begriff (S. 12)\n\nDie Rechtsordnung rechnet Erklärungshandlungen nur zu, wenn die Person ein **Mindestmaß an Urteilsvermögen** hat und ihr Erklärungsverhalten beherrschen kann.\n\n**Def.:** **Geschäftsfähigkeit** ist die Fähigkeit, durch die **Abgabe oder den Empfang** von Willenserklärungen Rechtsfolgen für sich oder andere herbeizuführen. Ein Rechtsgeschäft kann nur vornehmen, wer geschäftsfähig ist.\n\n## Rechtsfähigkeit (S. 12–14)\n\n**Def.:** Fähigkeit, **Träger von Rechten und Pflichten** sein zu können.\n- **Natürliche Personen**: jeder Mensch ab Vollendung der Geburt (§ 1).\n- **Juristische Personen**: rechtlich geregelte Organisation von Personen (Verein) oder Sachen (insbesondere Stiftung), der die Rechtsordnung Rechtsfähigkeit verliehen hat (h.M.). Ihre Rechte und Pflichten sind ihre eigenen. *Beispiel (S. 13):* Eigentümerin des Raffineriegrundstücks ist die „Europäische Erdöl-AG“, nicht die Aktionäre oder der Vorstand.\n- Juristische Personen des Privatrechts: e.V., AG, GmbH, eG; Rechtsfähigkeit regelmäßig erst mit **Registereintragung**.\n- **Geschäftsfähig sind nur natürliche Personen.** Die juristische Person handelt durch ihre **Organe** (Vorstand des e.V., Vorstand der AG, Geschäftsführer der GmbH) (S. 13–14).\n\n## Deliktsfähigkeit (S. 14)\n\n**Def.:** Fähigkeit, für **eigenes schuldhaftes Handeln** verantwortlich zu sein (Verschuldensfähigkeit) – bedeutsam für Schadensersatz aus §§ 823 ff. (Verschuldensprinzip).\n- **Nicht deliktsfähig:** Kinder unter 7 Jahren (§ 828 Abs. 1) und Personen in einem Zustand nach § 827.\n- **Bedingt deliktsfähig:** 7- bis 17-Jährige; es kommt darauf an, ob sie nach ihrer Entwicklung die Einsicht in das Unrecht und die Ersatzpflicht hatten (§ 828 Abs. 3); vgl. auch § 828 Abs. 2 für 7- bis 9-Jährige im Straßen- und Schienenverkehr (Fn. 11).\n\n## Prüfungsstandorte (S. 15)\n\n| Rechtsfähigkeit | Geschäftsfähigkeit | Deliktsfähigkeit |\n|---|---|---|\n| Anspruchsinhaber/-gegner | Wirksamkeit einer Willenserklärung | Verschulden im Deliktsrecht (§§ 827/828) |",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 12
+        },
+        {
+          "doc": "BGB_5",
+          "page": 13
+        },
+        {
+          "doc": "BGB_5",
+          "page": 14
+        },
+        {
+          "doc": "BGB_5",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Schutzzweck und Geschäftsunfähige (§§ 104, 105, 105a)",
+      "short": "Volljährig und voll geschäftsfähig ist, wer das 18. Lebensjahr vollendet hat (§ 2), sofern nicht §§ 104 ff. eingreifen. Geschäftsunfähig sind Kinder unter 7 Jahren und dauerhaft krankhaft Gestörte ohne freie Willensbestimmung (§ 104); ihre Willenserklärungen sind nichtig (§ 105 Abs. 1) und nicht genehmigungsfähig. § 105 Abs. 2 erfasst Bewusstlosigkeit und vorübergehende Störungen; § 105a lässt Alltagsgeschäfte mit geringen Mitteln wirksam werden, sobald Leistung und Gegenleistung bewirkt sind.",
+      "long": "## Schutzzweck (S. 15)\n\nWegen der Privatautonomie muss die Rechtsordnung festlegen, wer seine Rechtsbeziehungen selbst durch Rechtsgeschäfte regeln kann. Wer das **18. Lebensjahr vollendet** hat, geistig gesund ist und nicht betreuungsbedürftig ist, ist **volljährig (§ 2)** und voll geschäftsfähig; das BGB differenziert nicht nach Intelligenzgraden. Wer die Folgen seiner Erklärungen nicht (ganz) überblicken kann, soll vor allem vor **Vermögensminderungen** geschützt werden.\n\n**Beispiel (S. 15):** Ein vierjähriges Kind kann Wert von Leistung und Gegenleistung beim Fahrradkauf nicht beurteilen; nach § 104 Nr. 1 i.V.m. § 105 Abs. 1 kann es keine wirksame Willenserklärung abgeben.\n\n## Geschäftsunfähige (S. 16)\n\n- Personen, die das **7. Lebensjahr nicht vollendet** haben (§ 104 Nr. 1);\n- Personen in einem die **freie Willensbestimmung ausschließenden** Zustand krankhafter Störung der Geistestätigkeit, sofern dieser **nicht nur vorübergehend** ist (§ 104 Nr. 2). Maßgeblich ist nicht die Intensität der Krankheit, sondern die Beeinträchtigung der freien Willensentschließung; Feststellung durch Sachverständigengutachten.\n- **Partielle Geschäftsunfähigkeit** (h.M.): Der Ausschluss kann auf einen gegenständlich abgegrenzten Kreis von Angelegenheiten beschränkt sein (Beispiele aus der Rechtsprechung: Querulantenwahn für Prozessführung, krankhafte Eifersucht für Fragen der Ehe, sexuelle Abhängigkeit von Telefonsex-Gesprächen).\n\n## Rechtsfolge: Nichtigkeit (S. 16–17)\n\nWillenserklärungen Geschäftsunfähiger sind **stets nichtig (§ 105 Abs. 1)**, also dauernd unwirksam.\n\n**Beispiel (S. 16–17):** Ein sechsjähriges Kind bietet am Kiosk den Kauf von Süßigkeiten an. Selbst wenn der Verkäufer annimmt, kommt kein Vertrag zustande; anders als bei beschränkt Geschäftsfähigen können die Eltern **nicht genehmigen**, weil die Erklärung endgültig unwirksam ist.\n\n**§ 105 Abs. 2:** Nichtig sind auch Erklärungen im Zustand der **Bewusstlosigkeit** oder **vorübergehender Störung** der Geistestätigkeit, wenn die freie Willensbestimmung völlig ausgeschlossen ist – evtl. bei **Volltrunkenheit**; nach der Rechtsprechung gibt es dafür keinen allgemeingültigen Promillewert, es kommt auf den Einzelfall an (S. 17).\n\n## § 105a BGB (S. 17)\n\nGeistig behinderten Menschen soll eine ihren Fähigkeiten entsprechende Teilnahme am Rechtsverkehr ermöglicht werden: **alltägliche Geschäfte**, die mit **geringen Mitteln** bewirkt werden können (geringe Mengen Lebens- und Genussmittel, Tageszeitung, Friseur, ÖPNV, Briefe). Der Vertrag wird erst **ex nunc** wirksam, wenn die Gegenleistung bewirkt (z.B. der Preis gezahlt) ist – eine dem „Taschengeldparagraphen“ ähnliche Regelung.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 15
+        },
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Beschränkt Geschäftsfähige: Überblick und gesetzliche Vertreter",
+      "short": "Beschränkt geschäftsfähig sind Minderjährige vom vollendeten 7. bis zum vollendeten 18. Lebensjahr (§§ 2, 106). Ihre Rechtsgeschäfte sind wirksam, schwebend unwirksam oder endgültig unwirksam: Lediglich rechtlich vorteilhafte/neutrale Geschäfte sind sofort wirksam, sonst bedarf es der Einwilligung (§§ 107, 183), andernfalls gilt § 108. Gesetzliche Vertreter sind in der Regel beide Eltern gemeinsam (§§ 1626, 1629 Abs. 1); daneben Vormund, Betreuer, Pfleger.",
+      "long": "## Personenkreis (S. 17)\n\nBeschränkt geschäftsfähig sind gem. **§§ 2, 106** Personen, die das **7., aber nicht das 18. Lebensjahr vollendet** haben. Nach § 187 Abs. 2 wird der Geburtstag bei der Altersberechnung mitgezählt; die Volljährigkeit beginnt am 18. Geburtstag um 0 Uhr (Beispiel S. 17).\n\n> **Hinweis:** Im Beispiel des Skripts (S. 17) ist für eine am 05.01.2010 geborene Person der 05.01.2018 als 18. Geburtstag angegeben – rechnerisch ist das der 05.01.2028; offenbar ein Druckfehler.\n\n**Betreuung (S. 17):** Für Volljährige, die ihre Angelegenheiten wegen Krankheit oder Behinderung nicht allein besorgen können, wird ein Betreuer bestellt (§§ 1814 ff.). Die Betreuung **allein** lässt die Geschäftsfähigkeit unberührt; ist aber ein **Einwilligungsvorbehalt (§ 1825)** angeordnet, steht der Betreute im Ergebnis einem beschränkt Geschäftsfähigen gleich.\n\n## Drei mögliche Zustände (S. 17–18)\n\nRechtsgeschäfte beschränkt Geschäftsfähiger sind nicht automatisch nichtig, sondern **wirksam**, **schwebend unwirksam** oder **endgültig unwirksam**.\n\n- **Merke:** Lediglich rechtlich **vorteilhafte/neutrale** Geschäfte sind von Anfang an wirksam (S. 18).\n- Sonst muss der gesetzliche Vertreter **einwilligen (§ 107)**. Die Einwilligung ist eine **im Voraus** abgegebene Willenserklärung (§ 183 S. 1), die gegenüber dem Geschäftspartner oder dem Minderjährigen erklärt werden kann.\n- Fehlt sie, ist der Vertrag **schwebend unwirksam (§ 108 Abs. 1)** – „eingefroren“.\n\n**Zustimmung** ist der Oberbegriff: **Einwilligung** = vorherige Zustimmung (§ 183 S. 1), **Genehmigung** = nachträgliche Zustimmung (§ 184 Abs. 1), die **ex tunc** wirkt (S. 18).\n\n**Beispiel (S. 19):** Der 12-jährige A bietet der volljährigen B ohne Einwilligung sein Kinderfahrrad zum Kauf an, B nimmt an. Der Vertrag ist nach § 108 nicht wirksam; genehmigen die Eltern, wird er von Anfang an wirksam (§ 184 Abs. 1), verweigern sie, ist er endgültig unwirksam.\n\n**Beispiel Smartwatch (S. 19):** Die Eltern erlauben der 11-jährigen P ausdrücklich, von 150 € Weihnachtsgeld eine Smartwatch zu kaufen. Ihre Willenserklärung ist wegen der **ausdrücklichen Einwilligung** (§§ 107, 183 S. 1) wirksam; auf § 110, den die h.M. als Fall einer konkludenten Einwilligung ansieht, kommt es nicht an.\n\n## Gesetzliche Vertreter (S. 19–20)\n\nDie Wirkungen der Vertretergeschäfte treffen nur den Vertretenen. Gesetzliche Vertreter können **Eltern, Betreuer, Vormünder, Pfleger** sein.\n- **Eltern**: Vertretung als Teil der elterlichen Sorge (§ 1626), grundsätzlich **Gesamtvertretung** (§ 1629 Abs. 1). Ein Elternteil kann den anderen bevollmächtigen; Duldungs- und Anscheinsvollmacht sind denkbar. Für Erklärungen **gegenüber** dem Kind genügt die Abgabe gegenüber einem Elternteil (§ 1629 Abs. 1).\n- Die Vertretungsmacht ist **begrenzt**: Für wesentliche Geschäfte ist eine gerichtliche Genehmigung nötig, z.B. zur Verfügung über ein Grundstück des Kindes (§ 1643 Abs. 1 i.V.m. § 1850 Abs. 1 Nr. 1) (S. 20).\n- **Vormund** (§ 1773) für Minderjährige ohne elterliche Sorge; **Betreuer** für Volljährige (§ 1814); die Rechtsposition des Betreuten wird nur soweit nötig eingeschränkt (§ 1814 Abs. 3); Beschränkungen z.B. § 1850 (Vormund), § 1833 (Betreuer).\n- **Pflegschaft** (§ 1809) nur für besondere Angelegenheiten, als Ergänzung des elterlichen oder vormundschaftlichen Schutzes. *Beispiel:* Gründen Kinder mit den Eltern eine KG, braucht jedes Kind einen Pfleger (S. 20).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 17
+        },
+        {
+          "doc": "BGB_5",
+          "page": 18
+        },
+        {
+          "doc": "BGB_5",
+          "page": 19
+        },
+        {
+          "doc": "BGB_5",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Die Einwilligung nach § 107",
+      "short": "Die Einwilligung muss grundsätzlich für jedes einzelne Rechtsgeschäft erteilt werden; ein unbeschränkter Generalkonsens ist unzulässig. Zulässig ist eine begrenzte Generaleinwilligung für eine Gruppe von Geschäften, die eine wirtschaftliche Einheit bilden – aber nicht über §§ 112, 113 hinaus. Als Willenserklärung kann sie konkludent erteilt werden; ihr Umfang ist durch Auslegung zu ermitteln (BGHZ 47, 352).",
+      "long": "## Grundsatz und Generaleinwilligung (S. 20–21)\n\nDie Einwilligung ist grundsätzlich zu **jedem einzelnen** Rechtsgeschäft zu erteilen. Ein **unbeschränkter Generalkonsens** für alle künftigen Geschäfte ist **unzulässig**: Er würde die gewollte Aufsicht der Eltern vereiteln, sie ihrer Erziehungspflicht entziehen und dem Zweck der §§ 107 ff. zuwiderlaufen.\n\nZulässig ist eine **begrenzte Generaleinwilligung** für eine **Gruppe von Geschäften**, die als wirtschaftliche Einheit erfassbar und verkehrsüblich mit einem bestimmten Vorhaben verbunden sind.\n\n**Beispiel (S. 21):** Die Eltern unterstützen ihre 17-jährige Tochter S, die in einer anderen Stadt ausgebildet wird. Darin liegt in der Regel die Einwilligung in Geschäfte, die mit der Ausbildung in (auch entferntem) Zusammenhang stehen – etwa Miete eines Zimmers oder einer Kleinwohnung, Kauf notwendiger Lebensmittel.\n\n**Grenze (BGHZ 47, 352, 359):** Die generelle Einwilligung darf nicht über die Ausnahmetatbestände der **§§ 112, 113** hinaus zu einer partiell erweiterten Geschäftsfähigkeit führen (S. 21).\n\n## Rechtsnatur und Auslegung (S. 21–22)\n\nDie Einwilligung ist eine **Willenserklärung**; Inhalt und Umfang sind durch **Auslegung** zu bestimmen, sie kann **konkludent** erteilt werden.\n\n**Beispiel (in Anlehnung an BGHZ 47, 352):** Die Mutter (alleinige gesetzliche Vertreterin) unterschreibt den Kaufvertrag ihres minderjährigen Sohnes M über einen Gebrauchtwagen. M beantragt zugleich eine Kfz-Haftpflichtversicherung; später schickt die Versicherung ihm direkt Versicherungsschein und Zahlungsaufforderung für die Erstprämie. M zahlt zu spät und verursacht einen Unfall. Nach § 131 Abs. 2 S. 2 hätte die Zahlungsaufforderung nur mit Einwilligung der Mutter wirksam zugehen können. Der BGH ließ offen, ob in der Zustimmung zum Kaufvertrag konkludent auch die Einwilligung zur Haftpflichtversicherung lag; jedenfalls umfasse sie nicht die uneingeschränkte **Abwicklung** des Vertrags. Die Einwilligung sollte M Versicherungsschutz **verschaffen**, nicht ihn durch mangelnde Einsicht **verlieren** lassen. Die Aufforderung war daher **unwirksam**.\n\n## Weitere Punkte (S. 22)\n\n- Der Minderjährige hat **keinen Anspruch** auf Erteilung der Zustimmung; bei schuldhafter Pflichtverletzung durch Verweigerung ist allenfalls an Schadensersatz der Vertreter zu denken.\n- Die Zustimmung zu einem **Vereinsbeitritt** umfasst in der Regel auch die Wahrnehmung sämtlicher Mitgliedschaftsrechte.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 20
+        },
+        {
+          "doc": "BGB_5",
+          "page": 21
+        },
+        {
+          "doc": "BGB_5",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Der lediglich rechtliche Vorteil, neutrale Geschäfte und Erfüllung",
+      "short": "Lediglich rechtlich vorteilhaft sind Geschäfte, die die Rechtsstellung des Minderjährigen nur verbessern; ein Nachteil liegt vor, wenn ihn irgendwelche Haupt- oder Nebenpflichten treffen. Maßgeblich ist die rechtliche, nicht die wirtschaftliche Betrachtung; gesetzliche Folgeansprüche (§§ 812, 823) bleiben außer Betracht. Daher ist der Kaufvertrag zustimmungsbedürftig, der Eigentumserwerb (§ 929 S. 1) aber zustimmungsfrei wirksam (Abstraktionsprinzip). Neutrale Geschäfte (z.B. Handeln als Vertreter) sind wirksam; die Erfüllungswirkung bei Leistung an den Minderjährigen tritt nach h.M. mangels Empfangszuständigkeit nicht ein.",
+      "long": "## Grundsätzliches (S. 22–23)\n\nOhne Einwilligung wirksam ist die Erklärung, wenn der Minderjährige **lediglich einen rechtlichen Vorteil** erlangt oder seine Vermögensverhältnisse gar nicht berührt werden (neutrale Geschäfte). Es zählt der **rechtliche Vorteil**, nicht das **wirtschaftliche** Ergebnis – auch ein noch so günstiges Geschäft ist zustimmungsbedürftig, wenn es irgendeinen rechtlichen Nachteil bringt.\n\n- **Def. Vorteil:** Rechtsgeschäfte, die die Rechtsstellung des Minderjährigen **lediglich verbessern** – v.a. reine Zuwendungen und Verfügungen, durch die der Minderjährige etwas **erwirbt**.\n- **Def. Nachteil:** Den Minderjährigen treffen durch das Geschäft **irgendwelche Verpflichtungen – Haupt- oder Nebenpflichten**. Gegenseitige Verträge kann er daher nicht allein schließen.\n- **Unerheblich** sind Ansprüche, die gegen ihn aus ungerechtfertigter Bereicherung (§§ 812 ff.) oder Delikt (§§ 823 ff.) entstehen (S. 22).\n\n**Kauf vs. Übereignung (S. 23):** Der Kaufvertrag verpflichtet zur Kaufpreiszahlung (§ 433 Abs. 2) → nicht lediglich vorteilhaft → schwebend unwirksam, bei Verweigerung nichtig. Die **Übereignung** an den Minderjährigen (§ 929 S. 1) verschafft ihm Eigentum ohne Gegenleistungspflicht → **wirksam**. Wegen des **Abstraktionsprinzips** schadet weder die Nichtigkeit des Kaufs noch die Herausgabepflicht nach § 812 Abs. 1 S. 1.\n\nTypisch zustimmungsfrei: **Schenkungen** (als Beschenkter), **Erwerb von Forderungen durch Abtretung** (§ 398), **Eigentumserwerb** an beweglichen und unbeweglichen Sachen (S. 23).\n\n## Schenkungen des gesetzlichen Vertreters (S. 23–24)\n\nProblem: Der Schenkungsvertrag ist lediglich vorteilhaft, erst das **Erfüllungsgeschäft** bringt Nachteile (Fälle BGHZ 15, 168; 78, 28). Nach dem Wortlaut des **§ 181 letzter Halbsatz** greift die Sperre bei Erfüllung einer Verbindlichkeit nicht – der Schutz der §§ 107, 181 liefe leer. Einigkeit: Ein **Ergänzungspfleger** muss mitwirken; streitig ist die Begründung:\n- frühere BGH-Rspr. (BGHZ 78, 28, 31): **Gesamtbetrachtung** von schuldrechtlichem und dinglichem Vertrag;\n- Literatur: Gesamtbetrachtung unvereinbar mit dem Trennungsprinzip → **teleologische Reduktion des § 181 letzter Halbsatz**;\n- neuere BGH-Rspr. (BGHZ 161, 170; 187, 119): **isolierte Betrachtung** des nachteiligen Erfüllungsgeschäfts – damit dürfte sich der BGH der Literatur angeschlossen haben.\n\n## Wohnungseigentum, Grundstück, Tiere (S. 24–25)\n\n- **Eigentumswohnung:** nach neuerer BGH-Rspr. (BGHZ 187, 119) **stets rechtlich nachteilig**: Mitgliedschaft in der Gemeinschaft, Kostentragung (§ 16 Abs. 2 WEG), Haftung gegenüber Gemeinschaftsgläubigern auch mit dem übrigen Vermögen (§ 9a Abs. 4 WEG). Ein Nießbrauch des Zuwendenden ändert daran nichts (nur Innenverhältnis). Früher (h.L.) grundsätzlich vorteilhaft, sofern keine verschärfte Gemeinschaftsordnung.\n- **Miteigentumsanteil** an einem weder vermieteten noch verpachteten Grundstück: lediglich rechtlich vorteilhaft (BGH NJW 2024, 1957).\n- **Tiere:** Wirbeltiere dürfen an Kinder bis 16 Jahre ohne Einwilligung nicht abgegeben werden (§ 11c TierSchG) → Übereignung nach § 134 nichtig. **Wirbellose** Tiere: kein Verbot, aber wegen der Halterpflichten aus § 2 TierSchG **nicht lediglich vorteilhaft**.\n\n**Abschließendes Beispiel (S. 25):** Die 17-jährige M kauft ohne Einwilligung vom 19-jährigen V einen Fernseher für 200 €, zahlt und nimmt ihn mit; die Eltern verweigern die Genehmigung. Kaufvertrag: zunächst schwebend unwirksam, jetzt nichtig. Übereignung des Geräts an M: wirksam (lediglich vorteilhaft). V hat gegen M einen Anspruch auf Rückübereignung, M gegen V auf Rückzahlung der 200 €, jeweils aus § 812 Abs. 1 S. 1 Var. 1.\n\n## Neutrale Geschäfte (S. 26)\n\n**Def.:** Das Geschäft bringt weder Vorteil noch Nachteil, weil es lediglich **für einen Dritten wirkt** – typisch: Handeln des Minderjährigen als **Vertreter** (§ 165).\n\n## Rechtsfolgen: Erfüllung an den Minderjährigen (S. 26–27)\n\nOb die Leistung an den Minderjährigen die Forderung zum Erlöschen bringt (§ 362 Abs. 1), ist streitig:\n- Teile der Lehre: Das Erlöschen der Forderung ist ein rechtlicher **Nachteil** → keine Erfüllung; der Minderjährige erwirbt das Eigentum, behält aber den Anspruch.\n- Andere (Harder): Vorteil, weil man statt der Forderung die Sache selbst erhält.\n- Nach der **Theorie der realen Leistungsbewirkung** ist kein Erfüllungsvertrag nötig; der Forderungsverlust wäre nur mittelbare Folge.\n- **h.M.:** Erfüllung setzt **Empfangszuständigkeit** des Gläubigers voraus; diese fehlt dem Minderjährigen ohne Einwilligung. Die Übereignung ist wirksam, führt aber **nicht** zur Erfüllungswirkung (S. 27).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 22
+        },
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 24
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        },
+        {
+          "doc": "BGB_5",
+          "page": 26
+        },
+        {
+          "doc": "BGB_5",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Auflösung des Schwebezustandes (§§ 108, 109)",
+      "short": "Der Schwebezustand endet durch Genehmigung (Rückwirkung, § 184 Abs. 1) oder Verweigerung, beide formlos und unbefristet gegenüber dem Minderjährigen oder dem Partner erklärbar (§ 182). Der Partner kann die Vertreter zur Erklärung auffordern: Dann ist nur noch eine Erklärung ihm gegenüber möglich, frühere Erklärungen gegenüber dem Minderjährigen werden unwirksam, und nach zwei Wochen gilt die Genehmigung als verweigert (§ 108 Abs. 2). Wird der Minderjährige volljährig, genehmigt er selbst (§ 108 Abs. 3); der Partner kann bis zur Genehmigung widerrufen (§ 109).",
+      "long": "## Genehmigung und Verweigerung (S. 27)\n\nDie ohne Einwilligung abgegebene Erklärung ist **schwebend unwirksam (§ 108 Abs. 1)**. Die **Genehmigung** führt zum **rückwirkenden** Wirksamwerden (§ 184 Abs. 1), die **Verweigerung** zur endgültigen Unwirksamkeit. Beide können **dem Minderjährigen oder dem Geschäftsgegner** gegenüber erklärt werden (§ 182 Abs. 1), sind **formlos** (§ 182 Abs. 2) und an **keine Frist** gebunden.\n\n## Aufforderung nach § 108 Abs. 2 (S. 27)\n\nOft wissen die Eltern vom Geschäft nichts; der Schwebezustand belastet den Partner. Er kann die Vertreter **zur Erklärung über die Genehmigung auffordern** (nach h.M. empfangsbedürftige, formfreie Willenserklärung). Folgen:\n1. Genehmigung oder Verweigerung kann **nur noch gegenüber dem Partner** erklärt werden.\n2. Eine **vor** der Aufforderung **dem Minderjährigen gegenüber** erklärte Genehmigung oder Verweigerung wird **unwirksam** (§ 108 Abs. 2 S. 1 Hs. 2) – im Fall der Verweigerung lebt der Schwebezustand also wieder auf.\n3. **Ausschlussfrist (§ 108 Abs. 2 S. 2):** Die Genehmigung kann nur bis zum Ablauf von **zwei Wochen** nach Empfang der Aufforderung erklärt werden; sonst **gilt sie als verweigert** (Fiktion einer Willenserklärung).\n\n## Eintritt der Volljährigkeit (§ 108 Abs. 3) (S. 28)\n\nDas Genehmigungsrecht geht auf den volljährig Gewordenen über. Die Erklärung wird **nicht automatisch** wirksam; nötig ist seine Genehmigung, die auch **konkludent** erfolgen kann – vorausgesetzt, er ist sich der schwebenden Unwirksamkeit bewusst oder rechnet zumindest damit (BGHZ 53, 174, 178). Beispiele: Überweisung des Kaufpreises, Übereignung des Kaufgegenstands.\n\n## Widerruf des Partners (§ 109) (S. 28)\n\nDer Geschäftspartner soll nicht einseitig gebunden sein; er kann **bis zur Genehmigung** widerrufen. Der Widerruf ist eine empfangsbedürftige Willenserklärung; Adressaten sind die gesetzlichen Vertreter **oder** der Minderjährige (§ 109 Abs. 1 S. 2).\n\n## Selbsttestaufgabe 1 (S. 28, Lösung S. 69)\n\nDer 17-jährige M kauft am 2.9.2023 ohne Einwilligung ein Smartphone für 1.300 €; am 12.9. wird er volljährig, am 13.9. schreibt er H, er nehme Abstand; am 20.9. genehmigen die Eltern. **Ergebnis:** Nach § 108 Abs. 3 kommt es seit der Volljährigkeit allein auf M an; er hat die Genehmigung verweigert. Die spätere Genehmigung der Eltern ist bedeutungslos, der Vertrag endgültig unwirksam.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 27
+        },
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "§ 110, Surrogation, §§ 112, 113, § 131 Abs. 2 und § 1825",
+      "short": "Nach § 110 wird ein Vertrag ohne Zustimmung von Anfang an wirksam, wenn der Minderjährige die Leistung mit überlassenen Mitteln bewirkt – nach h.M. ein Fall konkludenter Einwilligung, die nicht gegen den erklärten Willen der Eltern wirkt. Bewirkt heißt vollständig erfüllt (§ 362); Ratengeschäfte bleiben bis zur letzten Rate schwebend unwirksam. Ob Surrogate frei verfügbar sind, ist Auslegungsfrage (RGZ 74, 234). §§ 112, 113 verleihen partielle Geschäftsfähigkeit; § 131 Abs. 2 regelt den Zugang an Minderjährige; § 1825 stellt Betreute mit Einwilligungsvorbehalt im Ergebnis Minderjährigen gleich.",
+      "long": "## Der „Taschengeldparagraph“ § 110 (S. 28–29)\n\nEin ohne Zustimmung geschlossener Vertrag ist **von Anfang an wirksam**, wenn der Minderjährige die vertragsmäßige Leistung mit Mitteln **bewirkt**, die ihm die gesetzlichen Vertreter (oder mit deren Zustimmung ein Dritter) **zu diesem Zweck oder zur freien Verfügung** überlassen haben.\n\nNach **h.M.** ist § 110 **keine Ausnahme** von § 107, sondern erlaubt eine generell erklärte Einwilligung **durch Überlassung von Mitteln** (RGZ 74, 234, 235); das Geschäft wird schuldrechtlich und dinglich wirksam, wenn es erfüllt ist. Folge: Geschäfte **gegen den erklärten Willen** der Eltern deckt § 110 nicht.\n\n**Beispiel Softair (S. 29):** Der 15-jährige J kauft vom Taschengeld eine Softair-Waffe für 20 €, obwohl die Eltern erklärte Waffengegner sind. Die konkludente Einwilligung erfasst diesen Kauf nicht → kein § 110.\n\n**Def. „Bewirkt“:** Der Minderjährige muss den Vertrag mit den überlassenen Mitteln **i.S.d. § 362 erfüllt** haben (S. 29). Bei **Teilzahlungsgeschäften** ist eine Teilerfüllung nicht möglich; der Vertrag ist bis zur Zahlung der **letzten Rate** schwebend unwirksam.\n\n**Beispiel Notebook (S. 29):** Der 16-jährige M kauft ohne Einwilligung ein Notebook für 300 €, zahlt 75 € an und eine Rate von 25 € aus freien Mitteln. Der Vertrag ist schwebend unwirksam; M muss die übrigen Raten nicht zahlen. Zahlt er sie doch, wird der Vertrag **rückwirkend** wirksam.\n\n## Surrogationsgeschäfte (S. 30)\n\nOb der Minderjährige über das mit freien Mitteln Erworbene (Surrogat) verfügen kann, hängt davon ab, ob sich die Einwilligung unter Berücksichtigung des **Erziehungsgesichtspunkts** auch darauf erstreckt – eine **Auslegungsfrage**; regelmäßig zu bejahen, im Zweifel aber nicht bei Surrogaten, die den Wert der überlassenen Mittel **erheblich übersteigen**.\n\n**RGZ 74, 234:** Ein 17-jähriger Schüler kauft von seinem Taschengeld (3 Mark/Woche) ein Lotterielos, gewinnt 4.000 Mark und kauft davon bar einen PKW für 3.200 Mark. Die Einwilligung durch Taschengeldüberlassung umfasste den PKW-Kauf **nicht**.\n\n## Partielle Geschäftsfähigkeit (S. 30–31)\n\n- **§ 112 – selbständiges Erwerbsgeschäft:** jede berufsmäßig ausgeübte, auf Gewinn gerichtete selbständige Tätigkeit (auch App-Entwickler, Kinder-Influencer, YouTuber). Volle Geschäftsfähigkeit nur für den **abgegrenzten Kreis** der dazu gehörenden Geschäfte. Erforderlich sind eine an den Minderjährigen gerichtete Erklärung der Eltern und die **familiengerichtliche Genehmigung** (§§ 1643, 1850–1854).\n- **§ 113 – Dienst- oder Arbeitsverhältnis:** volle Geschäftsfähigkeit für **Eingehung und Aufhebung** des Verhältnisses und die **Erfüllung** der daraus folgenden Pflichten – keine allgemeine Geschäftsfähigkeit; der Lohn steht nicht automatisch zur freien Verfügung. **Beispiel (S. 31):** Der 17-jährige M darf ein Arbeitsverhältnis seiner Wahl eingehen und tritt der IG Metall bei; trotz Verbots der Eltern ist er Mitglied, weil der Gewerkschaftsbeitritt wegen des engen Zusammenhangs (Aushandeln der Arbeitsbedingungen, Beratung) von § 113 umfasst ist (h.M.). **Nicht** erfasst sind Berufsausbildungs-, Lehr-, Volontär- und Praktikantenverhältnisse (Ausbildungszweck im Vordergrund).\n\n## Zugang an Minderjährige, § 131 Abs. 2 (S. 31)\n\nEine einem beschränkt Geschäftsfähigen gegenüber abgegebene Erklärung wird grundsätzlich erst wirksam, wenn sie **dem gesetzlichen Vertreter zugeht**. Mit Zugang beim Minderjährigen wird sie wirksam, wenn sie ihm **lediglich einen rechtlichen Vorteil** bringt oder der Vertreter **eingewilligt** hat (§ 131 Abs. 2 S. 2). Die Einwilligung muss im Zeitpunkt des Wirksamwerdens bestehen; sie liegt regelmäßig konkludent im Einverständnis mit dem Abschluss eines zweiseitigen Geschäfts. *Beispiel:* Hat die Mutter auch den Versicherungsantrag unterschrieben, willigt sie damit ein, dass die dem Minderjährigen gegenüber erklärte Annahme wirksam wird.\n\n## Selbsttestaufgabe 2 (S. 32, Lösung S. 70–72)\n\nDer 17-jährige M kauft ohne Wissen der Eltern einen Ring für 150 €, zahlt 100 € aus gespartem Taschengeld an, Rest in Raten; J übergibt; M schenkt den Ring der F; die Eltern missbilligen alles. Ergebnis: M wurde Eigentümer (Einigung lediglich vorteilhaft), die Übereignung an F ist mangels Genehmigung unwirksam (Eigentumsverlust = Nachteil) → **M bleibt Eigentümer**. Kein Anspruch des J aus § 433 Abs. 2 (§ 110 mangels vollständiger Erfüllung nicht anwendbar); aber Anspruch auf Rückübereignung und Rückgabe aus **§ 812 Abs. 1 S. 1 Var. 1**.\n\n## § 1825 BGB (S. 32)\n\nFür Volljährige mit **Betreuung und Einwilligungsvorbehalt** (§§ 1814, 1825) gelten insbesondere die **§§ 108 bis 113 entsprechend**, soweit der Einwilligungsvorbehalt reicht. § 1825 Abs. 3 S. 1 enthält eine § 107 entsprechende Regel; zudem sind Erklärungen über **geringfügige Angelegenheiten des täglichen Lebens** ohne Einwilligung wirksam.\n\n> **Hinweis zu Zitaten:** Das Skript verweist für die entsprechende Anwendung der §§ 108 ff. einmal auf § 1825 Abs. 1 S. 3 (S. 17) und einmal auf § 1825 Abs. 1 S. 2 (S. 32); für die geringfügigen Alltagsgeschäfte heißt es „§ 1825 S. 2“ (gemeint wohl Abs. 3 S. 2). Bitte am Gesetzestext prüfen.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 29
+        },
+        {
+          "doc": "BGB_5",
+          "page": 30
+        },
+        {
+          "doc": "BGB_5",
+          "page": 31
+        },
+        {
+          "doc": "BGB_5",
+          "page": 32
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Verpflichtungsgeschäft",
+      "text": "Rechtsgeschäft, mit dem sich eine Person einer anderen gegenüber verpflichtet, eine Leistung zu erbringen; es begründet einen oder mehrere Ansprüche (§ 194 Abs. 1).",
+      "norm": "z.B. § 433 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 6
+        },
+        {
+          "doc": "BGB_5",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "term": "Verfügungsgeschäft",
+      "text": "Rechtsgeschäft, durch das ein Recht unmittelbar aufgehoben, übertragen, belastet oder inhaltlich geändert wird (A-U-B-I).",
+      "norm": "z.B. §§ 929, 398 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "term": "Trennungsprinzip",
+      "text": "Unterscheidung zwischen Verpflichtungs- und Verfügungsgeschäft als zwei selbständigen Rechtsgeschäften; Gegenmodell ist das Einheitsprinzip.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "term": "Abstraktionsprinzip",
+      "text": "Das Verfügungsgeschäft muss keine kausale Zweckbestimmung enthalten (inhaltliche Abstraktion), und seine Wirksamkeit hängt weder vom Vorhandensein noch von der Wirksamkeit des Verpflichtungsgeschäfts ab (äußerliche Abstraktion).",
+      "norm": "Korrektur über § 812 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "term": "Geschäftsfähigkeit",
+      "text": "Fähigkeit, durch die Abgabe oder den Empfang von Willenserklärungen Rechtsfolgen für sich oder andere herbeizuführen.",
+      "norm": "§§ 104 ff. BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "term": "Rechtsfähigkeit",
+      "text": "Fähigkeit, Träger von Rechten und Pflichten sein zu können.",
+      "norm": "§ 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "term": "Deliktsfähigkeit",
+      "text": "Fähigkeit einer Person, für eigenes schuldhaftes Handeln verantwortlich zu sein (Verschuldensfähigkeit).",
+      "norm": "§§ 827, 828 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "term": "Lediglich rechtlicher Vorteil",
+      "text": "Ihn erlangt der Minderjährige durch Rechtsgeschäfte, die seine Rechtsstellung lediglich verbessern. Ein rechtlicher Nachteil liegt vor, wenn ihn durch das Geschäft irgendwelche Verpflichtungen – Haupt- oder Nebenpflichten – treffen; maßgeblich ist die rechtliche, nicht die wirtschaftliche Betrachtung.",
+      "norm": "§ 107 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "term": "Neutrales (indifferentes) Geschäft",
+      "text": "Geschäft, das dem Minderjährigen weder einen rechtlichen Vorteil noch einen rechtlichen Nachteil bringt, weil es lediglich für einen Dritten wirkt (z.B. Handeln als Vertreter, § 165).",
+      "norm": "§§ 107, 165 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "term": "Bewirken (§ 110)",
+      "text": "Der Minderjährige muss den Vertrag mit den ihm zu diesem Zweck oder zur freien Verfügung überlassenen Mitteln i.S.d. § 362 erfüllt haben.",
+      "norm": "§ 110 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 29
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Wirksamkeit der Willenserklärung eines Minderjährigen",
+      "steps": [
+        "1. Beschränkte Geschäftsfähigkeit: vollendetes 7., nicht vollendetes 18. Lebensjahr (§§ 2, 106) – unter 7: § 104 Nr. 1, § 105 Abs. 1 (nichtig, nicht genehmigungsfähig)",
+        "2. Lediglich rechtlicher Vorteil oder neutrales Geschäft (§ 107)? Rechtliche, nicht wirtschaftliche Betrachtung; Verpflichtungs- und Verfügungsgeschäft getrennt prüfen → dann wirksam",
+        "3. Einwilligung des gesetzlichen Vertreters (§§ 107, 183 S. 1; Eltern gemeinsam, § 1629 Abs. 1): ausdrücklich, konkludent, begrenzte Generaleinwilligung; Umfang durch Auslegung",
+        "4. Sondertatbestände: § 110 (Bewirken mit überlassenen Mitteln, vollständige Erfüllung; Surrogate), §§ 112, 113 (partielle Geschäftsfähigkeit)",
+        "5. Sonst: Vertrag schwebend unwirksam (§ 108 Abs. 1)",
+        "6. Auflösung: Genehmigung (§§ 182, 184 Abs. 1, ex tunc) oder Verweigerung; Aufforderung und Zwei-Wochen-Frist (§ 108 Abs. 2); Genehmigung durch den volljährig Gewordenen (§ 108 Abs. 3); Widerruf des Partners (§ 109)",
+        "7. Bei Zugang einer Erklärung an den Minderjährigen: § 131 Abs. 2"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 17
+        },
+        {
+          "doc": "BGB_5",
+          "page": 18
+        },
+        {
+          "doc": "BGB_5",
+          "page": 22
+        },
+        {
+          "doc": "BGB_5",
+          "page": 27
+        },
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 29
+        },
+        {
+          "doc": "BGB_5",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "title": "Trennungs- und Abstraktionsprinzip in der Fallbearbeitung",
+      "steps": [
+        "1. Geschäfte trennen: Verpflichtungsgeschäft (z.B. § 433) und Verfügungsgeschäft(e) (z.B. § 929 S. 1 für Sache und für Geld) gesondert benennen",
+        "2. Verpflichtungsgeschäft auf Wirksamkeit prüfen (z.B. §§ 107 ff., 125, 134, 138)",
+        "3. Verfügungsgeschäft selbständig prüfen: Einigung (eigene Wirksamkeitsprüfung!), Übergabe, Berechtigung des Verfügenden",
+        "4. Abstraktionsprinzip: Mängel der Verpflichtung berühren die Verfügung grundsätzlich nicht",
+        "5. Rückabwicklung rechtsgrundloser Leistungen über § 812 Abs. 1 S. 1 Var. 1"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        },
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wie definiert das Skript das Verfügungsgeschäft?",
+      "options": [
+        "Rechtsgeschäft, durch das ein Recht unmittelbar aufgehoben, übertragen, belastet oder inhaltlich geändert wird",
+        "Rechtsgeschäft, durch das sich eine Person zu einer Leistung verpflichtet",
+        "Rechtsgeschäft, das den rechtlichen Grund (causa) für eine Vermögensverschiebung bildet",
+        "Tatsächlicher Akt, durch den der unmittelbare Besitz an einer Sache übertragen wird"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "A-U-B-I (S. 7). Option B beschreibt das Verpflichtungsgeschäft, C dessen Sicherungsfunktion (S. 7), D die Übergabe als Realakt (S. 9).",
+      "hints": [
+        "Eselsbrücke mit vier Buchstaben.",
+        "Die Verfügung wirkt unmittelbar auf ein Recht ein."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Mit dem wirksamen Abschluss eines Kaufvertrags über eine bewegliche Sache wird der Käufer Eigentümer der Sache.",
+      "answer": false,
+      "explanation": "Der Kaufvertrag verpflichtet den Verkäufer nur zur Übergabe und Übereignung (§ 433 Abs. 1 S. 1). Eigentum geht erst durch das weitere Geschäft der Übereignung nach §§ 929 ff. über (S. 6, 8).",
+      "hints": [
+        "Lesen Sie § 433 Abs. 1 S. 1 genau: „verpflichtet“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 6
+        },
+        {
+          "doc": "BGB_5",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Rechtsgeschäfte der zutreffenden Einordnung zu.",
+      "pairs": [
+        [
+          "Kaufvertrag (§ 433)",
+          "Verpflichtungsgeschäft durch Vertrag"
+        ],
+        [
+          "Auslobung (§ 657)",
+          "Einseitiges Verpflichtungsgeschäft"
+        ],
+        [
+          "Abtretung (§ 398)",
+          "Verfügung allein durch Willenserklärungen"
+        ],
+        [
+          "Übereignung (§ 929 S. 1)",
+          "Verfügung durch Einigung und Übergabe"
+        ]
+      ],
+      "explanation": "Verpflichtungen entstehen meist durch Vertrag, ausnahmsweise einseitig (Auslobung, S. 6). Die Abtretung wirkt mit Vertragsschluss (§ 398 S. 2), die Übereignung beweglicher Sachen verlangt zusätzlich die Übergabe als Realakt (S. 8).",
+      "hints": [
+        "Welches Geschäft erzeugt nur einen Anspruch?",
+        "Bei welcher Verfügung genügt der Vertrag allein?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 6
+        },
+        {
+          "doc": "BGB_5",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu Übergabe, Besitz und Eigentum treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Übergabe i.S.d. § 929 S. 1 ist ein Realakt und kein Rechtsgeschäft.",
+        "Besitz ist die tatsächliche Herrschaft über eine Sache (§ 854 Abs. 1).",
+        "Wer einen PKW leiht und die Schlüssel erhält, wird dadurch Eigentümer des Schlüssels.",
+        "Der Bauer verliert den Besitz an seinem Pflug, sobald er sich 2 km entfernt im Wohnhaus aufhält."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Übergabe = Übertragung des unmittelbaren Besitzes (Realakt); Besitz = tatsächliche, Eigentum = rechtliche Herrschaft (§§ 854, 903). Der Entleiher F wird nur Besitzer; der Bauer behält nach der Verkehrsanschauung den Besitz (S. 9).",
+      "hints": [
+        "Besitz und Eigentum können auseinanderfallen.",
+        "Maßgeblich ist die Verkehrsanschauung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das Abstraktionsprinzip beinhaltet zwei Abstraktionen: Nach der {{1}} Abstraktion muss das Verfügungsgeschäft keine kausale Zweckbestimmung enthalten; nach der {{2}} Abstraktion hängt die Wirksamkeit des Verfügungsgeschäfts weder vom Vorhandensein noch von der Wirksamkeit des {{3}} ab.",
+      "blanks": [
+        [
+          "inhaltlichen",
+          "inhaltliche"
+        ],
+        [
+          "äußerlichen",
+          "äußerliche",
+          "äusserlichen"
+        ],
+        [
+          "Verpflichtungsgeschäfts",
+          "Verpflichtungsgeschäftes",
+          "Kausalgeschäfts"
+        ]
+      ],
+      "explanation": "So das Skript S. 10 (im Anschluss an Jauernig). Das Abstraktionsprinzip setzt die Trennung voraus.",
+      "hints": [
+        "Einmal geht es um den Inhalt, einmal um die Abhängigkeit von einem anderen Geschäft."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Nach welchem Prinzip zieht die Unwirksamkeit des Verpflichtungsgeschäfts die Unwirksamkeit des Verfügungsgeschäfts nach sich, weil die Verfügung ihren Grund enthalten muss?",
+      "options": [
+        "Kausalprinzip (z.B. österreichisches Recht)",
+        "Einheitsprinzip (z.B. französisches Recht)",
+        "Traditionsprinzip",
+        "Trennungsprinzip"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Kausalprinzip ist das Gegenprinzip zur Abstraktion (S. 10). Das Einheitsprinzip ist Gegenmodell zur Trennung (kein gesondertes Verfügungsgeschäft); das Traditionsprinzip betrifft die Frage, ob neben der Einigung ein Kundgebungsakt nötig ist (S. 9–10).",
+      "hints": [
+        "Gesucht ist das Gegenmodell zur Abstraktion, nicht zur Trennung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "V verkauft dem K einen PKW und übereignet ihn nach § 929 S. 1. Später stellt sich heraus, dass der Kaufvertrag nach § 138 Abs. 1 nichtig ist. Wer ist Eigentümer des PKW, und was kann V verlangen?",
+      "modelAnswer": "K ist Eigentümer geworden. Nach dem Abstraktionsprinzip ist die Wirksamkeit der Übereignung (Einigung und Übergabe, § 929 S. 1) unabhängig von der Wirksamkeit des Kaufvertrags; das dingliche Geschäft ist grundsätzlich sittlich neutral. Da die Übereignung aber ohne rechtlichen Grund erfolgte, kann V von K in der Regel die Rückübereignung des PKW nach § 812 Abs. 1 S. 1 Var. 1 verlangen.",
+      "rubric": [
+        "Trennung Kaufvertrag / Übereignung",
+        "Abstraktionsprinzip: Übereignung trotz § 138 wirksam, K Eigentümer",
+        "Anspruch auf Rückübereignung aus § 812 Abs. 1 S. 1 Var. 1"
+      ],
+      "hints": [
+        "Prüfen Sie die Übereignung selbständig.",
+        "Wie wird eine rechtsgrundlose Vermögensverschiebung korrigiert?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wer ist nach dem BGB beschränkt geschäftsfähig?",
+      "options": [
+        "Wer das 7., aber nicht das 18. Lebensjahr vollendet hat",
+        "Wer das 7. Lebensjahr noch nicht vollendet hat",
+        "Wer das 10., aber nicht das 18. Lebensjahr vollendet hat",
+        "Jeder Volljährige, für den ein Betreuer bestellt ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§§ 2, 106 (S. 17). Unter 7 Jahren: geschäftsunfähig (§ 104 Nr. 1). Die Betreuung allein lässt die Geschäftsfähigkeit unberührt; erst ein Einwilligungsvorbehalt (§ 1825) führt zur Gleichstellung (S. 17).",
+      "hints": [
+        "Zwei Altersgrenzen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie den Begriffen den zutreffenden Inhalt bzw. Prüfungsstandort zu.",
+      "pairs": [
+        [
+          "Rechtsfähigkeit",
+          "Träger von Rechten und Pflichten – Anspruchsinhaber/-gegner"
+        ],
+        [
+          "Geschäftsfähigkeit",
+          "Rechtsfolgen durch Willenserklärungen herbeiführen – Wirksamkeit einer WE"
+        ],
+        [
+          "Deliktsfähigkeit",
+          "Verantwortlichkeit für eigenes Verschulden – §§ 827, 828"
+        ]
+      ],
+      "explanation": "Übersicht S. 15; Definitionen S. 12 und 14.",
+      "hints": [
+        "Denken Sie an die Übersicht mit den drei Spalten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 12
+        },
+        {
+          "doc": "BGB_5",
+          "page": 14
+        },
+        {
+          "doc": "BGB_5",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Eine Aktiengesellschaft ist als juristische Person rechts- und geschäftsfähig und kann daher selbst Willenserklärungen abgeben.",
+      "answer": false,
+      "explanation": "Juristische Personen sind rechtsfähig, geschäftsfähig sind aber nur natürliche Personen. Die AG handelt durch ihre Organe, z.B. den Vorstand (S. 13–14).",
+      "hints": [
+        "Wer kann nach dem Skript überhaupt Willenserklärungen abgeben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 13
+        },
+        {
+          "doc": "BGB_5",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein sechsjähriges Kind bietet am Kiosk den Kauf von Süßigkeiten an; der Verkäufer nimmt an. Die Eltern sind mit dem Kauf nachträglich einverstanden. Wie ist die Rechtslage?",
+      "options": [
+        "Kein Kaufvertrag: Die Erklärung des Kindes ist nach §§ 104 Nr. 1, 105 Abs. 1 nichtig und kann nicht genehmigt werden.",
+        "Der Kaufvertrag war schwebend unwirksam und ist durch die Genehmigung der Eltern ex tunc wirksam geworden (§ 184 Abs. 1).",
+        "Der Kaufvertrag ist nach § 110 wirksam, wenn das Kind mit Taschengeld bezahlt hat.",
+        "Der Kaufvertrag ist wirksam, weil Süßigkeiten ein alltägliches Geschäft mit geringen Mitteln sind (§ 105a)."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Kind ist geschäftsunfähig; seine Erklärung ist nichtig, also endgültig unwirksam – anders als bei beschränkt Geschäftsfähigen ist keine Genehmigung möglich (S. 16–17). §§ 108, 110 betreffen beschränkt Geschäftsfähige; § 105a zielt nach dem Skript auf die Teilnahme geistig behinderter Menschen am Rechtsverkehr (S. 17).",
+      "hints": [
+        "Welche Altersstufe liegt vor?",
+        "Nichtig heißt dauernd unwirksam."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu §§ 104 Nr. 2, 105 Abs. 2, 105a treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Nach h.M. kann sich die Geschäftsunfähigkeit nach § 104 Nr. 2 auf einen gegenständlich abgegrenzten Kreis von Angelegenheiten beschränken.",
+        "Bei Volltrunkenheit kommt § 105 Abs. 2 in Betracht; einen allgemeingültigen Promillewert gibt es nicht.",
+        "Ein Vertrag nach § 105a wird rückwirkend (ex tunc) wirksam, sobald er geschlossen ist.",
+        "Für § 104 Nr. 2 kommt es entscheidend auf die medizinische Intensität der Krankheit an."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Partielle Geschäftsunfähigkeit (h.M., S. 16) und Einzelfallbewertung bei Volltrunkenheit (S. 17) sind zutreffend. § 105a: Wirksamkeit erst ex nunc, wenn die Gegenleistung bewirkt ist (S. 17). Bei § 104 Nr. 2 zählt die Beeinträchtigung der freien Willensentschließung, nicht die Intensität (S. 16).",
+      "hints": [
+        "Achten Sie auf ex nunc / ex tunc.",
+        "Was ist bei § 104 Nr. 2 der Maßstab?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte zur Wirksamkeit der Willenserklärung eines 15-Jährigen in die richtige Reihenfolge.",
+      "items": [
+        "Beschränkte Geschäftsfähigkeit (§§ 2, 106)",
+        "Lediglich rechtlicher Vorteil oder neutrales Geschäft (§ 107)",
+        "Einwilligung des gesetzlichen Vertreters (§§ 107, 183), ggf. § 110",
+        "Schwebende Unwirksamkeit (§ 108 Abs. 1)",
+        "Genehmigung oder Verweigerung (§§ 108, 184 Abs. 1)"
+      ],
+      "explanation": "Ist das Geschäft lediglich vorteilhaft, ist es sofort wirksam; sonst kommt es auf die Einwilligung an; fehlt sie, entscheidet die Genehmigung über den Schwebezustand (S. 17–18).",
+      "hints": [
+        "Erst wer, dann was, dann wer zustimmt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 17
+        },
+        {
+          "doc": "BGB_5",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Aussage zur Generaleinwilligung trifft nach dem Skript zu?",
+      "options": [
+        "Eine begrenzte Generaleinwilligung für eine Gruppe wirtschaftlich zusammengehöriger Geschäfte ist zulässig, darf aber nicht über §§ 112, 113 hinaus zu partiell erweiterter Geschäftsfähigkeit führen.",
+        "Eltern können wirksam in alle künftigen Rechtsgeschäfte ihres Kindes einwilligen, da die Einwilligung formfrei ist.",
+        "Eine Einwilligung muss stets ausdrücklich und für jedes einzelne Geschäft erteilt werden; konkludente Einwilligungen sind unwirksam.",
+        "Die Generaleinwilligung ist nur bei familiengerichtlicher Genehmigung wirksam."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Unbeschränkter Generalkonsens ist unzulässig; begrenzte Generaleinwilligung (z.B. Ausbildung in anderer Stadt) ist zulässig; Grenze nach BGHZ 47, 352, 359 (S. 20–21). Die Einwilligung ist eine Willenserklärung und kann konkludent erteilt werden (S. 21).",
+      "hints": [
+        "Denken Sie an die 17-jährige S, die in einer anderen Stadt ausgebildet wird."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 20
+        },
+        {
+          "doc": "BGB_5",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Unterschreibt die Mutter den Kfz-Kaufvertrag ihres minderjährigen Sohnes, liegt darin nach BGHZ 47, 352 jedenfalls auch die Einwilligung, dass ihm eine Zahlungsaufforderung der Kfz-Haftpflichtversicherung wirksam zugehen kann.",
+      "answer": false,
+      "explanation": "Der BGH ließ offen, ob konkludent in die Versicherung eingewilligt wurde; eine solche Einwilligung umfasse jedenfalls nicht die uneingeschränkte Abwicklung. Sie sollte Versicherungsschutz verschaffen, nicht dessen Verlust ermöglichen; die Aufforderung war nach § 131 Abs. 2 unwirksam (S. 21–22).",
+      "hints": [
+        "Umfang der Einwilligung ist Auslegungsfrage.",
+        "Wozu sollte die Einwilligung dienen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 21
+        },
+        {
+          "doc": "BGB_5",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Einen lediglich rechtlichen Vorteil erlangt der Minderjährige durch Rechtsgeschäfte, die seine Rechtsstellung lediglich {{1}}. Einen rechtlichen Nachteil erleidet er, wenn ihn irgendwelche {{2}} treffen – seien es Haupt- oder Nebenpflichten. Abzustellen ist nicht auf die {{3}} Folgen des Geschäfts.",
+      "blanks": [
+        [
+          "verbessern"
+        ],
+        [
+          "Verpflichtungen",
+          "Pflichten"
+        ],
+        [
+          "wirtschaftlichen"
+        ]
+      ],
+      "explanation": "Definitionen S. 22. Ansprüche aus §§ 812 ff. oder §§ 823 ff. gegen den Minderjährigen bleiben unberücksichtigt.",
+      "hints": [
+        "Rechtliche statt wirtschaftliche Betrachtung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Welche Geschäfte kann ein 16-Jähriger nach der im Skript dargestellten Rechtsprechung ohne Mitwirkung seiner gesetzlichen Vertreter wirksam vornehmen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Annahme der Übereignung eines geschenkten Fahrrads",
+        "Erwerb einer Forderung durch Abtretung (§ 398)",
+        "Schenkweiser Erwerb eines Miteigentumsanteils an einem weder vermieteten noch verpachteten Grundstück",
+        "Schenkweiser Erwerb einer Eigentumswohnung"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Eigentumserwerb und Forderungserwerb sind lediglich vorteilhaft (S. 23); ebenso nach BGH NJW 2024, 1957 der Miteigentumsanteil an einem unvermieteten, unverpachteten Grundstück (S. 25). Der Erwerb einer Eigentumswohnung ist wegen Mitgliedschaft, Kostentragung (§ 16 Abs. 2 WEG) und Haftung (§ 9a Abs. 4 WEG) stets nachteilig (BGHZ 187, 119; S. 24–25).",
+      "hints": [
+        "Welche Erwerbe bringen Pflichten aus einer Gemeinschaft mit sich?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 24
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "case",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Die 17-jährige M kauft ohne Einwilligung ihrer Eltern vom 19-jährigen V einen Fernseher für 200 €, zahlt bar und nimmt das Gerät mit. Die Eltern verweigern die Genehmigung. Prüfen Sie im Gutachtenstil knapp, ob M Eigentümerin des Fernsehers geworden ist und welche Ansprüche bestehen.",
+      "modelAnswer": "M könnte das Eigentum am Fernseher durch Übereignung nach § 929 S. 1 erworben haben. Dazu bedarf es einer wirksamen Einigung und der Übergabe. Fraglich ist, ob die Einigungserklärung der beschränkt geschäftsfähigen M (§§ 2, 106) ohne Einwilligung wirksam ist. Das ist nach § 107 der Fall, wenn sie lediglich einen rechtlichen Vorteil erlangt, ihre Rechtsstellung also nur verbessert wird. Durch die Einigung erwirbt M Eigentum, ohne dass sie hierdurch eine Verpflichtung trifft; die Kaufpreispflicht folgt allein aus dem Kaufvertrag, der wegen des Trennungs- und Abstraktionsprinzips gesondert zu beurteilen ist. Die Einigung ist daher wirksam; die Übergabe ist erfolgt. M ist Eigentümerin geworden. Der Kaufvertrag dagegen verpflichtet M zur Zahlung (§ 433 Abs. 2), war daher schwebend unwirksam (§ 108 Abs. 1) und ist mit der Verweigerung endgültig unwirksam. Die Leistungen erfolgten ohne Rechtsgrund: V kann von M Rückübereignung des Fernsehers, M von V Rückzahlung der 200 € jeweils aus § 812 Abs. 1 S. 1 Var. 1 verlangen. (Die Übereignung des Geldes durch M ist als Eigentumsverlust nicht lediglich vorteilhaft; darauf geht das Skript in diesem Beispiel nicht näher ein.)",
+      "rubric": [
+        "Obersatz im Konjunktiv zu § 929 S. 1",
+        "Einigung lediglich rechtlich vorteilhaft (§ 107) – Definition",
+        "Trennung vom Kaufvertrag, Abstraktionsprinzip",
+        "Kaufvertrag nachteilig, schwebend unwirksam, nach Verweigerung endgültig unwirksam",
+        "Wechselseitige Ansprüche aus § 812 Abs. 1 S. 1 Var. 1"
+      ],
+      "hints": [
+        "Prüfen Sie Verfügung und Verpflichtung getrennt.",
+        "Abschließendes Beispiel des Skripts S. 25."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Eltern wollen ihrem minderjährigen Kind ein Grundstück schenken, dessen Erwerb mit rechtlichen Nachteilen verbunden ist. Erläutern Sie das Problem im Hinblick auf §§ 107, 181 und die im Skript dargestellten Lösungsansätze.",
+      "modelAnswer": "Der Schenkungsvertrag als Verpflichtungsgeschäft ist für das Kind lediglich rechtlich vorteilhaft; die Eltern könnten insoweit ohne Ergänzungspfleger handeln. Für die Erfüllung (Übereignung) greift nach dem Wortlaut des § 181 letzter Halbsatz das Verbot des Insichgeschäfts nicht, weil sie in Erfüllung einer Verbindlichkeit erfolgt. Damit liefe der Schutz der §§ 107, 181 vor nachteiligen Geschäften leer. Einig ist man daher, dass ein Ergänzungspfleger mitwirken muss; streitig ist die Begründung. Die frühere Rechtsprechung (BGHZ 78, 28) nahm eine Gesamtbetrachtung von schuldrechtlichem und dinglichem Vertrag vor. Die Literatur hält dies für unvereinbar mit dem Trennungsprinzip und reduziert § 181 letzter Halbsatz teleologisch. Die neuere BGH-Rechtsprechung (BGHZ 161, 170; 187, 119) stellt isoliert auf das nachteilige Erfüllungsgeschäft ab und dürfte sich damit der Literatur angeschlossen haben.",
+      "rubric": [
+        "Schenkung selbst lediglich vorteilhaft",
+        "Problem: § 181 letzter Halbsatz (Erfüllung einer Verbindlichkeit)",
+        "Ergebnis unstreitig: Ergänzungspfleger nötig",
+        "Gesamtbetrachtung (frühere Rspr.) vs. teleologische Reduktion (Literatur)",
+        "Neuere BGH-Rspr.: isolierte Betrachtung des Erfüllungsgeschäfts"
+      ],
+      "hints": [
+        "Trennen Sie Schenkungsvertrag und Übereignung.",
+        "Welche Ausnahme enthält § 181 am Ende?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Der 16-jährige K hat mit Einwilligung seiner Eltern ein Fahrrad gekauft; der Verkäufer übereignet es ihm später, ohne dass die Eltern in die Entgegennahme eingewilligt haben. Was gilt nach der im Skript als h.M. bezeichneten Auffassung?",
+      "options": [
+        "Die Übereignung ist wirksam, führt aber mangels Empfangszuständigkeit des K nicht zur Erfüllung (§ 362).",
+        "Die Übereignung ist schwebend unwirksam, weil das Erlöschen der Forderung ein rechtlicher Nachteil ist.",
+        "Die Übereignung ist wirksam und bewirkt zugleich die Erfüllung, weil der Besitz der Sache günstiger ist als der Anspruch.",
+        "Die Übereignung ist nichtig, weil K bereits einen Anspruch aus § 433 Abs. 1 hatte."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die h.M. verlangt auf Grundlage der Theorie der realen Leistungsbewirkung die Empfangszuständigkeit des Gläubigers; ohne Einwilligung tritt keine Erfüllungswirkung ein, obwohl die Übereignung als lediglich vorteilhaft wirksam ist (S. 26–27). C entspricht der Ansicht Harders, B einer verbreiteten, aber nicht der herrschenden Sicht.",
+      "hints": [
+        "Unterscheiden Sie Wirksamkeit der Übereignung und Erfüllungswirkung.",
+        "Stichwort: Empfangszuständigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 26
+        },
+        {
+          "doc": "BGB_5",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Minderjähriger kann als Vertreter innerhalb der ihm erteilten Vertretungsmacht auch ohne Zustimmung seiner Eltern wirksam Willenserklärungen abgeben.",
+      "answer": true,
+      "explanation": "Das Vertreterhandeln ist ein neutrales Geschäft: Es berechtigt und verpflichtet nur den Vertretenen (§ 165; S. 26).",
+      "hints": [
+        "Wen treffen die Rechtsfolgen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie den Ablauf nach § 108 Abs. 2 in die richtige Reihenfolge.",
+      "items": [
+        "Der Minderjährige schließt ohne Einwilligung einen nachteiligen Vertrag – schwebende Unwirksamkeit",
+        "Der Vertragspartner fordert die gesetzlichen Vertreter zur Erklärung über die Genehmigung auf",
+        "Eine zuvor gegenüber dem Minderjährigen erklärte Genehmigung oder Verweigerung wird unwirksam",
+        "Die Vertreter können nur noch gegenüber dem Partner binnen zwei Wochen genehmigen",
+        "Nach Fristablauf ohne Erklärung gilt die Genehmigung als verweigert"
+      ],
+      "explanation": "§ 108 Abs. 2 S. 1 und S. 2 (S. 27).",
+      "hints": [
+        "Die Aufforderung hat zwei Wirkungen und setzt eine Frist in Gang."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der 17-jährige M schließt ohne Einwilligung einen Kaufvertrag. Kurz darauf wird er 18. Was ist für die Wirksamkeit des Vertrags erforderlich?",
+      "options": [
+        "Eine – auch konkludente – Genehmigung des M selbst (§ 108 Abs. 3), wobei er mit der schwebenden Unwirksamkeit zumindest rechnen muss",
+        "Nichts, der Vertrag wird mit Eintritt der Volljährigkeit automatisch wirksam",
+        "Weiterhin die Genehmigung der Eltern als frühere gesetzliche Vertreter",
+        "Ein erneuter Vertragsschluss, da schwebend unwirksame Verträge mit Volljährigkeit erlöschen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Genehmigungsrecht geht auf den volljährig Gewordenen über; keine automatische Wirksamkeit. Konkludente Genehmigung setzt Bewusstsein der schwebenden Unwirksamkeit oder Rechnen damit voraus (BGHZ 53, 174, 178; S. 28). Eine spätere Genehmigung der Eltern ist bedeutungslos (Lösung Aufgabe 1, S. 69).",
+      "hints": [
+        "Wer ist nach Volljährigkeit zuständig?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 69
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der 15-jährige J kauft von seinem Taschengeld eine Softair-Waffe für 20 € und zahlt bar. Seine Eltern sind erklärte Waffengegner und lehnen solches Spielzeug strikt ab. Ist der Kaufvertrag wirksam?",
+      "options": [
+        "Nein, die in der Taschengeldüberlassung liegende konkludente Einwilligung erfasst diesen Kauf nicht; § 110 greift nicht.",
+        "Ja, nach § 110 ist allein entscheidend, dass J mit überlassenen Mitteln vollständig gezahlt hat.",
+        "Ja, weil ein Kauf für 20 € lediglich rechtlich vorteilhaft ist.",
+        "Nein, weil § 110 nur für Geschäfte gilt, die die Eltern ausdrücklich genehmigt haben."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach h.M. ist § 110 ein Fall konkludenter Einwilligung; gegen den erklärten Willen der Eltern geschlossene Geschäfte deckt er nicht (S. 29). Wirtschaftliche Geringfügigkeit ändert nichts an der Kaufpreispflicht (§ 107).",
+      "hints": [
+        "Wie ordnet die h.M. § 110 dogmatisch ein?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der 16-jährige M kauft ohne Einwilligung ein Notebook für 300 € auf Raten und zahlt aus freien Mitteln 75 € an sowie eine Rate von 25 €. Der Vertrag ist nach § 110 in Höhe von 100 € wirksam geworden.",
+      "answer": false,
+      "explanation": "„Bewirkt“ heißt vollständig erfüllt (§ 362). Bei Teilzahlungsgeschäften ist keine Teilerfüllung möglich; der Vertrag bleibt bis zur letzten Rate schwebend unwirksam und wird erst dann rückwirkend wirksam (S. 29).",
+      "hints": [
+        "Definition von „bewirkt“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Ein 17-jähriger Schüler kauft von seinem Taschengeld ein Lotterielos, gewinnt 4.000 Mark und kauft davon bar einen PKW für 3.200 Mark. Wie entschied das RG (RGZ 74, 234)?",
+      "options": [
+        "Der PKW-Kauf war nicht von der in der Taschengeldüberlassung liegenden Einwilligung umfasst.",
+        "Der PKW-Kauf war nach § 110 wirksam, weil Surrogate stets frei verfügbar sind.",
+        "Schon der Loskauf war unwirksam, weil Glücksspiel nie lediglich vorteilhaft ist.",
+        "Der PKW-Kauf war wirksam, weil der Schüler bar und vollständig bezahlt hat."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ob die Einwilligung Surrogate erfasst, ist unter dem Erziehungsgesichtspunkt durch Auslegung zu ermitteln; Surrogate, die den Wert der überlassenen Mittel erheblich übersteigen, sind im Zweifel ausgenommen (S. 30).",
+      "hints": [
+        "Stichwort: Surrogationsgeschäft und Erziehungsgesichtspunkt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Vorschriften ihrem Regelungsgehalt zu.",
+      "pairs": [
+        [
+          "§ 110",
+          "Vertrag wirksam durch Bewirken mit überlassenen Mitteln"
+        ],
+        [
+          "§ 112",
+          "Partielle Geschäftsfähigkeit für ein selbständiges Erwerbsgeschäft"
+        ],
+        [
+          "§ 113",
+          "Partielle Geschäftsfähigkeit für Dienst- oder Arbeitsverhältnis"
+        ],
+        [
+          "§ 131 Abs. 2",
+          "Wirksamwerden einer dem Minderjährigen gegenüber abgegebenen Erklärung"
+        ],
+        [
+          "§ 1825",
+          "Einwilligungsvorbehalt bei Betreuung"
+        ]
+      ],
+      "explanation": "S. 28–32.",
+      "hints": [
+        "Zwei Normen betreffen „partielle“ Geschäftsfähigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 30
+        },
+        {
+          "doc": "BGB_5",
+          "page": 31
+        },
+        {
+          "doc": "BGB_5",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Die Eltern haben ihrem 17-jährigen Sohn M gestattet, ein Arbeitsverhältnis seiner Wahl einzugehen. M wird Arbeiter in einem Metallbetrieb und tritt gegen den Willen der Eltern der IG Metall bei. Formulieren Sie eine kurze Prüfung im Gutachtenstil, ob M wirksam Mitglied geworden ist.",
+      "modelAnswer": "M könnte wirksam Mitglied der IG Metall geworden sein. Seine Beitrittserklärung könnte wegen seiner beschränkten Geschäftsfähigkeit (§§ 2, 106) und der fehlenden Zustimmung der Eltern nach §§ 107, 108 unwirksam sein. Der Beitritt begründet Mitgliedschaftspflichten und ist daher nicht lediglich rechtlich vorteilhaft. M könnte jedoch nach § 113 partiell unbeschränkt geschäftsfähig sein. Danach ist der Minderjährige, den der gesetzliche Vertreter zur Eingehung eines Dienst- oder Arbeitsverhältnisses ermächtigt hat, für Rechtsgeschäfte unbeschränkt geschäftsfähig, die die Eingehung oder Aufhebung eines solchen Verhältnisses oder die Erfüllung der sich daraus ergebenden Verpflichtungen betreffen. Die Eltern haben M ein Arbeitsverhältnis seiner Wahl gestattet. Fraglich ist, ob der Gewerkschaftsbeitritt zu diesem Kreis gehört. Wegen des engen Zusammenhangs zwischen Arbeitsverhältnis und Gewerkschaftszugehörigkeit – die Gewerkschaft handelt die Arbeitsbedingungen aus und berät die Arbeitnehmer – ist dies nach h.M. zu bejahen. Das Verbot der Eltern ändert daran nichts, solange die Gestattung besteht. M ist somit wirksam Mitglied der IG Metall geworden.",
+      "rubric": [
+        "Obersatz im Konjunktiv",
+        "Beitritt nicht lediglich rechtlich vorteilhaft",
+        "§ 113: Gestattung, Reichweite (Eingehung, Aufhebung, Erfüllung)",
+        "Subsumtion: enger Zusammenhang Arbeitsverhältnis – Gewerkschaft (h.M.)",
+        "Ergebnis: wirksame Mitgliedschaft"
+      ],
+      "hints": [
+        "§ 113 verleiht keine allgemeine Geschäftsfähigkeit – was genau umfasst er?",
+        "Beispiel S. 31."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 30
+        },
+        {
+          "doc": "BGB_5",
+          "page": 31
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Das Smartphone des fast volljährigen M (Selbsttestaufgabe 1)",
+    "facts": "Am 2. September 2023 schließt der 17-jährige M ohne Einwilligung seiner Eltern mit dem Händler H schriftlich einen Vertrag über den Kauf eines Smartphones zum Preis von 1.300 €. Das Gerät soll am 17. September 2023 unter Eigentumsvorbehalt geliefert werden, falls M bis zum 16. September 500 € angezahlt hat; der Rest ist in Monatsraten von je 100 € zu zahlen. Am 12. September 2023 wird M 18 Jahre alt. Weil er nun Geld für den Führerschein braucht, schreibt er H am 13. September, er nehme von dem Vertrag Abstand. Die Eltern schreiben H unter dem 20. September 2023, sie bäten wegen des Verhaltens ihres Sohnes um Entschuldigung und genehmigten selbstverständlich den Vertrag. Beide Schreiben gehen H zu.",
+    "question": "Hat H gegen M einen Anspruch auf Zahlung des Kaufpreises?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "H könnte gegen M einen Anspruch auf Zahlung von 1.300 € aus § 433 Abs. 2 BGB haben. Dazu müsste zwischen H und M ein wirksamer Kaufvertrag über das Smartphone zustande gekommen sein.",
+        "rubric": [
+          "Anspruchsgrundlage § 433 Abs. 2 BGB",
+          "Anspruchsteller, -gegner, Inhalt",
+          "Konjunktiv; Voraussetzung: wirksamer Kaufvertrag"
+        ],
+        "hints": [
+          "Wer will was von wem woraus?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Nennen Sie die maßgeblichen Voraussetzungen und Definitionen (beschränkte Geschäftsfähigkeit, lediglich rechtlicher Vorteil, Rechtsfolge fehlender Einwilligung, § 108 Abs. 3).",
+        "model": "Beschränkt geschäftsfähig ist, wer das 7., aber nicht das 18. Lebensjahr vollendet hat (§§ 2, 106 BGB). Seine Willenserklärung bedarf nach § 107 BGB der Einwilligung des gesetzlichen Vertreters, wenn er durch sie nicht lediglich einen rechtlichen Vorteil erlangt. Einen lediglich rechtlichen Vorteil bringen nur Geschäfte, die seine Rechtsstellung ausschließlich verbessern; ein Nachteil liegt vor, sobald ihn irgendeine Verpflichtung trifft. Maßgeblich ist allein die rechtliche, nicht die wirtschaftliche Betrachtung. Fehlt die Einwilligung, ist ein Vertrag schwebend unwirksam; seine Wirksamkeit hängt von der Genehmigung des Vertreters ab (§ 108 Abs. 1 BGB). Wird der Minderjährige während des Schwebezustands unbeschränkt geschäftsfähig, tritt seine eigene Genehmigung an die Stelle der Genehmigung des Vertreters (§ 108 Abs. 3 BGB); mit der Volljährigkeit wird die Erklärung nicht automatisch wirksam.",
+        "rubric": [
+          "§§ 2, 106 BGB",
+          "Definition lediglich rechtlicher Vorteil / Nachteil; rechtliche Betrachtung",
+          "§ 108 Abs. 1: schwebende Unwirksamkeit, Genehmigung",
+          "§ 108 Abs. 3: Zuständigkeit des volljährig Gewordenen, keine automatische Wirksamkeit"
+        ],
+        "hints": [
+          "Welche Norm regelt den Eintritt der Volljährigkeit während des Schwebezustands?"
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie den Sachverhalt.",
+        "model": "H und M haben sich am 2. September 2023 schriftlich über den Kauf des Smartphones für 1.300 € geeinigt. M war zu diesem Zeitpunkt 17 Jahre alt und damit beschränkt geschäftsfähig. Durch den Kaufvertrag erwarb er zwar einen Anspruch auf Übereignung des Geräts (§ 433 Abs. 1 BGB), verpflichtete sich aber zugleich zur Zahlung des Kaufpreises (§ 433 Abs. 2 BGB). Diese Zahlungspflicht ist ein rechtlicher Nachteil; auf die wirtschaftliche Bewertung kommt es nicht an. Eine Einwilligung der Eltern lag nicht vor. Der Vertrag war daher zunächst schwebend unwirksam (§§ 107, 108 Abs. 1 BGB). Am 12. September 2023 wurde M volljährig. Dadurch wurde der Vertrag nicht von selbst wirksam; von nun an war nach § 108 Abs. 3 BGB allein M zur Entscheidung über die Genehmigung berufen. Mit seinem Schreiben vom 13. September, er nehme von dem Vertrag Abstand, hat M gegenüber H unmissverständlich zum Ausdruck gebracht, dass er den Vertrag nicht gelten lassen will; darin liegt die Verweigerung der Genehmigung. Damit ist der Vertrag endgültig unwirksam geworden. Die Genehmigung der Eltern vom 20. September 2023 geht ins Leere: Zum einen waren sie nach Eintritt der Volljährigkeit nicht mehr gesetzliche Vertreter des M, zum anderen war der Schwebezustand bereits beendet.",
+        "rubric": [
+          "Einigung am 2.9. festgestellt",
+          "M beschränkt geschäftsfähig; Zahlungspflicht = rechtlicher Nachteil",
+          "Keine Einwilligung → schwebend unwirksam",
+          "Volljährigkeit: keine automatische Wirksamkeit, § 108 Abs. 3",
+          "Schreiben vom 13.9. als Verweigerung ausgelegt",
+          "Genehmigung der Eltern bedeutungslos"
+        ],
+        "hints": [
+          "Wer durfte am 20. September noch genehmigen?",
+          "Wie ist das Schreiben vom 13. September auszulegen?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Ein wirksamer Kaufvertrag zwischen H und M ist nicht zustande gekommen; er ist durch die Verweigerung der Genehmigung durch M endgültig unwirksam. H hat gegen M keinen Anspruch auf Zahlung des Kaufpreises aus § 433 Abs. 2 BGB.",
+        "rubric": [
+          "Ergebnis im Indikativ",
+          "Beantwortung der Fallfrage: kein Anspruch aus § 433 Abs. 2 BGB"
+        ],
+        "hints": [
+          "Greifen Sie den Obersatz wieder auf."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_5",
+        "page": 28
+      },
+      {
+        "doc": "BGB_5",
+        "page": 69
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Was unterscheidet Verpflichtungs- und Verfügungsgeschäft?",
+      "back": "Das Verpflichtungsgeschäft begründet Ansprüche (z.B. § 433); das Verfügungsgeschäft hebt ein Recht unmittelbar auf, überträgt, belastet oder ändert es inhaltlich (A-U-B-I, z.B. § 929 S. 1).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 6
+        },
+        {
+          "doc": "BGB_5",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "front": "Welche zwei Aufgaben erfüllt das Verpflichtungsgeschäft im Warenverkehr?",
+      "back": "Es bereitet die Güterbewegung vor (Anspruch auf Vornahme der Verfügung) und sichert sie als rechtlicher Grund (causa).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen des § 929 S. 1?",
+      "back": "Dingliche Einigung (Vertrag, auch konkludent) und Übergabe (Realakt: Übertragung des unmittelbaren Besitzes) durch den Berechtigten.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 8
+        },
+        {
+          "doc": "BGB_5",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "front": "Trennungsprinzip vs. Abstraktionsprinzip?",
+      "back": "Trennung: zwei Rechtsgeschäfte. Abstraktion: Die Verfügung ist inhaltlich (keine Zweckangabe) und äußerlich (Wirksamkeit unabhängig vom Kausalgeschäft) gelöst. Gegenmodelle: Einheitsprinzip bzw. Kausalprinzip.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "front": "Wie wird eine wirksame Verfügung bei nichtigem Kausalgeschäft korrigiert?",
+      "back": "Über die Leistungskondiktion, § 812 Abs. 1 S. 1 Var. 1 (Rückübereignung).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "front": "Geschäfts-, Rechts-, Deliktsfähigkeit – Prüfungsstandorte?",
+      "back": "Rechtsfähigkeit: Anspruchsinhaber/-gegner; Geschäftsfähigkeit: Wirksamkeit einer WE; Deliktsfähigkeit: Verschulden (§§ 827, 828).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Rechtsfolge einer WE eines Geschäftsunfähigen?",
+      "back": "Nichtig (§ 105 Abs. 1), also dauernd unwirksam – eine Genehmigung ist nicht möglich.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "front": "Wann ist ein Geschäft lediglich rechtlich vorteilhaft?",
+      "back": "Wenn es die Rechtsstellung des Minderjährigen nur verbessert; schon jede Haupt- oder Nebenpflicht ist ein Nachteil. Rechtliche, nicht wirtschaftliche Betrachtung; §§ 812, 823-Ansprüche bleiben außer Betracht.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "front": "Minderjähriger kauft und erhält eine Sache ohne Einwilligung – Rechtslage?",
+      "back": "Kaufvertrag schwebend unwirksam (§§ 107, 108 I), Übereignung an ihn wirksam (lediglich vorteilhaft, Abstraktionsprinzip); bei Verweigerung Rückabwicklung über § 812.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "front": "Ist der Erwerb einer Eigentumswohnung lediglich vorteilhaft?",
+      "back": "Nein (BGHZ 187, 119): Mitgliedschaft in der Gemeinschaft, Kostentragung (§ 16 II WEG), Haftung (§ 9a IV WEG); Nießbrauch des Schenkers ändert nichts.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 24
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "front": "Wirkungen der Aufforderung nach § 108 Abs. 2?",
+      "back": "Erklärung nur noch gegenüber dem Partner; frühere Erklärung gegenüber dem Minderjährigen wird unwirksam; Genehmigung nur binnen zwei Wochen, sonst gilt sie als verweigert.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "front": "§ 108 Abs. 3 – was gilt bei Eintritt der Volljährigkeit?",
+      "back": "Keine automatische Wirksamkeit; der volljährig Gewordene genehmigt selbst (auch konkludent, wenn er mit der Unwirksamkeit rechnet).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "front": "Dogmatik und Voraussetzung des § 110?",
+      "back": "Nach h.M. konkludente Einwilligung durch Mittelüberlassung; Vertrag muss mit diesen Mitteln vollständig erfüllt (bewirkt, § 362) sein – bei Raten erst mit der letzten Rate.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "front": "Umfang von § 113?",
+      "back": "Eingehung und Aufhebung eines Dienst-/Arbeitsverhältnisses und Erfüllung der Pflichten daraus (h.M.: auch Gewerkschaftsbeitritt); nicht Berufsausbildungsverträge; keine allgemeine Geschäftsfähigkeit.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 30
+        },
+        {
+          "doc": "BGB_5",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "front": "Wann wird eine dem Minderjährigen gegenüber abgegebene Erklärung wirksam?",
+      "back": "Grundsätzlich mit Zugang beim gesetzlichen Vertreter; mit Zugang beim Minderjährigen nur, wenn sie lediglich vorteilhaft ist oder der Vertreter eingewilligt hat (§ 131 Abs. 2).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 31
+        }
+      ]
+    }
+  ]
+}

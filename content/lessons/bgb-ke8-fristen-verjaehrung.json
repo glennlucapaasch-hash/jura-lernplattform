@@ -1,0 +1,1293 @@
+{
+  "id": "bgb-ke8-fristen-verjaehrung",
+  "moduleId": "55101",
+  "ke": 8,
+  "topicIds": [
+    "bgb-ke8-s20",
+    "bgb-ke8-s21"
+  ],
+  "title": "Fristen und Termine (§§ 186–193 BGB) und die Verjährung",
+  "estMinutes": 90,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Bedeutung von Fristen und Terminen; Anwendungsbereich der §§ 186 ff. BGB",
+      "short": "Zeitbestimmungen entscheiden häufig darüber, ob eine Rechtswirkung eintritt (z.B. Volljährigkeit, Kündigungs- oder Annahmefrist). Die §§ 187–193 BGB sind materielle Auslegungsregeln: Sie gelten nach § 186 für Fristen und Termine in Gesetzen, gerichtlichen Verfügungen und Rechtsgeschäften, treten aber zurück, wenn schon die Auslegung (§§ 133, 157) eindeutig ist oder Datum und Uhrzeit genau bestimmt sind. Fristen nach Tagen, Wochen, Monaten oder Jahren werden nach ganzen Kalendertagen berechnet (Zivilkomputation).",
+      "long": "## Der Faktor Zeit (S. 5)\n\nZeit ist oft **gesetzliche Voraussetzung** für den Eintritt oder Nichteintritt einer Rechtswirkung: unbeschränkte Geschäftsfähigkeit mit Vollendung des 18. Lebensjahres (§§ 2, 106 BGB), Erlöschen des Urheberrechts 70 Jahre nach dem Tod des Urhebers (§ 64 UrhG). Auch **vertragliche oder einseitige** Zeitbestimmungen wirken so: Wird eine vertragliche Kündigungsfrist nicht eingehalten, besteht der Vertrag fort; wird die Annahmefrist des § 148 BGB versäumt, kommt trotz Annahmeerklärung kein Vertrag zustande.\n\n## Rechtsnatur und Subsidiarität (S. 5)\n\nDie §§ 187–193 BGB sind **materielle Auslegungsregeln**. Sie sollen sicherstellen, dass mehrdeutige Zeitangaben so verstanden werden, wie es der mutmaßlichen Absicht dessen entspricht, der die Frist setzt. Sie sind **subsidiär**: Sie greifen nicht, wenn\n- die Auslegung nach §§ 133, 157 BGB bereits zu einem eindeutigen Ergebnis führt oder\n- die Frist durch Datum und Uhrzeit so genau bestimmt ist, dass keine Auslegung nötig ist.\n\n**Beispiele (S. 6):**\n1. „bis Donnerstag, den 7. November um 12 Uhr mittags“ – weder Auslegung noch §§ 187 ff. nötig.\n2. „bis einschließlich Donnerstag, den 7. November“ – nach Sprachgebrauch Ende am 7. November um 24.00 Uhr; kein Raum für §§ 187–193.\n3. „heute in 8 Tagen“ – nach Sprachgebrauch wohl der gleiche Wochentag der nächsten Woche (bei Handelsgeschäften aber § 359 Abs. 2 HGB beachten); die §§ 187 ff. regeln diese Wendung ohnehin nicht.\n\n## Anwendungsbereich (S. 6)\n\nNach **§ 186 BGB** gelten die §§ 187–193 für Frist- und Terminbestimmungen in **Gesetzen, gerichtlichen Verfügungen und Rechtsgeschäften**. Gesetz ist nach Art. 2 EGBGB jede Rechtsnorm – die Regeln gelten daher in allen Rechtsgebieten, soweit keine Sondervorschriften bestehen. Die ZPO hat eigene Regeln (§§ 221, 223 ZPO), ordnet aber in § 222 ZPO die entsprechende Geltung der §§ 187 ff. an.\n\n## Frist, Termin, Zivilkomputation (S. 6)\n\n- **Frist:** bestimmter oder bestimmbarer *Zeitraum*, innerhalb dessen eine Rechtshandlung vorzunehmen ist oder ein Ereignis eintreten soll.\n- **Termin:** bestimmter *Zeitpunkt*, an dem eine Rechtshandlung vorzunehmen ist oder eine Rechtswirkung eintreten soll.\n- **Zivilkomputation** (§§ 187–189): Fristen nach Tagen, Wochen, Monaten oder Jahren werden nach **ganzen Kalendertagen** berechnet. Für Fristen nach Stunden oder Minuten gelten §§ 187–189 nicht.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 5
+        },
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Fristbeginn: § 187 Abs. 1 und Abs. 2 BGB",
+      "short": "Ist für den Fristbeginn ein Ereignis oder ein in den Lauf des Tages fallender Zeitpunkt maßgeblich, wird dieser Tag nicht mitgerechnet (§ 187 Abs. 1) – die Frist beginnt am Folgetag um 0.00 Uhr. Ist der Beginn eines Tages maßgeblich, zählt dieser Tag mit (§ 187 Abs. 2 S. 1). Beim Lebensalter wird der Geburtstag stets mitgerechnet (§ 187 Abs. 2 S. 2).",
+      "long": "## Ereignisfrist – § 187 Abs. 1 BGB (S. 6–7)\n\nMeist knüpft der Fristbeginn an ein **Ereignis** oder einen in den Lauf eines Tages fallenden Zeitpunkt an. Dann wird der Tag des Ereignisses **nicht mitgerechnet**. So verhindert die Zivilkomputation, dass Bruchteile von Tagen in die Berechnung einfließen.\n\n**Beispiel (S. 7):** A setzt B am Donnerstag um 14 Uhr eine Frist von 5 Tagen. Ereignis ist die Fristsetzung. Die Frist beginnt am **Freitag um 0.00 Uhr**.\n\n## Beginn eines Tages – § 187 Abs. 2 S. 1 BGB (S. 7)\n\nIst der **Anfang eines Tages** als Fristbeginn bestimmt (z.B. „ab dem 01.09.“), wird dieser Tag **mitgerechnet**.\n\n**Beispiel (S. 7):** A vereinbart mit P, dass der Pachtzins ab dem 01.03. zu zahlen ist. Die Zahlungspflicht besteht schon für den 01.03.\n\n## Lebensalter – § 187 Abs. 2 S. 2 BGB (S. 7)\n\nObwohl die Geburt in den Lauf eines Tages fällt (eigentlich § 187 Abs. 1), wird der **Geburtstag** bei der Berechnung des Lebensalters **mitgezählt**. Das entspricht der Verkehrsanschauung.\n\n**Beispiel (S. 7):** Ein am 12.08.2024 um 23.57 Uhr geborenes Kind gilt als am 12.08.2024 um 0.00 Uhr geboren.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        },
+        {
+          "doc": "BGB_8",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Fristende: § 188 BGB",
+      "short": "Tagesfristen enden mit Ablauf des letzten Tages (§ 188 Abs. 1). Wochen- und Monatsfristen enden im Fall des § 187 Abs. 1 mit Ablauf des Tages, der durch Benennung oder Zahl dem Ereignistag entspricht, im Fall des § 187 Abs. 2 einen Tag früher (§ 188 Abs. 2). Fehlt der entsprechende Tag im letzten Monat, endet die Frist mit dessen letztem Tag (§ 188 Abs. 3). Fristen bis 24.00 Uhr sind praktisch oft nur innerhalb der Geschäftszeiten zu wahren.",
+      "long": "## Tagesfristen – § 188 Abs. 1 BGB (S. 7)\n\nEine nach Tagen bestimmte Frist endet mit dem **Ablauf des letzten Tages** (24.00 Uhr), nicht irgendwann im Laufe des Tages.\n\n**Beispiele (S. 7):**\n1. Fristsetzung Donnerstag 14 Uhr, 5 Tage: Beginn Freitag 0.00 Uhr, Ende **Dienstag 24.00 Uhr**.\n2. Frist „bis zum Donnerstag“: Ende Donnerstag 24.00 Uhr.\n3. *Fahrradverleih:* M mietet am 26.7. um 12.30 Uhr ein Rad „für einen Tag“ (10 Euro/Tag) und bringt es am 27.7. um 12 Uhr zurück. Das Skript weist darauf hin, dass in der Praxis unterschiedliche Vereinbarungen getroffen werden (Skipass: nur derselbe Tag; Mietwagen: meist 24 Stunden). Nach den gesetzlichen Regeln (das Skript nennt §§ 187 Abs. 2 S. 1, 188 Abs. 1) müsste M **20 Euro** zahlen, weil mit dem 27.7. ein neuer Kalendertag beginnt. *Hinweis:* Vorrangig ist stets die Auslegung der konkreten Vereinbarung.\n\n## Wochen- und Monatsfristen – § 188 Abs. 2 BGB (S. 7–8)\n\n- **Fall des § 187 Abs. 1 (Ereignisfrist):** Ende am gleichen Wochen- bzw. Monatstag wie das fristauslösende Ereignis.\n  - *Beispiel (S. 8):* Fristsetzung Donnerstag, 12. September, 14.00 Uhr, 2 Wochen → Ende **Donnerstag, 26. September, 24.00 Uhr**.\n- **Fall des § 187 Abs. 2 S. 1 (Beginnfrist):** Ende **einen Tag früher**, weil die Frist schon mit Tagesbeginn lief.\n  - *Beispiel (S. 8):* Fristbeginn bestimmt auf Donnerstag, 12. September, 2 Wochen → Ende **Mittwoch, 25. September, 24.00 Uhr**.\n\n**Merkhilfe des Skripts (S. 8):** Ereignis 08.05. → Beginn 09.05., 0 Uhr → Frist ein Monat → Ende 08.06., 24.00 Uhr.\n\n## Geschäftszeiten (S. 8)\n\nFristen bis 24.00 Uhr können oft nicht bis zum letzten Augenblick ausgenutzt werden. **Beispiel:** A (Geschäft in Köln) bietet B am 12. September einen Kaufvertrag an und hält sich fünf Tage gebunden (Annahmefrist, § 148). Fristbeginn 13. September 0.00 Uhr (§ 187 Abs. 1), Ende 17. September 24.00 Uhr (§ 188 Abs. 1). Die Annahme muss so in den Machtbereich der A gelangen, dass unter normalen Umständen Kenntnisnahme möglich ist – also spätestens am 17. September **innerhalb der üblichen Geschäftszeiten**. Wirft ein Freund des B den Brief erst um 22.45 Uhr ein, ist A nicht mehr gebunden.\n\n## Lebensalter (S. 8–9)\n\nBeim Lebensalter liegt ein Fall des § 187 Abs. 2 (S. 2) vor; daher § 188 Abs. 2 **2. Alt.**: Ein Lebensjahr wird mit **Ablauf des Tages vor dem Geburtstag** vollendet.\n- Kind geboren 12.08.2024, 23.57 Uhr → erstes Lebensjahr vollendet mit Ablauf des 11.08.2025.\n- Wer seinen 18. Geburtstag feiert, ist an diesem Tag schon um 0 Uhr volljährig (§ 2).\n- Geburt am 01.03.2022 → das nächste Lebensjahr wird jeweils mit dem letzten Tag des Februars erreicht, gleich ob Schaltjahr.\n\n## Fehlender Tag – § 188 Abs. 3 BGB (S. 9)\n\nFehlt im letzten Monat der für den Ablauf maßgebende Tag, endet die Monatsfrist mit Ablauf des **letzten Tages dieses Monats**. **Beispiel:** Eine im Laufe des 31.08. ausgelöste Monatsfrist (§ 187 Abs. 1) endet am **30.09.**, nicht am 01.10.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 7
+        },
+        {
+          "doc": "BGB_8",
+          "page": 8
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Sonnabende, Sonn- und Feiertage (§ 193 BGB); Termine (§ 192 BGB)",
+      "short": "Ist an einem bestimmten Tag oder innerhalb einer Frist eine Willenserklärung abzugeben oder eine Leistung zu bewirken und fällt dieser Tag auf einen Samstag, Sonntag oder am Erklärungs- bzw. Leistungsort staatlich anerkannten allgemeinen Feiertag, tritt der nächste Werktag an seine Stelle (§ 193). Die Regel gilt analog für Ausschluss- und Verjährungsfristen, nicht aber für das Lebensalter. § 192 legt Anfang, Mitte und Ende des Monats fest.",
+      "long": "## „Sa-So-Fei-Regelung“ – § 193 BGB (S. 9)\n\nFällt der bestimmte Tag oder der **letzte Tag einer Frist**, an dem bzw. innerhalb derer eine **Willenserklärung abzugeben** oder eine **Leistung zu bewirken** ist, auf einen **Samstag (Sonnabend), Sonntag** oder einen am Erklärungs- oder Leistungsort **staatlich anerkannten allgemeinen Feiertag**, tritt der **nächste Werktag** an seine Stelle. Parallelen: § 222 Abs. 2 ZPO; § 57 Abs. 2 VwGO verweist auf die ZPO; § 31 Abs. 3 VwVfG NRW regelt es selbständig.\n\n**Keine Feiertage (S. 9):** Rosenmontag (auch in NRW), 24.12. (Heiligabend) und 31.12. (Silvester) sind normale Werktage – mit dem Empfang von Erklärungen muss gerechnet werden.\n\n**Beispiel (S. 9):** Eine eigentlich am Sonntag, 10. November, 24.00 Uhr endende Frist endet am **Montag, 11. November, 24.00 Uhr**.\n\n## Zweck und Reichweite (S. 9–10)\n\nAn diesen Tagen findet grundsätzlich kein geschäftlicher Verkehr statt; Erklärung oder Leistung sind vielfach nicht möglich oder unzumutbar. Die Regel gilt daher **auch dann**, wenn eine Vertragspartei ihren Betrieb an diesen Tagen geöffnet hat. Über den Wortlaut hinaus ist § 193 nach allgemeiner Ansicht auf **Ausschluss- und Verjährungsfristen analog** anwendbar (Skript S. 10 mit Hinweis auf BGH NJW 2021, 153).\n\n**Nicht beim Lebensalter (S. 10):** Wer am 26.12.2020 geboren ist, vollendet sein 18. Lebensjahr mit Ablauf des 25.12.2038 – obwohl der 25. und 26.12. Feiertage sind.\n\n## Termine – § 192 BGB (S. 10)\n\n- **Anfang des Monats** = 1. Tag, **Mitte** = 15. Tag, **Ende** = letzter Tag.\n- Für die Woche fehlt eine Regelung; nach allgemeiner Lebensauffassung und in Anlehnung an ISO 8601 wohl: Anfang = Montag, Mitte = Mittwoch, Ende (bei Arbeitstagen) = Freitag.\n- § 193 gilt auch für Termine.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 9
+        },
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Sinn und Wirkung der Verjährung",
+      "short": "Ansprüche (§ 194 Abs. 1) unterliegen der Verjährung; andere subjektive Rechte, etwa Gestaltungsrechte, nicht (vgl. § 218 für den Rücktritt). Die Verjährung lässt den Anspruch nicht erlöschen, sondern gibt dem Schuldner eine Einrede: Erhebt er sie, darf er die Leistung dauernd verweigern (§ 214 Abs. 1). Das Gericht prüft die Verjährung nicht von Amts wegen. Leistet der Schuldner trotz Verjährung, kann er das Geleistete nicht zurückfordern (§ 214 Abs. 2).",
+      "long": "## Gegenstand der Verjährung (S. 11)\n\nAlle gesetzlichen und vertraglichen **Ansprüche** (Legaldefinition § 194 Abs. 1: Recht, von einem anderen ein Tun oder Unterlassen zu verlangen) unterliegen nach §§ 194 ff. der Verjährung. **Nur Ansprüche** verjähren. Das **Rücktrittsrecht** ist als Gestaltungsrecht kein Anspruch und verjährt nicht; es kann aber durch Zeitablauf unwirksam werden (§ 218).\n\n## Zweck und Wirkung (S. 11)\n\nZweck: **Rechtssicherheit und Rechtsfrieden**. Die Verjährung begründet eine **Einrede** (Leistungsverweigerungsrecht). Hat der Schuldner sie erhoben, darf er die Leistung **dauernd verweigern** (§ 214 Abs. 1). Der Anspruch **besteht fort**.\n\n„**Über Einreden muss man reden**“: Der Schuldner entscheidet, ob er sich auf die Verjährung beruft. Ein Gericht darf die Verjährung **nicht von Amts wegen** prüfen.\n\n**Beispiel (S. 11):** K kauft bei V einen Fernseher, der zwei Jahre und drei Monate nach Übergabe einen schweren Defekt aufweist. Mängelansprüche verjähren nach § 438 Abs. 1 Nr. 3 in zwei Jahren ab Ablieferung. V kann sich auf Verjährung berufen – aus Kulanz gegenüber einem guten Kunden wird er es aber vielleicht nicht tun.\n\n## Leistung trotz Verjährung (S. 11–12)\n\nDer verjährte Anspruch bleibt erfüllbar, bis die Einrede erhoben ist. Leistet der Schuldner in Unkenntnis der Verjährung, kann er das Geleistete **nicht zurückverlangen** (§ 214 Abs. 2). Es liegt in seiner Risikosphäre, vor der Leistung die Verjährung zu prüfen; umgekehrt sollte der Gläubiger vor einer Klage prüfen, ob der Schuldner die Einrede erheben könnte.\n\n## Prüfungsstandort (S. 12)\n\n**Merke:** Die Verjährung wird beim Prüfungspunkt **„Anspruch durchsetzbar“** geprüft. Beruft sich der Schuldner im Sachverhalt nicht auf die Verjährung, ist sie nicht weiter zu prüfen. Aus dem Standort im Allgemeinen Teil folgt zudem, dass sich die Fristen des Bürgerlichen Rechts grundsätzlich nach §§ 186 ff. berechnen; auch ZPO, VwVfG und VwGO verweisen darauf.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Verjährungsfristen und ihr Beginn",
+      "short": "Die regelmäßige Verjährungsfrist beträgt drei Jahre (§ 195) und beginnt mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis von den anspruchsbegründenden Umständen und der Person des Schuldners erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen müssen (§ 199 Abs. 1). Sonderfristen: zwei Jahre für Mängelansprüche beim Kauf beweglicher Sachen ab Ablieferung (§ 438 Abs. 1 Nr. 3, Abs. 2), fünf Jahre bei Bauwerken, zehn Jahre nach § 196, dreißig Jahre nach § 197. Diese Fristen beginnen grundsätzlich mit Entstehung des Anspruchs bzw. dem gesetzlich bestimmten Ereignis.",
+      "long": "## Die Fristen (S. 12–13)\n\n| Frist | Beispiele | Norm |\n|---|---|---|\n| 3 Jahre (regelmäßig) | Kaufpreis, Übergabe und Übereignung, Schadensersatz wegen Pflichtverletzung, Ansprüche aus § 812 | § 195 |\n| 2 Jahre ab Ablieferung | Mängelansprüche beim Kauf beweglicher Sachen – auch bei verborgenen Mängeln, unabhängig von Kenntnis | § 438 Abs. 1 Nr. 3, Abs. 2 |\n| 5 Jahre | Mängel an einem gekauften Bauwerk | § 438 Abs. 1 Nr. 2 |\n| 2 Jahre ab Abnahme / 5 Jahre bei Bauwerk | Mängelansprüche beim Werkvertrag | § 634a Abs. 1 Nr. 2, Abs. 2 |\n| 10 Jahre | Übertragung des Eigentums an Grundstücken, Begründung von Rechten an Grundstücken (z.B. Grundschuld) | § 196 |\n| 30 Jahre | Schadensersatz wegen vorsätzlicher Verletzung von Leben, Körper, Gesundheit, Freiheit oder sexueller Selbstbestimmung; Herausgabeansprüche aus Eigentum und anderen dinglichen Rechten; einige familien- und erbrechtliche Ansprüche; rechtskräftig festgestellte Ansprüche; im Insolvenzverfahren festgestellte vollstreckbare Ansprüche | § 197 |\n\n## Beginn der regelmäßigen Verjährung – § 199 Abs. 1 (S. 13)\n\nDie Drei-Jahres-Frist beginnt mit dem **Schluss des Jahres**, in dem\n1. der Anspruch **entstanden** ist (Nr. 1) **und**\n2. der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners **Kenntnis** erlangt oder ohne **grobe Fahrlässigkeit** erlangen müsste (Nr. 2).\n\nMaßgeblich ist der 31.12. des Jahres, in dem das *spätere* der beiden Ereignisse eintritt.\n\n**Beispiel (S. 13):** K kauft am 12.08.2021 bei V einen Gebrauchtwagen für 13.200 €, zahlt aber nicht; V fällt das erst Anfang September 2024 ein. K beruft sich auf Verjährung.\n- Ereignis: 31.12.2021 (§ 199 Abs. 1); Ereignistag wird nicht mitgerechnet (§ 187 Abs. 1) → Beginn 01.01.2022, 0.00 Uhr.\n- Dauer drei Jahre (§ 195) → Ende mit Ablauf des 31.12.2024 (§ 188 Abs. 2).\n- Bei Erhebung der Einrede im September 2024 ist der Anspruch **noch nicht verjährt**.\n\n§ 199 Abs. 2 und 3 enthalten **Höchstfristen**, nach deren Ablauf die Verjährung unabhängig von Kenntnis eintritt (S. 13).\n\n## Beginn sonstiger Fristen (S. 14)\n\nAnsprüche, die nicht der Regelfrist unterliegen, verjähren grundsätzlich ab **Entstehung**, soweit nichts anderes bestimmt ist. Die zweijährige Frist für Mängelansprüche beginnt\n- beim Kauf beweglicher Sachen mit der **Ablieferung** (§ 438 Abs. 2),\n- bei Verbraucherverträgen über digitale Produkte grundsätzlich mit der **Bereitstellung** (§§ 327e Abs. 1 S. 2, 327b),\n- beim Werkvertrag im Regelfall mit der **Abnahme** (§ 634a Abs. 2).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 13
+        },
+        {
+          "doc": "BGB_8",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Vereinbarungen über die Verjährung",
+      "short": "Verjährungsfristen können grundsätzlich vertraglich verkürzt oder verlängert werden. § 202 verbietet nur, die Haftung wegen Vorsatzes im Voraus zu erleichtern oder die Frist über 30 Jahre hinaus zu verlängern. In AGB darf die Frist bei neu hergestellten Sachen und Werkleistungen nicht unter ein Jahr verkürzt werden (§ 309 Nr. 8 b) ff)); beim Verbrauchsgüterkauf setzt § 476 Abs. 2 auch Individualvereinbarungen Grenzen (neue Sachen: zwei Jahre, gebrauchte: ein Jahr).",
+      "long": "## Grundsatz und Grenzen – § 202 (S. 14)\n\nDie Verjährungsfrist kann durch Vereinbarung **verkürzt oder verlängert** werden. § 202 schließt nur aus,\n- die Haftung wegen **Vorsatzes** zu erleichtern oder auszuschließen,\n- die Verjährungsfrist **über 30 Jahre** hinaus zu verlängern.\n\n## Verlängerung (S. 14)\n\nKäufern von Markenartikeln werden oft längere Fristen eingeräumt („Garantiefrist“). **Beispiel:** Ein Autohersteller garantiert, dass die Karosserie acht Jahre lang nicht durchrostet. Bauherren haben häufig Interesse an einer Verlängerung über die fünf Jahre des § 634a hinaus.\n\n## Verkürzung (S. 14–15)\n\n**Beispiel (S. 14):** Der Verkäufer halbjährlich erscheinender Zeitschriften möchte nicht zwei Jahre lang (§ 438) wegen Mängeln haftbar sein.\n\nVerkürzungen sind möglich, aber eingeschränkt:\n- **AGB:** Nach § 309 Nr. 8 b) ff) darf die Frist bei Verträgen über Lieferungen **neu hergestellter Sachen** und über **Werkleistungen** **ein Jahr nicht unterschreiten**; eine dagegen verstoßende Klausel ist unwirksam. Eine **Individualvereinbarung** unter einem Jahr ist dagegen (außerhalb des Verbrauchsgüterkaufs) wirksam.\n- **Verbrauchsgüterkauf:** Nach § 476 Abs. 2 kann die Zwei-Jahres-Frist für die Rechte aus § 437 bei **neuen Sachen** auch individualvertraglich nicht unterschritten werden; bei **gebrauchten Sachen** darf sie nicht unter **einem Jahr** liegen (Einzelheiten im Schuldrecht BT).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 14
+        },
+        {
+          "doc": "BGB_8",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Hemmung, Ablaufhemmung, Neubeginn; Ausschlussfristen",
+      "short": "Hemmung bedeutet, dass bestimmte Zeiträume nicht in die Verjährungsfrist eingerechnet werden (§ 209), etwa bei Klageerhebung, Zustellung eines Mahnbescheids (§ 204 Abs. 1 Nr. 1, 3), Stundung (§ 205), höherer Gewalt (§ 206), familiären Gründen (§ 207) oder Verhandlungen (§ 203). Beim Neubeginn (§ 212: Anerkenntnis, Vollstreckungshandlung) läuft die volle Frist von vorn. Ausschlussfristen betreffen Gestaltungsrechte; mit ihrem Ablauf erlischt das Recht, und das Gericht berücksichtigt dies von Amts wegen.",
+      "long": "## Überblick (S. 15)\n\nDer Ablauf der Verjährungsfrist muss beeinflusst werden, wenn der Schuldner den Anspruch als bestehend anerkennt, wenn anerkennenswerte Gründe den Gläubiger an der Geltendmachung hindern oder wenn er bereits ernsthafte Schritte zur Durchsetzung unternommen hat. Das BGB kennt:\n- **Hemmung:** bestimmte Zeiten werden nicht eingerechnet;\n- **Ablaufhemmung:** Unterfall der Hemmung – die Frist läuft frühestens eine bestimmte Zeit nach Wegfall des Hindernisses ab;\n- **Neubeginn:** die bisher verstrichene Zeit zählt nicht mehr; die Frist beginnt erneut.\n\n## Hemmungsgründe (S. 15–16)\n\n- Klageerhebung (§ 204 Abs. 1 Nr. 1);\n- Zustellung eines Mahnbescheids (§ 204 Abs. 1 Nr. 3);\n- Anmeldung im Insolvenzverfahren (§ 204 Abs. 1 Nr. 10);\n- Vereinbarung eines vorübergehenden Leistungsverweigerungsrechts, z.B. **Stundung** (§ 205);\n- **höhere Gewalt** (§ 206): Verhinderung durch Ereignisse, die auch mit der vom Berechtigten billigerweise zu erwartenden Sorgfalt nicht zu verhüten waren; schon geringstes eigenes Verschulden schließt sie aus (Beispiel: überraschende, unvorbereitete schwere Erkrankung);\n- familiäre und ähnliche Gründe (§ 207), z.B. Ansprüche unter Ehegatten und Lebenspartnern, solange Ehe bzw. Lebenspartnerschaft besteht;\n- **Verhandlungen** über den Anspruch oder die anspruchsbegründenden Umstände (§ 203) – bis ein Teil die Fortsetzung verweigert. Bei Verschleppen oder Einschlafenlassen gelten die Verhandlungen als beendet, wenn nach Treu und Glauben ein Schritt zur Fortsetzung zu erwarten gewesen wäre.\n\n**Beispiel (S. 16):** Der Kaufpreisanspruch des V gegen K ist am 01.07.2024 entstanden (Frist § 195). Als K bis 01.10.2024 nicht zahlt, beantragt V einen Mahnbescheid. Mit dessen **Zustellung** bei K ist die Verjährung nach § 204 Abs. 1 Nr. 3 gehemmt.\n\n**Wirkung (S. 16):** Hemmung = **Ruhen** der Verjährung. Nach Wegfall des Grundes läuft die Frist sofort weiter; die bereits abgelaufene Zeit wird mitgerechnet (§ 209).\n\n**Verbandsklagen (S. 16):** Seit 08.10.2023 regelt § 204a die Hemmung durch Klagen qualifizierter Verbraucherverbände bzw. Einrichtungen, insbesondere Musterfeststellungsklagen (§ 204a Abs. 1 Nr. 3).\n\n## Neubeginn – § 212 (S. 16–17)\n\nDie bis zum Neubeginn verstrichene Zeit zählt nicht mehr; die **vollständige Frist** läuft erneut. Gründe:\n- **Anerkenntnis** des Schuldners gegenüber dem Gläubiger, etwa durch Abschlags- oder Zinszahlung, Sicherheitsleistung oder auf andere Weise;\n- Vornahme oder Beantragung einer gerichtlichen oder behördlichen **Vollstreckungshandlung**.\n\n## Ausschlussfristen (S. 17)\n\nAusschlussfristen begrenzen die Ausübung von **Gestaltungsrechten** (u.a. Anfechtung, Kündigung, Rücktritt). Mit Fristablauf ist das Gestaltungsrecht **erloschen**. **Beispiel:** Anfechtungsfristen der §§ 121 und 124. Im Prozess berücksichtigt das Gericht den Ablauf **von Amts wegen**, auch wenn sich der Gegner nicht darauf beruft; es handelt sich um **rechtsvernichtende Einwendungen**.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Frist",
+      "text": "Ein bestimmt bezeichneter oder jedenfalls bestimmbarer Zeitraum, innerhalb dessen eine Rechtshandlung vorzunehmen ist oder ein Ereignis eintreten soll.",
+      "norm": "§§ 186 ff. BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "term": "Termin",
+      "text": "Ein bestimmter Zeitpunkt, an dem eine Rechtshandlung vorzunehmen ist oder eine Rechtswirkung eintreten soll.",
+      "norm": "§§ 186, 192, 193 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "term": "Zivilkomputation",
+      "text": "Berechnungsprinzip der §§ 187–189 BGB: Fristen, die nach Tagen, Wochen, Monaten oder Jahren bemessen sind, werden nach ganzen Kalendertagen berechnet; Bruchteile von Tagen bleiben außer Betracht. Für Fristen nach Stunden oder Minuten gilt es nicht.",
+      "norm": "§§ 187–189 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "term": "Anspruch",
+      "text": "Das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen. Nur Ansprüche – nicht andere subjektive Rechte wie Gestaltungsrechte – unterliegen der Verjährung.",
+      "norm": "§ 194 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "term": "Einrede",
+      "text": "Eine Rechtsnorm gewährt eine Einrede, wenn sie dem Schuldner das Recht gibt, seine Leistung zu verweigern (Leistungsverweigerungsrecht). Sie wirkt nur, wenn der Schuldner sie geltend macht.",
+      "norm": "§ 214 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "term": "Hemmung der Verjährung",
+      "text": "Bestimmte Zeiträume, in denen ein Hemmungsgrund vorliegt, werden in die Verjährungsfrist nicht eingerechnet (Ruhen der Verjährung); nach Wegfall des Grundes läuft die Frist sofort weiter, die vorher verstrichene Zeit zählt mit.",
+      "norm": "§§ 203 ff., 209 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "term": "Ablaufhemmung",
+      "text": "Unterfall der Hemmung: Die Verjährungsfrist läuft frühestens eine bestimmte Zeit nach Wegfall bestimmter Gründe ab, die der Geltendmachung des Anspruchs entgegenstehen.",
+      "norm": "§§ 203 ff. BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "term": "Neubeginn der Verjährung",
+      "text": "Die bis zum Neubeginn verstrichene Zeit wird nicht mehr mitgezählt; die vollständige Verjährungsfrist beginnt erneut. Gründe: Anerkenntnis des Schuldners (z.B. Abschlags- oder Zinszahlung, Sicherheitsleistung) sowie Vornahme oder Beantragung einer gerichtlichen oder behördlichen Vollstreckungshandlung.",
+      "norm": "§ 212 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "term": "Höhere Gewalt",
+      "text": "Liegt vor, wenn die Verhinderung auf Ereignissen beruht, die durch die vom Anspruchsberechtigten billigerweise zu erwartende Sorgfalt nicht verhütet werden konnten; schon das geringste eigene Verschulden schließt sie aus.",
+      "norm": "§ 206 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "term": "Ausschlussfrist",
+      "text": "Frist, innerhalb derer bestimmte Gestaltungsrechte (z.B. Anfechtung, Kündigung, Rücktritt) geltend gemacht werden können; mit ihrem Ablauf erlischt das Gestaltungsrecht. Im Prozess ist sie von Amts wegen zu berücksichtigen (rechtsvernichtende Einwendung).",
+      "norm": "z.B. §§ 121, 124 BGB",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Berechnung einer Frist nach §§ 186–193 BGB",
+      "steps": [
+        "1. Vorrang der Auslegung: Ist die Zeitbestimmung schon nach §§ 133, 157 BGB eindeutig oder durch Datum und Uhrzeit genau festgelegt? Dann keine Anwendung der §§ 187 ff.",
+        "2. Anwendungsbereich: Frist in Gesetz, gerichtlicher Verfügung oder Rechtsgeschäft (§ 186); Bemessung nach Tagen, Wochen, Monaten oder Jahren (nicht Stunden/Minuten).",
+        "3. Fristbeginn: Ereignis/Zeitpunkt im Lauf des Tages → Tag nicht mitgerechnet (§ 187 Abs. 1); Beginn eines Tages maßgeblich oder Lebensalter → Tag mitgerechnet (§ 187 Abs. 2 S. 1, S. 2).",
+        "4. Fristende: Tagesfrist → Ablauf des letzten Tages (§ 188 Abs. 1); Wochen-/Monats-/Jahresfrist → bei § 187 Abs. 1 Ablauf des dem Ereignistag entsprechenden Tages, bei § 187 Abs. 2 Ablauf des Vortags (§ 188 Abs. 2); fehlender Tag → letzter Tag des Monats (§ 188 Abs. 3).",
+        "5. § 193: Ist eine Willenserklärung abzugeben oder eine Leistung zu bewirken und fällt der letzte Tag auf Samstag, Sonntag oder einen am Erklärungs-/Leistungsort staatlich anerkannten allgemeinen Feiertag → nächster Werktag (analog für Ausschluss- und Verjährungsfristen; nicht beim Lebensalter).",
+        "6. Praktische Wahrung: Zugang muss bis Fristende so erfolgen, dass unter normalen Umständen Kenntnisnahme möglich ist (regelmäßig innerhalb der Geschäftszeiten)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 5
+        },
+        {
+          "doc": "BGB_8",
+          "page": 6
+        },
+        {
+          "doc": "BGB_8",
+          "page": 7
+        },
+        {
+          "doc": "BGB_8",
+          "page": 8
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        },
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "title": "Prüfung der Verjährung beim Prüfungspunkt „Anspruch durchsetzbar“",
+      "steps": [
+        "1. Anspruch entstanden (und nicht erloschen).",
+        "2. Einrede der Verjährung vom Schuldner erhoben? Wenn nein: keine weitere Prüfung.",
+        "3. Maßgebliche Verjährungsfrist: § 195 (3 Jahre) oder Sonderregel (§§ 196, 197, 438, 634a); vertragliche Änderung zulässig? (§ 202, § 309 Nr. 8 b) ff), § 476 Abs. 2).",
+        "4. Fristbeginn: § 199 Abs. 1 (Schluss des Jahres von Entstehung und Kenntnis/grob fahrlässiger Unkenntnis) bzw. Entstehung oder gesetzlich bestimmtes Ereignis (z.B. Ablieferung § 438 Abs. 2, Abnahme § 634a Abs. 2); Höchstfristen § 199 Abs. 2, 3.",
+        "5. Fristende berechnen: §§ 187 Abs. 1, 188 Abs. 2, ggf. § 193 analog.",
+        "6. Hemmung (§§ 203–207, 209), Ablaufhemmung, Neubeginn (§ 212) berücksichtigen.",
+        "7. Ergebnis: Frist abgelaufen → dauerndes Leistungsverweigerungsrecht (§ 214 Abs. 1); bereits Geleistetes kann nicht zurückgefordert werden (§ 214 Abs. 2)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 13
+        },
+        {
+          "doc": "BGB_8",
+          "page": 14
+        },
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Rechtsnatur haben die §§ 187–193 BGB nach dem Skript?",
+      "options": [
+        "Materielle Auslegungsregeln, die subsidiär gelten, wenn die Auslegung nach allgemeinen Grundsätzen kein zweifelsfreies Ergebnis bringt",
+        "Zwingende Vorschriften, die jeder abweichenden Parteivereinbarung vorgehen",
+        "Reine Verfahrensvorschriften, die nur für gerichtliche Fristen gelten",
+        "Auslegungsregeln, die ausschließlich für gesetzliche, nicht aber für rechtsgeschäftliche Fristen gelten"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die §§ 187–193 sind materielle Auslegungsregeln. Sie treten zurück, wenn §§ 133, 157 schon ein eindeutiges Ergebnis liefern oder die Frist genau bestimmt ist. Nach § 186 gelten sie für Gesetze, gerichtliche Verfügungen und Rechtsgeschäfte.",
+      "hints": [
+        "Lesen Sie § 186 BGB.",
+        "Was gilt, wenn die Parteien Datum und Uhrzeit genau festlegen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 5
+        },
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Eine nach Stunden bemessene Frist wird nach dem Prinzip der Zivilkomputation (§§ 187–189 BGB) berechnet.",
+      "answer": false,
+      "explanation": "Die Zivilkomputation – Berechnung nach ganzen Kalendertagen – gilt nur für Fristen nach Tagen, Wochen, Monaten oder Jahren. Für Fristen nach Stunden oder Minuten kommen §§ 187–189 nicht zur Anwendung.",
+      "hints": [
+        "Zivilkomputation = ganze Kalendertage."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Unter einer Frist versteht man einen Zeitraum, der bestimmt bezeichnet oder jedenfalls {{1}} ist und innerhalb dessen eine {{2}} vorzunehmen ist oder ein Ereignis eintreten soll. Ein {{3}} ist dagegen ein bestimmter Zeitpunkt.",
+      "blanks": [
+        [
+          "bestimmbar"
+        ],
+        [
+          "Rechtshandlung"
+        ],
+        [
+          "Termin"
+        ]
+      ],
+      "explanation": "Definitionen von Frist (Zeitraum) und Termin (Zeitpunkt), Skript S. 6.",
+      "hints": [
+        "Zeitraum vs. Zeitpunkt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A setzt B am Donnerstag um 14 Uhr eine Frist von 5 Tagen zur Vornahme einer Rechtshandlung. Wann endet die Frist (keine Feiertage)?",
+      "options": [
+        "Dienstag, 24.00 Uhr",
+        "Dienstag, 14.00 Uhr",
+        "Montag, 24.00 Uhr",
+        "Mittwoch, 24.00 Uhr"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ereignis ist die Fristsetzung am Donnerstag; dieser Tag wird nicht mitgerechnet (§ 187 Abs. 1). Die Frist beginnt Freitag 0.00 Uhr; fünf volle Tage (Fr, Sa, So, Mo, Di) enden mit Ablauf des Dienstags (§ 188 Abs. 1). „Dienstag 14 Uhr“ wäre eine (unzulässige) Stundenrechnung, „Montag“ würde den Donnerstag mitzählen.",
+      "hints": [
+        "Wird der Donnerstag mitgezählt?",
+        "Tagesfristen enden mit Ablauf des letzten Tages."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Für eine zweiwöchige Frist ist als Fristbeginn „Donnerstag, der 12. September“ bestimmt (nicht: Fristsetzung an diesem Tag). Wann endet sie?",
+      "options": [
+        "Mittwoch, 25. September, 24.00 Uhr",
+        "Donnerstag, 26. September, 24.00 Uhr",
+        "Donnerstag, 26. September, 0.00 Uhr",
+        "Freitag, 27. September, 24.00 Uhr"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ist der Anfang eines Tages als Fristbeginn bestimmt, wird dieser Tag mitgerechnet (§ 187 Abs. 2 S. 1). Nach § 188 Abs. 2 2. Alt. endet die Frist daher einen Tag früher als bei einer Ereignisfrist – am Mittwoch, 25. September, 24.00 Uhr. Der 26. September wäre das Ende bei Fristsetzung am 12. September (§ 187 Abs. 1).",
+      "hints": [
+        "Unterscheiden Sie Ereignisfrist und Beginnfrist.",
+        "§ 188 Abs. 2 hat zwei Alternativen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Schritte zur Berechnung einer Ereignisfrist von einem Monat (Ereignis am 08.05.) nach der Merkhilfe des Skripts in die richtige Reihenfolge.",
+      "items": [
+        "Ereignis am 08.05. feststellen",
+        "Ereignistag nicht mitrechnen (§ 187 Abs. 1)",
+        "Fristbeginn am 09.05. um 0.00 Uhr",
+        "Dauer der Frist bestimmen: ein Monat",
+        "Fristende am 08.06. um 24.00 Uhr (§ 188 Abs. 2 1. Alt.)",
+        "Prüfen, ob der letzte Tag auf Samstag, Sonntag oder Feiertag fällt (§ 193)"
+      ],
+      "explanation": "Merkhilfe S. 8: Ereignis → Beginn am Folgetag → Dauer → Ende am Tag, der dem Ereignistag entspricht. Danach ist ggf. § 193 zu prüfen (S. 9).",
+      "hints": [
+        "§ 193 verschiebt nur das Ende."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 8
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Am Samstag, 31.01.2026, wird B eine Frist von einem Monat zur Abgabe einer Willenserklärung gesetzt. Der 28.02.2026 ist ein Samstag, der 01.03.2026 ein Sonntag. Wann endet die Frist?",
+      "options": [
+        "Montag, 02.03.2026, 24.00 Uhr",
+        "Samstag, 28.02.2026, 24.00 Uhr",
+        "Sonntag, 01.03.2026, 24.00 Uhr",
+        "Dienstag, 03.03.2026, 24.00 Uhr"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Beginn 01.02.2026 (§ 187 Abs. 1). Der dem 31. entsprechende Tag fehlt im Februar, daher Ende mit Ablauf des 28.02. (§ 188 Abs. 3). Da es sich um einen Samstag handelt und eine Willenserklärung abzugeben ist, tritt der nächste Werktag an seine Stelle (§ 193): Montag, 02.03.2026. Dass die Frist an einem Samstag gesetzt wurde, ist für den Beginn unerheblich.",
+      "hints": [
+        "Gibt es einen 31. Februar?",
+        "Danach § 193 prüfen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Wer am 26.12.2020 geboren ist, wird wegen § 193 BGB erst mit Ablauf des 27.12.2038 volljährig, weil der 25. und 26.12. Feiertage sind.",
+      "answer": false,
+      "explanation": "§ 193 betrifft nur Fälle, in denen eine Willenserklärung abzugeben oder eine Leistung zu bewirken ist (analog Ausschluss- und Verjährungsfristen). Für das Lebensalter spielt er keine Rolle: Vollendung des 18. Lebensjahres mit Ablauf des 25.12.2038 (§§ 187 Abs. 2 S. 2, 188 Abs. 2 2. Alt.).",
+      "hints": [
+        "Wofür gilt § 193 nach seinem Wortlaut?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ein Kind wird am 12.08.2024 um 23.57 Uhr geboren. Wann hat es sein erstes Lebensjahr vollendet?",
+      "options": [
+        "Mit Ablauf des 11.08.2025",
+        "Mit Ablauf des 12.08.2025",
+        "Am 12.08.2025 um 23.57 Uhr",
+        "Mit Ablauf des 13.08.2025"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Geburtstag wird mitgerechnet (§ 187 Abs. 2 S. 2), das Kind gilt als am 12.08.2024 um 0.00 Uhr geboren. Nach § 188 Abs. 2 2. Alt. endet das Lebensjahr mit Ablauf des Vortags des Geburtstags, also am 11.08.2025 um 24.00 Uhr; den Geburtstag feiert es am 12.08.2025.",
+      "hints": [
+        "Die Uhrzeit der Geburt ist irrelevant.",
+        "Welche Alternative des § 188 Abs. 2 gilt beim Lebensalter?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 7
+        },
+        {
+          "doc": "BGB_8",
+          "page": 8
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Vorschrift ihrem Regelungsgehalt zu.",
+      "pairs": [
+        [
+          "§ 187 Abs. 1 BGB",
+          "Tag des fristauslösenden Ereignisses wird nicht mitgerechnet"
+        ],
+        [
+          "§ 187 Abs. 2 S. 2 BGB",
+          "Geburtstag wird bei der Berechnung des Lebensalters mitgerechnet"
+        ],
+        [
+          "§ 188 Abs. 3 BGB",
+          "Fehlender Tag im letzten Monat: Ende mit dessen letztem Tag"
+        ],
+        [
+          "§ 192 BGB",
+          "Anfang, Mitte und Ende des Monats"
+        ],
+        [
+          "§ 193 BGB",
+          "Samstag, Sonntag, Feiertag: nächster Werktag"
+        ]
+      ],
+      "explanation": "Vgl. Skript S. 6–10.",
+      "hints": [
+        "§ 192 betrifft Termine innerhalb eines Monats."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        },
+        {
+          "doc": "BGB_8",
+          "page": 7
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        },
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden Tage sind nach dem Skript in NRW keine staatlich anerkannten allgemeinen Feiertage im Sinne des § 193 BGB? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Rosenmontag",
+        "24.12. (Heiligabend)",
+        "31.12. (Silvester)",
+        "25.12. (1. Weihnachtstag)"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Rosenmontag, Heiligabend und Silvester sind normale Werktage, an denen mit dem Empfang von Erklärungen gerechnet werden muss. Der 25.12. ist dagegen in allen Bundesländern staatlich anerkannter Feiertag (vgl. S. 10).",
+      "hints": [
+        "Lokale Gepflogenheiten machen keinen Feiertag."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 9
+        },
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "A bietet B am 12. September in ihrem Kölner Geschäft einen Vertrag an und hält sich fünf Tage gebunden. Ein Freund des B wirft die schriftliche Annahme am 17. September um 22.45 Uhr in den Briefkasten des Geschäfts. Die Annahme ist rechtzeitig, weil die Frist erst um 24.00 Uhr endet.",
+      "answer": false,
+      "explanation": "Die Frist läuft vom 13. September 0.00 Uhr bis 17. September 24.00 Uhr (§§ 148, 187 Abs. 1, 188 Abs. 1). Bis dahin muss die Annahme aber so in den Machtbereich der A gelangen, dass Kenntnisnahme unter normalen Umständen möglich ist – also innerhalb der üblichen Geschäftszeiten. Beim Einwurf um 22.45 Uhr ist das nicht der Fall; A ist nicht mehr gebunden.",
+      "hints": [
+        "Fristende und Zugang sind zu unterscheiden.",
+        "Wann rechnet man mit der Leerung eines Geschäftsbriefkastens?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wie lange beträgt die regelmäßige Verjährungsfrist?",
+      "options": [
+        "Drei Jahre (§ 195 BGB)",
+        "Zwei Jahre (§ 438 Abs. 1 Nr. 3 BGB)",
+        "Zehn Jahre (§ 196 BGB)",
+        "Dreißig Jahre (§ 197 BGB)"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 195: drei Jahre. Die übrigen Fristen sind Sonderfristen für bestimmte Ansprüche.",
+      "hints": [
+        "Regelmäßig = Grundregel."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Ansprüche der jeweiligen Verjährungsfrist zu.",
+      "pairs": [
+        [
+          "Kaufpreisforderung",
+          "3 Jahre (§ 195)"
+        ],
+        [
+          "Mängelansprüche beim Kauf einer beweglichen Sache",
+          "2 Jahre ab Ablieferung (§ 438 Abs. 1 Nr. 3, Abs. 2)"
+        ],
+        [
+          "Mängel an einem gekauften Bauwerk",
+          "5 Jahre (§ 438 Abs. 1 Nr. 2)"
+        ],
+        [
+          "Anspruch auf Übertragung des Eigentums an einem Grundstück",
+          "10 Jahre (§ 196)"
+        ],
+        [
+          "Rechtskräftig festgestellter Zahlungsanspruch",
+          "30 Jahre (§ 197)"
+        ]
+      ],
+      "explanation": "Übersicht nach S. 12–13.",
+      "hints": [
+        "Grundstücke: § 196; Titel: § 197."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Die regelmäßige Verjährungsfrist beginnt mit dem {{1}} des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den den Anspruch begründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne {{2}} Fahrlässigkeit erlangen müsste (§ {{3}} Abs. 1 BGB).",
+      "blanks": [
+        [
+          "Schluss",
+          "Ende"
+        ],
+        [
+          "grobe"
+        ],
+        [
+          "199"
+        ]
+      ],
+      "explanation": "§ 199 Abs. 1 Nr. 1 und 2; leichte Fahrlässigkeit genügt nicht (S. 13).",
+      "hints": [
+        "Ultimoverjährung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der Kaufpreisanspruch des V gegen K ist am 01.07.2024 entstanden; V kennt alle Umstände. Wann tritt ohne Hemmung oder Neubeginn Verjährung ein?",
+      "options": [
+        "Mit Ablauf des 31.12.2027",
+        "Mit Ablauf des 01.07.2027",
+        "Mit Ablauf des 30.06.2027",
+        "Mit Ablauf des 31.12.2026"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 195 i.V.m. § 199 Abs. 1: Beginn mit Schluss des Jahres 2024; nach § 187 Abs. 1 läuft die Frist ab 01.01.2025, sie endet mit Ablauf des 31.12.2027 (§ 188 Abs. 2). Eine taggenaue Berechnung ab Entstehung übersieht § 199 Abs. 1.",
+      "hints": [
+        "Ab wann läuft die regelmäßige Frist?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 13
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ein Gericht muss die Verjährung einer Forderung von Amts wegen berücksichtigen, auch wenn der Schuldner sich nicht darauf beruft.",
+      "answer": false,
+      "explanation": "Die Verjährung ist eine Einrede: Sie wirkt nur, wenn der Schuldner sie erhebt („Über Einreden muss man reden“). Von Amts wegen zu berücksichtigen sind dagegen Ausschlussfristen.",
+      "hints": [
+        "Einrede oder Einwendung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "S zahlt auf eine bereits verjährte Kaufpreisforderung, ohne die Verjährung zu bemerken. Später will er das Geld zurück. Wie ist die Rechtslage nach dem Skript?",
+      "options": [
+        "Er kann nicht zurückfordern; das gilt auch, wenn er die Verjährung erst jetzt geltend macht (§ 214 Abs. 2).",
+        "Er kann nach § 812 zurückfordern, weil die Verjährung den Anspruch zum Erlöschen gebracht hat.",
+        "Er kann zurückfordern, sofern er die Einrede innerhalb von drei Jahren nach der Zahlung erhebt.",
+        "Er kann zurückfordern, weil das Gericht die Verjährung ohnehin von Amts wegen hätte beachten müssen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der verjährte Anspruch besteht fort; Verjährung begründet nur ein Leistungsverweigerungsrecht. Wer in Unkenntnis leistet, kann das Geleistete nach § 214 Abs. 2 nicht zurückverlangen – es liegt in seiner Risikosphäre, die Verjährung vorher zu prüfen.",
+      "hints": [
+        "Erlischt der Anspruch durch Verjährung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Welche Ereignisse führen nach dem Skript zur Hemmung (und nicht zum Neubeginn) der Verjährung? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Zustellung eines gerichtlichen Mahnbescheids",
+        "Verhandlungen der Parteien über den streitigen Anspruch",
+        "Abschlagszahlung des Schuldners an den Gläubiger",
+        "Beantragung einer gerichtlichen Vollstreckungshandlung"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Mahnbescheid (§ 204 Abs. 1 Nr. 3) und Verhandlungen (§ 203) hemmen. Abschlagszahlung (Anerkenntnis) und Beantragung einer Vollstreckungshandlung führen nach § 212 zum Neubeginn.",
+      "hints": [
+        "§ 212 nennt nur zwei Gruppen von Gründen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Was schließt § 202 BGB für Vereinbarungen über die Verjährung aus?",
+      "options": [
+        "Eine Erleichterung der Haftung wegen Vorsatzes im Voraus und eine Verlängerung über 30 Jahre hinaus",
+        "Jede Verkürzung der gesetzlichen Verjährungsfristen",
+        "Jede Verlängerung der gesetzlichen Verjährungsfristen",
+        "Eine Verkürzung unter ein Jahr auch durch Individualvereinbarung zwischen Unternehmern"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 202 setzt nur diese beiden Grenzen. Für AGB gilt zusätzlich § 309 Nr. 8 b) ff), für den Verbrauchsgüterkauf § 476 Abs. 2; eine Individualvereinbarung unter einem Jahr ist sonst wirksam (S. 14).",
+      "hints": [
+        "Grundsatz: Vereinbarungen sind zulässig."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erläutern Sie den Unterschied zwischen Verjährung und Ausschlussfrist hinsichtlich Gegenstand, Wirkung und Berücksichtigung im Prozess.",
+      "modelAnswer": "Der Verjährung unterliegen nur Ansprüche (§ 194 Abs. 1). Sie lässt den Anspruch bestehen und gibt dem Schuldner lediglich eine Einrede: Erhebt er sie, kann er die Leistung dauernd verweigern (§ 214 Abs. 1); ohne Erhebung darf das Gericht die Verjährung nicht von Amts wegen prüfen. Ausschlussfristen betreffen dagegen Gestaltungsrechte wie Anfechtung, Kündigung oder Rücktritt (z.B. §§ 121, 124). Mit ihrem Ablauf erlischt das Gestaltungsrecht; es handelt sich um eine rechtsvernichtende Einwendung, die das Gericht von Amts wegen berücksichtigt.",
+      "rubric": [
+        "Verjährung nur für Ansprüche",
+        "Einrede – Anspruch besteht fort, § 214 Abs. 1",
+        "nicht von Amts wegen",
+        "Ausschlussfrist für Gestaltungsrechte, Beispiel §§ 121, 124",
+        "Erlöschen des Rechts, von Amts wegen zu berücksichtigen"
+      ],
+      "hints": [
+        "Denken Sie an „Über Einreden muss man reden“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Der Kaufpreisanspruch des V gegen K ist am 01.07.2024 entstanden; V kennt K und alle Umstände. Am 10.12.2027 zahlt K einen Abschlag von 100 € „auf die offene Rechnung“. Im März 2028 klagt V den Rest ein; K erhebt die Einrede der Verjährung. Zu Recht?",
+      "modelAnswer": "V hat gegen K einen Anspruch aus § 433 Abs. 2 BGB. Fraglich ist dessen Durchsetzbarkeit, da K die Einrede der Verjährung erhoben hat (§ 214 Abs. 1). Die regelmäßige Frist von drei Jahren (§ 195) begann mit dem Schluss des Jahres 2024 (§ 199 Abs. 1), lief also ab dem 01.01.2025 (§ 187 Abs. 1) und hätte mit Ablauf des 31.12.2027 geendet (§ 188 Abs. 2). Vor Fristablauf hat K am 10.12.2027 jedoch eine Abschlagszahlung geleistet. Darin liegt ein Anerkenntnis gegenüber dem Gläubiger (§ 212 Abs. 1 Nr. 1). Folge ist der Neubeginn: Die bis dahin verstrichene Zeit zählt nicht mehr, die volle dreijährige Frist läuft erneut; das Anerkenntnis ist das fristauslösende Ereignis (§ 187 Abs. 1), so dass die neue Frist mit Ablauf des 10.12.2030 endet (§ 188 Abs. 2). Im März 2028 ist der Anspruch daher nicht verjährt; K kann die Leistung nicht verweigern.",
+      "rubric": [
+        "Anspruch § 433 Abs. 2, Einrede erhoben",
+        "ursprüngliches Fristende 31.12.2027 (§§ 195, 199 Abs. 1, 187 Abs. 1, 188 Abs. 2)",
+        "Abschlagszahlung = Anerkenntnis, § 212 Abs. 1 Nr. 1",
+        "Neubeginn: volle Frist läuft erneut",
+        "Ergebnis: nicht verjährt"
+      ],
+      "hints": [
+        "Wirkt die Abschlagszahlung als Hemmung oder als Neubeginn?",
+        "Erfolgte die Zahlung vor Ablauf der ursprünglichen Frist?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 13
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "A setzt B eine Frist mit den Worten „heute in 8 Tagen“. Wie ist dies nach dem Skript zu verstehen?",
+      "options": [
+        "Nach gängigem Sprachgebrauch wohl als der gleiche Wochentag der nächsten Woche; §§ 187 ff. regeln diese Wendung nicht (bei Handelsgeschäften § 359 Abs. 2 HGB beachten)",
+        "Als Tagesfrist nach §§ 187 Abs. 1, 188 Abs. 1 BGB, die mit Ablauf des achten Tages nach heute endet",
+        "Als Frist bis zum gleichen Wochentag der nächsten Woche, die nach § 193 BGB stets auf den Montag verschoben wird",
+        "Als unwirksame Fristsetzung, weil sie nicht hinreichend bestimmt ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Skript (S. 6) legt die Wendung nach dem Sprachgebrauch aus; die §§ 187 ff. helfen hier nicht weiter. Bei Handelsgeschäften ist § 359 Abs. 2 HGB zu beachten.",
+      "hints": [
+        "Vorrang der Auslegung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Der vergessene Kaufpreis für den Gebrauchtwagen (Skript-Beispiel S. 13)",
+    "facts": "Am 12.08.2021 kauft K bei V einen Gebrauchtwagen zum Preis von 13.200 €. K zahlt nicht, und V vergisst, dass der Kaufpreis noch offen ist. Das fällt ihm erst Anfang September 2024 ein. Als V von K Zahlung verlangt, beruft sich K auf Verjährung.",
+    "question": "Kann V von K Zahlung von 13.200 € verlangen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz (Anspruchsgrundlage und Problem der Durchsetzbarkeit).",
+        "model": "V könnte gegen K einen Anspruch auf Zahlung von 13.200 € aus § 433 Abs. 2 BGB haben. Durch den Kaufvertrag vom 12.08.2021 ist der Anspruch entstanden. Er könnte jedoch nicht durchsetzbar sein, wenn K wegen Verjährung zur dauernden Leistungsverweigerung berechtigt ist (§ 214 Abs. 1 BGB). Das setzt voraus, dass K die Einrede erhoben hat und die Verjährungsfrist bei Erhebung abgelaufen war.",
+        "rubric": [
+          "Konjunktiv",
+          "§ 433 Abs. 2 BGB als Anspruchsgrundlage",
+          "Entstehen durch Kaufvertrag",
+          "Verjährung als Frage der Durchsetzbarkeit, § 214 Abs. 1"
+        ],
+        "hints": [
+          "Wo wird die Verjährung im Anspruchsaufbau geprüft?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Stellen Sie die maßgeblichen Regeln zu Einrede, Frist und Fristbeginn/-ende dar.",
+        "model": "Die Verjährung ist eine Einrede; sie wird nur berücksichtigt, wenn sich der Schuldner auf sie beruft. Kaufpreisansprüche unterliegen der regelmäßigen Verjährungsfrist von drei Jahren (§ 195 BGB). Diese beginnt nach § 199 Abs. 1 BGB mit dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger von den anspruchsbegründenden Umständen und der Person des Schuldners Kenntnis erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Der Schluss des Jahres ist ein Ereignis im Sinne des § 187 Abs. 1 BGB, so dass dieser Tag nicht mitgerechnet wird; die nach Jahren bemessene Frist endet nach § 188 Abs. 2 BGB mit Ablauf des Tages, der dem Ereignistag entspricht.",
+        "rubric": [
+          "Einrede muss erhoben werden",
+          "§ 195: drei Jahre",
+          "§ 199 Abs. 1 Nr. 1 und 2 (Jahresschluss, Kenntnis/grob fahrlässige Unkenntnis)",
+          "§§ 187 Abs. 1, 188 Abs. 2"
+        ],
+        "hints": [
+          "Die Frist beginnt nicht am Tag des Vertragsschlusses."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie den Sachverhalt.",
+        "model": "K hat sich gegenüber V ausdrücklich auf die Verjährung berufen und damit die Einrede erhoben. Der Kaufpreisanspruch ist mit Vertragsschluss am 12.08.2021 entstanden. V kannte als Vertragspartner zu diesem Zeitpunkt die anspruchsbegründenden Umstände und die Person des K; dass er den offenen Kaufpreis später vergaß, ändert an der einmal erlangten Kenntnis nichts. Fristauslösendes Ereignis ist daher der Schluss des Jahres 2021, also der 31.12.2021. Dieser Tag wird nicht mitgerechnet (§ 187 Abs. 1 BGB), so dass die Frist am 01.01.2022 um 0.00 Uhr begann. Die dreijährige Frist endet mit Ablauf des 31.12.2024 (§ 188 Abs. 2 BGB). Im September 2024, als K die Einrede erhob, war die Frist folglich noch nicht abgelaufen.",
+        "rubric": [
+          "Einrede erhoben",
+          "Entstehung 12.08.2021 und Kenntnis des V",
+          "Ereignis 31.12.2021, Beginn 01.01.2022",
+          "Ende 31.12.2024, 24.00 Uhr",
+          "Einrede im September 2024 vor Fristablauf"
+        ],
+        "hints": [
+          "Rechnen Sie Schritt für Schritt: Ereignis – Beginn – Dauer – Ende."
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Der Anspruch des V aus § 433 Abs. 2 BGB war im September 2024 noch nicht verjährt; K steht kein Leistungsverweigerungsrecht nach § 214 Abs. 1 BGB zu. V kann von K Zahlung von 13.200 € verlangen.",
+        "rubric": [
+          "Indikativ",
+          "Beantwortung der Fallfrage",
+          "Normbezug § 214 Abs. 1"
+        ],
+        "hints": [
+          "Kurz und eindeutig."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_8",
+        "page": 11
+      },
+      {
+        "doc": "BGB_8",
+        "page": 12
+      },
+      {
+        "doc": "BGB_8",
+        "page": 13
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Wann sind die §§ 187–193 BGB nicht anzuwenden?",
+      "back": "Wenn die Auslegung nach §§ 133, 157 bereits ein eindeutiges Ergebnis liefert (z.B. „bis einschließlich Donnerstag, 7. November“) oder die Frist durch Datum und Uhrzeit genau bestimmt ist – die Vorschriften sind subsidiäre Auslegungsregeln.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 5
+        },
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "front": "Frist vs. Termin?",
+      "back": "Frist = bestimmter oder bestimmbarer Zeitraum für eine Rechtshandlung/ein Ereignis. Termin = bestimmter Zeitpunkt für eine Rechtshandlung/Rechtswirkung.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "front": "§ 187 Abs. 1 vs. Abs. 2 BGB?",
+      "back": "Abs. 1: Ereignis im Lauf des Tages → Tag nicht mitgerechnet (Beginn am Folgetag 0 Uhr). Abs. 2 S. 1: Beginn eines Tages maßgeblich → Tag mitgerechnet. Abs. 2 S. 2: Geburtstag wird beim Lebensalter mitgerechnet.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        },
+        {
+          "doc": "BGB_8",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "front": "Wann endet eine Wochen- oder Monatsfrist (§ 188 Abs. 2)?",
+      "back": "Bei § 187 Abs. 1: mit Ablauf des Tages, der dem Ereignistag nach Benennung/Zahl entspricht (12.9. + 2 Wochen → 26.9.). Bei § 187 Abs. 2: einen Tag früher (→ 25.9.).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 7
+        },
+        {
+          "doc": "BGB_8",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "front": "Was regelt § 188 Abs. 3 BGB?",
+      "back": "Fehlt im letzten Monat der maßgebende Tag, endet die Monatsfrist mit Ablauf des letzten Tages dieses Monats (31.08. + 1 Monat → 30.09.).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "front": "Wann wird man volljährig?",
+      "back": "Mit Beginn (0 Uhr) des 18. Geburtstags, d.h. mit Ablauf des Vortags (§§ 2, 187 Abs. 2 S. 2, 188 Abs. 2 2. Alt.). § 193 spielt keine Rolle.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 8
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        },
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "§ 193 BGB – Voraussetzungen und Reichweite?",
+      "back": "Willenserklärung abzugeben oder Leistung zu bewirken; bestimmter Tag oder letzter Fristtag ist Samstag, Sonntag oder am Erklärungs-/Leistungsort staatlich anerkannter allgemeiner Feiertag → nächster Werktag. Analog für Ausschluss- und Verjährungsfristen; nicht für Lebensalter. Rosenmontag, 24.12., 31.12. sind Werktage.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 9
+        },
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "Was bestimmt § 192 BGB?",
+      "back": "Anfang des Monats = 1., Mitte = 15., Ende = letzter Tag. Für Wochen keine Regel (wohl Mo/Mi/Fr).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "Wirkung der Verjährung?",
+      "back": "Einrede: Der Anspruch besteht fort, der Schuldner darf aber nach Erhebung dauernd verweigern (§ 214 Abs. 1). Keine Prüfung von Amts wegen. Geleistetes kann nicht zurückgefordert werden (§ 214 Abs. 2). Prüfungsstandort: „Anspruch durchsetzbar“.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "front": "Verjähren Gestaltungsrechte?",
+      "back": "Nein, nur Ansprüche (§ 194 Abs. 1). Der Rücktritt kann aber nach § 218 durch Zeitablauf unwirksam werden; für Gestaltungsrechte gibt es Ausschlussfristen (z.B. §§ 121, 124).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "front": "Beginn der regelmäßigen Verjährung?",
+      "back": "§ 199 Abs. 1: Schluss des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis von den anspruchsbegründenden Umständen und der Person des Schuldners erlangt oder ohne grobe Fahrlässigkeit erlangen müsste. Höchstfristen: § 199 Abs. 2, 3.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "front": "Sonderverjährungsfristen (Überblick)?",
+      "back": "2 Jahre ab Ablieferung: Mängel beweglicher Kaufsachen (§ 438 Abs. 1 Nr. 3, Abs. 2); 5 Jahre: Bauwerk (§ 438 Abs. 1 Nr. 2, § 634a Abs. 1 Nr. 2); 10 Jahre: Grundstücksrechte (§ 196); 30 Jahre: § 197 (u.a. dingliche Herausgabeansprüche, titulierte Ansprüche).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "front": "Grenzen vertraglicher Verjährungsvereinbarungen?",
+      "back": "§ 202: keine Erleichterung der Vorsatzhaftung im Voraus, keine Verlängerung über 30 Jahre. AGB: bei neu hergestellten Sachen/Werkleistungen nicht unter 1 Jahr (§ 309 Nr. 8 b) ff)). Verbrauchsgüterkauf: § 476 Abs. 2 (neu: 2 Jahre, gebraucht: 1 Jahr).",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 14
+        },
+        {
+          "doc": "BGB_8",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Hemmung vs. Neubeginn?",
+      "back": "Hemmung: Zeitraum wird nicht eingerechnet, danach läuft die Frist weiter (§ 209) – z.B. §§ 203, 204 Abs. 1 Nr. 1, 3, 10, 205, 206, 207. Neubeginn (§ 212): volle Frist läuft neu – bei Anerkenntnis (Abschlag, Zinsen, Sicherheit) oder Vollstreckungshandlung.",
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    }
+  ]
+}

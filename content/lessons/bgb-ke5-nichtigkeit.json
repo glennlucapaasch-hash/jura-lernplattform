@@ -1,0 +1,1420 @@
+{
+  "id": "bgb-ke5-nichtigkeit",
+  "moduleId": "55101",
+  "ke": 5,
+  "topicIds": [
+    "bgb-ke5-s13"
+  ],
+  "title": "Die Nichtigkeit von Rechtsgeschäften: § 134, § 138 und §§ 307 ff.",
+  "estMinutes": 150,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Einführung: Nichtigkeit, schwebende Unwirksamkeit, Anfechtbarkeit",
+      "short": "Verfehlt ein Rechtsgeschäft eine der Anforderungen der Rechtsordnung, ist es in der Regel nichtig, schwebend unwirksam oder anfechtbar. Ein nichtiges Rechtsgeschäft ist dauernd unwirksam, aber kein reines Nullum: Der äußere Tatbestand existiert, bewirkt nur nicht die gewollten Rechtsfolgen. Wichtige Nichtigkeitsgründe sind §§ 104, 105, § 125, § 134, § 138 und die §§ 307 ff.",
+      "long": "## Drei Formen der Unwirksamkeit (S. 43)\n\n- **Schwebend unwirksam** (z.B. § 177): Das Geschäft ist noch nicht wirksam, kann aber durch **Genehmigung** des Berechtigten wirksam werden; wird die Genehmigung verweigert, ist es nichtig.\n- **Anfechtbar** (z.B. § 123 Abs. 1): Der Berechtigte kann durch einseitige, empfangsbedürftige Willenserklärung seine Erklärung **rückwirkend** vernichten; sie ist dann von Anfang an (*ex tunc*) nichtig (§ 142). Weil die Anfechtung eine Ausnahme von *pacta sunt servanda* ist, sind die gesetzlichen Anfechtungstatbestände **abschließend**.\n- **Nichtig**: Die angestrebten Rechtsfolgen treten nicht ein; das Geschäft ist **dauernd unwirksam**. Es ist aber **kein reines Nullum**, denn es gibt einen äußeren Tatbestand – dieser kann nur nicht die beabsichtigten Wirkungen herbeiführen (S. 43–44).\n\n## Die wichtigsten Nichtigkeitsgründe (S. 44)\n\n| Norm | Grund |\n|---|---|\n| §§ 104, 105 | fehlende Geschäftsfähigkeit |\n| § 125 | Verstoß gegen gesetzliche oder vereinbarte Form |\n| § 134 | Verstoß gegen ein gesetzliches Verbot |\n| § 138 | Sittenwidrigkeit |\n| §§ 307 ff. | Verstoß gegen AGB-Vorschriften (§§ 307, 308, 309) |\n\nDie Nichtigkeit kann das Geschäft ganz oder nur teilweise erfassen (vgl. § 139). **Besonderheit bei AGB:** Nichtig sind nur die verstoßenden Klauseln; der übrige Vertrag bleibt – anders als nach der Grundregel des § 139 – gemäß § 306 Abs. 1 bestehen (S. 44).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        },
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "§ 134: Verbotsgesetz und Auslegungsregel",
+      "short": "§ 134 begrenzt die Privatautonomie: Ein Rechtsgeschäft, das gegen ein Verbotsgesetz verstößt, ist nichtig, „wenn sich nicht aus dem Gesetz ein anderes ergibt“. Verbotsgesetz ist eine Norm, die ein Rechtsgeschäft seines Inhalts wegen unterbinden will. § 134 ist nur eine Auslegungsregel; entscheidend ist der Sinn und Zweck des Verbots. Verbotsgesetze finden sich im Zivil-, öffentlichen und Strafrecht.",
+      "long": "## Die gesetzliche Regelung (S. 44)\n\nDie Rechtsordnung will bestimmte Rechtsgeschäfte **ihres Inhalts wegen** verhindern. Tatbestandsvoraussetzung des § 134 ist daher ein **Verbotsgesetz**: eine Norm, durch die ein Rechtsgeschäft seines Inhalts wegen unterbunden werden soll.\n\nEin Verstoß führt aber **nicht automatisch** zur Nichtigkeit. Die Formulierung „wenn sich nicht aus dem Gesetz ein anderes ergibt“ zeigt: § 134 stellt nur eine **Auslegungsregel** auf. Nach dem BGH (BGHZ 45, 322, 326) ist stets zu prüfen, ob das Verbotsgesetz nach **Sinn und Zweck** die Nichtigkeit erfordert. Man kann dem Wortlaut sogar eine **Subsidiarität der Nichtigkeit** entnehmen (S. 44).\n\n## Verbotsgesetze im Sinne des § 134 (S. 45–46)\n\n- **Strafrecht:** Straftatbestände des StGB sind nicht ausnahmslos, aber **im Zweifel** Verbotsgesetze; maßgebend sind Sinn und Zweck (BGHZ 115, 123, 125).\n- **BGB:** Normen, die die Gestaltungsfreiheit einschränken – teils mit ausdrücklicher Nichtigkeitsanordnung (z.B. §§ 925 Abs. 2, 1136, 1229), teils mit der Wendung „kann nicht“/„kann nur“ (z.B. § 276 Abs. 3, § 1111); auch Verstöße gegen diese führen zur Nichtigkeit.\n- **Gesellschafts- und Wettbewerbsrecht:** § 136 Abs. 1 AktG, § 47 Abs. 4 GmbHG (Stimmabgabe in eigener Sache), § 16 Abs. 2 UWG.\n- **Arbeitsrecht:** Verbote des § 613a (insb. Kündigungsverbote beim Betriebsübergang), Vorschriften gegen Schwarzarbeit.\n- **§ 299 StGB** (Bestechlichkeit und Bestechung im geschäftlichen Verkehr).\n\n**Beispiel (S. 46):** Seifenhersteller K verspricht dem Angestellten A der Drogerie M als Gegenleistung für den Einkauf größerer Mengen Seife bei K ein Jahr lang einen monatlichen „Gehaltszuschuss“ von 175 €. Der Vertrag ist wegen Verstoßes gegen § 299 StGB gemäß § 134 nichtig.\n\n## Grundrechte als Verbotsgesetze? (S. 46)\n\nUmstritten. Unbestritten enthalten die Grundrechte eine **objektive Werteordnung**, die auch das Zivilrecht beeinflusst (BVerfGE 7, 198). Im rechtsgeschäftlichen Bereich wirken sie vor allem über die Generalklauseln der **§§ 138, 242, 826** (unmittelbare oder mittelbare Drittwirkung). Behutsam wird anerkannt, dass einige Grundrechte unmittelbar wirkende Verbotsschranken sein können; der BGH (BGHZ 65, 284, 287) hielt Nichtigkeit nach § 134 i.V.m. Art. 3 Abs. 1 GG für möglich. Für den privaten Bereich konkretisiert inzwischen das **AGG** den Gleichbehandlungsgrundsatz.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 45
+        },
+        {
+          "doc": "BGB_5",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Rechtsfolgen des Verstoßes und Umgehungsgeschäfte",
+      "short": "Ob der Verstoß zur Nichtigkeit führt, entscheidet der Normzweck: Richtet sich das Verbot an beide Parteien, ist das Geschäft in der Regel nichtig; trifft es nur eine Partei, bleibt es in der Regel wirksam – außer es wäre mit dem Zweck des Verbots unvereinbar, die Regelung bestehen zu lassen. Umgehungsgeschäfte sind nach § 134 nichtig, wenn das Verbot den wirtschaftlichen Erfolg schlechthin verhindern will.",
+      "long": "## Normrichtung und Normzweck (S. 46–47)\n\nDie Nichtigkeit folgt aus dem Sinn und Zweck der einzelnen Verbotsvorschrift (BGHZ 93, 264, 267). Entscheidend ist, ob sich das Gesetz **nicht nur gegen den Abschluss**, sondern **auch gegen den privatwirtschaftlichen Erfolg** wendet. Eine Straf- oder Bußgelddrohung bewirkt nicht zwingend die Nichtigkeit; Normrichtung und Normzweck sind zu ermitteln (BGHZ 118, 142, 144 f.).\n\n- **Verbot an beide Parteien:** im Allgemeinen **nichtig**; eine für alle Beteiligten geltende Straf- oder Bußgelddrohung ist ein gewichtiger Hinweis (BGHZ 118, 142, 145; 115, 123, 125).\n- **Verbot nur an eine Partei:** in der Regel **wirksam** (schon Motive I, § 105). **Ausnahme:** nichtig, wenn es „mit dem Sinn und Zweck des Verbotsgesetzes unvereinbar wäre, die durch das Rechtsgeschäft getroffene rechtliche Regelung hinzunehmen und bestehen zu lassen“ (BGHZ 118, 142, 145).\n\n**Schwarzarbeit (S. 47–48):** Das frühere Gesetz enthielt kein ausdrückliches Verbot; es kam darauf an, ob das Bestehenlassen mit dem Gesetzeszweck unvereinbar war (BGHZ 85, 39, 43). Heute enthält das Gesetz ein eindeutiges Verbot. Nach BGH NJW 2017, 1808 will es den Leistungsaustausch verhindern und den zugrunde liegenden Geschäften die rechtliche Wirkung nehmen – auch wenn ein ursprünglich wirksamer Werkvertrag nachträglich zu einer „Ohne-Rechnung-Abrede“ geändert wird; dann ist der **gesamte** Werkvertrag nichtig, nicht nur die Änderungsvereinbarung.\n\n**§ 3 Abs. 2 S. 1 TVöD (S. 48):** Das Verbot, Belohnungen und Geschenke ohne Zustimmung des Arbeitgebers anzunehmen, richtet sich einseitig an den Angestellten (BGH NJW 2000, 1186). Schenkung und Vollzugsgeschäft bleiben wirksam.\n\n**Fall Ladenschluss (S. 48, Aufgabe 3; Lösung S. 73):** L verkauft B um 21 Uhr Lebensmittel entgegen § 3 LadenschlussG. Das Verbot ist eine gewerbepolizeiliche Ordnungsvorschrift, richtet sich nur an den Verkäufer und missbilligt Ort und Zeit der Vertragsdurchführung, nicht den Inhalt – der Kaufvertrag ist wirksam.\n\n## Umgehungsgeschäfte (S. 49)\n\nDie Parteien wählen statt des verbotenen ein anderes Geschäft, das im Wesentlichen denselben wirtschaftlichen Erfolg erreicht, ohne die Tatbestandsmerkmale des Verbots zu erfüllen.\n\n- Will das Verbot nur die **Vornahme eines Geschäfts bestimmter Art** verhindern, ist das andere Geschäft **wirksam** (RGZ 125, 209, 212).\n- Will es den **rechtlichen oder wirtschaftlichen Erfolg schlechthin** verhindern, ist **§ 134 auch auf das andere Geschäft** anzuwenden – gleich welche Gestaltung funktionswidrig benutzt wird (BGHZ 34, 200, 205), und **sogar ohne Umgehungsabsicht**.\n\n**Beispiel (nach OLG Hamburg, MDR 1975, 141):** Nach wiederholter Indizierung ihrer pornographischen Presseerzeugnisse gründen die Inhaber des X-Verlages eine „Deutsche Sex-Partei“ samt Parteiverlag, damit die Produkte als nicht indizierbare politische Zeitschriften gelten. Da das GJS diesen Erfolg schlechthin verhindern wollte, sind die Gründungsgeschäfte nichtig.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 46
+        },
+        {
+          "doc": "BGB_5",
+          "page": 47
+        },
+        {
+          "doc": "BGB_5",
+          "page": 48
+        },
+        {
+          "doc": "BGB_5",
+          "page": 49
+        },
+        {
+          "doc": "BGB_5",
+          "page": 73
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "§ 138 Abs. 1 als Generalklausel: Anwendungsbereich und Rechtsfolge",
+      "short": "§ 138 Abs. 1 ist eine Generalklausel: Das BGB definiert nicht, was gegen die guten Sitten verstößt. Die Gerichte müssen sie nach der Sozialgeltung sittlicher Regeln ausfüllen, nicht nach persönlichen Anschauungen. Das sorgt für Anpassungsfähigkeit, birgt aber Rechtsunsicherheit und Missbrauchsgefahr. Rechtsfolge ist grundsätzlich die Nichtigkeit des ganzen Geschäfts; über Teilnichtigkeit entscheidet § 139. Eine Reduktion überhöhter Preise auf ein zulässiges Maß gibt es nicht.",
+      "long": "## Zweck (S. 49)\n\n§ 138 soll die Geltung von Rechtsgeschäften verhindern, die für eine Rechtsgemeinschaft **unerträglich** sind, weil sie von ihren **ethischen Grundlagen** abweichen.\n\n## Generalklausel (S. 50–51)\n\n- Der Richter muss den Tatbestand erst **konkretisieren**; maßgeblich ist die **Sozialgeltung sittlicher Regeln**, nicht seine persönliche Anschauung.\n- **Nachteile:** gewisses Maß an Rechtsunsicherheit; Missbrauchsgefahr – in der NS-Zeit dienten §§ 138, 242 dazu, das Zivilrecht im Sinne der NS-Weltanschauung umzuformen.\n- **Vorteil:** Anpassungsfähigkeit; ein im 19. Jahrhundert definierter Sittenbegriff wäre heute überholt. Wann ein Wandel der Wertanschauungen eingetreten ist, entscheiden die Gerichte (BVerfG WM 1984, 985).\n- Nach h.M. verweist die Klausel auf **Ethik, Moral und Sittlichkeit**, also die in der staatlichen Gemeinschaft anerkannten moralischen Anschauungen; inhaltlich bestimmt durch die herrschende **Rechts- und Sozialmoral**, unter Berücksichtigung des **Wertesystems des Grundgesetzes** (mittelbare Drittwirkung).\n\n## Anwendungsbereich (S. 51)\n\nBreit: nicht nur bürgerliches Recht, sondern z.B. auch **Gesellschaftsrecht** und sogar **öffentlich-rechtliche Verträge**.\n\n## Rechtsfolge (S. 51)\n\nDas sittenwidrige Geschäft ist **nichtig**; grundsätzlich wird das **gesamte** Geschäft erfasst. Ob ausnahmsweise nur ein Teil nichtig ist, entscheidet **§ 139**.\n\n**Beispiel Wettbewerbsklausel (nach OLG Celle, NJW 1959, 1971):** Der Pachtvertrag über ein kleines Lebensmittelgeschäft verbietet P nach Pachtende, im Umkreis von 100 km ein Lebensmittelgeschäft zu betreiben. Die Klausel ist nach § 138 Abs. 1 nichtig; der restliche Pachtvertrag kann über § 139 aufrechterhalten werden.\n\n**Beispiel überhöhter Kfz-Preis:** Wer unter Ausnutzung der Unerfahrenheit des Käufers ein Kfz zu einem stark überhöhten Preis verkauft, schließt einen insgesamt nichtigen Vertrag. Eine „Reduktion“ auf einen noch zulässigen Preis über § 139 scheidet aus – sonst könnte der Verkäufer risikolos überhöhte Preise verlangen.\n\nErgänzt wird § 138 durch **§ 826** (vorsätzliche sittenwidrige Schädigung → Schadensersatz).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 49
+        },
+        {
+          "doc": "BGB_5",
+          "page": 50
+        },
+        {
+          "doc": "BGB_5",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Bestimmung der Sittenwidrigkeit und Bewusstsein der Sittenwidrigkeit",
+      "short": "Nach der Formel von RG und BGH ist sittenwidrig, was gegen das „Anstandsgefühl aller billig und gerecht Denkenden“ verstößt; diese Formel verschiebt aber nur die Definitionsebene. Der BGH stellt daher auf den aus Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter ab. Ein Bewusstsein der Sittenwidrigkeit ist nicht erforderlich; die Beteiligten müssen aber die Tatumstände kennen oder fahrlässig nicht kennen.",
+      "long": "## Die Definition (S. 52–53)\n\nDie guten Sitten sind ein **unbestimmter, konkretisierungsbedürftiger und -fähiger Rechtsbegriff**.\n\n- **RG** (RGZ 80, 219, 221) und zunächst **BGH** (BGHZ 10, 228, 232): „**Anstandsgefühl aller billig und gerecht Denkenden**“. Maßgeblich seien die Anschauungen der beteiligten Kreise (dort: der ehrbaren Kaufmannschaft) mit einem Durchschnittsmaß an Redlichkeit und Anstand; Missbräuche in bestimmten Kreisen bleiben außer Betracht.\n- **Kritik:** Die Formel verschiebt nur die Definitionsebene – nun muss bestimmt werden, wer „billig und gerecht“ denkt.\n- **Spätere BGH-Formel** (BGHZ 34, 169, 176): Ein Vertrag ist sittenwidrig, wenn er nach dem Anstandsgefühl aller billig und gerecht Denkenden und nach seinem **aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter** den guten Sitten zuwiderläuft.\n\n**Problemfälle:** BGHZ 34, 169 – Umgehung amerikanischer Embargo-Bestimmungen durch vereinbarte Täuschung, Sittenverstoß u.a. mit den „Interessen des gesamten freiheitlichen Westens“ begründet (kritisiert). **Fluchthelfervertrag** (BGHZ 69, 295): nicht sittenwidrig, weil der Flüchtende von der Freizügigkeit des Art. 11 GG Gebrauch machte.\n\n## Gesamtwürdigung (S. 53–54)\n\nIn der Regel entscheidet eine **umfassende Gesamtwürdigung** aller Umstände: objektive Verhältnisse des Zustandekommens, Auswirkungen, subjektive Merkmale (Zweck, Beweggrund).\n\n**Beispiel Vereinssatzung (nach LG Bremen, MDR 1974, 134):** Mitglieder nur ausländische Arbeitnehmer; Vorstand allein entscheidet über Aufnahme, Beiträge und Einberufung der höchstens alle 10 Jahre stattfindenden Mitgliederversammlung; Vorstand auf Lebenszeit. Einzeln jeweils noch rechtfertigbar – im **Zusammenspiel** aber eine **Knebelung** der geschäftlich ungewandten Mitglieder → § 138 Abs. 1.\n\nUmgekehrt kann schon **ein einzelnes Element** so verwerflich sein, dass es allein die Sittenwidrigkeit begründet. **Beispiel (S. 54):** Darlehen an eine fremde Frau mit der Abrede, dass sie sich bei verspäteter Rückzahlung seinen sexuellen Wünschen fügen müsse.\n\n## Bewusstsein der Sittenwidrigkeit (S. 54)\n\n- Nach **h.M.** müssen die Beteiligten **kein Bewusstsein** gehabt haben, sittenwidrig zu handeln – sonst würden Personen mit laxerer Moral bevorzugt.\n- Erforderlich ist aber **Kenntnis oder fahrlässige Unkenntnis der Tatumstände**, aus denen sich die Sittenwidrigkeit ergibt.\n- BGHZ 32, 361, 366 verlangte noch eine zu missbilligende Gesinnung; BGHZ 94, 268, 272 betont dagegen: Geschäfte, die schon nach ihrem **objektiven Inhalt** sittenwidrig sind, sind ohne Rücksicht auf die Vorstellungen der Beteiligten nichtig; es genügt die Kenntnis der begründenden Umstände.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 52
+        },
+        {
+          "doc": "BGB_5",
+          "page": 53
+        },
+        {
+          "doc": "BGB_5",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Drittwirkung der Grundrechte und § 138 Abs. 1",
+      "short": "Die Grundrechte enthalten ein Wertesystem, in dessen Geist auch das Zivilrecht auszulegen ist (BVerfGE 7, 198). § 138 Abs. 1 ist eines der „privatrechtlichen Einfallstore der Grundrechte“. Zu beachten ist aber, dass auch die Vertragsfreiheit über Art. 2 Abs. 1 GG geschützt ist. Bei struktureller Unterlegenheit und ungewöhnlich belastenden Folgen muss das Zivilrecht korrigieren (BVerfGE 89, 214).",
+      "long": "## Wertordnung und Generalklauseln (S. 54–55)\n\nNach dem BVerfG (BVerfGE 7, 198; 73, 261) enthält der Grundrechtsabschnitt ein **Wertesystem**; keine zivilrechtliche Vorschrift darf ihm widersprechen, jede ist in seinem Geiste auszulegen. Die h.L. sieht gerade in den Generalklauseln wie **§ 138 Abs. 1** den Weg, dem Einfluss der Grundrechte differenziert gerecht zu werden: § 138 Abs. 1 als „**privatrechtliches Einfallstor der Grundrechte**“. Der BGH (BGHZ 70, 313, 324) hat sich dazu bekannt.\n\n**Beispiel Scheinehe (OLG Düsseldorf, MDR 1983, 932):** Ein Ausländer gewährt einer Deutschen ein Darlehen, um sie zu einer Scheinehe zur Täuschung der Ausländerbehörden zu bewegen. Nichtig nach § 138 Abs. 1: Missachtung des durch **Art. 6 GG** geschützten Instituts der Ehe; die Allgemeinheit hat ein Interesse daran, dass die Ehe nicht ausgehöhlt wird.\n\n## Grenzen (S. 55)\n\nMit Art. 2 Abs. 1 GG ist auch die **rechtsgeschäftliche Gestaltungsfreiheit** grundrechtlich anerkannt. Eine schrankenlose Anwendung des Gleichbehandlungsgrundsatzes auf private Geschäfte würde die Vertragsfreiheit aushöhlen (BGHZ 70, 313, 324 f.).\n\n## Gestörte Vertragsparität (S. 55)\n\nDas BVerfG (BVerfGE 89, 214) hat anhand der §§ 138, 242 eine **Inhaltskontrolle des Bürgschaftsvertrags** vorgenommen: Aus Art. 2 Abs. 1 GG und dem Sozialstaatsprinzip (Art. 20 Abs. 1, 28 Abs. 1 GG) folgt, dass das Zivilrecht korrigieren muss, wenn eine **typisierbare Fallgestaltung** eine **strukturelle Unterlegenheit** eines Teils erkennen lässt und die Folgen für ihn **ungewöhnlich belastend** sind. Vertragsfreiheit taugt nur bei annähernd ausgewogenem Kräfteverhältnis als Mittel angemessenen Interessenausgleichs.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 54
+        },
+        {
+          "doc": "BGB_5",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Fallgruppen: Knebelung, Übersicherung, Gläubigerbenachteiligung, „Geliebtentestament“",
+      "short": "Zur Konkretisierung haben Rechtsprechung und Literatur Fallgruppen gebildet. Knebelungsverträge lähmen die wirtschaftliche Bewegungsfreiheit und führen in eine sittlich zu missbilligende Abhängigkeit (z.B. unbegrenzte Verlagsoption, überlange Bierbezugsverträge ab etwa 15–20 Jahren, Übersicherung). Sittenwidrig ist auch die täuschende Übertragung des letzten Vermögens an einen Gläubiger. Zuwendungen an Geliebte sind nur in Ausnahmefällen sittenwidrig.",
+      "long": "## Fallgruppenmethode (S. 56)\n\nWeil die Gesamtcharakter-Formel schwer zu handhaben ist, wurden **Hauptfallgruppen** gebildet; das Skript stellt einige beispielhaft dar.\n\n## a) Einschränkung der wirtschaftlichen Entscheidungsfreiheit – Knebelung (S. 56–58)\n\nSittenwidrig ist ein Geschäft, das die Freiheit des Betroffenen so weit beschränkt, dass er seine **geschäftliche Selbständigkeit verliert**. **Knebelungsvertrag:** Eine Partei engt die andere so ein, dass deren **wirtschaftliche Bewegungsfreiheit gelähmt** ist und sie in eine **sittlich zu missbilligende Abhängigkeit** gerät.\n\n- **Verlagsoption (BGHZ 22, 347, 355):** Pflicht des Autors, alle künftigen Werke zuerst einem Verleger anzubieten – ohne zeitliche oder gegenständliche Begrenzung und ohne angemessene Gegenleistung → sittenwidrige Knebelung.\n- **Bierlieferungsverträge:** Brauerei gibt dem Gastwirt ein Darlehen; Gastwirt verpflichtet sich langfristig zum ausschließlichen Bierbezug. **Beispiel (nach OLG Karlsruhe, MDR 1968, 493):** 18 Jahre Laufzeit, deckungsgleich mit der Rückzahlungsfrist eines günstigen Darlehens – unbedenklich. Tendenz der Rechtsprechung: Grenze bei **15 bis 20 Jahren**; Bindungen von **20 Jahren oder mehr** bedürfen besonderer Rechtfertigung (S. 57).\n- **Übersicherung bei Sicherungsgeschäften:** Gläubiger lassen sich mehr übereignen, als zur Sicherung nötig ist. **Beispiel (nach KG, LZ 1919, 413):** Für ein Darlehen über 10.000 € übereignet Textilgroßhändler T der D-Bank alle gegenwärtigen und künftigen Waren (100.000 €) und das Inventar (25.000 €) und räumt ihr Mitwirkungsrechte bei der Geschäftsleitung und Generalvollmacht ein → Übersicherung plus Lähmung der Bewegungsfreiheit → Sicherungsvertrag nach § 138 Abs. 1 nichtig (S. 57–58).\n- Grenze nach BGHZ 19, 12, 18: Dem Schuldner muss so viel Bewegungsfreiheit bleiben, dass er in angemessenem Rahmen auch **andere Gläubiger** freiwillig befriedigen kann; kritisch v.a. bei Übertragung bei Insolvenzreife oder sich abzeichnender Zahlungsunfähigkeit.\n- Häufig verbinden sich Freiheitsbeschränkung, **Äquivalenzstörung**, Ausnutzung von Übermacht und Schädigung Dritter.\n\n**Gläubigerbenachteiligung (S. 58):** Sittenwidrig ist die Übertragung des **letzten** zur Gläubigerbefriedigung tauglichen Vermögens an einen Gläubiger, wenn dadurch andere Gläubiger über die Kreditwürdigkeit **getäuscht** werden und beide **zusammenwirken**; es genügt, dass sie mit der Schädigung anderer Gläubiger rechneten (BGH ZIP 1995, 630).\n\n## b) „Geliebtentestamente“ (S. 58–59)\n\nDas RG neigte zur Sittenwidrigkeit; der BGH trägt dem Wandel der Moralvorstellungen Rechnung und betont die **Testierfreiheit**. Sittenwidrigkeit nur in **besonders herausragenden Ausnahmefällen**, wenn in der Verfügung selbst eine verwerfliche Gesinnung zum Ausdruck kommt – etwa wenn sie **lediglich als Entgelt für sexuelle Hingabe** gedacht ist. Es gibt **keine Vermutung**, dass eine Zuwendung an eine(n) Geliebte(n) allein diesem Zweck dient. Das Skript fügt hinzu, seit Inkrafttreten des ProstG (§ 1 ProstG) könne die Verfügung selbst in diesem Fall nicht nichtig sein – diese Aussage steht in Spannung zur zuvor zitierten BGH-Rechtsprechung.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 56
+        },
+        {
+          "doc": "BGB_5",
+          "page": 57
+        },
+        {
+          "doc": "BGB_5",
+          "page": 58
+        },
+        {
+          "doc": "BGB_5",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Wucher (§ 138 Abs. 2) und wucherähnliche Geschäfte",
+      "short": "Wucher ist ein Sonderfall der Sittenwidrigkeit und wird vor § 138 Abs. 1 geprüft. Kumulativ erforderlich: Rechtsgeschäft über Vermögensvorteile für eine Leistung, auffälliges Missverhältnis, Schwächelage des Bewucherten (Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen, erhebliche Willensschwäche) und deren Ausbeutung. Bei Krediten gilt als Richtwert der doppelte Marktzins bzw. +12 Prozentpunkte. Fehlt ein subjektives Merkmal, kann ein wucherähnliches Geschäft nach § 138 Abs. 1 vorliegen.",
+      "long": "## Stellung im Gutachten (S. 59)\n\n§ 138 Abs. 2 ist ein **Sonderfall** des sittenwidrigen Geschäfts; ist Wucher bejaht, steht die Sittenwidrigkeit fest. Daher ist **§ 138 Abs. 2 vor § 138 Abs. 1** zu prüfen (soweit nicht völlig fernliegend). Fehlt ein Wuchermerkmal, ist der Rückgriff auf § 138 Abs. 1 nur zulässig, wenn ein **neues, außerhalb von Abs. 2 liegendes Sittenwidrigkeitselement** hinzukommt, z.B. eine besonders verwerfliche Gesinnung (BGH WM 1979, 1294).\n\n## Tatbestand (S. 60) – kumulativ!\n\n1. Rechtsgeschäft, durch das sich jemand für eine Leistung **Vermögensvorteile versprechen oder gewähren lässt**;\n2. **auffälliges Missverhältnis** zwischen Leistung und Gegenleistung – Vergleich der **objektiven Werte** (verkehrsübliches Äquivalent, Risikofaktoren berücksichtigungsfähig);\n3. **Schwächelage** des Bewucherten: Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder (erhebliche) Willensschwäche;\n4. **Ausbeutung** durch den Wucherer = bewusste Ausnutzung; Kenntnis von Schwächelage und Missverhältnis nötig, **Ausbeutungsabsicht nicht** (S. 60–61). Bei **besonders grobem** Missverhältnis spricht eine tatsächliche Vermutung für die subjektiven Merkmale (BGH NJW 1994, 1726).\n\n**Zwangslage** (S. 60): eine nicht notwendig wirtschaftlich bedingte Lage dringenden Bedürfnisses nach Sach- oder Geldleistungen; auch psychische Zwangslagen, wenn tatsächlich vorhanden. Ein anderweitig nicht zu deckender Kreditbedarf genügt nicht stets; es genügt aber ein drohender **schwerer wirtschaftlicher Nachteil** – stets als Gefährdung des **Bestehenden**, nicht bloßer Zukunftspläne.\n\n## Kreditzinsen und Marktvergleich (S. 61–62)\n\nFeste Zinsobergrenzen kennt das BGB nicht; maßgeblich sind Kapitalmarktlage und Einzelfallrisiko. Eine starre Preisgrenze würde die Grenzen richterlicher Rechtsfortbildung überschreiten (BGHZ 80, 153). Geeignetes Mittel ist der **Marktvergleich**: auffälliges Missverhältnis in der Regel, wenn der effektive Jahreszins **rund doppelt so hoch** ist wie der Marktzins – relativ **ca. 100 % darüber** (Niedrigzinsphase, BGHZ 99, 333) oder absolut **ca. 12 Prozentpunkte darüber** (Hochzinsphase, BGHZ 110, 336).\n\n## Wucherähnliche Geschäfte (S. 62–63)\n\nBei Ratenkrediten fehlt oft die Schwächelage oder ihre Ausbeutung. Dann kann § 138 Abs. 1 greifen: **auffälliges Missverhältnis** + **verwerfliche Gesinnung**, insbesondere wenn der Begünstigte die schwächere Lage des anderen bewusst ausnutzt oder sich **leichtfertig der Erkenntnis verschließt**, dass dieser sich nur deshalb auf die Bedingungen einlässt (BGHZ 128, 255). Bei **Kreditinstituten** ist bei objektivem Missverhältnis das subjektive Element in aller Regel erfüllt (BGHZ 98, 174, 178).\n\n**Beispiel (nach BGHZ 99, 333):** Vertragszins 26,29 %, Marktzins 8,52 % – relativ rund 200 % höher → Kreditvertrag nach § 138 Abs. 1 nichtig.\n\n**Rechtsfolge (S. 62):** Keine Zinsen; die Darlehenssumme ist aber **in der vereinbarten Zeitfolge** zurückzuzahlen (BGH NJW 1983, 1420); Besonderheiten bei Entreicherung (§ 818 Abs. 3).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 59
+        },
+        {
+          "doc": "BGB_5",
+          "page": 60
+        },
+        {
+          "doc": "BGB_5",
+          "page": 61
+        },
+        {
+          "doc": "BGB_5",
+          "page": 62
+        },
+        {
+          "doc": "BGB_5",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Sittenwidrige Bürgschaften und culpa in contrahendo",
+      "short": "Der BGH hielt Bürgschaften einkommens- und vermögensloser Angehöriger lange für wirksam (Vertragsfreiheit, Eigenverantwortung). Das BVerfG (BVerfGE 89, 214) verlangte bei gestörter Vertragsparität eine Inhaltskontrolle über §§ 138, 242. Seitdem ist eine krass überfordernde Bürgschaft eines geschäftsunerfahrenen erwachsenen Kindes aus familiärer Hilfsbereitschaft in der Regel sittenwidrig; bei Ehegatten urteilt der BGH differenzierter. Wer schuldhaft einen sittenwidrigen Vertrag verwendet, kann aus c.i.c. haften.",
+      "long": "## Ausgangslage (S. 63)\n\nDiskutiert wurde die Mithaftung einkommens- und vermögensloser Angehöriger, vor allem gerade volljährig gewordener Kinder für Kredite der Eltern. Instanzgerichte und Literatur sahen ein „Leben im Schuldturm“ als sittenwidrig an (§§ 138, 242 i.V.m. Art. 1 Abs. 1, 2 Abs. 1 GG und Sozialstaatsprinzip).\n\n**Harte Linie des BGH (IX. und III. Zivilsenat):** Jeder Gläubiger darf davon ausgehen, dass ein voll Geschäftsfähiger die Tragweite seiner Bürgschaft überblickt – auch bei enger Verwandtschaft; jeder Volljährige darf auch risikoreiche Geschäfte eingehen, selbst wenn sie ihn schlechthin überfordern (BGHZ 106, 269; 120, 272; 125, 206).\n\n## Korrektur durch das BVerfG (S. 64)\n\nBVerfGE 89, 214: Inhaltskontrolle anhand der §§ 138, 242. Bei **typisierbarer struktureller Unterlegenheit** und **ungewöhnlich belastenden Folgen** müssen die Zivilgerichte korrigieren; sie dürfen sich nicht mit „Vertrag ist Vertrag“ begnügen, sondern müssen klären, ob die Regelung Folge **ungleicher Verhandlungsstärke** ist. Verträge dürfen nicht als Mittel der **Fremdbestimmung** dienen. § 138 Abs. 1 ordnet pauschal Nichtigkeit an; differenziertere Rechtsfolgen ergeben sich aus § 242.\n\n## Rechtsprechung des BGH danach (S. 64–66)\n\n- Schon zuvor (BGHZ 125, 206): Nichtigkeit möglich, wenn die Bürgschaft die Einkommens- und Vermögensverhältnisse weit übersteigt **und** weitere, dem Gläubiger zurechenbare Umstände (Ausnutzen geschäftlicher Unerfahrenheit oder seelischer Zwangslage) ein unerträgliches Ungleichgewicht schaffen.\n- **Kinder** (BGHZ 128, 230, 233): Das Begehren der Eltern, ihre erwachsenen, geschäftsunerfahrenen Kinder sollten aus familiärer Hilfsbereitschaft eine ihre Leistungsfähigkeit dauerhaft weit übersteigende Bürgschaft übernehmen, ist in aller Regel zu missbilligen; erkennt die Bank dies, ist die auf ihr Verlangen erteilte Bürgschaft **grundsätzlich sittenwidrig**.\n- **Ehegatten** (BGHZ 128, 230): differenzierend. Fall: Hausfrau mit drei kleinen Kindern, ohne Vermögen, bürgt für Kredit zur Erweiterung des Betriebs des Ehemanns. Die bloße finanzielle Überforderung genügt nicht; nötig sind **weitere zurechenbare Umstände**. Die Ehe (§ 1353 Abs. 1) ist Partnerschaft gleichen Rechts und auch **Wirtschafts- und Risikogemeinschaft**; die Bank darf annehmen, dass Eheleute geschäftliche Fragen ohne unzulässigen Druck erörtern. Bürgschaft wirksam. Anders ggf. bei von Anfang an besonders risikoreichen oder nur persönlichen Interessen des Hauptschuldners dienenden Verbindlichkeiten.\n\n## Haftung aus c.i.c. (S. 66)\n\nWer einen ihn einseitig begünstigenden, nach § 138 Abs. 1 sittenwidrigen Vertrag verwendet, kann nach **§§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1** für Aufwendungen haften, die der andere im Vertrauen auf die Wirksamkeit macht. Haftungsgrund: Verletzung der vorvertraglichen Rücksichtnahmepflicht durch Erwecken von Vertrauen. Erforderlich ist **Verschulden**, kein auf sittenwidrige Schädigung gerichteter Vorsatz (BGHZ 99, 101, 107). Offen ist, ob der Rechtsgedanke des **§ 122 Abs. 2** entsprechend gilt.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 63
+        },
+        {
+          "doc": "BGB_5",
+          "page": 64
+        },
+        {
+          "doc": "BGB_5",
+          "page": 65
+        },
+        {
+          "doc": "BGB_5",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Nichtigkeit von Vertragsteilen nach den §§ 307 ff.",
+      "short": "Die AGB-Vorschriften enthalten eigene Unwirksamkeitsregeln: § 307 als Generalklausel (unangemessene Benachteiligung entgegen Treu und Glauben), § 308 als Klauselverbote mit Wertungsmöglichkeit und § 309 als Klauselverbote ohne Wertungsmöglichkeit. Geprüft wird „von hinten nach vorne“. Nach § 306 Abs. 1 bleibt der Vertrag im Übrigen wirksam – anders als im Zweifel nach § 139.",
+      "long": "## Die Stufen der Inhaltskontrolle (S. 66–67)\n\n- **§ 307 – Generalklausel:** Unwirksam sind AGB-Bestimmungen, die den Vertragspartner des Verwenders **entgegen den Geboten von Treu und Glauben unangemessen benachteiligen**.\n- **§ 308 – Klauselverbote mit Wertungsmöglichkeit:** Sie enthalten unbestimmte Rechtsbegriffe wie „unangemessen“, „sachlich gerechtfertigt“, „unverhältnismäßig hoch“; zu prüfen ist, ob die Gefahr eines gestörten Interessenausgleichs besonders nahe liegt.\n- **§ 309 – Klauselverbote ohne Wertungsmöglichkeit:** Die „gefährlichsten“ Klauseln sind unwirksam, sobald der Tatbestand der jeweiligen Nummer erfüllt ist – ohne Abwägung im Einzelfall. Sie können nur durch **individuelles Aushandeln** wirksam werden, nicht durch AGB.\n- Daraus folgt die Prüfungsreihenfolge **„von hinten nach vorne“**: § 309 → § 308 → § 307.\n\n**Beispiel zu § 309 Nr. 1 (S. 67):** B kauft bei S eine Waschmaschine, Lieferzeit drei Monate. Nach den einbezogenen AGB kann S bei Kostensteigerungen den Preis entsprechend erhöhen; S verlangt nach der Tarifrunde 7 % mehr. Die Klausel ist nach § 309 Nr. 1 nichtig; S muss zum ursprünglichen Preis liefern.\n\n## Rechtsfolge: § 306 Abs. 1 (S. 67)\n\nAnders als nach **§ 139**, der bei Teilnichtigkeit im Zweifel Gesamtnichtigkeit anordnet, bleibt der Vertrag nach **§ 306 Abs. 1** trotz Nichtigkeit einzelner Klauseln grundsätzlich **im Übrigen wirksam**. Das schützt den Vertragspartner des Verwenders: Ihm sollen durch die AGB-Widrigkeit einzelner Klauseln nicht seine vertraglichen Ansprüche insgesamt entzogen werden (Einzelheiten zu § 139 in KE 6 § 15).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 66
+        },
+        {
+          "doc": "BGB_5",
+          "page": 67
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nichtigkeit",
+      "text": "Die mit dem Rechtsgeschäft angestrebten Rechtsfolgen treten nicht ein; das Geschäft ist dauernd unwirksam. Es ist aber kein reines Nullum, da ein äußerer Tatbestand existiert, der nur die beabsichtigten Wirkungen nicht herbeiführen kann.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        },
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "term": "Schwebende Unwirksamkeit",
+      "text": "Das Rechtsgeschäft ist noch nicht wirksam, kann aber durch die Genehmigung desjenigen, der sie erteilen kann, wirksam werden; wird die Genehmigung verweigert, ist es nichtig.",
+      "norm": "z.B. § 177 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "term": "Verbotsgesetz",
+      "text": "Eine Norm, durch die ein Rechtsgeschäft seines Inhalts wegen unterbunden werden soll. Ob ein Verstoß zur Nichtigkeit führt, richtet sich nach Sinn und Zweck des Verbots (§ 134 als Auslegungsregel).",
+      "norm": "§ 134 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "term": "Umgehungsgeschäft",
+      "text": "Statt des verbotenen Rechtsgeschäfts wird ein anderes vereinbart, das im Wesentlichen den gleichen wirtschaftlichen Erfolg erreicht, ohne die Tatbestandsmerkmale der umgangenen Vorschrift zu erfüllen. Es ist nach § 134 nichtig, wenn das Verbotsgesetz den bezweckten Erfolg schlechthin verhindern will – auch ohne Umgehungsabsicht.",
+      "norm": "§ 134 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "term": "Sittenwidrigkeit (Gesamtcharakter-Formel)",
+      "text": "Ein Rechtsgeschäft ist sittenwidrig, wenn es nach dem Anstandsgefühl aller billig und gerecht Denkenden und nach seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter den guten Sitten zuwiderläuft (BGHZ 34, 169, 176).",
+      "norm": "§ 138 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "term": "Knebelungsvertrag",
+      "text": "Ein Vertrag, durch den eine Vertragspartei die andere durch die vertraglichen Bedingungen so einengt, dass deren wirtschaftliche Bewegungsfreiheit gelähmt ist und sie in eine sittlich zu missbilligende Abhängigkeit gerät.",
+      "norm": "§ 138 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "term": "Übersicherung",
+      "text": "Der Gläubiger lässt sich zur Sicherung (z.B. im Rahmen einer Sicherungsübereignung) wesentlich mehr übertragen, als zur Absicherung seiner Forderung notwendig ist.",
+      "norm": "§ 138 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "term": "Zwangslage (§ 138 Abs. 2)",
+      "text": "Eine nicht notwendigerweise durch wirtschaftliche Bedrängnis hervorgerufene Lage, in der ein dringendes Bedürfnis nach Sach- oder Geldleistungen besteht; auch tatsächlich vorhandene psychische Zwangslagen. Bei Kreditbedarf muss ein schwerer wirtschaftlicher Nachteil für Bestehendes drohen.",
+      "norm": "§ 138 Abs. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "term": "Ausbeutung (§ 138 Abs. 2)",
+      "text": "Die bewusste Ausnutzung der Situation des Bewucherten; der Wucherer muss Schwächelage und auffälliges Missverhältnis kennen. Eine Ausbeutungsabsicht ist nicht erforderlich.",
+      "norm": "§ 138 Abs. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 60
+        },
+        {
+          "doc": "BGB_5",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "term": "Wucherähnliches Rechtsgeschäft",
+      "text": "Ein gegenseitiger Vertrag, bei dem zwischen Leistung und Gegenleistung objektiv ein auffälliges Missverhältnis besteht und eine verwerfliche Gesinnung des Begünstigten hervorgetreten ist, insbesondere weil er die schwächere Lage des anderen bewusst ausnutzt oder sich leichtfertig der Erkenntnis verschließt, dass dieser sich nur deshalb auf die Bedingungen einlässt; nichtig nach § 138 Abs. 1.",
+      "norm": "§ 138 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 62
+        },
+        {
+          "doc": "BGB_5",
+          "page": 63
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Prüfung der Nichtigkeit nach § 134 BGB",
+      "steps": [
+        "1. Rechtsgeschäft (Vertrag, einseitiges Geschäft; ggf. Umgehungsgeschäft).",
+        "2. Verbotsgesetz: Norm, die ein Rechtsgeschäft seines Inhalts wegen unterbinden will (Strafnormen im Zweifel ja; BGB-Normen mit Nichtigkeitsanordnung oder „kann nicht/kann nur“; Gesellschafts-, Wettbewerbs-, Arbeitsrecht).",
+        "3. Verstoß des Rechtsgeschäfts gegen das Verbot (bei Umgehung: Will das Verbot den rechtlichen/wirtschaftlichen Erfolg schlechthin verhindern?).",
+        "4. Rechtsfolge nach Sinn und Zweck („wenn sich nicht aus dem Gesetz ein anderes ergibt“): a) Verbot an beide Parteien → in der Regel nichtig; b) Verbot nur an eine Partei → in der Regel wirksam, außer das Bestehenlassen der Regelung wäre mit dem Normzweck unvereinbar; c) richtet sich das Verbot nur gegen Ort/Zeit der Vornahme (Ordnungsvorschrift) → wirksam.",
+        "5. Umfang: Gesamt- oder Teilnichtigkeit (§ 139)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 46
+        },
+        {
+          "doc": "BGB_5",
+          "page": 47
+        },
+        {
+          "doc": "BGB_5",
+          "page": 49
+        },
+        {
+          "doc": "BGB_5",
+          "page": 73
+        }
+      ]
+    },
+    {
+      "title": "Prüfung der Sittenwidrigkeit nach § 138 BGB",
+      "steps": [
+        "1. Wucher, § 138 Abs. 2 (zuerst, soweit nicht völlig fernliegend): a) Rechtsgeschäft über Vermögensvorteile für eine Leistung; b) auffälliges Missverhältnis (objektiver Wert, Marktvergleich); c) Schwächelage: Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen, erhebliche Willensschwäche; d) Ausbeutung (bewusste Ausnutzung; keine Absicht nötig) – alles kumulativ.",
+        "2. Falls Abs. 2 (-): § 138 Abs. 1 nur, wenn ein zusätzliches Sittenwidrigkeitselement hinzutritt (z.B. wucherähnliches Geschäft: auffälliges Missverhältnis + verwerfliche Gesinnung).",
+        "3. § 138 Abs. 1 allgemein: Gesamtwürdigung von Inhalt, Beweggrund und Zweck; Fallgruppen (Knebelung, Übersicherung, Gläubigerbenachteiligung, sittenwidrige Bürgschaft …); Wertungen des Grundgesetzes (mittelbare Drittwirkung).",
+        "4. Subjektiv: kein Bewusstsein der Sittenwidrigkeit nötig, aber Kenntnis oder fahrlässige Unkenntnis der begründenden Tatumstände.",
+        "5. Rechtsfolge: Nichtigkeit grundsätzlich des ganzen Geschäfts; Teilnichtigkeit nur über § 139 (keine Reduktion überhöhter Entgelte); ggf. c.i.c.-Haftung (§§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 51
+        },
+        {
+          "doc": "BGB_5",
+          "page": 53
+        },
+        {
+          "doc": "BGB_5",
+          "page": 54
+        },
+        {
+          "doc": "BGB_5",
+          "page": 59
+        },
+        {
+          "doc": "BGB_5",
+          "page": 60
+        },
+        {
+          "doc": "BGB_5",
+          "page": 62
+        },
+        {
+          "doc": "BGB_5",
+          "page": 66
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Aussage über ein nichtiges Rechtsgeschäft trifft nach dem Skript zu?",
+      "options": [
+        "Es ist dauernd unwirksam, aber kein reines Nullum, weil ein äußerer Tatbestand existiert.",
+        "Es kann durch Genehmigung des Berechtigten rückwirkend wirksam werden.",
+        "Es ist bis zur Anfechtung wirksam und wird erst durch sie ex tunc vernichtet.",
+        "Es ist rechtlich überhaupt nicht existent, ein reines Nullum."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nichtigkeit bedeutet dauernde Unwirksamkeit; der äußere Tatbestand existiert, kann aber die beabsichtigten Wirkungen nicht herbeiführen (S. 43–44). Die Genehmigung betrifft schwebend unwirksame Geschäfte, die Anfechtung anfechtbare.",
+      "hints": [
+        "Unterscheiden Sie Nichtigkeit, schwebende Unwirksamkeit und Anfechtbarkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        },
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie den Nichtigkeitsgrund der Norm zu.",
+      "pairs": [
+        [
+          "§§ 104, 105",
+          "fehlende Geschäftsfähigkeit"
+        ],
+        [
+          "§ 125",
+          "Formverstoß"
+        ],
+        [
+          "§ 134",
+          "Verstoß gegen ein gesetzliches Verbot"
+        ],
+        [
+          "§ 138",
+          "Sittenwidrigkeit"
+        ],
+        [
+          "§§ 307 ff.",
+          "Verstoß gegen AGB-Vorschriften"
+        ]
+      ],
+      "explanation": "Übersicht der wichtigsten Nichtigkeitsgründe (S. 44).",
+      "hints": [
+        "Die Übersicht steht am Anfang von § 13."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ein Rechtsgeschäft, das gegen ein Verbotsgesetz verstößt, ist nach § 134 stets und automatisch nichtig.",
+      "answer": false,
+      "explanation": "§ 134 ordnet die Nichtigkeit nur an, „wenn sich nicht aus dem Gesetz ein anderes ergibt“. Er ist eine Auslegungsregel; entscheidend ist, ob das Verbot nach Sinn und Zweck die Nichtigkeit erfordert (BGHZ 45, 322, 326; S. 44).",
+      "hints": [
+        "Lesen Sie den Halbsatz am Ende des § 134."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Um ein Verbotsgesetz handelt es sich, wenn ein Rechtsgeschäft seines {{1}} wegen unterbunden werden soll. Strafvorschriften sind zwar nicht ausnahmslos, aber im {{2}} Verbotsgesetze im Sinne des § 134.",
+      "blanks": [
+        [
+          "Inhalts",
+          "Inhaltes"
+        ],
+        [
+          "Zweifel"
+        ]
+      ],
+      "explanation": "Definition des Verbotsgesetzes (S. 44) und Einordnung der Strafnormen (S. 45).",
+      "hints": [
+        "Es geht nicht um Ort oder Zeit, sondern um …"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mc-multi",
+      "level": "recognize",
+      "difficulty": 2,
+      "prompt": "Welche Normen nennt das Skript als Verbotsgesetze bzw. Nichtigkeitsnormen im Sinne des § 134? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "§ 299 StGB",
+        "§ 47 Abs. 4 GmbHG",
+        "§ 276 Abs. 3 BGB",
+        "§ 3 Abs. 2 S. 1 TVöD mit der Folge der Nichtigkeit der Schenkung"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "§ 299 StGB (S. 45–46), § 47 Abs. 4 GmbHG (S. 45) und § 276 Abs. 3 („kann nicht“, S. 45) werden genannt. Der Verstoß gegen § 3 Abs. 2 S. 1 TVöD führt dagegen nicht zur Nichtigkeit, weil sich das Verbot nur an den Angestellten richtet (S. 48).",
+      "hints": [
+        "Achten Sie bei der letzten Option auf die Rechtsfolge."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 45
+        },
+        {
+          "doc": "BGB_5",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Seifenhersteller K verspricht dem Angestellten A der Drogerie M einen monatlichen „Gehaltszuschuss“ von 175 €, wenn A für M größere Mengen Seife bei K einkauft. A verlangt die Zahlung. Wie ist die Rechtslage?",
+      "options": [
+        "Die Vereinbarung ist wegen Verstoßes gegen § 299 StGB nach § 134 nichtig; A hat keinen Anspruch.",
+        "Die Vereinbarung ist wirksam, weil sich § 299 StGB nur an den Angestellten richtet.",
+        "Die Vereinbarung ist nur anfechtbar; solange M nicht anficht, muss K zahlen.",
+        "Die Vereinbarung ist schwebend unwirksam und kann von M als Arbeitgeberin genehmigt werden."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 299 StGB stellt sowohl das Fordern/Annehmen als auch das Anbieten/Gewähren des Vorteils unter Strafe, richtet sich also an beide Seiten. Das Skript sieht den Vertrag ausdrücklich als nach § 134 nichtig an (S. 45–46).",
+      "hints": [
+        "Wer wird nach dem im Skript zitierten Wortlaut des § 299 StGB bestraft?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 45
+        },
+        {
+          "doc": "BGB_5",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte des § 134 in die richtige Reihenfolge.",
+      "items": [
+        "Vorliegen eines Rechtsgeschäfts",
+        "Verbotsgesetz (Unterbindung eines Rechtsgeschäfts seines Inhalts wegen)",
+        "Verstoß des Rechtsgeschäfts gegen das Verbot",
+        "Nichtigkeitsfolge nach Sinn und Zweck des Verbots (Normrichtung: eine oder beide Parteien)",
+        "Umfang der Nichtigkeit (§ 139)"
+      ],
+      "explanation": "Vgl. S. 44–47: Erst nach Feststellung des Verstoßes wird über Normzweck und Normrichtung entschieden, ob Nichtigkeit eintritt.",
+      "hints": [
+        "Die Rechtsfolgenfrage kommt erst nach der Feststellung des Verstoßes."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 46
+        },
+        {
+          "doc": "BGB_5",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ein Verbotsgesetz richtet sich nur an eine der Vertragsparteien. Wann ist der Vertrag nach der Rechtsprechung des BGH dennoch nichtig?",
+      "options": [
+        "Wenn es mit dem Sinn und Zweck des Verbotsgesetzes unvereinbar wäre, die getroffene rechtliche Regelung hinzunehmen und bestehen zu lassen.",
+        "Immer dann, wenn der Verstoß mit Strafe oder Bußgeld bedroht ist.",
+        "Nur, wenn die andere Partei den Verstoß kannte.",
+        "Nie, weil einseitige Verbote die Wirksamkeit generell unberührt lassen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Einseitige Verbote führen in der Regel nicht zur Nichtigkeit; ausnahmsweise doch, wenn das Bestehenlassen mit dem Normzweck unvereinbar wäre (BGHZ 118, 142, 145; S. 47). Eine Straf- oder Bußgelddrohung bewirkt nicht zwingend die Nichtigkeit.",
+      "hints": [
+        "Die Formel taucht auch beim Schwarzarbeitsgesetz auf."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Vereinbaren Besteller und Unternehmer nachträglich, dass ein zunächst ordnungsgemäß geschlossener Werkvertrag „ohne Rechnung“ gegen bar und mit Preisnachlass abgewickelt wird, ist nach der im Skript zitierten BGH-Entscheidung nur die Änderungsvereinbarung nichtig.",
+      "answer": false,
+      "explanation": "Nach BGH NJW 2017, 1808 erfasst das Schwarzarbeitsverbot auch nachträglich abgeänderte Verträge; erst die Verknüpfung mit der Werkleistung macht den Vorgang zur Schwarzarbeit, daher ist der gesamte Werkvertrag nichtig (S. 47–48).",
+      "hints": [
+        "Was macht den Vorgang erst zur Schwarzarbeit?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 47
+        },
+        {
+          "doc": "BGB_5",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Um ein gesetzliches Verbot zu vermeiden, wählen die Parteien eine andere Vertragsgestaltung, die wirtschaftlich zum selben Ergebnis führt. Das Verbotsgesetz will diesen Erfolg schlechthin verhindern. Den Parteien kam es auf eine Umgehung aber gar nicht an. Wie ist das Geschäft zu beurteilen?",
+      "options": [
+        "Nichtig nach § 134, da die Norm auch auf das andere Geschäft anzuwenden ist; eine Umgehungsabsicht ist nicht erforderlich.",
+        "Wirksam, da die Tatbestandsmerkmale des Verbots nicht vorliegen.",
+        "Wirksam, da § 134 ohne Umgehungsabsicht nicht eingreift.",
+        "Nur nach § 138 Abs. 1 nichtig, weil Umgehungsgeschäfte stets sittenwidrig sind."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Soll der Erfolg schlechthin verhindert werden, gilt § 134 auch für das funktionswidrig eingesetzte andere Geschäft – selbst ohne Umgehungsabsicht (BGHZ 34, 200, 205; S. 49). Nur wenn das Verbot bloß die Vornahme eines Geschäfts bestimmter Art verhindern will, ist das andere Geschäft wirksam.",
+      "hints": [
+        "Unterscheiden Sie: Verbot der Geschäftsart vs. Verbot des Erfolgs."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Formel verwendeten Reichsgericht und zunächst auch der BGH zur Bestimmung der guten Sitten?",
+      "options": [
+        "Das Anstandsgefühl aller billig und gerecht Denkenden",
+        "Das Rechtsgefühl des entscheidenden Richters",
+        "Die Verkehrssitte im Sinne des § 157",
+        "Das gesunde Volksempfinden"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "RGZ 80, 219, 221; BGHZ 10, 228, 232 (S. 52). Die persönliche Anschauung des Richters darf gerade nicht Maßstab sein (S. 50).",
+      "hints": [
+        "Die Formel wurde kritisiert, weil sie die Definitionsebene nur verschiebt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach dem BGH ist ein Vertrag sittenwidrig, wenn er nach dem Anstandsgefühl aller billig und gerecht Denkenden und nach seinem aus der Zusammenfassung von {{1}}, {{2}} und {{3}} zu entnehmenden Gesamtcharakter den guten Sitten zuwiderläuft.",
+      "blanks": [
+        [
+          "Inhalt"
+        ],
+        [
+          "Beweggrund",
+          "Motiv"
+        ],
+        [
+          "Zweck"
+        ]
+      ],
+      "explanation": "BGHZ 34, 169, 176 (S. 52); Grundlage der Gesamtwürdigung (S. 53, 56).",
+      "hints": [
+        "Ein objektives und zwei subjektive Elemente."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Nach herrschender Meinung setzt § 138 Abs. 1 voraus, dass die Beteiligten sich der Sittenwidrigkeit ihres Geschäfts bewusst waren.",
+      "answer": false,
+      "explanation": "Ein Bewusstsein der Sittenwidrigkeit ist nicht erforderlich – sonst würden Personen mit laxerer Moral bevorzugt. Erforderlich ist aber Kenntnis oder fahrlässige Unkenntnis der Tatumstände, aus denen sich die Sittenwidrigkeit ergibt (S. 54).",
+      "hints": [
+        "Unterscheiden Sie zwischen Bewertung und Tatsachenkenntnis."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Eine Vereinssatzung enthält mehrere Bestimmungen (nur ausländische Arbeitnehmer als Mitglieder, Allmacht des auf Lebenszeit gewählten Vorstands, Mitgliederversammlung nur alle 10 Jahre). Wie begründet das Skript die Sittenwidrigkeit?",
+      "options": [
+        "Erst die Gesamtwürdigung des Zusammenspiels führt zu einer Knebelung der Mitglieder.",
+        "Schon jede Bestimmung für sich ist sittenwidrig.",
+        "Die Satzung verstößt gegen § 134 i.V.m. Art. 3 Abs. 1 GG.",
+        "Die Satzung ist wirksam, da jede Klausel sachlich gerechtfertigt sein kann."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Jede Bestimmung kann für sich gerechtfertigt sein; die Gesamtwürdigung ergibt aber eine Knebelung der geschäftlich ungewandten Mitglieder (nach LG Bremen, MDR 1974, 134; S. 53).",
+      "hints": [
+        "Stichwort: Gesamtwürdigung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erläutern Sie, warum § 138 Abs. 1 als „privatrechtliches Einfallstor der Grundrechte“ bezeichnet wird und welche Grenze dabei zu beachten ist.",
+      "modelAnswer": "Nach dem BVerfG (BVerfGE 7, 198) enthalten die Grundrechte ein Wertesystem, das auch das bürgerliche Recht beeinflusst: Keine zivilrechtliche Vorschrift darf ihm widersprechen, jede ist in seinem Geiste auszulegen. Die Grundrechte binden Private nicht unmittelbar wie den Staat; ihre Wertungen fließen aber über die ausfüllungsbedürftigen Generalklauseln, insbesondere § 138 Abs. 1, in das Privatrecht ein (mittelbare Drittwirkung). Der BGH (BGHZ 70, 313, 324) hat dem zugestimmt. Beispiel: Ein Darlehen, das zu einer Scheinehe bewegen soll, ist wegen Missachtung des durch Art. 6 GG geschützten Instituts der Ehe nach § 138 Abs. 1 nichtig (OLG Düsseldorf). Zu beachten ist aber, dass auch die rechtsgeschäftliche Gestaltungsfreiheit über Art. 2 Abs. 1 GG grundrechtlich geschützt ist; eine schrankenlose Anwendung etwa des Gleichbehandlungsgrundsatzes würde die Vertragsfreiheit aushöhlen.",
+      "rubric": [
+        "Objektive Wertordnung der Grundrechte (BVerfGE 7, 198)",
+        "Wirkung über Generalklauseln – mittelbare Drittwirkung",
+        "Beispiel (z.B. Scheinehe, Art. 6 GG)",
+        "Grenze: Vertragsfreiheit aus Art. 2 Abs. 1 GG"
+      ],
+      "hints": [
+        "Denken Sie an das Lüth-Urteil (BVerfGE 7, 198).",
+        "Welches Grundrecht schützt die Vertragsfreiheit?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 54
+        },
+        {
+          "doc": "BGB_5",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden Vereinbarungen sind nach den im Skript dargestellten Fallgruppen als sittenwidrig nach § 138 Abs. 1 anzusehen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Verlagsoption, nach der ein Autor sein gesamtes künftiges Schaffen ohne zeitliche Grenze und ohne angemessene Gegenleistung zuerst einem Verleger anbieten muss",
+        "Sicherungsübereignung aller Waren und des Inventars im Wert von 125.000 € für ein Darlehen von 10.000 € nebst Mitwirkungsrecht der Bank an der Geschäftsleitung",
+        "Bierbezugsvertrag über 18 Jahre, dessen Dauer der Rückzahlungsfrist eines günstigen Brauereidarlehens entspricht",
+        "Testament, in dem ein verheirateter Mann seine langjährige Lebensgefährtin bedenkt, ohne dass besondere achtenswerte Beweggründe festgestellt sind"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Verlagsoption (BGHZ 22, 347; S. 56) und Übersicherung mit Knebelung (nach KG, LZ 1919, 413; S. 57–58) sind sittenwidrig. Der 18-jährige Bierbezugsvertrag ist wegen der Kopplung an das günstige Darlehen unbedenklich (S. 57). Die Zuwendung an die Lebensgefährtin ist nicht ohne weiteres sittenwidrig (BGHZ 53, 369, 382; S. 59).",
+      "hints": [
+        "Prüfen Sie jeweils, ob die wirtschaftliche Bewegungsfreiheit gelähmt wird.",
+        "Bei Testamenten betont der BGH die Testierfreiheit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 56
+        },
+        {
+          "doc": "BGB_5",
+          "page": 57
+        },
+        {
+          "doc": "BGB_5",
+          "page": 58
+        },
+        {
+          "doc": "BGB_5",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ab welcher Bindungsdauer müssen Bierbezugsverträge nach der im Skript beschriebenen Tendenz der Rechtsprechung durch besondere Umstände gerechtfertigt werden?",
+      "options": [
+        "Ab 20 Jahren oder mehr",
+        "Ab 5 Jahren",
+        "Ab 10 Jahren",
+        "Ab 30 Jahren; darunter sind sie stets wirksam"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Rechtsprechung zieht die Grenze tendenziell bei 15 bis 20 Jahren; Bindungen von 20 Jahren oder mehr bedürfen besonderer Rechtfertigung, z.B. durch ungewöhnliche Gegenleistungen (S. 57).",
+      "hints": [
+        "Das Beispiel mit 18 Jahren war noch unbedenklich."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Prüfungsreihenfolge bei § 138 BGB in die richtige Reihenfolge.",
+      "items": [
+        "Wucher, § 138 Abs. 2",
+        "Falls Abs. 2 nicht vollständig erfüllt: zusätzliches Sittenwidrigkeitselement für § 138 Abs. 1 (z.B. wucherähnliches Geschäft)",
+        "Allgemeine Gesamtwürdigung nach § 138 Abs. 1 (Fallgruppen)",
+        "Rechtsfolge: Nichtigkeit, Umfang nach § 139"
+      ],
+      "explanation": "§ 138 Abs. 2 ist als Sonderfall vor Abs. 1 zu prüfen (S. 59); Rückgriff auf Abs. 1 nur mit zusätzlichem Element (S. 59, 62–63); Rechtsfolge S. 51.",
+      "hints": [
+        "Speziell vor allgemein."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 59
+        },
+        {
+          "doc": "BGB_5",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Tatbestandsmerkmal des Wuchers seiner Erläuterung zu.",
+      "pairs": [
+        [
+          "Auffälliges Missverhältnis",
+          "Vergleich der objektiven Werte, verkehrsübliches Äquivalent"
+        ],
+        [
+          "Zwangslage",
+          "dringendes Bedürfnis nach Sach- oder Geldleistungen, auch psychisch"
+        ],
+        [
+          "Ausbeutung",
+          "bewusste Ausnutzung der Schwächelage, keine Absicht erforderlich"
+        ],
+        [
+          "Besonders grobes Missverhältnis",
+          "tatsächliche Vermutung für die subjektiven Merkmale"
+        ]
+      ],
+      "explanation": "Vgl. S. 60–61.",
+      "hints": [
+        "Ein Merkmal ist objektiv, eines betrifft den Bewucherten, eines den Wucherer."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 60
+        },
+        {
+          "doc": "BGB_5",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Eine Bank vereinbart mit dem Verbraucher V einen Ratenkredit zu einem effektiven Jahreszins von 26,29 %; der Marktzins liegt bei 8,52 %. Eine Zwangslage oder Unerfahrenheit des V lässt sich nicht feststellen. Wie ist der Vertrag zu beurteilen?",
+      "options": [
+        "Nichtig nach § 138 Abs. 1 als wucherähnliches Geschäft; bei Kreditinstituten ist das subjektive Element bei objektivem Missverhältnis in aller Regel erfüllt.",
+        "Nichtig nach § 138 Abs. 2, da allein das Zinsniveau den Wucher begründet.",
+        "Wirksam, da das BGB keine festen Zinsobergrenzen kennt.",
+        "Wirksam, aber der Zins wird über § 139 auf den Marktzins reduziert."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Mangels Schwächelage greift § 138 Abs. 2 nicht. Der Vertragszins übersteigt den Marktzins relativ um rund 200 % (Richtwert: ca. 100 %); bei Kreditinstituten ist das subjektive Element regelmäßig gegeben (BGHZ 98, 174, 178; Beispiel nach BGHZ 99, 333; S. 62). Eine Reduktion auf ein zulässiges Maß gibt es bei § 138 nicht (S. 51).",
+      "hints": [
+        "Rechnen Sie die relative Überschreitung aus.",
+        "Welche Merkmale des Abs. 2 fehlen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 61
+        },
+        {
+          "doc": "BGB_5",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ist ein Kreditvertrag nach § 138 nichtig, muss der Kreditnehmer die Darlehenssumme sofort in einem Betrag zurückzahlen.",
+      "answer": false,
+      "explanation": "Der Kreditgeber kann keine Zinsen fordern; der Kreditnehmer hat die Darlehenssumme aber in der vertraglich vereinbarten Zeitfolge zurückzuzahlen (BGH NJW 1983, 1420; S. 62).",
+      "hints": [
+        "Der Kreditnehmer soll durch die Nichtigkeit nicht schlechter gestellt werden."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Wie beurteilt der BGH nach dem Skript die Bürgschaft einer vermögens- und einkommenslosen Ehefrau für einen Betriebskredit ihres Ehemannes, aus dessen Betrieb die Familie lebt?",
+      "options": [
+        "Die finanzielle Überforderung allein genügt nicht; erforderlich sind weitere, dem Gläubiger zurechenbare Umstände, die ein unerträgliches Ungleichgewicht schaffen.",
+        "Sie ist stets sittenwidrig, weil die Ehefrau die Schuld nie wird tilgen können.",
+        "Sie ist nach § 134 i.V.m. Art. 6 GG nichtig.",
+        "Sie ist wirksam, weil Bürgschaften volljähriger Personen nach dem BVerfG keiner Inhaltskontrolle unterliegen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "BGHZ 128, 230: Bei Ehegatten urteilt der BGH differenzierter als bei Kindern; die Ehe ist auch Wirtschafts- und Risikogemeinschaft. Nötig sind zusätzliche zurechenbare Belastungen, z.B. Ausnutzung geschäftlicher Unerfahrenheit oder einer seelischen Zwangslage (S. 65–66). Das BVerfG verlangt gerade eine Inhaltskontrolle (S. 64).",
+      "hints": [
+        "Unterscheiden Sie die Rechtsprechung zu Kindern und zu Ehegatten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 64
+        },
+        {
+          "doc": "BGB_5",
+          "page": 65
+        },
+        {
+          "doc": "BGB_5",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Die gerade 18-jährige, geschäftsunerfahrene Schülerin T ohne Einkommen und Vermögen übernimmt auf Drängen ihrer Eltern und auf Verlangen der Bank B eine Bürgschaft über 150.000 € für einen Kredit des Familienbetriebs. B weiß, dass T nur aus familiärer Hilfsbereitschaft handelt und die Summe voraussichtlich nie wird aufbringen können. Ist die Bürgschaft wirksam?",
+      "modelAnswer": "Die Bürgschaft könnte nach § 138 Abs. 1 BGB wegen Sittenwidrigkeit nichtig sein. Sittenwidrig ist ein Rechtsgeschäft, das nach seinem aus Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter gegen das Anstandsgefühl aller billig und gerecht Denkenden verstößt; dabei sind die Wertungen des Grundgesetzes zu berücksichtigen. Das BVerfG (BVerfGE 89, 214) verlangt bei typisierbarer struktureller Unterlegenheit und ungewöhnlich belastenden Folgen eine Inhaltskontrolle über §§ 138, 242. Danach hält der BGH (BGHZ 128, 230) das Ansinnen der Eltern, ihr erwachsenes, geschäftsunerfahrenes Kind solle aus familiärer Hilfsbereitschaft eine Bürgschaft übernehmen, die seine Leistungsfähigkeit voraussichtlich dauerhaft weit übersteigt, in aller Regel für missbilligenswert; erkennt die Bank dies, ist die auf ihr Verlangen erteilte Bürgschaft grundsätzlich sittenwidrig. T ist geschäftsunerfahren, ohne Einkommen und Vermögen, die Verbindlichkeit übersteigt ihre Leistungsfähigkeit krass, sie handelte nur aus familiärer Hilfsbereitschaft, und B kannte diese Umstände und verlangte die Bürgschaft. Ein Bewusstsein der Sittenwidrigkeit ist nicht erforderlich; B kannte die begründenden Umstände. Die Bürgschaft ist nach § 138 Abs. 1 BGB nichtig.",
+      "rubric": [
+        "§ 138 Abs. 1 als Prüfungsmaßstab, Gesamtcharakter-Formel",
+        "BVerfGE 89, 214: gestörte Vertragsparität, Inhaltskontrolle",
+        "BGH-Rechtsprechung zu Kinderbürgschaften (krasse Überforderung, familiäre Hilfsbereitschaft, Erkennbarkeit für die Bank)",
+        "Subsumtion der Sachverhaltsangaben",
+        "Ergebnis: nichtig"
+      ],
+      "hints": [
+        "Welche Rolle spielt die Erkennbarkeit für die Bank?",
+        "Vergleichen Sie mit der Rechtsprechung zu Ehegattenbürgschaften."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 63
+        },
+        {
+          "doc": "BGB_5",
+          "page": 64
+        },
+        {
+          "doc": "BGB_5",
+          "page": 65
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie, unter welchen Voraussetzungen derjenige, der einen nach § 138 Abs. 1 sittenwidrigen Vertrag verwendet, dem anderen Teil Schadensersatz schulden kann.",
+      "modelAnswer": "In Betracht kommt eine Haftung aus culpa in contrahendo gemäß §§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1 BGB. Verwendet jemand einen ihn einseitig begünstigenden und deshalb nach § 138 Abs. 1 nichtigen Vertrag, erweckt er beim anderen Teil das Vertrauen auf ein wirksames Vertragsverhältnis. Darin liegt eine Verletzung der vorvertraglichen Pflicht zur Rücksichtnahme. Macht der andere Teil im Vertrauen auf die Wirksamkeit Aufwendungen, sind diese als Schaden zu ersetzen. Voraussetzung ist Verschulden des Verwenders; ein auf sittenwidrige Schädigung gerichteter Vorsatz ist – anders als bei § 826 – nicht erforderlich (BGHZ 99, 101, 107). Offen ist nach dem Skript, ob der Rechtsgedanke des § 122 Abs. 2 BGB (Ausschluss bei Kenntnis oder fahrlässiger Unkenntnis des Geschädigten) entsprechend anzuwenden ist.",
+      "rubric": [
+        "Anspruchsgrundlage §§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1",
+        "Pflichtverletzung: Erwecken von Vertrauen in einen unwirksamen Vertrag",
+        "Schaden: Vertrauensaufwendungen",
+        "Verschulden genügt, kein Vorsatz nötig (Abgrenzung § 826)",
+        "Offene Frage: § 122 Abs. 2 analog"
+      ],
+      "hints": [
+        "Welche Norm regelt das vorvertragliche Schuldverhältnis?",
+        "Worin unterscheidet sich die Haftung von § 826?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 51
+        },
+        {
+          "doc": "BGB_5",
+          "page": 66
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum prüft man bei der AGB-Inhaltskontrolle „von hinten nach vorne“?",
+      "options": [
+        "Weil § 309 die gefährlichsten Klauseln ohne Wertungsmöglichkeit erfasst und daher zuerst und am einfachsten zu prüfen ist, bevor § 308 und die Generalklausel des § 307 herangezogen werden.",
+        "Weil § 307 nur anwendbar ist, wenn zuvor § 306 Abs. 3 verneint wurde.",
+        "Weil § 308 Vorrang vor § 309 hat, da er unbestimmte Rechtsbegriffe enthält.",
+        "Weil § 309 nur für individuell ausgehandelte Klauseln gilt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 309 enthält Klauselverbote ohne Wertungsmöglichkeit; erfüllt eine Klausel den Tatbestand, ist sie ohne Abwägung unwirksam. Danach folgen § 308 (mit Wertungsspielraum) und § 307 als Generalklausel (S. 66–67). Individuell ausgehandelte Klauseln sind gerade keine AGB.",
+      "hints": [
+        "Spezielles und eindeutiges vor Allgemeinem."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 66
+        },
+        {
+          "doc": "BGB_5",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "B kauft bei S eine Waschmaschine mit drei Monaten Lieferzeit. Nach den einbezogenen AGB darf S bei Kostensteigerungen den Preis entsprechend erhöhen; S verlangt 7 % Aufpreis. Was gilt?",
+      "options": [
+        "Die Klausel ist nach § 309 Nr. 1 unwirksam; der Vertrag bleibt nach § 306 Abs. 1 im Übrigen wirksam, S muss zum vereinbarten Preis liefern.",
+        "Die Klausel ist unwirksam, und der gesamte Kaufvertrag ist nach § 139 nichtig.",
+        "Die Klausel ist wirksam, weil Kostensteigerungen ein sachlicher Grund sind (§ 308).",
+        "Die Klausel ist nach § 138 Abs. 2 als Wucher nichtig."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Skript-Beispiel zu § 309 Nr. 1 (S. 67): Klausel nichtig; nach § 306 Abs. 1 bleibt der Vertrag – anders als nach § 139 – im Übrigen bestehen.",
+      "hints": [
+        "Welche Norm verdrängt bei AGB den § 139?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 67
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Das späte Gelage in Augsburg (Selbsttestaufgabe 3)",
+    "facts": "B aus Augsburg beschließt mit einigen Freunden, ein Gelage zu veranstalten. Da es bereits 21.00 Uhr ist, klingelt er bei dem ihm bekannten Lebensmittelhändler L. Auf Drängen des B verkauft L ihm verschiedene Lebensmittel aus seinem Geschäft, die B gleich mitnimmt, mangels Kleingeldes aber noch nicht bezahlt. Später beruft sich B auf das Gesetz über den Ladenschluss. § 3 dieses (nur noch in Bayern geltenden) Gesetzes lautet: „Verkaufsstellen müssen zu folgenden Zeiten für den geschäftlichen Verkehr mit Kunden geschlossen sein: … 2. montags bis samstags bis 6 Uhr und ab 20 Uhr …“",
+    "question": "Kann L von B Bezahlung der Lebensmittel verlangen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "L könnte gegen B einen Anspruch auf Zahlung des Kaufpreises aus § 433 Abs. 2 BGB haben. Dazu müsste zwischen L und B ein wirksamer Kaufvertrag zustande gekommen sein. L und B haben sich durch Angebot und Annahme (§§ 145 ff. BGB) über den Kauf der Lebensmittel geeinigt. Der Kaufvertrag könnte jedoch nach § 134 BGB nichtig sein, weil er entgegen § 3 des Gesetzes über den Ladenschluss nach 20 Uhr geschlossen wurde.",
+        "rubric": [
+          "Anspruchsgrundlage § 433 Abs. 2 BGB",
+          "Einigung (§§ 145 ff.) unproblematisch",
+          "Problem: Nichtigkeit nach § 134 i.V.m. § 3 LadenschlussG",
+          "Konjunktiv"
+        ],
+        "hints": [
+          "Beginnen Sie mit der Anspruchsgrundlage des Verkäufers.",
+          "Welche Wirksamkeitshürde wirft der Sachverhalt auf?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie das Verbotsgesetz und geben Sie die Maßstäbe an, nach denen sich die Nichtigkeitsfolge bestimmt.",
+        "model": "Ein Verbotsgesetz im Sinne des § 134 BGB ist eine Norm, durch die ein Rechtsgeschäft seines Inhalts wegen unterbunden werden soll. Ein Verstoß führt nicht automatisch zur Nichtigkeit; nach § 134 tritt sie nur ein, „wenn sich nicht aus dem Gesetz ein anderes ergibt“. Maßgeblich sind Sinn und Zweck sowie die Richtung der Verbotsnorm: Richtet sich das Verbot an beide Vertragspartner, ist das Geschäft in der Regel nichtig; richtet es sich nur gegen einen, ist es in der Regel wirksam. Ausnahmsweise ist es auch dann nichtig, wenn es mit dem Sinn und Zweck des Verbotsgesetzes unvereinbar wäre, die durch das Rechtsgeschäft getroffene Regelung hinzunehmen und bestehen zu lassen.",
+        "rubric": [
+          "Definition Verbotsgesetz (Unterbindung des Rechtsgeschäfts seines Inhalts wegen)",
+          "§ 134 als Auslegungsregel, Nichtigkeit nicht automatisch",
+          "Normrichtung: beidseitig vs. einseitig",
+          "Ausnahmeformel bei einseitigem Verbot"
+        ],
+        "hints": [
+          "Das Skript betont den Halbsatz „wenn sich nicht aus dem Gesetz ein anderes ergibt“.",
+          "Gegen wen richtet sich das Verbot?"
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie den Sachverhalt.",
+        "model": "§ 3 LadenschlussG bestimmt, dass Verkaufsstellen zu den genannten Zeiten geschlossen sein müssen, sodass dort zu diesen Zeiten keine Geschäfte mit Kunden abgewickelt werden sollen; nach der Lösung des Skripts ist die Norm daher als Verbotsgesetz zu qualifizieren. Indem L dem B um 21 Uhr Lebensmittel verkaufte, verstieß er gegen § 3 LadenschlussG. Fraglich ist, ob daraus die Nichtigkeit folgt. Das Verbot richtet sich allein an den Inhaber der Verkaufsstelle, also nur an den Verkäufer L, nicht an den Kunden B. Der Vertrag wäre daher nur ausnahmsweise nichtig, wenn das Bestehenlassen der Regelung mit dem Zweck des Gesetzes unvereinbar wäre. § 3 LadenschlussG ist jedoch eine gewerbepolizeiliche Ordnungsvorschrift. Sie will nicht die Rechtsfolgen eines Kaufvertrags verhindern, sondern missbilligt nur die Vertragsdurchführung an diesem Ort und zu dieser Zeit; dem Privatrechtsverhältnis soll nicht seines Inhalts wegen die Wirksamkeit versagt werden. Die Ausnahme greift daher nicht ein.",
+        "rubric": [
+          "Qualifikation des § 3 LadenschlussG als Verbotsgesetz",
+          "Verstoß des L (Verkauf um 21 Uhr)",
+          "Verbot richtet sich nur an den Verkäufer",
+          "Normzweck: gewerbepolizeiliche Ordnungsvorschrift, missbilligt Ort und Zeit, nicht den Inhalt",
+          "Ausnahme (Unvereinbarkeit mit Normzweck) verneint"
+        ],
+        "hints": [
+          "Wer ist Adressat der Pflicht, die Verkaufsstelle zu schließen?",
+          "Will das Gesetz den Leistungsaustausch als solchen verhindern?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Der Verstoß gegen § 3 LadenschlussG führt nicht zur Nichtigkeit des Kaufvertrags nach § 134 BGB. Zwischen L und B ist ein wirksamer Kaufvertrag zustande gekommen. L kann von B gemäß § 433 Abs. 2 BGB Bezahlung der Lebensmittel verlangen.",
+        "rubric": [
+          "Keine Nichtigkeit nach § 134",
+          "Wirksamer Kaufvertrag",
+          "Anspruch aus § 433 Abs. 2 BGB (+)"
+        ],
+        "hints": [
+          "Kehren Sie zur Anspruchsgrundlage des Obersatzes zurück."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_5",
+        "page": 48
+      },
+      {
+        "doc": "BGB_5",
+        "page": 73
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Worin unterscheiden sich Nichtigkeit, schwebende Unwirksamkeit und Anfechtbarkeit?",
+      "back": "Nichtig: dauernd unwirksam. Schwebend unwirksam: kann durch Genehmigung wirksam werden, bei Verweigerung nichtig (z.B. § 177). Anfechtbar: zunächst wirksam, durch Anfechtung ex tunc nichtig (§ 142).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "front": "Was gilt nach §§ 307 ff., 306 Abs. 1 für den Restvertrag, wenn eine AGB-Klausel unwirksam ist?",
+      "back": "Nur die verstoßende Klausel ist unwirksam; der Vertrag bleibt im Übrigen wirksam – anders als nach der Zweifelsregel des § 139.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "front": "Was ist ein Verbotsgesetz i.S.d. § 134?",
+      "back": "Eine Norm, die ein Rechtsgeschäft seines Inhalts wegen unterbinden will. § 134 ist Auslegungsregel: Nichtigkeit nur, wenn Sinn und Zweck des Verbots sie erfordern.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "front": "Faustregel zur Normrichtung bei § 134?",
+      "back": "Verbot an beide Parteien → in der Regel nichtig. Verbot nur an eine Partei → in der Regel wirksam, außer das Bestehenlassen der Regelung wäre mit dem Normzweck unvereinbar (BGHZ 118, 142, 145).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 46
+        },
+        {
+          "doc": "BGB_5",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "front": "Ist ein Kaufvertrag nach Ladenschluss nichtig?",
+      "back": "Nein. § 3 LadenschlussG ist Verbotsgesetz, richtet sich aber nur an den Verkäufer und missbilligt als gewerbepolizeiliche Ordnungsvorschrift nur Ort und Zeit, nicht den Inhalt.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 48
+        },
+        {
+          "doc": "BGB_5",
+          "page": 73
+        }
+      ]
+    },
+    {
+      "front": "Wann ist ein Umgehungsgeschäft nach § 134 nichtig?",
+      "back": "Wenn das Verbotsgesetz den rechtlichen oder wirtschaftlichen Erfolg schlechthin verhindern will – unabhängig von der gewählten Gestaltung und selbst ohne Umgehungsabsicht.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "front": "Gesamtcharakter-Formel des BGH zu § 138 Abs. 1?",
+      "back": "Sittenwidrig ist ein Vertrag, der nach dem Anstandsgefühl aller billig und gerecht Denkenden und nach seinem aus Inhalt, Beweggrund und Zweck zu entnehmenden Gesamtcharakter den guten Sitten zuwiderläuft.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "front": "Muss bei § 138 Abs. 1 ein Bewusstsein der Sittenwidrigkeit vorliegen?",
+      "back": "Nein (h.M.). Erforderlich ist nur Kenntnis oder fahrlässige Unkenntnis der Tatumstände, aus denen sich die Sittenwidrigkeit ergibt.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "front": "Kann ein sittenwidrig überhöhter Kaufpreis über § 139 auf ein zulässiges Maß reduziert werden?",
+      "back": "Nein. Der Vertrag ist insgesamt nichtig; sonst könnte der Verkäufer risikolos überhöhte Preise verlangen. Abtrennbar sind nur selbständige Nebenabreden (z.B. Wettbewerbsklausel im Pachtvertrag).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "front": "Was ist ein Knebelungsvertrag?",
+      "back": "Ein Vertrag, der die wirtschaftliche Bewegungsfreiheit einer Partei lähmt und sie in eine sittlich zu missbilligende Abhängigkeit bringt (z.B. unbegrenzte Verlagsoption, Übersicherung mit Mitwirkungsrechten).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 56
+        },
+        {
+          "doc": "BGB_5",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "front": "Tatbestand des Wuchers (§ 138 Abs. 2)?",
+      "back": "Kumulativ: 1. Rechtsgeschäft über Vermögensvorteile für eine Leistung; 2. auffälliges Missverhältnis; 3. Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder erhebliche Willensschwäche; 4. Ausbeutung (bewusste Ausnutzung).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "front": "Richtwerte für ein auffälliges Missverhältnis bei Krediten?",
+      "back": "Marktvergleich: effektiver Zins rund doppelt so hoch wie Marktzins – relativ ca. 100 % darüber oder absolut ca. 12 Prozentpunkte darüber.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "front": "Was ist ein wucherähnliches Geschäft?",
+      "back": "Auffälliges Missverhältnis + verwerfliche Gesinnung (bewusstes Ausnutzen der schwächeren Lage oder leichtfertiges Verschließen vor dieser Erkenntnis) → nichtig nach § 138 Abs. 1 (BGHZ 128, 255).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 62
+        },
+        {
+          "doc": "BGB_5",
+          "page": 63
+        }
+      ]
+    },
+    {
+      "front": "Was entschied das BVerfG 1994 zu Angehörigenbürgschaften?",
+      "back": "BVerfGE 89, 214: Bei typisierbarer struktureller Unterlegenheit und ungewöhnlich belastenden Folgen müssen die Zivilgerichte über §§ 138, 242 eine Inhaltskontrolle vornehmen; „Vertrag ist Vertrag“ genügt nicht.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "front": "Wann ist die Bürgschaft eines erwachsenen Kindes nach dem BGH sittenwidrig?",
+      "back": "Wenn sie die Leistungsfähigkeit des geschäftsunerfahrenen Kindes voraussichtlich dauerhaft weit übersteigt, aus familiärer Hilfsbereitschaft übernommen wird und die Bank dies erkennen kann (BGHZ 128, 230).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1466 @@
+{
+  "id": "bgb-ke4-agb-internet",
+  "moduleId": "55101",
+  "ke": 4,
+  "topicIds": [
+    "bgb-ke4-s7",
+    "bgb-ke4-s8"
+  ],
+  "title": "Allgemeine Geschäftsbedingungen und Vertragsschluss im Internet",
+  "estMinutes": 140,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Funktion der AGB, typische Gegenstände und Missstände",
+      "short": "AGB ändern, ergänzen oder ersetzen – soweit rechtlich zulässig – das dispositive Gesetzesrecht für eine Vielzahl von Verträgen. Typische Gegenstände sind etwa Gewährleistungsbeschränkungen, Fristverkürzungen, Aufrechnungs- und Abtretungsausschlüsse oder Schriftformerfordernisse. Weil der Verwender seine Bedingungen meist einseitig durchsetzen kann und der Kunde ihre Tragweite kaum überblickt, droht die ausgewogene Interessenregelung des BGB leerzulaufen; darauf reagiert das AGB-Recht (seit der Schuldrechtsreform zum 1.1.2002 in §§ 305 ff. BGB).",
+      "long": "## Einleitung (S. 5–6)\n\nMit dem Vertragsschluss werden häufig **Allgemeine Geschäftsbedingungen** Vertragsinhalt. Dann gelten nicht nur die Rechte und Pflichten, die das BGB für den Vertragstyp (z.B. Kauf, Miete, Werkvertrag) vorsieht; vielmehr werden Regelungen des Gesetzes – soweit rechtlich zulässig – **abgeändert, ergänzt oder ersetzt**.\n\n- Grundlage ist die **Privatautonomie**: Dispositives (nachgiebiges) Recht kann modifiziert oder verdrängt werden – etwa im Besonderen Schuldrecht (z.B. Leasing), im BGB AT (z.B. Formerfordernisse, Verjährung) und im Allgemeinen Schuldrecht (z.B. Leistungsstörungen).\n- Es wäre unpraktisch, dieselben Regelungen mit jedem Vertragspartner einzeln auszuhandeln; deshalb werden für eine Vielzahl von Fällen AGB verwendet.\n- Die Regeln des BGB werden im Wesentlichen nur noch bei **Massengeschäften des täglichen Lebens** (Lebensmittel, geringwertige Güter) unverändert angewandt; beim Erwerb wertvollerer Güter (Autos, Möbel) werden in der Regel AGB verwendet.\n- Bei **unterschiedlichem Machtverhältnis** (zum Anwendungsbereich § 310 BGB) droht, dass die einseitig vorgegebenen Bedingungen dem anderen Teil nicht zumutbar sind. Das AGB-Recht hat mit der **Schuldrechtsreform zum 1.1.2002** reagiert (S. 6).\n\n## Typische Gegenstände (S. 6)\n\nIn der Vergangenheit häufig in AGB geregelt wurden u.a.:\n\n- Schönheitsreparaturen durch den Mieter,\n- bewegliche Liefer- und Zahlungsfristen zugunsten des Verwenders,\n- Einschränkung der Gewährleistungsansprüche und Verkürzung der Gewährleistungsfristen,\n- Ausschluss der Abtretung von Forderungen gegen den Verwender und der Aufrechnung gegen seine Forderungen,\n- Beweislastregelungen zu Lasten des Kunden,\n- erschwerte Schriftformerfordernisse für den Geschäftspartner,\n- Ausschluss von Schadensersatzansprüchen,\n- Preisänderungsklauseln bei erhöhten Produktionskosten.\n\nManche AGB sind **umfangreiche Klauselwerke** (Banken, Versicherungen, Spediteure, Beförderungsunternehmen), andere regeln nur **einzelne Punkte** (z.B. Eigentumsvorbehalt, Zahlungsfristen, Gewährleistungsmodifikationen) – dann bleibt der gesetzliche Vertragstyp noch erkennbar. AGB spielen auch im Verkehr der **Unternehmen untereinander** eine große Rolle.\n\n## Missstände (S. 7–8)\n\n- Der Verwender hat häufig die **Macht, die Zustimmung zu erzwingen**; Kunden – gerade Verbraucher – sind oft auf die Leistung angewiesen und haben keine andere Wahl.\n- Die Annahme des BGB, Verträge würden unter **gleich Mächtigen** ausgehandelt, war schon bei seiner Schaffung eine Fehleinschätzung. Vertragsfreiheit funktioniert nur, solange annähernd tatsächliche Gleichheit besteht.\n- Die Tragweite des „Kleingedruckten“ erschließt sich erst nach gründlicher juristischer und wirtschaftlicher Analyse; Aufwand und Kosten stehen meist in keinem Verhältnis zum Vertragswert. AGB werden daher im Vertrauen auf einen halbwegs gerechten Interessenausgleich akzeptiert; ihre wahre Bedeutung zeigt sich oft erst im Streitfall.\n- Vor Gericht musste sich der Kunde lange an den AGB festhalten lassen, weil sein Einverständnis als wirksame, freie Willenserklärung galt (S. 8).\n\n**Merke:** Das AGB-Recht will die Privatautonomie nicht beseitigen, sondern ihr durch zwingende Regeln eine „neue Chance“ geben, indem es „Augenhöhe“ herstellt (S. 8).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 5
+        },
+        {
+          "doc": "BGB_4",
+          "page": 6
+        },
+        {
+          "doc": "BGB_4",
+          "page": 7
+        },
+        {
+          "doc": "BGB_4",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Begriff der AGB (§ 305 Abs. 1 BGB) und Vorrang der Individualabrede (§ 305b BGB)",
+      "short": "AGB sind für eine Vielzahl von Verträgen vorformulierte Vertragsbedingungen, die der Verwender der anderen Partei bei Vertragsschluss stellt (§ 305 Abs. 1 S. 1 BGB). „Vielzahl“ meint eine beabsichtigte mindestens dreimalige Verwendung; im Einzelnen ausgehandelte Bedingungen sind keine AGB (§ 305 Abs. 1 S. 3). Individualabreden haben Vorrang vor widersprechenden AGB (§ 305b).",
+      "long": "## Rechtspolitisches Ziel (S. 8)\n\nWer keinen wirklichen Überblick über die Regelungen des Leistungsaustauschs hat, soll nicht an „diktierte“, ihn unangemessen benachteiligende Bedingungen gebunden werden. Die Katalognormen der §§ 308, 309 BGB sind dabei recht detailliert geraten.\n\n## Begriff (S. 8–9)\n\nNach § 305 Abs. 1 BGB liegen AGB vor, wenn\n\n1. der Verwender einen **fertigen (vorformulierten) Vertragsentwurf** bereithält,\n2. der für eine **„Vielzahl von Verträgen“** bestimmt ist, und\n3. der Verwender ihn dem Vertragspartner **einseitig auferlegt („stellt“)**.\n\n**Einzelheiten:**\n- **Vielzahl:** Absicht einer **mindestens dreimaligen** Verwendung; schon die **erstmalige** Verwendung genügt, wenn weitere Verwendungen bei Vertragsschluss hinreichend geplant sind. Bei Verbraucherverträgen ist das Vielzahlkriterium nach § 310 Abs. 3 Nr. 2 unbeachtlich (S. 9).\n- **Vorformuliert** ist eine Bedingung auch, wenn ein **Interessenverband oder Dritter** sie aufgesetzt hat, z.B. ein aus dem Internet heruntergeladenes Vertragsmuster.\n- **Gestellt:** einseitig auferlegt; daran fehlt es, wenn die Bedingungen im Einzelnen ausgehandelt werden (§ 305 Abs. 1 S. 3). Bei Verbraucherverträgen gelten AGB als vom Unternehmer gestellt (§ 310 Abs. 3 Nr. 1).\n\n**Beispiele (S. 9):** gedruckte Einheitsmietverträge (aus dem Internet), Grundschuldbestellungsformulare einer Bank, vorgedruckte Formularverträge beim Autokauf, vorformulierte Bürgschaftsverträge, im PC gespeicherte Vertragsmuster; auch **notarielle Verträge**, wenn sie inhaltlich wiedergeben, was eine Partei für eine Reihe gleichartiger Verträge einseitig festgelegt hat (z.B. standardisierte Grundstückskauf- oder GmbH-Verträge).\n\n## Vorrang der Individualabrede (S. 9–10)\n\nIm Einzelnen ausgehandelte Bedingungen (**Individualabreden**) sind keine AGB; die §§ 305 ff. gelten für sie grundsätzlich nicht. Nach **§ 305b** gehen Individualabreden widersprechenden AGB vor; die widersprechende Klausel bleibt ohne Wirkung.\n\n**Beispiel LKW (S. 10):** Kauffrau K kauft bei V einen LKW für ihr Unternehmen. Die wirksam einbezogenen AGB verkürzen die Verjährungsfrist für Mängelansprüche von zwei Jahren auf ein Jahr; unter Zeugen sagt V jedoch eine „Garantiefrist“ von drei Jahren zu. Nach 18 Monaten macht K Mängelrechte geltend. Kein Verbrauchsgüterkauf (K ist keine Verbraucherin i.S.d. § 13); die mündliche Zusage ist eine Individualabrede i.S.d. § 305b und geht der AGB-Klausel vor. Der Anspruch ist **nicht verjährt**.\n\n> *Hinweis:* Das Skript prüft im LKW-Beispiel zusätzlich § 309 Nr. 8 b) ff) (Mindestfrist ein Jahr). Da K Unternehmerin ist, sind die §§ 308, 309 nach § 310 Abs. 1 S. 1 nicht unmittelbar anwendbar (vgl. S. 15); ihre Wertungen können aber über § 307 einfließen.\n\n**Arten von Individualvereinbarungen (S. 10):**\n- **Einzelfallvereinbarungen:** nur für einen Einzelfall formuliert; entscheidend ist der Zweck der **einmaligen Verwendung**, nicht das Aushandeln.\n- **Aushandlungsvereinbarungen:** setzen ein Aushandeln i.S.d. § 305 Abs. 1 S. 3 voraus – nach dem BGH (NJW 2019, 2080) nur, wenn der Vertragsinhalt das Ergebnis einer **selbstverantwortlichen Prüfung, Abwägung und möglichen Einflussnahme beider Seiten** ist.\n\nVerträge aus AGB und Individualvereinbarungen bilden einen **einheitlichen Vertrag**.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 8
+        },
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Einbeziehung in den Vertrag (§ 305 Abs. 2 BGB)",
+      "short": "AGB werden nur auf vertraglicher Grundlage Vertragsinhalt: Der Verwender muss bei Vertragsschluss ausdrücklich auf sie hinweisen (ausnahmsweise deutlich sichtbarer Aushang), dem anderen Teil die zumutbare Möglichkeit der Kenntnisnahme verschaffen, und dieser muss mit ihrer Geltung einverstanden sein. Das Einverständnis ist eine Willenserklärung, die auch konkludent erfolgen kann.",
+      "long": "## Zwei Schwerpunkte (S. 10)\n\nDie §§ 305 ff. regeln im Wesentlichen die **Einbeziehung** der AGB in den Vertrag und ihre **Inhaltskontrolle**.\n\n## Einbeziehung (S. 11)\n\n§ 305 Abs. 1 und 2 sollen sicherstellen, dass der **rechtsgeschäftliche Vertragswille** der Parteien über die Einbeziehung entscheidet. Nach allgemeinem Vertragsrecht (§§ 145 ff.) muss das Angebot alle Vertragsbedingungen so enthalten, dass ein bloßes „Ja“ den Vertrag zustande bringt. § 305 Abs. 2 unterstreicht diesen Grundsatz; die Klarstellung war nötig, weil die Rechtsprechung AGB früher schon genügen ließ, wenn der Kunde von ihrem Vorhandensein **hätte Kenntnis haben können**.\n\n**Voraussetzungen des § 305 Abs. 2:**\n1. **Ausdrücklicher Hinweis** bei Vertragsschluss (Nr. 1) – ausnahmsweise **deutlich sichtbarer Aushang** am Ort des Vertragsschlusses, wenn ein ausdrücklicher Hinweis wegen der Art des Vertragsschlusses nur unter unverhältnismäßigen Schwierigkeiten möglich ist.\n2. **Möglichkeit, in zumutbarer Weise vom Inhalt Kenntnis zu nehmen** (Nr. 2).\n3. **Einverständnis** der anderen Vertragspartei – eine **Willenserklärung**, die auch durch **schlüssiges Verhalten** abgegeben werden kann. So wird klargestellt, dass die Einbeziehung auf vertraglicher Grundlage und nicht durch einseitige Maßnahme des Verwenders erfolgt.\n\n**Ausnahmen:** Bei **Arbeitsverträgen** sind die Voraussetzungen des § 305 Abs. 2 nicht erforderlich (§ 310 Abs. 4 S. 2); der Arbeitgeber muss aber spätestens einen Monat nach Vertragsschluss eine Urkunde über die wesentlichen Arbeitsbedingungen aushändigen (§ 2 NachwG). Im **B2B-Verkehr** gelten § 305 Abs. 2 und 3 nicht (§ 310 Abs. 1 S. 1; dazu Abschnitt s6/s7).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 10
+        },
+        {
+          "doc": "BGB_4",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Inhaltskontrolle (§§ 307–309 BGB) und Rechtsfolgen (§ 306 BGB)",
+      "short": "Maßstab der Inhaltskontrolle sind die Generalklausel des § 307 und die Klauselkataloge der §§ 308, 309. Kontrollfähig sind nach § 307 Abs. 3 nur Klauseln, die von Rechtsvorschriften abweichen oder diese ergänzen; Leistungsbeschreibung und Preis bleiben grundsätzlich kontrollfrei (Ausnahme: Transparenzgebot). Ist eine Klausel unwirksam, bleibt der Vertrag im Übrigen wirksam (§ 306 Abs. 1) und es gilt das Gesetz (§ 306 Abs. 2); eine geltungserhaltende Reduktion findet nicht statt.",
+      "long": "## Maßstabsnormen (S. 11)\n\nDie §§ 307 ff. enthalten eine **Generalklausel (§ 307)** und einen großen **Katalog unzulässiger Klauseln (§§ 308, 309)**.\n\n**Beispiel (S. 11):** In AGB eines Kaufvertrags, der kein Verbrauchsgüterkauf i.S.d. § 474 ist, wird die Verjährung für Mängelansprüche auf **6 Monate** verkürzt – Verstoß gegen **§ 309 Nr. 8 b) ff)**; die Klausel ist unwirksam.\n\n## Kontrollfähigkeit (§ 307 Abs. 3; S. 12)\n\n- Inhaltskontrolle nur, wenn AGB **von Rechtsvorschriften abweichen oder diese ergänzen**.\n- **Leistungsbeschreibungen und Entgeltregelungen** (z.B. Baubeschreibung, Katalogangabe, Höhe des Preises) unterliegen ihr in der Regel nicht; beim Preis kann ggf. **§ 138**, insbesondere der Wuchertatbestand des § 138 Abs. 2, helfen.\n- Ausnahme: Die Klausel ist **intransparent**, d.h. nicht klar und verständlich (**Transparenzgebot**, § 307 Abs. 1 S. 2).\n- Bei gemischten Verträgen werden nur die AGB-Teile nach §§ 307 ff. kontrolliert; **Individualvereinbarungen** nur anhand der §§ 134, 138, 242 sowie verbraucherschützender Vorschriften (z.B. § 476; §§ 492a, 500 Abs. 1 S. 2).\n\n## Rechtsfolgen (S. 12–13)\n\n- **§ 306 Abs. 1:** Der Vertrag bleibt im Übrigen wirksam – wichtige **Ausnahme zu § 139** (Teilnichtigkeit „infiziert“ sonst das ganze Geschäft). Der Kunde soll nicht um seinen Vertrag gebracht werden; der Vertrag soll nur einen fairen Inhalt haben.\n- **§ 306 Abs. 2:** An die Stelle der unwirksamen Klausel treten die **gesetzlichen Vorschriften**.\n- **Keine geltungserhaltende Reduktion:** Die Klausel wird nicht auf das gerade noch zulässige Maß zurückgeführt; sonst ginge der Verwender überhaupt kein Risiko ein.\n\n**Beispiel Drucker (S. 12–13):** Privatfrau K kauft bei Unternehmer V einen neuen Drucker; die AGB sehen eine Gewährleistungsfrist von 6 Monaten vor. Die Klausel verstößt gegen § 309 Nr. 8 b) ff) und ist unwirksam; sie wird **nicht** auf 12 Monate reduziert. Es gilt § 438 Abs. 1 Nr. 3 (zwei Jahre).\n\n> *Hinweis:* Weil K Verbraucherin ist und V Unternehmer, handelt es sich um einen Verbrauchsgüterkauf; das Skript selbst verweist für diesen Fall auf die engeren Grenzen des § 476 (S. 10 Fn. 6, S. 12, S. 33). Die im Beispiel als „gerade noch zulässig“ erwähnte 12-Monats-Frist ist daher nur mit Blick auf § 309 Nr. 8 b) ff) zu verstehen.\n\n## Fall Schriftformklausel (nach OLG Frankfurt WM 1981, 598; S. 13)\n\nZaunhersteller V verwendet die Klausel: „Von unseren Bedingungen abweichende mündliche Vereinbarungen sind nur gültig, wenn sie von uns schriftlich bestätigt werden.“ K vereinbart mit Angestelltem A mündlich abweichende Liefer- und Zahlungsbedingungen. Nach dem BGH (NZM 2018, 279) ist die Schriftformklausel an **§ 307** zu messen. Sie benachteiligt unangemessen, weil sie Geltung beansprucht, ohne die anerkannten Ausnahmefälle zu berücksichtigen, und dem oft rechtsunkundigen Kunden **der Wahrheit zuwider ein geschlossenes System** vorspiegelt, in dem er sich auf mündliche Nebenabreden nicht berufen könne. Die Klausel ist **unwirksam**; K hat den Anspruch aus § 433 Abs. 1 zu den mündlich vereinbarten Bedingungen.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 11
+        },
+        {
+          "doc": "BGB_4",
+          "page": 12
+        },
+        {
+          "doc": "BGB_4",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Verbraucherverträge (§ 310 Abs. 3) und überraschende Klauseln (§ 305c Abs. 1)",
+      "short": "§ 310 Abs. 3 BGB (Umsetzung der RL 93/13/EWG) erweitert den Schutz bei Verträgen zwischen Unternehmer und Verbraucher: AGB gelten als vom Unternehmer gestellt, und die Inhaltskontrolle greift auch bei nur zur einmaligen Verwendung vorformulierten Bedingungen. Überraschende Klauseln – solche mit Überrumpelungs- oder Übertölpelungseffekt, mit denen der Kunde nach dem Erscheinungsbild des Vertrags nicht rechnen muss – werden nach § 305c Abs. 1 nicht Vertragsbestandteil.",
+      "long": "## Verbraucherverträge (S. 14)\n\n- **§ 310 Abs. 3** gewährt Verbrauchern (§ 13) besonderen Schutz und setzt die **RL 93/13/EWG** über missbräuchliche Klauseln in Verbraucherverträgen um.\n- **Verbrauchervertrag** = Vertrag zwischen Unternehmer (§ 14) und Verbraucher (§ 13) (Legaldefinition in § 310 Abs. 3).\n- Folge: Etliche AGB-Vorschriften, insbesondere die Inhaltskontrolle (§§ 307 ff.), gelten auch dann, wenn § 305 Abs. 1 „eigentlich“ nicht erfüllt ist – also auch bei Bedingungen, die **nur zur einmaligen Verwendung** bestimmt sind, wenn der Verbraucher wegen der Vorformulierung **keinen Einfluss** auf ihren Inhalt nehmen konnte (§ 310 Abs. 3 Nr. 2); AGB gelten als vom Unternehmer gestellt (§ 310 Abs. 3 Nr. 1; S. 9).\n\n## Überraschende Klauseln (S. 14–15)\n\nDer Kunde soll darauf vertrauen dürfen, dass sich die AGB im Rahmen dessen halten, was nach den Umständen bei Vertragsschluss erwartet werden kann. Grundlage der Erwartungen: **Angebot und Werbung** des Verwenders, **Aufmachung, Anordnung und Schriftbild** der Vertragsurkunde.\n\n**§ 305c Abs. 1:** Klauseln, die nach den Umständen, insbesondere nach dem äußeren Erscheinungsbild des Vertrags, **so ungewöhnlich** sind, dass der Vertragspartner mit ihnen **nicht zu rechnen braucht**, werden nicht Vertragsbestandteil. Das ist der Fall, wenn ihnen ein **Überrumpelungs- oder Übertölpelungseffekt** innewohnt und zwischen ihrem Inhalt und den Erwartungen des Kunden eine **deutliche Diskrepanz** besteht (OLG Düsseldorf NJOZ 2016, 975, 978). Auch der **ungewöhnliche äußere Zuschnitt** oder die **Unterbringung an unerwarteter Stelle** kann eine Klausel überraschend machen. Beispiele finden sich vielfach im Arbeitsrecht und bei Sicherungsgeschäften.\n\n**§ 305c Abs. 2:** Zweifel bei der Auslegung gehen zu Lasten des Verwenders (Näheres in § 9 IV).\n\n**Beispiel Kaffeemaschine (S. 15):** B kauft bei P unter wirksamer Einbeziehung der AGB günstig eine Kaffeemaschine. In § 22 der AGB, die B nicht gelesen hat, steht eine **monatliche Kaffeeabnahmepflicht**. Nach dem Erscheinungsbild des Vertrags (Kauf einer Maschine) musste B damit nicht rechnen; Überrumpelungseffekt und deutliche Diskrepanz liegen vor. § 22 ist nach § 305c Abs. 1 **nicht Vertragsbestandteil** geworden; B muss den Kaffee nicht abnehmen.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 14
+        },
+        {
+          "doc": "BGB_4",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Einschränkungen des Anwendungsbereichs (§ 310 Abs. 1 und 4 BGB)",
+      "short": "§ 310 Abs. 4 nimmt Verträge auf dem Gebiet des Erb-, Familien- und Gesellschaftsrechts sowie Tarifverträge, Betriebs- und Dienstvereinbarungen aus. Gegenüber Unternehmern und juristischen Personen des öffentlichen Rechts gelten nach § 310 Abs. 1 die §§ 305 Abs. 2 und 3, 308 und 309 nicht; § 307 bleibt anwendbar, wobei die Wertungen der §§ 308, 309 einfließen können und auf Handelsbräuche Rücksicht zu nehmen ist.",
+      "long": "## Bereichsausnahmen (§ 310 Abs. 4; S. 15)\n\n- Ausgenommen sind das **Erbrecht, Familienrecht und Gesellschaftsrecht**.\n- Die frühere Bereichsausnahme des § 23 AGB-Gesetz für das **gesamte Arbeitsrecht** ist nach § 310 Abs. 4 S. 1 auf **Tarifverträge, Betriebs- und Dienstvereinbarungen** beschränkt; Arbeitsverträge unterliegen also grundsätzlich der AGB-Kontrolle (mit Besonderheiten, § 310 Abs. 4 S. 2).\n\n**Beispiel (S. 15):** Gesellschaftsverträge einer GbR, OHG oder KG unterliegen keiner Inhaltskontrolle nach §§ 307 ff. Eine Inhaltskontrolle ist aber nicht ausgeschlossen: Maßstab sind **§§ 134, 138, 242** – z.B. für **Abfindungsklauseln** und **Wettbewerbsverbote** für ausscheidende Gesellschafter.\n\n## Unternehmerischer Verkehr (§ 310 Abs. 1; S. 15–16)\n\nWerden AGB gegenüber einem **Unternehmer** oder einer **juristischen Person des öffentlichen Rechts** verwendet, finden **§ 305 Abs. 2 und 3** (Einbeziehung) sowie **§§ 308 und 309** (Klauselverbote) keine Anwendung.\n\n- **§ 307 Abs. 1 und 2** bleibt anwendbar; die Wertungen der §§ 308, 309 können einfließen.\n- Auf die **Gewohnheiten und Gebräuche des Handelsverkehrs** ist Rücksicht zu nehmen (§ 310 Abs. 1 S. 2).\n- Einbeziehung im B2B-Verkehr nur nach den allgemeinen Regeln (§§ 145 ff.): AGB können auch ohne ausdrücklichen Hinweis Vertragsbestandteil werden, wenn der Kunde wusste oder wissen musste, dass der Verwender seinen Geschäften AGB zugrunde zu legen pflegt, und er ihre Anwendung nicht ausgeschlossen hat (S. 16).\n\n> *Hinweis:* Das Skript fasst § 310 Abs. 1 S. 1 vereinfachend zusammen („§§ 308 und 309“). Für Details der Ausnahmen ist der Gesetzeswortlaut heranzuziehen.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 15
+        },
+        {
+          "doc": "BGB_4",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Kollidierende AGB im B2B-Bereich",
+      "short": "Verweisen beide Unternehmer auf ihre eigenen, sich widersprechenden AGB, unterscheidet man weiche und harte Kollisionen. Nach der früheren „Theorie des letzten Wortes“ (§ 150 Abs. 2) setzten sich die zuletzt übersandten AGB durch. Heute nimmt der BGH einen Teildissens an: Nur die kollidierenden Klauseln werden nicht einbezogen, der Vertrag bleibt im Übrigen bestehen (§ 306 Abs. 1) und das Gesetz füllt die Lücke (§ 306 Abs. 2); das Kongruenzmodell der Literatur kommt zum selben Ergebnis.",
+      "long": "## Problem (S. 16)\n\nBei **gegenseitiger Zustimmung** zu den AGB der anderen Seite bestehen keine Zweifel. Problematisch ist es, wenn **beide Parteien auf ihre eigenen AGB verweisen** und diese sich ganz oder in einzelnen Punkten widersprechen.\n\n- **Weiche Kollision:** teilweise Unvereinbarkeit; die übrigen Regelungen finden weiterhin Anwendung (z.B. Zahlungsbedingungen, Lieferfristen, Haftung, Gerichtsstand).\n- **Harte Kollision:** die AGB schließen sich vollständig oder in mehreren Punkten aus; im Einzelfall kann der **gesamte Vertrag** scheitern.\n\nTypische Abwehrinstrumente: **Geltungs- und Ausschließlichkeitsklauseln** („Unsere Leistungen erfolgen ausschließlich auf der Grundlage der nachfolgenden Geschäftsbedingungen“) und **Abwehrklauseln** („Geschäftsbedingungen des Kunden finden keine Anwendung, auch wenn wir ihrer Geltung nicht gesondert widersprechen …“).\n\n**Beispiel Feinbleche (S. 16):** Fabrikantin F bestellt unter Hinweis auf ihre AGB (Rückseite) bei der W-AG Feinbleche; W bestätigt die Lieferung, verweist aber auf ihre eigenen AGB mit Geltungs-, Ausschließlichkeits- und Abwehrklausel.\n\n## Lösungsansätze (S. 17)\n\n1. **Theorie des letzten Wortes** (frühere BGH-Rspr., u.a. BGH NJW 1973, 2106): Die Antwort der W ist nach **§ 150 Abs. 2** Ablehnung verbunden mit neuem Angebot; der Vertrag kommt mit den zuletzt genannten AGB zustande, wenn der andere zustimmt oder die Leistung **widerspruchs- und vorbehaltlos** entgegennimmt bzw. erbringt. Folge: unliebsames **„Ping-Pong-Spiel“**.\n2. **Heutige BGH-Rspr. (seit den 1970er Jahren):** **Teildissens** – nur die Einbeziehung der kollidierenden Klauseln scheitert; der Vertrag hat mit den übereinstimmenden Klauseln Bestand (**§ 306 Abs. 1**), die Lücken füllt das **Gesetzesrecht (§ 306 Abs. 2)**. § 150 Abs. 2 bleibt nur anwendbar, wenn eine Abwehrklausel des Bestellers fehlt oder der Lieferant in der Auftragsbestätigung **eindeutig** erklärt, nur zu seinen Bedingungen abschließen zu wollen.\n3. **Kongruenzmodell (Literatur):** Die Auslegungsregel des **§ 154 Abs. 1 wird umgekehrt**; die beiderseitigen AGB werden Vertragsbestandteil, soweit sie sich nicht widersprechen – gleiches Ergebnis wie der BGH.\n\n## Beispiel Gerichtsstand (S. 17–18)\n\nDie V-AG (Hagen) verkauft der K-GmbH (Münster) Hochleistungsrechner für 435.000 €. Beide AGB bestimmen den eigenen Sitz als Gerichtsstand und enthalten die Klausel „Widersprechen sich die Bedingungen der Vertragspartner, so gelten nur die vorliegenden Bedingungen.“ Die widersprechenden Gerichtsstandsklauseln werden durch das dispositive Gesetz ersetzt: **§ 17 ZPO** (Sitz der K-GmbH) oder **§ 29 ZPO i.V.m. §§ 269, 270 BGB** (Erfüllungsort der Kaufpreisschuld). Beides führt nach Münster – die Klage beim **LG Hagen** ist am falschen Ort erhoben; zuständig ist das **LG Münster**.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 16
+        },
+        {
+          "doc": "BGB_4",
+          "page": 17
+        },
+        {
+          "doc": "BGB_4",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Prüfungsschema: gutachterliche AGB-Kontrolle",
+      "short": "Das Skript prüft in fünf Stufen: (1) Anwendbarkeit der §§ 305 ff. (§ 310 Abs. 4, Abs. 1), (2) Vorliegen von AGB (§ 305 Abs. 1, keine Individualabrede), (3) ordnungsgemäße Einbeziehung (§ 305 Abs. 2, keine überraschende Klausel § 305c Abs. 1), (4) Inhaltskontrolle nach Auslegung und Vorprüfung „von hinten nach vorne“ (§ 309, § 308, § 307), (5) Rechtsfolgen (§ 306, keine geltungserhaltende Reduktion).",
+      "long": "## Prüfungsschema (S. 19)\n\n**1. Anwendbarkeit der §§ 305 ff.**\n- § 310 Abs. 4 S. 1: nicht bei Verträgen des Erb-, Familien- und Gesellschaftsrechts, Tarifverträgen, Betriebs- und Dienstvereinbarungen.\n- § 310 Abs. 1: keine Anwendung der §§ 305 Abs. 2 und 3, 308, 309 gegenüber Unternehmern (§ 14) und juristischen Personen des öffentlichen Rechts.\n\n**2. Vorliegen von AGB (§ 305 Abs. 1)**\n- **Vorformuliert:** Die Bedingungen lagen schon vor Vertragsschluss vor.\n- **Vielzahl von Verträgen:** Verwendungsabsicht mindestens dreimal.\n- **Vom Verwender gestellt:** einseitiges Einbringen; der Vertragspartner hat keine Einflussmöglichkeit. Verbraucherverträge: § 310 Abs. 3 Nr. 1.\n- **Keine Individualvereinbarung** (§ 305 Abs. 1 S. 3).\n\n**3. Ordnungsgemäße Einbeziehung** (nicht zu prüfen in Fällen des § 310 Abs. 1, Abs. 4 S. 2)\n- § 305 Abs. 2 Nr. 1: ausdrücklicher Hinweis bei Vertragsschluss.\n- § 305 Abs. 2 Nr. 2: zumutbare Möglichkeit der Kenntnisnahme (z.B. Auslage, Aushändigung, Speicherbarkeit).\n- Einverständnis des Vertragspartners.\n- Keine überraschende Klausel (§ 305c Abs. 1).\n- B2B (§ 310 Abs. 1): Einbeziehung nach §§ 145 ff. durch Angebot und Annahme.\n\n**4. Inhaltskontrolle**\n- Zunächst: **Inhalt der Klausel durch Auslegung** ermitteln (→ § 9 IV, § 305c Abs. 2).\n- Vorprüfung: § 307 Abs. 3 (Abweichung von Rechtsvorschriften); Arbeitsverträge nur eingeschränkt (§ 310 Abs. 4 S. 2); Einschränkungen des Prüfprogramms nach § 310 Abs. 1, 2.\n- Danach **„von hinten nach vorne“**: § 309 (Klauselverbote **ohne** Wertungsmöglichkeit) → § 308 (Klauselverbote **mit** Wertungsmöglichkeit) → § 307 Abs. 1 i.V.m. Abs. 2 (Generalklausel: Transparenzgebot § 307 Abs. 1 S. 2; Unvereinbarkeit mit dem gesetzlichen Grundgedanken § 307 Abs. 2 Nr. 1; Gefährdung des Vertragszwecks § 307 Abs. 2 Nr. 2).\n\n**5. Rechtsfolgen**\n- § 306 Abs. 1: Der übrige Vertrag bleibt wirksam.\n- § 306 Abs. 2: Lückenfüllung durch dispositives Recht.\n- Teilbare Klausel: Der abtrennbare Teil bleibt wirksam, sofern er nicht selbst gegen §§ 305 ff. verstößt.\n- § 306 Abs. 3: ausnahmsweise Gesamtnichtigkeit bei **unzumutbarer Härte**.\n- **Keine geltungserhaltende Reduktion.**\n\n*Warum „von hinten nach vorne“?* Die spezielleren Verbote ohne Wertungsspielraum (§ 309) führen am schnellsten zu einem sicheren Ergebnis; erst wenn sie nicht greifen, sind die wertungsoffenen Tatbestände (§ 308) und schließlich die Generalklausel (§ 307) heranzuziehen.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Vertragsschluss im Internet: Grundsätze und Pflichten im elektronischen Geschäftsverkehr",
+      "short": "Auch im Internet kommen Verträge durch zwei übereinstimmende Willenserklärungen zustande; Erklärungen in Online-Shops sind in der Regel solche unter Abwesenden (§ 130). Die Warenpräsentation ist regelmäßig nur invitatio ad offerendum; die Bestellung ist das Angebot, die Annahme liegt in einer Auftragsbestätigung mit erkennbarem Annahmewillen oder spätestens in der Lieferung. §§ 312i, 312j legen dem Unternehmer Pflichten auf (Korrekturmöglichkeit, Zugangsbestätigung, Speicherbarkeit der AGB, Button-Lösung); ihre Verletzung kann Schadensersatz nach §§ 280 Abs. 1, 311 Abs. 2, 241 Abs. 2 auslösen.",
+      "long": "## Überblick (S. 20–21)\n\n- Die allgemeinen Regeln über den Vertragsschluss gelten auch im Internet: **zwei übereinstimmende Willenserklärungen**. Der Ausdruck „elektronische Willenserklärung“ ist überflüssig; elektronisch geschlossene Verträge sind **kein eigener Vertragstyp**.\n- Gegenüber E-Mails bestehen keine Besonderheiten: Erklärungen in Online-Shops sind in der Regel solche **unter Abwesenden**; sie werden nach **§ 130** mit Zugang wirksam.\n- **Vertrag im elektronischen Geschäftsverkehr (§ 312i Abs. 1 S. 1):** Ein Unternehmer bedient sich zum Abschluss eines Vertrags über Waren oder Dienstleistungen der **Telemedien** (in der Regel Internet). Die §§ 312 ff. wurden zur Umsetzung der Verbraucherrechterichtlinie (RL 2011/83/EU) mit Wirkung zum **13.6.2014** umfassend novelliert.\n- **§ 312i** gilt für Verträge mit allen **Kunden** (auch Unternehmern); **§ 312j** betrifft Verträge zwischen Unternehmer und **Verbraucher**. Die Regeln über den **Fernabsatzvertrag (§§ 312c ff.)** sind dagegen reine Verbraucherschutzregeln (Informationspflichten, Widerrufsrecht).\n\n## Vertragsschluss (S. 21)\n\n- Die Online-Warenpräsentation ist nach allgemeinen Grundsätzen abzugrenzen: Will der Verkäufer sich erkennbar binden? In der Regel **invitatio ad offerendum** – sonst könnte er (wie beim Katalogversand) mehr Verträge schließen, als er erfüllen kann.\n- **Angebot:** Bestellung des Kunden (online oder per E-Mail auf vorbereitetem Formular).\n- **Annahme:** Auftragsbestätigung mit erkennbarem **Annahmewillen** (z.B. „Vielen Dank für Ihren Auftrag. Wir werden Ihre Bestellung umgehend bearbeiten“, BGH NJW 2005, 976), **spätestens die Lieferung** der richtigen Ware. Die bloße Ankündigung, den Auftrag bald auszuführen, soll noch keine Annahme sein.\n- **Beispiel Bücherversand (S. 21):** B bestellt bei A über ein Online-Formular drei Bücher; A schickt umgehend per E-Mail eine Bestätigung. Ob darin schon die Annahme liegt, hängt vom erkennbaren Annahmewillen der Bestätigung ab.\n\n## Pflichten nach §§ 312i, 312j (S. 22)\n\n1. **Technische Mittel zur Erkennung und Berichtigung von Eingabefehlern** vor Abgabe der Bestellung (§ 312i Abs. 1 S. 1 Nr. 1).\n2. **Unverzügliche elektronische Bestätigung des Zugangs** der Bestellung (§ 312i Abs. 1 S. 1 Nr. 3) – diese bloße **Zugangsbestätigung ist keine Annahme**, sofern kein Annahmewille erkennbar ist.\n3. Möglichkeit, die Vertragsbestimmungen einschließlich AGB bei Vertragsschluss **abzurufen und in wiedergabefähiger Form zu speichern** (§ 312i Abs. 1 S. 1 Nr. 4).\n4. **Button-Lösung (§ 312j Abs. 3):** Bei entgeltlichen Verbraucherverträgen muss der Verbraucher ausdrücklich bestätigen, dass er sich zur Zahlung verpflichtet; eine Schaltfläche muss gut lesbar und nur mit „**zahlungspflichtig bestellen**“ oder einer entsprechend eindeutigen Formulierung beschriftet sein.\n\nDie Pflichten können nicht zu Lasten von Verbrauchern oder Kunden verkürzt werden; **Nicht-Verbraucher** (z.B. Unternehmer untereinander) können Abweichendes vereinbaren. Es sind **vorvertragliche Pflichten** (§ 311 Abs. 2 i.V.m. § 241 Abs. 2). Ihre schuldhafte Verletzung kann eine Pflichtverletzung i.S.d. § 280 sein; der Vertrag kommt grundsätzlich trotzdem zustande – wichtige Ausnahme: **§ 312j Abs. 4** bei Verstoß gegen die Button-Lösung (S. 22).\n\n**Beispiel Computerspiele (S. 23):** Händler K bestellt online bei V 100 Spiele „WWW“ (35 €/Stück); weil V keine Korrekturmöglichkeit bietet, bestellt K versehentlich „XYZ“. Bis zur Neubestellung entgehen ihm 20 Verkäufe zu 70 €. V hat § 312i Abs. 1 S. 1 Nr. 1 verletzt; K hat Anspruch auf **700 €** Schadensersatz aus §§ 312i Abs. 1 S. 1 Nr. 1, 280 Abs. 1, 311 Abs. 2, 241 Abs. 2. Daneben kann der Kunde ggf. nach **§§ 119 ff.** anfechten.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 20
+        },
+        {
+          "doc": "BGB_4",
+          "page": 21
+        },
+        {
+          "doc": "BGB_4",
+          "page": 22
+        },
+        {
+          "doc": "BGB_4",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Fernabsatzvertrag, AGB im Internet und Internet-Auktionen",
+      "short": "Ein Fernabsatzvertrag (§ 312c Abs. 1) ist ein Vertrag zwischen Unternehmer und Verbraucher über Waren oder Dienstleistungen unter ausschließlicher Verwendung von Fernkommunikationsmitteln; der Verbraucher erhält verschärfte Informationsrechte (§ 312d) und ein Widerrufsrecht (§§ 312g, 355 ff.). AGB werden im Internet einbezogen durch deutlichen Hinweis mit Link, Abruf- und Speichermöglichkeit und Einverständnis per Mausklick. Bei Internet-Auktionen ist das Einstellen des Artikels nach h.M. ein Angebot, das Höchstgebot die Annahme (Auslegungslösung nach §§ 133, 157).",
+      "long": "## Fernabsatzvertrag (S. 23–24)\n\n- **Definition (§ 312c Abs. 1):** Vertrag zwischen Unternehmer (§ 14, auch durch in seinem Namen oder Auftrag handelnde Personen) und Verbraucher (§ 13) über Waren oder Dienstleistungen unter **ausschließlicher Verwendung von Fernkommunikationsmitteln**.\n- **Fernkommunikationsmittel (§ 312c Abs. 2):** alle Mittel, die ohne gleichzeitige körperliche Anwesenheit der Parteien zur Anbahnung oder zum Abschluss eingesetzt werden können – Briefe, Kataloge, Telefonanrufe, Telekopien, E-Mails, SMS, Rundfunk, Telemedien. Erfasst ist damit der **gesamte Versandhandel**.\n- **Beispiel Münzen (S. 23):** Rentner R bestellt auf eine Zeitungsanzeige per Brief Münzen bei U (1.200 €); U bestätigt per E-Mail – Fernabsatzvertrag.\n- **Schutz:** verschärfte **Informationspflichten (§ 312d)** – Verletzung kann Schadensersatz nach § 280 Abs. 1 auslösen – und ein **Widerrufsrecht (§§ 312g, 355 ff.)**, das nicht mit dem Widerruf nach § 130 Abs. 1 S. 2 zu verwechseln ist. Einschränkungen: **§ 312g Abs. 2**.\n- **Fortsetzung (S. 24):** Nach Lieferung entschließt sich R zu einer Italienreise und widerruft. Er ist an seine Erklärung nicht mehr gebunden (§ 355 Abs. 1), muss den Kaufpreis nicht zahlen, aber die Münzen nach **§ 357 Abs. 1 innerhalb von 14 Tagen** zurückgewähren. *(Das Skript nennt dort als Rückgewährgläubiger „Z“ – gemeint ist offensichtlich der Verkäufer U.)*\n\n## Einbeziehung von AGB im Internet (S. 24)\n\n- **Ausdrücklicher Hinweis:** Ein **deutlicher Hinweis auf einen Link** zu den AGB auf der Bestellseite genügt.\n- **Möglichkeit der Kenntnisnahme:** direkter Zugriff per Link, Abspeichern und Ausdrucken möglich (BGH NJW 2006, 2976); für § 312i zusätzlich Abruf und Speicherung bei Vertragsschluss (§ 312i Abs. 1 S. 1 Nr. 4).\n- **Einverständnis per Mausklick:** gesonderte **Checkbox** oder direkt ein Angebot, das die Einbeziehung enthält. Pflicht-Checkboxen vor dem Absenden sichern den Nachweis.\n\n## Internet-Auktionen (S. 24–26)\n\n- Nach allgemeiner Ansicht **nicht § 156**: Danach wäre das Gebot des Bieters das Angebot und der Zuschlag des Auktionators die Annahme – das passt nicht zur Interessenlage.\n- Das LG Münster (1. Instanz) sah in der Freischaltung nur eine **invitatio ad offerendum**. Der **BGH (NJW 2002, 363)** dagegen: Die **Freischaltung der Angebotsseite ist ein bindendes Angebot** – Kaufgegenstand bestimmt, Vertragspartner (Höchstbietender) und Preis (Höchstgebot) bestimmbar; die AGB der Plattform sprechen für den Rechtsbindungswillen (Beispiel § 7 Nr. 2 der eBay-AGB, S. 25).\n- **Problem:** Die Plattform-AGB gelten nur zwischen Betreiber und Mitglied (**Relativität der Schuldverhältnisse**). Lösungen:\n  - *Vertrag zugunsten Dritter (§ 328):* kaum noch vertreten, da die AGB auch nachteilige Klauseln enthalten – ein **Vertrag zu Lasten Dritter** ist unzulässig.\n  - *Rahmenvertragslösung:* Rahmenvertrag aller Mitglieder, Betreiber als Empfangsvertreter; Bedenken: ggf. überraschende Klausel (§ 305c), für konkludenten Abschluss fehlt meist das Erklärungsbewusstsein.\n  - *Auslegungslösung (durchgesetzt):* Die Erklärungen der Mitglieder sind nach **§§ 133, 157** vom objektiven Empfängerhorizont aus so auszulegen, wie es den Betreiber-AGB entspricht, weil jeder Teilnehmer diese anerkennen muss (S. 26).\n- **Ergebnis (S. 26):** Einstellen = **Angebot (§ 145)**; Gebot = **Annahme unter der aufschiebenden Bedingung (§ 158 Abs. 1)**, bei Zeitablauf Höchstbietender zu sein; Vertrag zum Höchstgebot. (Der BGH hat diese Konstruktion ausdrücklich offengelassen, S. 26 Fn. 44.)\n- Sieht man die Freischaltung als invitatio, kommt eine **antizipierte Annahme** in Betracht, wenn die AGB den Anbieter unwiderruflich zur Leistung an den Meistbietenden verpflichten.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 23
+        },
+        {
+          "doc": "BGB_4",
+          "page": 24
+        },
+        {
+          "doc": "BGB_4",
+          "page": 25
+        },
+        {
+          "doc": "BGB_4",
+          "page": 26
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Allgemeine Geschäftsbedingungen",
+      "text": "Alle für eine Vielzahl von Verträgen vorformulierten Vertragsbedingungen, die eine Vertragspartei (Verwender) der anderen Vertragspartei bei Abschluss eines Vertrags stellt.",
+      "norm": "§ 305 Abs. 1 S. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 8
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Vielzahl von Verträgen",
+      "text": "Absicht einer mindestens dreimaligen Verwendung; bereits die erstmalige Verwendung genügt, wenn weitere Verwendungen bei Vertragsschluss hinreichend geplant sind. Bei Verbraucherverträgen unbeachtlich (§ 310 Abs. 3 Nr. 2).",
+      "norm": "§ 305 Abs. 1 S. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Stellen (vom Verwender gestellt)",
+      "text": "Einseitiges Einbringen der vorformulierten Bedingungen in den Vertrag durch den Verwender, ohne dass der Vertragspartner Einfluss nehmen kann. Bei Verbraucherverträgen gelten AGB als vom Unternehmer gestellt.",
+      "norm": "§ 305 Abs. 1 S. 1, § 310 Abs. 3 Nr. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Aushandeln (Individualabrede)",
+      "text": "Vertragsbedingungen sind im Einzelnen ausgehandelt, wenn der Vertragsinhalt das Ergebnis einer selbstverantwortlichen Prüfung, Abwägung und möglichen Einflussnahme beider Vertragsseiten ist (BGH NJW 2019, 2080). Solche Individualabreden sind keine AGB und gehen widersprechenden AGB vor.",
+      "norm": "§§ 305 Abs. 1 S. 3, 305b BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "term": "Überraschende Klausel",
+      "text": "Bestimmung, die nach den Umständen, insbesondere dem äußeren Erscheinungsbild des Vertrags, so ungewöhnlich ist, dass der Vertragspartner mit ihr nicht zu rechnen braucht; das ist der Fall, wenn ihr ein Überrumpelungs- oder Übertölpelungseffekt innewohnt und zwischen ihrem Inhalt und den Erwartungen des Kunden eine deutliche Diskrepanz besteht.",
+      "norm": "§ 305c Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 14
+        },
+        {
+          "doc": "BGB_4",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "term": "Geltungserhaltende Reduktion",
+      "text": "Rückführung einer unwirksamen AGB-Klausel auf den gerade noch zulässigen Inhalt. Sie ist bei AGB unzulässig, weil der Verwender sonst kein Risiko einginge; stattdessen gilt nach § 306 Abs. 2 das Gesetz.",
+      "norm": "§ 306 Abs. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        },
+        {
+          "doc": "BGB_4",
+          "page": 13
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "term": "Abwehrklausel",
+      "text": "AGB-Klausel, mit der ein Unternehmer der Geltung der Geschäftsbedingungen des anderen Teils von vornherein widerspricht (z.B. „Geschäftsbedingungen des Kunden finden keine Anwendung, auch wenn wir ihrer Geltung nicht gesondert widersprechen“).",
+      "norm": "§§ 150 Abs. 2, 306 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 16
+        },
+        {
+          "doc": "BGB_4",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "term": "Vertrag im elektronischen Geschäftsverkehr",
+      "text": "Vertrag, den ein Unternehmer mit einem Kunden über die Lieferung von Waren oder die Erbringung von Dienstleistungen schließt und sich dabei der Telemedien (in der Regel des Internets) bedient.",
+      "norm": "§ 312i Abs. 1 S. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 20
+        },
+        {
+          "doc": "BGB_4",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "term": "Fernabsatzvertrag",
+      "text": "Vertrag zwischen einem Unternehmer (oder einer in seinem Namen oder Auftrag handelnden Person) und einem Verbraucher über die Lieferung von Waren oder die Erbringung von Dienstleistungen, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln geschlossen wird.",
+      "norm": "§ 312c Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "term": "Fernkommunikationsmittel",
+      "text": "Alle Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, z.B. Briefe, Kataloge, Telefonanrufe, E-Mails, SMS, Rundfunk und Telemedien.",
+      "norm": "§ 312c Abs. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 23
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Gutachterliche AGB-Kontrolle (nach dem Skript)",
+      "steps": [
+        "1. Anwendbarkeit der §§ 305 ff.: keine Bereichsausnahme nach § 310 Abs. 4 S. 1 (Erb-, Familien-, Gesellschaftsrecht, Tarifverträge, Betriebs- und Dienstvereinbarungen); bei Unternehmern/jur. Personen des öffentl. Rechts § 310 Abs. 1 beachten (keine §§ 305 Abs. 2, 3, 308, 309).",
+        "2. Vorliegen von AGB (§ 305 Abs. 1): vorformuliert, für eine Vielzahl (mind. 3) von Verträgen, vom Verwender gestellt (Verbrauchervertrag: § 310 Abs. 3 Nr. 1, 2); keine Individualvereinbarung (§ 305 Abs. 1 S. 3, Vorrang § 305b).",
+        "3. Einbeziehung: § 305 Abs. 2 Nr. 1 ausdrücklicher Hinweis (ausnahmsweise Aushang), Nr. 2 zumutbare Kenntnisnahmemöglichkeit, Einverständnis; keine überraschende Klausel (§ 305c Abs. 1); B2B: §§ 145 ff.",
+        "4. Inhaltskontrolle: Auslegung der Klausel (§ 305c Abs. 2); Vorprüfung § 307 Abs. 3 (Abweichung von Rechtsvorschriften), § 310 Abs. 1, 2, 4; dann von hinten nach vorne: § 309 → § 308 → § 307 Abs. 1, 2 (Transparenzgebot, gesetzlicher Grundgedanke, Vertragszweckgefährdung).",
+        "5. Rechtsfolgen: § 306 Abs. 1 (Vertrag im Übrigen wirksam), § 306 Abs. 2 (dispositives Recht), teilbare Klauseln, ausnahmsweise Gesamtnichtigkeit § 306 Abs. 3; keine geltungserhaltende Reduktion."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "title": "Vertragsschluss im Online-Shop",
+      "steps": [
+        "1. Warenpräsentation: in der Regel invitatio ad offerendum (fehlender Rechtsbindungswille, Gefahr der Übererfüllung).",
+        "2. Angebot: Bestellung des Kunden; Wirksamwerden als Erklärung unter Abwesenden mit Zugang (§ 130).",
+        "3. Annahme: Auftragsbestätigung mit erkennbarem Annahmewillen – nicht die bloße Zugangsbestätigung nach § 312i Abs. 1 S. 1 Nr. 3 – oder spätestens Lieferung der Ware.",
+        "4. Einbeziehung von AGB: deutlicher Link-Hinweis, Abruf/Speichern/Ausdruck möglich, Einverständnis per Klick (§ 305 Abs. 2; § 312i Abs. 1 S. 1 Nr. 4).",
+        "5. Besonderheiten bei Verbrauchern: Button-Lösung (§ 312j Abs. 3, 4); Fernabsatz: Informationspflichten (§ 312d), Widerrufsrecht (§§ 312g, 355).",
+        "6. Pflichtverletzungen: grundsätzlich Vertrag wirksam; ggf. Schadensersatz §§ 280 Abs. 1, 311 Abs. 2, 241 Abs. 2 und Anfechtung §§ 119 ff."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 21
+        },
+        {
+          "doc": "BGB_4",
+          "page": 22
+        },
+        {
+          "doc": "BGB_4",
+          "page": 23
+        },
+        {
+          "doc": "BGB_4",
+          "page": 24
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Wirkung haben Allgemeine Geschäftsbedingungen nach dem Skript typischerweise auf die gesetzlichen Regelungen eines Vertragstyps?",
+      "options": [
+        "Sie ändern, ergänzen oder ersetzen – soweit rechtlich zulässig – die dispositiven gesetzlichen Regelungen.",
+        "Sie ersetzen auch zwingende Vorschriften, sofern der Kunde unterschreibt.",
+        "Sie gelten nur, wenn das Gesetz für den Vertragstyp keine Regelung enthält.",
+        "Sie haben lediglich Informationscharakter und begründen keine Rechte und Pflichten."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "AGB modifizieren auf Grundlage der Privatautonomie das dispositive (nachgiebige) Recht – etwa Verjährung, Formerfordernisse oder Leistungsstörungsrecht. Zwingendes Recht steht nicht zur Disposition; AGB werden echter Vertragsinhalt.",
+      "hints": [
+        "Denken Sie an den Unterschied zwischen dispositivem und zwingendem Recht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Welche Gegenstände nennt das Skript als in der Vergangenheit häufig in AGB geregelt? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Ausschluss der Aufrechnung gegen Forderungen des Verwenders",
+        "Verkürzung der Gewährleistungsfristen des Verwenders",
+        "Preisänderungsklauseln bei erhöhten Produktionskosten",
+        "Verlängerung der gesetzlichen Gewährleistungsfristen zugunsten des Kunden"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das Skript nennt u.a. Aufrechnungs- und Abtretungsausschlüsse, Fristverkürzungen, Gewährleistungsbeschränkungen, Beweislastregeln, Schriftformerfordernisse, Haftungsausschlüsse und Preisänderungsklauseln – stets Regelungen zugunsten des Verwenders. Eine Fristverlängerung zugunsten des Kunden ist kein typischer Missbrauchsfall.",
+      "hints": [
+        "Wem nützen typische AGB-Klauseln?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Nach dem Skript soll das AGB-Recht die Privatautonomie einschränken, weil Vertragsfreiheit im Massenverkehr grundsätzlich nicht mehr schutzwürdig ist.",
+      "answer": false,
+      "explanation": "Das AGB-Recht will die Privatautonomie gerade nicht beseitigen, sondern ihr eine „neue Chance“ geben: Zwingende Regeln sollen die „Augenhöhe“ herstellen, die eine Ausübung der Privatautonomie erst möglich macht. Hintergrund ist das tatsächliche Ungleichgewicht zwischen Verwender und Kunde.",
+      "hints": [
+        "Wann ist Vertragsfreiheit nach dem Skript ein Mittel selbstverantwortlicher Gestaltung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 7
+        },
+        {
+          "doc": "BGB_4",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum akzeptieren Kunden nach dem Skript AGB regelmäßig, ohne sie zu prüfen?",
+      "options": [
+        "Weil eine juristische und wirtschaftliche Analyse unverhältnismäßig aufwendig ist und sie den verbreiteten AGB ohnehin kaum entgehen können.",
+        "Weil AGB nach § 305 Abs. 2 BGB nur gelten, wenn der Kunde sie gelesen hat.",
+        "Weil AGB stets von einer Behörde genehmigt werden.",
+        "Weil sie nach § 139 BGB ohnehin gesamtnichtig sind, wenn eine Klausel unwirksam ist."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Tragweite der Klauselwerke erschließt sich erst nach gründlicher Analyse; Mühe und Beratungskosten stehen in keinem Verhältnis zum Vertragswert, und die weite Verbreitung lässt keine Wahl. Man vertraut auf einen halbwegs gerechten Interessenausgleich. § 305 Abs. 2 verlangt nur die Möglichkeit der Kenntnisnahme, nicht das Lesen.",
+      "hints": [
+        "Kosten-Nutzen-Verhältnis aus Kundensicht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "AGB sind alle für eine {{1}} von Verträgen {{2}} Vertragsbedingungen, die eine Vertragspartei der anderen bei Abschluss eines Vertrags {{3}} (§ 305 Abs. 1 S. 1 BGB).",
+      "blanks": [
+        [
+          "Vielzahl"
+        ],
+        [
+          "vorformulierten",
+          "vorformulierte"
+        ],
+        [
+          "stellt"
+        ]
+      ],
+      "explanation": "Legaldefinition des § 305 Abs. 1 S. 1 BGB (S. 8, 19). „Vielzahl“ bedeutet mindestens dreimalige Verwendungsabsicht.",
+      "hints": [
+        "Drei Merkmale: Menge, Vorbereitung, Einseitigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 8
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Vermieter M lädt im Internet ein Mietvertragsmuster eines Vermieterverbands herunter und verwendet es erstmals für die Vermietung einer von drei Wohnungen; für die beiden anderen will er es ebenfalls nutzen. Der Mieter ist Verbraucher. Liegen AGB vor?",
+      "options": [
+        "Ja; die Bedingungen sind vorformuliert, auch wenn ein Dritter sie verfasst hat, und die geplante weitere Verwendung genügt bereits bei der ersten Verwendung.",
+        "Nein, weil M die Bedingungen nicht selbst formuliert hat.",
+        "Nein, weil eine Bedingung erst ab der dritten tatsächlichen Verwendung AGB ist.",
+        "Nein, weil Mietverträge nach § 310 Abs. 4 BGB vom AGB-Recht ausgenommen sind."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Vorformuliert ist eine Bedingung auch, wenn ein Interessenverband oder Dritter sie aufgesetzt hat (z.B. Download). Für die „Vielzahl“ genügt die Absicht mindestens dreimaliger Verwendung, schon bei der Erstverwendung. § 310 Abs. 4 betrifft Erb-, Familien- und Gesellschaftsrecht sowie Tarifverträge u.ä., nicht das Mietrecht.",
+      "hints": [
+        "Kommt es auf den Autor der Bedingungen an?",
+        "Absicht oder tatsächliche Verwendungen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Auch ein notarieller Vertrag kann AGB i.S.d. § 305 Abs. 1 BGB enthalten.",
+      "answer": true,
+      "explanation": "Das gilt, wenn der Notar den Vertrag nicht für den Einzelfall konzipiert hat, sondern inhaltlich wiedergibt, was eine Partei für eine Reihe gleichartiger Verträge einseitig festgelegt hat (BGHZ 83, 56, 58), etwa bei standardisierten Grundstückskauf- oder GmbH-Verträgen.",
+      "hints": [
+        "Entscheidend ist nicht die Form, sondern die einseitige Vorformulierung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Kauffrau K kauft bei V einen LKW. Die einbezogenen AGB verkürzen die Verjährung für Mängelansprüche auf ein Jahr; V sagt K jedoch vor Zeugen mündlich eine „Garantiefrist“ von drei Jahren zu. Nach 18 Monaten zeigt sich ein Mangel. Wie ist die Rechtslage?",
+      "options": [
+        "Die mündliche Zusage ist eine Individualabrede, die nach § 305b BGB der AGB-Klausel vorgeht; der Anspruch ist nicht verjährt.",
+        "Die AGB-Klausel geht vor, weil sie schriftlich ist; der Anspruch ist verjährt.",
+        "Beide Regelungen heben sich auf; es gilt die Regelverjährung von drei Jahren nach § 195 BGB.",
+        "Die Zusage ist unwirksam, weil sie gegen § 309 Nr. 8 b) ff) BGB verstößt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "So das Beispiel des Skripts (S. 10): Individualabreden genießen nach § 305b Vorrang; die widersprechende AGB-Klausel bleibt ohne Wirkung. Die Schriftlichkeit der AGB ändert daran nichts. § 309 Nr. 8 b) ff) schützt den Kunden vor zu kurzen Fristen und betrifft keine Verlängerung.",
+      "hints": [
+        "Welche Norm regelt das Verhältnis von Individualabrede und AGB?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Begriffe ihrer Beschreibung nach dem Skript zu.",
+      "pairs": [
+        [
+          "Einzelfallvereinbarung",
+          "Für die einmalige Verwendung formuliert; auf ein Aushandeln kommt es nicht an"
+        ],
+        [
+          "Aushandlungsvereinbarung",
+          "Ergebnis selbstverantwortlicher Prüfung, Abwägung und möglicher Einflussnahme beider Seiten"
+        ],
+        [
+          "Geltungs- und Ausschließlichkeitsklausel",
+          "„Unsere Lieferungen erfolgen ausschließlich auf der Grundlage der nachfolgenden Bedingungen“"
+        ],
+        [
+          "Abwehrklausel",
+          "„Geschäftsbedingungen des Kunden finden keine Anwendung, auch wenn wir ihrer Geltung nicht gesondert widersprechen“"
+        ]
+      ],
+      "explanation": "Einzelfall- und Aushandlungsvereinbarungen sind Formen der Individualvereinbarung (S. 10). Geltungs-, Ausschließlichkeits- und Abwehrklauseln sind typische Instrumente im B2B-Verkehr, um die eigenen AGB durchzusetzen (S. 16).",
+      "hints": [
+        "Zwei Begriffe gehören zur Individualabrede, zwei zur AGB-Kollision."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 10
+        },
+        {
+          "doc": "BGB_4",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Welche Voraussetzungen müssen nach § 305 Abs. 2 BGB für die Einbeziehung von AGB gegenüber einem Verbraucher erfüllt sein? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Ausdrücklicher Hinweis bei Vertragsschluss (ausnahmsweise deutlich sichtbarer Aushang)",
+        "Möglichkeit, in zumutbarer Weise vom Inhalt Kenntnis zu nehmen",
+        "Einverständnis der anderen Vertragspartei mit der Geltung",
+        "Eigenhändige Unterschrift des Kunden unter die AGB"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "§ 305 Abs. 2 verlangt Hinweis, zumutbare Kenntnisnahmemöglichkeit und Einverständnis. Das Einverständnis ist eine Willenserklärung, die auch konkludent abgegeben werden kann; eine Unterschrift ist nicht erforderlich.",
+      "hints": [
+        "Kann das Einverständnis auch durch schlüssiges Verhalten erklärt werden?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Nach § 305 Abs. 2 BGB genügt es für die Einbeziehung, dass der Kunde vom Vorhandensein der AGB hätte Kenntnis haben können.",
+      "answer": false,
+      "explanation": "Gerade diese frühere Rechtsprechung wollte der Gesetzgeber korrigieren: Die Einbeziehung soll auf dem rechtsgeschäftlichen Willen beruhen. Erforderlich sind Hinweis, zumutbare Kenntnisnahmemöglichkeit und Einverständnis.",
+      "hints": [
+        "Warum war die Klarstellung in § 305 Abs. 2 nach dem Skript nötig?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussage zur Kontrollfähigkeit nach § 307 Abs. 3 BGB trifft nach dem Skript zu?",
+      "options": [
+        "Leistungsbeschreibungen und Preisabreden sind grundsätzlich kontrollfrei; sie können aber am Transparenzgebot des § 307 Abs. 1 S. 2 scheitern.",
+        "Preisabreden in AGB unterliegen immer der vollen Inhaltskontrolle nach §§ 307–309.",
+        "Nur Klauseln, die das Gesetz wörtlich wiederholen, unterliegen der Inhaltskontrolle.",
+        "Leistungsbeschreibungen sind kontrollfrei, auch wenn sie völlig unverständlich formuliert sind."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Kontrolliert werden nur Klauseln, die von Rechtsvorschriften abweichen oder diese ergänzen. Leistungsinhalt und Preishöhe sind grundsätzlich nicht Gegenstand der AGB-Kontrolle (beim Preis ggf. § 138, insb. Abs. 2). Ausnahme: Intransparenz (§ 307 Abs. 1 S. 2).",
+      "hints": [
+        "Was soll der Markt regeln, was das Gericht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte der AGB-Kontrolle nach dem Skript in die richtige Reihenfolge.",
+      "items": [
+        "Anwendbarkeit der §§ 305 ff. (§ 310 Abs. 4, Abs. 1)",
+        "Vorliegen von AGB (§ 305 Abs. 1)",
+        "Ordnungsgemäße Einbeziehung (§ 305 Abs. 2, § 305c Abs. 1)",
+        "Inhaltskontrolle (§ 309 → § 308 → § 307)",
+        "Rechtsfolgen (§ 306)"
+      ],
+      "explanation": "Schema S. 19: Erst wenn feststeht, dass AGB vorliegen und einbezogen sind, wird ihr Inhalt kontrolliert; die Rechtsfolgen ergeben sich aus § 306.",
+      "hints": [
+        "Inhaltskontrolle setzt einbezogene AGB voraus."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsreihenfolge innerhalb der Inhaltskontrolle („von hinten nach vorne“) in die richtige Reihenfolge.",
+      "items": [
+        "Ermittlung des Klauselinhalts durch Auslegung",
+        "Vorprüfung: Abweichung von Rechtsvorschriften (§ 307 Abs. 3)",
+        "Klauselverbote ohne Wertungsmöglichkeit (§ 309)",
+        "Klauselverbote mit Wertungsmöglichkeit (§ 308)",
+        "Generalklausel (§ 307 Abs. 1 i.V.m. Abs. 2)"
+      ],
+      "explanation": "Nach dem Schema (S. 19) wird zunächst der Inhalt ausgelegt und die Kontrollfähigkeit geprüft; dann folgen die spezielleren Verbote vor der Generalklausel.",
+      "hints": [
+        "Spezielles vor Allgemeinem."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Unternehmer V verkauft Verbraucherin K einen neuen Drucker. Nach den wirksam einbezogenen AGB beträgt die Gewährleistungsfrist 6 Monate. Welche Frist gilt nach dem Skript?",
+      "options": [
+        "Die gesetzliche Frist von zwei Jahren (§ 438 Abs. 1 Nr. 3), weil die Klausel unwirksam ist und an ihre Stelle das Gesetz tritt (§ 306 Abs. 2).",
+        "Zwölf Monate, weil die Klausel auf das gerade noch zulässige Maß reduziert wird.",
+        "Sechs Monate, weil die Klausel wirksam einbezogen wurde.",
+        "Keine Frist, weil der gesamte Kaufvertrag nach § 139 BGB nichtig ist."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Klausel verstößt gegen § 309 Nr. 8 b) ff) und ist unwirksam. Eine geltungserhaltende Reduktion auf 12 Monate ist unzulässig; es gilt § 438 Abs. 1 Nr. 3. Der Vertrag bleibt nach § 306 Abs. 1 im Übrigen wirksam (Ausnahme zu § 139).",
+      "hints": [
+        "Wird die Klausel „gerettet“?",
+        "§ 306 Abs. 1 verdrängt § 139."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        },
+        {
+          "doc": "BGB_4",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ist eine AGB-Klausel unwirksam, bleibt der Vertrag im Übrigen wirksam ({{1}}); an die Stelle der Klausel treten die {{2}} (§ 306 Abs. 2 BGB). Ausnahmsweise ist der Vertrag insgesamt unwirksam, wenn das Festhalten an ihm eine {{3}} für eine Partei darstellen würde (§ 306 Abs. 3 BGB).",
+      "blanks": [
+        [
+          "§ 306 Abs. 1 BGB",
+          "§ 306 Abs. 1",
+          "§ 306 I",
+          "§ 306 I BGB"
+        ],
+        [
+          "gesetzlichen Vorschriften",
+          "gesetzlichen Regelungen",
+          "gesetzliche Vorschriften"
+        ],
+        [
+          "unzumutbare Härte"
+        ]
+      ],
+      "explanation": "§ 306 ist eine wichtige Ausnahme zu § 139: Der Kunde soll nicht um seinen Vertrag gebracht werden (S. 12, 19).",
+      "hints": [
+        "Absatz 1 – Absatz 2 – Absatz 3."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "B kauft bei P günstig eine Kaffeemaschine; die AGB sind wirksam einbezogen. In § 22 der AGB, die B nicht gelesen hat, findet sich eine monatliche Kaffeeabnahmepflicht. Muss B den gelieferten Kaffee abnehmen?",
+      "options": [
+        "Nein, § 22 ist als überraschende Klausel nach § 305c Abs. 1 BGB nicht Vertragsbestandteil geworden.",
+        "Ja, weil B die AGB hätte lesen können und ihrer Einbeziehung zugestimmt hat.",
+        "Nein, aber nur weil B Verbraucher ist und § 310 Abs. 3 BGB Abnahmepflichten verbietet.",
+        "Ja, denn eine Abnahmepflicht ist eine kontrollfreie Leistungsbeschreibung nach § 307 Abs. 3 BGB."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach dem Erscheinungsbild des Vertrags (Kauf einer Maschine) musste B mit einer Abnahmepflicht nicht rechnen: Überrumpelungseffekt und deutliche Diskrepanz zu seinen Erwartungen (S. 15). Dass er der Einbeziehung insgesamt zugestimmt hat, ändert daran nichts – § 305c Abs. 1 setzt gerade bei einbezogenen AGB an.",
+      "hints": [
+        "Mit welchen Pflichten rechnet ein Käufer einer Kaffeemaschine?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 14
+        },
+        {
+          "doc": "BGB_4",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bei Verbraucherverträgen findet die Inhaltskontrolle nach §§ 307 ff. BGB auch auf vorformulierte Bedingungen Anwendung, die nur zur einmaligen Verwendung bestimmt sind, soweit der Verbraucher aufgrund der Vorformulierung keinen Einfluss auf ihren Inhalt nehmen konnte.",
+      "answer": true,
+      "explanation": "So § 310 Abs. 3 Nr. 2 (S. 14), der die Klausel-Richtlinie 93/13/EWG umsetzt. Zudem gelten AGB als vom Unternehmer gestellt (§ 310 Abs. 3 Nr. 1).",
+      "hints": [
+        "Welche Richtlinie setzt § 310 Abs. 3 um?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu den Einschränkungen des AGB-Rechts nach § 310 BGB treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Gesellschaftsverträge einer OHG unterliegen keiner Inhaltskontrolle nach §§ 307 ff., wohl aber einer Kontrolle nach §§ 134, 138, 242.",
+        "Gegenüber Unternehmern bleibt § 307 Abs. 1 und 2 anwendbar; Wertungen der §§ 308, 309 können einfließen.",
+        "Arbeitsverträge sind wie früher nach § 23 AGB-Gesetz vollständig vom AGB-Recht ausgenommen.",
+        "Gegenüber Unternehmern gilt § 305 Abs. 2 uneingeschränkt."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "§ 310 Abs. 4 nimmt Erb-, Familien- und Gesellschaftsrecht aus (Kontrolle dann über §§ 134, 138, 242, z.B. Abfindungsklauseln). Die arbeitsrechtliche Ausnahme ist auf Tarifverträge, Betriebs- und Dienstvereinbarungen beschränkt. § 310 Abs. 1 schließt §§ 305 Abs. 2, 3, 308, 309 gegenüber Unternehmern aus.",
+      "hints": [
+        "Unterscheiden Sie Abs. 1 und Abs. 4 des § 310."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "F bestellt unter Hinweis auf ihre AGB (mit Abwehrklausel) bei der W-AG Feinbleche; W bestätigt unter Verweis auf ihre eigenen, widersprechenden AGB mit Abwehrklausel und liefert. Wie löst der BGH nach heutiger Rechtsprechung die Kollision?",
+      "options": [
+        "Teildissens: Nur die kollidierenden Klauseln werden nicht einbezogen; im Übrigen besteht der Vertrag fort, die Lücken füllt das Gesetz (§ 306 Abs. 1, 2).",
+        "Theorie des letzten Wortes: Es gelten die AGB der W, weil F die Ware widerspruchslos entgegengenommen hat.",
+        "Der Vertrag ist wegen offenen Dissenses (§ 154 Abs. 1) insgesamt nicht zustande gekommen.",
+        "Es gelten die AGB der F, weil ihr Angebot zeitlich zuerst abgegeben wurde."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Seit den 1970er Jahren nimmt der BGH bei kollidierenden AGB einen Teildissens an. § 150 Abs. 2 (Theorie des letzten Wortes) greift nur noch, wenn der Besteller keine Abwehrklausel verwendet oder der Lieferant eindeutig nur zu seinen Bedingungen abschließen will. Das Kongruenzmodell der Literatur kehrt § 154 Abs. 1 um und kommt zum selben Ergebnis.",
+      "hints": [
+        "Die Parteien haben den Vertrag durchgeführt – wollten sie ihn?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 16
+        },
+        {
+          "doc": "BGB_4",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Die V-AG (Sitz Hagen) verkauft der K-GmbH (Sitz Münster) Hochleistungsrechner für 435.000 €. Beide AGB enthalten eine Gerichtsstandsklausel zugunsten des jeweils eigenen Sitzes sowie die Klausel: „Widersprechen sich die Lieferungs- und Zahlungsbedingungen der Vertragspartner, so gelten nur die vorliegenden Bedingungen.“ Die V-AG klagt den Kaufpreis beim LG Hagen ein. Ist das LG Hagen zuständig?",
+      "modelAnswer": "Das LG Hagen könnte aufgrund einer Gerichtsstandsvereinbarung in den AGB der V-AG zuständig sein. Beide Parteien sind Unternehmer; die AGB werden nach § 310 Abs. 1 S. 1 BGB nicht nach § 305 Abs. 2, sondern nach den allgemeinen Regeln (§§ 145 ff.) einbezogen. Beide AGB widersprechen sich jedoch hinsichtlich des Gerichtsstands und enthalten jeweils eine Abwehrklausel. Nach der Theorie des letzten Wortes (§ 150 Abs. 2) käme es auf die zuletzt übersandten AGB und deren widerspruchslose Hinnahme an; der BGH nimmt heute aber bei kollidierenden AGB einen Teildissens an: Nur die widersprechenden Klauseln werden nicht Vertragsbestandteil, der Vertrag bleibt im Übrigen wirksam (§ 306 Abs. 1). Die Literatur kommt mit dem Kongruenzmodell zum selben Ergebnis. An die Stelle der kollidierenden Gerichtsstandsklauseln tritt das dispositive Gesetz (§ 306 Abs. 2), hier die ZPO: Allgemeiner Gerichtsstand der K-GmbH an ihrem Sitz (§ 17 ZPO) bzw. Gerichtsstand des Erfüllungsorts (§ 29 ZPO i.V.m. §§ 269, 270 BGB) für die Kaufpreisschuld. Beides ist Münster. Das LG Hagen ist nicht zuständig; die Klage hätte beim LG Münster erhoben werden müssen.",
+      "rubric": [
+        "B2B: § 310 Abs. 1, Einbeziehung nach §§ 145 ff.",
+        "Kollision der Gerichtsstandsklauseln mit Abwehrklauseln erkannt",
+        "Theorie des letzten Wortes vs. Teildissens (BGH) / Kongruenzmodell",
+        "§ 306 Abs. 1, 2: Vertrag wirksam, dispositives Recht",
+        "§ 17 ZPO bzw. § 29 ZPO i.V.m. §§ 269, 270 BGB → Münster",
+        "Ergebnis: LG Hagen unzuständig"
+      ],
+      "hints": [
+        "Welche Regel gilt, wenn die AGB-Klauseln wegfallen?",
+        "Wo ist der Sitz der Beklagten, wo der Erfüllungsort der Geldschuld?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 16
+        },
+        {
+          "doc": "BGB_4",
+          "page": 17
+        },
+        {
+          "doc": "BGB_4",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erläutern Sie, warum eine geltungserhaltende Reduktion unwirksamer AGB-Klauseln nicht zulässig ist und was stattdessen gilt.",
+      "modelAnswer": "Bei der geltungserhaltenden Reduktion würde eine unwirksame Klausel auf den nach dem Gesetz gerade noch zulässigen Inhalt zurückgeführt und insoweit aufrechterhalten, etwa eine zu kurze Verjährungsfrist auf die Mindestfrist. Das ist bei AGB unzulässig: Der Verwender ginge dann keinerlei Risiko ein, denn am Ende bliebe stets der für ihn günstigste rechtlich mögliche Inhalt übrig; überzogene Klauseln würden so gefahrlos. Stattdessen bleibt der Vertrag nach § 306 Abs. 1 BGB im Übrigen wirksam, und an die Stelle der unwirksamen Klausel treten die gesetzlichen Vorschriften (§ 306 Abs. 2 BGB), im Druckerbeispiel also die zweijährige Frist des § 438 Abs. 1 Nr. 3 BGB statt der vereinbarten sechs Monate.",
+      "rubric": [
+        "Begriff der geltungserhaltenden Reduktion",
+        "Begründung: kein Risiko für den Verwender / Präventionsgedanke",
+        "§ 306 Abs. 1: Vertrag bleibt wirksam",
+        "§ 306 Abs. 2: gesetzliche Regelung tritt an die Stelle",
+        "Beispiel (z.B. § 438 Abs. 1 Nr. 3)"
+      ],
+      "hints": [
+        "Aus wessen Sicht wäre eine Reduktion attraktiv?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        },
+        {
+          "doc": "BGB_4",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wie ist die Präsentation von Waren in einem Online-Shop nach dem Skript in der Regel einzuordnen?",
+      "options": [
+        "Als invitatio ad offerendum",
+        "Als bindendes Angebot an jedermann",
+        "Als antizipierte Annahme künftiger Bestellungen",
+        "Als Auslobung nach § 657 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Mangels erkennbaren Rechtsbindungswillens ist regelmäßig von einer invitatio ad offerendum auszugehen; sonst könnte der Verkäufer – wie beim Katalogversand – mehr Verträge schließen, als er erfüllen kann. Das Angebot macht der Kunde mit seiner Bestellung.",
+      "hints": [
+        "Denken Sie an das Risiko begrenzter Lagerbestände."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Die Bestätigung des Zugangs der Bestellung, zu der der Unternehmer nach § 312i Abs. 1 S. 1 Nr. 3 BGB verpflichtet ist, stellt stets die Annahme des Angebots dar.",
+      "answer": false,
+      "explanation": "Die bloße Zugangsbestätigung ist keine Annahme, sofern sich ihr kein Annahmewille entnehmen lässt. Formulierungen wie „Vielen Dank für Ihren Auftrag. Wir werden Ihre Bestellung umgehend bearbeiten“ können dagegen als Annahme auszulegen sein (BGH NJW 2005, 976).",
+      "hints": [
+        "Zugangsbestätigung ≠ Auftragsbestätigung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 21
+        },
+        {
+          "doc": "BGB_4",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Pflicht bzw. Regel der richtigen Norm zu.",
+      "pairs": [
+        [
+          "Technische Mittel zur Erkennung und Berichtigung von Eingabefehlern",
+          "§ 312i Abs. 1 S. 1 Nr. 1 BGB"
+        ],
+        [
+          "Unverzügliche elektronische Bestätigung des Zugangs der Bestellung",
+          "§ 312i Abs. 1 S. 1 Nr. 3 BGB"
+        ],
+        [
+          "Abruf und Speicherung der Vertragsbestimmungen einschließlich AGB",
+          "§ 312i Abs. 1 S. 1 Nr. 4 BGB"
+        ],
+        [
+          "Schaltfläche „zahlungspflichtig bestellen“",
+          "§ 312j Abs. 3 BGB"
+        ],
+        [
+          "Kein Vertragsschluss bei Verstoß gegen die Button-Pflicht",
+          "§ 312j Abs. 4 BGB"
+        ]
+      ],
+      "explanation": "Pflichten des Unternehmers im elektronischen Geschäftsverkehr (S. 22). Grundsätzlich lässt ihre Verletzung den Vertragsschluss unberührt – Ausnahme § 312j Abs. 4.",
+      "hints": [
+        "§ 312j betrifft Verbraucherverträge."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Händler K bestellt online bei V 100 Spiele „WWW“; mangels Korrekturmöglichkeit im Bestellsystem bestellt er versehentlich „XYZ“. Bis zur erneuten Bestellung entgehen ihm nachweislich 20 Verkäufe zu je 70 €. Welche Anspruchsgrundlage nennt das Skript für den Schadensersatz von 700 €?",
+      "options": [
+        "§§ 312i Abs. 1 S. 1 Nr. 1, 280 Abs. 1, 311 Abs. 2, 241 Abs. 2 BGB",
+        "§ 122 Abs. 1 BGB, weil K angefochten hat",
+        "§ 312j Abs. 4 BGB, weil kein Vertrag zustande gekommen ist",
+        "§ 357 Abs. 1 BGB als Folge des Widerrufs"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "V hat seine vorvertragliche Pflicht aus § 312i Abs. 1 S. 1 Nr. 1 verletzt (S. 23). Die Pflicht gilt auch gegenüber Unternehmern als Kunden. § 122 begründet einen Anspruch gegen den Anfechtenden, nicht für ihn; § 312j Abs. 4 betrifft die Button-Lösung bei Verbrauchern; ein Widerrufsrecht hat der Händler K nicht.",
+      "hints": [
+        "Die Pflichten aus § 312i sind vorvertragliche Pflichten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 22
+        },
+        {
+          "doc": "BGB_4",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Rentner R bestellt auf eine Zeitungsanzeige per Brief bei Unternehmer U Münzen für 1.200 €; U bestätigt per E-Mail und liefert. Welche Aussagen treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Es liegt ein Fernabsatzvertrag vor, obwohl das Internet nicht genutzt wurde.",
+        "R kann seine Willenserklärung nach §§ 312g, 355 BGB widerrufen und ist dann nicht mehr gebunden.",
+        "Nach Widerruf muss R die Münzen innerhalb von 14 Tagen zurückgewähren (§ 357 Abs. 1 BGB).",
+        "Der Widerruf ist nur bis zum Zugang der Bestellung möglich (§ 130 Abs. 1 S. 2 BGB)."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Brief und E-Mail sind Fernkommunikationsmittel (§ 312c Abs. 2); der gesamte Versandhandel ist erfasst. Das verbraucherschützende Widerrufsrecht (§§ 312g, 355) ist vom Widerruf nach § 130 Abs. 1 S. 2 zu unterscheiden, der nur bis zum Zugang möglich ist.",
+      "hints": [
+        "Zwei verschiedene „Widerrufe“ im BGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 23
+        },
+        {
+          "doc": "BGB_4",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie, wie bei einer Internet-Auktion zwischen Verkäufer und Höchstbietendem ein Kaufvertrag zustande kommt, und warum die Plattform-AGB dabei eine Rolle spielen, obwohl sie nur zwischen Betreiber und Mitglied vereinbart sind.",
+      "modelAnswer": "§ 156 BGB passt nicht, weil danach das Gebot Angebot und der Zuschlag des Auktionators Annahme wäre; die Plattform erteilt keinen Zuschlag. Der BGH sieht in der Freischaltung der Angebotsseite bereits ein bindendes Angebot: Der Gegenstand ist bestimmt, Vertragspartner (Höchstbietender) und Preis (Höchstgebot) sind bestimmbar, und die Plattform-AGB sprechen für einen Rechtsbindungswillen. Diese AGB gelten wegen der Relativität der Schuldverhältnisse aber nur zwischen Betreiber und Mitglied. Die Konstruktion als Vertrag zugunsten Dritter wird kaum noch vertreten, weil die AGB auch nachteilige Klauseln enthalten und ein Vertrag zu Lasten Dritter unzulässig ist; die Rahmenvertragslösung begegnet Bedenken (§ 305c, fehlendes Erklärungsbewusstsein). Durchgesetzt hat sich die Auslegungslösung: Weil alle Teilnehmer die Betreiber-AGB anerkennen müssen, sind ihre Erklärungen nach §§ 133, 157 aus Sicht des objektiven Empfängers so zu verstehen, wie es den AGB entspricht. Das Einstellen ist daher ein Angebot (§ 145), jedes Gebot eine Annahme unter der aufschiebenden Bedingung (§ 158 Abs. 1), bei Auktionsende Höchstbietender zu sein; der Vertrag kommt zum Höchstgebot zustande.",
+      "rubric": [
+        "§ 156 nicht anwendbar (Begründung)",
+        "BGH: Freischaltung = bindendes Angebot; Bestimmbarkeit von Partner und Preis",
+        "Relativität der Schuldverhältnisse als Problem",
+        "Verworfene Lösungen: § 328 (Vertrag zu Lasten Dritter), Rahmenvertrag",
+        "Auslegungslösung §§ 133, 157",
+        "Gebot = Annahme unter aufschiebender Bedingung (§ 158 Abs. 1)"
+      ],
+      "hints": [
+        "Wer ist bei einer Online-Auktion „Auktionator“?",
+        "Welche Funktion haben §§ 133, 157 hier?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 24
+        },
+        {
+          "doc": "BGB_4",
+          "page": 25
+        },
+        {
+          "doc": "BGB_4",
+          "page": 26
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Die Schriftformklausel des Zaunherstellers (Fall nach OLG Frankfurt WM 1981, 598)",
+    "facts": "Die Firma V stellt Zäune her und vertreibt sie. Sie verwendet für alle Verkäufe Allgemeine Geschäftsbedingungen, die wirksam in die Verträge einbezogen werden. Darin heißt es u.a.: „Von unseren Bedingungen abweichende mündliche Vereinbarungen sind nur gültig, wenn sie von uns schriftlich bestätigt werden.“ K kauft bei V 100 m Drahtzaun und vereinbart dabei mit dem Angestellten A der V mündlich Lieferungs- und Zahlungsbedingungen, die von den AGB abweichen. Eine schriftliche Bestätigung erfolgt nicht. Als K Lieferung zu den mündlich vereinbarten Bedingungen verlangt, verweist V auf ihre AGB. (Gehen Sie davon aus, dass A zur Vereinbarung der Bedingungen befugt war.)",
+    "question": "Kann K von V Lieferung des Zauns zu den mündlich vereinbarten Bedingungen verlangen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "K könnte gegen V einen Anspruch auf Übergabe und Übereignung des Zauns zu den mündlich vereinbarten Lieferungs- und Zahlungsbedingungen aus § 433 Abs. 1 S. 1 BGB haben. Ein Kaufvertrag ist geschlossen. Fraglich ist, ob die mündlichen Abreden Vertragsinhalt geworden sind; das wäre nicht der Fall, wenn ihnen die Schriftformklausel in den AGB der V wirksam entgegenstünde. Die Klausel könnte jedoch nach § 307 Abs. 1 S. 1 BGB unwirksam sein.",
+        "rubric": [
+          "Anspruchsgrundlage § 433 Abs. 1 S. 1 BGB",
+          "Konjunktiv",
+          "Problem benannt: Schriftformklausel vs. mündliche Abrede",
+          "Prüfungsmaßstab § 307 BGB"
+        ],
+        "hints": [
+          "Was verlangt K – und welche Klausel steht dem entgegen?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie AGB und nennen Sie den Maßstab, an dem die Schriftformklausel zu messen ist (einschließlich der Bedeutung des § 305b BGB).",
+        "model": "AGB sind nach § 305 Abs. 1 S. 1 BGB alle für eine Vielzahl von Verträgen – d.h. bei beabsichtigter mindestens dreimaliger Verwendung – vorformulierten Vertragsbedingungen, die der Verwender der anderen Partei bei Vertragsschluss stellt. Im Einzelnen ausgehandelte Abreden sind Individualabreden; sie haben nach § 305b BGB Vorrang vor widersprechenden AGB. Nach dem BGH ist eine Schriftformklausel an der Generalklausel des § 307 BGB zu messen. Danach ist eine Bestimmung unwirksam, wenn sie den Vertragspartner des Verwenders entgegen den Geboten von Treu und Glauben unangemessen benachteiligt (§ 307 Abs. 1 S. 1 BGB).",
+        "rubric": [
+          "Definition AGB (§ 305 Abs. 1 S. 1)",
+          "Individualabrede und Vorrang § 305b",
+          "Maßstab § 307 nach BGH",
+          "Unangemessene Benachteiligung entgegen Treu und Glauben"
+        ],
+        "hints": [
+          "Welche Norm nennt das Skript als Prüfungsmaßstab für Schriftformklauseln?"
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Die Klausel ist Teil der für alle Verkäufe verwendeten, von V vorformulierten und einseitig gestellten Bedingungen; es handelt sich um AGB, die wirksam einbezogen wurden. Die mündlich mit A getroffenen Lieferungs- und Zahlungsbedingungen wurden dagegen individuell für diesen Vertrag vereinbart; sie sind Individualabreden i.S.d. § 305b BGB. Die Schriftformklausel beansprucht Geltung, ohne auf die von der Rechtsprechung anerkannten Ausnahmen – insbesondere den Vorrang der Individualabrede – einzugehen. Sie verschleiert dem Kunden, dass mündliche Zusagen, die von den AGB abweichen, gleichwohl wirksam sein können, und spiegelt dem häufig rechtsunkundigen Vertragspartner der Wahrheit zuwider ein geschlossenes System vor, in dem er sich auf mündliche Nebenabreden nicht berufen könne. Das hält ihn davon ab, seine Rechte geltend zu machen. Darin liegt eine unangemessene Benachteiligung entgegen den Geboten von Treu und Glauben. Die Klausel ist nach § 307 Abs. 1 S. 1 BGB unwirksam; nach § 306 Abs. 1 BGB bleibt der Vertrag im Übrigen wirksam.",
+        "rubric": [
+          "AGB-Eigenschaft und Einbeziehung kurz festgestellt",
+          "Mündliche Abrede als Individualabrede (§ 305b)",
+          "Begründung der unangemessenen Benachteiligung (Verschleierung, geschlossenes System)",
+          "Unwirksamkeit nach § 307 Abs. 1 S. 1",
+          "§ 306 Abs. 1: Vertrag bleibt wirksam"
+        ],
+        "hints": [
+          "Was erfährt ein rechtsunkundiger Kunde aus der Klausel – und was nicht?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Die Schriftformklausel ist nach § 307 Abs. 1 S. 1 BGB unwirksam; die mündlich vereinbarten Bedingungen sind Vertragsinhalt geworden. K kann von V gemäß § 433 Abs. 1 S. 1 BGB Lieferung des Zauns zu den mündlich vereinbarten Bedingungen verlangen. V verweist zu Unrecht auf ihre AGB.",
+        "rubric": [
+          "Indikativ",
+          "Beantwortung der Fallfrage",
+          "Normbezug"
+        ],
+        "hints": [
+          "Kurz und eindeutig."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_4",
+        "page": 9
+      },
+      {
+        "doc": "BGB_4",
+        "page": 13
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Was ist der Grund für die AGB-Kontrolle?",
+      "back": "Tatsächliches Ungleichgewicht: Der Verwender kann seine Bedingungen einseitig durchsetzen; der Kunde kann ihre Tragweite kaum überblicken. Das AGB-Recht soll „Augenhöhe“ herstellen und der Privatautonomie eine neue Chance geben.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 6
+        },
+        {
+          "doc": "BGB_4",
+          "page": 7
+        },
+        {
+          "doc": "BGB_4",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "front": "Drei Merkmale von AGB (§ 305 Abs. 1 S. 1 BGB)?",
+      "back": "1. vorformuliert, 2. für eine Vielzahl von Verträgen (mind. 3-malige Verwendungsabsicht), 3. vom Verwender gestellt (einseitig auferlegt). Keine AGB: im Einzelnen ausgehandelte Bedingungen (§ 305 Abs. 1 S. 3).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 8
+        },
+        {
+          "doc": "BGB_4",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "front": "Was regelt § 305b BGB?",
+      "back": "Vorrang der Individualabrede: Widersprechen sich Individualabrede und AGB, bleibt die AGB-Klausel ohne Wirkung (Bsp.: mündliche „Garantiefrist“ von 3 Jahren gegen AGB-Verkürzung auf 1 Jahr).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "Einbeziehungsvoraussetzungen nach § 305 Abs. 2 BGB?",
+      "back": "Ausdrücklicher Hinweis (ausnahmsweise deutlich sichtbarer Aushang), zumutbare Möglichkeit der Kenntnisnahme, Einverständnis des anderen Teils (Willenserklärung, auch konkludent).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "front": "Was ist nach § 307 Abs. 3 BGB grundsätzlich kontrollfrei?",
+      "back": "Leistungsbeschreibungen und Preisabreden (keine Abweichung von Rechtsvorschriften). Ausnahme: Verstoß gegen das Transparenzgebot (§ 307 Abs. 1 S. 2). Beim Preis ggf. § 138 (Wucher, Abs. 2).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "front": "Rechtsfolgen einer unwirksamen AGB-Klausel?",
+      "back": "§ 306 Abs. 1: Vertrag im Übrigen wirksam (Ausnahme zu § 139); § 306 Abs. 2: gesetzliche Vorschriften treten an die Stelle; keine geltungserhaltende Reduktion; ausnahmsweise Gesamtnichtigkeit bei unzumutbarer Härte (§ 306 Abs. 3).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 12
+        },
+        {
+          "doc": "BGB_4",
+          "page": 13
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "front": "Wie beurteilt der BGH eine AGB-Schriftformklausel („Mündliche Abweichungen nur gültig bei schriftlicher Bestätigung“)?",
+      "back": "Als unangemessene Benachteiligung nach § 307: Sie verschleiert, dass mündliche Individualabreden trotzdem wirksam sein können, und spiegelt dem Kunden ein geschlossenes System vor (Zaun-Fall).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "front": "Wann ist eine Klausel überraschend (§ 305c Abs. 1 BGB)?",
+      "back": "Wenn sie nach den Umständen, insbesondere dem Erscheinungsbild des Vertrags, so ungewöhnlich ist, dass der Kunde nicht mit ihr rechnen muss: Überrumpelungs-/Übertölpelungseffekt und deutliche Diskrepanz zu seinen Erwartungen; auch Platzierung an unerwarteter Stelle. Folge: nicht Vertragsbestandteil.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 14
+        },
+        {
+          "doc": "BGB_4",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Welche Besonderheiten gelten bei Verbraucherverträgen (§ 310 Abs. 3 BGB)?",
+      "back": "AGB gelten als vom Unternehmer gestellt (Nr. 1); Inhaltskontrolle auch bei nur einmal zu verwendenden vorformulierten Bedingungen, wenn der Verbraucher keinen Einfluss nehmen konnte (Nr. 2). Umsetzung der RL 93/13/EWG.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "front": "Was gilt nach § 310 Abs. 1 BGB gegenüber Unternehmern?",
+      "back": "§ 305 Abs. 2, 3 und §§ 308, 309 sind nicht anwendbar; Einbeziehung nach §§ 145 ff.; § 307 Abs. 1, 2 bleibt anwendbar (Wertungen der §§ 308, 309 fließen ein), Rücksicht auf Handelsbräuche (§ 310 Abs. 1 S. 2).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 15
+        },
+        {
+          "doc": "BGB_4",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "front": "Theorie des letzten Wortes vs. heutige BGH-Lösung bei kollidierenden AGB?",
+      "back": "Früher: § 150 Abs. 2 – es gelten die zuletzt übersandten AGB bei widerspruchsloser Leistung („Ping-Pong“). Heute: Teildissens – nur die kollidierenden Klauseln entfallen, Vertrag im Übrigen wirksam (§ 306 Abs. 1), Lücken füllt das Gesetz (§ 306 Abs. 2); Kongruenzmodell der Literatur: gleiches Ergebnis.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "front": "Wie kommt ein Vertrag im Online-Shop zustande?",
+      "back": "Warenpräsentation = invitatio ad offerendum; Bestellung = Angebot; Annahme durch Auftragsbestätigung mit erkennbarem Annahmewillen oder spätestens Lieferung. Die bloße Zugangsbestätigung (§ 312i Abs. 1 S. 1 Nr. 3) ist keine Annahme.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 21
+        },
+        {
+          "doc": "BGB_4",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "front": "Was ist die Button-Lösung?",
+      "back": "§ 312j Abs. 3: Bei entgeltlichen Verbraucherverträgen im elektronischen Geschäftsverkehr muss die Bestell-Schaltfläche gut lesbar nur mit „zahlungspflichtig bestellen“ o.ä. eindeutig beschriftet sein; sonst kommt kein Vertrag zustande (§ 312j Abs. 4).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "front": "Wie werden AGB im Internet einbezogen?",
+      "back": "Deutlicher Hinweis mit Link auf der Bestellseite; Möglichkeit, die AGB per Link abzurufen, zu speichern und auszudrucken (vgl. § 312i Abs. 1 S. 1 Nr. 4); Einverständnis per Mausklick (Checkbox oder Bestellung).",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "front": "Internet-Auktion: Angebot und Annahme?",
+      "back": "Einstellen des Artikels = Angebot (§ 145; BGH NJW 2002, 363); Gebot = Annahme unter der aufschiebenden Bedingung (§ 158 Abs. 1), bei Zeitablauf Höchstbietender zu sein. Begründung: Auslegungslösung (§§ 133, 157) im Licht der Plattform-AGB; § 156 passt nicht.",
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 24
+        },
+        {
+          "doc": "BGB_4",
+          "page": 25
+        },
+        {
+          "doc": "BGB_4",
+          "page": 26
+        }
+      ]
+    }
+  ]
+}

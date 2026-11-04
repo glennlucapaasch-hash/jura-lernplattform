@@ -1,0 +1,1132 @@
+{
+  "id": "bgb-ke5-form",
+  "moduleId": "55101",
+  "ke": 5,
+  "topicIds": [
+    "bgb-ke5-s12"
+  ],
+  "title": "Die Form von Rechtsgeschäften",
+  "estMinutes": 75,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Das Prinzip der Formfreiheit und die Formzwecke",
+      "short": "Rechtsgeschäfte können grundsätzlich formlos geschlossen werden – mündlich, schriftlich, durch Gebärden oder elektronische Signale. Formzwang besteht nur, wenn das Gesetz ihn anordnet oder die Parteien ihn vereinbaren (§ 127). Gesetzliche Formen dienen der Beweissicherung, der Warnung, der Beratung und der Wahrung öffentlicher Interessen.",
+      "long": "## Grundsatz (S. 33)\n\nIm Privatrecht gilt das **Prinzip der Formfreiheit**: Für die Wirksamkeit ist gleichgültig, ob der Wille schriftlich, mündlich, durch Gebärden oder elektronische Signale geäußert wird. Nur **ausnahmsweise** ist eine Form vorgeschrieben.\n\nFormzwang besteht nur, wenn\n- a) das **Gesetz** eine Form vorschreibt oder\n- b) die **Parteien** für ein an sich formfreies Geschäft eine Form vereinbaren (**gewillkürte Form, § 127**).\n\nFormlos möglich sind z.B. Kaufverträge über bewegliche Sachen oder Rechte, Leih- und Darlehensverträge und sogar Gesellschaftsverträge für GbR, OHG und KG. In der Praxis wählt man gleichwohl oft Schrift- oder Textform – aus **Beweisgründen** (S. 33–34).\n\n## Formzwecke (S. 33)\n\n| Zweck | Beispiel aus dem Skript |\n|---|---|\n| **Beweissicherung** | spätere Streitigkeiten |\n| **Warnfunktion** – Schutz vor leichtfertigem Abschluss | Übertragung des gesamten Vermögens, Bürgschaft |\n| **Beratungsfunktion** – juristische Beratung durch den Notar | Grundstückskaufvertrag |\n| **Wahrung öffentlicher Interessen** – inhaltliche oder behördliche Kontrolle | Hinweispflichten der Notare gegenüber der Finanzverwaltung (u.a. §§ 18, 20, 21 GrEStG, § 34 ErbStG) |",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        },
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Die einfache Schriftform (§ 126)",
+      "short": "Die Schriftform ist gewahrt, wenn der Aussteller die Urkunde eigenhändig durch Namensunterschrift unterzeichnet (§ 126 Abs. 1); den Text muss er nicht selbst geschrieben haben („Unterschriftsform“). Die Unterschrift muss den Text abschließen und deckt nur das darüber Stehende. Bei Verträgen unterzeichnen beide auf derselben Urkunde (§ 126 Abs. 2). Telefax und eingescannte Unterschriften genügen nicht.",
+      "long": "## Anforderungen (S. 34)\n\n- Die Urkunde muss vom Aussteller **eigenhändig durch Namensunterschrift** unterzeichnet werden (**§ 126 Abs. 1**).\n- Der **Text** muss – anders als beim Testament – nicht eigenhändig oder persönlich verfasst sein. Mit der Unterschrift macht sich der Unterzeichnende den Inhalt zu eigen und wird Aussteller; die einfache Schriftform ist daher im Kern **Unterschriftsform**.\n- **Abschluss- und Deckungswirkung:** Die Unterschrift muss den Text **abschließen**; gedeckt ist nur, was **über** ihr steht.\n- Bei **Verträgen** müssen die Parteien **auf derselben Urkunde** unterzeichnen (**§ 126 Abs. 2**).\n\n## Anwendungsfälle (S. 34)\n\n- **Bürgschaftserklärung** (§ 766),\n- **Verbraucherdarlehensvertrag** (§§ 491 f.),\n- **Mietvertrag über ein Grundstück/eine Wohnung für länger als ein Jahr** (§ 550).\n\n## Telefax, Scan (S. 34)\n\nEin **Telefax** wahrt die Schriftform nicht: Es enthält keine eigenhändige Unterschrift, sondern nur deren Kopie (BGHZ 121, 224, 229). Aus demselben Grund genügen **eingescannte**, in ein Dokument hineinkopierte Unterschriften nicht.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Elektronische Form (§ 126a) und Textform (§ 126b)",
+      "short": "E-Mails und Chatnachrichten wahren die Schriftform nicht, weil die handschriftliche Unterzeichnung fehlt. Die elektronische Form ersetzt die Schriftform (§ 126 Abs. 3), wenn der Aussteller seinen Namen hinzufügt und eine qualifizierte elektronische Signatur verwendet – es sei denn, das Gesetz schließt dies ausdrücklich aus (z.B. § 766 S. 2). Textform verlangt nur eine lesbare Erklärung mit Nennung des Erklärenden auf einem dauerhaften Datenträger (z.B. Papier, USB-Stick, E-Mail).",
+      "long": "## Überblick (S. 35)\n\nE-Mails und Chatnachrichten lassen sich ausdrucken, es fehlt aber die **handschriftliche Unterzeichnung** – die Schriftform ist nicht gewahrt. Der Gesetzgeber hat daher die §§ 126a, 126b sowie das Vertrauensdienstegesetz (VDG) geschaffen; europarechtlich gilt die eIDAS-VO (VO [EU] 910/2014).\n\n## Elektronische Form (§ 126a) (S. 35–36)\n\nNach § 126a i.V.m. **§ 126 Abs. 3** kann die Schriftform ersetzt werden: Der Aussteller fügt der Erklärung seinen **Namen** hinzu und versieht das Dokument mit einer **qualifizierten elektronischen Signatur**.\n\nDiese setzt eine **fortgeschrittene** elektronische Signatur voraus (Art. 26 eIDAS-VO), die kumulativ\n- eindeutig dem Unterzeichner zugeordnet ist,\n- seine Identifizierung ermöglicht,\n- mit Signaturerstellungsdaten erstellt wird, die er mit hohem Maß an Vertrauen unter seiner alleinigen Kontrolle verwenden kann,\n- mit den Daten so verbunden ist, dass nachträgliche Veränderungen erkennbar sind.\n\nZusätzlich muss sie auf einem zum Erzeugungszeitpunkt gültigen **qualifizierten Zertifikat** beruhen, mit einer **qualifizierten Signaturerstellungseinheit** erzeugt und von einem **Vertrauensdiensteanbieter** ausgestellt sein (Art. 3 eIDAS-VO).\n\n**Grenzen (S. 36):** Der Ausschluss der elektronischen Form muss **ausdrücklich im Gesetz** stehen (§ 126 Abs. 3), z.B. **§ 766 S. 2** für die Bürgschaft. Ob es zusätzlich der Zustimmung des Empfängers bedarf, ist **umstritten** (nur in der Gesetzesbegründung erwähnt); jedenfalls kann ihm ohne Zustimmung nicht die Pflicht auferlegt werden, Empfangsvorrichtungen für elektronische Erklärungen vorzuhalten.\n\n## Textform (§ 126b) (S. 36)\n\nVorgeschrieben z.B. in **§ 613a Abs. 5** und **§ 555c Abs. 1**. Erforderlich ist eine **lesbare Erklärung**, in der die **Person des Erklärenden genannt** ist, auf einem **dauerhaften Datenträger**. Dauerhaft ist ein Medium, das dem Empfänger erlaubt, die an ihn persönlich gerichtete Erklärung für einen angemessenen Zeitraum zugänglich aufzubewahren oder zu speichern, und das geeignet ist, sie **unverändert wiederzugeben** – z.B. Papier, USB-Stick, CD-ROM, Speicherkarte, **E-Mail**.\n\n**AGB (S. 36):** Seit 1.10.2016 erlaubt **§ 309 Nr. 13** die Vereinbarung der Textform (z.B. Kündigung per E-Mail); eine strengere Form ist in diesen Fällen unwirksam.\n\n> **Hinweis:** Das Skript schreibt beim dauerhaften Datenträger „gemäß § 126 Satz 2“ – gemeint ist § 126b S. 2.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 35
+        },
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Öffentliche Beglaubigung, notarielle Beurkundung, Eigenhändigkeit",
+      "short": "Die öffentliche Beglaubigung (§ 129) bezeugt nur die Echtheit der Unterschrift, nicht den Inhalt. Die notarielle Beurkundung (§ 128) erfasst das gesamte Rechtsgeschäft; sie ist u.a. für Grundstücksgeschäfte (§ 311b Abs. 1), Verträge über das gesamte Vermögen (§ 311b Abs. 3) und GmbH-Gründungen (§ 2 GmbHG) vorgeschrieben. Beim eigenhändigen Testament (§ 2247) muss die gesamte Urkunde handschriftlich geschrieben und unterschrieben sein.",
+      "long": "## Öffentliche Beglaubigung (§ 129) (S. 36)\n\nSie bezieht sich **nur auf die Unterschrift**, nicht auf den Inhalt: Der Notar bezeugt die **Echtheit der Unterschrift** – ein amtliches Zeugnis über die Identität des Unterzeichners. Auch elektronische Erklärungen können beglaubigt werden (§ 129 Abs. 1 Nr. 2). Anwendungsfälle: Anmeldung zum Vereinsregister (§ 77), Abtretung von Forderungen (§§ 403, 411), eheliches Güterrecht (§§ 1491, 1492).\n\n## Notarielle Beurkundung (§ 128) (S. 37)\n\nNiederschrift über die **Verhandlung der Beteiligten vor einem Notar**, die ihn und die Beteiligten genau bezeichnet und das **gesamte Rechtsgeschäft** enthält. Sie wird vorgelesen, genehmigt und von Beteiligten und Notar eigenhändig unterschrieben; Verfahren nach dem **Beurkundungsgesetz** (teils auch elektronisch, etwa im Gesellschaftsrecht).\n\n- **Gleichzeitige Anwesenheit** nur, wo das Gesetz es verlangt (z.B. Ehevertrag, § 1410). Sonst können Angebot und Annahme nacheinander beurkundet werden; der Vertrag kommt im Zweifel mit Beurkundung der Annahme zustande (**§ 152**).\n- **Anwendungsfälle:** Verpflichtung zur Übertragung des Eigentums an einem Grundstück (**§ 311b Abs. 1**), Verpflichtung zur Übertragung des gesamten gegenwärtigen Vermögens (**§ 311b Abs. 3**), GmbH-Gesellschaftsvertrag (**§ 2 GmbHG**).\n- *Beispiel (S. 37):* Urkundeneingang „Verhandelt zu Altheim … Vor dem unterzeichnenden Notar … erschienen heute von Person bekannt …“.\n\n## Eigenhändigkeit (§ 2247) (S. 37–38)\n\nDie **gesamte Urkunde** muss im vollen Wortlaut **mit der Hand** geschrieben und unterschrieben sein (eigenhändiges Testament). Die Formvorschriften sollen den wirklichen Willen des Erblassers zur Geltung bringen, die Echtheit sichern, verantwortliches Testieren fördern und Streit vermeiden (BGHZ 47, 68; 80, 246). Der Begriff ist daher **eng auszulegen**: Das Testament muss in der **eigenen Schrift** des Erblassers geschrieben sein, sodass die Echtheit anhand der individuellen Handschrift überprüfbar ist. Mit **Schreibmaschine** oder sonst mechanisch errichtete Testamente sind **nichtig** (S. 38).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        },
+        {
+          "doc": "BGB_5",
+          "page": 37
+        },
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Die gewillkürte Schriftform (§ 127) und ihre Verletzung",
+      "short": "Die Parteien können sich durch Vereinbarung selbst unter Formzwang setzen (§ 127); in AGB ist § 309 Nr. 13 zu beachten. Wird die vereinbarte Form nicht eingehalten, ist das Geschäft im Zweifel nichtig (§ 125 S. 2). Die Parteien können die einfache Schriftformklausel aber konkludent aufheben; dem soll eine qualifizierte (doppelte) Schriftformklausel vorbeugen.",
+      "long": "## Vereinbarter Formzwang (S. 38)\n\nNach **§ 127** können die Parteien vereinbaren, dass für ein bestimmtes Geschäft eine bestimmte Form einzuhalten ist; sie setzen sich damit **selbst unter Formzwang**. Wird hierfür eine AGB-Klausel verwendet, ist sie an **§ 309 Nr. 13** zu messen.\n\nVereinbart werden kann nicht nur die einfache Schriftform, sondern **jede andere Form** (z.B. eingeschriebener Brief für Kündigungen), und zwar auch für **einseitige** Rechtsgeschäfte wie die Kündigung (S. 39).\n\n## Folgen der Verletzung (S. 39)\n\nNach **§ 125 S. 2** ist **im Zweifel** Nichtigkeit anzunehmen.\n\n**Beispiel (S. 39):** Zwei Unternehmen vereinbaren, dass Verträge untereinander nur schriftlich und beidseitig unterschrieben wirksam sein sollen (einfache Schriftformklausel). Ein mündlich geschlossener Kaufvertrag ist grundsätzlich nach **§§ 127, 126, 125** nichtig.\n\nDie Parteien können die Klausel aber durch den mündlichen Abschluss **konkludent aufgehoben** haben, wenn die Auslegung (§§ 133, 157) ergibt, dass sie an der Form nicht festhalten wollten. Dagegen hilft eine **qualifizierte (doppelte) Schriftformklausel**: „Änderungen und Ergänzungen dieses Vertrages bedürfen der Schriftform. Das gilt auch für eine Änderung dieses Schriftformerfordernisses.“ – ein gewisses Risiko der Wirkungslosigkeit bleibt.\n\n**AGB (S. 39):** Nach § 309 Nr. 13 kann für Anzeigen und Erklärungen in einem Vertrag, für den durch Gesetz notarielle Beurkundung vorgeschrieben ist, keine strengere Form als die Schriftform wirksam vereinbart werden (für sonstige Verträge vgl. zur Textform S. 36).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Folgen des Mangels der gesetzlichen Form; Umfang des Formzwangs",
+      "short": "Verstöße gegen die gesetzliche Form führen zur Nichtigkeit (§ 125 S. 1), z.B. bei einer mündlichen Bürgschaft eines Nicht-Kaufmanns. Ausnahme: Ein formwidriger langfristiger Mietvertrag gilt als auf unbestimmte Zeit geschlossen (§ 550). In einigen Fällen heilt die Erfüllung den Mangel (§§ 311b Abs. 1, 518, 766). Der Formzwang erstreckt sich auf alle Abreden, die nach dem Parteiwillen eine rechtliche Einheit mit dem formbedürftigen Geschäft bilden, und auf spätere Änderungen.",
+      "long": "## Grundsatz: Nichtigkeit (§ 125 S. 1) (S. 38)\n\nWird die gesetzlich vorgeschriebene Form nicht eingehalten, ist das Rechtsgeschäft **nichtig**.\n\n**Beispiel (S. 38):** Eine **mündliche Bürgschaftserklärung eines Nicht-Kaufmanns** ist nichtig (§§ 766 S. 1, 125 S. 1).\n\n## Ausnahme § 550 (S. 38)\n\nEin ohne die vorgeschriebene Schriftform geschlossener Mietvertrag (auch Pacht, § 581 Abs. 2) ist **wirksam**; er gilt als auf **unbestimmte Zeit** geschlossen und kann frühestens **zum Schluss des ersten Jahres** gekündigt werden.\n\n## Heilung durch Erfüllung (S. 38–39)\n\nIn einigen Fällen wird der Formmangel durch die **Ausführung** des Geschäfts geheilt (vgl. **§§ 311b Abs. 1, 518, 766**). *Fortsetzung des Beispiels:* Wird der Bürge in Anspruch genommen und leistet er, wird der Bürgschaftsvertrag wirksam.\n\n## Umfang des Formzwangs (S. 39–40)\n\nBei **mehreren** Rechtsgeschäften, von denen eines formbedürftig ist – praktisch vor allem bei **Grundstücksgeschäften** – stellt die Rechtsprechung auf den **Parteiwillen** ab (BGHZ 89, 41; 104, 18): Der Beurkundungszwang erstreckt sich auf **alle Vereinbarungen**, aus denen sich nach dem Willen der Parteien das schuldrechtliche Veräußerungsgeschäft zusammensetzt – auch auf an sich formfreie Abreden, die so eng mit ihm zusammenhängen, dass sie nur gemeinsam gelten sollen. Entscheidend ist der Wille, die Geschäfte zu einer **rechtlichen Einheit** zu verbinden.\n\nAuch **spätere Änderungen und Ergänzungen** eines formbedürftigen Vertrags bedürfen der Form (S. 40).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        },
+        {
+          "doc": "BGB_5",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Überwindung des Formmangels nach § 242",
+      "short": "Die Berufung auf die Formnichtigkeit ist grundsätzlich legitim; nur ganz ausnahmsweise kann ihr der Einwand unzulässiger Rechtsausübung entgegenstehen, sonst würden die Formvorschriften ausgehöhlt. Anerkannt sind Existenzgefährdung des einen Teils und besonders schwere Treupflichtverletzung des anderen, etwa wenn er den Irrtum über die Formbedürftigkeit schuldhaft verursacht hat (venire contra factum proprium, BGHZ 48, 396). Nach dem Skript bleibt der Vertrag nach § 125 nichtig; dem Berufen auf den Formmangel wird nur der Einwand aus § 242 entgegengesetzt.",
+      "long": "## Entwicklung der Rechtsprechung (S. 40–41)\n\n- **RG (RGZ 117, 121):** Einwand der unzulässigen Rechtsausübung, wenn der Partner sich über die Formbedürftigkeit **geirrt** hat und dieser Irrtum vom Gegner **schuldhaft** (mindestens fahrlässig, § 276 Abs. 1 S. 1) verursacht wurde.\n- **RG (RGZ 170, 203):** Berufung auf Formnichtigkeit unzulässig, wenn sie wegen früheren Verhaltens gegen die guten Sitten oder Treu und Glauben verstößt – insbesondere, wenn der andere, auch ohne böse Absicht, in den Irrtum versetzt oder darin gehalten wurde, der Vertrag sei formlos gültig.\n- **BGH:** u.a. Versagung der Nichtigkeitsfolge mit Rücksicht auf Treu und Glauben (BGHZ 16, 334), Bindung an einen nach § 313 a.F. (§ 311b Abs. 1 n.F.) formnichtigen Vertrag (BGHZ 20, 338), unzulässige Rechtsausübung (BGHZ 26, 142; 29, 6). Besonders weit **BGHZ 48, 396**: Bindung des Grundstücksverkäufers, wenn die Nichtanerkennung zu einem für den Käufer **„untragbaren, nicht etwa nur harten Ergebnis“** führen würde. Diese Formel ist wegen Rechtsunsicherheit **kritisiert** worden (S. 41).\n\n## Heutiger Stand (S. 41)\n\n- **Einigkeit:** Der Formmangel ist nur **ganz ausnahmsweise** unbeachtlich, sonst würden die Formvorschriften **ausgehöhlt** (BGHZ 121, 224; BGH NJW 1996, 1467).\n- Treuwidrig handelt etwa, wer **über längere Zeit Vorteile** aus dem nichtigen Vertrag gezogen hat und sich dann auf den Formmangel beruft.\n- Keine bloßen Billigkeitserwägungen; anerkannt sind zwei Fallgruppen: **Existenzgefährdung** des einen Teils und **besonders schwere Treupflichtverletzung** des anderen Teils (BGH NJW 2005, 844; NJW 1998, 2350).\n\n## Konstruktion – Streitstand (S. 41–42)\n\n- **Hübner:** Ist die Formverfehlung unbeachtlich, kann die Vereinbarung als solche (Konsens) Grundlage des **Erfüllungsanspruchs** sein.\n- **Skript (mit Flume):** § 125 kennt **keine Ausnahme**; der Vertrag wird nicht aus Billigkeitsgründen wirksam. Ansprüche können allenfalls auf ein gesetzliches Schuldverhältnis (**c.i.c., §§ 241 Abs. 2, 311 Abs. 2 u. 3, 280 Abs. 1**) gestützt werden, oder dem Berufen auf den Formmangel wird der **Einwand der unzulässigen Rechtsausübung** entgegengehalten. Dann kann der andere ausnahmsweise die Ansprüche durchsetzen, die ihm bei Wirksamkeit zustünden – insbesondere bei **venire contra factum proprium** (S. 42).\n- Unbedenklich ist das Hinwegsetzen etwa bei **schuldhaft verursachtem Irrtum** über die Formbedürftigkeit oder bei einer Haltung, die mit **früherem eigenen Verhalten** nach Treu und Glauben unvereinbar ist (BGHZ 48, 396, 399).\n\n## Beispiel Weststahl (in Anlehnung an BGHZ 48, 396) (S. 42)\n\nDie Weststahl AG verkauft ihrem früheren Angestellten Kurz privatschriftlich ein Grundstück. Unter Einsatz ihres Gewichts und Ansehens und mit dem Hinweis, sie halte privatschriftliche und notarielle Verträge für gleichwertig, bewegt sie ihn zum Verzicht auf die Beurkundung. Später beruft sie sich auf die Formnichtigkeit. Der BGH sah darin eine **unzulässige Rechtsausübung** – ein Verstoß gegen das Verbot des **venire contra factum proprium**.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 40
+        },
+        {
+          "doc": "BGB_5",
+          "page": 41
+        },
+        {
+          "doc": "BGB_5",
+          "page": 42
+        }
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prinzip der Formfreiheit",
+      "text": "Rechtsgeschäfte können grundsätzlich ohne Beachtung einer bestimmten Form geschlossen werden; Formzwang besteht nur kraft Gesetzes oder Vereinbarung (§ 127).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "term": "Einfache Schriftform",
+      "text": "Die Urkunde wird vom Aussteller eigenhändig durch Namensunterschrift unterzeichnet; bei Verträgen unterzeichnen die Parteien auf derselben Urkunde. Die Unterschrift muss den Text abschließen (Abschluss- und Deckungswirkung).",
+      "norm": "§ 126 Abs. 1, 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "term": "Elektronische Form",
+      "text": "Ersatz der Schriftform, indem der Aussteller der elektronischen Erklärung seinen Namen hinzufügt und das Dokument mit einer qualifizierten elektronischen Signatur versieht; ausgeschlossen nur, wenn das Gesetz es ausdrücklich bestimmt.",
+      "norm": "§§ 126 Abs. 3, 126a BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 35
+        },
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "term": "Textform",
+      "text": "Lesbare Erklärung, in der die Person des Erklärenden genannt ist, auf einem dauerhaften Datenträger.",
+      "norm": "§ 126b BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "term": "Dauerhafter Datenträger",
+      "text": "Medium, das es dem Empfänger ermöglicht, eine an ihn persönlich gerichtete Erklärung so aufzubewahren oder zu speichern, dass sie ihm für einen angemessenen Zeitraum zugänglich ist, und das geeignet ist, sie unverändert wiederzugeben (z.B. Papier, USB-Stick, E-Mail).",
+      "norm": "§ 126b S. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "term": "Öffentliche Beglaubigung",
+      "text": "Notarielles Zeugnis über die Echtheit der Unterschrift unter einer Erklärung; sie betrifft nur die Unterschrift (Identität des Unterzeichners), nicht den Inhalt.",
+      "norm": "§ 129 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "term": "Notarielle Beurkundung",
+      "text": "Niederschrift über die Verhandlung der Beteiligten vor einem Notar, die ihn und die Beteiligten genau bezeichnet und das gesamte Rechtsgeschäft enthält; sie wird vorgelesen, genehmigt und eigenhändig unterschrieben.",
+      "norm": "§ 128 BGB, BeurkG",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "term": "Eigenhändigkeit (§ 2247)",
+      "text": "Die gesamte Urkunde muss vom Erblasser in der ihm eigenen Handschrift geschrieben und unterschrieben sein, sodass die Echtheit anhand der Handschrift überprüfbar ist; maschinenschriftliche Testamente sind nichtig.",
+      "norm": "§ 2247 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 37
+        },
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "term": "Qualifizierte (doppelte) Schriftformklausel",
+      "text": "Vereinbarung, dass Änderungen und Ergänzungen der Schriftform bedürfen und dies auch für die Änderung des Schriftformerfordernisses selbst gilt; soll eine konkludente Aufhebung der Formabrede verhindern.",
+      "norm": "§§ 127, 125 S. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 39
+        }
+      ]
+    }
+  ],
+  "schemas": [
+    {
+      "title": "Prüfung der Formnichtigkeit eines Rechtsgeschäfts",
+      "steps": [
+        "1. Formerfordernis: gesetzlich (z.B. §§ 766, 550, 311b Abs. 1, 2247) oder gewillkürt (§ 127)?",
+        "2. Art der Form: Schriftform (§ 126), elektronische Form (§ 126a; Ersetzbarkeit nach § 126 Abs. 3), Textform (§ 126b), Beglaubigung (§ 129), Beurkundung (§ 128), Eigenhändigkeit (§ 2247)",
+        "3. Umfang: alle Abreden, die nach dem Parteiwillen eine rechtliche Einheit bilden; spätere Änderungen",
+        "4. Eingehalten? (z.B. eigenhändige Unterschrift, dieselbe Urkunde; kein Telefax/Scan)",
+        "5. Rechtsfolge: § 125 S. 1 Nichtigkeit / § 125 S. 2 im Zweifel Nichtigkeit (ggf. konkludente Aufhebung der Formabrede); Sonderregel § 550",
+        "6. Heilung durch Erfüllung (§§ 311b Abs. 1, 518, 766)?",
+        "7. Ganz ausnahmsweise: Berufung auf den Formmangel unzulässige Rechtsausübung (§ 242: Existenzgefährdung, besonders schwere Treupflichtverletzung, venire contra factum proprium)"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        },
+        {
+          "doc": "BGB_5",
+          "page": 34
+        },
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        },
+        {
+          "doc": "BGB_5",
+          "page": 40
+        },
+        {
+          "doc": "BGB_5",
+          "page": 41
+        },
+        {
+          "doc": "BGB_5",
+          "page": 42
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "f1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welcher Grundsatz gilt im Privatrecht für die Form von Rechtsgeschäften?",
+      "options": [
+        "Formfreiheit; Formzwang nur kraft Gesetzes oder Parteivereinbarung",
+        "Schriftformzwang für alle Verträge, Formfreiheit nur für einseitige Rechtsgeschäfte",
+        "Textform für alle Verträge über mehr als 500 €",
+        "Formfreiheit nur unter Kaufleuten"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Prinzip der Formfreiheit; Formzwang nur, wenn das Gesetz es vorschreibt oder die Parteien eine Form vereinbaren (§ 127) (S. 33).",
+      "hints": [
+        "Wie kann man nach dem Skript seinen Willen ausdrücken?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Formzwecke dem Beispiel aus dem Skript zu.",
+      "pairs": [
+        [
+          "Warnfunktion",
+          "Bürgschaft, Übertragung des gesamten Vermögens"
+        ],
+        [
+          "Beratungsfunktion",
+          "Grundstückskaufvertrag vor dem Notar"
+        ],
+        [
+          "Wahrung öffentlicher Interessen",
+          "Hinweispflichten der Notare gegenüber der Finanzverwaltung"
+        ],
+        [
+          "Beweissicherung",
+          "spätere Streitigkeiten über Abschluss und Inhalt"
+        ]
+      ],
+      "explanation": "Formzwecke nach S. 33.",
+      "hints": [
+        "Wovor bzw. wofür schützt die jeweilige Form?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Der Gesellschaftsvertrag einer offenen Handelsgesellschaft kann mündlich geschlossen werden.",
+      "answer": true,
+      "explanation": "Selbst Gesellschaftsverträge für GbR, OHG und KG sind formfrei möglich; in der Praxis wählt man aus Beweisgründen meist Schrift- oder Textform (S. 33–34). Anders die GmbH (§ 2 GmbHG, S. 37).",
+      "hints": [
+        "Vergleichen Sie mit der GmbH-Gründung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        },
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ist durch Gesetz schriftliche Form vorgeschrieben, so muss die Urkunde von dem Aussteller {{1}} durch {{2}} unterzeichnet werden (§ 126 Abs. 1). Bei einem Vertrag muss die Unterzeichnung der Parteien auf {{3}} Urkunde erfolgen (§ 126 Abs. 2).",
+      "blanks": [
+        [
+          "eigenhändig"
+        ],
+        [
+          "Namensunterschrift",
+          "Unterschrift"
+        ],
+        [
+          "derselben"
+        ]
+      ],
+      "explanation": "S. 34. Der Text muss nicht eigenhändig geschrieben sein – Schriftform ist Unterschriftsform.",
+      "hints": [
+        "Worauf liegt die Betonung: Schreiben oder Unterschreiben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "B unterschreibt eine Bürgschaftserklärung und sendet sie per Telefax an die Gläubigerin G. Ist die Schriftform gewahrt?",
+      "options": [
+        "Nein, das Telefax enthält nur eine Kopie, keine eigenhändige Unterschrift.",
+        "Ja, weil B das Original eigenhändig unterschrieben hat.",
+        "Ja, weil ein Telefax als dauerhafter Datenträger die Textform und damit die Schriftform wahrt.",
+        "Nur, wenn G den Empfang schriftlich bestätigt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "BGHZ 121, 224, 229: Fax wahrt § 126 nicht; ebenso eingescannte Unterschriften (S. 34). Die Textform ist schwächer und ersetzt die Schriftform nicht.",
+      "hints": [
+        "Was erreicht beim Fax den Empfänger?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Für welche Geschäfte nennt das Skript die einfache Schriftform als Erfordernis? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Bürgschaftserklärung (§ 766)",
+        "Verbraucherdarlehensvertrag (§§ 491 f.)",
+        "Grundstücksmietvertrag für länger als ein Jahr (§ 550)",
+        "Grundstückskaufvertrag (§ 311b Abs. 1)"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "S. 34. Der Grundstückskaufvertrag bedarf der notariellen Beurkundung (S. 37).",
+      "hints": [
+        "Eine Option verlangt eine strengere Form."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        },
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Eine Bürgschaftserklärung kann wirksam in elektronischer Form mit qualifizierter elektronischer Signatur abgegeben werden.",
+      "answer": false,
+      "explanation": "§ 766 S. 2 schließt die elektronische Form für die Bürgschaft ausdrücklich aus; ein Ausschluss muss nach § 126 Abs. 3 im Gesetz stehen (S. 36).",
+      "hints": [
+        "§ 126 Abs. 3: „sofern sich nicht aus dem Gesetz ein anderes ergibt“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was verlangt die Textform nach § 126b?",
+      "options": [
+        "Eine lesbare Erklärung, in der die Person des Erklärenden genannt ist, auf einem dauerhaften Datenträger",
+        "Eine eigenhändige Unterschrift auf Papier",
+        "Eine qualifizierte elektronische Signatur",
+        "Eine vom Notar bezeugte Unterschrift"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 126b S. 1 (S. 36). E-Mails genügen als dauerhafter Datenträger. B = § 126, C = § 126a, D = § 129.",
+      "hints": [
+        "Die Textform ist die schwächste gesetzliche Form."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Formen ihrer Vorschrift zu.",
+      "pairs": [
+        [
+          "Schriftform",
+          "§ 126"
+        ],
+        [
+          "Elektronische Form",
+          "§ 126a"
+        ],
+        [
+          "Textform",
+          "§ 126b"
+        ],
+        [
+          "Notarielle Beurkundung",
+          "§ 128"
+        ],
+        [
+          "Öffentliche Beglaubigung",
+          "§ 129"
+        ]
+      ],
+      "explanation": "S. 34–37.",
+      "hints": [
+        "Die Paragraphen folgen der Strenge nicht der Reihe nach."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        },
+        {
+          "doc": "BGB_5",
+          "page": 35
+        },
+        {
+          "doc": "BGB_5",
+          "page": 36
+        },
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Eine Erklärung ist öffentlich beglaubigt worden. Was bezeugt der Notar damit?",
+      "options": [
+        "Nur die Echtheit der Unterschrift und damit die Identität des Unterzeichners",
+        "Die inhaltliche Richtigkeit und Rechtmäßigkeit der Erklärung",
+        "Dass die Beteiligten über die Folgen belehrt wurden",
+        "Dass die Erklärung in seiner Gegenwart vorgelesen und genehmigt wurde"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Beglaubigung (§ 129) bezieht sich nur auf die Unterschrift (S. 36). Vorlesen und Genehmigen gehören zur Beurkundung (§ 128, S. 37).",
+      "hints": [
+        "Unterscheiden Sie Beglaubigung und Beurkundung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        },
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "f11",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bei der notariellen Beurkundung eines Vertrags müssen beide Parteien stets gleichzeitig vor dem Notar anwesend sein.",
+      "answer": false,
+      "explanation": "Gleichzeitige Anwesenheit nur, wo das Gesetz es verlangt (z.B. Ehevertrag, § 1410). Sonst können Angebot und Annahme getrennt beurkundet werden; der Vertrag kommt im Zweifel mit Beurkundung der Annahme zustande (§ 152) (S. 37).",
+      "hints": [
+        "Denken Sie an § 152."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "f12",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Erblasser E tippt sein Testament am Computer, druckt es aus und unterschreibt es eigenhändig. Ist das Testament als eigenhändiges Testament wirksam?",
+      "options": [
+        "Nein, die gesamte Urkunde muss in der eigenen Handschrift geschrieben sein (§ 2247); es ist nichtig.",
+        "Ja, die eigenhändige Unterschrift genügt wie bei § 126.",
+        "Ja, wenn E den Ausdruck zusätzlich datiert.",
+        "Ja, ein Ausdruck wahrt jedenfalls die Textform, die für Testamente ausreicht."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Eigenhändigkeit ist eng auszulegen; mechanisch errichtete Testamente lassen keinen Schluss von der Schrift auf den Urheber zu und sind nichtig (BGHZ 47, 68; S. 37–38).",
+      "hints": [
+        "Anders als bei § 126 genügt die Unterschrift allein nicht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 37
+        },
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "f13",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Die Parteien können nach § 127 auch für ein gesetzlich formfreies Rechtsgeschäft eine Form vereinbaren.",
+      "answer": true,
+      "explanation": "Gewillkürte Form: Die Parteien setzen sich selbst unter Formzwang (S. 38); bei AGB ist § 309 Nr. 13 zu beachten.",
+      "hints": [
+        "Stichwort: gewillkürte Form."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "f14",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der Nicht-Kaufmann B erklärt mündlich eine Bürgschaft. Später nimmt der Gläubiger ihn in Anspruch, und B zahlt. Wie ist die Rechtslage?",
+      "options": [
+        "Die Bürgschaft war nach §§ 766 S. 1, 125 S. 1 nichtig, der Mangel ist aber durch die Leistung des B geheilt.",
+        "Die Bürgschaft bleibt nichtig; B kann das Gezahlte in jedem Fall zurückverlangen.",
+        "Die Bürgschaft war von Anfang an wirksam, weil § 766 nur Beweiszwecken dient.",
+        "Die Bürgschaft gilt nach § 550 als auf unbestimmte Zeit geschlossen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Mündliche Bürgschaft eines Nicht-Kaufmanns ist nichtig; leistet der Bürge, wird der Vertrag wirksam (Heilung, vgl. § 766) (S. 38–39). § 550 betrifft nur Mietverträge.",
+      "hints": [
+        "Welche Vorschriften nennt das Skript für Heilung durch Erfüllung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "f15",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "V und M schließen mündlich einen Mietvertrag über eine Wohnung für fünf Jahre. Rechtsfolge?",
+      "options": [
+        "Der Vertrag ist wirksam, gilt aber als auf unbestimmte Zeit geschlossen und ist frühestens zum Schluss des ersten Jahres kündbar.",
+        "Der Vertrag ist nach § 125 S. 1 nichtig.",
+        "Der Vertrag ist schwebend unwirksam bis zur schriftlichen Bestätigung.",
+        "Der Vertrag ist wirksam und für fünf Jahre unkündbar."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 550 ist eine Ausnahme vom Grundsatz des § 125 (S. 38); gilt auch für Pacht (§ 581 Abs. 2).",
+      "hints": [
+        "Sondervorschrift statt Nichtigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "f16",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Die Unternehmen A und B haben vereinbart, dass Verträge zwischen ihnen nur wirksam sein sollen, wenn sie schriftlich fixiert und von beiden unterschrieben sind. Später schließen die Geschäftsführer telefonisch einen Kaufvertrag, den beide sofort abwickeln wollen. Ist der Vertrag wirksam? Was hätten A und B anders regeln können?",
+      "modelAnswer": "Die Parteien haben eine einfache Schriftformklausel nach § 127 vereinbart. Wird die vereinbarte Form nicht eingehalten, ist das Geschäft nach § 125 S. 2 im Zweifel nichtig; der mündliche Kaufvertrag wäre danach grundsätzlich nach §§ 127, 126, 125 nichtig. Die Parteien können die Formabrede aber durch den mündlichen Abschluss konkludent aufgehoben haben, wenn die Auslegung ihrer Erklärungen (§§ 133, 157) ergibt, dass sie nicht mehr an der Schriftform festhalten wollten. Dafür spricht hier der Wille, den Vertrag sofort abzuwickeln; dann ist der Vertrag wirksam. Um eine solche konkludente Aufhebung möglichst zu verhindern, hätten A und B eine qualifizierte (doppelte) Schriftformklausel vereinbaren können, nach der auch die Änderung des Schriftformerfordernisses selbst der Schriftform bedarf; ein Restrisiko der Wirkungslosigkeit bleibt aber.",
+      "rubric": [
+        "Gewillkürte Form § 127",
+        "§ 125 S. 2: im Zweifel Nichtigkeit",
+        "Konkludente Aufhebung durch Auslegung (§§ 133, 157)",
+        "Qualifizierte/doppelte Schriftformklausel mit Restrisiko"
+      ],
+      "hints": [
+        "„Im Zweifel“ – was kann den Zweifel ausräumen?",
+        "Beispiel S. 39."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "f17",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung eines möglichen Formmangels in die richtige Reihenfolge.",
+      "items": [
+        "Bestehen eines gesetzlichen oder vereinbarten Formerfordernisses",
+        "Art und Umfang der Form bestimmen",
+        "Einhaltung der Form prüfen",
+        "Rechtsfolge nach § 125 S. 1 bzw. S. 2 (Sonderregeln wie § 550 beachten)",
+        "Heilung durch Erfüllung",
+        "Ausnahmsweise Unbeachtlichkeit nach § 242"
+      ],
+      "explanation": "Entspricht der Systematik des § 12 (S. 38–42): Folgen des Formmangels, Heilung, Überwindung nach § 242 als letzter Ausweg.",
+      "hints": [
+        "§ 242 ist der äußerste Ausnahmefall."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        },
+        {
+          "doc": "BGB_5",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "f18",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bei Grundstücksgeschäften erstreckt sich der Beurkundungszwang nach der Rechtsprechung auf alle Vereinbarungen, aus denen sich nach dem {{1}} der Vertragspartner das schuldrechtliche Veräußerungsgeschäft zusammensetzt. Entscheidend ist, ob die Parteien die Rechtsgeschäfte zu einer {{2}} verbinden wollten. Auch spätere {{3}} und Ergänzungen bedürfen der Form.",
+      "blanks": [
+        [
+          "Willen",
+          "Parteiwillen"
+        ],
+        [
+          "rechtlichen Einheit",
+          "Einheit"
+        ],
+        [
+          "Änderungen"
+        ]
+      ],
+      "explanation": "BGHZ 89, 41; 104, 18 (S. 39–40).",
+      "hints": [
+        "Maßstab ist subjektiv."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 39
+        },
+        {
+          "doc": "BGB_5",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "f19",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "In welchen Fallgruppen hält der BGH nach dem Skript ein Außerachtlassen des Formmangels ausnahmsweise für zulässig? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Existenzgefährdung des einen Teils",
+        "Besonders schwere Treupflichtverletzung des anderen Teils",
+        "Wenn die Formnichtigkeit für den Betroffenen bloß ein hartes Ergebnis bedeutet",
+        "Wenn Billigkeitserwägungen für die Wirksamkeit sprechen"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "BGH NJW 2005, 844; NJW 1998, 2350 (S. 41): Formvorschriften dürfen nicht aus bloßen Billigkeitserwägungen außer Acht gelassen werden; ein „nur hartes“ Ergebnis genügt nicht.",
+      "hints": [
+        "Der Formmangel ist nur ganz ausnahmsweise unbeachtlich."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 40
+        },
+        {
+          "doc": "BGB_5",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "f20",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie den Streit, wie das Ergebnis konstruiert wird, wenn die Berufung auf einen Formmangel ausnahmsweise gegen § 242 verstößt, und welche Ansicht das Skript vertritt.",
+      "modelAnswer": "Streitig ist, ob der formnichtige Vertrag dann als gültig anzusehen und der Erfüllungsanspruch vertraglich begründet ist oder ob dem Geltendmachen der Formnichtigkeit lediglich der Einwand der unzulässigen Rechtsausübung entgegengehalten wird. Hübner stützt den Erfüllungsanspruch auf die Vereinbarung als Kern des Rechtsgeschäfts (Konsens). Das Skript folgt Flume: § 125 sieht keine Ausnahme von der Nichtigkeitsfolge vor; der Vertrag bleibt nichtig und wird nicht durch Billigkeitsumstände wirksam. Ansprüche lassen sich allenfalls auf ein gesetzliches Schuldverhältnis (c.i.c., §§ 241 Abs. 2, 311 Abs. 2 u. 3, 280 Abs. 1) stützen, oder der Berufung auf den Formmangel wird der Einwand unzulässiger Rechtsausübung entgegengesetzt – insbesondere bei venire contra factum proprium. Im letzteren Fall kann der Betroffene ausnahmsweise die Ansprüche durchsetzen, die ihm bei Wirksamkeit zustünden.",
+      "rubric": [
+        "Darstellung der beiden Konstruktionen",
+        "Hübner: Konsens als Grundlage des Erfüllungsanspruchs",
+        "Skript/Flume: Vertrag bleibt nach § 125 nichtig",
+        "c.i.c. oder Einwand unzulässiger Rechtsausübung (venire contra factum proprium)"
+      ],
+      "hints": [
+        "Wird der Vertrag wirksam – oder wird nur die Berufung auf die Nichtigkeit abgeschnitten?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 41
+        },
+        {
+          "doc": "BGB_5",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "f21",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Nach Auffassung des Skripts wird ein formnichtiger Vertrag wirksam, wenn sich eine Partei unter Verstoß gegen Treu und Glauben auf den Formmangel beruft.",
+      "answer": false,
+      "explanation": "Der Vertrag bleibt gemäß § 125 nichtig; der andere kann aber ausnahmsweise die Ansprüche geltend machen, die ihm bei Wirksamkeit zustünden, weil dem Berufen auf den Formmangel der Einwand der unzulässigen Rechtsausübung entgegensteht (S. 42).",
+      "hints": [
+        "Unterscheiden Sie Wirksamkeit und Einwand."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "f22",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Unter welcher Voraussetzung ließ schon das Reichsgericht (RGZ 117, 121) den Einwand der unzulässigen Rechtsausübung gegen die Berufung auf die Formnichtigkeit zu?",
+      "options": [
+        "Wenn der Partner über die Formbedürftigkeit irrte und dieser Irrtum vom Gegner schuldhaft (mindestens fahrlässig) verursacht wurde",
+        "Wenn beide Parteien die Formbedürftigkeit kannten",
+        "Wenn der Vertrag wirtschaftlich ausgewogen war",
+        "Wenn seit Vertragsschluss mehr als ein Jahr vergangen war"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "RGZ 117, 121, 124 (S. 40); später erweitert durch RGZ 170, 203 auch auf unverschuldetes Versetzen oder Halten im Irrtum.",
+      "hints": [
+        "Es geht um einen Irrtum und dessen Verursachung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 40
+        }
+      ]
+    }
+  ],
+  "case": {
+    "title": "Der privatschriftliche Grundstückskauf (in Anlehnung an BGHZ 48, 396)",
+    "facts": "Die Weststahl AG, ein bedeutendes Unternehmen, verkauft ihrem früheren Angestellten Kurz in einem privatschriftlichen Vertrag ein Grundstück. Unter Einsatz ihres wirtschaftlichen Gewichts und Ansehens und mit dem Hinweis, sie pflege privatschriftliche und notariell beurkundete Verträge als gleichwertig anzusehen, veranlasst sie Kurz, auf eine notarielle Beurkundung zu verzichten. Später verweigert die Weststahl AG die Übereignung und beruft sich auf die Formnichtigkeit des Vertrags.",
+    "question": "Kann Kurz von der Weststahl AG die Übereignung des Grundstücks verlangen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "Kurz könnte gegen die Weststahl AG einen Anspruch auf Übergabe und Übereignung des Grundstücks aus § 433 Abs. 1 S. 1 BGB haben. Dazu müsste ein wirksamer Kaufvertrag bestehen. Dieser könnte wegen Nichteinhaltung der notariellen Form nach §§ 311b Abs. 1, 125 S. 1 BGB nichtig sein; fraglich ist dann, ob die Weststahl AG sich nach Treu und Glauben (§ 242 BGB) auf den Formmangel berufen darf.",
+        "rubric": [
+          "Anspruchsgrundlage § 433 Abs. 1 S. 1",
+          "Konjunktiv",
+          "Problem Formnichtigkeit §§ 311b Abs. 1, 125 S. 1 und § 242 benannt"
+        ],
+        "hints": [
+          "Welche Form verlangt ein Grundstückskaufvertrag?"
+        ]
+      },
+      {
+        "part": "definition",
+        "prompt": "Nennen Sie den Maßstab: Formerfordernis, Rechtsfolge des Formmangels und die Voraussetzungen, unter denen die Berufung auf ihn unzulässig ist.",
+        "model": "Ein Vertrag, durch den sich ein Teil verpflichtet, das Eigentum an einem Grundstück zu übertragen, bedarf der notariellen Beurkundung (§ 311b Abs. 1 BGB), also einer Niederschrift über die Verhandlung vor dem Notar, die vorgelesen, genehmigt und unterschrieben wird (§ 128 BGB). Ein Verstoß führt nach § 125 S. 1 BGB zur Nichtigkeit. Die Berufung auf die Formnichtigkeit ist grundsätzlich legitim; nur ganz ausnahmsweise kann ihr der Einwand der unzulässigen Rechtsausübung (§ 242 BGB) entgegenstehen, da sonst die Formvorschriften ausgehöhlt würden. Dies kommt in Betracht bei Existenzgefährdung des einen oder besonders schwerer Treupflichtverletzung des anderen Teils, insbesondere wenn der sich auf den Mangel Berufende den Irrtum des anderen über die Formbedürftigkeit schuldhaft verursacht hat oder eine Haltung einnimmt, die mit seinem früheren Verhalten nach Treu und Glauben unvereinbar ist (venire contra factum proprium).",
+        "rubric": [
+          "§ 311b Abs. 1 / § 128: notarielle Beurkundung",
+          "§ 125 S. 1: Nichtigkeit",
+          "§ 242 nur ganz ausnahmsweise (Aushöhlungsgefahr)",
+          "Fallgruppen: schuldhaft verursachter Irrtum, Treupflichtverletzung, venire contra factum proprium"
+        ],
+        "hints": [
+          "Das Skript nennt zwei BGH-Fallgruppen und den schuldhaft verursachten Irrtum."
+        ]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Die Parteien haben sich über den Verkauf des Grundstücks geeinigt, den Vertrag aber nur privatschriftlich geschlossen. Die nach § 311b Abs. 1 BGB erforderliche notarielle Beurkundung fehlt; eine Heilung durch Vollzug des Geschäfts (vgl. § 311b Abs. 1) ist nicht ersichtlich. Der Vertrag ist daher nach § 125 S. 1 BGB nichtig. Die Weststahl AG könnte sich jedoch nach § 242 BGB nicht auf diese Nichtigkeit berufen dürfen. Sie hat Kurz, ihren früheren Angestellten, unter Einsatz ihres wirtschaftlichen Gewichts und Ansehens und mit der Erklärung, privatschriftliche und notarielle Verträge seien für sie gleichwertig, gezielt zum Verzicht auf die Beurkundung bewogen. Damit hat sie den Irrtum über die Bedeutung der Form selbst hervorgerufen und Vertrauen auf die Verbindlichkeit des Vertrags begründet. Beruft sie sich nun auf die Formnichtigkeit, setzt sie sich in Widerspruch zu ihrem eigenen früheren Verhalten (venire contra factum proprium). Dies ist eine besonders schwere Treupflichtverletzung, die es ausnahmsweise rechtfertigt, ihr den Einwand der unzulässigen Rechtsausübung entgegenzuhalten. Der Vertrag bleibt zwar nichtig; Kurz kann aber die Ansprüche durchsetzen, die ihm bei Wirksamkeit zustünden.",
+        "rubric": [
+          "Fehlende Beurkundung festgestellt → § 125 S. 1 nichtig",
+          "Verhalten der AG: Einsatz von Gewicht, Gleichwertigkeitszusicherung",
+          "Widersprüchliches Verhalten / besonders schwere Treupflichtverletzung",
+          "Konstruktion: Vertrag nichtig, aber Einwand der unzulässigen Rechtsausübung"
+        ],
+        "hints": [
+          "Wer hat den Verzicht auf die Form veranlasst?",
+          "Wird der Vertrag wirksam oder nur die Berufung auf die Nichtigkeit abgeschnitten?"
+        ]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Die Berufung der Weststahl AG auf die Formnichtigkeit ist als unzulässige Rechtsausübung (§ 242 BGB) unbeachtlich. Kurz kann daher von der Weststahl AG die Übergabe und Übereignung des Grundstücks entsprechend § 433 Abs. 1 S. 1 BGB verlangen.",
+        "rubric": [
+          "Ergebnis im Indikativ",
+          "Anspruch bejaht",
+          "Begründung über § 242 genannt"
+        ],
+        "hints": [
+          "Beantworten Sie die Fallfrage."
+        ]
+      }
+    ],
+    "src": [
+      {
+        "doc": "BGB_5",
+        "page": 40
+      },
+      {
+        "doc": "BGB_5",
+        "page": 41
+      },
+      {
+        "doc": "BGB_5",
+        "page": 42
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "front": "Wann besteht Formzwang?",
+      "back": "Nur wenn das Gesetz eine Form vorschreibt oder die Parteien eine Form vereinbaren (§ 127); sonst Formfreiheit.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "front": "Welche Zwecke verfolgen Formvorschriften?",
+      "back": "Beweissicherung, Warnfunktion, Beratungsfunktion, Wahrung öffentlicher Interessen.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen der Schriftform?",
+      "back": "Eigenhändige Namensunterschrift des Ausstellers unter der Urkunde (§ 126 I); bei Verträgen auf derselben Urkunde (§ 126 II); Unterschrift muss den Text abschließen.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "front": "Wahrt ein Telefax die Schriftform?",
+      "back": "Nein – es enthält nur die Kopie der Unterschrift (BGHZ 121, 224); ebenso wenig eingescannte Unterschriften.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "front": "Wie ersetzt man die Schriftform elektronisch?",
+      "back": "Elektronische Form (§§ 126 III, 126a): Name hinzufügen + qualifizierte elektronische Signatur; nicht, wo das Gesetz es ausschließt (z.B. § 766 S. 2).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 35
+        },
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen der Textform?",
+      "back": "Lesbare Erklärung, Person des Erklärenden genannt, dauerhafter Datenträger (z.B. Papier, USB-Stick, E-Mail), § 126b.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "front": "Beglaubigung vs. Beurkundung?",
+      "back": "Beglaubigung (§ 129): nur Echtheit der Unterschrift. Beurkundung (§ 128): Niederschrift des gesamten Rechtsgeschäfts vor dem Notar, vorgelesen, genehmigt, unterschrieben.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 36
+        },
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Wann ist notarielle Beurkundung vorgeschrieben (Beispiele)?",
+      "back": "§ 311b I (Grundstücksveräußerungsverpflichtung), § 311b III (gesamtes Vermögen), § 2 GmbHG (GmbH-Gesellschaftsvertrag).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "front": "Warum ist ein maschinengeschriebenes, unterschriebenes Testament nichtig?",
+      "back": "§ 2247 verlangt eigenhändiges Schreiben der gesamten Urkunde in der eigenen Handschrift; nur so ist die Echtheit prüfbar (BGHZ 47, 68).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 37
+        },
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "Rechtsfolge bei Verstoß gegen gesetzliche bzw. gewillkürte Form?",
+      "back": "Gesetzliche Form: Nichtigkeit (§ 125 S. 1). Gewillkürte Form: im Zweifel Nichtigkeit (§ 125 S. 2).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        },
+        {
+          "doc": "BGB_5",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "front": "Was gilt bei einem mündlichen Wohnungsmietvertrag über 3 Jahre?",
+      "back": "§ 550: wirksam, gilt als auf unbestimmte Zeit geschlossen, frühestens zum Schluss des ersten Jahres kündbar.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "Wozu dient die doppelte Schriftformklausel?",
+      "back": "Sie soll verhindern, dass die Parteien die Schriftformabrede durch mündliche Vereinbarung konkludent aufheben; Restrisiko bleibt.",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "front": "Wann kann die Berufung auf einen Formmangel treuwidrig sein?",
+      "back": "Nur ganz ausnahmsweise: Existenzgefährdung, besonders schwere Treupflichtverletzung, schuldhaft verursachter Formirrtum, venire contra factum proprium (z.B. BGHZ 48, 396).",
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 40
+        },
+        {
+          "doc": "BGB_5",
+          "page": 41
+        },
+        {
+          "doc": "BGB_5",
+          "page": 42
+        }
+      ]
+    }
+  ]
+}
