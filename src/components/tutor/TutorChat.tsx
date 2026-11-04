@@ -64,7 +64,11 @@ export function TutorChat({ ctx, initialChatId, starter, compact, aiReady }: {
         const ev = JSON.parse(line);
         if (ev.chatId) setChatId(ev.chatId);
         if (ev.t) { full += ev.t; setMsgs((m) => [...m.slice(0, -1), { ...m[m.length - 1], content: full }]); }
-        if (ev.done) setMsgs((m) => [...m.slice(0, -1), { ...m[m.length - 1], passages: ev.passages, check: ev.check }]);
+        if (ev.done) {
+          const valid = new Set((ev.passages as ChatPassage[]).map((p) => p.ref));
+          full = full.replace(/\[(Q\d+)\]/g, (all, id) => (valid.has(id) ? all : ""));
+          setMsgs((m) => [...m.slice(0, -1), { ...m[m.length - 1], content: full, passages: ev.passages, check: ev.check }]);
+        }
         if (ev.error) setMsgs((m) => [...m.slice(0, -1), { ...m[m.length - 1], error: ev.error }]);
       }
     }

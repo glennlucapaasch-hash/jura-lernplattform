@@ -100,7 +100,8 @@ export async function generateStructured<S extends z.ZodType>(opts: {
   if (!aiAvailable()) throw new AiUnavailableError();
   checkBudget();
   const model = modelFor(opts.feature);
-  const res = await client().beta.messages.parse({
+  // Streaming is required by the SDK for long outputs; the JSON is validated against the schema afterwards.
+  const stream = client().beta.messages.stream({
     model,
     max_tokens: opts.maxTokens ?? 16000,
     betas: [FALLBACK_BETA],
@@ -108,11 +109,19 @@ export async function generateStructured<S extends z.ZodType>(opts: {
     system: [{ type: "text", text: opts.system, cache_control: { type: "ephemeral" } }],
     messages: [{ role: "user", content: opts.user }],
     output_config: { effort: opts.effort ?? "high", format: betaZodOutputFormat(opts.schema) },
-  } as Parameters<ReturnType<typeof client>["beta"]["messages"]["parse"]>[0]);
+  } as Parameters<ReturnType<typeof client>["beta"]["messages"]["stream"]>[0]);
+  const res = await stream.finalMessage();
   logUsage(opts.feature, res.model ?? model, res.usage);
   if (res.stop_reason === "refusal") throw new Error("Die KI hat diese Anfrage abgelehnt. Bitte formuliere sie anders.");
   if (res.stop_reason === "max_tokens") throw new Error("Die Antwort der KI war zu lang und wurde abgeschnitten. Bitte erneut versuchen.");
-  const parsed = (res as unknown as { parsed_output: z.infer<S> | null }).parsed_output;
-  if (!parsed) throw new Error("Die Antwort der KI hatte nicht das erwartete Format.");
-  return parsed;
+  const text = res.content.map((b) => (b.type === "text" ? b.text : "")).join("");
+  let json: unknown;
+  try {
+    json = JSON.parse(text);
+  } catch {
+    throw new Error("Die Antwort der KI hatte nicht das erwartete Format.");
+  }
+  const parsed = opts.schema.safeParse(json);
+  if (!parsed.success) throw new Error("Die Antwort der KI hatte nicht das erwartete Format.");
+  return parsed.data as z.infer<S>;
 }

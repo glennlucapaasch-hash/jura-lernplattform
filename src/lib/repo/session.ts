@@ -78,6 +78,7 @@ export function buildTodaySession(date = today()): SessionPlan {
     date,
     mode: day?.mode ?? "puffer",
     label: day?.label,
+    milestoneKind: day?.milestoneKind,
     minutesPerDay: settings.minutesPerDay,
     units,
     lessonFor: (id) => lessonsForTopic(id)[0],

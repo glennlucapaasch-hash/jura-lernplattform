@@ -54,10 +54,10 @@ export const KNOWN_MODULES: ModuleDef[] = [
 ];
 
 export function detectModule(firstPagesText: string): { module?: ModuleDef; ke?: number } {
-  const module = KNOWN_MODULES.find((m) => m.aliases.some((a) => a.test(firstPagesText)));
+  const mod = KNOWN_MODULES.find((m) => m.aliases.some((a) => a.test(firstPagesText)));
   const keMatch = firstPagesText.match(/Kurseinheit\s+(\d{1,2})/i);
   const ke = keMatch ? parseInt(keMatch[1], 10) : undefined;
-  return { module, ke };
+  return { module: mod, ke };
 }
 
 /** Topics that are not study content of their own. */

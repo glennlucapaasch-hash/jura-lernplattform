@@ -4,7 +4,7 @@
 import "server-only";
 import type Anthropic from "@anthropic-ai/sdk";
 import { client, modelFor, logUsage, checkBudget, aiAvailable, AiUnavailableError, FALLBACK_BETA } from "./client";
-import { evidenceBlock, checkAnswer, SOURCE_RULES, type SourceCheck } from "./sources";
+import { evidenceBlock, checkAnswer, stripInvalidCitations, SOURCE_RULES, type SourceCheck } from "./sources";
 import { retrieve, docByKey, type Passage } from "../repo/documents";
 import { db, now, uid } from "../db";
 import { getTopic, masteryByTopic, listTopics, progressMap } from "../repo/study";
@@ -136,6 +136,7 @@ export async function tutorReply(opts: {
     text += "\n\n(Die KI hat die Antwort abgebrochen. Bitte formuliere die Frage anders.)";
   }
   const check = checkAnswer(text, passages);
+  text = stripInvalidCitations(text, passages);
   const t = now();
   db().prepare("INSERT INTO chat_messages (id, chat_id, role, content, sources, created_at) VALUES (?, ?, 'user', ?, '[]', ?)").run(uid("cm_"), opts.chatId, opts.message, t);
   db()

@@ -5,12 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3000",
     "lint": "eslint",
     "postinstall": "node -e \"require('fs').copyFileSync('node_modules/pdfjs-dist/build/pdf.worker.min.mjs','public/pdf.worker.min.mjs')\"",
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
-    "import": "tsx scripts/import-folder.ts"
+    "import": "tsx scripts/import-folder.ts",
+    "test:e2e": "node tests/e2e/smoke.mjs",
+    "overview": "tsx scripts/write-overview.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^1.4.0",

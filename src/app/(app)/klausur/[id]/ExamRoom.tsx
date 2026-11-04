@@ -24,6 +24,8 @@ export function ExamRoom({ exam, ai }: { exam: Exam; ai: boolean }) {
   const [view, setView] = useState<"vergleich" | "loesung" | "auswertung">("auswertung");
   const [self, setSelf] = useState(0.5);
   const dirty = useRef(false);
+  const textRef = useRef(text);
+  useEffect(() => { textRef.current = text; }, [text]);
   const submitted = !!exam.submitted_at;
 
   useEffect(() => {
@@ -39,8 +41,6 @@ export function ExamRoom({ exam, ai }: { exam: Exam; ai: boolean }) {
     return () => { clearInterval(t); clearInterval(s); };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [submitted]);
-  const textRef = useRef(text);
-  useEffect(() => { textRef.current = text; }, [text]);
 
   async function submit() {
     if (!confirm("Bearbeitung jetzt abgeben? Danach ist keine Änderung mehr möglich.")) return;

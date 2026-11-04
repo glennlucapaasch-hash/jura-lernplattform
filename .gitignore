@@ -44,3 +44,4 @@ next-env.d.ts
 # study materials are copyrighted (private use only, § 53 UrhG)
 /data/
 !.env.example
+tsconfig.tsbuildinfo

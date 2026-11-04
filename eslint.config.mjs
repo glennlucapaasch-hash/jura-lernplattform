@@ -5,6 +5,14 @@ import nextTs from "eslint-config-next/typescript";
 const eslintConfig = defineConfig([
   ...nextVitals,
   ...nextTs,
+  {
+    rules: {
+      // Browser feature detection (speech, PDF) legitimately sets state once in an effect.
+      "react-hooks/set-state-in-effect": "warn",
+      // Links to API routes are file downloads, not page navigations.
+      "@next/next/no-html-link-for-pages": "off",
+    },
+  },
   // Override default ignores of eslint-config-next.
   globalIgnores([
     // Default ignores of eslint-config-next:

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { PageHeader, Card, CardBody, Badge, formatDate } from "@/components/ui";
+import { PageHeader, Card, Badge, formatDate } from "@/components/ui";
 import { listExams, offlineCases } from "@/lib/repo/exams";
 import { listModules } from "@/lib/repo/study";
 import { aiAvailable } from "@/lib/ai/client";

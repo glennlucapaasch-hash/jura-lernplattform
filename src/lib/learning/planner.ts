@@ -62,6 +62,7 @@ export interface PlanDay {
   reviewMinutes: number;
   items: PlanDayItem[];
   milestoneId?: string; // for vorbereitung/hausarbeit days
+  milestoneKind?: MilestoneKind;
   label?: string;
 }
 
@@ -159,15 +160,15 @@ export function buildPlan(input: PlanInput): PlanResult {
   }
 
   // ---- classify days
-  const dayMode = (date: string): { mode: DayMode; milestoneId?: string; label?: string } => {
+  const dayMode = (date: string): { mode: DayMode; milestoneId?: string; milestoneKind?: MilestoneKind; label?: string } => {
     if (skip.has(date) || rest.has(weekday(date))) return { mode: "frei" };
     for (const m of milestones) {
       if (m.kind === "hausarbeit" && m.endDate && date >= m.date && date <= m.endDate)
-        return { mode: "hausarbeit", milestoneId: m.id, label: m.title };
+        return { mode: "hausarbeit", milestoneId: m.id, milestoneKind: m.kind, label: m.title };
     }
     for (const m of milestones) {
       if (m.prepDays > 0 && date > addDays(m.date, -m.prepDays - 1) && date <= m.date && m.kind !== "hausarbeit")
-        return { mode: "vorbereitung", milestoneId: m.id, label: m.title };
+        return { mode: "vorbereitung", milestoneId: m.id, milestoneKind: m.kind, label: m.kind === "einsendeaufgabe" ? `${m.title} bearbeiten und abgeben` : m.title };
     }
     return { mode: "lernen" };
   };
@@ -192,7 +193,7 @@ export function buildPlan(input: PlanInput): PlanResult {
   };
 
   for (let date = today; date <= horizonEnd; date = addDays(date, 1)) {
-    const { mode, milestoneId, label } = dayMode(date);
+    const { mode, milestoneId, milestoneKind, label } = dayMode(date);
     if (mode !== "lernen") {
       days.push({
         date,
@@ -202,6 +203,7 @@ export function buildPlan(input: PlanInput): PlanResult {
         reviewMinutes: mode === "frei" ? 0 : mode === "vorbereitung" ? Math.round(minutesPerDay * 0.25) : 0,
         items: [],
         milestoneId,
+        milestoneKind,
         label,
       });
       continue;

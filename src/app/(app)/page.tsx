@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { PlayCircle, AlarmClock, AlertTriangle, Layers, ChevronRight, CheckCircle2 } from "lucide-react";
-import { Card, CardBody, ButtonLink, Badge, SectionTitle, CountBar, formatDate, formatMinutes, Notice } from "@/components/ui";
+import { Card, CardBody, Badge, SectionTitle, CountBar, formatDate, formatMinutes, Notice } from "@/components/ui";
 import { currentPlan, listModules, listDeadlines, today, progressMap, studyUnits, getTopic } from "@/lib/repo/study";
 import { getOrCreateTodaySession, dueCardIds } from "@/lib/repo/session";
 import { daysBetween } from "@/lib/learning/planner";
@@ -35,7 +35,7 @@ export default function Dashboard() {
             <div>
               <p className="text-sm text-white/75">Heutige Lerneinheit · {sp.totalMinutes} Minuten</p>
               <h2 className="mt-1 text-xl font-semibold sm:text-2xl">
-                {sp.mode === "hausarbeit" ? sp.label : sp.mode === "vorbereitung" ? `Prüfungsvorbereitung: ${sp.label}` : sp.blocks.find((b) => b.kind === "new" || b.kind === "reading")?.title.replace(/^(Neuer Stoff|Skript lesen): /, "") ?? "Wiederholung & freies Üben"}
+                {sp.mode === "hausarbeit" ? sp.label : sp.mode === "vorbereitung" ? (sp.label?.includes("Einsendeaufgabe") ? sp.label : `Prüfungsvorbereitung: ${sp.label}`) : sp.blocks.find((b) => b.kind === "new" || b.kind === "reading")?.title.replace(/^(Neuer Stoff|Skript lesen): /, "") ?? "Wiederholung & freies Üben"}
               </h2>
               {session.status === "done" && <p className="mt-2 inline-flex items-center gap-1 text-sm text-white/90"><CheckCircle2 size={16} /> Heute bereits erledigt – stark!</p>}
             </div>
@@ -111,7 +111,7 @@ export default function Dashboard() {
                   <p className="truncate text-[15px]">
                     {d.mode === "lernen"
                       ? d.items.map((i) => getTopic(i.unitId)?.title).filter(Boolean).join(" · ")
-                      : d.mode === "hausarbeit" ? "Hausarbeit" : d.mode === "vorbereitung" ? `Vorbereitung: ${d.label}` : d.mode === "puffer" ? "Puffer / freies Üben" : "frei"}
+                      : d.mode === "hausarbeit" ? "Hausarbeit" : d.mode === "vorbereitung" ? (d.milestoneKind === "einsendeaufgabe" ? d.label : `Vorbereitung: ${d.label}`) : d.mode === "puffer" ? "Puffer / freies Üben" : "frei"}
                   </p>
                 </li>
               ))}

@@ -9,7 +9,7 @@ export const maxDuration = 600;
 
 export const GET = handle(async (req: Request) => {
   const moduleId = new URL(req.url).searchParams.get("module") ?? undefined;
-  return ok({ exams: listExams(), offline: offlineCases(moduleId).map(({ solution, rubric, ...c }) => c), ai: aiAvailable() });
+  return ok({ exams: listExams(), offline: offlineCases(moduleId).map((c) => ({ lessonId: c.lessonId, moduleId: c.moduleId, title: c.title, facts: c.facts, question: c.question, src: c.src })), ai: aiAvailable() });
 });
 
 export const POST = handle(async (req: Request) => {

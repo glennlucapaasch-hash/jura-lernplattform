@@ -46,6 +46,7 @@ export interface SessionInputs {
   date: string;
   mode: string;
   label?: string;
+  milestoneKind?: string;
   minutesPerDay: number;
   units: UnitInfo[]; // today's plan items in order
   lessonFor: (unitId: string) => LessonPack | undefined;
@@ -106,6 +107,11 @@ export function buildSession(inp: SessionInputs): SessionPlan {
   if (inp.mode === "hausarbeit") {
     plan.blocks.push({ ...review, minutes: m(10) });
     plan.blocks.push({ kind: "hausarbeit", title: inp.label ?? "Hausarbeit", minutes: total - m(10), note: "Arbeite an deiner Hausarbeit. Der KI-Dozent kann Gliederung und Formulierungen prüfen, schreibt aber keine Lösung für dich." });
+    return plan;
+  }
+  if (inp.mode === "vorbereitung" && inp.milestoneKind === "einsendeaufgabe") {
+    plan.blocks.push({ ...review, minutes: m(10) });
+    plan.blocks.push({ kind: "hausarbeit", title: inp.label ?? "Einsendeaufgabe", minutes: total - m(10), note: "Heute ist Zeit für die Einsendeaufgabe reserviert. Prüfe Abgabeweg und Frist unter „Termine & Fristen“. Der KI-Dozent kann Gliederung und Formulierungen prüfen, schreibt die Lösung aber nicht für dich." });
     return plan;
   }
   if (inp.mode === "vorbereitung") {

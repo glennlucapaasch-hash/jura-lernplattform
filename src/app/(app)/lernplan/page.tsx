@@ -83,7 +83,7 @@ export default function LernplanPage() {
                             );
                           })
                         ) : (
-                          <p className={d.mode === "frei" ? "text-ink-faint" : "font-medium"}>{MODE_LABEL[d.mode]}{d.label ? `: ${d.label}` : ""}</p>
+                          <p className={d.mode === "frei" ? "text-ink-faint" : "font-medium"}>{d.milestoneKind === "einsendeaufgabe" ? d.label : `${MODE_LABEL[d.mode]}${d.label ? `: ${d.label}` : ""}`}</p>
                         )}
                       </div>
                     </li>

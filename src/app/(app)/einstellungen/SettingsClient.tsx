@@ -73,7 +73,7 @@ export function SettingsClient({ dataDir }: { dataDir: string }) {
         <input type="password" placeholder="neues Passwort (mind. 8 Zeichen)" value={pw.n1} onChange={(e) => setPw({ ...pw, n1: e.target.value })} className="h-10 w-full max-w-sm rounded-xl border border-line px-3" />
         <input type="password" placeholder="neues Passwort wiederholen" value={pw.n2} onChange={(e) => setPw({ ...pw, n2: e.target.value })} className="h-10 w-full max-w-sm rounded-xl border border-line px-3" />
         <Button variant="secondary" disabled={!pw.n1 || pw.n1 !== pw.n2} onClick={async () => { await save({ oldPassword: pw.old, newPassword: pw.n1 }); setPw({ old: "", n1: "", n2: "" }); }}>Ändern</Button>
-        <div className="pt-2"><Button variant="ghost" onClick={async () => { await fetch("/api/auth", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ action: "logout" }) }); location.href = "/login"; }}>Abmelden</Button></div>
+        <div className="pt-2"><Button variant="ghost" onClick={async () => { await fetch("/api/auth", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ action: "logout" }) }); location.assign(new URL("/login", location.href).toString()); }}>Abmelden</Button></div>
       </CardBody></Card>
     </div>
   );
