@@ -1,0 +1,460 @@
+{
+  "id": "bgb-ke7-zustimmung-bedingung",
+  "moduleId": "55101",
+  "ke": 7,
+  "topicIds": ["bgb-ke7-s17", "bgb-ke7-s18", "bgb-ke7-s19"],
+  "title": "Zustimmungsbedürftige Rechtsgeschäfte, Bedingung und Veräußerungsverbote",
+  "estMinutes": 100,
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Zustimmung: Einwilligung und Genehmigung (§§ 182–184)",
+      "short": "Zustimmungsbedürftig sind Rechtsgeschäfte, die kraft Gesetzes zu ihrer Wirksamkeit der Zustimmung eines Dritten bedürfen, der das Geschäft nicht selbst vorgenommen hat. Die vorherige Zustimmung heißt Einwilligung (§ 183), die nachträgliche Genehmigung (§ 184). Die Zustimmung ist eine empfangsbedürftige Willenserklärung, kann jedem der beiden Teile gegenüber erklärt werden (§ 182 Abs. 1) und bedarf nicht der Form des Hauptgeschäfts (§ 182 Abs. 2).",
+      "long": "## Begriff und Beispiele (S. 47)\n\nManche Rechtsgeschäfte werden erst mit der Zustimmung eines **Dritten** wirksam, also einer Person, die das Geschäft nicht selbst vorgenommen hat:\n- Verträge **Minderjähriger** sind nur sofort wirksam, wenn die gesetzlichen Vertreter vorher eingewilligt haben; sonst sind sie schwebend unwirksam und werden durch Genehmigung rückwirkend wirksam.\n- Verträge eines **Vertreters ohne Vertretungsmacht** sind nach § 177 schwebend unwirksam und können durch Genehmigung des Vertretenen wirksam werden.\n\n**Zustimmung (§ 182)**\n- **Einwilligung** = vorherige Zustimmung (§ 183)\n- **Genehmigung** = nachträgliche Zustimmung (§ 184)\n\n## Rechtsnatur und Erklärung (S. 47)\n\n- Die Zustimmung ist eine **empfangsbedürftige Willenserklärung**; die allgemeinen Regeln (z.B. §§ 119 ff., § 130) gelten.\n- Sie kann **sowohl dem einen als dem anderen Teil** gegenüber erklärt werden (§ 182 Abs. 1).\n- Sie bedarf **nicht der Form** des zustimmungsbedürftigen Geschäfts (§ 182 Abs. 2).\n- Auch die **Verweigerung** ist nach h.M. ein Rechtsgeschäft (BGHZ 13, 179, 187) und kann daher nach §§ 119 ff. mit ex-tunc-Wirkung angefochten werden. Nach a.A. sind die Regeln über Willenserklärungen entsprechend anzuwenden – praktisch kommt man zum selben Ergebnis.",
+      "src": [{"doc": "BGB_7", "page": 47}]
+    },
+    {
+      "id": "s2",
+      "title": "Die Wirkung der Genehmigung und Zwischenverfügungen (§ 184)",
+      "short": "Die Genehmigung wirkt nach § 184 Abs. 1 grundsätzlich auf den Zeitpunkt der Vornahme des Geschäfts zurück (ex tunc). Verfügungen, die der Genehmigende vor der Genehmigung über den Gegenstand getroffen hat, bleiben jedoch wirksam (§ 184 Abs. 2) – geschützt wird derjenige, zu dessen Gunsten die Zwischenverfügung erfolgte.",
+      "long": "## Rückwirkung (S. 48)\n\nNach **§ 184 Abs. 1** wird das genehmigte Geschäft so behandelt, als sei es schon bei seiner Vornahme wirksam geworden. *Zeitstrahl des Skripts:* Vertrag ohne Vertretungsmacht am 1.7.2024 – Genehmigung am 1.9.2024 – der Vertrag ist ex tunc ab 1.7.2024 wirksam.\n\n## Schutz von Zwischenverfügungen (S. 48)\n\nNach **§ 184 Abs. 2** werden Verfügungen, die der Genehmigende **vor** der Genehmigung über den Gegenstand des Hauptgeschäfts getroffen hat, durch die Rückwirkung **nicht unwirksam**.\n\n**Beispiel (S. 48):** Am 1.7.2024 schließt V als vollmachtloser Vertreter des E nicht nur einen Kaufvertrag über einen Schreibtisch mit K, sondern übereignet ihn auch nach §§ 929, 930 (E bleibt im Besitz). Am 1.8.2024 verpfändet E den Schreibtisch nach § 1205 an D. Genehmigt E am 1.9.2024 Kaufvertrag und Übereignung, werden beide rückwirkend zum 1.7.2024 wirksam. Obwohl E am 1.8.2024 danach nicht mehr Eigentümer gewesen wäre, bleibt das Pfandrecht des D nach § 184 Abs. 2 wirksam: **K erwirbt Eigentum, belastet mit dem Pfandrecht des D**.",
+      "src": [{"doc": "BGB_7", "page": 48}]
+    },
+    {
+      "id": "s3",
+      "title": "Die Verfügung eines Nichtberechtigten (§ 185)",
+      "short": "§ 185 betrifft Verfügungen, die ein Nichtberechtigter im eigenen Namen trifft; wer im fremden Namen verfügt, fällt unter §§ 164 ff. Die Verfügung ist wirksam, wenn der Berechtigte eingewilligt hat (§ 185 Abs. 1), und wird durch seine Genehmigung rückwirkend wirksam (§ 185 Abs. 2 S. 1 Alt. 1), sofern er dann noch verfügungsbefugt ist. Ohne Zustimmung wird sie ex nunc wirksam bei Konvaleszenz (Erwerb des Gegenstands oder Beerbung bei unbeschränkter Haftung); daneben schützt der gutgläubige Erwerb.",
+      "long": "## Anwendungsbereich (S. 48–49)\n\n§ 185 erfasst Fälle, in denen ein Nichtberechtigter **im eigenen Namen** verfügt. Tritt er **in fremdem Namen** auf, liegt Stellvertretung (§ 164) bzw. Vertretung ohne Vertretungsmacht (§§ 177 ff.) vor – § 185 ist dann unanwendbar.\n\n**Verfügungsgeschäft:** Rechtsgeschäft, durch das ein Recht unmittelbar **a**ufgehoben, **ü**bertragen (Eselsbrücke: „A-U-B-I“), **b**elastet oder **i**nhaltlich geändert wird – z.B. Übereignung beweglicher und unbeweglicher Sachen, Abtretung einer Forderung, Belastung eines Grundstücks mit Hypothek oder Grundschuld (S. 48–49).\n\n**Nichtberechtigter** ist u.a. (S. 49):\n- wem der Gegenstand materiellrechtlich nicht zusteht;\n- wer über ein zugunsten eines Dritten belastetes Recht verfügt und den Eindruck erweckt, es sei unbelastet;\n- der **Eigentümer ohne Verfügungsmacht**, z.B. der Erbe bei Testamentsvollstreckung;\n- wer vom Berechtigten zwar ermächtigt ist, die Grenzen der Ermächtigung aber überschreitet.\n\n## Mit Zustimmung des Berechtigten (S. 49–50)\n\n- **Einwilligung (§ 185 Abs. 1):** *Beispiel:* A hat ihr Surfboard „Schnell und Wendig“ an B verliehen. B gibt sich als Eigentümer aus und übereignet es nach § 929 S. 1 an K. Hatte A den B vorher zur Übereignung ermächtigt, ist die Verfügung nach § 185 Abs. 1 wirksam; K wird Eigentümer.\n- **Genehmigung (§ 185 Abs. 2 S. 1 Alt. 1 i.V.m. § 184):** Bis dahin ist die Verfügung schwebend unwirksam; die Genehmigung wirkt zurück. Der Genehmigende muss im **Zeitpunkt der Genehmigung** verfügungsbefugt sein, sonst würde in das Recht eines anderen eingegriffen (vgl. BGHZ 107, 340). *Beispiel:* Nach Eröffnung des Insolvenzverfahrens liegt die Verfügungsmacht beim Insolvenzverwalter (§ 80 Abs. 1 InsO) – der Berechtigte kann nicht mehr genehmigen.\n\n## Ohne Zustimmung des Berechtigten (S. 50)\n\n- **Gutgläubiger Erwerb:** Hat A weder eingewilligt noch genehmigt, ist K aber gutgläubig und ist das Surfboard der A nicht abhandengekommen (sie hat den Besitz freiwillig übertragen), erwirbt K nach **§§ 929, 932** (Einzelheiten: Sachenrecht).\n- **Konvaleszenz (nur ex nunc):** Die Verfügung wird wirksam, wenn der Verfügende den Gegenstand **erwirbt** (§ 185 Abs. 2 S. 1 Alt. 2) oder wenn der Berechtigte den Verfügenden **beerbt** und für die Nachlassverbindlichkeiten **unbeschränkt haftet** (§ 185 Abs. 2 S. 1 Alt. 3). Vergleichbar ist § 108 Abs. 3.",
+      "src": [{"doc": "BGB_7", "page": 48}, {"doc": "BGB_7", "page": 49}, {"doc": "BGB_7", "page": 50}]
+    },
+    {
+      "id": "s4",
+      "title": "Die Ermächtigung",
+      "short": "Ermächtigung bedeutet, dass der Rechtsinhaber einem anderen die Macht verleiht, im eigenen Namen durch Rechtsgeschäft auf den Rechtskreis des Ermächtigenden einzuwirken. Gesetzlich anerkannt ist die Verfügungsermächtigung (§ 185 Abs. 1), z.B. beim Weiterverkauf von Vorbehaltsware. Unzulässig ist die Verpflichtungsermächtigung, weil sie gegen das Offenkundigkeitsprinzip verstößt.",
+      "long": "## Begriff (S. 50)\n\nDer Begriff ist in Anlehnung an die Einwilligung (§ 182 ff.) entwickelt worden: Der Rechtsinhaber kann einem anderen die Macht erteilen, **im eigenen Namen** auf den Rechtskreis des Ermächtigenden **durch Rechtsgeschäft einzuwirken**.\n\n## Verfügungsermächtigung (S. 51)\n\nSie ist in **§ 185 Abs. 1** geregelt und begründet die aus dem Recht des Ermächtigenden abgeleitete Zuständigkeit des Ermächtigten, über ein Recht des Ermächtigenden im eigenen Namen zu verfügen (BGHZ 106, 1, 4).\n\n**Beispiel:** Verkäufer V liefert unter **Eigentumsvorbehalt** an K und ermächtigt ihn nach § 185, über die gekauften Sachen zu verfügen. K kann das Eigentum an Sachen, die noch V gehören, auf Dritte übertragen.\n\nDer Ermächtigende kann die Befugnis – wie eine Vollmacht – beliebig **begrenzen** und so das „Können“ dem „Dürfen“ angleichen. Überschreitet der Ermächtigte die Grenzen, wird der Erwerber nur nach den Regeln über den **gutgläubigen Erwerb** geschützt (BGHZ 106, 1, 4).\n\n## Verpflichtungsermächtigung (S. 51)\n\n**Unzulässig** ist die Ermächtigung, durch ein im eigenen Namen vorgenommenes Geschäft den Ermächtigenden **unmittelbar zu verpflichten** – sie verstößt gegen das **Offenkundigkeitsprinzip**, das den Geschäftsgegner schützt.\n\n**Beispiel:** E überlässt B während seines Urlaubs den PKW; B beschädigt ihn grob fahrlässig. E „ermächtigt“ B, den Wagen im eigenen Namen bei Werkunternehmer W reparieren zu lassen, wobei E unmittelbar verpflichtet sein soll. Verlangt W von B den Werklohn, kann B sich nicht auf die Ermächtigung berufen – **B muss zahlen**.\n\n## Selbsttestaufgabe 3 (S. 51; Lösung S. 63–64)\n\nIm Anschluss stellt das Skript einen Fall zur Vertretung ohne Vertretungsmacht: Der 17-jährige S kauft unter Vorlage eines von seiner Mutter M unterschriebenen, entwendeten Bestellscheins („Ich bestelle hiermit für meinen Sohn ein Fahrrad“) ein Rennrad für 3.750 €. Eine Haftung des S aus § 179 Abs. 1 scheitert an § 179 Abs. 3 S. 2 (beschränkt geschäftsfähig, ohne Zustimmung der Eltern) – siehe Quiz.",
+      "src": [{"doc": "BGB_7", "page": 50}, {"doc": "BGB_7", "page": 51}]
+    },
+    {
+      "id": "s5",
+      "title": "Begriff der Bedingung, Befristung und Potestativbedingung",
+      "short": "Die Bedingung macht die Wirkung eines Rechtsgeschäfts vom Eintritt oder Nichteintritt eines ungewissen zukünftigen Ereignisses abhängig; die Befristung knüpft an ein gewisses zukünftiges Ereignis an (§ 163). Bei der Potestativbedingung hängt die Wirksamkeit vom Willen einer Partei ab – zulässig etwa beim Kauf auf Probe (§ 454) und bei gegenseitigen Verträgen, nicht aber bei Verfügungen. Eine bloße „Wollensbedingung“ ist keine Bedingung i.S.d. § 158; es fehlt schon an einer bindenden Erklärung.",
+      "long": "## Bedingung (S. 52)\n\n**Def.:** Die Bedingung i.S.d. §§ 158 ff. ist die einer Willenserklärung beigefügte Beschränkung, durch die die Wirksamkeit eines Rechtsgeschäfts vom Eintritt oder Nichteintritt eines **ungewissen, in der Zukunft liegenden Ereignisses** abhängig gemacht wird.\n\n**Beispiel 1:** E hat eine Baugenehmigung beantragt und möchte schon jetzt bei L günstig Ziegelsteine kaufen – aber nur gebunden sein, wenn die Baugenehmigung (ein Verwaltungsakt) erteilt wird.\n\n## Befristung (S. 52)\n\n**Def.:** Die Wirksamkeit wird vom Eintritt eines **zukünftigen gewissen** Ereignisses, nämlich eines bestimmten Zeitpunkts, abhängig gemacht. Für sie gelten die Bedingungsregeln im Wesentlichen entsprechend (**§ 163**).\n- *Beispiel 2:* Der am 1.9.2023 geschlossene Pachtvertrag soll erst am 1.11.2023 in Kraft treten – Befristung.\n- **Notwendige Bedingung:** A verkauft sein Haus, „sofern sein dort wohnender Vater verstirbt“. Ungewiss ist nur das *Wann*, nicht das *Ob* – daher **Befristung**.\n\n## Schwebezustand (S. 53)\n\nDie Bedingung schafft einen **Schwebezustand**; das Geschäft ist (noch) nicht endgültig wirksam. Das ist **nicht gleichbedeutend mit schwebender Unwirksamkeit**, denn es gibt auch auflösende Bedingungen und Befristungen.\n\n## Potestativbedingung (S. 53)\n\nDie Wirksamkeit hängt vom **Willen einer beteiligten Person** ab.\n- Gesetzlich vorgesehen beim **Kauf auf Probe**: das „Belieben des Käufers“ als aufschiebende Bedingung (§ 454 Abs. 1).\n- Darüber hinaus bei **gegenseitigen Verträgen** zulässig, wenn deutlich wird, dass nicht die Entstehung des Rechts, sondern seine Wirkung (Durchführung) vom Willen einer Partei abhängt. *Beispiel:* Ein Mietvertrag soll nur bestehen bleiben, wenn Vermieter A binnen 14 Tagen alle Räume renovieren lässt.\n- **Unzulässig** jedenfalls bei **Verfügungsgeschäften** (Übereignung, Abtretung), weil sonst die Zuordnung von Gegenständen von subjektiven, nicht nachvollziehbaren Umständen abhinge (Rechtssicherheit).\n\n## Wollensbedingung (S. 53–54)\n\nStellt eine Partei in ihr **freies Belieben**, ob sie an ihre Erklärung gebunden sein will, liegt nach richtiger Auffassung **keine Bedingung i.S.d. § 158** vor: Eine echte Bedingung stellt nur die Wirkungen, nicht das Zustandekommen in Frage. Wer sich nur für den Fall verpflichtet, dass er wollen wird, verpflichtet sich in der Regel nicht (BGHZ 151, 119, 122); die Erklärung ist bloß vorbereitend.\n\n*Beispiel (S. 54):* A bietet B sein Smartphone für 100 € an; die Wirksamkeit solle „noch von meiner Bestätigung“ abhängen. A hat **kein wirksames Angebot** abgegeben. Die Zustimmung des B ist als **Angebot** zu werten; ein Vertrag kommt erst zustande, wenn A dieses annimmt.",
+      "src": [{"doc": "BGB_7", "page": 52}, {"doc": "BGB_7", "page": 53}, {"doc": "BGB_7", "page": 54}]
+    },
+    {
+      "id": "s6",
+      "title": "Arten der Bedingung und bedingungsfeindliche Rechtsgeschäfte",
+      "short": "Ein aufschiebend bedingtes Geschäft wird erst mit Bedingungseintritt wirksam (§ 158 Abs. 1), ein auflösend bedingtes verliert mit Eintritt seine Wirkung (§ 158 Abs. 2) – jeweils ex nunc. Auch Verfügungen können aufschiebend bedingt sein (Eigentumsvorbehalt). Unechte Bedingungen (objektiv schon feststehende Umstände) und Rechtsbedingungen sind keine Bedingungen i.S.d. § 158. Bedingungsfeindlich sind vor allem Gestaltungserklärungen, die Aufrechnung (§ 388 S. 2) und die Auflassung (§ 925 Abs. 2).",
+      "long": "## Aufschiebende Bedingung (S. 54–55)\n\nDas Geschäft wird erst **mit Eintritt der Bedingung wirksam** (§ 158 Abs. 1), und zwar **ex nunc**; bis dahin ist es noch nicht wirksam (im Schaubild des Skripts als „schwebend unwirksam“ bezeichnet – vgl. aber den Hinweis auf S. 53, dass der Schwebezustand nicht mit schwebender Unwirksamkeit gleichzusetzen ist). Fällt die Bedingung aus, besteht das Geschäft nicht.\n\n*Beispiel:* „Der Vertrag wird erst wirksam, wenn E die beantragte Genehmigung für den Bau eines Einfamilienhauses erhält.“ Die Erteilung ist ungewiss und zukünftig – echte aufschiebende Bedingung.\n\n**Verfügungen:** Auch sie können aufschiebend bedingt sein. Typisch ist der **Eigentumsvorbehalt**: Der Kaufvertrag ist unbedingt; die Einigung nach § 929 wird unter der aufschiebenden Bedingung **vollständiger Kaufpreiszahlung** erklärt.\n\nDas bedingte Geschäft ist **tatbestandlich mit seiner Vornahme vollendet** und bindet die Parteien; seine Wirksamkeit tritt mit dem Bedingungsfall **ipso iure** ein, ohne dass die Willenseinigung bis dahin fortbestehen müsste – sonst könnte sich jede Partei einseitig lösen (BGHZ 127, 129, 134).\n\n## Auflösende Bedingung (S. 55)\n\nDas Geschäft ist **zunächst voll wirksam** und verliert seine Wirkung mit Eintritt des Ereignisses (§ 158 Abs. 2) **ex nunc**; tritt es nicht ein, bleibt es endgültig wirksam. *Beispiel:* „Der Kaufvertrag soll unwirksam werden, wenn die Baugenehmigung nicht erteilt wird.“\n\n## Echte und unechte Bedingungen (S. 55–56)\n\nEine Bedingung liegt nur vor, wenn das Ereignis **objektiv** noch ungewiss ist.\n- **Unechte Bedingung:** Der Umstand steht schon fest und ist den Parteien nur subjektiv unbekannt. *Beispiel:* Die Baugenehmigung für die Werkshalle der B liegt bereits im Posteingang; der Kauf dreier Werkzeugmaschinen wird „unter der Bedingung“ ihrer Erteilung geschlossen – keine Bedingung, der Vertrag ist **sofort unbedingt wirksam**.\n- **Rechtsbedingung:** Aufnahme ohnehin bestehender gesetzlicher Wirksamkeitsvoraussetzungen in das Geschäft; über die Wirksamkeit entscheidet das Gesetz. *Beispiel:* Der minderjährige M kauft ein Fahrrad „unter der Bedingung, dass seine Eltern zustimmen“ – keine Bedingung i.S.d. § 158.\n\n## Bedingungsfeindliche Rechtsgeschäfte (S. 56–57)\n\nUnzulässig ist eine Bedingung, wo der Empfänger vor unzumutbarer Unsicherheit zu schützen ist – insbesondere bei der Ausübung von **Gestaltungsrechten** (Anfechtung, Rücktritt, Kündigung), weil sie in einen fremden Rechtsbereich eingreifen. *Beispiel (in Anlehnung an RGZ 66, 153):* K erklärt den Rücktritt nur für den Fall, dass er einen Dritten findet, der die Leistung des V übernimmt – unzulässig.\n\nGesetzlich geregelt: **Aufrechnung** (§ 388 S. 2) und **Auflassung** (§ 873 i.V.m. § 925 Abs. 2 – eine bedingt erklärte Auflassung ist unwirksam).",
+      "src": [{"doc": "BGB_7", "page": 54}, {"doc": "BGB_7", "page": 55}, {"doc": "BGB_7", "page": 56}, {"doc": "BGB_7", "page": 57}]
+    },
+    {
+      "id": "s7",
+      "title": "Schwebezeit, Anwartschaftsrecht (§ 161) und treuwidrige Einflussnahme (§ 162)",
+      "short": "Während der Schwebezeit bleibt der Rechtsinhaber verfügungsbefugt; Zwischenverfügungen sind aber nach § 161 insoweit unwirksam, als sie die bedingte Wirkung vereiteln oder beeinträchtigen würden. Der bedingt Erwerbende hat daher ein Anwartschaftsrecht – nach BGH ein „wesensgleiches Minus“ zum Eigentum. Guter Glaube Dritter wird über § 161 Abs. 3 geschützt. Wer den Bedingungseintritt treuwidrig verhindert, muss sich so behandeln lassen, als sei die Bedingung eingetreten (§ 162 Abs. 1).",
+      "long": "## Rechtslage während der Schwebezeit (S. 57)\n\nDer Inhaber des Rechts bleibt bis zum Bedingungseintritt **Vollrechtsinhaber** und verfügungsbefugt. *Beispiel Eigentumsvorbehalt (§ 449):* Bis zur vollständigen Zahlung bleibt der Verkäufer Eigentümer und könnte die Sache grundsätzlich noch an einen Dritten übereignen.\n\n**§ 161:** Verfügungen während der Schwebezeit sind **unwirksam, soweit** sie die von der Bedingung abhängige Wirkung **vereiteln oder beeinträchtigen** würden.\n\n**Anwartschaftsrecht:** Wessen Erwerb nur noch vom Bedingungseintritt abhängt, hat eine durch § 161 geschützte Position. Der BGH sieht darin eine „bloße Vorstufe des Eigentums“, **kein aliud, sondern ein wesensgleiches minus** (BGHZ 28, 16, 21). Das Anwartschaftsrecht ist ein **übertragbares** subjektives Recht; bei beweglichen Sachen gelten die Übereignungsregeln. In seinem Bestand hängt es aber vom **Kaufvertrag** ab und erlischt etwa, wenn der Verkäufer nach § 449 Abs. 2 wirksam zurücktritt.\n\n*Zum Beispiel:* Zahlt der Käufer den Rest, wird er Eigentümer, auch wenn der Verkäufer zwischenzeitlich an einen Dritten übereignet hat – der Dritte kann das Eigentum nicht erwerben bzw. behalten.\n\n## Gutgläubiger Dritter (S. 58)\n\nKannte der Dritte den Vorbehaltsverkauf nicht und musste er ihn nicht kennen, kommt ein **gutgläubiger lastenfreier Erwerb** nach § 936 in Betracht, auf den **§ 161 Abs. 3** verweist. Meist ist aber der Anwartschaftsberechtigte im Besitz; mangels Besitzerlangung des Dritten scheidet ein solcher Erwerb dann aus (vgl. §§ 931, 936 Abs. 3).\n\n## § 162 – treuwidrige Einflussnahme (S. 58)\n\nDie Parteien müssen sich nicht um den Bedingungseintritt **bemühen**, dürfen ihn aber nicht **wider Treu und Glauben** verhindern (oder herbeiführen).\n\n**Beispiel (nach RGZ 122, 247):** H überlässt L am Giebel seines Gasthofs einen Platz für Lichtreklame gegen 2.500 € jährlich, zunächst für vier Jahre; die Wirksamkeit hängt von der behördlichen Genehmigung ab, deren Kosten L trägt. L fürchtet die Kosten und reicht nur Entwürfe ein, die – wie er weiß – nicht genehmigungsfähig sind. Er verhindert den Eintritt treuwidrig; die Bedingung **gilt nach § 162 Abs. 1 als eingetreten**.\n\nNach h.M. enthält § 162 einen **allgemeinen Rechtsgedanken**: Aus einem von ihm treuwidrig herbeigeführten Ereignis darf niemand eine für sich günstige Rechtsfolge herleiten.",
+      "src": [{"doc": "BGB_7", "page": 57}, {"doc": "BGB_7", "page": 58}]
+    },
+    {
+      "id": "s8",
+      "title": "Veräußerungsverbote (§§ 135–137)",
+      "short": "Veräußerungsverbote sollen Verfügungen verhindern. Verstöße gegen gesetzliche (§ 135) und behördliche (§ 136) relative Verbote führen nur zur relativen Unwirksamkeit gegenüber dem Geschützten; gutgläubige Dritte werden geschützt (§ 135 Abs. 2). Verbote zum Schutz der Allgemeinheit (absolute Verbote) beurteilen sich nach § 134. Rechtsgeschäftliche Verfügungsverbote wirken nicht gegenüber Dritten (§ 137 S. 1); zulässig ist nur eine schuldrechtliche Unterlassungsverpflichtung (§ 137 S. 2), die Schadensersatz oder Vertragsstrafe auslösen kann.",
+      "long": "## Überblick (S. 59)\n\nVeräußerungsverbote haben den Zweck, **Verfügungen zu verhindern**. Es gibt **gesetzliche (§ 135)**, **behördliche (§ 136)** und **rechtsgeschäftliche (§ 137)** Veräußerungsverbote.\n\n## Gesetzliche und behördliche Verbote (S. 59–60)\n\nDer Verstoß führt nur zur **relativen Unwirksamkeit**: Die Verfügung ist nur gegenüber den **geschützten Personen** unwirksam, allen anderen gegenüber wirksam. Solche Verbote sind selten; wichtiger Fall relativer Unwirksamkeit ist die Verfügung trotz **Auflassungsvormerkung** (§ 883; vgl. § 888 Abs. 1).\n\n- **Vormerkungs-Beispiel:** V verkauft K notariell sein Grundstück; für K wird eine Auflassungsvormerkung eingetragen. Vor K’s Eintragung verkauft und überträgt V an D. Die Übertragung an D ist **allein dem K gegenüber** unwirksam; K kann von D Zustimmung zur Grundbuchberichtigung nach § 888 Abs. 1 verlangen.\n- **Bagger-Beispiel:** V verkauft einen Bagger an K1 und danach an K2. K1 erwirkt eine **einstweilige Verfügung** (§§ 935, 938 Abs. 2 ZPO), die V die Verfügung zum Nachteil der K1 verbietet. Übereignet V dennoch an K2, wird K2 Eigentümer – nur **gegenüber K1** ist die Übereignung unwirksam (§§ 136, 135 Abs. 1 S. 1); K1 gegenüber gilt V weiter als Eigentümer. (Im Skript heißt es versehentlich, „die K2“ erfahre davon und erwirke die Verfügung – gemeint ist K1.) War K2 hinsichtlich des Verbots gutgläubig, kommt ein **gutgläubiger Erwerb** nach §§ 136, 135 Abs. 2, 932 in Betracht.\n\n**Absolute Veräußerungsverbote** dienen dem Schutz **allgemeiner Interessen** (Skript-Beispiel: unerlaubter Anbau von Betäubungsmitteln, § 29 Nr. 1 BtMG). Ein Verstoß ist nach **§ 134** zu beurteilen; das Geschäft ist nichtig, soweit das Gesetz nichts anderes bestimmt.\n\n## Rechtsgeschäftliche Verbote (S. 60)\n\n- **§ 137 S. 1:** Die Befugnis zur Verfügung über ein veräußerliches Recht (Eigentum, Forderungen) kann **nicht mit Wirkung gegenüber Dritten** ausgeschlossen oder beschränkt werden – Gegenstände sollen nicht dem Rechtsverkehr entzogen werden.\n- **§ 137 S. 2:** Wirksam ist aber eine **schuldrechtliche Verpflichtung**, nicht zu verfügen; sie wirkt nur zwischen den Beteiligten. Bei Verletzung droht Schadensersatz, insbesondere aus §§ 280 Abs. 1, 241 Abs. 2; daneben kann eine **Vertragsstrafe** versprochen werden (§§ 339 ff.).\n\n**Beispiel (S. 60):** H verleiht E seine goldene Uhr (Wert 3.000 €). Vereinbart wird: „§ 1: Verfügungen der E über die Uhr sind unwirksam. § 2: Verfügt E dennoch wirksam, zahlt sie eine Vertragsstrafe von 4.000 €.“ Veräußert E die Uhr an den gutgläubigen G, wird G trotz § 1 nach **§§ 929, 932** Eigentümer. § 1 enthält aber (durch Auslegung) zugleich eine schuldrechtliche Pflicht, nicht zu veräußern, flankiert durch das Strafversprechen. H kann Wertersatz von 3.000 € (§§ 280 Abs. 1, 3, 283 S. 1) oder die höhere Vertragsstrafe von 4.000 € (§ 339) verlangen, sofern diese nicht unverhältnismäßig hoch ist (vgl. § 343).",
+      "src": [{"doc": "BGB_7", "page": 59}, {"doc": "BGB_7", "page": 60}]
+    }
+  ],
+  "definitions": [
+    {"term": "Zustimmungsbedürftiges Rechtsgeschäft", "text": "Rechtsgeschäft, das kraft Gesetzes zu seiner Wirksamkeit der Zustimmung eines Dritten bedarf, d.h. einer Person, die das Rechtsgeschäft nicht selbst vorgenommen hat.", "norm": "§§ 182 ff. BGB", "src": [{"doc": "BGB_7", "page": 47}]},
+    {"term": "Einwilligung und Genehmigung", "text": "Arten der Zustimmung: Einwilligung ist die vorherige (§ 183), Genehmigung die nachträgliche Zustimmung (§ 184); die Genehmigung wirkt grundsätzlich auf den Zeitpunkt der Vornahme zurück (§ 184 Abs. 1).", "norm": "§§ 182–184 BGB", "src": [{"doc": "BGB_7", "page": 47}, {"doc": "BGB_7", "page": 48}]},
+    {"term": "Verfügungsgeschäft", "text": "Rechtsgeschäft, durch das ein Recht unmittelbar aufgehoben, übertragen, belastet oder inhaltlich geändert wird (Eselsbrücke „A-U-B-I“).", "norm": "vgl. § 185 BGB", "src": [{"doc": "BGB_7", "page": 48}, {"doc": "BGB_7", "page": 49}]},
+    {"term": "Nichtberechtigter (§ 185)", "text": "U.a. wer über einen ihm materiellrechtlich nicht zustehenden Gegenstand verfügt, wer ein belastetes Recht als unbelastet ausgibt, der Rechtsinhaber ohne Verfügungsmacht (z.B. Erbe bei Testamentsvollstreckung) sowie der Ermächtigte, der die Grenzen der Ermächtigung überschreitet.", "norm": "§ 185 BGB", "src": [{"doc": "BGB_7", "page": 49}]},
+    {"term": "Ermächtigung", "text": "Die vom Rechtsinhaber einem anderen erteilte Macht, im eigenen Namen durch Rechtsgeschäft auf den Rechtskreis des Ermächtigenden einzuwirken; gesetzlich anerkannt als Verfügungsermächtigung (§ 185 Abs. 1), unzulässig als Verpflichtungsermächtigung.", "norm": "§ 185 Abs. 1 BGB", "src": [{"doc": "BGB_7", "page": 50}, {"doc": "BGB_7", "page": 51}]},
+    {"term": "Bedingung", "text": "Die einer Willenserklärung beigefügte Beschränkung, durch die die Wirksamkeit eines Rechtsgeschäfts vom Eintritt oder Nichteintritt eines ungewissen, in der Zukunft liegenden Ereignisses abhängig gemacht wird.", "norm": "§§ 158 ff. BGB", "src": [{"doc": "BGB_7", "page": 52}]},
+    {"term": "Befristung", "text": "Die Wirksamkeit eines Rechtsgeschäfts wird vom Eintritt eines zukünftigen gewissen Ereignisses, nämlich eines bestimmten Zeitpunkts, abhängig gemacht; die Bedingungsregeln gelten im Wesentlichen entsprechend.", "norm": "§ 163 BGB", "src": [{"doc": "BGB_7", "page": 52}]},
+    {"term": "Potestativbedingung", "text": "Bedingung, bei der die Wirksamkeit eines Rechtsgeschäfts vom Willen einer am Geschäft beteiligten Person abhängt (z.B. Kauf auf Probe, § 454 Abs. 1); bei Verfügungsgeschäften unzulässig.", "norm": "§§ 158, 454 BGB", "src": [{"doc": "BGB_7", "page": 53}]},
+    {"term": "Anwartschaftsrecht", "text": "Die durch § 161 geschützte Rechtsposition dessen, dessen Erwerb nur noch vom Eintritt einer Bedingung abhängt; nach BGH eine Vorstufe des Eigentums, kein aliud, sondern ein wesensgleiches Minus; übertragbar, im Bestand aber vom Kaufvertrag abhängig.", "norm": "§ 161 BGB", "src": [{"doc": "BGB_7", "page": 57}]},
+    {"term": "Relative Unwirksamkeit", "text": "Eine Verfügung ist nur gegenüber den Personen unwirksam, die durch das (gesetzliche oder behördliche) Veräußerungsverbot geschützt werden sollen; allen anderen gegenüber ist sie wirksam.", "norm": "§§ 135, 136 BGB", "src": [{"doc": "BGB_7", "page": 59}]}
+  ],
+  "schemas": [
+    {
+      "title": "Prüfung: Wirksamkeit der Verfügung eines Nichtberechtigten (§ 185)",
+      "steps": [
+        "1. Verfügung (Aufhebung, Übertragung, Belastung, Inhaltsänderung eines Rechts) im eigenen Namen – bei Handeln im fremden Namen §§ 164 ff./177 ff. statt § 185.",
+        "2. Verfügender ist Nichtberechtigter (Gegenstand steht ihm nicht zu, fehlende Verfügungsmacht, Überschreiten einer Ermächtigung).",
+        "3. Einwilligung des Berechtigten (§ 185 Abs. 1) → Verfügung von Anfang an wirksam.",
+        "4. Sonst Genehmigung (§ 185 Abs. 2 S. 1 Alt. 1, § 184): rückwirkend; Genehmigender muss im Zeitpunkt der Genehmigung verfügungsbefugt sein; Zwischenverfügungen bleiben wirksam (§ 184 Abs. 2).",
+        "5. Sonst Konvaleszenz ex nunc: Verfügender erwirbt den Gegenstand (Alt. 2) oder wird vom Berechtigten beerbt, der unbeschränkt haftet (Alt. 3).",
+        "6. Sonst gutgläubiger Erwerb (z.B. §§ 929, 932; nicht bei abhandengekommenen Sachen)."
+      ],
+      "src": [{"doc": "BGB_7", "page": 48}, {"doc": "BGB_7", "page": 49}, {"doc": "BGB_7", "page": 50}]
+    },
+    {
+      "title": "Prüfung: Bedingtes Rechtsgeschäft",
+      "steps": [
+        "1. Echte Bedingung? Objektiv ungewisses, zukünftiges Ereignis – Abgrenzung zu Befristung (gewisses Ereignis, § 163), unechter Bedingung, Rechtsbedingung und Wollensbedingung (dann schon keine bindende Erklärung).",
+        "2. Zulässigkeit: nicht bei bedingungsfeindlichen Geschäften (Gestaltungserklärungen wie Anfechtung, Rücktritt, Kündigung; Aufrechnung § 388 S. 2; Auflassung § 925 Abs. 2); Potestativbedingung nicht bei Verfügungen.",
+        "3. Art: aufschiebend (§ 158 Abs. 1: Wirksamkeit erst mit Eintritt) oder auflösend (§ 158 Abs. 2: Wirkungsverlust mit Eintritt) – jeweils ex nunc.",
+        "4. Eintritt oder Ausfall der Bedingung; Fiktion bei treuwidriger Verhinderung oder Herbeiführung (§ 162).",
+        "5. Schwebezeit: Zwischenverfügungen unwirksam, soweit sie die bedingte Wirkung vereiteln oder beeinträchtigen (§ 161 Abs. 1); Gutglaubensschutz nach § 161 Abs. 3."
+      ],
+      "src": [{"doc": "BGB_7", "page": 52}, {"doc": "BGB_7", "page": 54}, {"doc": "BGB_7", "page": 56}, {"doc": "BGB_7", "page": 57}, {"doc": "BGB_7", "page": 58}]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "match", "level": "recall", "difficulty": 1,
+      "prompt": "Ordnen Sie Begriff und Norm zu.",
+      "pairs": [
+        ["Einwilligung", "vorherige Zustimmung, § 183"],
+        ["Genehmigung", "nachträgliche Zustimmung, § 184"],
+        ["Erklärungsempfänger der Zustimmung", "der eine oder der andere Teil, § 182 Abs. 1"],
+        ["Form der Zustimmung", "nicht die Form des Hauptgeschäfts, § 182 Abs. 2"]
+      ],
+      "explanation": "Überblick S. 47: Zustimmung ist Oberbegriff (§ 182); sie ist eine empfangsbedürftige Willenserklärung.",
+      "hints": ["Vorher – nachher"],
+      "src": [{"doc": "BGB_7", "page": 47}]
+    },
+    {
+      "id": "q2", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "prompt": "Die Verweigerung einer Genehmigung ist nach herrschender Meinung kein Rechtsgeschäft und kann deshalb nicht angefochten werden.",
+      "answer": false,
+      "explanation": "Nach h.M. (BGHZ 13, 179, 187) ist auch die Verweigerung ein Rechtsgeschäft und nach §§ 119 ff. mit ex-tunc-Wirkung anfechtbar. Die Gegenansicht wendet die Regeln über Willenserklärungen entsprechend an – der Streit ist praktisch bedeutungslos.",
+      "hints": ["Welche praktische Bedeutung misst das Skript dem Streit bei?"],
+      "src": [{"doc": "BGB_7", "page": 47}]
+    },
+    {
+      "id": "q3", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "prompt": "V übereignet am 1.7. als vollmachtloser Vertreter des E dessen Schreibtisch nach §§ 929, 930 an K; E bleibt im Besitz. Am 1.8. verpfändet E den Schreibtisch an D. Am 1.9. genehmigt E Kaufvertrag und Übereignung. Wie ist die Rechtslage?",
+      "options": [
+        "K ist rückwirkend seit 1.7. Eigentümer, aber belastet mit dem Pfandrecht des D (§ 184 Abs. 2)",
+        "K ist lastenfreier Eigentümer, weil die Genehmigung auf den 1.7. zurückwirkt und E am 1.8. Nichtberechtigter war",
+        "K wird erst am 1.9. Eigentümer; das Pfandrecht des D geht vor",
+        "Die Genehmigung ist unwirksam, weil E nach der Verpfändung nicht mehr genehmigen konnte"
+      ],
+      "answer": [0],
+      "explanation": "Die Genehmigung wirkt nach § 184 Abs. 1 zurück. Zwischenverfügungen des Genehmigenden vor der Genehmigung bleiben aber nach § 184 Abs. 2 wirksam; geschützt ist D. K erwirbt daher Eigentum, belastet mit dem Pfandrecht.",
+      "hints": ["Rückwirkung hat eine Grenze.", "Wer hat am 1.8. verfügt?"],
+      "src": [{"doc": "BGB_7", "page": 48}]
+    },
+    {
+      "id": "q4", "type": "cloze", "level": "recall", "difficulty": 1,
+      "prompt": "Die Genehmigung wirkt nach § 184 Abs. 1 BGB auf den Zeitpunkt der {{1}} des Rechtsgeschäfts zurück. Ein Verfügungsgeschäft ist ein Rechtsgeschäft, durch das ein Recht unmittelbar aufgehoben, übertragen, {{2}} oder inhaltlich geändert wird.",
+      "blanks": [["Vornahme"], ["belastet"]],
+      "explanation": "S. 48: Rückwirkung ex tunc; Verfügungsbegriff mit der Eselsbrücke A-U-B-I.",
+      "hints": ["A-U-B-I"],
+      "src": [{"doc": "BGB_7", "page": 48}]
+    },
+    {
+      "id": "q5", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "prompt": "A hat ihr Surfboard an B verliehen. B gibt sich gegenüber K als Eigentümer aus und übereignet es an K (§ 929 S. 1). A hatte B zuvor erlaubt, das Board zu verkaufen und zu übereignen. Wie erwirbt K Eigentum?",
+      "options": [
+        "Nach § 929 S. 1 BGB i.V.m. § 185 Abs. 1 BGB, weil die Verfügung des Nichtberechtigten B mit Einwilligung der Berechtigten erfolgte",
+        "Nur nach §§ 929, 932 BGB, weil § 185 BGB voraussetzt, dass B im Namen der A handelt",
+        "Nach § 164 Abs. 1 BGB, weil B Stellvertreter der A war",
+        "Gar nicht, weil B sich wahrheitswidrig als Eigentümer ausgegeben hat"
+      ],
+      "answer": [0],
+      "explanation": "B verfügte im eigenen Namen als Nichtberechtigter. Mit vorheriger Zustimmung (Einwilligung) der Berechtigten A ist die Verfügung nach § 185 Abs. 1 wirksam. Bei Handeln im fremden Namen wäre § 185 gerade unanwendbar (dann §§ 164 ff.).",
+      "hints": ["In wessen Namen hat B verfügt?"],
+      "src": [{"doc": "BGB_7", "page": 48}, {"doc": "BGB_7", "page": 49}]
+    },
+    {
+      "id": "q6", "type": "mc-multi", "level": "understand", "difficulty": 2,
+      "prompt": "Wann wird die Verfügung eines Nichtberechtigten nach § 185 Abs. 2 S. 1 BGB ohne Zustimmung des Berechtigten wirksam? Wählen Sie die zwei zutreffenden Antworten.",
+      "options": [
+        "Wenn der Verfügende den Gegenstand später erwirbt",
+        "Wenn der Berechtigte den Verfügenden beerbt und für die Nachlassverbindlichkeiten unbeschränkt haftet",
+        "Wenn der Erwerber den Kaufpreis vollständig bezahlt hat",
+        "Wenn der Verfügende den Berechtigten beerbt, gleichgültig wie er haftet, und zwar rückwirkend"
+      ],
+      "answer": [0, 1],
+      "explanation": "Das sind die Fälle der Konvaleszenz (§ 185 Abs. 2 S. 1 Alt. 2 und 3). Sie wirken nur ex nunc, nicht rückwirkend.",
+      "hints": ["Konvaleszenz – der Verfügende erlangt nachträglich die Berechtigung."],
+      "src": [{"doc": "BGB_7", "page": 50}]
+    },
+    {
+      "id": "q7", "type": "truefalse", "level": "apply", "difficulty": 3,
+      "prompt": "Über das Vermögen des Berechtigten E ist nach der Verfügung eines Nichtberechtigten, aber vor der Genehmigung das Insolvenzverfahren eröffnet worden. E kann die Verfügung gleichwohl wirksam genehmigen, weil die Genehmigung auf den Zeitpunkt der Verfügung zurückwirkt.",
+      "answer": false,
+      "explanation": "Der Genehmigende muss im Zeitpunkt der Genehmigung verfügungsbefugt sein; sonst würde in das Recht eines anderen eingegriffen. Mit Insolvenzeröffnung geht die Verfügungsmacht auf den Insolvenzverwalter über (§ 80 Abs. 1 InsO).",
+      "hints": ["Auf welchen Zeitpunkt kommt es für die Verfügungsmacht des Genehmigenden an?"],
+      "src": [{"doc": "BGB_7", "page": 49}, {"doc": "BGB_7", "page": 50}]
+    },
+    {
+      "id": "q8", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "prompt": "E ermächtigt B, seinen beschädigten PKW im eigenen Namen bei Werkunternehmer W reparieren zu lassen; aus dem Vertrag soll unmittelbar E verpflichtet sein. W verlangt von B den Werklohn. Zu Recht?",
+      "options": [
+        "Ja; eine Verpflichtungsermächtigung ist unzulässig, weil sie gegen das Offenkundigkeitsprinzip verstößt – B ist selbst Vertragspartner",
+        "Nein; nach § 185 Abs. 1 BGB ist allein E verpflichtet",
+        "Nein; W muss sich zuerst an E halten, B haftet nur subsidiär",
+        "Ja, aber nur, wenn W von der Ermächtigung nichts wusste"
+      ],
+      "answer": [0],
+      "explanation": "§ 185 Abs. 1 erfasst nur Verfügungen. Eine Ermächtigung, durch ein Geschäft im eigenen Namen einen anderen unmittelbar zu verpflichten, ist unwirksam, da der Geschäftsgegner wissen soll, wer sein Schuldner ist. B muss zahlen.",
+      "hints": ["Verfügungs- oder Verpflichtungsermächtigung?"],
+      "src": [{"doc": "BGB_7", "page": 51}]
+    },
+    {
+      "id": "q9", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "prompt": "Vorbehaltsverkäufer V ermächtigt den Käufer K, die noch in V’s Eigentum stehende Ware weiterzuveräußern, allerdings nur im ordentlichen Geschäftsgang. K überschreitet diese Grenze. Wie wird der Erwerber geschützt?",
+      "options": [
+        "Nur nach den Vorschriften über den gutgläubigen Erwerb",
+        "Gar nicht, weil Ermächtigungen nicht beschränkt werden können",
+        "Stets, weil § 185 Abs. 1 BGB Beschränkungen im Außenverhältnis nicht kennt",
+        "Über § 179 BGB, da K als Vertreter ohne Vertretungsmacht gehandelt hat"
+      ],
+      "answer": [0],
+      "explanation": "Der Ermächtigende kann die Verfügungsbefugnis wie eine Vollmacht beliebig begrenzen und das Können dem Dürfen anpassen; bei Überschreitung schützt nur der gutgläubige Erwerb (BGHZ 106, 1, 4). K handelte im eigenen Namen, nicht als Vertreter.",
+      "hints": ["BGHZ 106, 1"],
+      "src": [{"doc": "BGB_7", "page": 51}]
+    },
+    {
+      "id": "q10", "type": "case", "level": "apply", "difficulty": 3,
+      "prompt": "Selbsttestaufgabe 3 (S. 51): Der 17-jährige S findet im Schreibtisch seiner Mutter M einen unterschriebenen Bestellschein: „Ich bestelle hiermit für meinen Sohn ein Fahrrad. Gezeichnet M“. Ohne ihr Wissen geht er zu Händler F, lässt sich mehrere Räder vorführen und kauft unter Vorlage des Scheins ein Rennrad für 3.750 €. M lehnt jede Zahlung ab. Kann F die 3.750 € von S verlangen?",
+      "modelAnswer": "Ein Anspruch aus § 433 Abs. 2 BGB gegen S scheidet aus, weil der Kaufvertrag laut Bestellschein mit M und nicht mit S zustande kommen sollte. F könnte aber gegen S einen Anspruch aus § 179 Abs. 1 BGB haben. Dann müsste S als Vertreter ohne Vertretungsmacht einen Vertrag geschlossen haben, dessen Genehmigung M verweigert. S müsste eine eigene Willenserklärung abgegeben haben: Der Bestellschein bestimmt nur den Kauf „eines Fahrrads“; Marke, Typ und Preis wählte S selbst aus. Er war daher nicht bloß Bote, sondern gab eine eigene Erklärung ab; dass er beschränkt geschäftsfähig ist, schadet wegen § 165 BGB nicht. Mit Vorlage des Scheins handelte er im Namen der M. Vertretungsmacht hatte er nicht, denn M wusste nichts; eine Vollmachtsurkunde wurde ihm nicht ausgehändigt (§ 172 BGB), und mangels wiederholten Auftretens scheidet eine Anscheinsvollmacht aus. M hat die Genehmigung verweigert. Die Haftung ist nicht nach § 179 Abs. 3 S. 1 BGB ausgeschlossen, da F keine Anhaltspunkte für Zweifel hatte und auch die Minderjährigkeit nicht kannte. Sie ist aber nach § 179 Abs. 3 S. 2 BGB ausgeschlossen: S ist mit 17 Jahren beschränkt geschäftsfähig (§§ 2, 106 BGB) und handelte ohne Zustimmung seiner Eltern als gesetzlicher Vertreter. F hat daher keinen Anspruch gegen S auf Zahlung von 3.750 €.",
+      "rubric": [
+        "Kein Anspruch aus § 433 Abs. 2 BGB gegen S (Vertrag sollte mit M zustande kommen)",
+        "Anspruchsgrundlage § 179 Abs. 1 BGB",
+        "Abgrenzung Bote/Vertreter: Entscheidungsspielraum → eigene Willenserklärung; § 165 BGB",
+        "Handeln im Namen der M, keine Vollmacht, keine Rechtsscheinvollmacht (§ 172, Anscheinsvollmacht)",
+        "Genehmigung verweigert; kein Ausschluss nach § 179 Abs. 3 S. 1 BGB",
+        "Ausschluss nach § 179 Abs. 3 S. 2 BGB (beschränkt geschäftsfähig, ohne Zustimmung) → kein Anspruch"
+      ],
+      "hints": ["War S Bote oder Vertreter?", "Wie schützt § 179 Abs. 3 BGB Minderjährige?"],
+      "src": [{"doc": "BGB_7", "page": 51}, {"doc": "BGB_7", "page": 63}, {"doc": "BGB_7", "page": 64}]
+    },
+    {
+      "id": "q11", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "prompt": "A verkauft sein Haus „für den Fall, dass mein dort wohnender Vater verstirbt“. Wie ist diese Klausel einzuordnen?",
+      "options": [
+        "Als Befristung, weil nur der Zeitpunkt, nicht aber der Eintritt des Ereignisses ungewiss ist",
+        "Als aufschiebende Bedingung, weil der Todeszeitpunkt ungewiss ist",
+        "Als auflösende Bedingung",
+        "Als unzulässige Potestativbedingung"
+      ],
+      "answer": [0],
+      "explanation": "Bei sog. notwendigen Bedingungen fehlt die Ungewissheit des Ob: Der Tod tritt gewiss ein, fraglich ist nur das Wann. Es handelt sich daher um eine Befristung, auf die die Bedingungsregeln über § 163 im Wesentlichen entsprechend anwendbar sind.",
+      "hints": ["Ob oder wann?"],
+      "src": [{"doc": "BGB_7", "page": 52}]
+    },
+    {
+      "id": "q12", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "prompt": "A schreibt B: „Ich biete Ihnen mein Smartphone für 100 € an. Wenn Sie einverstanden sind, teilen Sie es mir mit; die Wirksamkeit des Vertrages hängt dann noch von meiner Bestätigung ab.“ B erklärt sein Einverständnis. Ist ein Vertrag geschlossen?",
+      "options": [
+        "Nein; A hat wegen der Wollensbedingung kein wirksames Angebot abgegeben – die Erklärung des B ist ein Angebot, das A noch annehmen muss",
+        "Ja, ein aufschiebend bedingter Kaufvertrag nach § 158 Abs. 1 BGB ist zustande gekommen",
+        "Ja, ein unbedingter Vertrag, weil die Klausel als unzulässige Potestativbedingung unbeachtlich ist",
+        "Ja, ein auflösend bedingter Vertrag, der entfällt, wenn A nicht bestätigt"
+      ],
+      "answer": [0],
+      "explanation": "Stellt A in sein freies Belieben, ob er gebunden sein will, liegt eine „Wollensbedingung“ vor, die keine Bedingung i.S.d. § 158 ist: Wer sich nur verpflichtet, wenn er will, verpflichtet sich nicht. Ein Vertrag entsteht erst, wenn A das Angebot des B annimmt.",
+      "hints": ["Wollte A schon gebunden sein?"],
+      "src": [{"doc": "BGB_7", "page": 53}, {"doc": "BGB_7", "page": 54}]
+    },
+    {
+      "id": "q13", "type": "order", "level": "understand", "difficulty": 2,
+      "prompt": "Bringen Sie die Stationen eines Kaufs unter Eigentumsvorbehalt in die richtige zeitliche und rechtliche Reihenfolge.",
+      "items": [
+        "Abschluss des unbedingten Kaufvertrags",
+        "Übergabe und Einigung nach § 929, aufschiebend bedingt durch vollständige Kaufpreiszahlung",
+        "Schwebezeit: Käufer hat ein Anwartschaftsrecht, Zwischenverfügungen sind nach § 161 eingeschränkt",
+        "Zahlung der letzten Rate (Bedingungseintritt)",
+        "Eigentumserwerb des Käufers ex nunc, ipso iure"
+      ],
+      "explanation": "S. 54–55, 57: Beim Eigentumsvorbehalt ist nur die Übereignung bedingt. Das bedingte Geschäft ist mit Vornahme vollendet; die Wirkung tritt mit Bedingungseintritt ohne neue Einigung ein (BGHZ 127, 129, 134).",
+      "hints": ["Was ist bedingt – der Kaufvertrag oder die Übereignung?"],
+      "src": [{"doc": "BGB_7", "page": 54}, {"doc": "BGB_7", "page": 55}, {"doc": "BGB_7", "page": 57}]
+    },
+    {
+      "id": "q14", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "prompt": "Unternehmerin B ist eine Baugenehmigung für eine Werkshalle bereits erteilt worden; der Bescheid liegt ungelesen im Posteingang. B kauft drei Werkzeugmaschinen mit der Klausel: „Der Kaufvertrag soll nur wirksam werden, wenn der Käuferin die Baugenehmigung erteilt wird.“ Wie ist die Rechtslage?",
+      "options": [
+        "Keine Bedingung i.S.d. § 158 BGB (unechte Bedingung); der Vertrag ist sofort unbedingt wirksam",
+        "Der Vertrag ist aufschiebend bedingt und wird wirksam, sobald B den Bescheid liest",
+        "Der Vertrag ist nichtig, weil die Parteien sich über einen Umstand geirrt haben",
+        "Der Vertrag ist auflösend bedingt"
+      ],
+      "answer": [0],
+      "explanation": "Eine Bedingung setzt objektive Ungewissheit voraus. Steht der Umstand objektiv schon fest und ist er nur den Parteien unbekannt, liegt eine unechte Bedingung vor; der Vertrag ist ohne Bedingung sofort wirksam.",
+      "hints": ["Objektive oder subjektive Ungewissheit?"],
+      "src": [{"doc": "BGB_7", "page": 55}, {"doc": "BGB_7", "page": 56}]
+    },
+    {
+      "id": "q15", "type": "truefalse", "level": "recognize", "difficulty": 1,
+      "prompt": "Schließt ein Minderjähriger einen Kaufvertrag „unter der Bedingung, dass meine Eltern zustimmen“, liegt keine Bedingung i.S.d. § 158 BGB vor, sondern eine bloße Rechtsbedingung.",
+      "answer": true,
+      "explanation": "Rechtsbedingungen nehmen ohnehin bestehende gesetzliche Wirksamkeitsvoraussetzungen in das Geschäft auf; über die Wirksamkeit entscheidet das Gesetz. Sie sind unechte Bedingungen.",
+      "hints": ["Wer entscheidet hier über die Wirksamkeit – die Parteien oder das Gesetz?"],
+      "src": [{"doc": "BGB_7", "page": 56}]
+    },
+    {
+      "id": "q16", "type": "mc-multi", "level": "recall", "difficulty": 2,
+      "prompt": "Welche Erklärungen sind nach dem Skript bedingungsfeindlich? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Rücktrittserklärung",
+        "Die Aufrechnungserklärung (§ 388 S. 2 BGB)",
+        "Die Auflassung (§ 925 Abs. 2 BGB)",
+        "Die Einigung über die Übereignung einer beweglichen Sache nach § 929 BGB"
+      ],
+      "answer": [0, 1, 2],
+      "explanation": "Gestaltungserklärungen (Anfechtung, Rücktritt, Kündigung) greifen in einen fremden Rechtsbereich ein; der Empfänger ist vor Unsicherheit zu schützen. Aufrechnung und Auflassung sind gesetzlich bedingungsfeindlich. Die Einigung nach § 929 kann dagegen aufschiebend bedingt werden (Eigentumsvorbehalt).",
+      "hints": ["Denken Sie an den Eigentumsvorbehalt."],
+      "src": [{"doc": "BGB_7", "page": 54}, {"doc": "BGB_7", "page": 56}, {"doc": "BGB_7", "page": 57}]
+    },
+    {
+      "id": "q17", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "prompt": "V hat K eine Sache unter Eigentumsvorbehalt übereignet; K besitzt sie. Vor Zahlung der letzten Rate übereignet V die Sache nach § 931 an den gutgläubigen D. Danach zahlt K. Wer ist Eigentümer?",
+      "options": [
+        "K, denn die Verfügung an D ist nach § 161 Abs. 1 BGB unwirksam, und ein gutgläubiger Erwerb des D scheidet mangels Besitzerlangung aus",
+        "D, weil V bis zur Zahlung Eigentümer und damit verfügungsbefugt war",
+        "D, weil er gutgläubig war (§ 161 Abs. 3 i.V.m. § 936 BGB)",
+        "V, weil die Bedingung durch die Veräußerung an D ausgefallen ist"
+      ],
+      "answer": [0],
+      "explanation": "Mit Bedingungseintritt wird K Eigentümer; die Zwischenverfügung des V vereitelt die bedingte Wirkung und ist nach § 161 Abs. 1 unwirksam. § 161 Abs. 3 verweist zwar auf den Gutglaubensschutz (§ 936), doch scheitert der Erwerb regelmäßig daran, dass der Anwartschaftsberechtigte im Besitz ist (vgl. §§ 931, 936 Abs. 3).",
+      "hints": ["Wer hat den Besitz?", "§ 161 Abs. 1 und 3 BGB"],
+      "src": [{"doc": "BGB_7", "page": 57}, {"doc": "BGB_7", "page": 58}]
+    },
+    {
+      "id": "q18", "type": "free", "level": "formulate", "difficulty": 3,
+      "prompt": "Erklären Sie das Anwartschaftsrecht des Vorbehaltskäufers: Rechtsgrundlage seines Schutzes, Rechtsnatur nach dem BGH, Übertragbarkeit und Abhängigkeit vom Kaufvertrag.",
+      "modelAnswer": "Wessen Erwerb eines Gegenstands nur noch vom Eintritt einer Bedingung abhängt, hat bereits eine rechtlich geschützte Position, die Anwartschaft. Beim Eigentumsvorbehalt ist die Übereignung aufschiebend bedingt durch die vollständige Kaufpreiszahlung; der Verkäufer bleibt bis dahin Eigentümer und verfügungsbefugt. Geschützt wird der Käufer durch § 161 BGB: Zwischenverfügungen des Verkäufers sind unwirksam, soweit sie die von der Bedingung abhängige Wirkung vereiteln oder beeinträchtigen würden; Gutgläubige werden nur nach § 161 Abs. 3 BGB geschützt. Der BGH sieht das Anwartschaftsrecht als bloße Vorstufe des Eigentums, die im Vergleich zum Eigentum kein aliud, sondern ein wesensgleiches Minus ist. Es ist ein übertragbares subjektives Recht; für die Übertragung bei beweglichen Sachen gelten dieselben Regeln wie für die Übereignung. In seinem Bestand bleibt es aber vom schuldrechtlichen Grundgeschäft abhängig und wird etwa hinfällig, wenn der Verkäufer nach § 449 Abs. 2 BGB wirksam vom Vertrag zurücktritt.",
+      "rubric": [
+        "Aufschiebend bedingte Übereignung beim Eigentumsvorbehalt",
+        "Schutz über § 161 Abs. 1 BGB (Unwirksamkeit vereitelnder Zwischenverfügungen), § 161 Abs. 3",
+        "BGH: Vorstufe des Eigentums, wesensgleiches Minus",
+        "Übertragbar nach den Übereignungsregeln",
+        "Abhängigkeit vom Kaufvertrag, Erlöschen z.B. bei Rücktritt nach § 449 Abs. 2 BGB"
+      ],
+      "hints": ["BGHZ 28, 16, 21", "Was passiert bei Rücktritt des Verkäufers?"],
+      "src": [{"doc": "BGB_7", "page": 57}, {"doc": "BGB_7", "page": 58}]
+    },
+    {
+      "id": "q19", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "prompt": "H überlässt L gegen jährliche Vergütung am Giebel seines Gasthofs eine Fläche für Lichtreklame; die Wirksamkeit des Vertrags hängt von der behördlichen Genehmigung ab, die L beantragen soll. Aus Kostengründen reicht L wissentlich nur nicht genehmigungsfähige Entwürfe ein. Welche Folge ordnet das Gesetz an?",
+      "options": [
+        "Die Bedingung gilt als eingetreten (§ 162 Abs. 1 BGB)",
+        "Die Bedingung ist ausgefallen; der Vertrag ist endgültig unwirksam",
+        "Der Vertrag ist nach § 138 BGB nichtig",
+        "H kann lediglich Ersatz seines Vertrauensschadens verlangen"
+      ],
+      "answer": [0],
+      "explanation": "Wird der Eintritt der Bedingung von der Partei, zu deren Nachteil er gereicht, wider Treu und Glauben verhindert, gilt die Bedingung als eingetreten (Beispiel nach RGZ 122, 247).",
+      "hints": ["§ 162 BGB"],
+      "src": [{"doc": "BGB_7", "page": 58}]
+    },
+    {
+      "id": "q20", "type": "truefalse", "level": "recall", "difficulty": 1,
+      "prompt": "Die Parteien eines bedingten Rechtsgeschäfts sind nach § 162 BGB verpflichtet, sich aktiv um den Eintritt der Bedingung zu bemühen.",
+      "answer": false,
+      "explanation": "Eine Pflicht zur Herbeiführung besteht nicht. § 162 verbietet nur, den Eintritt bzw. Ausfall wider Treu und Glauben zu beeinflussen. Nach h.M. enthält § 162 den allgemeinen Gedanken, dass niemand aus einem treuwidrig herbeigeführten Ereignis Vorteile ziehen darf.",
+      "hints": ["Unterlassen vs. aktives Bemühen"],
+      "src": [{"doc": "BGB_7", "page": 58}]
+    },
+    {
+      "id": "q21", "type": "match", "level": "recall", "difficulty": 2,
+      "prompt": "Ordnen Sie das Veräußerungsverbot seiner Rechtsfolge zu.",
+      "pairs": [
+        ["Gesetzliches relatives Veräußerungsverbot (§ 135)", "Unwirksamkeit nur gegenüber dem Geschützten"],
+        ["Behördliches Veräußerungsverbot, z.B. durch einstweilige Verfügung (§ 136)", "wie § 135: relative Unwirksamkeit, Gutglaubensschutz möglich"],
+        ["Absolutes Veräußerungsverbot zum Schutz allgemeiner Interessen", "Beurteilung nach § 134, i.d.R. Nichtigkeit"],
+        ["Rechtsgeschäftliches Verfügungsverbot (§ 137 S. 1)", "keine Wirkung gegenüber Dritten"]
+      ],
+      "explanation": "S. 59–60. Nach § 137 S. 2 bleibt eine rein schuldrechtliche Verpflichtung, nicht zu verfügen, wirksam.",
+      "hints": ["Wen soll das Verbot schützen?"],
+      "src": [{"doc": "BGB_7", "page": 59}, {"doc": "BGB_7", "page": 60}]
+    },
+    {
+      "id": "q22", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "prompt": "V hat einen Bagger an K1 und danach an K2 verkauft. K1 erwirkt eine einstweilige Verfügung, die V die Verfügung über den Bagger zum Nachteil von K1 verbietet. V übereignet den Bagger dennoch an den bösgläubigen K2. Wie ist die Rechtslage?",
+      "options": [
+        "K2 wird Eigentümer; nur gegenüber K1 ist die Übereignung unwirksam (§§ 136, 135 Abs. 1 S. 1 BGB)",
+        "Die Übereignung ist gegenüber jedermann nichtig (§ 134 BGB)",
+        "K2 wird uneingeschränkt Eigentümer, weil die einstweilige Verfügung nur schuldrechtlich wirkt (§ 137 S. 2 BGB)",
+        "Die Übereignung ist schwebend unwirksam, bis K1 sie genehmigt"
+      ],
+      "answer": [0],
+      "explanation": "Das behördliche (gerichtliche) Veräußerungsverbot führt zur relativen Unwirksamkeit: K2 kann sein Eigentum allen gegenüber geltend machen, nur nicht gegenüber K1, dem gegenüber V als Eigentümer gilt. Wäre K2 gutgläubig gewesen, käme ein Erwerb nach §§ 136, 135 Abs. 2, 932 in Betracht.",
+      "hints": ["Relative Unwirksamkeit"],
+      "src": [{"doc": "BGB_7", "page": 59}]
+    },
+    {
+      "id": "q23", "type": "cloze", "level": "recall", "difficulty": 2,
+      "prompt": "Die Befugnis zur Verfügung über ein veräußerliches Recht kann nach § 137 S. 1 BGB nicht durch Rechtsgeschäft ausgeschlossen oder {{1}} werden. Nach § 137 S. 2 BGB bleibt aber die Wirksamkeit einer Verpflichtung, über ein solches Recht nicht zu verfügen, unberührt; sie wirkt nur {{2}}. Für den Fall der Verletzung kann eine {{3}} versprochen werden.",
+      "blanks": [
+        ["beschränkt"],
+        ["schuldrechtlich", "zwischen den Beteiligten", "zwischen den Parteien", "inter partes"],
+        ["Vertragsstrafe"]
+      ],
+      "explanation": "S. 60: Gegenstände sollen nicht durch Parteivereinbarung dem Rechtsverkehr entzogen werden. Die schuldrechtliche Pflicht kann Schadensersatz (§§ 280 Abs. 1, 241 Abs. 2) oder eine Vertragsstrafe (§§ 339 ff.) auslösen.",
+      "hints": ["Dingliche vs. schuldrechtliche Wirkung"],
+      "src": [{"doc": "BGB_7", "page": 60}]
+    },
+    {
+      "id": "q24", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "prompt": "H verleiht E seine goldene Uhr (Wert 3.000 €). Vereinbart ist: „Verfügungen der E über die Uhr sind unwirksam; verfügt sie dennoch wirksam, zahlt sie eine Vertragsstrafe von 4.000 €.“ E veräußert die Uhr an den gutgläubigen G. Was trifft zu?",
+      "options": [
+        "G erwirbt nach §§ 929, 932 BGB Eigentum; H kann von E Wertersatz (3.000 €) oder die Vertragsstrafe (4.000 €) verlangen, sofern diese nicht unverhältnismäßig hoch ist",
+        "G erwirbt kein Eigentum, weil die Verfügung nach der Vereinbarung unwirksam ist",
+        "G erwirbt Eigentum, und die gesamte Vereinbarung ist nach § 137 S. 1 BGB wirkungslos, sodass H nur nach Deliktsrecht vorgehen kann",
+        "G erwirbt Eigentum nur relativ, d.h. gegenüber H ist die Verfügung unwirksam (§ 135 BGB)"
+      ],
+      "answer": [0],
+      "explanation": "Das vereinbarte Verfügungsverbot wirkt nicht gegenüber Dritten (§ 137 S. 1); G erwirbt gutgläubig. Die Klausel enthält aber (durch Auslegung) eine schuldrechtliche Verpflichtung, nicht zu verfügen (§ 137 S. 2), flankiert durch ein Strafversprechen: Wertersatz nach §§ 280 Abs. 1, 3, 283 S. 1 oder die höhere Strafe nach § 339 (Grenze vgl. § 343).",
+      "hints": ["§ 137 S. 1 vs. S. 2"],
+      "src": [{"doc": "BGB_7", "page": 60}]
+    }
+  ],
+  "case": {
+    "title": "Die verhinderte Lichtreklame (§ 162 BGB; Beispiel nach RGZ 122, 247)",
+    "facts": "H und L schließen einen Vertrag, in dem es u.a. heißt: „H überlässt dem L am Giebel des ihm gehörenden Gasthofes einen Platz zur Ausnutzung für Lichtreklame gegen eine Vergütung von 2.500 € jährlich. Der Vertrag wird zunächst für vier Jahre abgeschlossen. Die Wirksamkeit des Vertrages hängt von der Erteilung der behördlichen Genehmigung für die Lichtreklame ab, deren Kosten L zu tragen hat.“ Nach Vertragsschluss befürchtet L, die hohen Kosten der Anlage könnten ihn in wirtschaftliche Schwierigkeiten bringen. Er reicht der Genehmigungsbehörde deshalb nur Entwürfe ein, von denen er weiß, dass sie nicht genehmigt werden können. Die Genehmigung wird versagt. H verlangt von L die Vergütung für das erste Vertragsjahr.",
+    "question": "Kann H von L die Zahlung von 2.500 € verlangen?",
+    "steps": [
+      {
+        "part": "obersatz",
+        "prompt": "Formulieren Sie den Obersatz.",
+        "model": "H könnte gegen L einen Anspruch auf Zahlung der Vergütung von 2.500 € für das erste Vertragsjahr aus dem zwischen ihnen geschlossenen Vertrag haben. Das setzt voraus, dass der Vertrag wirksam geworden ist. Da seine Wirksamkeit von der Erteilung der behördlichen Genehmigung abhängen sollte, ist zu prüfen, ob der Vertrag unter einer aufschiebenden Bedingung geschlossen wurde und ob diese eingetreten ist oder nach § 162 Abs. 1 BGB als eingetreten gilt.",
+        "rubric": ["Konjunktiv", "Anspruch aus dem Vertrag (Vergütungsabrede)", "Problem benannt: Wirksamkeit hängt von Bedingung ab", "§ 158 Abs. 1 und § 162 Abs. 1 BGB als Prüfungsmaßstab"],
+        "hints": ["Wovon hängt die Wirksamkeit des Vertrags ab?"]
+      },
+      {
+        "part": "definition",
+        "prompt": "Definieren Sie die Bedingung und die aufschiebende Bedingung und nennen Sie die Voraussetzungen des § 162 Abs. 1 BGB.",
+        "model": "Eine Bedingung i.S.d. §§ 158 ff. BGB ist die einer Willenserklärung beigefügte Beschränkung, durch die die Wirksamkeit eines Rechtsgeschäfts vom Eintritt oder Nichteintritt eines ungewissen, in der Zukunft liegenden Ereignisses abhängig gemacht wird. Bei einer aufschiebenden Bedingung tritt die von der Bedingung abhängig gemachte Wirkung erst mit dem Eintritt der Bedingung ein (§ 158 Abs. 1 BGB); bis dahin besteht ein Schwebezustand. Nach § 162 Abs. 1 BGB gilt die Bedingung als eingetreten, wenn ihr Eintritt von der Partei, zu deren Nachteil er gereichen würde, wider Treu und Glauben verhindert wird. Zwar sind die Parteien nicht verpflichtet, sich um den Eintritt der Bedingung zu bemühen; sie dürfen während des Schwebezustands aber nichts unternehmen, was gegen Treu und Glauben verstößt und geeignet ist, den Eintritt zu verhindern.",
+        "rubric": ["Definition der Bedingung (ungewisses zukünftiges Ereignis)", "Aufschiebende Bedingung, § 158 Abs. 1 BGB", "§ 162 Abs. 1: Verhinderung durch benachteiligte Partei wider Treu und Glauben → Fiktion des Eintritts", "Keine Pflicht zur Herbeiführung, aber Verbot treuwidriger Verhinderung"],
+        "hints": ["Ungewiss und zukünftig", "Wer wird durch den Eintritt benachteiligt?"]
+      },
+      {
+        "part": "subsumtion",
+        "prompt": "Subsumieren Sie.",
+        "model": "Die Erteilung der behördlichen Genehmigung war bei Vertragsschluss objektiv ungewiss und lag in der Zukunft. Nach dem Wortlaut sollte der Vertrag erst mit ihrer Erteilung wirksam werden; es handelt sich um eine echte aufschiebende Bedingung i.S.d. § 158 Abs. 1 BGB, nicht bloß um eine unechte Bedingung oder eine reine Rechtsbedingung, da die Parteien die Wirksamkeit ihres privaten Vertrags von der Genehmigung abhängig gemacht haben. Tatsächlich ist die Genehmigung nicht erteilt worden, sodass die Bedingung an sich ausgefallen wäre. Ihr Eintritt hätte jedoch dem L zum Nachteil gereicht, denn mit Wirksamwerden des Vertrags hätte er die Vergütung zahlen und die Kosten der Anlage tragen müssen. L hat den Eintritt verhindert, indem er bewusst nur Entwürfe einreichte, von denen er wusste, dass sie nicht genehmigungsfähig waren. Damit hat er sich nicht nur passiv verhalten, sondern gezielt auf den Ausfall der Bedingung hingewirkt, um sich von dem für ihn wirtschaftlich unliebsamen Vertrag zu lösen. Dieses Verhalten verstößt gegen Treu und Glauben. Die Bedingung gilt daher nach § 162 Abs. 1 BGB als eingetreten; der Vertrag ist wirksam.",
+        "rubric": ["Echte aufschiebende Bedingung (objektiv ungewiss, zukünftig)", "Tatsächlicher Ausfall der Bedingung", "Eintritt hätte L benachteiligt", "Gezielte Verhinderung durch nicht genehmigungsfähige Entwürfe → treuwidrig", "Rechtsfolge: Fiktion des Eintritts, Vertrag wirksam"],
+        "hints": ["Warum wollte L die Genehmigung nicht?", "Ist bloßes Nichtstun dasselbe wie gezieltes Hintertreiben?"]
+      },
+      {
+        "part": "ergebnis",
+        "prompt": "Formulieren Sie das Ergebnis.",
+        "model": "Der Vertrag ist wirksam, weil die Bedingung nach § 162 Abs. 1 BGB als eingetreten gilt. H kann von L die Zahlung der Vergütung von 2.500 € für das erste Vertragsjahr verlangen.",
+        "rubric": ["Ergebnis im Indikativ", "Bezug zur Fallfrage (2.500 €)"],
+        "hints": ["Beantworten Sie die Fallfrage."]
+      }
+    ],
+    "src": [{"doc": "BGB_7", "page": 52}, {"doc": "BGB_7", "page": 54}, {"doc": "BGB_7", "page": 58}]
+  },
+  "flashcards": [
+    {"front": "Einwilligung vs. Genehmigung?", "back": "Einwilligung = vorherige Zustimmung (§ 183); Genehmigung = nachträgliche Zustimmung (§ 184), wirkt grundsätzlich ex tunc zurück (§ 184 Abs. 1).", "src": [{"doc": "BGB_7", "page": 47}, {"doc": "BGB_7", "page": 48}]},
+    {"front": "Wem gegenüber und in welcher Form wird die Zustimmung erklärt?", "back": "Gegenüber dem einen oder dem anderen Teil (§ 182 Abs. 1); nicht in der Form des Hauptgeschäfts (§ 182 Abs. 2). Empfangsbedürftige WE, §§ 119 ff., 130 gelten.", "src": [{"doc": "BGB_7", "page": 47}]},
+    {"front": "Was regelt § 184 Abs. 2 BGB?", "back": "Zwischenverfügungen des Genehmigenden vor der Genehmigung bleiben trotz Rückwirkung wirksam (Schreibtisch-Beispiel: K erwirbt belastet mit dem Pfandrecht des D).", "src": [{"doc": "BGB_7", "page": 48}]},
+    {"front": "Wann ist § 185 BGB anwendbar – und wann nicht?", "back": "Bei Verfügungen eines Nichtberechtigten im eigenen Namen. Bei Handeln im fremden Namen gelten §§ 164 ff./177 ff.", "src": [{"doc": "BGB_7", "page": 48}]},
+    {"front": "Wege zur Wirksamkeit der Verfügung eines Nichtberechtigten?", "back": "Einwilligung (§ 185 Abs. 1); Genehmigung, rückwirkend, bei Verfügungsbefugnis im Zeitpunkt der Genehmigung (§ 185 Abs. 2 S. 1 Alt. 1); Konvaleszenz ex nunc (Alt. 2, 3); gutgläubiger Erwerb (§§ 932 ff.).", "src": [{"doc": "BGB_7", "page": 49}, {"doc": "BGB_7", "page": 50}]},
+    {"front": "Verfügungs- vs. Verpflichtungsermächtigung?", "back": "Verfügungsermächtigung: § 185 Abs. 1, zulässig (z.B. Weiterveräußerung von Vorbehaltsware). Verpflichtungsermächtigung: unzulässig, Verstoß gegen das Offenkundigkeitsprinzip – der Handelnde wird selbst verpflichtet.", "src": [{"doc": "BGB_7", "page": 51}]},
+    {"front": "Bedingung vs. Befristung?", "back": "Bedingung: ungewisses zukünftiges Ereignis (§ 158). Befristung: gewisses zukünftiges Ereignis/Zeitpunkt (§ 163). „Notwendige Bedingung“ (z.B. Tod) = Befristung.", "src": [{"doc": "BGB_7", "page": 52}]},
+    {"front": "Potestativ- vs. Wollensbedingung?", "back": "Potestativbedingung: Wirksamkeit hängt vom Willen einer Partei ab – zulässig z.B. § 454, bei gegenseitigen Verträgen; nicht bei Verfügungen. Wollensbedingung: freies Belieben, ob man gebunden sein will – keine Bedingung, schon keine bindende Erklärung.", "src": [{"doc": "BGB_7", "page": 53}, {"doc": "BGB_7", "page": 54}]},
+    {"front": "Aufschiebende vs. auflösende Bedingung?", "back": "Aufschiebend (§ 158 Abs. 1): Wirksamkeit erst mit Eintritt, ex nunc. Auflösend (§ 158 Abs. 2): zunächst voll wirksam, Wirkungsverlust mit Eintritt, ex nunc.", "src": [{"doc": "BGB_7", "page": 54}, {"doc": "BGB_7", "page": 55}]},
+    {"front": "Unechte Bedingung und Rechtsbedingung?", "back": "Unecht: Umstand steht objektiv schon fest, ist nur subjektiv unbekannt → Geschäft sofort unbedingt wirksam. Rechtsbedingung: gesetzliche Wirksamkeitsvoraussetzung (z.B. Zustimmung der Eltern) → keine Bedingung i.S.d. § 158.", "src": [{"doc": "BGB_7", "page": 55}, {"doc": "BGB_7", "page": 56}]},
+    {"front": "Bedingungsfeindliche Rechtsgeschäfte?", "back": "Gestaltungserklärungen (Anfechtung, Rücktritt, Kündigung), Aufrechnung (§ 388 S. 2), Auflassung (§ 925 Abs. 2).", "src": [{"doc": "BGB_7", "page": 56}, {"doc": "BGB_7", "page": 57}]},
+    {"front": "§ 161 BGB und Anwartschaftsrecht?", "back": "Zwischenverfügungen sind unwirksam, soweit sie die bedingte Wirkung vereiteln/beeinträchtigen; Gutglaubensschutz § 161 Abs. 3. Anwartschaftsrecht = wesensgleiches Minus zum Eigentum, übertragbar, abhängig vom Kaufvertrag.", "src": [{"doc": "BGB_7", "page": 57}, {"doc": "BGB_7", "page": 58}]},
+    {"front": "§ 162 BGB?", "back": "Treuwidrige Verhinderung des Bedingungseintritts durch die benachteiligte Partei → Bedingung gilt als eingetreten (Abs. 1). Keine Pflicht, den Eintritt zu fördern. Allgemeiner Rechtsgedanke.", "src": [{"doc": "BGB_7", "page": 58}]},
+    {"front": "Rechtsfolgen der Veräußerungsverbote §§ 135–137?", "back": "§§ 135, 136: relative Unwirksamkeit nur gegenüber dem Geschützten, Gutglaubensschutz (§ 135 Abs. 2). Absolute Verbote: § 134. § 137 S. 1: rechtsgeschäftliches Verbot wirkt nicht gegen Dritte; S. 2: schuldrechtliche Pflicht wirksam (Schadensersatz, Vertragsstrafe).", "src": [{"doc": "BGB_7", "page": 59}, {"doc": "BGB_7", "page": 60}]}
+  ]
+}
