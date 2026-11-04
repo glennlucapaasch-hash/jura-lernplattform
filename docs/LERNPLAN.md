@@ -8,9 +8,9 @@ Berechnet am 04.11.2026. In der App wird der Plan bei jedem Öffnen aus deinem a
 |---|---|---|---|---|
 | BGB AT – Einsendeaufgabe Teil 3 | 16.11.2026 | 16 h 15 min | 7 h 30 min | fehlen ca. 8 h 45 min (≈ +70 Min./Tag) |
 | BGB AT – Einsendeaufgabe Teil 8 | 21.12.2026 | 49 h 50 min | 31 h 30 min | fehlen ca. 18 h 20 min (≈ +35 Min./Tag) |
-| BGB AT – Hausarbeitsphase | 05.02.2027 | 49 h 50 min | 65 h 15 min | machbar |
-| Propädeutikum – Klausur | 10.03.2027 | 17 h 15 min | 77 h 15 min | machbar |
-| Staats- und Verfassungsrecht – Klausur | 11.03.2027 | 34 h 20 min | 77 h 15 min | fehlen ca. 24 h 10 min (≈ +19 Min./Tag) |
+| BGB AT – Kurzhausarbeit | 05.02.2027 | 49 h 50 min | 65 h 15 min | machbar |
+| Propädeutikum – Online-Klausur | 10.03.2027 | 17 h 15 min | 77 h 15 min | machbar |
+| Staats- und Verfassungsrecht – Online-Klausur | 11.03.2027 | 34 h 20 min | 77 h 15 min | fehlen ca. 24 h 10 min (≈ +19 Min./Tag) |
 
 **Gesamt:** benötigt 101 h 25 min, verfügbar 77 h 15 min (75 % jeder Einheit für Stoff und Anwendung, 25 % Wiederholung und Lernkontrolle).
 
@@ -18,7 +18,7 @@ Berechnet am 04.11.2026. In der App wird der Plan bei jedem Öffnen aus deinem a
 
 - BGB AT – Einsendeaufgabe Teil 3 (16.11.2026): Es fehlen rund 9 Std. Lernzeit – das entspricht etwa 70 zusätzlichen Minuten pro Lerntag.
 - BGB AT – Einsendeaufgabe Teil 8 (21.12.2026): Es fehlen rund 18 Std. Lernzeit – das entspricht etwa 35 zusätzlichen Minuten pro Lerntag.
-- Staats- und Verfassungsrecht – Klausur (11.03.2027): Es fehlen rund 24 Std. Lernzeit – das entspricht etwa 19 zusätzlichen Minuten pro Lerntag.
+- Staats- und Verfassungsrecht – Online-Klausur (11.03.2027): Es fehlen rund 24 Std. Lernzeit – das entspricht etwa 19 zusätzlichen Minuten pro Lerntag.
 - Insgesamt passen rund 24 Std. Stoff nicht mehr in den Zeitraum.
 
 Vorschläge: Kernstoff-Modus aktivieren; an Wochenenden 90 statt 60 Minuten; für die Einsendeaufgaben die abgefragten Abschnitte vorziehen; die Platzhalter-Schätzung für Verfassungsrecht KE 2 ersetzen, sobald die Unterlagen vorliegen.
@@ -147,11 +147,11 @@ Vorschläge: Kernstoff-Modus aktivieren; an Wochenenden 90 statt 60 Minuten; fü
 | 01.03.2027 | VerfR KE1 III. Subsidiarität und Föderalismus: Kompetenzverteilung im Bundesstaat (45′) |
 | 02.03.2027 | VerfR KE1 III. Subsidiarität und Föderalismus: Kompetenzverteilung im Bundesstaat (45′) |
 | 03.03.2027 | VerfR KE1 III. Subsidiarität und Föderalismus: Kompetenzverteilung im Bundesstaat (45′) |
-| 04.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 05.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 06.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 07.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 08.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 09.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 10.03.2027 | Prüfungsvorbereitung: Propädeutikum – Klausur |
-| 11.03.2027 | Prüfungsvorbereitung: Staats- und Verfassungsrecht – Klausur |
+| 04.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 05.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 06.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 07.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 08.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 09.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 10.03.2027 | Prüfungsvorbereitung: Propädeutikum – Online-Klausur |
+| 11.03.2027 | Prüfungsvorbereitung: Staats- und Verfassungsrecht – Online-Klausur |

@@ -67,12 +67,19 @@ export function ensureSeeded() {
     const dlFile = path.join(CONTENT, "deadlines.json");
     if (existsSync(dlFile)) {
       const dl = JSON.parse(readFileSync(dlFile, "utf8"));
-      const ins = d.prepare(`INSERT OR IGNORE INTO deadlines
-        (id, module_id, kind, title, date, end_date, status, source, note, required_for_admission, covers, prep_days, work_minutes, created_at)
-        VALUES (@id, @moduleId, @kind, @title, @date, @endDate, @status, @source, @note, @requiredForAdmission, @covers, @prepDays, @workMinutes, @createdAt)`);
+      // A higher "revision" in deadlines.json overwrites the shipped deadlines once (e.g. officially confirmed dates);
+      // afterwards the user's own edits are kept.
+      const rev = Number(dl.revision ?? 1);
+      const applied = (d.prepare("SELECT value FROM settings WHERE key = 'deadlinesRevision'").get() as { value: string } | undefined)?.value;
+      const overwrite = Number(applied ?? 0) < rev;
+      const ins = d.prepare(`INSERT INTO deadlines
+        (id, module_id, kind, title, date, end_date, time, status, source, note, required_for_admission, covers, prep_days, work_minutes, created_at)
+        VALUES (@id, @moduleId, @kind, @title, @date, @endDate, @time, @status, @source, @note, @requiredForAdmission, @covers, @prepDays, @workMinutes, @createdAt)
+        ON CONFLICT(id) DO ${overwrite ? "UPDATE SET module_id = excluded.module_id, kind = excluded.kind, title = excluded.title, date = excluded.date, end_date = excluded.end_date, time = excluded.time, status = excluded.status, source = excluded.source, note = excluded.note, covers = excluded.covers, prep_days = excluded.prep_days" : "NOTHING"}`);
       for (const m of [...dl.milestones, ...dl.reminders]) {
         ins.run({
           endDate: null,
+          time: null,
           note: null,
           requiredForAdmission: "unknown",
           prepDays: 0,
@@ -82,6 +89,7 @@ export function ensureSeeded() {
           createdAt: now(),
         });
       }
+      if (overwrite) d.prepare("INSERT INTO settings (key, value) VALUES ('deadlinesRevision', ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value").run(String(rev));
     }
   })();
   seeded = true;

@@ -2,7 +2,9 @@
 
 ## Vom Nutzer zu erledigen / zu entscheiden
 - [ ] **API-Schlüssel** in `.env.local` eintragen und das Modell wählen (Standard: Opus 5.5 für alles; Vorschlag: Sonnet 5.5 für den Dialog, um Kosten zu sparen)
-- [ ] **Offizielle Termine prüfen**: Anmeldezeitraum März-Klausuren, EA-Abgabetermine und Abgabeweg; klären, ob die Einsendeaufgaben Zulassungsvoraussetzung sind. Danach in der App auf „bestätigt“ setzen. Die FernUni-Seiten waren aus der Entwicklungsumgebung nicht erreichbar.
+- [x] Prüfungstermine bestätigt (04.11.2026): Prop 10.03.2027 und VerfR 11.03.2027 je 16–18 Uhr online, BGB-Kurzhausarbeit 05.–15.02.2027, Schuldrecht-AT-Hausarbeit 03.02.–31.03.2027
+- [ ] Unterlagen **55103 Schuldrecht AT** hochladen (für Lernplan und Hausarbeitsvorbereitung)
+- [ ] **Noch offen bei den Terminen**: Anmeldezeitraum März-Klausuren, EA-Abgabetermine und Abgabeweg; klären, ob die Einsendeaufgaben Zulassungsvoraussetzung sind. Danach in der App auf „bestätigt“ setzen. Die FernUni-Seiten waren aus der Entwicklungsumgebung nicht erreichbar.
 - [ ] Unterlagen **Verfassungsrecht KE 2** hochladen (derzeit Platzhalter mit 700 Min. Schätzung)
 - [ ] Prüfen, ob „Einsendeaufgabe Teil 3“ tatsächlich KE 1–3 abdeckt (Annahme in `content/deadlines.json`)
 

@@ -1,14 +1,133 @@
 {
-  "_note": "Startdaten. status 'unconfirmed' = noch nicht anhand einer offiziellen FernUni-Quelle bestätigt. In der App unter 'Termine & Fristen' bearbeitbar.",
-  "milestones": [
-    { "id": "ea-55101-3", "moduleId": "55101", "kind": "einsendeaufgabe", "title": "BGB AT – Einsendeaufgabe Teil 3", "date": "2026-11-16", "covers": { "ke": [1, 2, 3] }, "prepDays": 2, "workMinutes": 120, "status": "unconfirmed", "source": "eigene Angabe", "note": "Annahme: deckt KE 1–3 ab. Abgabeweg und Uhrzeit auf der Modulseite / in Moodle prüfen.", "requiredForAdmission": "unknown" },
-    { "id": "ea-55101-8", "moduleId": "55101", "kind": "einsendeaufgabe", "title": "BGB AT – Einsendeaufgabe Teil 8", "date": "2026-12-21", "covers": { "ke": [1, 2, 3, 4, 5, 6, 7, 8] }, "prepDays": 2, "workMinutes": 120, "status": "unconfirmed", "source": "eigene Angabe", "note": "Annahme: setzt KE 1–8 voraus.", "requiredForAdmission": "unknown" },
-    { "id": "ha-55101", "moduleId": "55101", "kind": "hausarbeit", "title": "BGB AT – Hausarbeitsphase", "date": "2027-02-05", "endDate": "2027-02-15", "covers": { "all": true }, "prepDays": 0, "status": "unconfirmed", "source": "eigene Angabe", "note": "Während der Bearbeitungszeit plant die App keinen neuen Stoff ein.", "requiredForAdmission": "unknown" },
-    { "id": "klausur-55100", "moduleId": "55100", "kind": "klausur", "title": "Propädeutikum – Klausur", "date": "2027-03-10", "covers": { "all": true }, "prepDays": 6, "status": "unconfirmed", "source": "eigene Angabe", "requiredForAdmission": "unknown" },
-    { "id": "klausur-55104", "moduleId": "55104", "kind": "klausur", "title": "Staats- und Verfassungsrecht – Klausur", "date": "2027-03-11", "covers": { "all": true }, "prepDays": 6, "status": "unconfirmed", "source": "eigene Angabe", "requiredForAdmission": "unknown" }
-  ],
-  "reminders": [
-    { "id": "check-anmeldung", "moduleId": null, "kind": "anmeldung", "title": "Anmeldezeitraum für die Klausuren im März prüfen (Prüfungsportal pos.fernuni-hagen.de)", "date": "2026-12-01", "status": "unconfirmed", "source": "https://www.fernuni-hagen.de/rewi/studium/termine/klausuren-ws/index.shtml", "note": "Im WS 2025/26 lag die Anmeldung laut Fakultätsseite vom 07.01. bis 30.01.2026. Für WS 2026/27 noch nicht bestätigt – Datum hier eintragen, sobald bekannt." },
-    { "id": "check-ea-regeln", "moduleId": "55101", "kind": "sonstiges", "title": "Prüfen: Sind die BGB-Einsendeaufgaben Zulassungsvoraussetzung? (Modulseite / Studienordnung)", "date": "2026-11-09", "status": "unconfirmed", "source": "https://www.fernuni-hagen.de/rewi/studium/termine/", "note": "Seit WS 2022/23 stehen EA-Termine auf den Modulseiten der Fakultät, nicht mehr im Studienheft." }
-  ]
+ "_note": "Startdaten. status 'unconfirmed' = noch nicht anhand einer offiziellen FernUni-Quelle bestätigt. In der App unter 'Termine & Fristen' bearbeitbar.",
+ "milestones": [
+  {
+   "id": "ea-55101-3",
+   "moduleId": "55101",
+   "kind": "einsendeaufgabe",
+   "title": "BGB AT – Einsendeaufgabe Teil 3",
+   "date": "2026-11-16",
+   "covers": {
+    "ke": [
+     1,
+     2,
+     3
+    ]
+   },
+   "prepDays": 2,
+   "workMinutes": 120,
+   "status": "unconfirmed",
+   "source": "eigene Angabe",
+   "note": "Annahme: deckt KE 1–3 ab. Abgabeweg und Uhrzeit auf der Modulseite / in Moodle prüfen.",
+   "requiredForAdmission": "unknown"
+  },
+  {
+   "id": "ea-55101-8",
+   "moduleId": "55101",
+   "kind": "einsendeaufgabe",
+   "title": "BGB AT – Einsendeaufgabe Teil 8",
+   "date": "2026-12-21",
+   "covers": {
+    "ke": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   "prepDays": 2,
+   "workMinutes": 120,
+   "status": "unconfirmed",
+   "source": "eigene Angabe",
+   "note": "Annahme: setzt KE 1–8 voraus.",
+   "requiredForAdmission": "unknown"
+  },
+  {
+   "id": "ha-55101",
+   "moduleId": "55101",
+   "kind": "hausarbeit",
+   "title": "BGB AT – Kurzhausarbeit",
+   "date": "2027-02-05",
+   "endDate": "2027-02-15",
+   "covers": {
+    "all": true
+   },
+   "prepDays": 0,
+   "status": "confirmed",
+   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
+   "note": "Bearbeitungszeitraum der Kurzhausarbeit. In dieser Zeit plant die App keinen neuen Stoff ein.",
+   "requiredForAdmission": "unknown"
+  },
+  {
+   "id": "klausur-55100",
+   "moduleId": "55100",
+   "kind": "klausur",
+   "title": "Propädeutikum – Online-Klausur",
+   "date": "2027-03-10",
+   "covers": {
+    "all": true
+   },
+   "prepDays": 6,
+   "status": "confirmed",
+   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
+   "requiredForAdmission": "unknown",
+   "time": "16:00–18:00",
+   "note": "Online-Klausur, 16:00–18:00 Uhr. Technische Voraussetzungen (Prüfungsumgebung, Ausweis) rechtzeitig vorher prüfen."
+  },
+  {
+   "id": "klausur-55104",
+   "moduleId": "55104",
+   "kind": "klausur",
+   "title": "Staats- und Verfassungsrecht – Online-Klausur",
+   "date": "2027-03-11",
+   "covers": {
+    "all": true
+   },
+   "prepDays": 6,
+   "status": "confirmed",
+   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
+   "requiredForAdmission": "unknown",
+   "time": "16:00–18:00",
+   "note": "Online-Klausur, 16:00–18:00 Uhr."
+  },
+  {
+   "id": "ha-55103",
+   "moduleId": "55103",
+   "kind": "hausarbeit",
+   "title": "Schuldrecht AT – Hausarbeit",
+   "date": "2027-02-03",
+   "endDate": "2027-03-31",
+   "status": "confirmed",
+   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
+   "note": "Bearbeitungszeitraum 03.02.–31.03.2027. Läuft parallel zur Kurzhausarbeit BGB AT und zu den Klausuren am 10./11.03. Unterlagen zu 55103 fehlen noch – nach dem Hochladen plant die App den Stoff ein.",
+   "requiredForAdmission": "unknown"
+  }
+ ],
+ "reminders": [
+  {
+   "id": "check-anmeldung",
+   "moduleId": null,
+   "kind": "anmeldung",
+   "title": "Anmeldung zu Online-Klausuren (10./11.03.) und Hausarbeiten im Prüfungsportal prüfen",
+   "date": "2026-12-01",
+   "status": "unconfirmed",
+   "source": "https://www.fernuni-hagen.de/rewi/studium/termine/klausuren-ws/index.shtml",
+   "note": "Im WS 2025/26 lag die Anmeldung laut Fakultätsseite vom 07.01. bis 30.01.2026. Für WS 2026/27 noch nicht bestätigt – Datum hier eintragen, sobald bekannt."
+  },
+  {
+   "id": "check-ea-regeln",
+   "moduleId": "55101",
+   "kind": "sonstiges",
+   "title": "Prüfen: Sind die BGB-Einsendeaufgaben Zulassungsvoraussetzung? (Modulseite / Studienordnung)",
+   "date": "2026-11-09",
+   "status": "unconfirmed",
+   "source": "https://www.fernuni-hagen.de/rewi/studium/termine/",
+   "note": "Seit WS 2022/23 stehen EA-Termine auf den Modulseiten der Fakultät, nicht mehr im Studienheft."
+  }
+ ],
+ "revision": 2
 }

@@ -285,3 +285,8 @@ Gesamt: **17 h 15 min** in 23 Lernabschnitten
 | ↳ II. Inhalt und Aufbau wissenschaftlicher Arbeiten | 226–227 | 10 min | mittel | ●● |
 | ↳ III. Formale Hinweise | 227–236 | 55 min | mittel | ●●● |
 
+## 55103 – Schuldrecht Allgemeiner Teil
+
+Gesamt: **0 min** in 0 Lernabschnitten
+
+
