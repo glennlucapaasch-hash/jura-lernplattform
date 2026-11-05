@@ -93,18 +93,6 @@
    "requiredForAdmission": "unknown",
    "time": "16:00–18:00",
    "note": "Online-Klausur, 16:00–18:00 Uhr."
-  },
-  {
-   "id": "ha-55103",
-   "moduleId": "55103",
-   "kind": "hausarbeit",
-   "title": "Schuldrecht AT – Hausarbeit",
-   "date": "2027-02-03",
-   "endDate": "2027-03-31",
-   "status": "confirmed",
-   "source": "Offizielle Prüfungstermine der FernUniversität (von dir am 04.11.2026 übermittelt)",
-   "note": "Bearbeitungszeitraum 03.02.–31.03.2027. Läuft parallel zur Kurzhausarbeit BGB AT und zu den Klausuren am 10./11.03. Unterlagen zu 55103 fehlen noch – nach dem Hochladen plant die App den Stoff ein.",
-   "requiredForAdmission": "unknown"
   }
  ],
  "reminders": [
@@ -415,5 +403,8 @@
    "note": "Mittwochs 08:00–11:00 Uhr. Teilnahme setzt in der Regel eine aktivierte Kamera und aktive Beteiligung voraus. Einschreibung in Moodle („Einschreiben“) nicht vergessen."
   }
  ],
- "revision": 5
+ "revision": 6,
+ "removed": [
+  "ha-55103"
+ ]
 }

@@ -1,7 +1,7 @@
 import { db, now, uid } from "../db";
 import { buildSession, type SessionPlan, type UnitInfo } from "../learning/session";
 import type { AttemptLite, Level } from "../learning/mastery";
-import { currentPlan, getTopic, lessonsForTopic, today, addStudyMinutes, listLessons, getLesson } from "./study";
+import { currentPlan, getTopic, lessonsForTopic, today, addStudyMinutes, listLessons, getLesson, progressMap, studyUnits } from "./study";
 import { docByKey } from "./documents";
 import { KNOWN_MODULES } from "../docs/curriculum";
 
@@ -48,9 +48,11 @@ function historyMap(): Map<string, AttemptLite[]> {
   return m;
 }
 
-export function buildTodaySession(date = today()): SessionPlan {
+export function buildTodaySession(date = today(), unitOverride?: string): SessionPlan {
   const { plan, settings } = currentPlan(date);
-  const day = plan.days[0];
+  const day = unitOverride
+    ? { mode: "lernen" as const, items: [{ unitId: unitOverride, minutes: Math.round(settings.minutesPerDay * 0.75) }], label: undefined, milestoneId: undefined, milestoneKind: undefined }
+    : plan.days[0];
   const units: UnitInfo[] = (day?.items ?? []).map((it) => {
     const t = getTopic(it.unitId)!;
     const mod = KNOWN_MODULES.find((m) => m.id === t.module_id);
@@ -95,7 +97,9 @@ export function buildTodaySession(date = today()): SessionPlan {
 /** Today's session: reuse a running/finished one, otherwise (re)build from the current plan. */
 export function getOrCreateTodaySession(): SessionRow {
   const date = today();
-  const existing = db().prepare("SELECT * FROM study_sessions WHERE date = ? ORDER BY started_at DESC").get(date) as SessionRow | undefined;
+  const existing = db()
+    .prepare(`SELECT * FROM study_sessions WHERE date = ? AND plan NOT LIKE '%"adhoc":true%' ORDER BY started_at DESC`)
+    .get(date) as SessionRow | undefined;
   if (existing && existing.status !== "planned") return existing;
   const plan = buildTodaySession(date);
   if (existing) {
@@ -105,6 +109,24 @@ export function getOrCreateTodaySession(): SessionRow {
   const id = uid("ss_");
   db().prepare("INSERT INTO study_sessions (id, date, plan, status) VALUES (?, ?, ?, 'planned')").run(id, date, JSON.stringify(plan));
   return db().prepare("SELECT * FROM study_sessions WHERE id = ?").get(id) as SessionRow;
+}
+
+/** „Weiterlernen“: a guided session for a chosen section, independent of today's plan. Reuses an unfinished one. */
+export function getOrCreateUnitSession(unitId: string): SessionRow {
+  const date = today();
+  const open = (db().prepare(`SELECT * FROM study_sessions WHERE date = ? AND status != 'done' AND plan LIKE '%"adhoc":true%'`).all(date) as SessionRow[])
+    .find((s) => (JSON.parse(s.plan) as SessionPlan).unitIds[0] === unitId);
+  if (open) return open;
+  const plan = { ...buildTodaySession(date, unitId), adhoc: true };
+  const id = uid("ss_");
+  db().prepare("INSERT INTO study_sessions (id, date, plan, status) VALUES (?, ?, ?, 'planned')").run(id, date, JSON.stringify(plan));
+  return db().prepare("SELECT * FROM study_sessions WHERE id = ?").get(id) as SessionRow;
+}
+
+/** Next section of a module that is not yet worked through (in Skript order). */
+export function nextUnit(moduleId: string) {
+  const prog = progressMap();
+  return studyUnits(moduleId).find((u) => prog.get(u.id)?.status !== "studied" && !u.placeholder);
 }
 
 export function getSession(id: string): SessionRow | undefined {

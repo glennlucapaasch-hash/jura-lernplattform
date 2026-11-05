@@ -1,4 +1,4 @@
-import { getOrCreateTodaySession } from "@/lib/repo/session";
+import { getOrCreateTodaySession, getOrCreateUnitSession } from "@/lib/repo/session";
 import { getLesson, getTopic } from "@/lib/repo/study";
 import { resolveItem } from "@/lib/repo/items";
 import { listCards, cardPreview } from "@/lib/repo/cards";
@@ -8,8 +8,9 @@ import type { SessionPlan } from "@/lib/learning/session";
 import type { LessonPack } from "@/lib/learning/types";
 import { SessionPlayer } from "./SessionPlayer";
 
-export default function LerneinheitPage() {
-  const s = getOrCreateTodaySession();
+export default async function LerneinheitPage({ searchParams }: { searchParams: Promise<{ unit?: string }> }) {
+  const { unit: unitParam } = await searchParams;
+  const s = unitParam && getTopic(unitParam) ? getOrCreateUnitSession(unitParam) : getOrCreateTodaySession();
   const plan = JSON.parse(s.plan) as SessionPlan;
   const lessons: Record<string, LessonPack> = {};
   const items: Record<string, { lessonId: string; item: LessonPack["quiz"][number] }> = {};

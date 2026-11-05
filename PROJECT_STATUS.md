@@ -1,6 +1,6 @@
 # Projektstatus
 
-Stand: 04.11.2026
+Stand: 05.11.2026
 
 ## Phasen
 
@@ -33,3 +33,9 @@ Stand: 04.11.2026
 1. `TODO.md` lesen.
 2. `npm install && npm test`
 3. Mit `npm run dev` starten, dann `npm run import -- <Ordner mit PDFs>`, um Testdaten zu laden.
+
+## Ergänzungen (04./05.11.2026)
+- „Heute zu tun“-Liste, Häppchen-Ansicht mit Merke-Kästen und Kontrollfragen (alle Module), „Weiterlernen“ je Modul und je Abschnitt
+- Lernplan verteilt die Tage fair auf alle Module (Anteil nach Stoffumfang bis zur jeweils letzten Prüfung) statt ein Modul nach dem anderen
+- Einsendeaufgaben-Begleiter, AG- und Online-Lektionstermine, Anmeldezeitraum, MC-Klausurtraining Propädeutikum, Vertiefungen aus Begleitmaterial
+- Schuldrecht AT (55103) entfernt

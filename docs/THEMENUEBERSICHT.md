@@ -1,6 +1,6 @@
 # Themenübersicht und Aufwandsschätzung
 
-Automatisch erzeugt aus den Inhaltsverzeichnissen der Studienbriefe (Stand 04.11.2026). Seitenangaben = Seiten im Studienbrief.
+Automatisch erzeugt aus den Inhaltsverzeichnissen der Studienbriefe (Stand 05.11.2026). Seitenangaben = Seiten im Studienbrief.
 Aufwand = Erarbeitung inkl. Übungen bei ca. 70 Wörtern Skripttext pro Minute; schwierige Themen ×1,25, einführende ×0,85. Die App kalibriert die Werte mit deinem tatsächlichen Tempo.
 
 Klausurrelevanz (geschätzt): ●●● hoch · ●● mittel · ● gering
@@ -284,9 +284,4 @@ Gesamt: **17 h 15 min** in 23 Lernabschnitten
 | ↳ I. Einführung | 226–226 | 10 min | leicht | ●● |
 | ↳ II. Inhalt und Aufbau wissenschaftlicher Arbeiten | 226–227 | 10 min | mittel | ●● |
 | ↳ III. Formale Hinweise | 227–236 | 55 min | mittel | ●●● |
-
-## 55103 – Schuldrecht Allgemeiner Teil
-
-Gesamt: **0 min** in 0 Lernabschnitten
-
 

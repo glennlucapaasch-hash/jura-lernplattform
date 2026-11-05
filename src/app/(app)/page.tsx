@@ -2,7 +2,7 @@ import Link from "next/link";
 import { PlayCircle, AlarmClock, AlertTriangle, Layers, ChevronRight, CheckCircle2 } from "lucide-react";
 import { Card, CardBody, Badge, SectionTitle, CountBar, formatDate, formatMinutes, Notice } from "@/components/ui";
 import { currentPlan, listModules, listDeadlines, today, progressMap, studyUnits, getTopic } from "@/lib/repo/study";
-import { getOrCreateTodaySession, dueCardIds } from "@/lib/repo/session";
+import { getOrCreateTodaySession, dueCardIds, nextUnit } from "@/lib/repo/session";
 import { daysBetween } from "@/lib/learning/planner";
 import { aiAvailable } from "@/lib/ai/client";
 import type { SessionPlan } from "@/lib/learning/session";
@@ -164,13 +164,14 @@ export default function Dashboard() {
             const exam = listDeadlines().find((d) => d.module_id === m.id && d.kind === "klausur");
             const left = mu.filter((u) => prog.get(u.id)?.status !== "studied").reduce((n, u) => n + u.est_minutes, 0);
             return (
-              <Link key={m.id} href={`/module/${m.id}`}>
+              <Link key={m.id} href={nextUnit(m.id) ? `/lerneinheit?unit=${nextUnit(m.id)!.id}` : `/module/${m.id}`}>
                 <Card className="h-full transition hover:border-brand-200">
                   <CardBody>
                     <p className="text-xs font-medium uppercase tracking-wide text-ink-faint">{m.id}</p>
                     <p className="mt-0.5 font-semibold">{m.title}</p>
                     <div className="mt-4"><CountBar value={done} max={mu.length} label="Abschnitte erarbeitet" /></div>
                     <p className="mt-3 text-sm text-ink-soft">noch ca. {formatMinutes(left)}{exam ? ` · Klausur ${formatDate(exam.date, { day: "2-digit", month: "2-digit" })}` : ""}</p>
+                    {nextUnit(m.id) && <p className="mt-3 text-sm font-medium text-brand-600">▶ Weiterlernen: {nextUnit(m.id)!.title}</p>}
                   </CardBody>
                 </Card>
               </Link>

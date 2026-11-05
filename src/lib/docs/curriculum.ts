@@ -43,15 +43,6 @@ export const KNOWN_MODULES: ModuleDef[] = [
     aliases: [/Modul\s*55100/i, /Propädeutikum/i],
   },
   {
-    id: "55103",
-    prefix: "schr",
-    title: "Schuldrecht Allgemeiner Teil",
-    short: "Schuldrecht AT",
-    color: "emerald",
-    description: "Modul 55103 – Schuldrecht Allgemeiner Teil (Unterlagen noch nicht hochgeladen)",
-    aliases: [/Kurs\s*55103/i, /Modul\s*55103/i, /Schuldrecht Allgemeiner Teil/i],
-  },
-  {
     id: "gesetze",
     prefix: "gesetz",
     title: "Gesetzestexte",

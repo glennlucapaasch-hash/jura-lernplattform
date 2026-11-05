@@ -177,16 +177,44 @@ export function buildPlan(input: PlanInput): PlanResult {
   const unitFinish: Record<string, string | null> = {};
   for (const u of input.units) unitFinish[u.id] = remaining.has(u.id) ? null : today;
 
-  const pickModule = (): string | null => {
+  // learning days (for the "pressure" of each module): dates on which new material can be scheduled
+  const learnDates: string[] = [];
+  for (let dd = today; dd <= horizonEnd; dd = addDays(dd, 1)) if (dayMode(dd).mode === "lernen") learnDates.push(dd);
+  const learnDaysBetween = (from: string, to: string) => {
+    let n = 0;
+    for (const x of learnDates) if (x >= from && x < to) n++;
+    return n;
+  };
+
+  /**
+   * Interleaving by fair share: every module accrues "credit" each learning day at the rate it needs to finish
+   * its material by its final deadline (remaining minutes ÷ learning days left). Each day the module with the
+   * most credit gets the session; scheduled minutes are deducted. Modules thus run in parallel all semester;
+   * intermediate deadlines (e.g. Einsendeaufgaben) only order the units inside their module.
+   */
+  const finalDl = new Map<string, string>();
+  // final deadline of a module = its last milestone (e.g. Hausarbeit or Klausur), not an intermediate Einsendeaufgabe
+  for (const mod of queues.keys()) finalDl.set(mod, lastByModule.get(mod) ?? horizonEnd);
+  const rate = new Map<string, number>();
+  for (const [mod, q] of queues) {
+    const rem = q.reduce((n, u) => n + (remaining.get(u.id) ?? 0), 0);
+    rate.set(mod, rem / Math.max(1, learnDaysBetween(today, finalDl.get(mod)!)));
+  }
+  const credit = new Map<string, number>([...queues.keys()].map((m) => [m, 0]));
+  const hasWork = (mod: string) => queues.get(mod)!.some((u) => (remaining.get(u.id) ?? 0) > 0);
+  const accrue = (date: string) => {
+    for (const mod of queues.keys()) if (hasWork(mod) && date < finalDl.get(mod)!) credit.set(mod, credit.get(mod)! + rate.get(mod)!);
+  };
+  const pickModule = (date: string): string | null => {
     let best: string | null = null;
-    let bestDl = "";
-    for (const [mod, q] of queues) {
-      const head = q.find((u) => (remaining.get(u.id) ?? 0) > 0);
-      if (!head) continue;
-      const dl = unitDeadline.get(head.id) ?? horizonEnd;
-      if (best === null || dl < bestDl) {
+    let bestC = -Infinity;
+    for (const mod of queues.keys()) {
+      if (!hasWork(mod)) continue;
+      // past its final deadline a module only gets leftover days
+      const c = date < finalDl.get(mod)! ? credit.get(mod)! : -1e9;
+      if (c > bestC || (c === bestC && finalDl.get(mod)! < finalDl.get(best!)!)) {
         best = mod;
-        bestDl = dl;
+        bestC = c;
       }
     }
     return best;
@@ -210,23 +238,25 @@ export function buildPlan(input: PlanInput): PlanResult {
     }
     let budget = topicPerDay;
     const items: PlanDayItem[] = [];
-    let mod = pickModule();
+    accrue(date);
+    let mod = pickModule(date);
     while (budget > 0 && mod) {
       const q = queues.get(mod)!;
       const head = q.find((u) => (remaining.get(u.id) ?? 0) > 0);
       if (!head) {
-        mod = pickModule();
+        mod = pickModule(date);
         continue;
       }
       const left = remaining.get(head.id)!;
       const take = Math.min(left, budget);
       items.push({ unitId: head.id, moduleId: head.moduleId, minutes: take });
+      credit.set(mod, (credit.get(mod) ?? 0) - take);
       remaining.set(head.id, left - take);
       budget -= take;
       if (left - take <= 0) {
         unitFinish[head.id] = date;
-        // Prefer staying in the same module for the rest of the day unless another module is more urgent.
-        mod = pickModule();
+        // Stay in the same module for the rest of the day (one subject per session); switch only when it is finished.
+        if (!q.some((u) => (remaining.get(u.id) ?? 0) > 0)) mod = pickModule(date);
       }
     }
     days.push({

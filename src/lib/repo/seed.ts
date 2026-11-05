@@ -15,6 +15,8 @@ export function ensureSeeded() {
   if (seeded) return;
   const d = db();
   d.transaction(() => {
+    // modules no longer offered (e.g. Schuldrecht AT) disappear when they hold no documents
+    d.prepare("DELETE FROM modules WHERE id NOT IN (" + KNOWN_MODULES.map(() => "?").join(",") + ") AND id NOT IN (SELECT DISTINCT module_id FROM documents WHERE module_id IS NOT NULL)").run(...KNOWN_MODULES.map((m) => m.id));
     KNOWN_MODULES.forEach((m, i) => {
       d.prepare(
         `INSERT OR IGNORE INTO modules (id, title, short, description, color, sort, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)`,
@@ -89,6 +91,7 @@ export function ensureSeeded() {
           createdAt: now(),
         });
       }
+      if (overwrite) for (const id of (dl.removed ?? []) as string[]) d.prepare("DELETE FROM deadlines WHERE id = ?").run(id);
       if (overwrite) d.prepare("INSERT INTO settings (key, value) VALUES ('deadlinesRevision', ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value").run(String(rev));
     }
   })();

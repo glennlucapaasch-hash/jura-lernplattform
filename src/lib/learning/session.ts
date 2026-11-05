@@ -29,6 +29,8 @@ export interface SessionPlan {
   totalMinutes: number;
   unitIds: string[];
   blocks: SessionBlock[];
+  /** extra session started via „Weiterlernen“ for a chosen section (not today's planned session) */
+  adhoc?: boolean;
 }
 
 export interface UnitInfo {

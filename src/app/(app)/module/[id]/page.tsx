@@ -2,7 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookOpen, FileText } from "lucide-react";
 import { Card, CardBody, PageHeader, Badge, SectionTitle, formatMinutes, ButtonLink } from "@/components/ui";
-import { getModule, listTopics, progressMap, masteryByTopic, lessonsForTopic, listDeadlines, formatStage } from "@/lib/repo/study";
+import { getModule, listTopics, progressMap, masteryByTopic, lessonsForTopic, listDeadlines, formatStage, studyUnits } from "@/lib/repo/study";
+import { nextUnit } from "@/lib/repo/session";
 import { listDocuments } from "@/lib/repo/documents";
 import { aiAvailable } from "@/lib/ai/client";
 import { TopicActions } from "./TopicActions";
@@ -15,12 +16,23 @@ export default async function ModulePage({ params }: { params: Promise<{ id: str
   const prog = progressMap();
   const mastery = masteryByTopic();
   const docs = listDocuments(id);
-  const dls = listDeadlines().filter((d) => d.module_id === id);
+  const dls = listDeadlines().filter((d) => d.module_id === id && ["einsendeaufgabe", "hausarbeit", "klausur", "anmeldung"].includes(d.kind) && !d.done);
   const kes = [...new Set(topics.map((t) => t.ke))];
   const ai = aiAvailable();
+  const next = nextUnit(id);
+  const unitIds = new Set(studyUnits(id).map((u) => u.id));
   return (
     <div className="space-y-8">
       <PageHeader title={m.title} subtitle={m.description} actions={<><ButtonLink href={`/quiz?module=${id}`} variant="secondary">Quiz</ButtonLink><ButtonLink href={`/klausur?module=${id}`} variant="secondary">Klausurtraining</ButtonLink></>} />
+      {next && (
+        <Link href={`/lerneinheit?unit=${next.id}`} className="flex items-center justify-between gap-4 rounded-[var(--radius-card)] bg-gradient-to-br from-brand-500 to-brand-700 p-5 text-white shadow-[var(--shadow-card)] sm:p-6">
+          <span className="min-w-0">
+            <span className="block text-sm text-white/75">Weiterlernen in {m.short}</span>
+            <span className="block truncate text-lg font-semibold">{next.marker} {next.title}</span>
+          </span>
+          <span className="shrink-0 rounded-xl bg-white px-4 py-2 font-semibold text-brand-700">Starten</span>
+        </Link>
+      )}
       {dls.length > 0 && (
         <div className="flex flex-wrap gap-2">{dls.map((d) => <Badge key={d.id} tone={d.status === "confirmed" ? "ok" : "warn"}>{d.title.replace(/^.*?–\s*/, "")}: {d.date.split("-").reverse().join(".")}</Badge>)}</div>
       )}
@@ -60,6 +72,7 @@ export default async function ModulePage({ params }: { params: Promise<{ id: str
                           {p?.status === "studied" && <Badge tone="ok">erarbeitet</Badge>}
                           {p?.status === "learning" && <Badge tone="brand">in Arbeit</Badge>}
                           {ms && <Badge>{formatStage(ms.stage)}</Badge>}
+                          {unitIds.has(t.id) && <Link href={`/lerneinheit?unit=${t.id}`} className="inline-flex items-center gap-1 rounded-full bg-brand-500 px-2.5 py-0.5 text-xs font-medium text-white">▶ Lernen</Link>}
                           {lesson && <Link href={`/lektion/${lesson.id}`} className="inline-flex items-center gap-1 rounded-full bg-brand-50 px-2.5 py-0.5 text-xs font-medium text-brand-700"><BookOpen size={12} /> Lerneinheit</Link>}
                           {t.kind === "study" && <TopicActions topicId={t.id} level={t.level} hasLesson={!!lesson} studied={p?.status === "studied"} ai={ai} />}
                         </div>
