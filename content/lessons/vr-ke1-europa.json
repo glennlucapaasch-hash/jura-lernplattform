@@ -22,7 +22,9 @@
           "doc": "VR_1",
           "page": 164
         }
-      ]
+      ],
+      "merksatz": "Der Staat bleibt – aber er öffnet sich: Demokratie, Rechtsstaat und Grundrechte nimmt er mit nach Europa.",
+      "norms": []
     },
     {
       "id": "s2",
@@ -34,6 +36,10 @@
           "doc": "VR_1",
           "page": 164
         }
+      ],
+      "merksatz": "Art. 23 GG ist Tür und Türsteher zugleich: Er öffnet für Europa und stellt Bedingungen.",
+      "norms": [
+        "Art. 23 GG"
       ]
     },
     {
@@ -50,6 +56,10 @@
           "doc": "VR_1",
           "page": 174
         }
+      ],
+      "merksatz": "Unionsrecht verdrängt, es vernichtet nicht: Kollidierendes deutsches Recht wird nur unanwendbar – der Vorrang ist vom GG abgeleitet.",
+      "norms": [
+        "Art. 23 Abs. 1 GG"
       ]
     },
     {
@@ -74,6 +84,19 @@
           "doc": "VR_1",
           "page": 168
         }
+      ],
+      "merksatz": "Europa wirkt in jedes Strukturprinzip hinein: Unionsbürger wählen kommunal mit, der EuGH wird gesetzlicher Richter, EU-Firmen genießen Grundrechte.",
+      "norms": [
+        "Art. 28 Abs. 1 S. 3 GG",
+        "Art. 20 Abs. 3 GG",
+        "Art. 101 Abs. 1 S. 2 GG",
+        "Art. 19 Abs. 4 GG",
+        "Art. 18 AEUV",
+        "Art. 19 Abs. 3 GG",
+        "Art. 8 GG",
+        "Art. 9 GG",
+        "Art. 11 GG",
+        "Art. 12 GG"
       ]
     },
     {
@@ -98,6 +121,12 @@
           "doc": "VR_1",
           "page": 171
         }
+      ],
+      "merksatz": "Was Brüssel an Legitimation fehlt, gleichen Bundestag und Bundesrat aus – Integrationsverantwortung heißt: mitreden, nicht nur zuschauen.",
+      "norms": [
+        "Art. 23 Abs. 2 bis 7 GG",
+        "Art. 23 Abs. 6 GG",
+        "Art. 16 Abs. 1 S. 1 EUV"
       ]
     },
     {
@@ -122,6 +151,14 @@
           "doc": "VR_1",
           "page": 174
         }
+      ],
+      "merksatz": "Zwei Klauseln, ein Ziel: Art. 23 I 1 stellt Bedingungen an die EU, Art. 23 I 3 mit Art. 79 III schützt den deutschen Kern.",
+      "norms": [
+        "Art. 2 EUV",
+        "Art. 23 Abs. 1 S. 1 GG",
+        "Art. 23 Abs. 1 S. 3 GG",
+        "Art. 79 Abs. 3 GG",
+        "Art. 146 GG"
       ]
     },
     {
@@ -146,6 +183,13 @@
           "doc": "VR_1",
           "page": 177
         }
+      ],
+      "merksatz": "Identität, Kompetenz, Grundrechte: Drei Schranken wacht Karlsruhe – Fachgerichte müssen vorlegen, nicht selbst verwerfen.",
+      "norms": [
+        "Art. 23 Abs. 1 S. 3 GG",
+        "Art. 79 Abs. 3 GG",
+        "Art. 100 Abs. 1 GG",
+        "Art. 23 Abs. 1 S. 1 GG"
       ]
     }
   ],
@@ -881,6 +925,442 @@
           "page": 175
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Art. 23 I GG enthält die grundsätzliche Ermächtigung, {{1}} durch Gesetz auf die Europäische Union zu übertragen. Diese sog. {{2}} öffnet den staatlichen „Souveränitätspanzer“.",
+      "blanks": [
+        [
+          "Hoheitsrechte"
+        ],
+        [
+          "Integrationsgewalt"
+        ]
+      ],
+      "explanation": "Durch die Übertragung von Hoheitsrechten nimmt Deutschland seinen ausschließlichen Herrschaftsanspruch zurück und lässt der unmittelbaren Geltung des Unionsrechts Raum (BVerfGE 37, 271 – Solange I; 73, 339 – Solange II).",
+      "hints": [
+        "Was überträgt der Staat – Pflichten oder Befugnisse?",
+        "Der Begriff enthält das Wort „Integration“."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 165
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Eine Vorschrift eines Bundesgesetzes widerspricht einer EU-Verordnung. Jahre später wird die Verordnung ersatzlos aufgehoben. Was gilt für die deutsche Vorschrift?",
+      "options": [
+        "Sie ist wieder anwendbar, weil sie wegen des bloßen Anwendungsvorrangs nie nichtig war.",
+        "Sie bleibt nichtig, weil Unionsrecht entgegenstehendes Recht vernichtet.",
+        "Sie muss vom Bundestag neu beschlossen werden.",
+        "Sie gilt nur noch, wenn das BVerfG dies feststellt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Unionsrecht hat nur Anwendungsvorrang: Das kollidierende nationale Recht ist unanwendbar, aber nicht nichtig, und wird mit Wegfall der Unionsnorm wieder anwendbar.",
+      "hints": [
+        "Anwendungsvorrang ist nicht Geltungsvorrang."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 165
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Die Öffnung der kommunalen Selbstverwaltung für Unionsbürger ist im Grundgesetz ausdrücklich in Art. 28 I 3 GG geregelt.",
+      "answer": true,
+      "explanation": "Das Skript nennt Art. 28 I 3 GG als ausdrückliche integrationsbedingte Öffnung des Demokratieprinzips: Unionsbürger wählen bei Kommunalwahlen mit.",
+      "hints": [
+        "Die Norm steht in der Homogenitätsklausel für die Länder und Gemeinden."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 166
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "Art. 23 I 1 GG",
+          "Europäische Struktursicherungsklausel"
+        ],
+        [
+          "Art. 23 I 3 i.V.m. Art. 79 III GG",
+          "Nationale Struktursicherungsklausel"
+        ],
+        [
+          "Art. 146 GG",
+          "Neue Verfassung durch freie Entscheidung des Volkes"
+        ],
+        [
+          "Art. 2 EUV",
+          "Werte, an die die Union gebunden ist und deren Achtung sie von den Mitgliedstaaten einfordert"
+        ],
+        [
+          "Art. 16 I 1 EUV",
+          "Mitwirkung des Rates an der Rechtsetzung der Union"
+        ]
+      ],
+      "explanation": "Art. 23 I 1 und 3 GG bilden das materielle System wechselseitiger Verfassungsstabilisierung, Art. 2 EUV das unionsrechtliche Gegenstück; Art. 146 GG ist nach dem Lissabon-Urteil Voraussetzung für einen Beitritt zu einem europäischen Bundesstaat; Art. 16 I 1 EUV erklärt die Verschiebung zugunsten der Exekutiven.",
+      "hints": [
+        "Die „europäische“ Klausel stellt Anforderungen an die EU, die „nationale“ schützt das GG."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 170
+        },
+        {
+          "doc": "VR_1",
+          "page": 171
+        },
+        {
+          "doc": "VR_1",
+          "page": 172
+        },
+        {
+          "doc": "VR_1",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung der Ultra-vires-Kontrolle in die richtige Reihenfolge.",
+      "items": [
+        "Handlung eines Organs der Union",
+        "Handeln außerhalb der übertragenen Kompetenzen",
+        "Offensichtlichkeit des Kompetenzverstoßes (Evidenz)",
+        "Erhebliches Gewicht im Kompetenzgefüge (Erheblichkeit)",
+        "Folge: kein Anwendungsvorrang, keine Wirkung für deutsche Stellen"
+      ],
+      "explanation": "Ein Ultra-vires-Akt liegt vor, wenn ein Unionsorgan ersichtlich außerhalb seiner Kompetenzen handelt; „ersichtlich“ verlangt einen hinreichend qualifizierten Verstoß (Evidenz und Erheblichkeit, BVerfGE 126, 286 – Honeywell). Ein solcher Akt nimmt am Anwendungsvorrang nicht teil.",
+      "hints": [
+        "Erst prüfen, wer gehandelt hat, dann ob er durfte.",
+        "Evidenz und Erheblichkeit sind die beiden Qualifikationsmerkmale."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 175
+        },
+        {
+          "doc": "VR_1",
+          "page": 176
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Welche Kontrollvorbehalte gegenüber Unionsrechtsakten hat das BVerfG nach dem Skript entwickelt? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Identitätskontrolle",
+        "Ultra-vires-Kontrolle",
+        "Grundrechtskontrolle nach der Solange-Rechtsprechung",
+        "Kontrolle der politischen Zweckmäßigkeit von EU-Verordnungen"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das BVerfG hat sich mit drei Schranken eine Wächterrolle vorbehalten: Identitäts-, Ultra-vires- und Grundrechtskontrolle. Eine Zweckmäßigkeitskontrolle gibt es nicht.",
+      "hints": [
+        "Es sind drei – eine bezieht sich auf die Verfassungsidentität, eine auf Kompetenzen, eine auf Grundrechte."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 174
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach dem Lissabon-Urteil muss die EU ein „{{1}}“ bleiben; die Mitgliedstaaten sind die „{{2}}“. Ein Beitritt zu einem europäischen Bundesstaat bliebe dem Volk nach Art. {{3}} GG vorbehalten.",
+      "blanks": [
+        [
+          "Verbund souverän bleibender Staaten",
+          "Staatenverbund"
+        ],
+        [
+          "Herren der Verträge"
+        ],
+        [
+          "146"
+        ]
+      ],
+      "explanation": "Das GG ermächtigt nicht zum Eintritt in einen europäischen Bundesstaat; dies wäre nur durch eine neue Verfassung nach Art. 146 GG möglich (BVerfGE 123, 267, 347 ff.).",
+      "hints": [
+        "Wer bestimmt über die Verträge – die EU oder die Staaten?",
+        "Der letzte Artikel des GG."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 173
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Ein neuer Unionsvertrag soll der EU die Befugnis geben, sich durch eigenen Beschluss neue Zuständigkeiten zu verschaffen. Der Bundestag beschließt das Vertragsgesetz. Ist das mit dem GG vereinbar und was folgt daraus?",
+      "modelAnswer": "Maßstab ist die nationale Struktursicherungsklausel des Art. 23 I 3 i.V.m. Art. 79 III GG: Die Essentialia deutscher Staatlichkeit sind integrationsfest. Nach dem Lissabon-Urteil muss die EU ein Verbund souverän bleibender Staaten bleiben, die Mitgliedstaaten bleiben Herren der Verträge; die Übertragung einer Kompetenz-Kompetenz ist unzulässig. Der Vertrag würde der EU genau eine solche Kompetenz-Kompetenz verleihen. Das Vertragsgesetz ist daher verfassungswidrig; hält es der Prüfung durch das BVerfG nicht stand, kann es nicht in Kraft treten bzw. wird für nichtig erklärt.",
+      "rubric": [
+        "Maßstab Art. 23 I 3 i.V.m. Art. 79 III GG",
+        "Herren der Verträge / Verbund souveräner Staaten",
+        "Verbot der Übertragung der Kompetenz-Kompetenz",
+        "Folge: Vertragsgesetz verfassungswidrig, kann nicht in Kraft treten"
+      ],
+      "explanation": "Siehe Musterlösung; Prüfungsgegenstand ist hier das deutsche Vertragsgesetz, nicht ein Unionsrechtsakt.",
+      "hints": [
+        "Wer soll über die Zuständigkeiten der EU entscheiden?",
+        "Welche Folge hat ein Verstoß des Vertragsgesetzes?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 173
+        },
+        {
+          "doc": "VR_1",
+          "page": 174
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Das Republikprinzip ist in Art. 23 I 1 GG zwar nicht ausdrücklich genannt, nach dem Skript aber als Prinzip der Gemeinwohlorientierung mitgedacht.",
+      "answer": true,
+      "explanation": "Mit Rücksicht auf die Monarchien in Europa ist es nicht aufgeführt; als Gemeinwohlorientierung in einer freiheitlichen Ordnung gehört es aber zu den Strukturanforderungen.",
+      "hints": [
+        "Warum würde eine ausdrückliche Nennung in Europa Probleme machen?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 171
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein deutsches Gericht entscheidet eine Frage des Unionsrechts, ohne den EuGH zu befassen, obwohl dieser nach Unionsrecht zuständig wäre. Welche grundgesetzliche Garantie ist nach der im Skript dargestellten Rechtsprechung berührt?",
+      "options": [
+        "Art. 101 I 2 GG – der EuGH ist gesetzlicher Richter",
+        "Art. 103 II GG – Rückwirkungsverbot",
+        "Art. 28 I 3 GG – Kommunalwahlrecht",
+        "Art. 146 GG – Ablösung des Grundgesetzes"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der gesetzliche Richter wird unionsrechtlich „aufgeladen“ und um den EuGH ergänzt (BVerfGE 73, 339, 366 f.; 126, 286, 315 ff.).",
+      "hints": [
+        "Wer darf entscheiden – welches Grundrecht schützt genau das?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 166
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erklären Sie, warum das BVerfG den Anwendungsvorrang des Unionsrechts begrenzen kann, während der EuGH ihn als unbedingt ansieht.",
+      "modelAnswer": "Der EuGH leitet den Vorrang allein aus dem Primärrecht ab (Costa/ENEL). Das BVerfG begründet ihn dagegen aus dem Grundgesetz: Er ist ein „Vorrang kraft verfassungsrechtlicher Ermächtigung“; erst der Rechtsanwendungsbefehl im deutschen Zustimmungsgesetz bewirkt ihn konstitutiv. Als „abgeleitetes Institut“ reicht der Vorrang nur so weit wie die Ermächtigung in Art. 23 I GG. Deshalb kann das BVerfG Grenzen ziehen: Identitätskontrolle (Art. 23 I 3 i.V.m. Art. 79 III GG), Ultra-vires-Kontrolle und Grundrechtskontrolle.",
+      "rubric": [
+        "EuGH: Vorrang aus Primärrecht",
+        "BVerfG: Vorrang kraft verfassungsrechtlicher Ermächtigung / Zustimmungsgesetz",
+        "„abgeleitetes Institut“",
+        "Benennung der Kontrollvorbehalte"
+      ],
+      "explanation": "Der Unterschied in der Begründung ist der Schlüssel zur Konfliktlage zwischen EuGH und BVerfG.",
+      "hints": [
+        "Woher nimmt jedes Gericht den Vorrang?",
+        "Was abgeleitet ist, kann nicht weiter reichen als seine Quelle."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 165
+        },
+        {
+          "doc": "VR_1",
+          "page": 174
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welches Maß an Übereinstimmung mit dem Grundgesetz verlangt die europäische Struktursicherungsklausel nach dem Skript?",
+      "options": [
+        "Eine „strukturangepasste Grundsatzkongruenz“ (BVerfG: „strukturelle Kompatibilität“)",
+        "Vollständige Deckungsgleichheit mit dem Grundgesetz",
+        "Überhaupt keine Übereinstimmung, nur politische Zusammenarbeit",
+        "Übereinstimmung allein im Grundrechtsschutz"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die andersartige Struktur der EU und die Verfassungstraditionen der anderen Mitgliedstaaten sind zu berücksichtigen (BVerfGE 123, 267, 365; 151, 202, 289 f.).",
+      "hints": [
+        "Die EU ist kein Staat – muss sie dann genauso aufgebaut sein?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 172
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie die Entscheidung ihrer Kernaussage zu.",
+      "pairs": [
+        [
+          "Costa/ENEL (EuGH)",
+          "Vorrang des Unionsrechts allein aus dem Primärrecht"
+        ],
+        [
+          "Lissabon (BVerfGE 123, 267)",
+          "Vorrang kraft verfassungsrechtlicher Ermächtigung; GG garantiert die Staatlichkeit"
+        ],
+        [
+          "Honeywell (BVerfGE 126, 286)",
+          "Ultra-vires-Kontrolle zurückhaltend und europarechtsfreundlich"
+        ],
+        [
+          "PSPP (BVerfGE 154, 17)",
+          "EZB-Beschluss und EuGH-Urteil als Ultra-vires-Akte"
+        ],
+        [
+          "Solange II (BVerfGE 73, 339)",
+          "Keine Grundrechtsprüfung, solange der EuGH gleichwertigen Schutz gewährleistet"
+        ]
+      ],
+      "explanation": "Diese fünf Entscheidungen bilden das Gerüst des Kapitels: Vorrangbegründung, Grenzen und Kontrollvorbehalte.",
+      "hints": [
+        "Nur eine Entscheidung stammt vom EuGH.",
+        "PSPP betraf das Anleihekaufprogramm."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 165
+        },
+        {
+          "doc": "VR_1",
+          "page": 173
+        },
+        {
+          "doc": "VR_1",
+          "page": 175
+        },
+        {
+          "doc": "VR_1",
+          "page": 176
+        },
+        {
+          "doc": "VR_1",
+          "page": 177
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Unternehmen U rügt, eine EU-Verordnung verletze seine Berufsfreiheit. Nach Solange II prüft das BVerfG die Verordnung ohne Weiteres in vollem Umfang am Maßstab des Art. 12 GG.",
+      "answer": false,
+      "explanation": "Solange der EuGH einen wirksamen, dem GG im Wesentlichen entsprechenden Grundrechtsschutz gewährleistet, übt das BVerfG seine Gerichtsbarkeit über abgeleitetes Unionsrecht nicht aus. Eine Unterschreitung müsste für den Lebenssachverhalt und das Grundrecht nachgewiesen werden (Bananenmarktordnung).",
+      "hints": [
+        "„Solange“ – unter welcher Bedingung hält sich das BVerfG zurück?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 177
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Wie wirkt sich die Integration nach dem Skript auf das Sozialstaatsprinzip aus?",
+      "options": [
+        "Diskriminierungsverbote und Unionsbürgerschaft vermitteln Teilhabe an den Systemen sozialer Sicherheit zu Inländerbedingungen.",
+        "Die EU übernimmt die Sozialhilfe vollständig.",
+        "Das Sozialstaatsprinzip gilt für Unionsbürger nicht.",
+        "Sozialleistungen dürfen nur noch an Deutsche gezahlt werden."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Skript nennt dafür z.B. EuGH Rs. C-224/98 (D’Hoop) und BSGE 107, 66.",
+      "hints": [
+        "Denken Sie an das Verbot der Diskriminierung wegen der Staatsangehörigkeit."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 167
+        }
+      ]
     }
   ],
   "case": {
@@ -1114,6 +1594,56 @@
           "page": 177
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "Art. 23 Abs. 1 GG",
+      "inhalt": "Ermächtigung, Hoheitsrechte durch Gesetz auf die EU zu übertragen (Integrationsgewalt) – Grundlage des Anwendungsvorrangs."
+    },
+    {
+      "norm": "Art. 28 Abs. 1 S. 3 GG",
+      "inhalt": "Unionsbürger sind bei Kommunalwahlen wahlberechtigt und wählbar."
+    },
+    {
+      "norm": "Art. 101 Abs. 1 S. 2 GG",
+      "inhalt": "Gesetzlicher Richter – unionsrechtlich ergänzt um den EuGH."
+    },
+    {
+      "norm": "Art. 18 AEUV",
+      "inhalt": "Verbot der Diskriminierung wegen der Staatsangehörigkeit – erweitert Deutschengrundrechte auf Unionsbürger."
+    },
+    {
+      "norm": "Art. 19 Abs. 3 GG",
+      "inhalt": "Grundrechte gelten für juristische Personen – auch mit Sitz in einem anderen EU-Staat."
+    },
+    {
+      "norm": "Art. 16 Abs. 1 S. 1 EUV",
+      "inhalt": "Der Rat (Regierungsvertreter) wirkt an der Rechtsetzung der Union mit."
+    },
+    {
+      "norm": "Art. 23 Abs. 2 bis 7 GG",
+      "inhalt": "Mitwirkungsrechte von Bundestag, Bundesrat und Ländern in EU-Angelegenheiten."
+    },
+    {
+      "norm": "Art. 2 EUV",
+      "inhalt": "Werte der Union – europäisches Gegenstück zu den Struktursicherungsklauseln."
+    },
+    {
+      "norm": "Art. 23 Abs. 1 S. 1 GG",
+      "inhalt": "Europäische Struktursicherungsklausel: Mitwirkung nur an einer demokratischen, rechtsstaatlichen, sozialen, föderativen, subsidiären EU mit vergleichbarem Grundrechtsschutz."
+    },
+    {
+      "norm": "Art. 23 Abs. 1 S. 3 i.V.m. Art. 79 Abs. 3 GG",
+      "inhalt": "Nationale Struktursicherungsklausel: Die Verfassungsidentität ist integrationsfest."
+    },
+    {
+      "norm": "Art. 146 GG",
+      "inhalt": "Ein Eintritt in einen europäischen Bundesstaat bliebe dem verfassunggebenden Volk vorbehalten."
+    },
+    {
+      "norm": "Art. 100 Abs. 1 GG (analog)",
+      "inhalt": "Fachgerichte müssen Fragen der Identitätskontrolle dem BVerfG vorlegen."
     }
   ]
 }

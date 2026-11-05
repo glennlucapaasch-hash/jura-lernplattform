@@ -18,6 +18,10 @@
           "doc": "BGB_8",
           "page": 18
         }
+      ],
+      "merksatz": "Mensch ist Mensch: rechtsfähig ab vollendeter Geburt – ob Säugling oder demenzkrank, jeder gleich.",
+      "norms": [
+        "§ 1 BGB"
       ]
     },
     {
@@ -30,6 +34,12 @@
           "doc": "BGB_8",
           "page": 19
         }
+      ],
+      "merksatz": "Vor der Geburt verletzt, nach der Geburt entschädigt – wenn das Kind lebend zur Welt kommt; mit dem Tod geht alles auf die Erben über.",
+      "norms": [
+        "§ 1 BGB",
+        "§ 823 Abs. 1 BGB",
+        "§ 1922 Abs. 1 BGB"
       ]
     },
     {
@@ -46,6 +56,13 @@
           "doc": "BGB_8",
           "page": 20
         }
+      ],
+      "merksatz": "Das allgemeine Persönlichkeitsrecht schützt umfassend; § 12 schützt den Namen gegen Anmaßung und Bestreitung.",
+      "norms": [
+        "§ 12 BGB",
+        "Art. 1 Abs. 1 GG",
+        "Art. 2 Abs. 1 GG",
+        "§ 823 Abs. 1 BGB"
       ]
     },
     {
@@ -62,6 +79,13 @@
           "doc": "BGB_8",
           "page": 22
         }
+      ],
+      "merksatz": "Kein Bild ohne Einwilligung – außer Zeitgeschichte, Beiwerk, Masse oder Kunst; und selbst dann nicht aus der Intimsphäre.",
+      "norms": [
+        "§ 22 KunstUrhG",
+        "§ 23 KunstUrhG",
+        "§ 823 Abs. 1 BGB",
+        "Art. 2 Abs. 2 GG"
       ]
     },
     {
@@ -82,6 +106,15 @@
           "doc": "BGB_8",
           "page": 25
         }
+      ],
+      "merksatz": "Das Persönlichkeitsrecht ist ein Rahmenrecht: Rechtswidrig ist der Eingriff erst, wenn die Abwägung für den Betroffenen ausgeht.",
+      "norms": [
+        "§ 823 Abs. 1 BGB",
+        "Art. 1 Abs. 1 GG",
+        "Art. 2 Abs. 1 GG",
+        "Art. 5 Abs. 1 GG",
+        "Art. 5 Abs. 2 GG",
+        "Art. 82 DSGVO"
       ]
     },
     {
@@ -102,6 +135,14 @@
           "doc": "BGB_8",
           "page": 25
         }
+      ],
+      "merksatz": "Die Würde stirbt nicht mit: Angehörige können Unterlassung verlangen – Geld für die Erben gibt es aber nicht.",
+      "norms": [
+        "Art. 1 Abs. 1 GG",
+        "§ 1004 Abs. 1 BGB",
+        "§ 823 Abs. 1 BGB",
+        "§ 22 S. 3 KunstUrhG",
+        "Art. 5 Abs. 3 GG"
       ]
     },
     {
@@ -122,6 +163,13 @@
           "doc": "BGB_8",
           "page": 27
         }
+      ],
+      "merksatz": "Die juristische Person handelt durch ihre Organe und haftet mit eigenem Vermögen – ein Haftungsschirm für ihre Mitglieder.",
+      "norms": [
+        "§ 164 Abs. 1 BGB",
+        "§ 78 Abs. 1 S. 1 AktG",
+        "§ 82 Abs. 1 AktG",
+        "§ 93 Abs. 2 AktG"
       ]
     },
     {
@@ -138,6 +186,13 @@
           "doc": "BGB_8",
           "page": 28
         }
+      ],
+      "merksatz": "Auch Unternehmen haben Persönlichkeitsrecht – aber nur, soweit ihr sozialer Geltungsanspruch als Arbeitgeber oder Wirtschaftsunternehmen betroffen ist.",
+      "norms": [
+        "§ 1004 Abs. 1 BGB",
+        "§ 823 Abs. 1 BGB",
+        "Art. 2 Abs. 1 GG",
+        "Art. 5 Abs. 3 GG"
       ]
     },
     {
@@ -162,6 +217,18 @@
           "doc": "BGB_8",
           "page": 31
         }
+      ],
+      "merksatz": "Idealverein: Eintragung macht rechtsfähig; wirtschaftlicher Verein: nur Verleihung – meist führt der Weg zu AG, GmbH oder eG.",
+      "norms": [
+        "§ 21 BGB",
+        "§ 22 BGB",
+        "§ 39 BGB",
+        "§ 54 Abs. 1 S. 1 BGB",
+        "§ 54 Abs. 1 S. 2 BGB",
+        "§ 55 BGB",
+        "§ 57 Abs. 1 BGB",
+        "§ 705 BGB",
+        "Art. 9 GG"
       ]
     },
     {
@@ -178,6 +245,14 @@
           "doc": "BGB_8",
           "page": 32
         }
+      ],
+      "merksatz": "Die Stiftung ist Vermögen mit Zweck, kein Personenverband: Stiftungsgeschäft plus staatliche Genehmigung – dann Anspruch auf das Vermögen.",
+      "norms": [
+        "§ 80 BGB",
+        "§ 81 BGB",
+        "§ 82 BGB",
+        "§ 83 BGB",
+        "§ 1922 BGB"
       ]
     }
   ],
@@ -975,6 +1050,454 @@
           "page": 27
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 12 BGB schützt den Namensträger in zweierlei Hinsicht: gegen die {{1}} (ein anderer gebraucht den Namen unbefugt) und gegen die {{2}} (das Recht zum Gebrauch des eigenen Namens wird streitig gemacht). Besteht die Besorgnis weiterer Beeinträchtigungen, kann er auf {{3}} klagen.",
+      "blanks": [
+        [
+          "Namensanmaßung"
+        ],
+        [
+          "Namensbestreitung"
+        ],
+        [
+          "Unterlassung"
+        ]
+      ],
+      "explanation": "S. 20; Beispiel „Karoline Grau“ im Hotelbuch.",
+      "hints": [
+        "Ein anderer „maßt“ sich den Namen an …",
+        "… oder „bestreitet“ ihn."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Der Verein ist eine auf {{1}} begründete Personenvereinigung, die einen selbst in der Satzung festgelegten gemeinsamen Zweck verfolgt, unter einem Namen auftritt, vom {{2}} der Mitglieder unabhängig und {{3}} verfasst ist.",
+      "blanks": [
+        [
+          "Dauer"
+        ],
+        [
+          "Wechsel",
+          "Mitgliederwechsel"
+        ],
+        [
+          "körperschaftlich"
+        ]
+      ],
+      "explanation": "Definition S. 29 (vgl. § 57 Abs. 1); Unabhängigkeit vom Mitgliederwechsel auch S. 28 (§ 39).",
+      "hints": [
+        "Gegensatz zur nur vorübergehenden Verbindung.",
+        "Vorstand und Mitgliederversammlung – wie bei einer Körperschaft."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist, erlangt die Rechtsfähigkeit durch {{1}} in das Vereinsregister (§ 21 BGB). Ein wirtschaftlicher Verein erlangt sie nur durch staatliche {{2}} (§ 22 BGB).",
+      "blanks": [
+        [
+          "Eintragung"
+        ],
+        [
+          "Verleihung",
+          "Konzession"
+        ]
+      ],
+      "explanation": "S. 29–30. Verliehen wird nur subsidiär; meist müssen AG, GmbH oder eG gewählt werden.",
+      "hints": [
+        "Registergericht beim Amtsgericht.",
+        "Stichwort Konzessionszwang."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 823 Abs. 1 BGB nennt vier Lebensgüter: Leben, {{1}}, {{2}} und Freiheit. Das Grundgesetz schützt sie ausdrücklich in Art. {{3}} GG.",
+      "blanks": [
+        [
+          "Körper",
+          "Gesundheit"
+        ],
+        [
+          "Gesundheit",
+          "Körper"
+        ],
+        [
+          "2 Abs. 2"
+        ]
+      ],
+      "explanation": "S. 21–22: Aus § 823 Abs. 1 i.V.m. Art. 2 Abs. 2 GG folgt das Recht auf Nichtverletzung dieser Güter.",
+      "hints": [
+        "„Recht auf Leben und körperliche Unversehrtheit“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 21
+        },
+        {
+          "doc": "BGB_8",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Foto der Einordnung nach §§ 22, 23 KunstUrhG zu.",
+      "pairs": [
+        [
+          "Politiker A bei einer Wahlveranstaltung",
+          "Bild aus dem Bereich der Zeitgeschichte – zulässig"
+        ],
+        [
+          "Politiker A beim Austausch von Intimitäten",
+          "Berechtigtes Interesse verletzt – unzulässig"
+        ],
+        [
+          "Bild eines gesuchten Straftäters",
+          "Zeitgeschichte – zulässig"
+        ],
+        [
+          "Bild der Eltern des gesuchten Straftäters",
+          "Keine Ausnahme – Einwilligung nötig"
+        ],
+        [
+          "Teilnehmer einer Massenveranstaltung",
+          "Ausnahme Versammlung/Massenveranstaltung"
+        ]
+      ],
+      "explanation": "Beispiele und Ausnahmekatalog S. 21.",
+      "hints": [
+        "Selbst bei Zeitgeschichte ist die Intimsphäre geschützt.",
+        "Die Eltern sind keine Personen der Zeitgeschichte."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie das Organ der Aktiengesellschaft seiner Funktion zu.",
+      "pairs": [
+        [
+          "Vorstand",
+          "Handelt für die AG nach außen"
+        ],
+        [
+          "Aufsichtsrat",
+          "Kontrolliert den Vorstand"
+        ],
+        [
+          "Hauptversammlung",
+          "Willensbildung der Mitglieder"
+        ]
+      ],
+      "explanation": "S. 26: Organe dienen dem Handeln nach außen, der Willensbildung und der Kontrolle; ihr Verhalten wird der AG zugerechnet.",
+      "hints": [
+        "Wer schließt die Verträge?",
+        "Wer passt auf den Vorstand auf?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung eines Unterlassungsanspruchs wegen Verletzung des allgemeinen Persönlichkeitsrechts in eine sinnvolle Reihenfolge.",
+      "items": [
+        "Anspruchsgrundlage: § 1004 Abs. 1 S. 2 analog i.V.m. § 823 Abs. 1",
+        "Allgemeines Persönlichkeitsrecht als „sonstiges Recht“ (Art. 1 Abs. 1, 2 Abs. 1 GG)",
+        "Eingriff in den Schutzbereich (z.B. Privatsphäre, Ehre)",
+        "Rechtswidrigkeit durch Abwägung mit Gegenrechten wie Art. 5 GG (Rahmenrecht)",
+        "Besorgnis weiterer Beeinträchtigungen → Ergebnis"
+      ],
+      "explanation": "S. 22–24: Beim Rahmenrecht ist die Rechtswidrigkeit nicht indiziert, sondern durch Abwägung festzustellen.",
+      "hints": [
+        "Erst Recht und Eingriff, dann Abwägung.",
+        "Unterlassung blickt in die Zukunft."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 22
+        },
+        {
+          "doc": "BGB_8",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Drei Jahre nach dem Tod der Schauspielerin S erscheint ein Roman, der sie für Kenner erkennbar grob entstellt darstellt. Ihr Sohn und Erbe E verlangt Unterlassung und eine Geldentschädigung. Was gilt nach dem Skript?",
+      "options": [
+        "Unterlassung ja (§ 1004 Abs. 1 analog i.V.m. § 823 Abs. 1), Geldersatz nein",
+        "Beides nein, weil das Persönlichkeitsrecht mit dem Tod endet",
+        "Beides ja, weil das Persönlichkeitsrecht nach § 1922 vererbt wird",
+        "Nur Geldersatz, weil Unterlassung die Kunstfreiheit verletzen würde"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Postmortaler Persönlichkeitsschutz (Mephisto, S. 24–25): Wahrnehmungsberechtigte haben einen Unterlassungs- und Beseitigungsanspruch; Geldersatz steht den Erben nicht zu. Schwere Entstellungen deckt auch Art. 5 Abs. 3 GG nicht.",
+      "hints": [
+        "Mephisto-Entscheidung.",
+        "Was können Erben nicht verlangen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 24
+        },
+        {
+          "doc": "BGB_8",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Mehrere Händler gründen ohne staatliche Verleihung einen nicht eingetragenen Verein, dessen Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist. Nach welchen Vorschriften kann sich seine Rechtsfähigkeit ergeben?",
+      "options": [
+        "Nach den Vorschriften über die Gesellschaft (§§ 54 Abs. 1 S. 2, 705 Abs. 2 BGB)",
+        "Nach den §§ 24–53 BGB entsprechend (§ 54 Abs. 1 S. 1 BGB)",
+        "Nach § 21 BGB, weil jeder Verein eingetragen werden kann",
+        "Gar nicht – ein solcher Verein ist eine bloße Bruchteilsgemeinschaft"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 29 und 31: § 54 Abs. 1 S. 1 gilt nur für den nicht eingetragenen Idealverein; für wirtschaftliche Vereine verweist S. 2 auf das Gesellschaftsrecht.",
+      "hints": [
+        "Unterscheiden Sie Ideal- und wirtschaftlichen Verein auch bei § 54."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 29
+        },
+        {
+          "doc": "BGB_8",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der Embryo der schwangeren F wird bei einem von K verschuldeten Unfall verletzt; das Kind kommt tot zur Welt. Hat das Kind einen eigenen Schadensersatzanspruch gegen K?",
+      "options": [
+        "Nein – der Anspruch kann nur entstehen, wenn das Kind lebend geboren wird.",
+        "Ja – die Leibesfrucht ist nach § 1 rechtsfähig.",
+        "Ja – der Anspruch entsteht schon mit der Verletzung der Leibesfrucht.",
+        "Ja, aber nur auf Schmerzensgeld."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der BGH ersetzt den Gesundheitsschaden des geborenen Kindes; zugunsten des Schädigers gilt, dass ein Anspruch nur entsteht, wenn das Kind lebend zur Welt kommt (S. 19).",
+      "hints": [
+        "Wann beginnt die Rechtsfähigkeit?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Rentner R stirbt; er hatte eine Darlehensforderung gegen X. Was geschieht mit der Forderung?",
+      "options": [
+        "Sie geht mit dem Tod als Teil des Vermögens auf die Erben über (§ 1922 Abs. 1, Universalsukzession).",
+        "Sie erlischt, weil R nicht mehr rechtsfähig ist.",
+        "Sie fällt an den Staat, bis ein Erbschein erteilt ist.",
+        "Sie geht nur über, wenn R sie ausdrücklich vererbt hat."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Rechtsfähigkeit endet mit dem Tod, das Vermögen geht als Ganzes auf die Erben über (S. 19).",
+      "hints": [
+        "Gesamtrechtsnachfolge."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Woraus ergeben sich nach dem Skript die Grenzen des allgemeinen Persönlichkeitsrechts? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Aus der Gleichheit des Rechts für alle Personen",
+        "Aus einem berechtigten Informationsinteresse der Öffentlichkeit i.V.m. Art. 5 GG",
+        "Aus einem höher zu bewertenden Interesse der Rechtspflege",
+        "Aus dem wirtschaftlichen Interesse eines Verlags an höherer Auflage"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "S. 22. Das Interesse, Klatsch zugkräftig zu verbreiten, deckt die Pressefreiheit gerade nicht (Fernsehansagerin-Fall, S. 23).",
+      "hints": [
+        "Eine Option betrifft reine Geschäftsinteressen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 22
+        },
+        {
+          "doc": "BGB_8",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ein eingetragener Verein erlischt, wenn alle Gründungsmitglieder ausgetreten sind – auch wenn inzwischen neue Mitglieder eingetreten sind.",
+      "answer": false,
+      "explanation": "Der rechtsfähige Verein ist vom Wechsel der Mitglieder unabhängig (vgl. § 39); auch ein vollständiger Mitgliederwechsel ist grundsätzlich zulässig (S. 28).",
+      "hints": [
+        "Was soll der Zweck des Vereins überdauern?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erläutern Sie, ob und in welchem Umfang juristische Personen Träger des allgemeinen Persönlichkeitsrechts sein können. Nennen Sie ein Beispiel aus dem Skript.",
+      "modelAnswer": "Grundsätzlich können auch juristische Personen, z.B. eine AG, Träger des allgemeinen Persönlichkeitsrechts sein. Weil dieses Recht aus Art. 1 und 2 GG zum Schutz des Menschen abgeleitet wurde, ist die Trägerschaft aber inhaltlich begrenzt: Nach dem BGH reicht der Schutz nur so weit, wie die juristische Person ihn aus ihrem Wesen als Zweckschöpfung des Rechts und ihren Funktionen braucht – vor allem, wenn sie in ihrem sozialen Geltungsanspruch als Arbeitgeber oder Wirtschaftsunternehmen betroffen ist. Beispiel: Ein Wissenschaftler gab Kopien eines veröffentlichten Jahresabschlusses mit Namen und Anschrift des Unternehmens an Banken und Seminarteilnehmer weiter; der BGH bejahte eine Verletzung. Ebenso untersagte das OLG Hamm ein Wahlplakat, das die Gestaltungsmerkmale eines Fußballbundesligisten für Parteiwerbung ausnutzte (§§ 1004 Abs. 1, 823 Abs. 1 i.V.m. Art. 2 Abs. 1 GG).",
+      "rubric": [
+        "Grundsätzlich ja, aber begrenzt",
+        "Begründung: Herleitung aus Art. 1, 2 GG",
+        "BGH-Formel: soweit Wesen und Funktion es erfordern",
+        "Sozialer Geltungsanspruch als Arbeitgeber/Wirtschaftsunternehmen",
+        "Beispiel Jahresabschluss-Seminar oder Wahlplakat (OLG Hamm)"
+      ],
+      "explanation": "S. 27–28.",
+      "hints": [
+        "Kann ein Unternehmen eine Intimsphäre haben?",
+        "Worauf stellt der BGH ab?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 27
+        },
+        {
+          "doc": "BGB_8",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Die Partei P wirbt im Kommunalwahlkampf mit Plakaten, die einen Kandidaten auf einem Querbalken in den unverwechselbaren Vereinsfarben des Fußballbundesligisten F zeigen, verbunden mit einem Slogan über dessen Stadion. F will die Plakate verbieten lassen. Mit Erfolg? Prüfen Sie kurz nach dem Skript.",
+      "modelAnswer": "F könnte einen Unterlassungsanspruch aus §§ 1004 Abs. 1, 823 Abs. 1 i.V.m. Art. 2 Abs. 1 GG haben. Geschütztes Recht könnte das Unternehmenspersönlichkeitsrecht sein. Juristische Personen sind Träger des allgemeinen Persönlichkeitsrechts, soweit sie in ihrem sozialen Geltungsanspruch als Arbeitgeber oder Wirtschaftsunternehmen betroffen sind. Die Außendarstellung eines Bundesligisten prägt sein Ansehen bei Fans, Werbekunden und Sponsoren. P verwendet eindeutig mit F identifizierte Gestaltungsmerkmale für eigene Zwecke; es entsteht der Eindruck, F unterstütze den Wahlkampf oder distanziere sich nicht – es droht eine politische Vereinnahmung. Das beeinträchtigt den sozialen Geltungsanspruch des F; ein überwiegendes Interesse der P ist nicht ersichtlich. Da P weiter plakatieren will, besteht die Besorgnis weiterer Beeinträchtigung. Ergebnis: F kann Unterlassung verlangen (so OLG Hamm).",
+      "rubric": [
+        "Anspruchsgrundlage §§ 1004 Abs. 1, 823 Abs. 1 i.V.m. Art. 2 Abs. 1 GG",
+        "Juristische Person als Träger des Persönlichkeitsrechts (begrenzt)",
+        "Sozialer Geltungsanspruch als Wirtschaftsunternehmen",
+        "Eingriff: Vereinnahmung, Imageschaden bei Fans/Sponsoren",
+        "Abwägung und Ergebnis"
+      ],
+      "explanation": "Nachgebildet dem vom Skript zitierten Fall des OLG Hamm (S. 27–28).",
+      "hints": [
+        "Kann ein Unternehmen ein Persönlichkeitsrecht haben?",
+        "Welche Gefahr sah das OLG Hamm?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 27
+        },
+        {
+          "doc": "BGB_8",
+          "page": 28
+        }
+      ]
     }
   ],
   "case": {
@@ -1216,6 +1739,64 @@
           "page": 32
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 1 BGB",
+      "inhalt": "Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der Geburt."
+    },
+    {
+      "norm": "§ 823 Abs. 1 BGB",
+      "inhalt": "Schadensersatz bei Verletzung von Leben, Körper, Gesundheit, Freiheit und „sonstigen Rechten“ wie dem allgemeinen Persönlichkeitsrecht."
+    },
+    {
+      "norm": "§ 1922 Abs. 1 BGB",
+      "inhalt": "Mit dem Tod geht das Vermögen als Ganzes auf die Erben über (Universalsukzession)."
+    },
+    {
+      "norm": "§ 12 BGB",
+      "inhalt": "Namensschutz gegen Namensanmaßung und Namensbestreitung: Beseitigung und Unterlassung."
+    },
+    {
+      "norm": "§ 22 KunstUrhG",
+      "inhalt": "Bilder einer Person dürfen nur mit ihrer Einwilligung verbreitet oder öffentlich gezeigt werden."
+    },
+    {
+      "norm": "§ 23 KunstUrhG",
+      "inhalt": "Ausnahmen: Zeitgeschichte, Beiwerk, Versammlungen, Kunst – aber nicht gegen berechtigte Interessen."
+    },
+    {
+      "norm": "§ 1004 Abs. 1 BGB",
+      "inhalt": "Analog angewandt: Beseitigungs- und Unterlassungsanspruch bei Persönlichkeitsverletzungen."
+    },
+    {
+      "norm": "§ 21 BGB",
+      "inhalt": "Idealverein wird durch Eintragung ins Vereinsregister rechtsfähig."
+    },
+    {
+      "norm": "§ 22 BGB",
+      "inhalt": "Wirtschaftlicher Verein wird nur durch staatliche Verleihung rechtsfähig (Konzessionszwang)."
+    },
+    {
+      "norm": "§ 54 Abs. 1 BGB",
+      "inhalt": "Nicht eingetragener Idealverein: Vereinsrecht entsprechend (S. 1); wirtschaftlicher: Gesellschaftsrecht (S. 2)."
+    },
+    {
+      "norm": "§ 57 Abs. 1 BGB",
+      "inhalt": "Die Satzung muss Zweck, Namen und Sitz des Vereins enthalten."
+    },
+    {
+      "norm": "§ 80 BGB",
+      "inhalt": "Die rechtsfähige Stiftung entsteht durch Stiftungsgeschäft und staatlichen Akt."
+    },
+    {
+      "norm": "§ 81 BGB",
+      "inhalt": "Stiftungsgeschäft unter Lebenden: Schriftform; bis zur Genehmigung widerruflich."
+    },
+    {
+      "norm": "§ 82 BGB",
+      "inhalt": "Die entstandene Stiftung hat einen Anspruch auf das zugesicherte Vermögen."
     }
   ]
 }

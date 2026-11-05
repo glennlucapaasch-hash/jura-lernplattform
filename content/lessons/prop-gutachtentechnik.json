@@ -26,7 +26,9 @@
           "doc": "PROP_1",
           "page": 83
         }
-      ]
+      ],
+      "merksatz": "Das Gutachten fragt „Ob?“ und prüft unter Voraussetzungen – wie ein Berichterstatter vor seinem Kollegialgericht.",
+      "norms": []
     },
     {
       "id": "s2",
@@ -50,6 +52,13 @@
           "doc": "PROP_1",
           "page": 86
         }
+      ],
+      "merksatz": "Gutachten sucht, Urteil verkündet: Im Gutachten steht das Ergebnis am Ende, im Urteil am Anfang.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 142 Abs. 1 BGB",
+        "§ 604 Abs. 1 BGB",
+        "§ 303 Abs. 1 StGB"
       ]
     },
     {
@@ -86,6 +95,10 @@
           "doc": "PROP_1",
           "page": 93
         }
+      ],
+      "merksatz": "Erst die Bedingung, dann die Antwort – wer unter Voraussetzungen denkt, übersieht nichts.",
+      "norms": [
+        "§ 303 Abs. 1 StGB"
       ]
     },
     {
@@ -118,6 +131,11 @@
           "doc": "PROP_1",
           "page": 98
         }
+      ],
+      "merksatz": "Obersatz = Rechtsfrage + Hypothese + Norm, im Konjunktiv: „V könnte … aus § 433 Abs. 2 BGB haben.“",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 223 Abs. 1 StGB"
       ]
     },
     {
@@ -154,6 +172,19 @@
           "doc": "PROP_1",
           "page": 105
         }
+      ],
+      "merksatz": "Wer will was von wem woraus? Im Strafrecht: Täter, Tathandlung („indem“), Delikt, Norm.",
+      "norms": [
+        "§ 535 Abs. 2 BGB",
+        "§ 303 Abs. 1 StGB",
+        "§ 604 Abs. 1 BGB",
+        "§ 433 Abs. 1 S. 1 BGB",
+        "§ 433 Abs. 2 BGB",
+        "Art. 20 Abs. 3 GG",
+        "Art. 97 Abs. 1 GG",
+        "Art. 103 Abs. 2 GG",
+        "§§ 437 Nr. 2, 323 Abs. 1 BGB",
+        "§§ 212 Abs. 1, 22, 23 Abs. 1, 13 Abs. 1 StGB"
       ]
     },
     {
@@ -206,6 +237,17 @@
           "doc": "PROP_1",
           "page": 115
         }
+      ],
+      "merksatz": "Die Voraussetzungen sind das Prüfprogramm – genannt, bestimmt und definiert wird stets im Indikativ.",
+      "norms": [
+        "§ 303 Abs. 1 StGB",
+        "§ 239 Abs. 1 Var. 1 StGB",
+        "§ 433 Abs. 1 S. 1 BGB",
+        "§ 263 StGB",
+        "Art. 103 Abs. 2 GG",
+        "§ 243 BGB",
+        "§ 224 StGB",
+        "§ 370 Abs. 3 S. 2 AO"
       ]
     },
     {
@@ -266,6 +308,17 @@
           "doc": "PROP_1",
           "page": 128
         }
+      ],
+      "merksatz": "Legaldefinitionen wörtlich, Standarddefinitionen exakt – und einen Meinungsstreit nur entscheiden, wenn die Ergebnisse auseinanderfallen.",
+      "norms": [
+        "§§ 604 Abs. 1, 598 BGB",
+        "§ 276 Abs. 2 BGB",
+        "§ 3 Abs. 2 Nr. 2 TPG",
+        "§ 90 BGB",
+        "§ 211 StGB",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 243 BGB"
       ]
     },
     {
@@ -302,6 +355,12 @@
           "doc": "PROP_1",
           "page": 134
         }
+      ],
+      "merksatz": "Kurz, neutral, treffend: Den Sachverhalt den Merkmalen zuordnen – nicht abschreiben und nicht nur Begriffe wiederholen.",
+      "norms": [
+        "§ 242 StGB",
+        "§ 133 BGB",
+        "§ 157 BGB"
       ]
     },
     {
@@ -326,6 +385,24 @@
           "doc": "PROP_1",
           "page": 138
         }
+      ],
+      "merksatz": "Das Ergebnis spiegelt den Obersatz – eindeutig, ohne „dürfte“ und ohne „meines Erachtens“.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 105 BGB",
+        "§ 117 BGB",
+        "§ 118 BGB",
+        "§ 125 BGB",
+        "§ 134 BGB",
+        "§ 138 BGB",
+        "§ 362 Abs. 1 BGB",
+        "§ 389 BGB",
+        "§ 275 Abs. 1 BGB",
+        "§ 142 Abs. 1 BGB",
+        "§ 346 BGB",
+        "§ 214 Abs. 1 BGB",
+        "§ 320 Abs. 1 BGB",
+        "§ 273 Abs. 1 BGB"
       ]
     },
     {
@@ -354,6 +431,12 @@
           "doc": "PROP_1",
           "page": 142
         }
+      ],
+      "merksatz": "Jede Frage wird ein Obersatz – Unproblematisches knapp, Streitiges ausführlich.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 303 Abs. 1 StGB",
+        "§ 211 Abs. 2 StGB"
       ]
     }
   ],
@@ -1385,6 +1468,437 @@
           "page": 140
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Im Zivilrecht hilft die Formel der fünf W, den ersten Obersatz zu bilden: „Wer will {{1}} von {{2}} {{3}}?“",
+      "blanks": [
+        [
+          "was"
+        ],
+        [
+          "wem"
+        ],
+        [
+          "woraus"
+        ]
+      ],
+      "explanation": "Beispiel: C (wer) begehrt von E (von wem) die Rückgabe des Cabrios (was) aus § 604 Abs. 1 BGB (woraus).",
+      "hints": [
+        "Das letzte W fragt nach der Anspruchsgrundlage.",
+        "Wer – was – wem – woraus."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 99
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Der Obersatz steht traditionell im {{1}} („könnte … haben“). Nennung, Bestimmung, Definition und Interpretation der Voraussetzung erfolgen dagegen immer im {{2}}.",
+      "blanks": [
+        [
+          "Konjunktiv II",
+          "Irrealis",
+          "Konjunktiv"
+        ],
+        [
+          "Indikativ",
+          "Indikativ Präsens"
+        ]
+      ],
+      "explanation": "Die Hypothese ist ein Gedankenspiel (Irrealis: könnte, hätte, müsste); sobald es um die allgemein gültige Rechtslage geht – Definition, Auslegung, Subsumtion –, wechselt man in den Indikativ.",
+      "hints": [
+        "„könnte“ ist keine Wirklichkeitsform.",
+        "Eine Definition gilt allgemein – also Wirklichkeitsform."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 96
+        },
+        {
+          "doc": "PROP_1",
+          "page": 97
+        },
+        {
+          "doc": "PROP_1",
+          "page": 114
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wegnahme ist der Bruch {{1}} und die Begründung {{2}}, nicht notwendig tätereigenen Gewahrsams.",
+      "blanks": [
+        [
+          "fremden"
+        ],
+        [
+          "neuen"
+        ]
+      ],
+      "explanation": "Wird ein Obersatz durch eine Definition gestützt, liest man das Definiens wie einen Tatbestand und prüft seine Elemente in der richtigen Reihenfolge (erst Bruch, dann Neubegründung).",
+      "hints": [
+        "Alter Gewahrsam gehört einem anderen.",
+        "Danach entsteht ein …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 109
+        },
+        {
+          "doc": "PROP_1",
+          "page": 131
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Elemente des ersten Obersatzes dem Lederjacken-Beispiel zu.",
+      "pairs": [
+        [
+          "Rechtsfrage",
+          "Kann V von K Zahlung von 80 EUR verlangen?"
+        ],
+        [
+          "Ergebnishypothese",
+          "V könnte gegen K einen Anspruch auf Zahlung von 80 EUR haben"
+        ],
+        [
+          "Rechtsnorm",
+          "… aus § 433 Abs. 2 BGB"
+        ]
+      ],
+      "explanation": "Die Rechtsfrage wird zur Hypothese umformuliert und mit dem ersten Rechtsgrund verbunden: „V könnte gegen K einen Anspruch auf Zahlung von 80 EUR aus § 433 Abs. 2 BGB haben.“",
+      "hints": [
+        "Frage – Annahme – Grundlage."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 95
+        },
+        {
+          "doc": "PROP_1",
+          "page": 96
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie dem Begründungsstil sein Kennzeichen zu.",
+      "pairs": [
+        [
+          "Intuitiv begründen",
+          "Gründe werden angehäuft, wie sie einem in den Sinn kommen"
+        ],
+        [
+          "Urteilsstil",
+          "Entscheidung → Grund → Grund → Grund; nur die tragfähigen Gründe werden gezeigt"
+        ],
+        [
+          "Konditionaler Gutachtenstil",
+          "Statt direkt zu antworten, nennt man die Bedingungen der Antwort und bleibt ergebnisoffen"
+        ]
+      ],
+      "explanation": "Intuitiv argumentiert man unter Freunden oder in Foren; der Urteilsstil ist formstreng, zeigt den Begründungstest aber nur im Ergebnis; der Gutachtenstil prüft unter Voraussetzungen.",
+      "hints": [
+        "Welcher Stil beginnt mit der Entscheidung?",
+        "Welcher Stil ist „formlos“?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 87
+        },
+        {
+          "doc": "PROP_1",
+          "page": 88
+        },
+        {
+          "doc": "PROP_1",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Arbeitsphasen des Gutachtens (Such- und Prüfmodus) in die richtige Reihenfolge.",
+      "items": [
+        "Suchauftrag mithilfe des Sachverhalts klären",
+        "Ein mögliches Ergebnis erwägen",
+        "Rechtsgrundlagen sichten, die es stützen könnten",
+        "Jeden Rechtsgrund für sich prüfen",
+        "Ergebnis feststellen"
+      ],
+      "explanation": "Das Gutachten dokumentiert einen Suchprozess: erst klären, was gesucht ist, dann Hypothese, dann Gründe sichten und einzeln prüfen, zuletzt das Ergebnis.",
+      "hints": [
+        "Alltagsbeispiel: länger schlafen – Feiertag? – Kalender – Ergebnis.",
+        "Das Ergebnis kommt immer zuletzt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die drei Stationen des zivilrechtlichen Anspruchsaufbaus in die richtige Reihenfolge.",
+      "items": [
+        "Anspruch entstanden? (rechtshindernde Einwendungen)",
+        "Anspruch untergegangen? (rechtsvernichtende Einwendungen)",
+        "Anspruch durchsetzbar? (rechtshemmende Einreden)"
+      ],
+      "explanation": "Entstehen – Untergehen – Durchsetzen. Beispiele: § 138 BGB hindert die Entstehung, Erfüllung (§ 362 Abs. 1 BGB) lässt den Anspruch untergehen, Verjährung (§ 214 Abs. 1 BGB) hemmt die Durchsetzung.",
+      "hints": [
+        "Ein Anspruch muss erst entstehen, bevor er untergehen kann."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 137
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Bringen Sie den Aufbau eines Meinungsstreits im Gutachten in die richtige Reihenfolge.",
+      "items": [
+        "Zwischenobersatz zum streitigen Begriffsinhalt („Problematisch ist, was unter … zu verstehen ist.“)",
+        "1. Meinung: Definition, Begründung, Subsumtion",
+        "2. Meinung: Definition, Begründung, Subsumtion",
+        "Streitentscheid durch Stellungnahme – nur bei unterschiedlichen Ergebnissen",
+        "Ergebnis"
+      ],
+      "explanation": "Jede Meinung wird mit Definition, Begründung und Subsumtion („Folgt man dieser Auffassung …“) dargestellt; entschieden wird nur, wenn die Ansichten im Fall zu verschiedenen Ergebnissen führen.",
+      "hints": [
+        "Erst der Streitstand, dann die Stellungnahme.",
+        "Ohne Ergebnisunterschied keine Entscheidung nötig."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 120
+        },
+        {
+          "doc": "PROP_1",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A hat X das Auto weggenommen. Welcher Obersatz entspricht den Vorgaben des Studienbriefs?",
+      "options": [
+        "„A könnte sich wegen Diebstahls strafbar gemacht haben, indem er X das Auto wegnahm.“",
+        "„A könnte ein Dieb sein, da er X das Auto wegnahm.“",
+        "„Wie sich aus dem Sachverhalt ergibt, hat A X das Auto weggenommen; er könnte daher ein Dieb sein.“",
+        "„A ist wegen Diebstahls strafbar, weil er X das Auto wegnahm.“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Tathandlung hat im Obersatz keine Begründungsfunktion („da“ ist Urteilsstil) – sie wird mit „indem“ angeschlossen. Geprüft wird die Tat, nicht der Täter; keine Garnierung mit Sachverhaltsausflügen; das Ergebnis darf nicht vorweggenommen werden.",
+      "hints": [
+        "„indem“ statt „da“.",
+        "Tat statt Täter."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 102
+        },
+        {
+          "doc": "PROP_1",
+          "page": 103
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Sie haben den Kaufpreisanspruch bejaht, ahnen aber, dass er verjährt sein könnte. Wie formulieren Sie richtig?",
+      "options": [
+        "„V hat gegen K einen Anspruch auf Zahlung des Kaufpreises.“ – dann neuer Obersatz: „Dieser Anspruch könnte jedoch verjährt sein.“",
+        "„V hat gegen K einen Anspruch auf Zahlung des Kaufpreises, soweit dieser nicht verjährt ist.“",
+        "„V dürfte gegen K einen Anspruch haben; die Verjährung bleibt offen.“",
+        "„Meines Erachtens hat V einen Anspruch, sofern keine Verjährung eingetreten ist.“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Auch ein vorläufiges Ergebnis wird unter seinem Obersatz ohne Einschränkung festgestellt; für die Einschränkung setzt man mit einem neuen Obersatz an. „dürfte“ und „meines Erachtens“ sind tabu.",
+      "hints": [
+        "Ergebnisse sind eindeutig.",
+        "Jede neue Frage = neuer Obersatz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Nach einer selbst erarbeiteten Stellungnahme im Meinungsstreit darf das Ergebnis mit „meines Erachtens“ formuliert werden.",
+      "answer": false,
+      "explanation": "Falsch. Das Ergebnis ist als sachliche Feststellung einer objektiven Gegebenheit zu formulieren – ohne „ich denke“, „meines Erachtens“ oder „meiner Meinung nach“, auch nach einer eigenen Stellungnahme.",
+      "hints": [
+        "Objektiver Ton."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 138
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Führen die vertretenen Meinungen im konkreten Fall zum gleichen Ergebnis, ist keine Streitentscheidung erforderlich.",
+      "answer": true,
+      "explanation": "Richtig. Eine eigene Stellungnahme ist nur geboten, wenn sich die Ansichten in ihren Auswirkungen auf den Fall unterscheiden.",
+      "hints": [
+        "Wozu entscheiden, wenn alle Wege zum selben Ziel führen?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Fehler bei der Wiedergabe des Sachverhalts in der Subsumtion nennt der Studienbrief (Tabelle 17)? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Wörtliche Übernahme des Sachverhalts",
+        "Zu viel, etwa die Pizzabestellung im Restaurant",
+        "Zu wenig, etwa wenn der Kaufpreis fehlt",
+        "Kurze, sachlich-neutrale, auf die Merkmale zugeschnittene Wiedergabe"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das Sachverhaltselement muss treffend gewählt und ohne Veränderung auf die Rechtsaussage hin formuliert werden. Weitere Fehler: vom Sachverhalt abgelöste Formulierungen und Obersatz/Einleitung in der Subsumtion.",
+      "hints": [
+        "Nur den wesentlichen Ausschnitt wählen.",
+        "Option D beschreibt das Ideal."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 132
+        },
+        {
+          "doc": "PROP_1",
+          "page": 133
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Nachdem K Kaufinteresse bekundet hat, fragt V ihn, ob er seine Goldmünze Krügerrand 1 Unze für 950 EUR haben wolle. Prüfen Sie im Gutachtenstil, ob V ein Angebot abgegeben hat (weiterer Obersatz – Definition – Subsumtion – Ergebnis).",
+      "modelAnswer": "Obersatz: V könnte ein Angebot abgegeben haben. Definition: Ein Angebot ist eine auf einen Vertragsschluss gerichtete empfangsbedürftige Willenserklärung; es enthält die essentialia negotii (Vertragspartner, Leistung, Gegenleistung); indiziell ist, dass man es mit einem einfachen „Ja“ annehmen kann. Subsumtion: V hat K, nachdem dieser Kaufinteresse bekundete, gefragt, ob er die Münze für 950 EUR haben wolle. Der Äußerung waren die Vertragspartner, die Leistung (Verkauf der Goldmünze) und die Gegenleistung (950 EUR) zu entnehmen; sie konnte mit einem einfachen „Ja“ angenommen werden. Ergebnis: Somit hat V ein vollständiges Angebot abgegeben.",
+      "rubric": [
+        "Obersatz ohne Normnennung im Konjunktiv",
+        "Definition mit essentialia negotii",
+        "Sachverhalt kurz und neutral wiedergegeben",
+        "Zuordnung: Partner, Leistung, Gegenleistung",
+        "Ergebnis als Spiegel des Obersatzes"
+      ],
+      "hints": [
+        "Tabelle 16.",
+        "Was sind die essentialia negotii eines Kaufs?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 129
+        },
+        {
+          "doc": "PROP_1",
+          "page": 130
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Erklären Sie mit Tabelle 14 den Unterschied zwischen Definition und Auslegung (Gegenstand, Grund, Ziel, Quelle).",
+      "modelAnswer": "Definition: Gegenstand sind alle Begriffe; Grund ist, dass der Begriff zu abstrakt ist; Ziel ist das Konkretisieren; Quelle der Sinngebung ist das Rechtssystem. Auslegung: Gegenstand sind Rechtsnorm, Vertrag oder Willenserklärung; Grund ist, dass der Text unverständlich (dunkel, mehrdeutig) ist; Ziel ist das Verstehen; Quelle ist der rechtsnormative Text selbst und der darin ausgedrückte Wille seines Urhebers. Auslegung ist geboten, wenn der Begriff Element einer Norm, eines Vertrags oder einer Willenserklärung ist und seine Bedeutung dunkel erscheint.",
+      "rubric": [
+        "Gegenstand: alle Begriffe vs. Norm/Vertrag/WE",
+        "Grund: zu abstrakt vs. unverständlich",
+        "Ziel: konkretisieren vs. verstehen",
+        "Quelle: Rechtssystem vs. Text"
+      ],
+      "hints": [
+        "Vier Zeilen der Tabelle.",
+        "Stückschuld kann man nur definieren, Gattungsschuld (§ 243 BGB) auch auslegen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 126
+        },
+        {
+          "doc": "PROP_1",
+          "page": 127
+        }
+      ]
     }
   ],
   "case": {
@@ -1658,6 +2172,68 @@
           "page": 137
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 433 Abs. 2 BGB",
+      "inhalt": "Käufer muss den Kaufpreis zahlen – Standard-Anspruchsgrundlage im ersten Obersatz."
+    },
+    {
+      "norm": "§ 604 Abs. 1 BGB",
+      "inhalt": "Rückgabeanspruch aus Leihe (Cabrio-Beispiel)."
+    },
+    {
+      "norm": "§ 303 Abs. 1 StGB",
+      "inhalt": "Sachbeschädigung – Orchideen-Fall: fremde Sache beschädigt oder zerstört."
+    },
+    {
+      "norm": "§ 433 Abs. 1 S. 1 BGB",
+      "inhalt": "Verkäufer muss die Sache übergeben und übereignen (Krügerrand-Beispiel)."
+    },
+    {
+      "norm": "Art. 20 Abs. 3, 97 Abs. 1 GG",
+      "inhalt": "Bindung an das Gesetz – deshalb nennt der Obersatz eine Norm."
+    },
+    {
+      "norm": "Art. 103 Abs. 2 GG",
+      "inhalt": "Keine Strafe ohne Gesetz (nulla poena sine lege), kein rückwirkendes Strafgesetz."
+    },
+    {
+      "norm": "§ 263 StGB",
+      "inhalt": "Betrug – ungeschriebenes Merkmal „Vermögensverfügung“ verbindet Irrtum und Schaden."
+    },
+    {
+      "norm": "§ 243 BGB",
+      "inhalt": "Gattungsschuld – Auswahl aus einer Mehrzahl gleichartiger Stücke."
+    },
+    {
+      "norm": "§ 276 Abs. 2 BGB",
+      "inhalt": "Legaldefinition Fahrlässigkeit – im Gutachten wörtlich wiedergeben."
+    },
+    {
+      "norm": "§ 90 BGB",
+      "inhalt": "Sachen sind nur körperliche Gegenstände."
+    },
+    {
+      "norm": "§§ 133, 157 BGB",
+      "inhalt": "Auslegung von Willenserklärungen und Verträgen: wirklicher Wille, Treu und Glauben, Verkehrssitte."
+    },
+    {
+      "norm": "§ 242 StGB",
+      "inhalt": "Diebstahl – Wegnahme einer fremden beweglichen Sache (Ort der Subsumtion: Gewahrsam)."
+    },
+    {
+      "norm": "§ 362 Abs. 1 BGB",
+      "inhalt": "Erfüllung – rechtsvernichtende Einwendung („Anspruch untergegangen?“)."
+    },
+    {
+      "norm": "§ 214 Abs. 1 BGB",
+      "inhalt": "Verjährung – peremptorische Einrede („Anspruch durchsetzbar?“)."
+    },
+    {
+      "norm": "§ 211 Abs. 2 StGB",
+      "inhalt": "Mordmerkmale, z. B. Heimtücke beim schlafenden Opfer – Schwerpunkt der Prüfung."
     }
   ]
 }

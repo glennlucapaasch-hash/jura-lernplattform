@@ -18,7 +18,9 @@
           "doc": "PROP_1",
           "page": 155
         }
-      ]
+      ],
+      "merksatz": "Frage, Voraussetzung, Definition, Fall, Antwort – fünf Schritte sind das Ideal; gekürzt wird oft, erweitert immer.",
+      "norms": []
     },
     {
       "id": "s2",
@@ -38,6 +40,10 @@
           "doc": "PROP_1",
           "page": 157
         }
+      ],
+      "merksatz": "Einer für alle: Nur der Flaschenhals wird geprüft – und dann heißt es „alle übrigen Voraussetzungen sind erfüllt“.",
+      "norms": [
+        "§ 306 Abs. 1 Nr. 2 StGB"
       ]
     },
     {
@@ -66,6 +72,16 @@
           "doc": "PROP_1",
           "page": 161
         }
+      ],
+      "merksatz": "Was du nicht hinschreibst, musst du trotzdem denken: Ungenannte Voraussetzungen bleiben der rote Faden.",
+      "norms": [
+        "§ 306 Abs. 1 Nr. 4 StGB",
+        "§ 130 Abs. 1 BGB",
+        "§ 146 BGB",
+        "§ 306 Abs. 1 Nr. 1 StGB",
+        "§ 186 StGB",
+        "§ 187 StGB",
+        "§ 185 StGB"
       ]
     },
     {
@@ -90,6 +106,12 @@
           "doc": "PROP_1",
           "page": 164
         }
+      ],
+      "merksatz": "Wer 1. sagt, muss auch 2. sagen – und jede Voraussetzung kann Obersatz der nächsten sein.",
+      "norms": [
+        "§ 130 Abs. 1 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§§ 145 ff. BGB"
       ]
     },
     {
@@ -142,6 +164,13 @@
           "doc": "PROP_1",
           "page": 174
         }
+      ],
+      "merksatz": "Selbstverständliches knapp, Problematisches breit – auch bei Tatsachen; Erklärungen liest man mit den Augen des objektiven Empfängers.",
+      "norms": [
+        "§ 90 BGB",
+        "§ 90a S. 3 BGB",
+        "§ 303 Abs. 1 StGB",
+        "§§ 133, 157 BGB"
       ]
     },
     {
@@ -170,6 +199,16 @@
           "doc": "PROP_1",
           "page": 178
         }
+      ],
+      "merksatz": "Was klar ist, wird nicht problematisiert; erst wo Einigkeit schwindet, kommen Definitionen, Zitate und Meinungen.",
+      "norms": [
+        "§ 303 Abs. 1 StGB",
+        "§ 433 Abs. 1 S. 1 BGB",
+        "Art. 8 GG",
+        "Art. 2 Abs. 1 GG",
+        "Art. 1 Abs. 1 GG",
+        "Art. 5 Abs. 2 GG",
+        "Art. 8 Abs. 2 GG"
       ]
     },
     {
@@ -190,7 +229,9 @@
           "doc": "PROP_1",
           "page": 180
         }
-      ]
+      ],
+      "merksatz": "Löse den Fall, nicht die Welt: Ein Streit wird entschieden – außer alle Meinungen landen beim selben Ergebnis.",
+      "norms": []
     },
     {
       "id": "s8",
@@ -242,6 +283,16 @@
           "doc": "PROP_1",
           "page": 191
         }
+      ],
+      "merksatz": "Einleitung, Meinungen mit Begründung, Subsumtion je Meinung, dann Stellungnahme – das stärkste Argument kommt zum Schluss.",
+      "norms": [
+        "Art. 8 Abs. 1 GG",
+        "Art. 5 Abs. 1 GG",
+        "§ 15 Abs. 1 VersG",
+        "Art. 139 GG",
+        "Art. 18 GG",
+        "Art. 9 Abs. 2 GG",
+        "Art. 21 Abs. 2 GG"
       ]
     },
     {
@@ -262,6 +313,10 @@
           "doc": "PROP_1",
           "page": 193
         }
+      ],
+      "merksatz": "Sachlich statt spitz: Gefällt dir dein Text zu sehr, bist du meist schon auf Abwegen.",
+      "norms": [
+        "§ 118 BGB"
       ]
     }
   ],
@@ -1198,6 +1253,433 @@
           "page": 190
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Bei der Insbesondere-Prüfung steht ein Merkmal {{1}} (pars pro toto) für alle; es muss gewissermaßen der {{2}} der Prüfung sein. In der Ausbildung ergänzt man stets: „Da alle {{3}} Voraussetzungen erfüllt sind …“.",
+      "blanks": [
+        [
+          "pars pro toto",
+          "stellvertretend",
+          "für alle anderen"
+        ],
+        [
+          "Flaschenhals"
+        ],
+        [
+          "übrigen",
+          "anderen"
+        ]
+      ],
+      "explanation": "Ein einziges, deutlich kritischstes Merkmal wird herausgegriffen; die Beteuerung, dass alle übrigen Voraussetzungen erfüllt sind, gehört während der Ausbildung immer dazu – samt Kontrollüberlegung (S. 158).",
+      "hints": [
+        "Lateinisch: der Teil für das Ganze.",
+        "Die engste Stelle einer Flasche."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 157
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "A verheizt das Modellflugzeug des F. Sie prüfen § 306 Abs. 1 Nr. 4 StGB (In-Brand-Setzen eines Luftfahrzeugs). Welches Ergebnis entspricht dem Beispiel des Studienbriefs?",
+      "options": [
+        "Keine Strafbarkeit, weil ein Modellflugzeug kein zum Personentransport im Luftraum vorgesehenes Verkehrsmittel ist",
+        "Strafbarkeit, weil das Modellflugzeug fliegen kann",
+        "Strafbarkeit, weil es sich um eine fremde Sache handelt",
+        "Die Frage bleibt offen, weil ein Meinungsstreit nicht entschieden werden muss"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Luftfahrzeuge sind zum Personentransport im Luftraum vorgesehene Verkehrsmittel und Gerätschaften; das Modellflugzeug ist keins. Die Voraussetzung steckt hier bereits im Obersatz (Klammerzusatz) (S. 159).",
+      "hints": [
+        "Achten Sie auf die Definition „Luftfahrzeug“.",
+        "Wer soll befördert werden?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 158
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Auch wenn ein Gutachten Voraussetzungen, Tatbestandsmerkmale oder Kriterien nicht ausdrücklich nennt, müssen sie immer mitgedacht werden.",
+      "answer": true,
+      "explanation": "Sonst verliert man den roten Faden, weil man nicht weiß, warum man was wo prüft (S. 161).",
+      "hints": [
+        "Denkt man nur, was man schreibt?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 160
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Glieder der Voraussetzungskette für den Kaufpreisanspruch vom Obersatz bis zur tiefsten Voraussetzung in die richtige Reihenfolge.",
+      "items": [
+        "Anspruch des V gegen K auf Kaufpreiszahlung aus § 433 Abs. 2 BGB",
+        "Wirksamer Kaufvertrag zwischen V und K",
+        "Zwei übereinstimmende Willenserklärungen – Angebot und Annahme, §§ 145 ff. BGB",
+        "Wirksamkeit des Angebots: Abgabe durch V und Zugang bei K, § 130 Abs. 1 BGB"
+      ],
+      "explanation": "Jede Voraussetzung ist zugleich Obersatz der nächsten Bedingung (Doppelfunktion) – so entsteht neben der horizontalen die vertikale Prüfebene (S. 163–165).",
+      "hints": [
+        "Vom Anspruch zum Vertrag zu den Erklärungen.",
+        "Abgabe und Zugang betreffen eine einzelne Erklärung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 162
+        },
+        {
+          "doc": "PROP_1",
+          "page": 163
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die im Studienbrief verwendete Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 90 BGB",
+          "Sachen sind nur körperliche Gegenstände"
+        ],
+        [
+          "§ 90a S. 3 BGB",
+          "Auf Tiere sind die Sachvorschriften entsprechend anzuwenden"
+        ],
+        [
+          "§§ 133, 157 BGB",
+          "Auslegung aus Sicht eines objektiven Empfängers"
+        ],
+        [
+          "§ 130 Abs. 1 BGB",
+          "Wirksamwerden der Erklärung mit Zugang"
+        ],
+        [
+          "§ 118 BGB",
+          "Nichtigkeit der nicht ernstlich gemeinten Erklärung"
+        ]
+      ],
+      "explanation": "Diese Normen dienen im Abschnitt E als Beispiele: Sache (S. 167), Pudel (S. 166), Auslegung (S. 171), Zugang (S. 159, 163), Willenstheorie (S. 193).",
+      "hints": [
+        "§ 90a betrifft Tiere.",
+        "§ 118: „Mangel der Ernstlichkeit“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 165
+        },
+        {
+          "doc": "PROP_1",
+          "page": 166
+        },
+        {
+          "doc": "PROP_1",
+          "page": 170
+        },
+        {
+          "doc": "PROP_1",
+          "page": 192
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "A hat ein landwirtschaftlich genutztes Feld verwüstet. Sie prüfen § 303 Abs. 1 StGB; problematisch ist allein, ob das Feld eine „Sache“ ist. Skizzieren Sie, wie Sie die Tatsachenfrage nach dem Studienbrief mit Rechtssätzen lösen.",
+      "modelAnswer": "Obersatz: A müsste eine Sache zerstört haben. Definition: Sache ist ein körperlicher Gegenstand i. S. d. § 90 BGB. Sachverhalt: Angriffsobjekt ist ein Feld. Obersatz´: Es müsste ein körperlicher Gegenstand sein. Voraussetzung´: Körperlichkeit setzt Beherrschbarkeit voraus. Voraussetzung´´: Beherrschbar ist, was sinnlich wahrnehmbar und im Raum abgegrenzt oder abgrenzbar ist und bei natürlicher Betrachtung als Einheit erscheint. Voraussetzung´´´: Was abgegrenzt ist, entscheidet in erster Linie die Verkehrsauffassung, nicht die Physik. Subsumtion: Nach der Verkehrsauffassung ist ein Feld eine abgegrenzte, als Einheit wahrnehmbare Fläche. Ergebnis´: körperlicher Gegenstand; Ergebnis: A hat eine Sache zerstört.",
+      "rubric": [
+        "Definition Sache über § 90 BGB",
+        "Eigener tatsachenhaltiger Obersatz´",
+        "Beherrschbarkeit als Voraussetzung der Körperlichkeit",
+        "Abgrenzbarkeit nach Verkehrsauffassung",
+        "Subsumtion und Ergebnis auf beiden Ebenen"
+      ],
+      "explanation": "Wiegt das Tatsachenproblem schwer, wird der tatsachenhaltige Obersatz´ mit rechtlichen Voraussetzungen spezifiziert (S. 170 f.).",
+      "hints": [
+        "Was macht einen Gegenstand „körperlich“?",
+        "Wer entscheidet über die Abgrenzung – Physik oder Verkehr?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 169
+        },
+        {
+          "doc": "PROP_1",
+          "page": 170
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welcher Meinungsstreit beansprucht nach dem Studienbrief in der Regel am meisten Raum?",
+      "options": [
+        "Eine aktuelle Debatte zu einem klassischen Problem",
+        "Ein Streit, den der Gesetzgeber inzwischen entschärft hat",
+        "Ein ausgefochtener Streit von nur noch historischer Bedeutung",
+        "Ein Streit, zu dem man die meisten Fußnoten findet"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Eine aktuelle Debatte verdient mehr Raum als ein Streit, der entschieden, ausgefochten oder vom Gesetzgeber entschärft ist; dafür braucht man Überblick über klassische Probleme und neuere Leitentscheidungen (S. 178).",
+      "hints": [
+        "Brisanz und Relevanz."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 177
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Bezeichnungen für Meinungsgruppierungen sollen Sie im Anfängergutachten nach dem Studienbrief meiden? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "„Ansatz“",
+        "„Tendenz“",
+        "„Konzept“",
+        "„Auffassung“"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "„Ansatz“, „Tendenz“ und „Konzept“ sind moderne, im Vordringen befindliche Bezeichnungen, die Anfänger meiden sollen; „Meinung“, „Auffassung“, „Ansicht“ sind die üblichen Begriffe bei offener Meinungsmäßigkeit (S. 179).",
+      "hints": [
+        "Drei moderne Modewörter.",
+        "Eines der vier Wörter ist ganz klassisch."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 178
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach der {{1}} ist das Erklärungsbewusstsein unverzichtbar (Erst-recht-Schluss aus § 118 BGB). Nach der {{2}} genügt ein {{3}} Erklärungsbewusstsein; maßgeblich ist, wie ein objektiver Dritter das Verhalten verstehen durfte.",
+      "blanks": [
+        [
+          "Willenstheorie"
+        ],
+        [
+          "Erklärungstheorie"
+        ],
+        [
+          "potentielles",
+          "potenzielles"
+        ]
+      ],
+      "explanation": "Die Willenstheorie schützt den Erklärenden, die Erklärungstheorie den vertrauenden Empfänger; das Skript folgt mit dem Vertrauensschutz der Erklärungstheorie (S. 193 f.).",
+      "hints": [
+        "Wille vs. Erklärung.",
+        "Es genügt, dass er es hätte erkennen können."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 192
+        },
+        {
+          "doc": "PROP_1",
+          "page": 193
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie das im Studienbrief beschriebene Repertoire zur Unterstützung der favorisierten Meinung in der Stellungnahme in die richtige Reihenfolge.",
+      "items": [
+        "Argumente darstellen, die für die nicht favorisierte Meinung streiten",
+        "Diese Gründe widerlegen",
+        "Argumente für die favorisierte Meinung folgen lassen"
+      ],
+      "explanation": "So arbeitet auch das kurze Standardschema („Wenn auch einzuwenden ist … spricht doch für M2 …“); als Faustregel gehört das stärkste Argument an den Schluss (S. 188 f.).",
+      "hints": [
+        "Erst die Gegenseite, dann deren Widerlegung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 187
+        },
+        {
+          "doc": "PROP_1",
+          "page": 188
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Weil das Ergebnis eines Meinungsstreits „grundsätzlich offen“ ist, kann nach dem Studienbrief alles vertreten werden, was gut begründet ist.",
+      "answer": false,
+      "explanation": "„Grundsätzlich offen“ heißt weder „alles ist möglich“ noch „alles Begründete ist vertretbar“; nach solider Auseinandersetzung mit der Fachwelt ist der Spielraum für eine eigene überzeugende Position klein (S. 190).",
+      "hints": [
+        "Der Wettbewerb der Argumente ist begrenzt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 189
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "In Ihrer Hausarbeit wird M1 von deutlich mehr Fachautoritäten vertreten als M2. Überschriften wie „Herrschende Meinung“ sollen Sie vermeiden. Wie machen Sie das Gewicht von M1 nach dem Studienbrief sichtbar?",
+      "options": [
+        "Quantitativ durch den größeren Umfang der Belege in den Fußnoten",
+        "Durch den Zusatz „ganz h. M.“ in der Überschrift",
+        "Indem Sie M2 als „kaum vertretbare Außenseitermeinung“ bezeichnen",
+        "Gar nicht – die Zahl der Vertreter spielt keine Rolle"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "In Hausarbeiten wird jede Darstellung mit Fundstellen belegt; eine herrschende Meinung macht man durch den Umfang der Belege sichtbar (S. 184).",
+      "hints": [
+        "Fundstellen zählen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 183
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Formulieren Sie für den Fall des „DV“ (Versammlungsverbot gegen rechtsextreme Vereinigung) eine kurze Einleitung zum Meinungsstreit und nennen Sie zwei inhaltsbezogene Überschriften für die Meinungen.",
+      "modelAnswer": "Einleitung: „Fraglich ist, ob sich die DV für ihre Kundgebung auf den Schutz des Art. 8 GG berufen kann. Die Frage nach den Grenzen des grundrechtlichen Versammlungsschutzes bei rechtsextremistischen Versammlungen wird unterschiedlich beantwortet.“ Überschriften: „Beschränkung rechtsextremistischer Versammlungen“ (M1) und „Schutz rechtsextremistischer Versammlungen“ (M2).",
+      "rubric": [
+        "Überleitungssatz mit rechtlichem Bezugspunkt (Grenze der Versammlungsfreiheit, Art. 8 GG)",
+        "Fallbezug (Versammlung von Rechtsextremisten)",
+        "Keine historische oder politische Grundsatzanalyse, nur wenige Sätze",
+        "Inhaltsbezogene statt wertender Überschriften (nicht „h. M./M. M.“)"
+      ],
+      "explanation": "Die Einleitung umreißt knapp das Rechtsproblem und den Fall; Meinungen erhalten möglichst inhaltsbezogene Überschriften (S. 183).",
+      "hints": [
+        "Wenige, klare Sätze.",
+        "Überschrift nach dem Inhalt, nicht nach der Anerkennung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 182
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wie werden Pro- und Contra-Argumente in Klausuren nach dem Studienbrief meist dargestellt?",
+      "options": [
+        "Meinungsbezogen zu Bündeln zusammengefasst – Hauptsache, die Argumentation bleibt transparent",
+        "Stets nach dem Langschema, jedes Argument einzeln mit Gegenargument",
+        "Getrennt nach Rechtsprechung und Literatur",
+        "Ohne Bezug zu den Meinungen, alphabetisch geordnet"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Langschema wägt jedes Argument einzeln ab (eher Hausarbeit); in Klausuren bündelt man meinungsbezogen. Eine Norm gibt es nicht – der Leser muss nur stets wissen, worüber gerade pro oder contra argumentiert wird (S. 187).",
+      "hints": [
+        "Klausur = Zeitdruck."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 186
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "„Wegen des spezialgesetzlichen Verhältnisses zu dem hier bereits nicht einschlägigen § 185 StGB kommt weder eine Strafbarkeit nach § 186 StGB noch nach § 187 StGB in Betracht.“ Welche Kürzungsform des Studienbriefs ist das?",
+      "options": [
+        "Nur Ergebnis – die extremste Kürzung",
+        "Insbesondere-Prüfung",
+        "Voraussetzung in Gestalt einer Definition",
+        "Vollständiger Fünfschritt im Urteilsstil"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Tabelle 29 „Nur Ergebnis“: Bei gänzlich unzweifelhaften Fragen genügt notfalls die bloße Feststellung des Ergebnisses mit knapper Begründung (S. 162).",
+      "hints": [
+        "Wie viele der fünf Schritte erscheinen noch?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 161
+        }
+      ]
     }
   ],
   "case": {
@@ -1462,6 +1944,60 @@
           "page": 193
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 306 Abs. 1 StGB",
+      "inhalt": "Brandstiftung: In-Brand-Setzen oder Zerstören bestimmter fremder Tatobjekte (Gebäude, Betriebsstätten, Luftfahrzeuge u. a.) – Beispiel für Kürzungstechniken."
+    },
+    {
+      "norm": "§ 130 Abs. 1 BGB",
+      "inhalt": "Eine Erklärung unter Abwesenden wird mit Zugang beim Empfänger wirksam – Beispiel für Voraussetzung als Definition."
+    },
+    {
+      "norm": "§ 146 BGB",
+      "inhalt": "Der Antrag erlischt, wenn er abgelehnt oder nicht rechtzeitig angenommen wird – im Skript beim Prüfpunkt „Annahme“ zitiert."
+    },
+    {
+      "norm": "§ 186 StGB",
+      "inhalt": "Üble Nachrede: Behaupten oder Verbreiten ehrenrühriger Tatsachen – Beispiel für die stark gekürzte Prüfung."
+    },
+    {
+      "norm": "§§ 145 ff. BGB",
+      "inhalt": "Vertragsschluss durch Angebot (Antrag) und Annahme – Glied der Voraussetzungskette."
+    },
+    {
+      "norm": "§ 433 Abs. 2 BGB",
+      "inhalt": "Der Käufer muss den Kaufpreis zahlen – Anspruchsgrundlage im Gliederungsbeispiel."
+    },
+    {
+      "norm": "§ 90 BGB",
+      "inhalt": "Sachen sind nur körperliche Gegenstände."
+    },
+    {
+      "norm": "§ 90a S. 3 BGB",
+      "inhalt": "Auf Tiere sind die Vorschriften über Sachen entsprechend anzuwenden (Pudel-Beispiel)."
+    },
+    {
+      "norm": "§ 303 Abs. 1 StGB",
+      "inhalt": "Sachbeschädigung: Wer eine fremde Sache beschädigt oder zerstört, macht sich strafbar."
+    },
+    {
+      "norm": "§§ 133, 157 BGB",
+      "inhalt": "Auslegung von Willenserklärungen und Verträgen – maßgeblich ist, wie ein objektiver Empfänger sie verstehen durfte."
+    },
+    {
+      "norm": "Art. 8 GG",
+      "inhalt": "Versammlungsfreiheit – Gegenstand des Meinungsstreits im DV-Beispiel."
+    },
+    {
+      "norm": "§ 15 Abs. 1 VersG",
+      "inhalt": "Versammlungen können bei unmittelbarer Gefährdung der öffentlichen Sicherheit oder Ordnung verboten oder beschränkt werden."
+    },
+    {
+      "norm": "§ 118 BGB",
+      "inhalt": "Eine nicht ernstlich gemeinte Willenserklärung ist nichtig – Grundlage des Erst-recht-Schlusses der Willenstheorie."
     }
   ]
 }

@@ -2,7 +2,9 @@
   "id": "bgb-ke6-anfechtung",
   "moduleId": "55101",
   "ke": 6,
-  "topicIds": ["bgb-ke6-s14"],
+  "topicIds": [
+    "bgb-ke6-s14"
+  ],
   "title": "Die Anfechtbarkeit von Willenserklärungen und die Störung der Geschäftsgrundlage",
   "estMinutes": 200,
   "sections": [
@@ -11,83 +13,445 @@
       "title": "Überblick: Anfechtung als Gestaltungsrecht",
       "short": "Die Anfechtung erlaubt es, ein wirksam zustande gekommenes Rechtsgeschäft nachträglich einseitig zu vernichten. Nach § 142 Abs. 1 gilt es dann als von Anfang an nichtig (ex tunc); Dauerschuldverhältnisse werden nur ex nunc beseitigt. Die Anfechtung ist ein Gestaltungsrecht, das durch eine einseitige, empfangsbedürftige, unwiderrufliche und bedingungsfeindliche Willenserklärung ausgeübt wird.",
       "long": "## Wozu Anfechtung? (S. 6)\n\nEin wirksam geschlossenes Rechtsgeschäft kann durch **Aufhebungsvertrag** beseitigt werden oder seine **Nichtigkeit** kann herbeigeführt werden. Die **Anfechtung** ist die Möglichkeit, das Geschäft **einseitig** und **nachträglich** zu vernichten.\n\n## Wirkung: § 142 Abs. 1 (S. 6)\n\n- Grundfall: Das angefochtene Rechtsgeschäft ist „als von Anfang an nichtig anzusehen“ – es wird **rückwirkend (ex tunc)** so behandelt, als sei es nie wirksam gewesen.\n- **Dauerschuldverhältnisse** (Miet-, Dienst-, Arbeitsverträge) werden nach dem Skript nur **ex nunc**, also ab der Anfechtung, nichtig, um Rückabwicklungsschwierigkeiten zu vermeiden.\n\n## Gestaltungsrecht (S. 6–7)\n\nDie Anfechtung ist ein **Gestaltungsrecht**: Durch ihre Ausübung wird unmittelbar auf ein bestehendes Rechtsverhältnis eingewirkt (regelmäßig: es wird beendet).\n\nWichtig: **Nicht schon der Anfechtungsgrund** macht das Geschäft nichtig. Der Berechtigte muss **anfechten** – er kann frei wählen, ob er das anfechtbare Geschäft bestehen lässt oder vernichtet.\n\n## Die Anfechtungserklärung (S. 7)\n\n- selbst eine **Willenserklärung** (Rechtsfolgewille: rückwirkende Vernichtung),\n- **einseitig** und **empfangsbedürftig** – wirksam mit Zugang beim Anfechtungsgegner (vgl. § 130),\n- wegen ihres Gestaltungscharakters **unwiderruflich** und **bedingungsfeindlich**.\n\n**Ausnahme:** Die **hilfsweise** Anfechtung (z.B. für den Fall, dass der Haupteinwand – etwa die Nacherfüllung – keinen Erfolg hat) ist als bloße **Rechtsbedingung**, auf die der Anfechtende keinen Einfluss hat, zulässig.",
-      "src": [{ "doc": "BGB_6", "page": 6 }, { "doc": "BGB_6", "page": 7 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 6
+        },
+        {
+          "doc": "BGB_6",
+          "page": 7
+        }
+      ],
+      "merksatz": "Anfechtbar heißt noch nicht nichtig: Erst die Erklärung vernichtet das Geschäft – dann aber rückwirkend.",
+      "norms": [
+        "§ 142 Abs. 1 BGB",
+        "§ 130 BGB"
+      ]
     },
     {
       "id": "s2",
       "title": "Irrtum: Grundlagen, Erklärungs- und Übermittlungsirrtum",
       "short": "Irrtum ist das unbewusste Auseinanderfallen von subjektivem Willen und objektiver Erklärung. Zur Wahrung von „pacta sunt servanda“ lässt das BGB nur die Irrtümer der §§ 119, 120 (und die Fälle des § 123) als Anfechtungsgründe zu; wer nach §§ 119, 120 anficht, haftet nach § 122. Es gilt: Auslegung vor Anfechtung. Beim Erklärungsirrtum (Versprechen, Verschreiben) weicht schon der äußere Erklärungsakt vom Gewollten ab; der Übermittlungsirrtum (§ 120) ist sein Unterfall, wenn ein Bote falsch übermittelt.",
       "long": "## Der Interessenkonflikt (S. 7–8)\n\n**Def.:** Irrtum ist das **unbewusste Auseinanderfallen** von (subjektivem) **Willen** und (objektiver) **Erklärung**.\n\nDie Privatautonomie spricht für die Beachtlichkeit von Irrtümern; die **Verbindlichkeit von Verträgen** („pacta sunt servanda“) und die Verlässlichkeit des arbeitsteiligen Leistungsaustauschs sprechen dagegen. Wäre jeder Irrtum beachtlich, könnte jeder das Risiko enttäuschter Erwartungen auf den Partner abwälzen.\n\n**Beispiel Gipseier (S. 8):** Einzelhändler E bestellt bei F 10.000 schwarz-rot-goldene Gipseier, weil er auf gewinnbringenden Weiterverkauf hofft. Die Eier sind unverkäuflich. Eine Anfechtung muss hier ausgeschlossen sein – es handelt sich um eine bloße enttäuschte Erwartung.\n\n**Lösung des BGB (S. 8):** Nur die in **§§ 119, 120 und 123 Abs. 1** genannten Gründe berechtigen zur Anfechtung. Wer nach §§ 119, 120 anficht, schuldet dem schuldlos Vertrauenden **Schadensersatz (§ 122 Abs. 1)**; wer wegen Täuschung oder Drohung anficht, haftet nicht.\n\n**Grundsatz (S. 8): Auslegung geht vor Anfechtung!** Ob Wille und Erklärung auseinanderfallen, ergibt erst die Auslegung.\n\n## Systematik (S. 8–9)\n\n- **Erklärungsirrtum**, § 119 Abs. 1 Var. 2 („eine Erklärung dieses Inhalts überhaupt nicht abgeben wollte“) – Unterfall: **Übermittlungsirrtum**, § 120\n- **Inhaltsirrtum**, § 119 Abs. 1 Var. 1 („über deren Inhalt im Irrtum war“)\n- **Eigenschaftsirrtum**, § 119 Abs. 2\n\nDie Abgrenzung Erklärungs-/Inhaltsirrtum ist wegen gleicher Rechtsfolgen nicht zwingend, im Gutachten aber vorzunehmen (S. 9).\n\n## Erklärungsirrtum (S. 9)\n\nDer Erklärende gibt die Erklärung in einer Weise ab, in der er sie nicht abgeben wollte: Der **äußere Erklärungstatbestand** weicht vom Gewollten ab – typischerweise **Versprechen oder Verschreiben**. Zusätzlich muss anzunehmen sein, dass er die Erklärung **bei Kenntnis der Sachlage und verständiger Würdigung** nicht abgegeben hätte. Bei fünfmaligem „Verklicken“ auf einer Internetseite liegt nach dem Skript wohl kein Erklärungsirrtum mehr vor.\n\n**Beispiel (S. 9):** Winzerin B will Wein für 11 € pro Flasche anbieten, schreibt aber 10 €; Z nimmt an. Der Vertrag ist zunächst wirksam zustande gekommen. B kann ihr Angebot aber wegen Erklärungsirrtums anfechten; ficht sie fristgerecht (§ 121 Abs. 1) gegenüber Z an, ist ihr Angebot – und damit der ganze Vertrag – nach § 142 Abs. 1 rückwirkend vernichtet.\n\n## Übermittlungsirrtum, § 120 (S. 10)\n\nNicht der Erklärende selbst, sondern die zur Übermittlung eingesetzte **Person (Bote!)** oder Anstalt gibt die Erklärung falsch wieder.\n\n**Beispiel (S. 10):** F schickt ihren Freund E los, das Surfboard „Big wave pro“ für 500 € zu kaufen. E kauft gedankenverloren das Riverboard „Eisfluss“ für 450 €. E hatte keinen eigenen Entscheidungsspielraum, war also **Bote**; die Erklärung der F ist nach **§ 120** anfechtbar.",
-      "src": [{ "doc": "BGB_6", "page": 7 }, { "doc": "BGB_6", "page": 8 }, { "doc": "BGB_6", "page": 9 }, { "doc": "BGB_6", "page": 10 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 7
+        },
+        {
+          "doc": "BGB_6",
+          "page": 8
+        },
+        {
+          "doc": "BGB_6",
+          "page": 9
+        },
+        {
+          "doc": "BGB_6",
+          "page": 10
+        }
+      ],
+      "merksatz": "Erst auslegen, dann anfechten: Verschrieben, versprochen oder vom Boten verdreht – das berechtigt zur Anfechtung.",
+      "norms": [
+        "§ 119 Abs. 1 BGB",
+        "§ 120 BGB",
+        "§ 123 Abs. 1 BGB",
+        "§ 122 Abs. 1 BGB",
+        "§ 121 Abs. 1 BGB",
+        "§ 142 Abs. 1 BGB"
+      ]
     },
     {
       "id": "s3",
       "title": "Inhaltsirrtum: Bedeutungs-, Identitäts- und Rechtsfolgenirrtum",
       "short": "Beim Inhaltsirrtum (§ 119 Abs. 1 Var. 1) ist der Erklärungsakt gewollt, der Erklärende misst ihm aber eine andere Bedeutung bei, als er objektiv hat. Dazu gehört der Identitätsirrtum über die Person (error in persona) oder den Gegenstand (error in objecto). Ein Rechtsfolgenirrtum ist Inhaltsirrtum, wenn die Rechtsfolge selbst Inhalt der Erklärung ist – nicht aber, wenn ungewollte Nebenfolgen kraft Gesetzes eintreten.",
       "long": "## Begriff (S. 10)\n\nDer **äußere Tatbestand** der Erklärung entspricht dem Willen, die Erklärung hat aber **inhaltlich eine andere Bedeutung**, als der Erklärende ihr beimessen wollte. Anders als beim Erklärungsirrtum ist der Erklärungsakt selbst gewollt.\n\n**Beispiel „halver Hahn“ (S. 10):** Der Berliner A bestellt in einer Kölner Gaststätte einen „halven Hahn“ und erwartet ein halbes Hähnchen. Nach dem maßgeblichen Kölner Empfängerhorizont hat er ein Käsebrötchen bestellt. A kann wegen **Inhaltsirrtums** anfechten.\n\n## Identitätsirrtum (S. 10–11)\n\n- **Abgrenzung zu § 119 Abs. 2:** Beim Eigenschaftsirrtum ist die Person **richtig identifiziert**, ihr werden nur irrig Eigenschaften zugeschrieben. Beim Identitätsirrtum ist schon die **Identifizierung fehlgeschlagen**.\n- **error in persona:** Der Erklärende meint, eine andere Person bezeichnet zu haben.\n- **error in objecto:** Die Erklärung bezieht sich auf einen anderen Gegenstand als gewollt.\n\n**Beispiel Josef Schmitz (S. 11):** V will ein Gemälde für 12.500 € an den ihm empfohlenen Josef Schmitz verkaufen. Es erscheint ein anderer Mann gleichen Namens; V hält ihn für den Empfohlenen und schließt mit ihm. V war über die Identität seines Partners im Irrtum und kann nach **§ 119 Abs. 1** anfechten.\n\n## Rechtsfolgenirrtum (S. 11–12)\n\nEin Rechtsirrtum ist Inhaltsirrtum, wenn die eingetretene Rechtsfolge **zum Inhalt der Erklärung gehört** und eine von der gewollten **wesentlich verschiedene** Rechtswirkung eintritt (RGZ 89, 29, 33).\n\n- **Beispiel Hypothek (S. 11):** Der Eigentümer glaubt, sein Grundstück sei schon mit einer ersten Hypothek belastet, und will eine zweite bestellen. Die Hypothek wird an erster Stelle eingetragen → **Inhaltsirrtum**.\n- **Gegenbeispiel § 566 (S. 12):** K kauft ein an M vermietetes Haus, um selbst einzuziehen, und übersieht, dass er nach § 566 Abs. 1 in den Mietvertrag eintritt. Diese Folge tritt **kraft Gesetzes** ein, ist nicht Inhalt seiner Erklärung → **kein Inhaltsirrtum** (unbeachtliche Nebenfolge).",
-      "src": [{ "doc": "BGB_6", "page": 10 }, { "doc": "BGB_6", "page": 11 }, { "doc": "BGB_6", "page": 12 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 10
+        },
+        {
+          "doc": "BGB_6",
+          "page": 11
+        },
+        {
+          "doc": "BGB_6",
+          "page": 12
+        }
+      ],
+      "merksatz": "Richtiges Wort, falsche Bedeutung: Inhaltsirrtum. Gesetzliche Nebenfolgen, die man übersehen hat, zählen nicht.",
+      "norms": [
+        "§ 119 Abs. 1 BGB",
+        "§ 119 Abs. 2 BGB",
+        "§ 566 Abs. 1 BGB"
+      ]
     },
     {
       "id": "s4",
       "title": "Kalkulationsirrtum und Erheblichkeit des Irrtums",
       "short": "Ein Kalkulationsirrtum liegt vor, wenn sich der Erklärende bei der Berechnung irrt oder einen falschen Berechnungsfaktor zugrunde legt. Er berechtigt nie zur Anfechtung: Der verdeckte Kalkulationsirrtum ist ein unbeachtlicher Motivirrtum; beim offenen Kalkulationsirrtum sind Auslegung, Perplexität und § 313 zu prüfen. Jede Anfechtung nach § 119 Abs. 1 setzt zudem die subjektive und objektive Erheblichkeit des Irrtums voraus.",
       "long": "## Begriff (S. 12)\n\n**Def.:** Fälle, in denen der Erklärende sich bei der **Berechnung der Summe irrt** oder irrtümlich einen **falschen Berechnungsfaktor** zugrunde legt.\n\n## Interner (verdeckter) Kalkulationsirrtum (S. 12)\n\nDie Berechnungsgrundlage wird nicht mitgeteilt (V errechnet einen falschen Gesamtpreis und nennt nur diesen). Der Irrtum liegt im Bereich der **Willensbildung** → unbeachtlicher **Motivirrtum**, kein Anfechtungsrecht – auch wenn der Empfänger ihn hätte erkennen können.\n\n- Hat der Annehmende den Fehler **erkannt**, erkennt die Rechtsprechung den Einwand der **unzulässigen Rechtsausübung (§ 242)** an.\n- Daneben kann wegen Verletzung einer Aufklärungspflicht aus **c.i.c. (§§ 280 I, 241 II, 311 II, 249 II)** Rückabwicklung verlangt werden.\n\n## Externer (offener) Kalkulationsirrtum (S. 12–14)\n\nDie Berechnung oder ihre Grundlage wird dem Gegner **mitgeteilt** oder ist ihm bekannt. Prüfungsschritte nach dem Skript:\n\n1. **Auslegung (§§ 133, 157):** Einigung auf feste Stückpreise und Addition, nur Rechenfehler bei der Endsumme → richtige Summe gilt („falsa demonstratio non nocet“).\n2. **Perplexität:** Berechnungsgrundlage und Endergebnis sollen gleich gelten, widersprechen sich aber („zehn Richterroben à 400 €, also insgesamt 5.350 €“) → Erklärung **nichtig**; das Skript verweist auf § 155 (versteckter Dissens). Keine Anfechtung.\n3. **Gemeinsamer Irrtum** bei Einigung nur über die Endsumme (Gärtner W berechnet 4.500 €, die Positionen ergeben 5.000 €) → keine Auslegung, aber ggf. **Anpassung nach § 313**.\n\n**Rechtsprechung des RG (S. 13):** „erweiterter Inhaltsirrtum“ (Rubelfall, Silberfall). Kritik: Bei Abgabe stimmen Wille und Erklärung **überein**; die mitgeteilte Kalkulation wird nicht schon dadurch Erklärungsinhalt. Der **BGH (BGHZ 139, 177)** lehnt die Anfechtung analog § 119 Abs. 1 ab – selbst wenn der Empfänger den Irrtum erkannt oder die Kenntnisnahme treuwidrig vereitelt hat; ggf. Hinweispflichten aus c.i.c. oder § 242 (S. 14).\n\n> **Merke (S. 14):** Der Kalkulationsirrtum berechtigt **nie** zur Anfechtung.\n\n## Erheblichkeit des Irrtums (S. 14)\n\nAuch beim Inhaltsirrtum kann nur angefochten werden, wenn der Erklärende die Erklärung „bei Kenntnis der Sachlage und bei verständiger Würdigung des Falles nicht abgegeben haben würde“ (§ 119 Abs. 1): **subjektive und objektive Erheblichkeit**.",
-      "src": [{ "doc": "BGB_6", "page": 12 }, { "doc": "BGB_6", "page": 13 }, { "doc": "BGB_6", "page": 14 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 12
+        },
+        {
+          "doc": "BGB_6",
+          "page": 13
+        },
+        {
+          "doc": "BGB_6",
+          "page": 14
+        }
+      ],
+      "merksatz": "Verrechnet ist nicht verirrt: Der Kalkulationsirrtum berechtigt nie zur Anfechtung – helfen können Auslegung, § 242 oder § 313.",
+      "norms": [
+        "§ 119 Abs. 1 BGB",
+        "§ 242 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 241 Abs. 2 BGB",
+        "§ 311 Abs. 2 BGB",
+        "§§ 133, 157 BGB",
+        "§ 155 BGB",
+        "§ 313 BGB"
+      ]
     },
     {
       "id": "s5",
       "title": "Eigenschaftsirrtum (§ 119 Abs. 2) und Vorrang des Gewährleistungsrechts",
       "short": "§ 119 Abs. 2 stellt den Irrtum über verkehrswesentliche Eigenschaften einer Person oder Sache einem Inhaltsirrtum gleich – einer der wenigen beachtlichen Motivirrtümer. Eigenschaften sind tatsächliche oder rechtliche Verhältnisse, die wegen ihrer Beschaffenheit und Dauer Wert oder Brauchbarkeit beeinflussen (z.B. Echtheit eines Kunstwerks), nicht aber der Preis. Nach Gefahrübergang verdrängen die §§ 437 ff. die Käuferanfechtung nach § 119 Abs. 2.",
       "long": "## Motivirrtum mit Ausnahme (S. 14–15)\n\nDer Eigenschaftsirrtum betrifft nicht den Erklärungsvorgang, sondern die **Willensbildung** – es ist ein **Motivirrtum**. Motivirrtümer sind grundsätzlich unbeachtlich; § 119 Abs. 2 stellt den Irrtum über **verkehrswesentliche** Eigenschaften im Wege einer **Fiktion** dem Inhaltsirrtum gleich. Auch hier ist **Kausalität** nötig („bei Kenntnis der Sachlage und verständiger Würdigung“).\n\n**Def. (S. 14):** Eigenschaften sind tatsächliche oder rechtliche Verhältnisse, die im Rechtsgeschäft als wesentlich zum Ausdruck gebracht worden sind, d.h. Merkmale einer Person oder Sache, die infolge ihrer **Beschaffenheit und Dauer** auf **Brauchbarkeit und Wert** Einfluss haben.\n\n## Eigenschaften einer Person (S. 15)\n\n- dauerhafter **Gesundheitszustand** (z.B. Grad der Behinderung), v.a. bei Dienstverträgen – **nicht** die Schwangerschaft (nur vorübergehend),\n- **berufsrechtliche Qualifikation** (z.B. Eintragung in die Handwerksrolle),\n- **Vertrauenswürdigkeit** bei Verträgen mit engen persönlichen Beziehungen,\n- **Zahlungs- und Kreditwürdigkeit** jedenfalls bei Kreditgeschäften (relevant: Irrtum des Kreditgebers über den Bürgen; ausgeschlossen: Irrtum des Bürgen über den Hauptschuldner).\n\nDie Eigenschaft muss erkennbar dem Vertrag zugrunde gelegt worden sein.\n\n## Eigenschaften einer Sache (S. 15–16)\n\n- **Ja:** Bebaubarkeit/gewerbliche Nutzbarkeit eines Grundstücks, **Echtheit eines Kunstwerks**, **Alter** eines Gebrauchtwagens.\n- **Nein:** das **Eigentum** an der Sache (streitig), der **Preis/Wert** (nur ein Werturteil, anders die wertbildenden Faktoren).\n- § 119 Abs. 2 gilt auch für unkörperliche Gegenstände, insbesondere Rechte.\n- Verkehrswesentlich sind Eigenschaften, auf die der Verkehr bei Geschäften der jeweiligen Art entscheidenden Wert legt.\n\n## Verhältnis zur Gewährleistung (S. 16–17)\n\nÜberwiegend gelten die §§ 437 ff. (ebenso §§ 536 ff., 633 ff.) als **leges speciales**: Der Käufer soll die kurze Verjährung (§ 438) und das Nacherfüllungsrecht des Verkäufers (§§ 437 Nr. 1, 439) nicht durch Anfechtung unterlaufen. Viele Stimmen schließen die Käuferanfechtung auch **vor** Gefahrübergang aus (Gedanke des § 442 I 2).\n\n**Beispiel Rembrandt (S. 17):** K kauft ein angebliches Rembrandt-Bild, das sich nach Übergabe als wertlose Fälschung erweist. Zwei Jahre nach Übergabe wären die Ansprüche aus § 437 Nr. 1–3 nach § 438 Abs. 1 Nr. 3 verjährt; die Frist des § 121 liefe zwar erst ab Kenntnis, doch die §§ 437 ff. verdrängen § 119 Abs. 2 → keine Anfechtung.\n\n**Verkäufer (S. 17):** Ihm stehen keine Gewährleistungsrechte zu, also keine Konkurrenz. Er darf aber nicht anfechten, um sich seiner **Gewährleistungspflicht zu entziehen** (Rechtsmissbrauch). Irrt er über die Urheberschaft eines Bildes und setzt den Preis zu niedrig an, kann er nach § 119 Abs. 2 anfechten.",
-      "src": [{ "doc": "BGB_6", "page": 14 }, { "doc": "BGB_6", "page": 15 }, { "doc": "BGB_6", "page": 16 }, { "doc": "BGB_6", "page": 17 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 14
+        },
+        {
+          "doc": "BGB_6",
+          "page": 15
+        },
+        {
+          "doc": "BGB_6",
+          "page": 16
+        },
+        {
+          "doc": "BGB_6",
+          "page": 17
+        }
+      ],
+      "merksatz": "Verkehrswesentliche Eigenschaft verkannt? Anfechten nach § 119 Abs. 2 – doch der Käufer muss zuerst ins Gewährleistungsrecht.",
+      "norms": [
+        "§ 119 Abs. 2 BGB",
+        "§§ 437 ff. BGB",
+        "§ 438 Abs. 1 Nr. 3 BGB",
+        "§ 446 BGB",
+        "§ 442 BGB",
+        "§ 121 Abs. 1 BGB",
+        "§ 122 BGB"
+      ]
     },
     {
       "id": "s6",
       "title": "Arglistige Täuschung (§ 123 Abs. 1 Alt. 1) und Täuschung durch Dritte (§ 123 Abs. 2)",
       "short": "§ 123 schützt die Freiheit der Willensentschließung; wer getäuscht oder bedroht wurde, kann ohne Schadensersatzpflicht anfechten. Voraussetzungen der Täuschungsanfechtung: Täuschung über Tatsachen (auch durch Unterlassen bei Aufklärungspflicht), dadurch erregter Irrtum, kausale Willenserklärung, Widerrechtlichkeit und Arglist (dolus eventualis genügt). Täuscht ein „Dritter“, ist nur anfechtbar, wenn der Empfänger die Täuschung kannte oder kennen musste; Personen im Lager des Empfängers (Vertreter, Verhandlungsgehilfen) sind keine Dritten.",
       "long": "## Überblick (S. 18)\n\n§ 123 Abs. 1 enthält zwei Tatbestände: **Alt. 1 arglistige Täuschung**, **Alt. 2 widerrechtliche Drohung**. Geschützt ist die **Freiheit der Willensentschließung**; der Anfechtende haftet **nicht** nach § 122.\n\n## Voraussetzungen der Täuschungsanfechtung (S. 18–20)\n\n1. **Täuschung** – Def.: Verhalten, das beim Erklärenden eine irrige Vorstellung hervorruft, verstärkt oder erhält; bewusstes Erregen oder Aufrechterhalten eines Irrtums durch **Vorspiegelung falscher oder Unterdrückung wahrer Tatsachen** (nicht Werturteile).\n   - **positives Tun:** z.B. Angaben zum Kilometerstand; Angabe eines bestimmten Unfallschadens (konkludent: keine weiteren Schäden).\n   - **Unterlassen:** nur bei **Aufklärungspflicht** (§ 242 oder Gesetz). Keine allgemeine Aufklärungspflicht; Fallgruppen: gezielte zulässige Fragen, besonderes Vertrauensverhältnis, überlegene Sachkunde gegenüber Unerfahrenen (S. 19).\n2. **Kausalität:** Ohne die Täuschung wäre die Erklärung nicht, nicht so oder nicht zu dieser Zeit abgegeben worden; fehlt, wenn der Getäuschte die Wahrheit kannte (S. 19).\n3. **Widerrechtlichkeit:** nicht im Wortlaut, der Gesetzgeber ging von stets widerrechtlicher Täuschung aus; wichtigste Ausnahme: „Recht zur Lüge“ im Arbeitsrecht, z.B. bei der Frage nach einer Schwangerschaft (S. 20).\n4. **Arglist:** Vorsatz (Täuschungswille), **dolus eventualis genügt**, grobe Fahrlässigkeit nicht. Grenze: **Behauptungen „ins Blaue hinein“** (z.B. Unfallfreiheit ohne Grundlage). Der Täuschende muss wissen, dass er den anderen zur Abgabe einer Erklärung bestimmt (S. 20).\n\n**Fallbearbeitung beim Unterlassen (S. 19):** Obersatz → Definition der Täuschung → Aufklärungspflicht → deren Verletzung durch Unterlassen.\n\n**Beispiel Furniermaschine (S. 19):** F verhandelt seit Jahren mit U und verkauft ihr eine Maschine, die nur einseitig furniert, obwohl er weiß, dass U überwiegend beidseitig furnierte Platten verarbeitet. Aus dem gewachsenen **Vertrauensverhältnis** folgt eine Aufklärungspflicht; U kann nach § 123 Abs. 1 anfechten.\n\n## Täuschung durch Dritte (S. 20–22)\n\nTäuscht ein **Dritter**, ist die Erklärung nach § 123 Abs. 2 S. 1 nur anfechtbar, wenn der Erklärungsempfänger die Täuschung **kannte oder kennen musste**.\n\n**Dritter** ist, wer am Geschäft unbeteiligt ist und dessen Verhalten sich der Empfänger **nicht zurechnen** lassen muss („Lagertheorie“). **Keine Dritten:** Stellvertreter, vom Empfänger beauftragte **Verhandlungsführer/-gehilfen**, Vertrauenspersonen i.S.d. § 278, Personen mit besonders enger Beziehung; Hilfspersonen in seinem Lager (Vertreter, Organe, Gehilfen; Zurechnung über §§ 31, 278, 166). **Dritte:** der bloße **Vermittler/Makler**, grundsätzlich auch wer aus eigenem Antrieb einen Vertrag anbahnt.\n\n**Beispiel nach BGHZ 47, 224 (S. 21):** Autohändler V legt K ein Darlehensformular der Teilzahlungsbank T vor, mit der er lange zusammenarbeitet, und behauptet, die Unterschrift sei Formsache, der hohe Zins gelte nicht. V ist kein Vertreter (§ 164), aber **Verhandlungsgehilfe** der Bank, die sich sein Verschulden nach § 278 zurechnen lassen muss → **kein Dritter**; K kann nach § 123 Abs. 1 anfechten, der Darlehensvertrag ist nach § 142 nichtig.\n\n*Hinweis:* Das Skript formuliert auf S. 22, bei einem echten Dritten sei die Täuschung nur bei „Kenntnis oder grob fahrlässiger Unkenntnis“ zuzurechnen; auf S. 20 und im Gesetz heißt es „kannte oder kennen musste“. Halten Sie sich im Gutachten an den Gesetzeswortlaut.",
-      "src": [{ "doc": "BGB_6", "page": 18 }, { "doc": "BGB_6", "page": 19 }, { "doc": "BGB_6", "page": 20 }, { "doc": "BGB_6", "page": 21 }, { "doc": "BGB_6", "page": 22 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 18
+        },
+        {
+          "doc": "BGB_6",
+          "page": 19
+        },
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 21
+        },
+        {
+          "doc": "BGB_6",
+          "page": 22
+        }
+      ],
+      "merksatz": "Wer lügt oder pflichtwidrig schweigt, um den anderen zum Vertrag zu bringen, muss die Anfechtung hinnehmen – binnen Jahresfrist.",
+      "norms": [
+        "§ 123 Abs. 1 BGB",
+        "§ 242 BGB",
+        "§ 123 Abs. 2 BGB",
+        "§ 278 BGB",
+        "§ 164 BGB",
+        "§ 31 BGB",
+        "§ 166 BGB"
+      ]
     },
     {
       "id": "s7",
       "title": "Widerrechtliche Drohung (§ 123 Abs. 1 Alt. 2)",
       "short": "Drohung ist das vom Gegner ernst genommene In-Aussicht-Stellen eines künftigen Übels, auf das der Drohende Einfluss zu haben behauptet; das Ausnutzen eines bestehenden Übels genügt nicht. Die Drohung muss kausal und widerrechtlich sein – wegen des Mittels, des Zwecks oder der Zweck-Mittel-Relation. Subjektiv ist Vorsatz nötig, nicht aber das Bewusstsein der Rechtswidrigkeit.",
       "long": "## Die Drohung (S. 22)\n\n**Def.:** Eine Drohung ist das vom Gegner **ernst genommene In-Aussicht-Stellen eines künftigen Übels**, auf dessen Eintritt oder Nichteintritt der Drohende einwirken zu können behauptet; die **Ausnutzung eines bestehenden Übels genügt nicht**.\n\n- Kern ist eine **psychische Einwirkung** (Furcht vor künftigem Übel), etwa die Ankündigung einer **Strafanzeige**.\n- Ob eine Zwangslage („vis compulsiva“) vorliegt, beurteilt sich **aus Sicht des Bedrohten**: Auch eine nicht ernst gemeinte Drohung genügt, wenn der Empfänger sie als ernstlich auffassen durfte.\n\n## Kausalität und Widerrechtlichkeit (S. 22–23)\n\nZwischen Drohung und Erklärung muss ein **ursächlicher Zusammenhang** bestehen. Die **Widerrechtlichkeit** betrifft die unzulässige Art und Weise der Willensbeugung. Sie kann sich ergeben aus\n\n- dem **Mittel** (dem angedrohten Verhalten),\n- dem **erstrebten Zweck** – z.B. erlaubtes Mittel, aber kein Recht auf die erzwungene Leistung,\n- der **Zweck-Mittel-Relation**: Bei erlaubtem Mittel und erlaubtem Zweck kommt es darauf an, ob der Drohende ein **berechtigtes Interesse** hat und die Drohung nach der Auffassung **aller billig und gerecht Denkenden** ein angemessenes Mittel ist.\n\n*(Das Schaubild des Skripts auf S. 23 benennt die Fallgruppen als „angedrohtes Verhalten“, „angewandtes Mittel“ und „Zweck-Mittel-Relation“; inhaltlich ergibt sich aus dem Text die gängige Dreiteilung Mittel – Zweck – Relation.)*\n\n**Beispiel Unterschlagung (S. 23):** Angestellter A hat Geld unterschlagen. Inhaber B droht mit Strafanzeige, falls A kein Schuldanerkenntnis (§ 781) unterschreibt. Mittel (Strafanzeige) und Zweck (Wiedergutmachung, Bestätigung eines bestehenden Anspruchs) sind nicht zu beanstanden; wegen des Zusammenhangs zwischen Straftat und Anspruch ist auch die Relation angemessen → **nicht widerrechtlich**, keine Anfechtung.\n\n## Subjektive Voraussetzungen (S. 23–24)\n\n- **Vorsatz**, Furcht zu erregen und dadurch die Erklärung zu erzwingen; **dolus eventualis** genügt.\n- **Kein Bewusstsein der Rechtswidrigkeit** nötig; Kenntnis der Umstände genügt (Parallelwertung in der Laiensphäre).\n- Nach dem **BGH** soll die Widerrechtlichkeit bei **unverschuldetem Irrtum** über die Wertungsgrundlagen entfallen; die **Literatur** hält mit Recht entgegen, § 123 Abs. 1 Alt. 2 schütze den Bedrohten, nicht diene er dem Vorwurf gegen den Drohenden.",
-      "src": [{ "doc": "BGB_6", "page": 22 }, { "doc": "BGB_6", "page": 23 }, { "doc": "BGB_6", "page": 24 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 22
+        },
+        {
+          "doc": "BGB_6",
+          "page": 23
+        },
+        {
+          "doc": "BGB_6",
+          "page": 24
+        }
+      ],
+      "merksatz": "Drohung ist widerrechtlich, wenn Mittel, Zweck oder ihre Verbindung nicht passen – Strafanzeige für echten Schadensersatz ist erlaubt.",
+      "norms": [
+        "§ 123 Abs. 1 BGB",
+        "§ 781 BGB"
+      ]
     },
     {
       "id": "s8",
       "title": "Anfechtungserklärung, Anfechtungsfrist und Bestätigung",
       "short": "Erst die fristgerechte Anfechtungserklärung gegenüber dem Anfechtungsgegner (§ 143) führt die Nichtigkeit herbei. Sie muss unzweideutig erkennen lassen, dass das Geschäft wegen des Willensmangels rückwirkend beseitigt werden soll; das Wort „anfechten“ ist nicht nötig. Bei §§ 119, 120 ist unverzüglich anzufechten (§ 121), bei § 123 binnen Jahresfrist (§ 124). Die Bestätigung in Kenntnis der Anfechtbarkeit (§ 144) schließt die Anfechtung aus.",
       "long": "## Anfechtungserklärung, § 143 (S. 24)\n\n- **einseitige empfangsbedürftige Willenserklärung** gegenüber dem **Anfechtungsgegner** (§ 143 Abs. 1),\n- muss **unzweideutig** den Willen ausdrücken, das Geschäft **gerade wegen des Willensmangels** nicht bestehen zu lassen, sondern rückwirkend zu beseitigen,\n- das Wort „anfechten“ muss nicht fallen; je nach Umständen genügt Bestreiten, Nichtanerkennen oder Widersprechen (z.B. „annulliere“, „null und nichtig“),\n- Anfechtungsgegner beim Vertrag ist der **Vertragspartner (§ 143 Abs. 2)**; bei mehreren Vertragspartnern muss gegenüber **allen** angefochten werden.\n\n## Anfechtungsfristen (S. 24)\n\nDie Frist dient der Rechtssicherheit: Alle Beteiligten sollen bald wissen, ob das Geschäft bestehen bleibt.\n\n| Anfechtungsgrund | Frist |\n|---|---|\n| §§ 119, 120 | **unverzüglich**, d.h. ohne schuldhaftes Zögern (§ 121 Abs. 1) |\n| § 123 Abs. 1 | **binnen Jahresfrist** (§ 124); Fristbeginn nach § 124 Abs. 2 |\n\n## Ausschluss durch Bestätigung, § 144 (S. 24–25)\n\nDie Anfechtung ist ausgeschlossen, wenn der Berechtigte durch eine **nicht empfangsbedürftige** Willenserklärung deutlich macht, dass er ein ihm **bekanntes** Anfechtungsrecht nicht ausüben will. Voraussetzung ist **Kenntnis vom Anfechtungsgrund**; die Bestätigung bedarf nicht der Form des Rechtsgeschäfts (§ 144 Abs. 2).\n\n**Beispiel (S. 25):** M wird von H beim Autokauf arglistig getäuscht. Zahlt M den Kaufpreis, obwohl er um seine Anfechtungsmöglichkeit weiß, bestätigt er den Vertrag **im Zweifel konkludent** und verliert sein Anfechtungsrecht.",
-      "src": [{ "doc": "BGB_6", "page": 24 }, { "doc": "BGB_6", "page": 25 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 24
+        },
+        {
+          "doc": "BGB_6",
+          "page": 25
+        }
+      ],
+      "merksatz": "Anfechten heißt: dem Gegner erklären, Frist beachten – Irrtum unverzüglich, Täuschung und Drohung binnen eines Jahres.",
+      "norms": [
+        "§ 143 Abs. 1 BGB",
+        "§ 143 Abs. 2 BGB",
+        "§ 121 Abs. 1 BGB",
+        "§ 124 BGB",
+        "§ 144 BGB"
+      ]
     },
     {
       "id": "s9",
       "title": "Rechtsfolgen: § 142, Schadensersatz nach § 122, Konkurrenzen und Teilanfechtung",
       "short": "Das angefochtene Geschäft ist nach § 142 Abs. 1 von Anfang an nichtig; ausgetauschte Leistungen sind nach §§ 812 ff. zurückzugewähren. Wer nach §§ 119, 120 anficht, muss dem Vertrauenden verschuldensunabhängig den Vertrauensschaden ersetzen, begrenzt durch das Erfüllungsinteresse (§ 122 Abs. 1); ausgeschlossen bei Kenntnis oder fahrlässiger Unkenntnis des Anfechtungsgrundes (§ 122 Abs. 2). § 123 ist neben §§ 437 ff., c.i.c. und § 823 anwendbar. Eine Teilanfechtung setzt ein teilbares Geschäft voraus (§ 139).",
       "long": "## Nichtigkeit, § 142 Abs. 1 (S. 25)\n\n- Vertragliche Ansprüche entfallen; ebenso die Wirkungen angefochtener **Verfügungen** (nach Anfechtung einer Übereignung, etwa wegen § 123, ist der Veräußerer wieder Eigentümer).\n- Wird nur das Verpflichtungsgeschäft angefochten, wirft das **Abstraktionsprinzip** Probleme auf (dazu § 15).\n- Bereits ausgetauschte Leistungen sind nach den Regeln der **ungerechtfertigten Bereicherung (§§ 812 ff.)** zurückzugewähren.\n\n**Beispiel (S. 25):** K kauft von V ein Bild für 15.000 €, zahlt und erhält es übereignet. Nach Anfechtung des Kaufvertrags verlangt K die Rückzahlung nach § 812 Abs. 1 S. 1 Alt. 1; V verlangt ebenso die Rückübereignung des Bildes. *(Das Skript bezeichnet den Irrtum über den Maler hier als „Inhaltsirrtum … § 119 Abs. 2“ – gemeint ist ein Eigenschaftsirrtum; zum Vorrang der §§ 437 ff. beim Käufer siehe S. 16–17.)*\n\n## Schadensersatz, § 122 (S. 26–27)\n\n- **Voraussetzung:** Anfechtung nach **§ 119 oder § 120** (das Schaubild S. 27 nennt zusätzlich § 118).\n- **Umfang:** **Vertrauensschaden (negatives Interesse)** – der Gegner ist so zu stellen, als hätte er von dem Geschäft nie gehört (z.B. Porto, Verpackung, Fahrtkosten; entgangener Gewinn aus einem nicht geschlossenen anderen Vertrag).\n- **Begrenzung:** höchstens das **Erfüllungsinteresse (positives Interesse)** – Stellung bei ordnungsgemäßer Erfüllung.\n- **Ausschluss (§ 122 Abs. 2):** Der Geschädigte kannte den Anfechtungsgrund oder kannte ihn **infolge Fahrlässigkeit** nicht; **jede Fahrlässigkeit** genügt.\n- **Verschuldensunabhängig:** Es kommt nicht darauf an, ob den Anfechtenden ein Verschulden an seinem Irrtum trifft.\n\n**Beispiel Vase (S. 26):** Die Verpackungskosten, die V vor der Anfechtung aufwendet, sind Vertrauensschaden.\n\n**Beispiel Musikerin (S. 26):** A verschreibt sich und bietet F 2.500 € statt 1.500 €. F nimmt an und schlägt ein Angebot der B über 3.000 € für denselben Tag aus. Nach der Anfechtung beträgt der Vertrauensschaden 3.000 €, er wird aber auf das Erfüllungsinteresse von **2.500 €** begrenzt.\n\n## Konkurrenzen (S. 27)\n\n§ 123 Abs. 1 Alt. 1 und 2 sind **neben** den Gewährleistungsrechten der §§ 437 ff. anwendbar (anders § 119 Abs. 2, S. 16–17). Ansprüche aus **c.i.c.** bleiben unberührt; auch **§§ 823 ff.** können eingreifen.\n\n## Teilanfechtung (S. 27)\n\nDie Teilanfechtung ist nicht ausgeschlossen, setzt aber ein **teilbares** Rechtsgeschäft voraus: Ein **Restgeschäft** muss wirksam bestehen bleiben können. Ob das der Fall ist, entscheidet **§ 139** (näher § 15 I).",
-      "src": [{ "doc": "BGB_6", "page": 25 }, { "doc": "BGB_6", "page": 26 }, { "doc": "BGB_6", "page": 27 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 25
+        },
+        {
+          "doc": "BGB_6",
+          "page": 26
+        },
+        {
+          "doc": "BGB_6",
+          "page": 27
+        }
+      ],
+      "merksatz": "Angefochten ist von Anfang an nichtig; wer wegen Irrtums anficht, zahlt den Vertrauensschaden – höchstens das Erfüllungsinteresse.",
+      "norms": [
+        "§ 142 Abs. 1 BGB",
+        "§ 812 Abs. 1 S. 1 BGB",
+        "§ 122 Abs. 1 BGB",
+        "§ 122 Abs. 2 BGB",
+        "§§ 437 ff. BGB",
+        "§§ 823 ff. BGB",
+        "§ 139 BGB"
+      ]
     },
     {
       "id": "s10",
       "title": "Gemeinsamer Motivirrtum: Störung der Geschäftsgrundlage (§ 313)",
       "short": "Außerhalb von § 119 Abs. 2 und § 123 bleiben Motivirrtümer folgenlos. Beim beiderseitigen Irrtum über wesentliche Umstände (Doppelirrtum) greift aber § 313 Abs. 2 (fehlende subjektive Geschäftsgrundlage); § 313 Abs. 1 erfasst den späteren Wegfall. Vertragliche und gesetzliche Risikoverteilung und ergänzende Auslegung haben Vorrang; nötig ist Unzumutbarkeit. Rechtsfolge ist vorrangig ein Anspruch auf Anpassung, hilfsweise Rücktritt bzw. Kündigung (§ 313 Abs. 3). Beim Kauf verdrängen die §§ 434 ff. den § 313, soweit es um Eigenschaften der Kaufsache geht.",
       "long": "## Einseitiger und beiderseitiger Motivirrtum (S. 27–28)\n\nIrrige Vorstellungen über für den Entschluss bedeutsame Umstände oder enttäuschte Zukunftserwartungen berechtigen – außerhalb von § 119 Abs. 2 und § 123 – **nicht** zur Anfechtung.\n\n**Beispiel Totalschaden (S. 28):** A kauft einen Neuwagen, weil er seinen Unfallwagen für einen Totalschaden hält; tatsächlich ist er günstig reparierbar. Unbeachtlicher **Motivirrtum**, keine Anfechtung gegenüber V.\n\nAuch beim **beiderseitigen Motivirrtum (Doppelirrtum)** ist die Anfechtung meist ausgeschlossen. Hier hilft **§ 313 Abs. 2** (ursprüngliches Fehlen der **subjektiven** Geschäftsgrundlage): gemeinschaftlicher Irrtum über einen wesentlichen Umstand oder einseitiger Irrtum, den die andere Partei widerspruchslos hingenommen hat. Stets erforderlich: **Unzumutbarkeit** des Festhaltens unter Berücksichtigung der **Risikoverteilung**.\n\n## Die Geschäftsgrundlage (S. 28–30)\n\n**Def.:** die nicht zum Vertragsinhalt erhobenen, aber bei Vertragsschluss zutage getretenen **gemeinschaftlichen Vorstellungen** beider Parteien oder die dem Gegner erkennbaren und von ihm nicht beanstandeten Vorstellungen einer Partei vom Vorhandensein oder künftigen Eintritt gewisser Umstände, auf denen der Geschäftswille aufbaut.\n\n- **§ 313 Abs. 2:** von Anfang an fehlende Geschäftsgrundlage (Vorstellungen über gegenwärtige Umstände erweisen sich als falsch),\n- **§ 313 Abs. 1:** späterer Wegfall (zukunftsgerichtete Vorstellungen erfüllen sich nicht) – „objektive“ Geschäftsgrundlage: Leistungserschwerung, Zweck- und Äquivalenzstörung.\n\n**Kernfrage:** Wer trägt das Risiko unerwarteter Veränderungen? Die **vertragliche** (Pachtbeispiel: Abwälzung der Grundbesitzabgaben) oder **gesetzliche** Risikoverteilung (§ 446 beim Eigentumsvorbehaltskauf) hat **stets Vorrang**; ebenso die **ergänzende Vertragsauslegung**. Erst wenn die Risikoverteilung jeden Sinn verliert, ist § 313 zu erwägen – es geht um **Grenzfälle** (S. 29–30).\n\n**Fallgruppen (S. 30):** **Äquivalenzstörung** (z.B. erheblicher Währungsverfall), **Zweckverfehlung** (gewerbliche Räume, deren Nutzung behördlich allgemein verboten wird). Störungen aus der **Risikosphäre einer Partei** – etwa das Scheitern der Finanzierung des Käufers – genügen nicht.\n\n## Rechtsfolgen (S. 31–32)\n\n1. Vorrangig **Anpassung** des Vertrags an die wirkliche Sachlage (Treu und Glauben); sie tritt nicht kraft Gesetzes ein – der Berechtigte hat einen **Anspruch auf Anpassung**.\n   - *Beispiel nach BGHZ 25, 390 (S. 31):* G und die Entschädigungsstelle gehen irrig von einer Umstellung 10:1 aus; die Entschädigung ist auf 1:1 anzupassen, G erhält weitere DM 27.000.\n   - *Beispiel nach BGHZ 46, 268 (S. 31):* gemeinsamer Irrtum über das übliche Vermögensverwaltungshonorar → Anpassung.\n2. Ist die Anpassung unmöglich oder unzumutbar: **Rücktritt**, bei Dauerschuldverhältnissen **Kündigung** (§ 313 Abs. 3); Rückabwicklung nach §§ 346 ff. (S. 32).\n\n## Äquivalenzstörungen und Opfergrenze (S. 33–34)\n\nDer BGH verlangt eine die **„Opfergrenze“** überschreitende Störung: Die benachteiligte Partei kann ihr Interesse nicht mehr annähernd gewahrt sehen, das Festhalten wäre untragbar. Wer **Festpreise** vereinbart, übernimmt bewusst das Risiko von Lohn- und Preissteigerungen (BGH WM 1964, 1253); anders bei einem klar umgrenzten, nur in bestimmter Höhe übernommenen Ausfallrisiko (20 % erwartet, 50 % eingetreten). Beim pandemiebedingt verhinderten Hochzeitsfest (BGH NJW-RR 2023, 514) war eine Abwägung im Einzelfall nötig; die Verschiebung kam als milderes Mittel gegenüber der Kündigung in Betracht.\n\n## Verhältnis zu §§ 119 ff. und §§ 434 ff. (S. 35–36)\n\n- **Einseitiger Irrtum:** §§ 119 ff. haben Vorrang. **Beidseitiger Irrtum:** streitig – Anfechtung (wer aufheben will, ficht an und trägt § 122) oder § 313 Abs. 2 als lex specialis.\n- **Sachmängelrecht:** Soweit es um Fehler oder Eigenschaften der Kaufsache geht, schließen die §§ 434 ff. als abgeschlossene Sonderregelung § 313 aus.\n\n**Fall nach BGH NJW 1981, 1551 (S. 35–36):** Kaufpreis sollte das 11-Fache der Jahresmiete betragen; E nannte eine zu niedrige Jahresmiete, der beurkundete Preis wurde danach festgesetzt. Eine Auslegung über nicht beurkundete Umstände scheidet wegen des Zwecks von § 311b Abs. 1 S. 1 aus; die offengelegte Preiskalkulation des Verkäufers wird beim Kauf regelmäßig **nicht Geschäftsgrundlage** → E erhält nur den vereinbarten Preis. *(Die Zahlen des Skripts sind hier nicht stimmig: 11 × 72.000 € ergäbe 792.000 €, und in der Lösung erscheint einmal „395.000 €“.)*",
-      "src": [{ "doc": "BGB_6", "page": 27 }, { "doc": "BGB_6", "page": 28 }, { "doc": "BGB_6", "page": 29 }, { "doc": "BGB_6", "page": 30 }, { "doc": "BGB_6", "page": 31 }, { "doc": "BGB_6", "page": 32 }, { "doc": "BGB_6", "page": 33 }, { "doc": "BGB_6", "page": 34 }, { "doc": "BGB_6", "page": 35 }, { "doc": "BGB_6", "page": 36 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 27
+        },
+        {
+          "doc": "BGB_6",
+          "page": 28
+        },
+        {
+          "doc": "BGB_6",
+          "page": 29
+        },
+        {
+          "doc": "BGB_6",
+          "page": 30
+        },
+        {
+          "doc": "BGB_6",
+          "page": 31
+        },
+        {
+          "doc": "BGB_6",
+          "page": 32
+        },
+        {
+          "doc": "BGB_6",
+          "page": 33
+        },
+        {
+          "doc": "BGB_6",
+          "page": 34
+        },
+        {
+          "doc": "BGB_6",
+          "page": 35
+        },
+        {
+          "doc": "BGB_6",
+          "page": 36
+        }
+      ],
+      "merksatz": "Irren sich beide über die Grundlage des Geschäfts, hilft § 313: erst anpassen, notfalls zurücktreten oder kündigen.",
+      "norms": [
+        "§ 313 Abs. 1 BGB",
+        "§ 313 Abs. 2 BGB",
+        "§ 313 Abs. 3 BGB",
+        "§ 446 BGB",
+        "§§ 346 ff. BGB",
+        "§§ 434 ff. BGB",
+        "§ 311b Abs. 1 S. 1 BGB"
+      ]
     }
   ],
   "definitions": [
-    { "term": "Irrtum", "text": "Das unbewusste Auseinanderfallen von (subjektivem) Willen und (objektiver) Erklärung.", "norm": "§§ 119, 120 BGB", "src": [{ "doc": "BGB_6", "page": 7 }] },
-    { "term": "Kalkulationsirrtum", "text": "Fälle, in denen der Erklärende sich bei der Berechnung der Summe irrt oder irrtümlich einen falschen Berechnungsfaktor zugrunde legt. Verdeckt, wenn die Berechnungsgrundlage nicht mitgeteilt wird; offen, wenn sie dem Gegner mitgeteilt oder bekannt ist.", "norm": "§ 119 Abs. 1 BGB (keine Anfechtung)", "src": [{ "doc": "BGB_6", "page": 12 }] },
-    { "term": "Eigenschaft (§ 119 Abs. 2)", "text": "Tatsächliche oder rechtliche Verhältnisse einer Person oder Sache, die im Rechtsgeschäft als wesentlich zum Ausdruck gebracht worden sind und infolge ihrer Beschaffenheit und Dauer auf Brauchbarkeit und Wert Einfluss haben.", "norm": "§ 119 Abs. 2 BGB", "src": [{ "doc": "BGB_6", "page": 14 }, { "doc": "BGB_6", "page": 15 }] },
-    { "term": "Täuschung", "text": "Ein Verhalten, das beim Erklärenden eine irrige Vorstellung hervorruft, verstärkt oder erhält; das bewusste Erregen oder Aufrechterhalten eines Irrtums durch Vorspiegelung falscher oder Unterdrückung wahrer Tatsachen (nicht Werturteile), um den Getäuschten zur Abgabe einer bestimmten Willenserklärung zu veranlassen.", "norm": "§ 123 Abs. 1 Alt. 1 BGB", "src": [{ "doc": "BGB_6", "page": 18 }] },
-    { "term": "Arglist", "text": "Arglistig handelt, wer mit Täuschungsvorsatz handelt; bedingter Vorsatz genügt, grobe Fahrlässigkeit nicht. Arglistig ist auch, wer „ins Blaue hinein“ behauptet oder eine Kenntnis vorgibt, die er nicht hat. Der Täuschende muss sich bewusst sein, dass der Getäuschte zur Abgabe einer Willenserklärung bestimmt wird.", "norm": "§ 123 Abs. 1 Alt. 1 BGB", "src": [{ "doc": "BGB_6", "page": 20 }] },
-    { "term": "Dritter (§ 123 Abs. 2)", "text": "Wer am Geschäft unbeteiligt ist und dessen Verhalten sich der Erklärungsempfänger nicht zurechnen lassen muss. Keine Dritten sind Personen im Lager des Empfängers, etwa Stellvertreter, von ihm beauftragte Verhandlungsgehilfen und Vertrauenspersonen i.S.d. § 278; der bloße Vermittler (Makler) ist Dritter.", "norm": "§ 123 Abs. 2 S. 1 BGB", "src": [{ "doc": "BGB_6", "page": 20 }, { "doc": "BGB_6", "page": 21 }] },
-    { "term": "Drohung", "text": "Das vom Gegner ernst genommene In-Aussicht-Stellen eines künftigen Übels, auf dessen Eintritt oder Nichteintritt der Drohende einwirken zu können behauptet; die Ausnutzung eines bestehenden Übels genügt nicht.", "norm": "§ 123 Abs. 1 Alt. 2 BGB", "src": [{ "doc": "BGB_6", "page": 22 }] },
-    { "term": "Anfechtungserklärung", "text": "Einseitige empfangsbedürftige Willenserklärung gegenüber dem Anfechtungsgegner, die unzweideutig den Willen ausdrückt, das Geschäft gerade wegen des Willensmangels nicht bestehen zu lassen, sondern rückwirkend zu beseitigen; das Wort „anfechten“ ist nicht erforderlich.", "norm": "§ 143 BGB", "src": [{ "doc": "BGB_6", "page": 24 }] },
-    { "term": "Vertrauensschaden (negatives Interesse)", "text": "Der Ersatzberechtigte ist so zu stellen, wie er stünde, wenn er von dem angefochtenen Rechtsgeschäft nie gehört hätte; nach § 122 Abs. 1 begrenzt durch das Erfüllungsinteresse (Stellung bei ordnungsgemäßer Erfüllung).", "norm": "§ 122 Abs. 1 BGB", "src": [{ "doc": "BGB_6", "page": 26 }] },
-    { "term": "Geschäftsgrundlage", "text": "Die nicht zum eigentlichen Vertragsinhalt erhobenen, aber bei Vertragsschluss zutage getretenen gemeinschaftlichen Vorstellungen beider Parteien oder die dem Gegner erkennbaren und von ihm nicht beanstandeten Vorstellungen einer Partei vom Vorhandensein oder künftigen Eintritt gewisser Umstände, auf denen der Geschäftswille aufbaut.", "norm": "§ 313 BGB", "src": [{ "doc": "BGB_6", "page": 28 }, { "doc": "BGB_6", "page": 29 }] }
+    {
+      "term": "Irrtum",
+      "text": "Das unbewusste Auseinanderfallen von (subjektivem) Willen und (objektiver) Erklärung.",
+      "norm": "§§ 119, 120 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "term": "Kalkulationsirrtum",
+      "text": "Fälle, in denen der Erklärende sich bei der Berechnung der Summe irrt oder irrtümlich einen falschen Berechnungsfaktor zugrunde legt. Verdeckt, wenn die Berechnungsgrundlage nicht mitgeteilt wird; offen, wenn sie dem Gegner mitgeteilt oder bekannt ist.",
+      "norm": "§ 119 Abs. 1 BGB (keine Anfechtung)",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "term": "Eigenschaft (§ 119 Abs. 2)",
+      "text": "Tatsächliche oder rechtliche Verhältnisse einer Person oder Sache, die im Rechtsgeschäft als wesentlich zum Ausdruck gebracht worden sind und infolge ihrer Beschaffenheit und Dauer auf Brauchbarkeit und Wert Einfluss haben.",
+      "norm": "§ 119 Abs. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 14
+        },
+        {
+          "doc": "BGB_6",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "term": "Täuschung",
+      "text": "Ein Verhalten, das beim Erklärenden eine irrige Vorstellung hervorruft, verstärkt oder erhält; das bewusste Erregen oder Aufrechterhalten eines Irrtums durch Vorspiegelung falscher oder Unterdrückung wahrer Tatsachen (nicht Werturteile), um den Getäuschten zur Abgabe einer bestimmten Willenserklärung zu veranlassen.",
+      "norm": "§ 123 Abs. 1 Alt. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "term": "Arglist",
+      "text": "Arglistig handelt, wer mit Täuschungsvorsatz handelt; bedingter Vorsatz genügt, grobe Fahrlässigkeit nicht. Arglistig ist auch, wer „ins Blaue hinein“ behauptet oder eine Kenntnis vorgibt, die er nicht hat. Der Täuschende muss sich bewusst sein, dass der Getäuschte zur Abgabe einer Willenserklärung bestimmt wird.",
+      "norm": "§ 123 Abs. 1 Alt. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "term": "Dritter (§ 123 Abs. 2)",
+      "text": "Wer am Geschäft unbeteiligt ist und dessen Verhalten sich der Erklärungsempfänger nicht zurechnen lassen muss. Keine Dritten sind Personen im Lager des Empfängers, etwa Stellvertreter, von ihm beauftragte Verhandlungsgehilfen und Vertrauenspersonen i.S.d. § 278; der bloße Vermittler (Makler) ist Dritter.",
+      "norm": "§ 123 Abs. 2 S. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "term": "Drohung",
+      "text": "Das vom Gegner ernst genommene In-Aussicht-Stellen eines künftigen Übels, auf dessen Eintritt oder Nichteintritt der Drohende einwirken zu können behauptet; die Ausnutzung eines bestehenden Übels genügt nicht.",
+      "norm": "§ 123 Abs. 1 Alt. 2 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "term": "Anfechtungserklärung",
+      "text": "Einseitige empfangsbedürftige Willenserklärung gegenüber dem Anfechtungsgegner, die unzweideutig den Willen ausdrückt, das Geschäft gerade wegen des Willensmangels nicht bestehen zu lassen, sondern rückwirkend zu beseitigen; das Wort „anfechten“ ist nicht erforderlich.",
+      "norm": "§ 143 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "term": "Vertrauensschaden (negatives Interesse)",
+      "text": "Der Ersatzberechtigte ist so zu stellen, wie er stünde, wenn er von dem angefochtenen Rechtsgeschäft nie gehört hätte; nach § 122 Abs. 1 begrenzt durch das Erfüllungsinteresse (Stellung bei ordnungsgemäßer Erfüllung).",
+      "norm": "§ 122 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "term": "Geschäftsgrundlage",
+      "text": "Die nicht zum eigentlichen Vertragsinhalt erhobenen, aber bei Vertragsschluss zutage getretenen gemeinschaftlichen Vorstellungen beider Parteien oder die dem Gegner erkennbaren und von ihm nicht beanstandeten Vorstellungen einer Partei vom Vorhandensein oder künftigen Eintritt gewisser Umstände, auf denen der Geschäftswille aufbaut.",
+      "norm": "§ 313 BGB",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 28
+        },
+        {
+          "doc": "BGB_6",
+          "page": 29
+        }
+      ]
+    }
   ],
   "schemas": [
     {
@@ -100,7 +464,32 @@
         "4. Kein Ausschluss: insbesondere Bestätigung (§ 144); bei § 119 Abs. 2 Vorrang des Gewährleistungsrechts (§§ 437 ff.); kein Rechtsmissbrauch des Verkäufers",
         "5. Rechtsfolge: Nichtigkeit ex tunc (§ 142 Abs. 1; Dauerschuldverhältnisse ex nunc), Rückabwicklung nach §§ 812 ff.; bei §§ 119, 120 Ersatz des Vertrauensschadens nach § 122 (Grenze: Erfüllungsinteresse, Ausschluss nach § 122 Abs. 2)"
       ],
-      "src": [{ "doc": "BGB_6", "page": 6 }, { "doc": "BGB_6", "page": 8 }, { "doc": "BGB_6", "page": 17 }, { "doc": "BGB_6", "page": 24 }, { "doc": "BGB_6", "page": 25 }, { "doc": "BGB_6", "page": 26 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 6
+        },
+        {
+          "doc": "BGB_6",
+          "page": 8
+        },
+        {
+          "doc": "BGB_6",
+          "page": 17
+        },
+        {
+          "doc": "BGB_6",
+          "page": 24
+        },
+        {
+          "doc": "BGB_6",
+          "page": 25
+        },
+        {
+          "doc": "BGB_6",
+          "page": 26
+        }
+      ]
     },
     {
       "title": "Prüfungsschema zu § 119 Abs. 2 (nach dem Skript)",
@@ -110,7 +499,12 @@
         "III. Anfechtungsgrund, § 119 Abs. 2: 1. Eigenschaft, 2. verkehrswesentlich, 3. Irrtum, 4. Kausalität zwischen Irrtum und Abgabe der Willenserklärung",
         "IV. Anfechtungsfrist, § 121"
       ],
-      "src": [{ "doc": "BGB_6", "page": 17 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 17
+        }
+      ]
     },
     {
       "title": "Anfechtungsgrund arglistige Täuschung (§ 123 Abs. 1 Alt. 1)",
@@ -122,7 +516,24 @@
         "5. Arglist (Vorsatz, dolus eventualis genügt; auch Behauptungen „ins Blaue hinein“)",
         "6. Bei Täuschung durch eine andere Person als den Erklärungsempfänger: Ist sie „Dritter“? Wenn ja: Kenntnis oder Kennenmüssen des Empfängers (§ 123 Abs. 2 S. 1)"
       ],
-      "src": [{ "doc": "BGB_6", "page": 18 }, { "doc": "BGB_6", "page": 19 }, { "doc": "BGB_6", "page": 20 }, { "doc": "BGB_6", "page": 22 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 18
+        },
+        {
+          "doc": "BGB_6",
+          "page": 19
+        },
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 22
+        }
+      ]
     },
     {
       "title": "Schadensersatz nach § 122",
@@ -132,20 +543,43 @@
         "3. Schaden durch Vertrauen auf die Gültigkeit: Vertrauensschaden (negatives Interesse), z.B. Aufwendungen, entgangener Gewinn aus einem anderen Geschäft",
         "4. Begrenzung auf das Erfüllungsinteresse (positives Interesse)"
       ],
-      "src": [{ "doc": "BGB_6", "page": 26 }, { "doc": "BGB_6", "page": 27 }]
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 26
+        },
+        {
+          "doc": "BGB_6",
+          "page": 27
+        }
+      ]
     }
   ],
   "quiz": [
     {
-      "id": "q1", "type": "truefalse", "level": "recognize", "difficulty": 1,
+      "id": "q1",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Wird ein Arbeitsvertrag wirksam angefochten, ist er nach dem Skript stets rückwirkend (ex tunc) als von Anfang an nichtig anzusehen.",
       "answer": false,
       "explanation": "Grundsätzlich wirkt die Anfechtung nach § 142 Abs. 1 ex tunc. Bei Dauerschuldverhältnissen wie Miet-, Dienst- oder Arbeitsverträgen tritt die Nichtigkeit nach dem Skript jedoch nur ex nunc, ab der Anfechtung, ein, um Rückabwicklungsschwierigkeiten zu vermeiden.",
-      "hints": ["Denken Sie an bereits erbrachte Arbeitsleistungen.", "Das Skript unterscheidet Grundfall und Dauerschuldverhältnis."],
-      "src": [{ "doc": "BGB_6", "page": 6 }]
+      "hints": [
+        "Denken Sie an bereits erbrachte Arbeitsleistungen.",
+        "Das Skript unterscheidet Grundfall und Dauerschuldverhältnis."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 6
+        }
+      ]
     },
     {
-      "id": "q2", "type": "mc-single", "level": "recall", "difficulty": 1,
+      "id": "q2",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Welche Aussage über die Anfechtungserklärung trifft zu?",
       "options": [
         "Sie ist eine einseitige empfangsbedürftige Willenserklärung, die unwiderruflich und grundsätzlich bedingungsfeindlich ist; eine hilfsweise Anfechtung ist aber zulässig.",
@@ -153,13 +587,26 @@
         "Sie kann bis zum Zugang beim Gegner und auch danach noch frei widerrufen werden, solange der Gegner nicht widerspricht.",
         "Sie ist überflüssig, weil das Vorliegen eines Anfechtungsgrundes das Rechtsgeschäft bereits nichtig macht."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Die Anfechtung ist ein Gestaltungsrecht, das durch einseitige empfangsbedürftige Erklärung ausgeübt wird. Sie ist unwiderruflich und bedingungsfeindlich; die hilfsweise Anfechtung ist als bloße Rechtsbedingung zulässig. Nicht der Anfechtungsgrund, erst die Erklärung vernichtet das Geschäft. Die nicht empfangsbedürftige Erklärung kennzeichnet die Bestätigung nach § 144.",
-      "hints": ["Gestaltungsrechte vertragen keine Schwebelage.", "Wer entscheidet über die Vernichtung – das Gesetz oder der Berechtigte?"],
-      "src": [{ "doc": "BGB_6", "page": 7 }]
+      "hints": [
+        "Gestaltungsrechte vertragen keine Schwebelage.",
+        "Wer entscheidet über die Vernichtung – das Gesetz oder der Berechtigte?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 7
+        }
+      ]
     },
     {
-      "id": "q3", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q3",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Einzelhändler E bestellt bei F 10.000 schwarz-rot-goldene Gipseier, weil er sie gewinnbringend weiterverkaufen will. Die Eier erweisen sich als unverkäuflich. Warum kann E nicht anfechten?",
       "options": [
         "Weil seine enttäuschte Erwartung ein bloßer Irrtum im Beweggrund ist, der nicht zu den Anfechtungsgründen der §§ 119, 120, 123 gehört.",
@@ -167,34 +614,111 @@
         "Weil die Verkäuflichkeit eine verkehrswesentliche Eigenschaft ist und §§ 437 ff. stets vorgehen.",
         "Weil E Kaufmann ist und Kaufleute nach dem BGB generell nicht wegen Irrtums anfechten können."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "E hat genau das erklärt, was er wollte. Seine Erwartung, die Eier verkaufen zu können, ist ein unbeachtlicher Motivirrtum. Das BGB lässt nur die Gründe der §§ 119, 120 und 123 zu, damit Verträge verbindlich bleiben (pacta sunt servanda). § 124 gilt im Übrigen nur für § 123.",
-      "hints": ["Stimmen Wille und Erklärung bei E überein?", "Wie begründet das Skript die Begrenzung der Anfechtungsgründe?"],
-      "src": [{ "doc": "BGB_6", "page": 7 }, { "doc": "BGB_6", "page": 8 }]
+      "hints": [
+        "Stimmen Wille und Erklärung bei E überein?",
+        "Wie begründet das Skript die Begrenzung der Anfechtungsgründe?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 7
+        },
+        {
+          "doc": "BGB_6",
+          "page": 8
+        }
+      ]
     },
     {
-      "id": "q4", "type": "cloze", "level": "recall", "difficulty": 1,
+      "id": "q4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Irrtum ist das {{1}} Auseinanderfallen von (subjektivem) {{2}} und (objektiver) {{3}}. Ob ein solches Auseinanderfallen vorliegt, ist durch Auslegung zu ermitteln: Auslegung geht vor {{4}}.",
-      "blanks": [["unbewusste", "unbewußte"], ["Willen", "Wille"], ["Erklärung"], ["Anfechtung"]],
+      "blanks": [
+        [
+          "unbewusste",
+          "unbewußte"
+        ],
+        [
+          "Willen",
+          "Wille"
+        ],
+        [
+          "Erklärung"
+        ],
+        [
+          "Anfechtung"
+        ]
+      ],
       "explanation": "Definition des Irrtums (S. 7) und Grundsatz „Auslegung geht vor Anfechtung“ (S. 8). Das bewusste Auseinanderfallen gehört dagegen zu §§ 116–118.",
-      "hints": ["Der Erklärende darf den Widerspruch nicht kennen.", "Was ist vor jeder Anfechtung zu prüfen?"],
-      "src": [{ "doc": "BGB_6", "page": 7 }, { "doc": "BGB_6", "page": 8 }]
+      "hints": [
+        "Der Erklärende darf den Widerspruch nicht kennen.",
+        "Was ist vor jeder Anfechtung zu prüfen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 7
+        },
+        {
+          "doc": "BGB_6",
+          "page": 8
+        }
+      ]
     },
     {
-      "id": "q5", "type": "match", "level": "understand", "difficulty": 2,
+      "id": "q5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Ordnen Sie die Beispiele aus dem Skript dem richtigen Anfechtungsgrund zu.",
       "pairs": [
-        ["Winzerin B schreibt 10 € statt der gewollten 11 € pro Flasche", "Erklärungsirrtum, § 119 Abs. 1 Var. 2"],
-        ["Freund E kauft für F das falsche Board", "Übermittlungsirrtum, § 120"],
-        ["Berliner A bestellt in Köln einen „halven Hahn“", "Inhaltsirrtum, § 119 Abs. 1 Var. 1"],
-        ["Käufer hält ein Bild irrig für echt", "Eigenschaftsirrtum, § 119 Abs. 2"]
+        [
+          "Winzerin B schreibt 10 € statt der gewollten 11 € pro Flasche",
+          "Erklärungsirrtum, § 119 Abs. 1 Var. 2"
+        ],
+        [
+          "Freund E kauft für F das falsche Board",
+          "Übermittlungsirrtum, § 120"
+        ],
+        [
+          "Berliner A bestellt in Köln einen „halven Hahn“",
+          "Inhaltsirrtum, § 119 Abs. 1 Var. 1"
+        ],
+        [
+          "Käufer hält ein Bild irrig für echt",
+          "Eigenschaftsirrtum, § 119 Abs. 2"
+        ]
       ],
       "explanation": "Verschreiben betrifft den Erklärungsakt; der Bote übermittelt falsch (§ 120); beim „halven Hahn“ ist der Erklärungsakt gewollt, aber die Bedeutung verkannt; die Echtheit eines Kunstwerks ist eine verkehrswesentliche Eigenschaft.",
-      "hints": ["Fragen Sie jeweils: Wo genau liegt der Fehler – beim Erklärungsakt, beim Boten, bei der Bedeutung oder bei der Vorstellung über die Sache?"],
-      "src": [{ "doc": "BGB_6", "page": 9 }, { "doc": "BGB_6", "page": 10 }, { "doc": "BGB_6", "page": 16 }]
+      "hints": [
+        "Fragen Sie jeweils: Wo genau liegt der Fehler – beim Erklärungsakt, beim Boten, bei der Bedeutung oder bei der Vorstellung über die Sache?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 9
+        },
+        {
+          "doc": "BGB_6",
+          "page": 10
+        },
+        {
+          "doc": "BGB_6",
+          "page": 16
+        }
+      ]
     },
     {
-      "id": "q6", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q6",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "F bittet ihren Freund E, im Sportgeschäft das Surfboard „Big wave pro“ für 500 € zu kaufen; einen Entscheidungsspielraum hat E nicht. E kauft versehentlich das Riverboard „Eisfluss“ für 450 €. Wie ist die Lage nach dem Skript zu beurteilen?",
       "options": [
         "E war Bote; die Erklärung der F wurde falsch übermittelt und ist nach § 120 anfechtbar.",
@@ -202,29 +726,77 @@
         "Es liegt ein unbeachtlicher Motivirrtum der F vor; eine Anfechtung scheidet aus.",
         "Da das Riverboard billiger ist, fehlt die Erheblichkeit des Irrtums; F ist gebunden."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Mangels eigenen Entscheidungsspielraums gab E keine eigene Erklärung ab, sondern übermittelte die vorgefertigte Erklärung der F als Bote („menschlicher Repeater“) falsch. Der Übermittlungsirrtum des § 120 ist ein Unterfall des Erklärungsirrtums.",
-      "hints": ["Hatte E einen eigenen Entscheidungsspielraum?", "Welche Norm erfasst die falsche Übermittlung durch eine Person?"],
-      "src": [{ "doc": "BGB_6", "page": 10 }]
+      "hints": [
+        "Hatte E einen eigenen Entscheidungsspielraum?",
+        "Welche Norm erfasst die falsche Übermittlung durch eine Person?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 10
+        }
+      ]
     },
     {
-      "id": "q7", "type": "case", "level": "apply", "difficulty": 2,
+      "id": "q7",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "V will ein wertvolles Gemälde für 12.500 € an den ihm von einem Bekannten empfohlenen Josef Schmitz verkaufen. Am nächsten Tag erscheint ein Mann, der sich als Josef Schmitz vorstellt, aber nicht der Empfohlene ist. V hält ihn für diesen und schließt mit ihm den Kaufvertrag. Kann V seine Erklärung anfechten? Begründen Sie kurz, auch in Abgrenzung zu § 119 Abs. 2.",
       "modelAnswer": "V könnte seine Willenserklärung wegen Inhaltsirrtums nach § 119 Abs. 1 Var. 1 anfechten. Ein Inhaltsirrtum liegt vor, wenn der äußere Erklärungstatbestand dem Willen entspricht, der Erklärende ihr aber eine andere Bedeutung beimisst, als sie objektiv hat. Dazu gehört der Identitätsirrtum (error in persona): Der Erklärende meint, eine andere Person bezeichnet zu haben. V wollte mit dem empfohlenen Josef Schmitz kontrahieren, hat aber objektiv mit dem Erschienenen abgeschlossen. Hier ist schon die Identifizierung der Person fehlgeschlagen; es geht nicht darum, dass einer richtig identifizierten Person irrig Eigenschaften zugeschrieben werden (dann § 119 Abs. 2). Bei Kenntnis der Sachlage hätte V die Erklärung nicht abgegeben. V kann daher wegen Inhaltsirrtums anfechten, und zwar unverzüglich (§ 121 Abs. 1) gegenüber dem Vertragspartner (§ 143 Abs. 2); er haftet dann nach § 122 auf den Vertrauensschaden.",
-      "rubric": ["Inhaltsirrtum § 119 Abs. 1 Var. 1 mit Definition", "Identitätsirrtum (error in persona) erkannt", "Abgrenzung: Identifizierung fehlgeschlagen vs. Eigenschaftsirrtum § 119 Abs. 2", "Erheblichkeit/Kausalität", "Hinweis auf Frist § 121 und Folge § 122"],
-      "hints": ["Hat V die Person richtig identifiziert und sich nur über ihre Eigenschaften geirrt?", "Lesen Sie die Abgrenzung im Skript zum Identitätsirrtum."],
-      "src": [{ "doc": "BGB_6", "page": 10 }, { "doc": "BGB_6", "page": 11 }]
+      "rubric": [
+        "Inhaltsirrtum § 119 Abs. 1 Var. 1 mit Definition",
+        "Identitätsirrtum (error in persona) erkannt",
+        "Abgrenzung: Identifizierung fehlgeschlagen vs. Eigenschaftsirrtum § 119 Abs. 2",
+        "Erheblichkeit/Kausalität",
+        "Hinweis auf Frist § 121 und Folge § 122"
+      ],
+      "hints": [
+        "Hat V die Person richtig identifiziert und sich nur über ihre Eigenschaften geirrt?",
+        "Lesen Sie die Abgrenzung im Skript zum Identitätsirrtum."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 10
+        },
+        {
+          "doc": "BGB_6",
+          "page": 11
+        }
+      ]
     },
     {
-      "id": "q8", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "id": "q8",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "K kauft ein an M vermietetes Einfamilienhaus, um selbst einzuziehen, und übersieht, dass er nach § 566 Abs. 1 in den Mietvertrag eintritt. K kann den Kaufvertrag wegen eines Rechtsfolgenirrtums als Inhaltsirrtum nach § 119 Abs. 1 anfechten.",
       "answer": false,
       "explanation": "Ein Rechtsfolgenirrtum ist nur dann Inhaltsirrtum, wenn die Rechtsfolge Inhalt der Erklärung ist (Beispiel: Hypothek wird an erster statt an zweiter Stelle bestellt). Der Eintritt in den Mietvertrag ist eine Nebenfolge, die kraft Gesetzes (§ 566) eintritt; sie ist nicht Inhalt der Kauferklärung. Ein solcher Irrtum ist unbeachtlich.",
-      "hints": ["Tritt die Folge kraft des Parteiwillens oder kraft Gesetzes ein?"],
-      "src": [{ "doc": "BGB_6", "page": 11 }, { "doc": "BGB_6", "page": 12 }]
+      "hints": [
+        "Tritt die Folge kraft des Parteiwillens oder kraft Gesetzes ein?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 11
+        },
+        {
+          "doc": "BGB_6",
+          "page": 12
+        }
+      ]
     },
     {
-      "id": "q9", "type": "mc-multi", "level": "understand", "difficulty": 3,
+      "id": "q9",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "Welche Aussagen zum Kalkulationsirrtum entsprechen dem Skript? Wählen Sie alle zutreffenden Antworten.",
       "options": [
         "Der verdeckte Kalkulationsirrtum ist ein unbeachtlicher Motivirrtum, auch wenn der Empfänger ihn hätte erkennen können.",
@@ -232,13 +804,36 @@
         "Sind Berechnungsgrundlage und Endergebnis gleichrangig gewollt, aber unvereinbar, ist die Erklärung wegen Perplexität nichtig.",
         "Nach heute herrschender Auffassung ist der offene Kalkulationsirrtum als „erweiterter Inhaltsirrtum“ nach § 119 Abs. 1 anfechtbar."
       ],
-      "answer": [0, 1, 2],
+      "answer": [
+        0,
+        1,
+        2
+      ],
       "explanation": "Der „erweiterte Inhaltsirrtum“ war die Lösung des Reichsgerichts (Rubel-, Silberfall). Sie ist auf berechtigte Kritik gestoßen, denn bei Abgabe stimmen Wille und Erklärung überein; auch der BGH (BGHZ 139, 177) lehnt sie ab. Merksatz des Skripts: Der Kalkulationsirrtum berechtigt nie zur Anfechtung.",
-      "hints": ["Wie bewertet das Skript die RG-Rechtsprechung?", "Merke-Kasten auf S. 14."],
-      "src": [{ "doc": "BGB_6", "page": 12 }, { "doc": "BGB_6", "page": 13 }, { "doc": "BGB_6", "page": 14 }]
+      "hints": [
+        "Wie bewertet das Skript die RG-Rechtsprechung?",
+        "Merke-Kasten auf S. 14."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 12
+        },
+        {
+          "doc": "BGB_6",
+          "page": 13
+        },
+        {
+          "doc": "BGB_6",
+          "page": 14
+        }
+      ]
     },
     {
-      "id": "q10", "type": "order", "level": "understand", "difficulty": 2,
+      "id": "q10",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Bringen Sie die vom Skript empfohlenen Prüfungsschritte beim offenen Kalkulationsirrtum in die richtige Reihenfolge.",
       "items": [
         "Auslegung nach §§ 133, 157 (ggf. falsa demonstratio non nocet)",
@@ -246,11 +841,22 @@
         "Anpassung nach den Regeln über die Störung der Geschäftsgrundlage (§ 313)"
       ],
       "explanation": "Zuerst ist auszulegen; bleibt ein unauflösbarer Widerspruch, ist die Erklärung perplex und nichtig; gehört die gemeinsame Kalkulation zur Geschäftsgrundlage, kommt eine Anpassung nach § 313 in Betracht. Eine Anfechtung ist in keinem Schritt vorgesehen.",
-      "hints": ["Auslegung geht stets vor.", "§ 313 ist ein Auffangtatbestand."],
-      "src": [{ "doc": "BGB_6", "page": 14 }]
+      "hints": [
+        "Auslegung geht stets vor.",
+        "§ 313 ist ein Auffangtatbestand."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 14
+        }
+      ]
     },
     {
-      "id": "q11", "type": "mc-single", "level": "recognize", "difficulty": 1,
+      "id": "q11",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Welcher der folgenden Umstände ist nach dem Skript keine Eigenschaft einer Sache i.S.d. § 119 Abs. 2?",
       "options": [
         "der Preis (Wert) der Sache",
@@ -258,37 +864,95 @@
         "die Bebaubarkeit eines Grundstücks",
         "das Alter eines gebrauchten Kraftfahrzeugs"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Der Preis enthält nur ein Werturteil, das auf Eigenschaften beruht; Eigenschaften sind die wertbildenden Faktoren selbst. Echtheit, Bebaubarkeit und Alter eines Gebrauchtwagens hat die Rechtsprechung als Eigenschaften anerkannt. Ebenfalls keine Eigenschaft ist nach dem Skript (streitig) das Eigentum an der Sache.",
-      "hints": ["Unterscheiden Sie Werturteil und wertbildende Faktoren."],
-      "src": [{ "doc": "BGB_6", "page": 16 }]
+      "hints": [
+        "Unterscheiden Sie Werturteil und wertbildende Faktoren."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 16
+        }
+      ]
     },
     {
-      "id": "q12", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "id": "q12",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Die Schwangerschaft einer Arbeitnehmerin ist nach dem Skript eine verkehrswesentliche Eigenschaft einer Person i.S.d. § 119 Abs. 2.",
       "answer": false,
       "explanation": "Der Gesundheitszustand kann eine Eigenschaft sein, wenn er von Dauer ist. Die Schwangerschaft ist nur vorübergehend und deshalb keine Eigenschaft i.S.d. § 119 Abs. 2. Zum „Recht zur Lüge“ bei der Frage nach der Schwangerschaft siehe § 123 (S. 20).",
-      "hints": ["Eigenschaften setzen eine gewisse Dauer voraus."],
-      "src": [{ "doc": "BGB_6", "page": 15 }]
+      "hints": [
+        "Eigenschaften setzen eine gewisse Dauer voraus."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 15
+        }
+      ]
     },
     {
-      "id": "q13", "type": "free", "level": "formulate", "difficulty": 3,
+      "id": "q13",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
       "prompt": "Erläutern Sie, warum der Käufer nach Gefahrübergang nicht nach § 119 Abs. 2 anfechten kann, und unter welchen Voraussetzungen dem Verkäufer eine Anfechtung nach § 119 Abs. 2 möglich bleibt.",
       "modelAnswer": "Die Vorschriften über die Sachmängelgewährleistung (§§ 437 ff.) gelten überwiegend als leges speciales gegenüber § 119 Abs. 2. Der Käufer soll sich nicht den Sonderregeln entziehen können, die der Sicherheit des Rechtsverkehrs dienen: Die kürzere Verjährung des § 438 würde unterlaufen, weil die Frist des § 121 erst mit Kenntnis beginnt, und der Verkäufer verlöre sein Recht zur Nacherfüllung (§§ 437 Nr. 1, 439). Viele Stimmen schließen die Käuferanfechtung auch vor Gefahrübergang aus, weil der Käufer sich sonst entgegen dem Gedanken des § 442 Abs. 1 S. 2 auch bei grober Fahrlässigkeit lösen könnte. Beim Verkäufer besteht keine Konkurrenz, weil ihm keine Gewährleistungsrechte zustehen. Er darf aber nicht anfechten, um sich seiner gesetzlichen Gewährleistungspflicht zu entziehen (Rechtsmissbrauch). Möglich bleibt die Anfechtung etwa, wenn er sich über die Urheberschaft eines Bildes geirrt und den Preis deshalb zu niedrig angesetzt hat.",
-      "rubric": ["§§ 437 ff. als leges speciales", "Begründung: § 438 Verjährung, Nacherfüllungsrecht §§ 437 Nr. 1, 439", "Problem der Phase vor Gefahrübergang (§ 442 I 2)", "Verkäufer: keine Konkurrenz, aber Rechtsmissbrauchsgrenze", "Beispiel Urheberschaft/zu niedriger Preis"],
-      "hints": ["Was wäre mit § 438 und § 439, wenn der Käufer frei anfechten könnte?", "Wem stehen Gewährleistungsrechte überhaupt zu?"],
-      "src": [{ "doc": "BGB_6", "page": 16 }, { "doc": "BGB_6", "page": 17 }]
+      "rubric": [
+        "§§ 437 ff. als leges speciales",
+        "Begründung: § 438 Verjährung, Nacherfüllungsrecht §§ 437 Nr. 1, 439",
+        "Problem der Phase vor Gefahrübergang (§ 442 I 2)",
+        "Verkäufer: keine Konkurrenz, aber Rechtsmissbrauchsgrenze",
+        "Beispiel Urheberschaft/zu niedriger Preis"
+      ],
+      "hints": [
+        "Was wäre mit § 438 und § 439, wenn der Käufer frei anfechten könnte?",
+        "Wem stehen Gewährleistungsrechte überhaupt zu?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 16
+        },
+        {
+          "doc": "BGB_6",
+          "page": 17
+        }
+      ]
     },
     {
-      "id": "q14", "type": "order", "level": "recall", "difficulty": 2,
+      "id": "q14",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Bringen Sie die Prüfungspunkte des Anfechtungsgrundes § 119 Abs. 2 (Prüfungsschema des Skripts) in die richtige Reihenfolge.",
-      "items": ["Eigenschaft", "Verkehrswesentlichkeit", "Irrtum", "Kausalität zwischen Irrtum und Abgabe der Willenserklärung"],
+      "items": [
+        "Eigenschaft",
+        "Verkehrswesentlichkeit",
+        "Irrtum",
+        "Kausalität zwischen Irrtum und Abgabe der Willenserklärung"
+      ],
       "explanation": "Nach dem Skript (S. 17) wird innerhalb des Anfechtungsgrundes zunächst die Eigenschaft, dann ihre Verkehrswesentlichkeit, dann der Irrtum und schließlich die Kausalität geprüft. Davor stehen die Zulässigkeit (Vorrang der Gewährleistung) und die Anfechtungserklärung, danach die Frist des § 121.",
-      "hints": ["Erst den Gegenstand des Irrtums bestimmen, dann den Irrtum selbst."],
-      "src": [{ "doc": "BGB_6", "page": 17 }]
+      "hints": [
+        "Erst den Gegenstand des Irrtums bestimmen, dann den Irrtum selbst."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 17
+        }
+      ]
     },
     {
-      "id": "q15", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "F verhandelt seit mehr als fünf Jahren mit U über eine Furniermaschine. Er verkauft ihr schließlich das Modell „XG 100“ und verschweigt, dass es nur einseitig furniert, obwohl er weiß, dass U überwiegend beidseitig furnierte Platten verarbeitet. U fragt nicht nach. Welche Beurteilung entspricht dem Skript?",
       "options": [
         "Täuschung durch Unterlassen, weil sich aus dem langjährigen Vertrauensverhältnis eine Aufklärungspflicht ergibt; U kann nach § 123 Abs. 1 anfechten.",
@@ -296,21 +960,56 @@
         "Keine Täuschung, weil es eine allgemeine Pflicht, den Partner über alle entscheidungserheblichen Umstände aufzuklären, nicht gibt und F nichts Falsches gesagt hat.",
         "Nur Eigenschaftsirrtum der U nach § 119 Abs. 2; § 123 scheidet aus, weil F nicht aktiv gelogen hat."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Eine allgemeine Aufklärungspflicht besteht zwar nicht (deshalb ist C verlockend), aber nach den Fallgruppen der Rechtsprechung kann sie sich aus einem besonderen Vertrauensverhältnis ergeben. Die gezielte Frage ist nur eine von mehreren Fallgruppen.",
-      "hints": ["Welche Fallgruppen einer Aufklärungspflicht nennt das Skript?"],
-      "src": [{ "doc": "BGB_6", "page": 19 }]
+      "hints": [
+        "Welche Fallgruppen einer Aufklärungspflicht nennt das Skript?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 19
+        }
+      ]
     },
     {
-      "id": "q16", "type": "cloze", "level": "recall", "difficulty": 2,
+      "id": "q16",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Arglistig handelt, wer Täuschungsvorsatz hat; {{1}} genügt, grobe {{2}} dagegen nicht. Die Rechtsprechung zieht die Grenze bei Behauptungen „ins {{3}} hinein“.",
-      "blanks": [["dolus eventualis", "bedingter Vorsatz", "Eventualvorsatz"], ["Fahrlässigkeit"], ["Blaue"]],
+      "blanks": [
+        [
+          "dolus eventualis",
+          "bedingter Vorsatz",
+          "Eventualvorsatz"
+        ],
+        [
+          "Fahrlässigkeit"
+        ],
+        [
+          "Blaue"
+        ]
+      ],
       "explanation": "Wer gutgläubig falsche Angaben macht, handelt selbst bei Leichtfertigkeit nicht arglistig. Wer aber ohne Erkenntnisgrundlage etwa Unfallfreiheit behauptet, handelt arglistig (S. 20).",
-      "hints": ["Lateinischer Begriff für bedingten Vorsatz.", "Denken Sie an den Autoverkäufer ohne tatsächliche Grundlage."],
-      "src": [{ "doc": "BGB_6", "page": 20 }]
+      "hints": [
+        "Lateinischer Begriff für bedingten Vorsatz.",
+        "Denken Sie an den Autoverkäufer ohne tatsächliche Grundlage."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        }
+      ]
     },
     {
-      "id": "q17", "type": "mc-multi", "level": "apply", "difficulty": 3,
+      "id": "q17",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "Bei welchen Personen handelt es sich nach dem Skript NICHT um „Dritte“ i.S.d. § 123 Abs. 2, sodass ihre Täuschung dem Erklärungsempfänger ohne Kenntnis oder Kennenmüssen zugerechnet wird? Wählen Sie alle zutreffenden Antworten.",
       "options": [
         "der Stellvertreter des Erklärungsempfängers",
@@ -318,21 +1017,58 @@
         "ein Makler, der den Vertragsschluss lediglich vermittelt",
         "das Organ einer Gesellschaft, die Erklärungsempfängerin ist"
       ],
-      "answer": [0, 1, 3],
+      "answer": [
+        0,
+        1,
+        3
+      ],
       "explanation": "Personen im Lager des Erklärungsempfängers (Stellvertreter, Organe, Verhandlungsgehilfen/Vertrauenspersonen i.S.d. § 278) sind keine Dritten; die Zurechnung folgt aus §§ 31, 278, 166. Der bloße Vermittler, etwa ein Makler, ist dagegen Dritter; seine Täuschung muss sich der Empfänger nur bei Kenntnis oder Kennenmüssen entgegenhalten lassen.",
-      "hints": ["Stichwort „Lagertheorie“.", "Vermittler stehen gerade nicht im Lager einer Partei."],
-      "src": [{ "doc": "BGB_6", "page": 20 }, { "doc": "BGB_6", "page": 21 }, { "doc": "BGB_6", "page": 22 }]
+      "hints": [
+        "Stichwort „Lagertheorie“.",
+        "Vermittler stehen gerade nicht im Lager einer Partei."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 21
+        },
+        {
+          "doc": "BGB_6",
+          "page": 22
+        }
+      ]
     },
     {
-      "id": "q18", "type": "truefalse", "level": "recall", "difficulty": 1,
+      "id": "q18",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Hat ein echter Dritter getäuscht, ist eine gegenüber einem anderen abgegebene Erklärung nach § 123 Abs. 2 S. 1 nur anfechtbar, wenn der Erklärungsempfänger die Täuschung kannte oder kennen musste.",
       "answer": true,
       "explanation": "So § 123 Abs. 2 S. 1 und das Skript (S. 20). Der Empfänger darf auf die Unabhängigkeit des Dritten vertrauen und ist deshalb privilegiert (S. 22). Beachten Sie, dass das Skript auf S. 22 von „grob fahrlässiger Unkenntnis“ spricht, während Gesetz und S. 20 auf „kennen musste“ abstellen.",
-      "hints": ["Der Empfänger soll nicht für jede fremde Lüge einstehen müssen."],
-      "src": [{ "doc": "BGB_6", "page": 20 }, { "doc": "BGB_6", "page": 22 }]
+      "hints": [
+        "Der Empfänger soll nicht für jede fremde Lüge einstehen müssen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 22
+        }
+      ]
     },
     {
-      "id": "q19", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q19",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Welche Aussage zur Drohung i.S.d. § 123 Abs. 1 Alt. 2 ist zutreffend?",
       "options": [
         "Auch eine nicht ernst gemeinte Drohung kann zur Anfechtung berechtigen, wenn der Bedrohte sie als ernstlich auffassen durfte.",
@@ -340,34 +1076,83 @@
         "Der Drohende muss das Bewusstsein haben, rechtswidrig zu handeln.",
         "Die Ankündigung einer Strafanzeige ist niemals eine Drohung, weil jeder Bürger Straftaten anzeigen darf."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Die Zwangslage ist aus Sicht des Bedrohten zu beurteilen. Das Ausnutzen eines bestehenden Übels ist nach der Definition keine Drohung. Ein Bewusstsein der Rechtswidrigkeit ist nicht erforderlich; es genügt die Kenntnis der Umstände. Die Strafanzeige kann eine Drohung sein; ob sie widerrechtlich ist, ist eine andere Frage.",
-      "hints": ["Aus wessen Sicht wird die psychische Zwangslage beurteilt?", "Trennen Sie Drohung und Widerrechtlichkeit."],
-      "src": [{ "doc": "BGB_6", "page": 22 }, { "doc": "BGB_6", "page": 23 }]
+      "hints": [
+        "Aus wessen Sicht wird die psychische Zwangslage beurteilt?",
+        "Trennen Sie Drohung und Widerrechtlichkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 22
+        },
+        {
+          "doc": "BGB_6",
+          "page": 23
+        }
+      ]
     },
     {
-      "id": "q20", "type": "truefalse", "level": "recall", "difficulty": 2,
+      "id": "q20",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Nach der vom Skript befürworteten Literaturansicht entfällt die Widerrechtlichkeit einer Drohung nicht schon deshalb, weil sich der Drohende unverschuldet über die Grundlagen der Wertung geirrt hat.",
       "answer": true,
       "explanation": "Der BGH will die Widerrechtlichkeit bei unverschuldetem Irrtum über die Wertungsgrundlagen ausschließen. Die Literatur hält mit Recht entgegen, § 123 Abs. 1 Alt. 2 diene nicht dem Vorwurf gegen den Drohenden, sondern dem Schutz der Entschließungsfreiheit des Bedrohten.",
-      "hints": ["Wen schützt § 123?"],
-      "src": [{ "doc": "BGB_6", "page": 24 }]
+      "hints": [
+        "Wen schützt § 123?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 24
+        }
+      ]
     },
     {
-      "id": "q21", "type": "match", "level": "recall", "difficulty": 1,
+      "id": "q21",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Ordnen Sie die Anfechtungsfristen bzw. den Ausschlussgrund zu.",
       "pairs": [
-        ["Erklärungs- oder Inhaltsirrtum (§ 119 Abs. 1)", "unverzüglich, § 121 Abs. 1"],
-        ["Übermittlungsirrtum (§ 120)", "ohne schuldhaftes Zögern, § 121 Abs. 1"],
-        ["arglistige Täuschung oder widerrechtliche Drohung (§ 123)", "binnen Jahresfrist, § 124"],
-        ["Erklärung in Kenntnis des Anfechtungsrechts, es nicht ausüben zu wollen", "Bestätigung, § 144"]
+        [
+          "Erklärungs- oder Inhaltsirrtum (§ 119 Abs. 1)",
+          "unverzüglich, § 121 Abs. 1"
+        ],
+        [
+          "Übermittlungsirrtum (§ 120)",
+          "ohne schuldhaftes Zögern, § 121 Abs. 1"
+        ],
+        [
+          "arglistige Täuschung oder widerrechtliche Drohung (§ 123)",
+          "binnen Jahresfrist, § 124"
+        ],
+        [
+          "Erklärung in Kenntnis des Anfechtungsrechts, es nicht ausüben zu wollen",
+          "Bestätigung, § 144"
+        ]
       ],
       "explanation": "Für §§ 119, 120 gilt § 121 Abs. 1 (unverzüglich = ohne schuldhaftes Zögern), für § 123 die Jahresfrist des § 124 mit Fristbeginn nach § 124 Abs. 2. Die Bestätigung nach § 144 setzt Kenntnis vom Anfechtungsgrund voraus.",
-      "hints": ["Der Getäuschte oder Bedrohte erhält mehr Zeit als der Irrende."],
-      "src": [{ "doc": "BGB_6", "page": 24 }]
+      "hints": [
+        "Der Getäuschte oder Bedrohte erhält mehr Zeit als der Irrende."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 24
+        }
+      ]
     },
     {
-      "id": "q22", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q22",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "M wird beim Autokauf von H arglistig getäuscht. Er erfährt davon, weiß, dass er anfechten könnte, überweist aber dennoch den noch offenen Kaufpreis. Zwei Monate später erklärt er die Anfechtung. Wie ist die Lage?",
       "options": [
         "Die Anfechtung ist im Zweifel ausgeschlossen, weil M den Vertrag durch die Zahlung konkludent bestätigt hat (§ 144).",
@@ -375,21 +1160,60 @@
         "Die Anfechtung ist verfristet, weil M nach § 121 Abs. 1 unverzüglich hätte anfechten müssen.",
         "Die Anfechtung ist wirksam, weil eine Bestätigung nach § 144 Abs. 2 der Form des Kaufvertrags bedarf."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Die Frist des § 124 wäre gewahrt, § 121 gilt für § 123 nicht. Zahlt M aber in Kenntnis seines Anfechtungsrechts, bestätigt er im Zweifel konkludent (S. 25). Die Bestätigung bedarf nach § 144 Abs. 2 gerade nicht der Form des Rechtsgeschäfts.",
-      "hints": ["Prüfen Sie neben der Frist auch einen Ausschlussgrund.", "Was signalisiert die Zahlung in Kenntnis der Täuschung?"],
-      "src": [{ "doc": "BGB_6", "page": 24 }, { "doc": "BGB_6", "page": 25 }]
+      "hints": [
+        "Prüfen Sie neben der Frist auch einen Ausschlussgrund.",
+        "Was signalisiert die Zahlung in Kenntnis der Täuschung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 24
+        },
+        {
+          "doc": "BGB_6",
+          "page": 25
+        }
+      ]
     },
     {
-      "id": "q23", "type": "case", "level": "apply", "difficulty": 3,
+      "id": "q23",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "A will DJ D für seine Geburtstagsfeier buchen und verschreibt sich im Angebotsschreiben: Statt 600 € schreibt er 900 €. D nimmt an und lehnt eine Anfrage des C über 1.000 € für denselben Abend ab. Kurz vor dem Termin erfährt A von seinem Fehler und ficht sofort wirksam an. D wusste von dem Fehler nichts und konnte ihn nicht erkennen. Welchen Betrag kann D nach § 122 verlangen?",
       "modelAnswer": "D könnte gegen A einen Anspruch auf Schadensersatz aus § 122 Abs. 1 haben. A hat seine Erklärung wegen Erklärungsirrtums (§ 119 Abs. 1 Var. 2) wirksam angefochten. Ein Ausschluss nach § 122 Abs. 2 scheidet aus, da D den Anfechtungsgrund weder kannte noch infolge Fahrlässigkeit nicht kannte. Zu ersetzen ist der Vertrauensschaden (negatives Interesse): D ist so zu stellen, als hätte er von dem Geschäft nie gehört. Dann hätte er das Angebot des C über 1.000 € angenommen; der entgangene Gewinn beträgt also 1.000 €. Nach § 122 Abs. 1 ist der Anspruch jedoch durch das Erfüllungsinteresse begrenzt. Bei ordnungsgemäßer Durchführung des Vertrags hätte D 900 € erhalten. D kann daher 900 € verlangen. Auf ein Verschulden des A kommt es nicht an. (Wie im Musikerinnen-Beispiel des Skripts ist vereinfachend der vereinbarte Betrag als Erfüllungsinteresse angesetzt.)",
-      "rubric": ["Anspruchsgrundlage § 122 Abs. 1", "wirksame Anfechtung nach § 119 Abs. 1", "kein Ausschluss nach § 122 Abs. 2", "Vertrauensschaden 1.000 € (entgangener Gewinn)", "Begrenzung auf Erfüllungsinteresse 900 €", "Verschuldensunabhängigkeit"],
-      "hints": ["Wie stünde D, wenn er von A nie gehört hätte?", "Wie stünde D bei Erfüllung?"],
-      "src": [{ "doc": "BGB_6", "page": 26 }, { "doc": "BGB_6", "page": 27 }]
+      "rubric": [
+        "Anspruchsgrundlage § 122 Abs. 1",
+        "wirksame Anfechtung nach § 119 Abs. 1",
+        "kein Ausschluss nach § 122 Abs. 2",
+        "Vertrauensschaden 1.000 € (entgangener Gewinn)",
+        "Begrenzung auf Erfüllungsinteresse 900 €",
+        "Verschuldensunabhängigkeit"
+      ],
+      "hints": [
+        "Wie stünde D, wenn er von A nie gehört hätte?",
+        "Wie stünde D bei Erfüllung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 26
+        },
+        {
+          "doc": "BGB_6",
+          "page": 27
+        }
+      ]
     },
     {
-      "id": "q24", "type": "mc-multi", "level": "understand", "difficulty": 2,
+      "id": "q24",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Welche Aussagen zu den Konkurrenzen treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
       "options": [
         "Die Anfechtung nach § 123 Abs. 1 ist neben den Gewährleistungsrechten der §§ 437 ff. anwendbar.",
@@ -397,21 +1221,45 @@
         "Wer wegen arglistiger Täuschung anficht, muss dem Täuschenden dessen Vertrauensschaden nach § 122 ersetzen.",
         "Die Käuferanfechtung nach § 119 Abs. 2 ist nach Gefahrübergang neben den §§ 437 ff. uneingeschränkt möglich."
       ],
-      "answer": [0, 1],
+      "answer": [
+        0,
+        1
+      ],
       "explanation": "§ 123 wird durch das Gewährleistungsrecht nicht verdrängt, c.i.c. und §§ 823 ff. bleiben anwendbar (S. 27). § 122 gilt nur für Anfechtungen nach §§ 119, 120. Die Käuferanfechtung nach § 119 Abs. 2 wird von den §§ 437 ff. verdrängt (S. 16–17).",
-      "hints": ["Wer arglistig täuscht, verdient keinen Schutz.", "Vergleichen Sie § 119 Abs. 2 und § 123 im Verhältnis zu §§ 437 ff."],
-      "src": [{ "doc": "BGB_6", "page": 27 }]
+      "hints": [
+        "Wer arglistig täuscht, verdient keinen Schutz.",
+        "Vergleichen Sie § 119 Abs. 2 und § 123 im Verhältnis zu §§ 437 ff."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 27
+        }
+      ]
     },
     {
-      "id": "q25", "type": "truefalse", "level": "recognize", "difficulty": 1,
+      "id": "q25",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Eine Teilanfechtung ist möglich, wenn das Rechtsgeschäft teilbar ist, also ein Restgeschäft wirksam bestehen bleiben kann; ob das so ist, richtet sich nach § 139.",
       "answer": true,
       "explanation": "Die Teilanfechtung ist nicht ausgeschlossen, setzt aber Teilbarkeit voraus; maßgeblich ist § 139 (näher § 15 I).",
-      "hints": ["Welche Norm regelt die Teilnichtigkeit?"],
-      "src": [{ "doc": "BGB_6", "page": 27 }]
+      "hints": [
+        "Welche Norm regelt die Teilnichtigkeit?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 27
+        }
+      ]
     },
     {
-      "id": "q26", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q26",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "A hält seinen Unfallwagen für einen Totalschaden und kauft deshalb bei V einen Neuwagen. Später stellt sich heraus, dass der alte Wagen günstig reparierbar ist. V wusste von alldem nichts. Wie ist die Lage nach dem Skript?",
       "options": [
         "A unterliegt einem unbeachtlichen Motivirrtum; er kann gegenüber V nicht anfechten.",
@@ -419,26 +1267,572 @@
         "A kann Vertragsanpassung nach § 313 Abs. 2 verlangen, weil seine Vorstellung Geschäftsgrundlage geworden ist.",
         "A kann wegen Inhaltsirrtums anfechten, weil er die Bedeutung seiner Erklärung verkannt hat."
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Der Irrtum betrifft nicht den gekauften Neuwagen, sondern den Beweggrund des A (Zustand seines alten Wagens) – ein unbeachtlicher Motivirrtum. § 313 Abs. 2 scheidet aus, weil es sich um eine einseitige, V nicht erkennbar zugrunde gelegte Vorstellung aus der Risikosphäre des A handelt.",
-      "hints": ["Bezieht sich der Irrtum auf die Kaufsache?", "Hat V die Vorstellung des A geteilt oder auch nur gekannt?"],
-      "src": [{ "doc": "BGB_6", "page": 27 }, { "doc": "BGB_6", "page": 28 }]
+      "hints": [
+        "Bezieht sich der Irrtum auf die Kaufsache?",
+        "Hat V die Vorstellung des A geteilt oder auch nur gekannt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 27
+        },
+        {
+          "doc": "BGB_6",
+          "page": 28
+        }
+      ]
     },
     {
-      "id": "q27", "type": "cloze", "level": "recall", "difficulty": 2,
+      "id": "q27",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "§ 313 Abs. {{1}} regelt das ursprüngliche Fehlen der subjektiven Geschäftsgrundlage, insbesondere den beiderseitigen Motivirrtum (sog. {{2}}). Ist eine Anpassung nicht möglich oder unzumutbar, kann der benachteiligte Teil zurücktreten; bei Dauerschuldverhältnissen tritt an die Stelle des Rücktritts die {{3}} (§ 313 Abs. 3).",
-      "blanks": [["2", "II", "zwei"], ["Doppelirrtum"], ["Kündigung"]],
+      "blanks": [
+        [
+          "2",
+          "II",
+          "zwei"
+        ],
+        [
+          "Doppelirrtum"
+        ],
+        [
+          "Kündigung"
+        ]
+      ],
       "explanation": "§ 313 Abs. 1 erfasst den späteren Wegfall (objektive Geschäftsgrundlage), Abs. 2 das anfängliche Fehlen (subjektive Geschäftsgrundlage). Vorrangige Rechtsfolge ist der Anspruch auf Anpassung; Rücktritt bzw. Kündigung nur subsidiär (S. 28, 32).",
-      "hints": ["Abs. 1 = späterer Wegfall.", "Dauerschuldverhältnisse werden nicht durch Rücktritt beendet."],
-      "src": [{ "doc": "BGB_6", "page": 28 }, { "doc": "BGB_6", "page": 32 }]
+      "hints": [
+        "Abs. 1 = späterer Wegfall.",
+        "Dauerschuldverhältnisse werden nicht durch Rücktritt beendet."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 28
+        },
+        {
+          "doc": "BGB_6",
+          "page": 32
+        }
+      ]
     },
     {
-      "id": "q28", "type": "free", "level": "formulate", "difficulty": 3,
+      "id": "q28",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
       "prompt": "E verkauft I ein Mietshaus; der Kaufpreis soll dem 11-Fachen der Jahresmiete entsprechen. E nennt eine zu niedrige Jahresmiete; der notariell beurkundete Preis wird auf dieser Basis festgesetzt. Später verlangt E den nach der tatsächlichen Miete berechneten höheren Preis. Skizzieren Sie mit dem Skript (Fall nach BGH NJW 1981, 1551), warum E damit nicht durchdringt.",
       "modelAnswer": "Als Anspruchsgrundlage kommt § 433 Abs. 2 in Betracht; vereinbart und beurkundet ist aber nur der niedrigere Preis. Zunächst ist auszulegen, ob die Berechnungsgrundlage (11-fache Jahresmiete) selbst Vertragsinhalt geworden ist und der beurkundete Betrag nur eine unschädliche Falschbezeichnung wäre. Dem steht entgegen, dass der Grundstückskaufvertrag nach § 311b Abs. 1 S. 1 notariell zu beurkunden ist; die Form soll dem Käufer auch die finanziellen Folgen vor Augen führen, sodass der Preis nicht aus nicht beurkundeten Umständen ermittelt werden darf. Eine Anpassung nach § 313 käme nur in Betracht, wenn die Preiskalkulation gemeinsame Geschäftsgrundlage geworden wäre. Daran fehlt es, wenn das Risiko einer Fehlvorstellung nach Sinn und Zweck der Vereinbarung nur eine Partei treffen soll. Beim Kauf als reinem Austauschvertrag will der Käufer das Risiko einer fehlerhaften Kalkulation des Verkäufers regelmäßig nicht übernehmen, auch wenn sie offengelegt wurde. Besondere Umstände liegen nicht vor. E kann nur den vereinbarten Preis verlangen. Eine Anfechtung scheidet aus, weil es sich um einen Kalkulationsirrtum handelt.",
-      "rubric": ["§ 433 Abs. 2 als Ausgangspunkt", "Auslegung/falsa demonstratio geprüft", "Formzweck § 311b Abs. 1 S. 1 steht Auslegung entgegen", "§ 313: offengelegte Kalkulation des Verkäufers regelmäßig keine Geschäftsgrundlage beim Kauf", "Risikoverteilung als Kernargument", "Ergebnis: nur vereinbarter Preis"],
-      "hints": ["Prüfen Sie zuerst die Auslegung, dann § 313.", "Wer trägt beim Kauf typischerweise das Kalkulationsrisiko?"],
-      "src": [{ "doc": "BGB_6", "page": 35 }, { "doc": "BGB_6", "page": 36 }]
+      "rubric": [
+        "§ 433 Abs. 2 als Ausgangspunkt",
+        "Auslegung/falsa demonstratio geprüft",
+        "Formzweck § 311b Abs. 1 S. 1 steht Auslegung entgegen",
+        "§ 313: offengelegte Kalkulation des Verkäufers regelmäßig keine Geschäftsgrundlage beim Kauf",
+        "Risikoverteilung als Kernargument",
+        "Ergebnis: nur vereinbarter Preis"
+      ],
+      "hints": [
+        "Prüfen Sie zuerst die Auslegung, dann § 313.",
+        "Wer trägt beim Kauf typischerweise das Kalkulationsrisiko?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 35
+        },
+        {
+          "doc": "BGB_6",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "§ 119 Abs. 1 BGB: Wer bei der Abgabe einer Willenserklärung über deren {{1}} im Irrtum war oder eine Erklärung dieses Inhalts überhaupt nicht {{2}} wollte, kann die Erklärung anfechten, wenn anzunehmen ist, dass er sie bei Kenntnis der Sachlage und bei {{3}} des Falles nicht abgegeben haben würde.",
+      "blanks": [
+        [
+          "Inhalt"
+        ],
+        [
+          "abgeben"
+        ],
+        [
+          "verständiger Würdigung"
+        ]
+      ],
+      "explanation": "Var. 1 = Inhaltsirrtum, Var. 2 = Erklärungsirrtum (S. 8–9); der Schlussteil verlangt subjektive und objektive Erheblichkeit (S. 14).",
+      "hints": [
+        "Zwei Irrtumsarten in einem Satz.",
+        "Der letzte Teil prüft die Erheblichkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 8
+        },
+        {
+          "doc": "BGB_6",
+          "page": 9
+        },
+        {
+          "doc": "BGB_6",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 119 Abs. 2 BGB: Als Irrtum über den Inhalt der Erklärung gilt auch der Irrtum über solche {{1}} der Person oder der Sache, die im Verkehr als {{2}} angesehen werden.",
+      "blanks": [
+        [
+          "Eigenschaften"
+        ],
+        [
+          "wesentlich"
+        ]
+      ],
+      "explanation": "Der Eigenschaftsirrtum ist eigentlich ein Motivirrtum; § 119 Abs. 2 stellt ihn per Fiktion dem Inhaltsirrtum gleich (S. 14–15).",
+      "hints": [
+        "„Verkehrs…“ – das zweite Wort steckt im Begriff."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 14
+        },
+        {
+          "doc": "BGB_6",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wer nach §§ 119, 120 BGB anficht, muss dem anderen den Schaden ersetzen, den dieser dadurch erleidet, dass er auf die Gültigkeit der Erklärung vertraut ({{1}}), jedoch nicht über das {{2}} hinaus. Die Ersatzpflicht entfällt, wenn der Geschädigte den Anfechtungsgrund kannte oder infolge {{3}} nicht kannte.",
+      "blanks": [
+        [
+          "Vertrauensschaden",
+          "negatives Interesse"
+        ],
+        [
+          "Erfüllungsinteresse",
+          "positive Interesse",
+          "positives Interesse"
+        ],
+        [
+          "Fahrlässigkeit"
+        ]
+      ],
+      "explanation": "§ 122 Abs. 1 und 2 (S. 26): verschuldensunabhängige Haftung; Ausschluss schon bei jeder Fahrlässigkeit des Geschädigten.",
+      "hints": [
+        "Negatives vs. positives Interesse.",
+        "Abs. 2: „kennen musste“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 120 BGB",
+          "Falsche Übermittlung durch Boten oder Anstalt"
+        ],
+        [
+          "§ 123 Abs. 2 S. 1 BGB",
+          "Täuschung durch Dritte: nur bei Kennen oder Kennenmüssen des Empfängers"
+        ],
+        [
+          "§ 143 Abs. 2 BGB",
+          "Anfechtungsgegner beim Vertrag ist der Vertragspartner"
+        ],
+        [
+          "§ 142 Abs. 1 BGB",
+          "Angefochtenes Geschäft ist von Anfang an nichtig"
+        ],
+        [
+          "§ 122 Abs. 1 BGB",
+          "Ersatz des Vertrauensschadens nach Irrtumsanfechtung"
+        ],
+        [
+          "§ 313 Abs. 3 BGB",
+          "Rücktritt oder Kündigung, wenn Anpassung nicht möglich oder unzumutbar"
+        ]
+      ],
+      "explanation": "§ 120 S. 10; § 123 Abs. 2 S. 20; § 143 S. 24; § 142 S. 25; § 122 S. 26; § 313 Abs. 3 S. 32.",
+      "hints": [
+        "Zwei Normen betreffen die Folgen der Anfechtung.",
+        "§ 313 ist keine Anfechtungsnorm."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 10
+        },
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 24
+        },
+        {
+          "doc": "BGB_6",
+          "page": 25
+        },
+        {
+          "doc": "BGB_6",
+          "page": 26
+        },
+        {
+          "doc": "BGB_6",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung einer Anfechtung in die richtige Reihenfolge.",
+      "items": [
+        "Zulässigkeit der Anfechtung (z.B. kein Vorrang des Gewährleistungsrechts)",
+        "Anfechtungserklärung gegenüber dem Anfechtungsgegner (§ 143)",
+        "Anfechtungsgrund (§§ 119, 120, 123)",
+        "Anfechtungsfrist (§ 121 bzw. § 124)",
+        "Kein Ausschluss durch Bestätigung (§ 144)",
+        "Rechtsfolge: Nichtigkeit von Anfang an (§ 142 Abs. 1), ggf. Ersatz nach § 122"
+      ],
+      "explanation": "Aufbau nach dem Prüfungsschema des Skripts (S. 17) und den weiteren Voraussetzungen und Rechtsfolgen (S. 24–26).",
+      "hints": [
+        "Erst „darf“ angefochten werden, dann „wurde“ es, dann „warum“.",
+        "Die Folgen stehen am Ende."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 17
+        },
+        {
+          "doc": "BGB_6",
+          "page": 24
+        },
+        {
+          "doc": "BGB_6",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungspunkte der Anfechtung wegen arglistiger Täuschung (§ 123 Abs. 1 Alt. 1) in die Reihenfolge des Skripts.",
+      "items": [
+        "Täuschung über Tatsachen (positives Tun oder Unterlassen trotz Aufklärungspflicht)",
+        "Kausalität für die Abgabe der Erklärung",
+        "Widerrechtlichkeit",
+        "Arglist (Vorsatz, dolus eventualis genügt)"
+      ],
+      "explanation": "Gliederung des Skripts S. 18–20. Die Widerrechtlichkeit steht nicht im Wortlaut – „merken Sie sich diesen Prüfungspunkt“ (S. 20).",
+      "hints": [
+        "Das subjektive Element kommt zuletzt.",
+        "Ein Prüfungspunkt steht nicht im Gesetz."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 18
+        },
+        {
+          "doc": "BGB_6",
+          "page": 19
+        },
+        {
+          "doc": "BGB_6",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "K will bei einem Online-Händler 10 Kartons Druckerpapier bestellen, vertippt sich und bestellt 100. Der Händler nimmt an. Was kann K tun?",
+      "options": [
+        "Wegen Erklärungsirrtums (§ 119 Abs. 1 Var. 2) unverzüglich anfechten; er schuldet dann ggf. Ersatz des Vertrauensschadens (§ 122)",
+        "Nichts – Tippfehler sind unbeachtliche Motivirrtümer",
+        "Wegen arglistiger Täuschung anfechten",
+        "Er muss nichts tun, der Vertrag ist von selbst nichtig"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Verschreiben ist der typische Erklärungsirrtum (S. 9); Frist § 121 Abs. 1, Rechtsfolge § 142 Abs. 1, Ersatzpflicht § 122. Ohne Anfechtungserklärung bleibt der Vertrag wirksam (S. 6–7).",
+      "hints": [
+        "Wollte K eine Erklärung dieses Inhalts überhaupt abgeben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "B übernimmt gegenüber der Bank eine Bürgschaft für das Darlehen seines Freundes H, weil er H für vermögend hält. Tatsächlich ist H überschuldet. Kann B die Bürgschaft nach § 119 Abs. 2 anfechten?",
+      "options": [
+        "Nein – der Irrtum des Bürgen über die Vermögensverhältnisse des Hauptschuldners berechtigt nicht zur Anfechtung",
+        "Ja – Kreditwürdigkeit ist stets eine verkehrswesentliche Eigenschaft",
+        "Ja, aber nur binnen Jahresfrist",
+        "Nein, weil Bürgschaften überhaupt nicht anfechtbar sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Zahlungs- und Kreditwürdigkeit ist bei Kreditgeschäften zwar eine Eigenschaft; relevant ist aber nur der Irrtum des Kreditgebers über den Bürgen, nicht der des Bürgen über den Hauptschuldner (S. 15) – genau dieses Risiko übernimmt der Bürge.",
+      "hints": [
+        "Welches Risiko übernimmt ein Bürge typischerweise?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Händler V verkauft ein Gemälde als Werk eines „unbekannten Malers“ für 300 €. Später zeigt sich, dass es von einem berühmten Künstler stammt und ein Vielfaches wert ist. Kann V anfechten?",
+      "options": [
+        "Ja, nach § 119 Abs. 2 – die Urheberschaft ist eine verkehrswesentliche Eigenschaft, und V entzieht sich damit keiner Gewährleistungspflicht",
+        "Nein – der Verkäufer kann nie nach § 119 Abs. 2 anfechten",
+        "Nein – der Wert einer Sache ist keine Eigenschaft",
+        "Ja, aber nur nach § 123, weil der Käufer ihn hätte aufklären müssen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Dem Verkäufer stehen keine Gewährleistungsrechte zu; die Konkurrenz zu §§ 437 ff. stellt sich nicht. Er darf nur nicht anfechten, um sich seiner Gewährleistungspflicht zu entziehen. Irrt er über die Urheberschaft und setzt den Preis zu niedrig an, kann er anfechten (BGH NJW 1988, 2597; S. 17). Urheberschaft/Echtheit ist eine wertbildende Eigenschaft, nicht bloß ein Werturteil (S. 15–16).",
+      "hints": [
+        "Wer hat hier Gewährleistungsrechte – und wem würde die Anfechtung schaden?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 16
+        },
+        {
+          "doc": "BGB_6",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "N weiß, dass sein Nachbar A Steuern hinterzogen hat. Er droht A mit einer Strafanzeige, falls A ihm nicht sein Motorrad weit unter Wert verkauft. A verkauft. Kann A nach § 123 Abs. 1 Alt. 2 anfechten?",
+      "options": [
+        "Ja – das Mittel (Strafanzeige) ist zwar erlaubt, N hat aber kein Recht auf den Kaufvertrag; die Drohung ist widerrechtlich",
+        "Nein – eine Strafanzeige zu erstatten ist erlaubt, also ist die Drohung nie widerrechtlich",
+        "Nein – A hat sich selbst strafbar gemacht und ist nicht schutzwürdig",
+        "Ja, aber nur, wenn N sich der Rechtswidrigkeit bewusst war"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Widerrechtlich ist die Drohung auch, wenn ein erlaubtes Mittel eingesetzt wird, der Drohende auf die erzwungene Leistung aber keinen Anspruch hat (S. 23). Anders im Unterschlagungsfall: Dort hängen Straftat und Anspruch zusammen. Ein Bewusstsein der Rechtswidrigkeit ist nicht erforderlich (S. 24).",
+      "hints": [
+        "Hat N einen Anspruch auf das Motorrad?",
+        "Vergleichen Sie mit dem Unterschlagungsbeispiel."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 23
+        },
+        {
+          "doc": "BGB_6",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "In welchen Fallgruppen besteht nach dem Skript eine Aufklärungspflicht, deren Verletzung durch Schweigen eine Täuschung i.S.d. § 123 Abs. 1 sein kann? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Der Partner stellt gezielt eine zulässige Frage",
+        "Zwischen den Parteien besteht ein besonderes Vertrauensverhältnis",
+        "Eine Partei hat gegenüber einem unerfahrenen Partner überlegene Sachkunde",
+        "Immer, wenn ein Umstand für den Partner wirtschaftlich nachteilig ist"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Eine allgemeine Aufklärungspflicht gibt es nicht; die Pflicht folgt aus § 242 oder Gesetz in bestimmten Fallgruppen (S. 19), z.B. Furniermaschine (Vertrauensverhältnis).",
+      "hints": [
+        "Jeder darf grundsätzlich seinen eigenen Vorteil verfolgen.",
+        "Drei Fallgruppen – eine Generalklausel gibt es nicht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wer wegen arglistiger Täuschung oder widerrechtlicher Drohung anficht, muss dem Anfechtungsgegner keinen Vertrauensschaden nach § 122 ersetzen.",
+      "answer": true,
+      "explanation": "§ 122 knüpft nur an die Anfechtung nach §§ 119, 120 an. Bei § 123 ist der Gegner nicht schutzwürdig (S. 8, 18).",
+      "hints": [
+        "Wer hat hier den Fehler verursacht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 8
+        },
+        {
+          "doc": "BGB_6",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Verneint eine Bewerberin die Frage nach einer Schwangerschaft wahrheitswidrig, kann der Arbeitgeber nach dem Skript nicht wegen arglistiger Täuschung anfechten, weil die Täuschung nicht widerrechtlich ist.",
+      "answer": true,
+      "explanation": "Die Widerrechtlichkeit der Täuschung ist ungeschriebenes Merkmal; prüfungsrelevanteste Ausnahme ist das „Recht zur Lüge“ im Arbeitsrecht, etwa bei der Frage nach einer Schwangerschaft (S. 20).",
+      "hints": [
+        "Darf der Arbeitgeber diese Frage überhaupt stellen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Definieren Sie die Geschäftsgrundlage, grenzen Sie § 313 Abs. 1 von Abs. 2 ab und nennen Sie die Rechtsfolgen.",
+      "modelAnswer": "Geschäftsgrundlage sind die nicht zum Vertragsinhalt erhobenen, aber bei Vertragsschluss zutage getretenen gemeinsamen Vorstellungen beider Parteien – oder die dem Gegner erkennbaren und von ihm nicht beanstandeten Vorstellungen einer Partei – vom Vorhandensein oder künftigen Eintritt bestimmter Umstände, auf denen der Geschäftswille aufbaut. § 313 Abs. 1 betrifft den späteren Wegfall: Zukunftsgerichtete Vorstellungen erfüllen sich nicht (objektive Geschäftsgrundlage). § 313 Abs. 2 betrifft das anfängliche Fehlen: Vorstellungen über gegenwärtige Umstände erweisen sich als falsch, z.B. beim gemeinsamen Motivirrtum. Stets muss das Festhalten am Vertrag unter Berücksichtigung der vertraglichen oder gesetzlichen Risikoverteilung unzumutbar sein. Rechtsfolge ist vorrangig ein Anspruch auf Anpassung des Vertrags; ist sie nicht möglich oder unzumutbar, kann der benachteiligte Teil zurücktreten, bei Dauerschuldverhältnissen kündigen (§ 313 Abs. 3).",
+      "rubric": [
+        "Definition Geschäftsgrundlage",
+        "Abs. 1: späterer Wegfall",
+        "Abs. 2: anfängliches Fehlen / Doppelirrtum",
+        "Unzumutbarkeit und Vorrang der Risikoverteilung",
+        "Rechtsfolge: Anpassung, sonst Rücktritt/Kündigung (Abs. 3)"
+      ],
+      "explanation": "Definition und Abgrenzung S. 28–30, Rechtsfolgen S. 31–32.",
+      "hints": [
+        "Gegenwart oder Zukunft – darin liegt der Unterschied der Absätze.",
+        "Welche Rechtsfolge hat Vorrang?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 28
+        },
+        {
+          "doc": "BGB_6",
+          "page": 29
+        },
+        {
+          "doc": "BGB_6",
+          "page": 31
+        },
+        {
+          "doc": "BGB_6",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "K kauft von V ein Haus. Den Kontakt hat der Makler M hergestellt, der den Vertrag nur vermittelt und von V nicht mit den Verhandlungen beauftragt wurde. M verschweigt K bewusst, dass der Keller regelmäßig unter Wasser steht. V weiß davon nichts und musste es auch nicht wissen. Kann K seine Erklärung nach § 123 BGB anfechten?",
+      "modelAnswer": "In Betracht kommt eine Anfechtung wegen arglistiger Täuschung nach § 123 Abs. 1 Alt. 1. M hat K durch Verschweigen getäuscht und dabei arglistig gehandelt. Getäuscht hat aber nicht der Erklärungsempfänger V, sondern M. Ist M Dritter, ist die gegenüber V abgegebene Erklärung nach § 123 Abs. 2 S. 1 nur anfechtbar, wenn V die Täuschung kannte oder kennen musste. Dritter ist, wer am Geschäft unbeteiligt ist und dessen Verhalten sich der Empfänger nicht zurechnen lassen muss. Stellvertreter und Verhandlungsgehilfen des Empfängers sind keine Dritten; der bloße Vermittler oder Makler ist dagegen grundsätzlich Dritter. M hat nur vermittelt und wurde von V nicht mit Verhandlungen betraut; er ist Dritter. V kannte die Täuschung nicht und musste sie nicht kennen. K kann daher nicht nach § 123 anfechten.",
+      "rubric": [
+        "§ 123 Abs. 1 Alt. 1: Täuschung durch M",
+        "Problem: Täuschender ist nicht der Empfänger",
+        "Begriff des Dritten (Lagertheorie)",
+        "Makler/Vermittler = Dritter; Abgrenzung Verhandlungsgehilfe",
+        "§ 123 Abs. 2 S. 1: V kannte es nicht und musste es nicht kennen",
+        "Ergebnis: keine Anfechtung nach § 123"
+      ],
+      "explanation": "Täuschung durch Dritte S. 20–22; Abgrenzung zum Verhandlungsgehilfen am Beispiel BGHZ 47, 224 (S. 21).",
+      "hints": [
+        "In wessen „Lager“ steht der Makler?",
+        "Was müsste V gewusst haben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 21
+        },
+        {
+          "doc": "BGB_6",
+          "page": 22
+        }
+      ]
     }
   ],
   "case": {
@@ -450,48 +1844,331 @@
         "part": "obersatz",
         "prompt": "Formulieren Sie den Obersatz.",
         "model": "A könnte seine auf den Abschluss des Schuldanerkenntnisses (§ 781) gerichtete Willenserklärung gemäß § 123 Abs. 1 Alt. 2 BGB anfechten. Dann müsste er zur Abgabe dieser Erklärung widerrechtlich durch Drohung bestimmt worden sein.",
-        "rubric": ["Konjunktiv", "konkrete Willenserklärung (Schuldanerkenntnis) benannt", "§ 123 Abs. 1 Alt. 2 BGB als Anfechtungsgrund", "Tatbestandsmerkmale Drohung, Kausalität, Widerrechtlichkeit angedeutet"],
-        "hints": ["Welche Erklärung soll vernichtet werden, und auf welchen Anfechtungsgrund stützt A sich?"]
+        "rubric": [
+          "Konjunktiv",
+          "konkrete Willenserklärung (Schuldanerkenntnis) benannt",
+          "§ 123 Abs. 1 Alt. 2 BGB als Anfechtungsgrund",
+          "Tatbestandsmerkmale Drohung, Kausalität, Widerrechtlichkeit angedeutet"
+        ],
+        "hints": [
+          "Welche Erklärung soll vernichtet werden, und auf welchen Anfechtungsgrund stützt A sich?"
+        ]
       },
       {
         "part": "definition",
         "prompt": "Definieren Sie die Drohung und geben Sie die Maßstäbe für die Widerrechtlichkeit sowie die subjektiven Voraussetzungen an.",
         "model": "Eine Drohung ist das vom Gegner ernst genommene In-Aussicht-Stellen eines künftigen Übels, auf dessen Eintritt oder Nichteintritt der Drohende einwirken zu können behauptet; das Ausnutzen eines bestehenden Übels genügt nicht. Die Drohung muss für die Abgabe der Erklärung ursächlich sein. Widerrechtlich ist sie, wenn das eingesetzte Mittel oder der erstrebte Zweck rechtswidrig ist oder wenn – bei erlaubtem Mittel und erlaubtem Zweck – die Verknüpfung beider unangemessen ist; maßgeblich ist dann, ob der Drohende ein berechtigtes Interesse an dem erstrebten Erfolg hat und ob die Drohung nach der Auffassung aller billig und gerecht Denkenden ein angemessenes Mittel darstellt. Subjektiv muss der Drohende mit dem Vorsatz handeln, Furcht zu erregen und dadurch die Erklärung zu erzwingen; dolus eventualis genügt, ein Bewusstsein der Rechtswidrigkeit ist nicht erforderlich.",
-        "rubric": ["Definition der Drohung inkl. künftiges Übel und Einwirkungsmacht", "Abgrenzung: bestehendes Übel genügt nicht", "Kausalität", "drei Ansatzpunkte der Widerrechtlichkeit (Mittel, Zweck, Mittel-Zweck-Relation)", "Formel „aller billig und gerecht Denkenden“", "subjektive Voraussetzungen"],
-        "hints": ["Das Skript nennt drei Fallgruppen der Rechtswidrigkeit.", "Bei erlaubtem Mittel und erlaubtem Ziel kommt es auf die Relation an."]
+        "rubric": [
+          "Definition der Drohung inkl. künftiges Übel und Einwirkungsmacht",
+          "Abgrenzung: bestehendes Übel genügt nicht",
+          "Kausalität",
+          "drei Ansatzpunkte der Widerrechtlichkeit (Mittel, Zweck, Mittel-Zweck-Relation)",
+          "Formel „aller billig und gerecht Denkenden“",
+          "subjektive Voraussetzungen"
+        ],
+        "hints": [
+          "Das Skript nennt drei Fallgruppen der Rechtswidrigkeit.",
+          "Bei erlaubtem Mittel und erlaubtem Ziel kommt es auf die Relation an."
+        ]
       },
       {
         "part": "subsumtion",
         "prompt": "Subsumieren Sie den Sachverhalt unter diese Voraussetzungen.",
         "model": "B hat A eine Strafanzeige und damit ein künftiges Übel in Aussicht gestellt, dessen Eintritt von seinem eigenen Entschluss abhing. A hat dies ernst genommen. Eine Drohung liegt vor. A hat das Anerkenntnis gerade unterschrieben, um die Anzeige abzuwenden; die Drohung war also ursächlich. Fraglich ist die Widerrechtlichkeit. Das Mittel ist nicht zu beanstanden: Die Erstattung einer Strafanzeige wegen einer tatsächlich begangenen Unterschlagung ist erlaubt. Auch der Zweck ist rechtmäßig: B strebt die Wiedergutmachung seines Schadens an, indem er sich einen ohnehin bestehenden Anspruch bestätigen lässt. Schließlich ist auch die Verknüpfung von Mittel und Zweck nicht unangemessen. Die angedrohte Anzeige betrifft gerade die Straftat, aus der der geltend gemachte Anspruch stammt. B hat ein berechtigtes Interesse an der Sicherung seines Ersatzanspruchs, und nach der Auffassung aller billig und gerecht Denkenden erscheint eine solche Drohung als angemessenes Mittel. Die Drohung war somit nicht widerrechtlich. Auf die subjektiven Voraussetzungen kommt es nicht mehr an.",
-        "rubric": ["Strafanzeige als künftiges Übel = Drohung", "Kausalität bejaht", "Mittel erlaubt", "Zweck erlaubt (Bestätigung eines bestehenden Anspruchs)", "Relation angemessen: Zusammenhang zwischen Straftat und Anspruch", "saubere Gutachtenstil-Struktur (fraglich ist … / somit …)"],
-        "hints": ["Hätte B das Recht, Anzeige zu erstatten? Hat er einen Anspruch auf das Geld?", "Woraus folgt der Anspruch, dessen Anerkenntnis B verlangt?"]
+        "rubric": [
+          "Strafanzeige als künftiges Übel = Drohung",
+          "Kausalität bejaht",
+          "Mittel erlaubt",
+          "Zweck erlaubt (Bestätigung eines bestehenden Anspruchs)",
+          "Relation angemessen: Zusammenhang zwischen Straftat und Anspruch",
+          "saubere Gutachtenstil-Struktur (fraglich ist … / somit …)"
+        ],
+        "hints": [
+          "Hätte B das Recht, Anzeige zu erstatten? Hat er einen Anspruch auf das Geld?",
+          "Woraus folgt der Anspruch, dessen Anerkenntnis B verlangt?"
+        ]
       },
       {
         "part": "ergebnis",
         "prompt": "Formulieren Sie das Ergebnis.",
         "model": "Die Drohung des B war nicht widerrechtlich. A kann seine auf das Schuldanerkenntnis gerichtete Willenserklärung daher nicht gemäß § 123 Abs. 1 Alt. 2 BGB anfechten; das Schuldanerkenntnis bleibt wirksam.",
-        "rubric": ["Ergebnis beantwortet die Fallfrage", "Indikativ/Feststellung", "Folge: Schuldanerkenntnis bleibt wirksam"],
-        "hints": ["Greifen Sie den Obersatz wieder auf."]
+        "rubric": [
+          "Ergebnis beantwortet die Fallfrage",
+          "Indikativ/Feststellung",
+          "Folge: Schuldanerkenntnis bleibt wirksam"
+        ],
+        "hints": [
+          "Greifen Sie den Obersatz wieder auf."
+        ]
       }
     ],
-    "src": [{ "doc": "BGB_6", "page": 22 }, { "doc": "BGB_6", "page": 23 }]
+    "src": [
+      {
+        "doc": "BGB_6",
+        "page": 22
+      },
+      {
+        "doc": "BGB_6",
+        "page": 23
+      }
+    ]
   },
   "flashcards": [
-    { "front": "Welche Wirkung hat die Anfechtung nach § 142 Abs. 1 – und welche Ausnahme nennt das Skript?", "back": "Das Rechtsgeschäft ist als von Anfang an nichtig anzusehen (ex tunc). Dauerschuldverhältnisse (Miet-, Dienst-, Arbeitsverträge) werden nur ex nunc beseitigt.", "src": [{ "doc": "BGB_6", "page": 6 }] },
-    { "front": "Warum ist die Anfechtungserklärung bedingungsfeindlich, und welche Ausnahme gilt?", "back": "Als Ausübung eines Gestaltungsrechts verträgt sie keine Schwebelage; sie ist unwiderruflich und bedingungsfeindlich. Zulässig ist die hilfsweise Anfechtung unter einer bloßen Rechtsbedingung.", "src": [{ "doc": "BGB_6", "page": 7 }] },
-    { "front": "Erklärungsirrtum vs. Inhaltsirrtum?", "back": "Erklärungsirrtum (§ 119 I Var. 2): Schon der äußere Erklärungsakt weicht vom Gewollten ab (Versprechen, Verschreiben). Inhaltsirrtum (§ 119 I Var. 1): Der Erklärungsakt ist gewollt, aber seine Bedeutung wird verkannt („halver Hahn“).", "src": [{ "doc": "BGB_6", "page": 9 }, { "doc": "BGB_6", "page": 10 }] },
-    { "front": "Was ist der Übermittlungsirrtum (§ 120)?", "back": "Ein Unterfall des Erklärungsirrtums: Die zur Übermittlung eingesetzte Person (Bote) oder Anstalt gibt die Erklärung falsch wieder.", "src": [{ "doc": "BGB_6", "page": 10 }] },
-    { "front": "Identitätsirrtum vs. Eigenschaftsirrtum über eine Person?", "back": "Identitätsirrtum (Inhaltsirrtum): Schon die Identifizierung ist fehlgeschlagen (error in persona/in objecto). Eigenschaftsirrtum (§ 119 II): Die Person ist richtig identifiziert, ihr werden irrig Eigenschaften zugeschrieben.", "src": [{ "doc": "BGB_6", "page": 10 }, { "doc": "BGB_6", "page": 11 }] },
-    { "front": "Wann ist ein Rechtsfolgenirrtum ein Inhaltsirrtum?", "back": "Wenn die Rechtsfolge selbst Inhalt der Erklärung ist und eine wesentlich andere Rechtswirkung eintritt (Hypothek an erster statt zweiter Stelle). Nicht bei Nebenfolgen kraft Gesetzes (§ 566).", "src": [{ "doc": "BGB_6", "page": 11 }, { "doc": "BGB_6", "page": 12 }] },
-    { "front": "Berechtigt ein Kalkulationsirrtum zur Anfechtung?", "back": "Nie. Verdeckt: unbeachtlicher Motivirrtum (ggf. § 242, c.i.c.). Offen: Auslegung → Perplexität/Nichtigkeit → ggf. § 313. Der BGH lehnt den „erweiterten Inhaltsirrtum“ des RG ab.", "src": [{ "doc": "BGB_6", "page": 12 }, { "doc": "BGB_6", "page": 13 }, { "doc": "BGB_6", "page": 14 }] },
-    { "front": "Warum ist § 119 Abs. 2 eine Ausnahme?", "back": "Der Eigenschaftsirrtum ist ein Motivirrtum; § 119 II stellt ihn bei verkehrswesentlichen Eigenschaften im Wege einer Fiktion dem Inhaltsirrtum gleich.", "src": [{ "doc": "BGB_6", "page": 14 }, { "doc": "BGB_6", "page": 15 }] },
-    { "front": "Verhältnis von § 119 Abs. 2 zu §§ 437 ff.?", "back": "Die §§ 437 ff. verdrängen als leges speciales die Käuferanfechtung nach § 119 II (Schutz von § 438 und des Nacherfüllungsrechts). Der Verkäufer darf anfechten, aber nicht, um sich der Gewährleistung zu entziehen.", "src": [{ "doc": "BGB_6", "page": 16 }, { "doc": "BGB_6", "page": 17 }] },
-    { "front": "Voraussetzungen der Anfechtung wegen arglistiger Täuschung?", "back": "Täuschung über Tatsachen (Tun oder Unterlassen trotz Aufklärungspflicht), Irrtum, Kausalität für die Erklärung, Widerrechtlichkeit, Arglist (dolus eventualis genügt).", "src": [{ "doc": "BGB_6", "page": 18 }, { "doc": "BGB_6", "page": 19 }, { "doc": "BGB_6", "page": 20 }] },
-    { "front": "Wer ist „Dritter“ i.S.d. § 123 Abs. 2?", "back": "Wer am Geschäft unbeteiligt ist und sich dem Empfänger nicht zurechnen lassen muss (z.B. Makler/Vermittler). Nicht: Vertreter, Organe, Verhandlungsgehilfen, Vertrauenspersonen i.S.d. § 278 (BGHZ 47, 224).", "src": [{ "doc": "BGB_6", "page": 20 }, { "doc": "BGB_6", "page": 21 }] },
-    { "front": "Fallgruppen der Widerrechtlichkeit einer Drohung?", "back": "Widerrechtliches Mittel, widerrechtlicher Zweck oder unangemessene Zweck-Mittel-Relation (berechtigtes Interesse? angemessen nach Auffassung aller billig und gerecht Denkenden?).", "src": [{ "doc": "BGB_6", "page": 23 }] },
-    { "front": "Anfechtungsfristen?", "back": "§§ 119, 120: unverzüglich, d.h. ohne schuldhaftes Zögern (§ 121 I). § 123: binnen Jahresfrist (§ 124), Beginn nach § 124 II.", "src": [{ "doc": "BGB_6", "page": 24 }] },
-    { "front": "Inhalt und Grenzen des Anspruchs aus § 122?", "back": "Vertrauensschaden (negatives Interesse), höchstens Erfüllungsinteresse; verschuldensunabhängig; ausgeschlossen, wenn der Geschädigte den Grund kannte oder fahrlässig nicht kannte (§ 122 II). Nur bei §§ 119, 120 (nicht § 123).", "src": [{ "doc": "BGB_6", "page": 26 }, { "doc": "BGB_6", "page": 27 }] },
-    { "front": "Rechtsfolgen der Störung der Geschäftsgrundlage?", "back": "Vorrangig Anspruch auf Vertragsanpassung (§ 313 I, II); ist sie unmöglich oder unzumutbar, Rücktritt bzw. bei Dauerschuldverhältnissen Kündigung (§ 313 III); Rückabwicklung nach §§ 346 ff.", "src": [{ "doc": "BGB_6", "page": 31 }, { "doc": "BGB_6", "page": 32 }] }
+    {
+      "front": "Welche Wirkung hat die Anfechtung nach § 142 Abs. 1 – und welche Ausnahme nennt das Skript?",
+      "back": "Das Rechtsgeschäft ist als von Anfang an nichtig anzusehen (ex tunc). Dauerschuldverhältnisse (Miet-, Dienst-, Arbeitsverträge) werden nur ex nunc beseitigt.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "front": "Warum ist die Anfechtungserklärung bedingungsfeindlich, und welche Ausnahme gilt?",
+      "back": "Als Ausübung eines Gestaltungsrechts verträgt sie keine Schwebelage; sie ist unwiderruflich und bedingungsfeindlich. Zulässig ist die hilfsweise Anfechtung unter einer bloßen Rechtsbedingung.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "front": "Erklärungsirrtum vs. Inhaltsirrtum?",
+      "back": "Erklärungsirrtum (§ 119 I Var. 2): Schon der äußere Erklärungsakt weicht vom Gewollten ab (Versprechen, Verschreiben). Inhaltsirrtum (§ 119 I Var. 1): Der Erklärungsakt ist gewollt, aber seine Bedeutung wird verkannt („halver Hahn“).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 9
+        },
+        {
+          "doc": "BGB_6",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "Was ist der Übermittlungsirrtum (§ 120)?",
+      "back": "Ein Unterfall des Erklärungsirrtums: Die zur Übermittlung eingesetzte Person (Bote) oder Anstalt gibt die Erklärung falsch wieder.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "Identitätsirrtum vs. Eigenschaftsirrtum über eine Person?",
+      "back": "Identitätsirrtum (Inhaltsirrtum): Schon die Identifizierung ist fehlgeschlagen (error in persona/in objecto). Eigenschaftsirrtum (§ 119 II): Die Person ist richtig identifiziert, ihr werden irrig Eigenschaften zugeschrieben.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 10
+        },
+        {
+          "doc": "BGB_6",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "front": "Wann ist ein Rechtsfolgenirrtum ein Inhaltsirrtum?",
+      "back": "Wenn die Rechtsfolge selbst Inhalt der Erklärung ist und eine wesentlich andere Rechtswirkung eintritt (Hypothek an erster statt zweiter Stelle). Nicht bei Nebenfolgen kraft Gesetzes (§ 566).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 11
+        },
+        {
+          "doc": "BGB_6",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "front": "Berechtigt ein Kalkulationsirrtum zur Anfechtung?",
+      "back": "Nie. Verdeckt: unbeachtlicher Motivirrtum (ggf. § 242, c.i.c.). Offen: Auslegung → Perplexität/Nichtigkeit → ggf. § 313. Der BGH lehnt den „erweiterten Inhaltsirrtum“ des RG ab.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 12
+        },
+        {
+          "doc": "BGB_6",
+          "page": 13
+        },
+        {
+          "doc": "BGB_6",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "front": "Warum ist § 119 Abs. 2 eine Ausnahme?",
+      "back": "Der Eigenschaftsirrtum ist ein Motivirrtum; § 119 II stellt ihn bei verkehrswesentlichen Eigenschaften im Wege einer Fiktion dem Inhaltsirrtum gleich.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 14
+        },
+        {
+          "doc": "BGB_6",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Verhältnis von § 119 Abs. 2 zu §§ 437 ff.?",
+      "back": "Die §§ 437 ff. verdrängen als leges speciales die Käuferanfechtung nach § 119 II (Schutz von § 438 und des Nacherfüllungsrechts). Der Verkäufer darf anfechten, aber nicht, um sich der Gewährleistung zu entziehen.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 16
+        },
+        {
+          "doc": "BGB_6",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen der Anfechtung wegen arglistiger Täuschung?",
+      "back": "Täuschung über Tatsachen (Tun oder Unterlassen trotz Aufklärungspflicht), Irrtum, Kausalität für die Erklärung, Widerrechtlichkeit, Arglist (dolus eventualis genügt).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 18
+        },
+        {
+          "doc": "BGB_6",
+          "page": 19
+        },
+        {
+          "doc": "BGB_6",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "front": "Wer ist „Dritter“ i.S.d. § 123 Abs. 2?",
+      "back": "Wer am Geschäft unbeteiligt ist und sich dem Empfänger nicht zurechnen lassen muss (z.B. Makler/Vermittler). Nicht: Vertreter, Organe, Verhandlungsgehilfen, Vertrauenspersonen i.S.d. § 278 (BGHZ 47, 224).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 20
+        },
+        {
+          "doc": "BGB_6",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "front": "Fallgruppen der Widerrechtlichkeit einer Drohung?",
+      "back": "Widerrechtliches Mittel, widerrechtlicher Zweck oder unangemessene Zweck-Mittel-Relation (berechtigtes Interesse? angemessen nach Auffassung aller billig und gerecht Denkenden?).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "front": "Anfechtungsfristen?",
+      "back": "§§ 119, 120: unverzüglich, d.h. ohne schuldhaftes Zögern (§ 121 I). § 123: binnen Jahresfrist (§ 124), Beginn nach § 124 II.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "front": "Inhalt und Grenzen des Anspruchs aus § 122?",
+      "back": "Vertrauensschaden (negatives Interesse), höchstens Erfüllungsinteresse; verschuldensunabhängig; ausgeschlossen, wenn der Geschädigte den Grund kannte oder fahrlässig nicht kannte (§ 122 II). Nur bei §§ 119, 120 (nicht § 123).",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 26
+        },
+        {
+          "doc": "BGB_6",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "front": "Rechtsfolgen der Störung der Geschäftsgrundlage?",
+      "back": "Vorrangig Anspruch auf Vertragsanpassung (§ 313 I, II); ist sie unmöglich oder unzumutbar, Rücktritt bzw. bei Dauerschuldverhältnissen Kündigung (§ 313 III); Rückabwicklung nach §§ 346 ff.",
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 31
+        },
+        {
+          "doc": "BGB_6",
+          "page": 32
+        }
+      ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 142 Abs. 1 BGB",
+      "inhalt": "Ein angefochtenes Geschäft gilt als von Anfang an nichtig."
+    },
+    {
+      "norm": "§ 119 Abs. 1 BGB",
+      "inhalt": "Anfechtung bei Inhalts- oder Erklärungsirrtum, wenn der Irrtum erheblich war."
+    },
+    {
+      "norm": "§ 120 BGB",
+      "inhalt": "Anfechtung, wenn Bote oder Übermittlungsanstalt die Erklärung falsch übermittelt."
+    },
+    {
+      "norm": "§ 122 BGB",
+      "inhalt": "Wer wegen Irrtums anficht, ersetzt den Vertrauensschaden – höchstens das Erfüllungsinteresse."
+    },
+    {
+      "norm": "§ 121 Abs. 1 BGB",
+      "inhalt": "Irrtumsanfechtung muss unverzüglich (ohne schuldhaftes Zögern) erfolgen."
+    },
+    {
+      "norm": "§ 119 Abs. 2 BGB",
+      "inhalt": "Irrtum über verkehrswesentliche Eigenschaften einer Person oder Sache gilt als Inhaltsirrtum."
+    },
+    {
+      "norm": "§§ 437 ff. BGB",
+      "inhalt": "Gewährleistungsrecht des Käufers – verdrängt nach Gefahrübergang die Anfechtung nach § 119 Abs. 2."
+    },
+    {
+      "norm": "§ 123 Abs. 1 BGB",
+      "inhalt": "Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung."
+    },
+    {
+      "norm": "§ 123 Abs. 2 BGB",
+      "inhalt": "Täuscht ein Dritter, nur anfechtbar, wenn der Empfänger es kannte oder kennen musste."
+    },
+    {
+      "norm": "§ 143 BGB",
+      "inhalt": "Die Anfechtung erfolgt durch Erklärung gegenüber dem Anfechtungsgegner (beim Vertrag: dem Partner)."
+    },
+    {
+      "norm": "§ 124 BGB",
+      "inhalt": "Anfechtung wegen Täuschung oder Drohung binnen eines Jahres."
+    },
+    {
+      "norm": "§ 144 BGB",
+      "inhalt": "Wer das anfechtbare Geschäft bestätigt, verliert das Anfechtungsrecht."
+    },
+    {
+      "norm": "§ 812 Abs. 1 S. 1 BGB",
+      "inhalt": "Nach der Anfechtung werden ausgetauschte Leistungen zurückgegeben."
+    },
+    {
+      "norm": "§ 313 BGB",
+      "inhalt": "Störung der Geschäftsgrundlage: Anpassung, notfalls Rücktritt oder Kündigung."
+    }
   ]
 }

@@ -22,6 +22,11 @@
           "doc": "PROP_1",
           "page": 144
         }
+      ],
+      "merksatz": "Auslegen heißt: den im Wortlaut verobjektivierten Willen des Gesetzgebers finden – nicht, was einzelne Beteiligte damals dachten.",
+      "norms": [
+        "§ 985 BGB",
+        "§ 242 BGB"
       ]
     },
     {
@@ -38,6 +43,13 @@
           "doc": "PROP_1",
           "page": 145
         }
+      ],
+      "merksatz": "Der Wortlaut ist Anfang und Grenze – und eine Legaldefinition sagt verbindlich, was gemeint ist.",
+      "norms": [
+        "§ 121 Abs. 1 S. 1 BGB",
+        "§ 377 Abs. 1 HGB",
+        "§§ 1113 ff. BGB",
+        "§ 985 BGB"
       ]
     },
     {
@@ -58,6 +70,14 @@
           "doc": "PROP_1",
           "page": 147
         }
+      ],
+      "merksatz": "Eine Norm steht nie allein: Nachbarnormen, Grundgesetz und EU-Richtlinie lesen immer mit.",
+      "norms": [
+        "§ 823 Abs. 1 BGB",
+        "Art. 1 i. V. m. Art. 2 GG",
+        "§ 439 Abs. 1 BGB",
+        "§ 439 Abs. 3 BGB",
+        "§ 474 Abs. 1 S. 1 BGB"
       ]
     },
     {
@@ -78,6 +98,13 @@
           "doc": "PROP_1",
           "page": 149
         }
+      ],
+      "merksatz": "Das Telos entscheidet, die Historie stützt nur.",
+      "norms": [
+        "§ 826 BGB",
+        "§ 823 BGB",
+        "§ 325 BGB",
+        "§ 326 Abs. 1 BGB a. F."
       ]
     },
     {
@@ -94,6 +121,13 @@
           "doc": "PROP_1",
           "page": 150
         }
+      ],
+      "merksatz": "Nur das geregelt? Dann gilt es für Ähnliches nicht. Gilt es fürs Ganze, dann erst recht für Teile.",
+      "norms": [
+        "§ 244 Abs. 1 Nr. 2 StGB",
+        "§ 119 BGB",
+        "§ 2255 BGB",
+        "§ 48 VwVfG"
       ]
     },
     {
@@ -110,6 +144,13 @@
           "doc": "PROP_1",
           "page": 151
         }
+      ],
+      "merksatz": "Analogie: planwidrige Lücke plus vergleichbare Interessenlage. Teleologische Reduktion: Wortlaut passt, Zweck verbietet – die Norm bleibt draußen.",
+      "norms": [
+        "§ 31 BGB",
+        "§ 311 Abs. 2 Nr. 1 BGB",
+        "§ 181 BGB",
+        "§ 107 BGB"
       ]
     },
     {
@@ -130,6 +171,19 @@
           "doc": "PROP_1",
           "page": 154
         }
+      ],
+      "merksatz": "Kein Pfand an fremder Sache: § 647 BGB verlangt Eigentum des Bestellers – und § 1257 BGB hilft nicht beim Entstehen.",
+      "norms": [
+        "§ 449 BGB",
+        "§ 985 BGB",
+        "§ 986 BGB",
+        "§ 631 BGB",
+        "§ 647 BGB",
+        "§ 1207 BGB",
+        "§§ 932 ff. BGB",
+        "§§ 1204 ff. BGB",
+        "§ 1257 BGB",
+        "§ 366 Abs. 3 HGB"
       ]
     }
   ],
@@ -927,6 +981,435 @@
           "page": 153
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ziel der Auslegung ist es, den im Gesetzeswortlaut {{1}} Willen des Gesetzgebers herauszufinden – die sog. {{2}} Theorie.",
+      "blanks": [
+        [
+          "verobjektivierten",
+          "objektivierten"
+        ],
+        [
+          "objektive"
+        ]
+      ],
+      "explanation": "Auf den subjektiven Willen kommt es nicht an: Er lässt sich bei alten Gesetzen oft nicht feststellen und kann durch veränderte Lebensumstände überholt sein.",
+      "hints": [
+        "Gegenteil von „subjektiv“.",
+        "Der Wille steckt im Wortlaut."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        },
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Merke: Der Wortlaut ist der {{1}} und die {{2}} der Auslegung; man darf aber nicht am buchstäblichen Ausdruck haften bleiben.",
+      "blanks": [
+        [
+          "Ausgangspunkt",
+          "Anfang"
+        ],
+        [
+          "Grenze"
+        ]
+      ],
+      "explanation": "Ein eindeutig festgestellter Wortsinn ist grundsätzlich bindend. Nur in absoluten Ausnahmefällen, wenn Sinn und Zweck eine andere Auslegung gebieten, gilt anderes.",
+      "hints": [
+        "Womit fängt man an?",
+        "Wo hört Auslegung auf?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 145
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Der Umkehrschluss heißt lateinisch argumentum {{1}}, der Erst-recht-Schluss argumentum {{2}}.",
+      "blanks": [
+        [
+          "e contrario"
+        ],
+        [
+          "a maiore ad minus"
+        ]
+      ],
+      "explanation": "Umkehrschluss: Ein ähnlicher, aber nicht geregelter Fall fällt nicht unter die Norm. Erst-recht-Schluss: vom Größeren auf das Kleinere, vom Mehr auf das Weniger.",
+      "hints": [
+        "„contra“ = gegen.",
+        "vom Größeren (maior) zum Kleineren (minor)."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        },
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie der Norm zu, wofür der Studienbrief sie als Auslegungsbeispiel verwendet.",
+      "pairs": [
+        [
+          "§ 121 Abs. 1 S. 1 BGB",
+          "Legaldefinition „unverzüglich“ (grammatikalische Auslegung)"
+        ],
+        [
+          "§ 823 Abs. 1 BGB",
+          "„sonstiges Recht“ nur als absolutes Recht (systematische Auslegung)"
+        ],
+        [
+          "§ 826 BGB",
+          "Sittenwidrigkeit zurückhaltend bestimmen (teleologische Auslegung)"
+        ],
+        [
+          "§ 325 BGB",
+          "Schadensersatz neben Rücktritt – Sinn erschließt sich aus der Entstehungsgeschichte (historische Auslegung)"
+        ],
+        [
+          "§ 2255 BGB",
+          "Widerruf auch von Testamentsteilen (Erst-recht-Schluss)"
+        ]
+      ],
+      "explanation": "Jede klassische Methode und besondere Auslegungsform illustriert der Studienbrief mit einer „Lesen Sie“-Norm.",
+      "hints": [
+        "Je eine Norm pro Methode.",
+        "„Rücktrittsfalle“ des alten Rechts → historisch."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        },
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        },
+        {
+          "doc": "PROP_1",
+          "page": 148
+        },
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Begriff seiner Bedeutung nach dem Studienbrief zu.",
+      "pairs": [
+        [
+          "Besitzer",
+          "übt aufgrund eines Herrschaftswillens die tatsächliche Sachherrschaft aus"
+        ],
+        [
+          "Besitzdiener",
+          "hält die Sache in der Hand, übt aber keine Sachherrschaft aus (z. B. Hausangestellte)"
+        ],
+        [
+          "Mittelbarer Besitzer",
+          "jemand, für den ein anderer den Besitz ausübt (z. B. Vermieter)"
+        ],
+        [
+          "ratio legis",
+          "Sinn und Zweck des Gesetzes"
+        ]
+      ],
+      "explanation": "Nach dem eindeutigen Wortlaut des § 985 BGB richtet sich der Anspruch nur gegen den Besitzer, nicht gegen den Besitzdiener. Die ratio legis ist Maßstab der teleologischen Auslegung.",
+      "hints": [
+        "Wer hat die Herrschaft, wer nur die Hand?",
+        "Latein: Grund des Gesetzes."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 143
+        },
+        {
+          "doc": "PROP_1",
+          "page": 145
+        },
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung einer Analogie in die richtige Reihenfolge.",
+      "items": [
+        "Der Fall lässt sich nicht unter den Tatbestand der Norm subsumieren",
+        "Es besteht eine Regelungslücke",
+        "Die Lücke ist planwidrig (vom Gesetzgeber nicht gewollt)",
+        "Die Interessenlage ist vergleichbar",
+        "Die Norm wird analog angewendet"
+      ],
+      "explanation": "Analogie = Anwendung einer Norm auf einen Fall, der sich nicht unter ihren Tatbestand subsumieren lässt; Voraussetzungen: planwidrige Regelungslücke und vergleichbare Interessenlage. Im Pfandrechtsbeispiel scheitert es schon an der Planwidrigkeit.",
+      "hints": [
+        "Erst Lücke, dann Planwidrigkeit.",
+        "Die Rechtsfolge kommt zuletzt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        },
+        {
+          "doc": "PROP_1",
+          "page": 153
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Kunde K rutscht im Supermarkt auf einem Salatblatt aus, bevor er etwas gekauft hat. Wie erklärt der Studienbrief die Haftung des Inhabers?",
+      "options": [
+        "Heute § 311 Abs. 2 Nr. 1 BGB; früher Rechtsanalogie zum gesamten Schuldrecht (culpa in contrahendo)",
+        "Gesetzesanalogie zu § 31 BGB",
+        "Teleologische Reduktion des § 181 BGB",
+        "Umkehrschluss aus § 119 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Vertragliche Schutzpflichten entstehen schon mit Aufnahme von Vertragsverhandlungen. Bis zur Schuldrechtsmodernisierung war das eine Rechtsanalogie (übergeordnetes Prinzip aus mehreren Rechtssätzen); jetzt regelt es § 311 Abs. 2 Nr. 1 BGB.",
+      "hints": [
+        "Es gibt noch keinen Vertrag.",
+        "Rechtsanalogie = Prinzip aus mehreren Normen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A und B begehen gemeinsam – nur zu zweit – mehrere Diebstähle. Liegt nach der vom Studienbrief dargestellten Auslegung eine „Bande“ i. S. d. § 244 Abs. 1 Nr. 2 StGB vor?",
+      "options": [
+        "Nein – nach der restriktiven Auslegung des Großen Senats für Strafsachen des BGH sind mindestens drei Personen nötig",
+        "Ja – nach der extensiven Auslegung genügt mehr als eine Person, und diese hat sich durchgesetzt",
+        "Ja – im Strafrecht ist stets extensiv auszulegen",
+        "Die Frage ist bis heute ungeklärt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Extensiv könnte man schon bei mehr als einer Person eine Bande annehmen; restriktiv denkt man nach allgemeinem Sprachgebrauch an mindestens drei. Der Große Senat hat sich für die restriktive Auslegung entschieden.",
+      "hints": [
+        "Wie viele Menschen sind „eine Bande“?",
+        "Der Streit ist entschieden."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 149
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Generalbevollmächtigter G verkauft sich selbst im Namen des V dessen Hausgrundstück für 1 €. V hat nicht zugestimmt. Wie ist § 181 BGB zu behandeln?",
+      "options": [
+        "§ 181 BGB ist anwendbar – gerade vor solchen Interessenkonflikten soll er schützen",
+        "§ 181 BGB ist teleologisch zu reduzieren, weil G bevollmächtigt war",
+        "§ 181 BGB ist nur analog anwendbar",
+        "§ 181 BGB greift nicht, weil das Geschäft für V lediglich rechtlich vorteilhaft ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Zweck des § 181 BGB ist, den Vertretenen vor In-sich-Geschäften zu schützen und Interessenkonflikte zu vermeiden – genau das Beispiel des Studienbriefs. Eine teleologische Reduktion kommt nur ohne Interessenkonflikt in Betracht (Zustimmung oder lediglich rechtlicher Vorteil, § 107 BGB).",
+      "hints": [
+        "Liegt ein Interessenkonflikt vor?",
+        "Teleologische Reduktion nur, wenn der Zweck die Anwendung verbietet."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 151
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Die Legaldefinition „unverzüglich“ in § 121 Abs. 1 S. 1 BGB gilt nur für die Anfechtung und darf bei § 377 Abs. 1 HGB nicht herangezogen werden.",
+      "answer": false,
+      "explanation": "Falsch. Es ist anerkannt, dass diese Legaldefinition im gesamten Privatrecht gilt; bei § 377 Abs. 1 HGB kann ohne Weiteres auf § 121 BGB verwiesen werden.",
+      "hints": [
+        "Allgemeingültigkeit im …"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 144
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Nach dem Wortlaut des § 647 BGB entsteht das Werkunternehmerpfandrecht nur an Sachen des Bestellers.",
+      "answer": true,
+      "explanation": "Richtig. „Des Bestellers“ setzt Eigentum des Bestellers voraus. Im Beispiel war Besteller D, Eigentümer aber E – deshalb kein Pfandrecht nach § 647 BGB.",
+      "hints": [
+        "Wem gehörte der PKW?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 153
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Was ist nach dem Studienbrief bei der teleologischen Auslegung zu berücksichtigen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Der mit der konkreten Norm verfolgte Zweck",
+        "Allgemeine Zweckmäßigkeits- und Gerechtigkeitserwägungen",
+        "Rechtssicherheit und Vertrauensschutz",
+        "Die persönlichen Wünsche der Prozessparteien"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die teleologische Auslegung erforscht die ratio legis und bezieht allgemeine Zweckmäßigkeits- und Gerechtigkeitserwägungen sowie Rechtssicherheit und Vertrauensschutz ein. Die Wünsche der Parteien sind kein Auslegungsmaßstab.",
+      "hints": [
+        "Drei objektive Gesichtspunkte.",
+        "Auslegung fragt nach dem Gesetz, nicht nach den Parteien."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 147
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Erblasser E hat in seinem Testament einen Absatz, der seinem Neffen N ein Bild zuwendet, in der Absicht durchgestrichen, diese Anordnung aufzuheben. § 2255 BGB spricht vom Widerruf „eines Testaments“. Ist die Zuwendung an N nach dem Studienbrief widerrufen? Begründen Sie mit der passenden Auslegungsform.",
+      "modelAnswer": "Ja. Nach dem Erst-recht-Schluss (argumentum a maiore ad minus) gilt: Wenn schon das gesamte Testament durch Vernichtung oder Veränderung widerrufen werden kann, dann erst recht auch Teile davon. Regelt eine Norm das Ganze, findet sie auch auf Teile des Ganzen Anwendung. E hat durch das Durchstreichen in Aufhebungsabsicht eine Veränderung am Testament vorgenommen; die Zuwendung an N ist widerrufen.",
+      "rubric": [
+        "Erst-recht-Schluss benannt",
+        "Vom Ganzen auf den Teil",
+        "Anwendung auf den Absatz zugunsten des N",
+        "Ergebnis: Widerruf"
+      ],
+      "hints": [
+        "Vom Größeren auf das Kleinere.",
+        "§ 2255 BGB im Studienbrief."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie den Grundsatz des effet utile am Beispiel des § 48 VwVfG.",
+      "modelAnswer": "Effet utile verlangt, eine Norm, die auf einer EU-Richtlinie beruht, im Zweifel so auszulegen und anzuwenden, dass die Richtlinie volle Wirkung entfaltet. Beispiel: Wird einem Bürger aufgrund einer Richtlinie per Verwaltungsakt eine Geldzahlung zugesprochen und verstößt der VA gegen die Richtlinie, kann der effet utile die Rücknahme des rechtswidrigen VA auch dann rechtfertigen, wenn sie nach der sonst abschließenden Regelung des § 48 VwVfG nicht mehr möglich wäre.",
+      "rubric": [
+        "Definition: volle Wirkung der EU-Richtlinie",
+        "Bezug: Normen aufgrund von Richtlinien, im Zweifel",
+        "Beispiel: Rücknahme eines richtlinienwidrigen VA trotz § 48 VwVfG"
+      ],
+      "hints": [
+        "Bedeutung wächst mit der Europäisierung.",
+        "Was wäre nach § 48 VwVfG allein nicht mehr möglich?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Systematisch steht § 1207 BGB bei den Vorschriften über das rechtsgeschäftliche Pfandrecht und gilt daher grundsätzlich nur für vertragliche Pfandrechte.",
+      "answer": true,
+      "explanation": "Richtig. Der Wortlaut des § 1207 BGB ist unergiebig, die Stellung in §§ 1204 ff. BGB spricht aber für eine Beschränkung auf vertragliche Pfandrechte; auch § 1257 BGB hilft nicht, weil er ein bereits entstandenes Pfandrecht voraussetzt.",
+      "hints": [
+        "Wo steht die Norm im Gesetz?",
+        "Wortlaut unergiebig → Systematik."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 153
+        }
+      ]
     }
   ],
   "case": {
@@ -1155,6 +1638,68 @@
           "page": 151
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 985 BGB",
+      "inhalt": "Herausgabeanspruch des Eigentümers gegen den Besitzer – nicht gegen den Besitzdiener."
+    },
+    {
+      "norm": "§ 242 BGB",
+      "inhalt": "Leistung nach Treu und Glauben – „alles und nichts“, daher auslegungsbedürftig."
+    },
+    {
+      "norm": "§ 121 Abs. 1 S. 1 BGB",
+      "inhalt": "Legaldefinition „unverzüglich“ = ohne schuldhaftes Zögern; gilt im ganzen Privatrecht."
+    },
+    {
+      "norm": "§ 823 Abs. 1 BGB",
+      "inhalt": "Schadensersatz bei Verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder „sonstigem Recht“ (nur absolute Rechte)."
+    },
+    {
+      "norm": "§ 439 Abs. 3 BGB",
+      "inhalt": "Nacherfüllung umfasst seit 2018 ausdrücklich Ein- und Ausbaukosten."
+    },
+    {
+      "norm": "§ 826 BGB",
+      "inhalt": "Sittenwidrige vorsätzliche Schädigung – deliktischer Auffangtatbestand, zurückhaltend anzuwenden."
+    },
+    {
+      "norm": "§ 325 BGB",
+      "inhalt": "Rücktritt und Schadensersatz schließen sich nicht aus (Klarstellung nach der Schuldrechtsreform)."
+    },
+    {
+      "norm": "§ 244 Abs. 1 Nr. 2 StGB",
+      "inhalt": "Bandendiebstahl – Bande nach BGH (restriktiv) erst ab drei Personen."
+    },
+    {
+      "norm": "§ 119 BGB",
+      "inhalt": "Anfechtung wegen Inhalts-, Erklärungs- und Eigenschaftsirrtums – Motivirrtum im Umkehrschluss nicht."
+    },
+    {
+      "norm": "§ 2255 BGB",
+      "inhalt": "Widerruf eines Testaments durch Vernichtung oder Veränderung – erst recht für Teile."
+    },
+    {
+      "norm": "§ 31 BGB",
+      "inhalt": "Haftung des Vereins für seine Organe – analog auf alle juristischen Personen und OHG/KG."
+    },
+    {
+      "norm": "§ 181 BGB",
+      "inhalt": "Verbot des In-sich-Geschäfts – teleologisch reduziert, wenn kein Interessenkonflikt besteht."
+    },
+    {
+      "norm": "§ 647 BGB",
+      "inhalt": "Werkunternehmerpfandrecht nur an Sachen des Bestellers."
+    },
+    {
+      "norm": "§ 1207 BGB",
+      "inhalt": "Gutgläubiger Erwerb eines (rechtsgeschäftlichen) Pfandrechts vom Nichtberechtigten."
+    },
+    {
+      "norm": "§ 1257 BGB",
+      "inhalt": "Vorschriften über das vertragliche Pfandrecht gelten für ein bereits entstandenes gesetzliches Pfandrecht entsprechend."
     }
   ]
 }

@@ -30,6 +30,12 @@
           "doc": "PROP_1",
           "page": 18
         }
+      ],
+      "merksatz": "Kein Streit, kein Fall – und ein Richter sagt nie „unentschieden“: Bleibt der Hergang offen, entscheidet die Beweislast.",
+      "norms": [
+        "Art. 20 Abs. 3 GG",
+        "Art. 97 Abs. 1 GG",
+        "§ 604 Abs. 1 BGB"
       ]
     },
     {
@@ -54,6 +60,12 @@
           "doc": "PROP_1",
           "page": 22
         }
+      ],
+      "merksatz": "Barbara schließt vollständig, das Enthymem lässt aus – Anfänger schreiben lieber jeden Schritt aus.",
+      "norms": [
+        "§ 43 Abs. 3 VwVfG",
+        "§ 44 Abs. 1 VwVfG",
+        "§ 433 Abs. 2 BGB"
       ]
     },
     {
@@ -90,6 +102,11 @@
           "doc": "PROP_1",
           "page": 30
         }
+      ],
+      "merksatz": "Den Inhalt bestimmt man abstrakt, den Umfang am Fall: Schimmel = Pferd (Gattung) plus weiß (Artunterschied).",
+      "norms": [
+        "§ 854 BGB",
+        "§ 276 Abs. 2 BGB"
       ]
     },
     {
@@ -126,6 +143,17 @@
           "doc": "PROP_1",
           "page": 36
         }
+      ],
+      "merksatz": "Definiendum ist Definiens – die Legaldefinition geht immer vor, und wer im Kreis definiert, erklärt nichts.",
+      "norms": [
+        "§ 598 BGB",
+        "§ 604 Abs. 1 BGB",
+        "§ 194 Abs. 1 Hs. 1 BGB",
+        "§ 276 Abs. 2 BGB",
+        "§ 1610 Abs. 1 BGB",
+        "§ 29 WpÜG",
+        "§ 5 BetrVG",
+        "§ 201 BauGB"
       ]
     },
     {
@@ -166,6 +194,15 @@
           "doc": "PROP_1",
           "page": 43
         }
+      ],
+      "merksatz": "Erst Wortlaut, dann Systematik, Historie, Telos – und im Strafrecht bleibt die Wortlautgrenze eisern.",
+      "norms": [
+        "§ 123 Abs. 1 StGB",
+        "§ 5 S. 3 Tierschutztransportverordnung",
+        "Art. 2 Abs. 1 GG",
+        "Art. 267 AEUV",
+        "Art. 4 Abs. 3 EUV",
+        "Art. 103 Abs. 2 GG"
       ]
     },
     {
@@ -202,6 +239,18 @@
           "doc": "PROP_1",
           "page": 49
         }
+      ],
+      "merksatz": "Wenn Tatbestand, dann Rechtsfolge: Wenn A, dann B – a ist ein Fall von A – also gilt für a B.",
+      "norms": [
+        "§ 326 Abs. 1 S. 1 Hs. 1 BGB",
+        "§ 303 Abs. 1 StGB",
+        "§ 604 Abs. 1 BGB",
+        "§ 212 StGB",
+        "§ 32 Abs. 1 StGB",
+        "§ 433 Abs. 1 BGB",
+        "§ 985 BGB",
+        "§ 362 Abs. 1 BGB",
+        "Art. 16a Abs. 1 GG"
       ]
     },
     {
@@ -234,6 +283,13 @@
           "doc": "PROP_1",
           "page": 55
         }
+      ],
+      "merksatz": "Der Hauptschluss ist schnell gemacht, die Arbeit steckt im Nebenschluss: Jedes Merkmal bekommt seine eigene Subsumtion.",
+      "norms": [
+        "§ 303 Abs. 1 StGB",
+        "Art. 20 Abs. 3 GG",
+        "Art. 97 Abs. 1 GG",
+        "§ 604 Abs. 1 BGB"
       ]
     },
     {
@@ -262,6 +318,10 @@
           "doc": "PROP_1",
           "page": 60
         }
+      ],
+      "merksatz": "Der Blick pendelt zwischen Norm und Sachverhalt – Rechtsanwendung heißt Prämissen suchen, nicht rechnen.",
+      "norms": [
+        "§ 303 StGB"
       ]
     }
   ],
@@ -1199,6 +1259,448 @@
           "page": 52
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Der Fall ist konkret und faktisch – er gehört zum {{1}} („so war es“). Das Recht ist abstrakt und normativ – es gehört zum {{2}} („so soll es jedes Mal sein“).",
+      "blanks": [
+        [
+          "Sein"
+        ],
+        [
+          "Sollen"
+        ]
+      ],
+      "explanation": "Ordnet man den Fall (Sein) dem Recht (Sollen) juristisch zu, hat man das Recht „angewendet“.",
+      "hints": [
+        "Zwei philosophische Gegenbegriffe.",
+        "„ist“ ↔ „soll“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ordnet man einen Fall juristisch dem Recht zu, nennt der Studienbrief das zunächst „Subsumtion“ in einem weiten Sinn.",
+      "answer": true,
+      "explanation": "Richtig. Der Begriff wird anfangs weit verstanden (Fall → Recht); auf der Arbeitsebene wird später ein engerer, merkmalsbezogener Subsumtionsbegriff verwendet.",
+      "hints": [
+        "Es gibt einen weiten und einen engeren Subsumtionsbegriff."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Definitionsart dem Beispiel aus dem Studienbrief zu.",
+      "pairs": [
+        [
+          "Klassische Definition (Gattung + Artunterschied)",
+          "Anspruch: Recht, von einem anderen ein Tun oder Unterlassen zu verlangen (§ 194 Abs. 1 BGB)"
+        ],
+        [
+          "Konditionales Regelschema",
+          "Angemessener Unterhalt bestimmt sich nach der Lebensstellung des Bedürftigen (§ 1610 Abs. 1 BGB)"
+        ],
+        [
+          "Stipulative Definition",
+          "„Die ABC-… GmbH – im Folgenden: ABC –“"
+        ],
+        [
+          "Offene Definition (Beispiele/Fallgruppen)",
+          "Landwirtschaft „ist insbesondere …“ (§ 201 BauGB)"
+        ]
+      ],
+      "explanation": "Klassisch: nächsthöhere Gattung + Artunterschied. Konditional: Begriff liegt vor, wenn die Merkmale vorliegen – das Wesen muss nicht getroffen werden. Stipulativ: Begriffsverwendungsanweisung. Offen: Aufzählung mit „insbesondere“, um Entwicklungen offenzuhalten.",
+      "hints": [
+        "„insbesondere“ verrät die offene Definition.",
+        "„im Folgenden“ legt eine Sprachregelung fest."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 33
+        },
+        {
+          "doc": "PROP_1",
+          "page": 34
+        },
+        {
+          "doc": "PROP_1",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Eine Definition besteht aus dem zu erklärenden Teil, dem {{1}}, dem Operator („ist“) und dem erklärenden Teil, dem {{2}}.",
+      "blanks": [
+        [
+          "Definiendum"
+        ],
+        [
+          "Definiens"
+        ]
+      ],
+      "explanation": "„Ein Schimmel (Definiendum) ist (Operator) ein weißes Pferd (Definiens).“",
+      "hints": [
+        "Lateinisch: das zu Definierende – das Definierende.",
+        "Beide beginnen mit „Defini…“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Student S schreibt in seiner Hausarbeit: „Ein Anspruch ist ein Recht, mit dem man von einem anderen etwas beanspruchen kann.“ Gegen welche Anforderung an eine gute Definition verstößt er?",
+      "options": [
+        "Gegen das Verbot der Zirkularität",
+        "Gegen das Gebot, die Definition nicht zu weit zu fassen",
+        "Gegen den Vorrang der Legaldefinition vor anderen Definitionen",
+        "Gegen das Gebot der Widerspruchsfreiheit"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Definierte („Anspruch“/„beanspruchen“) taucht im Erklärungsteil wieder auf – genau dieses Beispiel nennt der Studienbrief als falsch (Zirkularitätsverbot).",
+      "hints": [
+        "Schauen Sie, welches Wort in beiden Teilen vorkommt.",
+        "Man darf nicht im Kreis definieren."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bringen Sie den Syllogismus im Modus barbara (Beispiel des Studienbriefs) in die richtige Reihenfolge.",
+      "items": [
+        "Obersatz: Alle Verträge (M) sind Rechtsgeschäfte (P).",
+        "Untersatz: Alle Kaufverträge (S) sind Verträge (M).",
+        "Schlusssatz: Also sind alle Kaufverträge (S) Rechtsgeschäfte (P)."
+      ],
+      "explanation": "Der Mittelbegriff (Verträge) vermittelt zwischen Unterbegriff (Kaufverträge) und Oberbegriff (Rechtsgeschäfte) und fällt im Schlusssatz weg.",
+      "hints": [
+        "Der Schlusssatz enthält den Mittelbegriff nicht mehr.",
+        "Vom Allgemeinsten zum Ergebnis."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 19
+        },
+        {
+          "doc": "PROP_1",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Was kann nach dem Studienbrief die erste Prämisse des Justizsyllogismus sein? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Eine Satzung",
+        "Ein Leitsatz",
+        "Ein Lehrsatz",
+        "Eine bloße Moralnorm ohne Erzwingbarkeit"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Erste Prämisse kann jeder Rechtssatz sein (Gesetz, Verordnung, Satzung, Vorschrift, Grundsatz, Lehrsatz, Leitsatz), der sich in Konditionalform („Wenn Tatbestand → dann Rechtsfolge“) fassen lässt. Moralnormen sind nicht erzwingbar und daher keine Rechtsnormen.",
+      "hints": [
+        "Entscheidend ist: Rechtssatz in Wenn-Dann-Form.",
+        "Was unterscheidet Recht von Moral?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 45
+        },
+        {
+          "doc": "PROP_1",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Außerhalb des Strafrechts ist der Wortlaut nach Teil A des Studienbriefs ein wichtiges Indiz, aber keine absolute Grenze der Auslegung.",
+      "answer": true,
+      "explanation": "Richtig. Man beginnt immer mit dem Wortlaut; er ist ein wichtiges Indiz, aber keine absolute Grenze (BGHZ 46, 74, 76). Nur im Strafrecht darf die Wortlautgrenze wegen Art. 103 Abs. 2 GG nicht übergangen werden.",
+      "hints": [
+        "Achten Sie auf die Ausnahme Strafrecht.",
+        "Art. 103 Abs. 2 GG gilt nur für Strafgesetze."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 41
+        },
+        {
+          "doc": "PROP_1",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Eine Rechtsnorm ist eine normative, abstrakt-generelle {{1}} („Wenn …, dann …“). Das Wesentliche, das sie von bloßen Moralnormen unterscheidet, ist ihre {{2}}.",
+      "blanks": [
+        [
+          "Konditionalverknüpfung",
+          "Konditionalbeziehung",
+          "Wenn-Dann-Beziehung"
+        ],
+        [
+          "Erzwingbarkeit",
+          "Zwangsbewehrung"
+        ]
+      ],
+      "explanation": "Rechtsnormen sind zumeist zwangsbewehrt und können durch das staatliche Gewaltmonopol durchgesetzt werden; Moralnormen sind nicht erzwingbar.",
+      "hints": [
+        "Wenn-Dann-Struktur.",
+        "Kann der Staat sie durchsetzen?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 45
+        },
+        {
+          "doc": "PROP_1",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie der Norm ihre Rechtsfolge zu (Beispiele des Studienbriefs).",
+      "pairs": [
+        [
+          "§ 212 StGB",
+          "Freiheitsstrafe nicht unter fünf Jahren"
+        ],
+        [
+          "§ 32 Abs. 1 StGB",
+          "Die Tat ist nicht rechtswidrig"
+        ],
+        [
+          "§ 985 BGB",
+          "Der Eigentümer kann vom Besitzer Herausgabe verlangen"
+        ],
+        [
+          "§ 362 Abs. 1 BGB",
+          "Das Schuldverhältnis erlischt"
+        ]
+      ],
+      "explanation": "Jede Norm folgt dem Schema „Wenn Tatbestand, dann Rechtsfolge“: Totschlag → Strafe; Notwehr → keine Rechtswidrigkeit; Eigentum → Herausgabeanspruch; Leistung bewirkt → Erlöschen.",
+      "hints": [
+        "Notwehr rechtfertigt.",
+        "Erfüllung beendet das Schuldverhältnis."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "E hat sich Cs Cabrio für ein Wochenende geliehen. Weil das Wetter so schön ist, will er es länger behalten. Stellen Sie den vollständigen Justizsyllogismus mit Haupt- und Nebenschluss für die Rückgabepflicht des E dar.",
+      "modelAnswer": "Hauptschluss P1: Wenn ein Leihvertrag vorliegt und die Leihzeit abgelaufen ist, muss der Entleiher die Sache zurückgeben (§ 604 Abs. 1 BGB). Nebenschluss P1´: Leihvertrag = unentgeltliche Gebrauchsüberlassung einer Sache (vorübergehend). P2´: C hat E das Cabrio für ein Wochenende unentgeltlich zum Gebrauch überlassen. Zwischenergebnis = P2: C und E haben einen Leihvertrag geschlossen. Ergebnis: E muss das Cabrio nach dem Wochenende zurückgeben; C hat einen Rückgabeanspruch.",
+      "rubric": [
+        "§ 604 Abs. 1 BGB als erste Prämisse",
+        "Definition Leihvertrag als Nebenschluss-Prämisse (P1´)",
+        "Sachverhaltsfeststellung (P2´) Merkmal für Merkmal",
+        "Zwischenergebnis wird zur zweiten Prämisse des Hauptschlusses",
+        "Ergebnis: Rückgabepflicht nach dem Wochenende"
+      ],
+      "hints": [
+        "Tabelle 5 (Subsumtion Leihvertrag).",
+        "Das Ergebnis des Nebenschlusses ist P2 des Hauptschlusses."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 17
+        },
+        {
+          "doc": "PROP_1",
+          "page": 54
+        },
+        {
+          "doc": "PROP_1",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ist das junge Przewalski-Pferd Proteus ein „Fohlen“? Um welche Frage handelt es sich nach dem Studienbrief?",
+      "options": [
+        "Um eine Frage des Begriffsumfangs (Extension)",
+        "Um eine Frage des Begriffsinhalts (Intension)",
+        "Um die Frage nach dem Definiendum",
+        "Um eine Frage der Legaldefinition"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Bedeutung („noch nicht einjähriges Pferd“) bestimmt man abstrakt; ob ein konkretes Tier darunterfällt, ist eine Frage des Umfangs – sie wird stets mit Bezug auf den konkreten Sachverhalt festgestellt.",
+      "hints": [
+        "Inhalt = abstrakt, Umfang = konkret.",
+        "Geht es um „dieses“ Pferd?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 23
+        },
+        {
+          "doc": "PROP_1",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Erklären Sie den Unterschied zwischen Subsumtion im weiten und im engeren Sinn.",
+      "modelAnswer": "Im weiten Sinn ist Subsumtion die bloße Zuordnung des Falls (Sein) zum Recht (Sollen) – z. B. „E muss das Cabrio zurückgeben“. Im engeren Sinn bezieht sich die Subsumtion nach Einfügung des Nebenschemas nicht mehr auf den Tatbestand als Ganzes, sondern auf die einzelnen Merkmale: Für jedes Merkmal findet eine gesonderte Subsumtion statt; gelingt sie bei allen, tritt die Rechtsfolge ein.",
+      "rubric": [
+        "Weit: Fall → Recht insgesamt",
+        "Eng: Merkmal für Merkmal",
+        "Bezug zum Nebenschluss/Definition"
+      ],
+      "hints": [
+        "Denken Sie an die Tabelle zum Leihvertrag.",
+        "Was ändert das Nebenschema?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 17
+        },
+        {
+          "doc": "PROP_1",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A hat beim Ausparken das Auto des ihm unbekannten B leicht verbeult. B hat Druckmittel in der Hand und setzt seine Forderung kompromisslos durch. Wie bewertet der Studienbrief diese Strategie?",
+      "options": [
+        "B gewinnt (win ↔ lose); der Verlust einer guten künftigen Beziehung schadet ihm bei einem solchen Einmalkontakt nicht",
+        "B verliert stets, weil Zwang immer zu lose ↔ lose führt",
+        "Zwang ist nur unter Familienangehörigen sinnvoll",
+        "B hat „nachgegeben“ (lose ↔ win)"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Zwang bringt den Sieg (win ↔ lose), kostet aber die Chance auf eine gute künftige Beziehung – das ist beim Einmalkontakt (kleiner Blechschaden) unschädlich, bei familiärer oder wirtschaftlicher Verbundenheit nachteilig.",
+      "hints": [
+        "Tabelle 1: mit Druckmitteln, nicht kooperieren.",
+        "Wird man sich wiedersehen?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Worum wird nach dem Studienbrief im Ermittlungsverfahren und vor Gericht vor allem gestritten?",
+      "options": [
+        "Um die zweite Prämisse – ob die Tat tatsächlich und rechtlich den Tatbestand erfüllt",
+        "Um die Frage, ob der Justizsyllogismus logisch zwingend ist",
+        "Um den Wortlaut der ersten Prämisse, der stets unklar ist",
+        "Um den Schlusssatz, der unabhängig von den Prämissen gebildet wird"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Streit entbrennt vor allem um P2 – tatsächlich (Beweis) und rechtlich (erfüllt die Tat den Tatbestand?). Auch das Gutachten zielt auf die Begründung des Untersatzes im Nebenschema.",
+      "hints": [
+        "Untersatz.",
+        "Beweis und rechtliche Bewertung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 59
+        },
+        {
+          "doc": "PROP_1",
+          "page": 60
+        }
+      ]
     }
   ],
   "case": {
@@ -1454,6 +1956,64 @@
           "page": 55
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "Art. 20 Abs. 3, 97 Abs. 1 GG",
+      "inhalt": "Gesetzesbindung der Richter – sie dürfen eine Entscheidung nicht verweigern."
+    },
+    {
+      "norm": "§ 604 Abs. 1 BGB",
+      "inhalt": "Der Entleiher muss die Sache nach Ablauf der vereinbarten Leihzeit zurückgeben."
+    },
+    {
+      "norm": "§ 433 BGB",
+      "inhalt": "Kaufvertrag: Verkäufer schuldet Übergabe und Übereignung, Käufer den Kaufpreis (Abs. 2)."
+    },
+    {
+      "norm": "§ 854 BGB",
+      "inhalt": "Besitz = tatsächliche Herrschaft einer Person über eine Sache (Beispiel für Begriffsmerkmale)."
+    },
+    {
+      "norm": "§ 276 Abs. 2 BGB",
+      "inhalt": "Fahrlässig handelt, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt."
+    },
+    {
+      "norm": "§ 598 BGB",
+      "inhalt": "Leihvertrag: unentgeltliche Gestattung des Gebrauchs einer Sache."
+    },
+    {
+      "norm": "§ 194 Abs. 1 BGB",
+      "inhalt": "Anspruch = Recht, von einem anderen ein Tun oder Unterlassen zu verlangen (klassische Definition)."
+    },
+    {
+      "norm": "§ 123 Abs. 1 StGB",
+      "inhalt": "Hausfriedensbruch – Beispiel für Zweifel am Begriff „Wohnung“ (Zelt, PKW?)."
+    },
+    {
+      "norm": "Art. 2 Abs. 1 GG",
+      "inhalt": "Freie Entfaltung der Persönlichkeit = allgemeine Handlungsfreiheit (historische Auslegung, Reiten im Walde)."
+    },
+    {
+      "norm": "Art. 103 Abs. 2 GG",
+      "inhalt": "Keine Strafe ohne Gesetz – im Strafrecht ist der Wortlaut die unüberschreitbare Grenze."
+    },
+    {
+      "norm": "§ 303 Abs. 1 StGB",
+      "inhalt": "Sachbeschädigung: Wer rechtswidrig eine fremde Sache beschädigt oder zerstört, wird bestraft."
+    },
+    {
+      "norm": "§ 32 Abs. 1 StGB",
+      "inhalt": "Wer in Notwehr handelt, handelt nicht rechtswidrig."
+    },
+    {
+      "norm": "§ 985 BGB",
+      "inhalt": "Der Eigentümer kann vom Besitzer die Herausgabe der Sache verlangen."
+    },
+    {
+      "norm": "§ 362 Abs. 1 BGB",
+      "inhalt": "Das Schuldverhältnis erlischt, wenn die geschuldete Leistung bewirkt wird (Erfüllung)."
     }
   ]
 }

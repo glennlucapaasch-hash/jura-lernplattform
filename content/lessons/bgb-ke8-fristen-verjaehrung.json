@@ -23,6 +23,17 @@
           "doc": "BGB_8",
           "page": 6
         }
+      ],
+      "merksatz": "Erst auslegen, dann rechnen: §§ 187 ff. helfen nur, wenn Datum, Uhrzeit oder klare Worte nicht schon alles sagen.",
+      "norms": [
+        "§ 186 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "Art. 2 EGBGB",
+        "§ 222 ZPO",
+        "§ 148 BGB",
+        "§ 2 BGB",
+        "§ 359 Abs. 2 HGB"
       ]
     },
     {
@@ -39,6 +50,12 @@
           "doc": "BGB_8",
           "page": 7
         }
+      ],
+      "merksatz": "Fällt der Startschuss in den Tag, zählt der Tag nicht mit; beginnt die Frist mit dem Tag, zählt er mit – ebenso der Geburtstag.",
+      "norms": [
+        "§ 187 Abs. 1 BGB",
+        "§ 187 Abs. 2 S. 1 BGB",
+        "§ 187 Abs. 2 S. 2 BGB"
       ]
     },
     {
@@ -59,6 +76,17 @@
           "doc": "BGB_8",
           "page": 9
         }
+      ],
+      "merksatz": "Ereignistag plus Frist ergibt den Endtag, Schluss um Mitternacht – und fehlt der Tag im Monat, endet es am Monatsletzten.",
+      "norms": [
+        "§ 188 Abs. 1 BGB",
+        "§ 188 Abs. 2 BGB",
+        "§ 188 Abs. 3 BGB",
+        "§ 187 Abs. 1 BGB",
+        "§ 187 Abs. 2 BGB",
+        "§ 148 BGB",
+        "§ 147 Abs. 2 BGB",
+        "§ 2 BGB"
       ]
     },
     {
@@ -75,6 +103,12 @@
           "doc": "BGB_8",
           "page": 10
         }
+      ],
+      "merksatz": "Sa-So-Fei schiebt das Fristende auf den nächsten Werktag – Lebensalter und Rosenmontag lässt das kalt.",
+      "norms": [
+        "§ 193 BGB",
+        "§ 192 BGB",
+        "§ 222 Abs. 2 ZPO"
       ]
     },
     {
@@ -91,6 +125,14 @@
           "doc": "BGB_8",
           "page": 12
         }
+      ],
+      "merksatz": "Verjährt heißt nicht erloschen: Über Einreden muss man reden – und wer trotzdem zahlt, bekommt nichts zurück.",
+      "norms": [
+        "§ 194 Abs. 1 BGB",
+        "§ 214 Abs. 1 BGB",
+        "§ 214 Abs. 2 BGB",
+        "§ 218 BGB",
+        "§ 438 Abs. 1 Nr. 3 BGB"
       ]
     },
     {
@@ -111,6 +153,22 @@
           "doc": "BGB_8",
           "page": 14
         }
+      ],
+      "merksatz": "Drei Jahre ab Silvester nach Entstehung und Kenntnis; Kaufmängel zwei Jahre ab Ablieferung, Grundstücke zehn, Titel dreißig.",
+      "norms": [
+        "§ 195 BGB",
+        "§ 199 Abs. 1 BGB",
+        "§ 199 Abs. 2 BGB",
+        "§ 199 Abs. 3 BGB",
+        "§ 438 Abs. 1 Nr. 2 BGB",
+        "§ 438 Abs. 1 Nr. 3 BGB",
+        "§ 438 Abs. 2 BGB",
+        "§ 634a Abs. 1 Nr. 2 BGB",
+        "§ 634a Abs. 2 BGB",
+        "§ 196 BGB",
+        "§ 197 BGB",
+        "§ 187 Abs. 1 BGB",
+        "§ 188 Abs. 2 BGB"
       ]
     },
     {
@@ -127,6 +185,13 @@
           "doc": "BGB_8",
           "page": 15
         }
+      ],
+      "merksatz": "Verjährung ist verhandelbar – nur nicht für Vorsatz, nicht über dreißig Jahre und beim Verbraucherkauf neuer Sachen nicht unter zwei.",
+      "norms": [
+        "§ 202 BGB",
+        "§ 309 Nr. 8 b) ff) BGB",
+        "§ 476 Abs. 2 BGB",
+        "§ 438 BGB"
       ]
     },
     {
@@ -147,6 +212,20 @@
           "doc": "BGB_8",
           "page": 17
         }
+      ],
+      "merksatz": "Hemmung drückt die Pausetaste, Neubeginn den Reset-Knopf – und Ausschlussfristen prüft das Gericht von selbst.",
+      "norms": [
+        "§ 203 BGB",
+        "§ 204 Abs. 1 Nr. 1 BGB",
+        "§ 204 Abs. 1 Nr. 3 BGB",
+        "§ 204 Abs. 1 Nr. 10 BGB",
+        "§ 205 BGB",
+        "§ 206 BGB",
+        "§ 207 BGB",
+        "§ 209 BGB",
+        "§ 212 BGB",
+        "§ 121 BGB",
+        "§ 124 BGB"
       ]
     }
   ],
@@ -1021,6 +1100,481 @@
           "page": 6
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ist für den Anfang einer Frist ein Ereignis maßgebend, wird der Tag, in den das Ereignis fällt, {{1}} mitgerechnet (§ 187 Abs. 1 BGB). Ist dagegen der {{2}} eines Tages für den Fristbeginn maßgebend, wird dieser Tag mitgerechnet (§ 187 Abs. 2 S. 1 BGB).",
+      "blanks": [
+        [
+          "nicht"
+        ],
+        [
+          "Beginn",
+          "Anfang"
+        ]
+      ],
+      "explanation": "So vermeidet die Zivilkomputation Bruchteile von Tagen (S. 6–7).",
+      "hints": [
+        "Die Fristsetzung um 14 Uhr – zählt dieser Tag?",
+        "Beispiel: „ab dem 01.03.“"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 6
+        },
+        {
+          "doc": "BGB_8",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Die Verjährung gibt dem Schuldner eine {{1}}: Er ist berechtigt, die Leistung zu {{2}} (§ 214 Abs. 1 BGB). Was er in Unkenntnis der Verjährung geleistet hat, kann er {{3}} zurückfordern (§ 214 Abs. 2 BGB).",
+      "blanks": [
+        [
+          "Einrede",
+          "Leistungsverweigerungsrecht"
+        ],
+        [
+          "verweigern"
+        ],
+        [
+          "nicht"
+        ]
+      ],
+      "explanation": "Der Anspruch besteht fort; nur seine Durchsetzbarkeit endet, wenn sich der Schuldner beruft (S. 11).",
+      "hints": [
+        "„Über … muss man reden.“",
+        "Der Anspruch ist nicht erloschen – also gab es einen Rechtsgrund."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Der Zeitraum der Hemmung wird in die Verjährungsfrist {{1}} eingerechnet (§ 209 BGB). Beim Neubeginn zählt die bisher verstrichene Zeit nicht mehr; die volle Frist beginnt {{2}} (§ 212 BGB). Gründe für den Neubeginn sind das {{3}} des Schuldners und gerichtliche oder behördliche Vollstreckungshandlungen.",
+      "blanks": [
+        [
+          "nicht"
+        ],
+        [
+          "erneut",
+          "neu",
+          "von vorn"
+        ],
+        [
+          "Anerkenntnis",
+          "Anerkennen"
+        ]
+      ],
+      "explanation": "Hemmung = Ruhen; Neubeginn = Neustart (S. 15–17). Anerkenntnis z.B. durch Abschlags- oder Zinszahlung oder Sicherheitsleistung.",
+      "hints": [
+        "Pause oder Reset?",
+        "Eine Abschlagszahlung ist ein Beispiel."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        },
+        {
+          "doc": "BGB_8",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Hemmungsgrund der Norm zu.",
+      "pairs": [
+        [
+          "Klageerhebung",
+          "§ 204 Abs. 1 Nr. 1 BGB"
+        ],
+        [
+          "Zustellung eines Mahnbescheids",
+          "§ 204 Abs. 1 Nr. 3 BGB"
+        ],
+        [
+          "Stundung (vereinbartes Leistungsverweigerungsrecht)",
+          "§ 205 BGB"
+        ],
+        [
+          "Höhere Gewalt",
+          "§ 206 BGB"
+        ],
+        [
+          "Ansprüche zwischen Ehegatten während der Ehe",
+          "§ 207 BGB"
+        ],
+        [
+          "Verhandlungen über den Anspruch",
+          "§ 203 BGB"
+        ]
+      ],
+      "explanation": "Katalog S. 15–16.",
+      "hints": [
+        "§ 204 sammelt die Fälle der Rechtsverfolgung.",
+        "§ 203 steht vor § 204."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 15
+        },
+        {
+          "doc": "BGB_8",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie der Verjährungsfrist ihren Fristbeginn zu.",
+      "pairs": [
+        [
+          "Regelmäßige Frist (§ 195)",
+          "Schluss des Jahres der Entstehung und Kenntnis (§ 199 Abs. 1)"
+        ],
+        [
+          "Mängelansprüche beim Kauf beweglicher Sachen",
+          "Ablieferung der Sache (§ 438 Abs. 2)"
+        ],
+        [
+          "Mängelansprüche beim Werkvertrag",
+          "Abnahme (§ 634a Abs. 2)"
+        ],
+        [
+          "Verbraucherverträge über digitale Produkte",
+          "grundsätzlich Bereitstellung"
+        ],
+        [
+          "Höchstfristen (§ 199 Abs. 2, 3)",
+          "unabhängig von der Kenntnis"
+        ]
+      ],
+      "explanation": "S. 13–14: Nur die regelmäßige Frist ist kenntnisabhängig und „ultimo“; sonst beginnt die Frist grundsätzlich mit Entstehung bzw. dem gesetzlich bestimmten Ereignis.",
+      "hints": [
+        "Nur eine Frist beginnt am 31.12.",
+        "Kauf: Übergabe; Werk: Billigung des Werks."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 13
+        },
+        {
+          "doc": "BGB_8",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung der Verjährung in der Klausur in eine sinnvolle Reihenfolge.",
+      "items": [
+        "Anspruch entstanden (Anspruch besteht)",
+        "Schuldner hat die Einrede erhoben (sonst nicht weiter prüfen)",
+        "Einschlägige Verjährungsfrist bestimmen (§§ 195 ff., Sonderfristen)",
+        "Fristbeginn bestimmen (§ 199 Abs. 1 oder Sondervorschrift)",
+        "Hemmung oder Neubeginn berücksichtigen (§§ 203 ff., 212)",
+        "Fristende berechnen (§§ 187, 188) → Anspruch durchsetzbar oder nicht"
+      ],
+      "explanation": "Prüfungsstandort ist „Anspruch durchsetzbar“ (S. 12); Fristen S. 12–13, Beginn S. 13–14, Hemmung/Neubeginn S. 15–17.",
+      "hints": [
+        "Ohne Einrede keine Verjährungsprüfung.",
+        "Erst Länge und Start, dann Unterbrechungen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 13
+        },
+        {
+          "doc": "BGB_8",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "M mietet am 26.7. um 12.30 Uhr ein Fahrrad „für einen Tag“ (10 € pro Tag) und bringt es am 27.7. um 12 Uhr zurück. Was gilt, wenn man allein die gesetzlichen Regeln (§§ 187 Abs. 2 S. 1, 188 Abs. 1 BGB) anwendet?",
+      "options": [
+        "M muss 20 € zahlen, weil am 27.7. ein neuer Kalendertag begonnen hat.",
+        "M muss 10 € zahlen, weil er das Rad weniger als 24 Stunden hatte.",
+        "M muss nichts zahlen, weil Stundenfristen nicht nach §§ 187 ff. berechnet werden.",
+        "M muss 15 € zahlen (anteilige Berechnung)."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Skript-Beispiel (S. 7): Nach Kalendertagen gerechnet beginnt am 27.7. ein neuer Tag. In der Praxis sind abweichende Vereinbarungen (24 Stunden) üblich – sie gehen als Auslegung vor.",
+      "hints": [
+        "Zivilkomputation rechnet in ganzen Kalendertagen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "L wurde am 01.03.2008 geboren. Wann vollendet sie ihr 18. Lebensjahr?",
+      "options": [
+        "Mit Ablauf des 28.02.2026",
+        "Mit Ablauf des 01.03.2026",
+        "Mit Ablauf des 02.03.2026",
+        "Am 01.03.2026 um die Uhrzeit ihrer Geburt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Geburtstag zählt mit (§ 187 Abs. 2 S. 2); das Lebensjahr endet mit Ablauf des Vortags des Geburtstags (§ 188 Abs. 2 2. Alt.). Bei einem 1. März ist das der letzte Februartag (S. 8–9). § 193 spielt beim Lebensalter keine Rolle.",
+      "hints": [
+        "Am Geburtstag selbst ist man um 0 Uhr schon volljährig.",
+        "Welcher Tag liegt vor dem 1. März?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 8
+        },
+        {
+          "doc": "BGB_8",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Bauunternehmer U errichtet für B ein Einfamilienhaus; B nimmt das Werk am Donnerstag, 15.03.2024 ab. Wann verjähren B’s Mängelansprüche ohne Hemmung oder Neubeginn?",
+      "options": [
+        "Mit Ablauf des 15.03.2029",
+        "Mit Ablauf des 31.12.2027",
+        "Mit Ablauf des 15.03.2026",
+        "Mit Ablauf des 31.12.2029"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Bauwerk: fünf Jahre (§ 634a Abs. 1 Nr. 2) ab Abnahme (§ 634a Abs. 2), also kein Jahresschluss (S. 12, 14). Abnahmetag nicht mitgerechnet (§ 187 Abs. 1), Ende nach § 188 Abs. 2 am 15.03.2029 (ein Donnerstag).",
+      "hints": [
+        "Ist das die regelmäßige Verjährung?",
+        "Bauwerk ≠ zwei Jahre."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Verbraucherin K kauft beim Händler V einen neuen Fernseher. In einer individuell ausgehandelten Abrede wird die Verjährung der Mängelansprüche auf ein Jahr verkürzt. Ist das wirksam?",
+      "options": [
+        "Nein – beim Verbrauchsgüterkauf neuer Sachen darf die Zwei-Jahres-Frist auch individuell nicht unterschritten werden (§ 476 Abs. 2).",
+        "Ja – nur AGB-Klauseln sind beschränkt (§ 309 Nr. 8 b) ff)), Individualvereinbarungen sind stets frei.",
+        "Ja – § 202 verbietet nur Verlängerungen über 30 Jahre.",
+        "Nein – Verjährungsfristen sind generell nicht abdingbar."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "S. 14–15: Grundsätzlich sind Verkürzungen möglich, in AGB nicht unter ein Jahr; beim Verbrauchsgüterkauf neuer Sachen sind zwei Jahre zwingend, bei gebrauchten mindestens ein Jahr.",
+      "hints": [
+        "Wer ist hier Käufer?",
+        "Für Verbraucher gelten engere Grenzen als für AGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 14
+        },
+        {
+          "doc": "BGB_8",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Ansprüche verjähren nach § 197 BGB in dreißig Jahren? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Herausgabeansprüche aus Eigentum und anderen dinglichen Rechten",
+        "Rechtskräftig festgestellte Ansprüche",
+        "Schadensersatz wegen vorsätzlicher Verletzung des Körpers oder der Gesundheit",
+        "Ansprüche auf Übertragung des Eigentums an einem Grundstück"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "S. 12–13. Grundstücksübertragungsansprüche verjähren nach § 196 in zehn Jahren.",
+      "hints": [
+        "Grundstücke haben ihre eigene Zehn-Jahres-Norm."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Das Rücktrittsrecht verjährt in der regelmäßigen Frist von drei Jahren.",
+      "answer": false,
+      "explanation": "Nur Ansprüche verjähren (§ 194 Abs. 1). Der Rücktritt ist ein Gestaltungsrecht; er kann aber nach § 218 durch Zeitablauf unwirksam werden (S. 11).",
+      "hints": [
+        "Ist der Rücktritt ein Anspruch?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "§ 193 BGB ist nach allgemeiner Ansicht auf Ausschluss- und Verjährungsfristen entsprechend anwendbar, obwohl sein Wortlaut nur die Abgabe von Willenserklärungen und das Bewirken von Leistungen nennt.",
+      "answer": true,
+      "explanation": "So das Skript (S. 10). Keine Rolle spielt § 193 dagegen beim Lebensalter.",
+      "hints": [
+        "Wortlaut eng – Anwendung weiter?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie, an welcher Stelle der Anspruchsprüfung die Verjährung zu prüfen ist und was gilt, wenn sich der Schuldner im Sachverhalt nicht auf sie beruft.",
+      "modelAnswer": "Die Verjährung lässt den Anspruch bestehen; sie gibt dem Schuldner nur eine Einrede, also ein dauerndes Leistungsverweigerungsrecht (§ 214 Abs. 1). Deshalb wird sie nicht bei „Anspruch entstanden“ oder „Anspruch erloschen“ geprüft, sondern beim Punkt „Anspruch durchsetzbar“. Weil es sich um eine Einrede handelt, wird sie nur beachtet, wenn der Schuldner sie erhebt („über Einreden muss man reden“); ein Gericht prüft sie nicht von Amts wegen. Beruft sich der Schuldner im Sachverhalt nicht auf die Verjährung, ist sie in der Klausur nicht weiter zu prüfen. Ausschlussfristen sind dagegen von Amts wegen zu berücksichtigen.",
+      "rubric": [
+        "Verjährung = Einrede, Anspruch bleibt bestehen",
+        "§ 214 Abs. 1: Leistungsverweigerungsrecht",
+        "Prüfungsstandort „Anspruch durchsetzbar“",
+        "Nur bei Erhebung zu beachten, keine Prüfung von Amts wegen",
+        "Kein Einwand im Sachverhalt → keine weitere Prüfung"
+      ],
+      "explanation": "S. 11–12; Abgrenzung zur Ausschlussfrist S. 17.",
+      "hints": [
+        "Einrede oder Einwendung?",
+        "Merksatz des Skripts zum Prüfungsstandort."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 11
+        },
+        {
+          "doc": "BGB_8",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "K kauft bei V eine Spülmaschine, die ihm am 20.05.2024 geliefert wird. Ein verborgener Mangel zeigt sich erst im Mai 2026. Am 10.06.2026 verlangt K Nacherfüllung; V beruft sich auf Verjährung. Weitere Ereignisse (Verhandlungen, Klage) gab es nicht. Zu Recht?",
+      "modelAnswer": "K könnte einen Nacherfüllungsanspruch aus §§ 437 Nr. 1, 439 haben. Der Anspruch könnte aber nicht durchsetzbar sein, weil V die Einrede der Verjährung erhoben hat (§ 214 Abs. 1). Mängelansprüche beim Kauf beweglicher Sachen verjähren in zwei Jahren (§ 438 Abs. 1 Nr. 3), beginnend mit der Ablieferung (§ 438 Abs. 2) – unabhängig davon, ob der Käufer den Mangel kannte oder erkennen konnte; das gilt auch für verborgene Mängel. Der Ablieferungstag 20.05.2024 wird nicht mitgerechnet (§ 187 Abs. 1); die Frist endet mit Ablauf des 20.05.2026 (§ 188 Abs. 2), einem Mittwoch, sodass § 193 nicht eingreift. Hemmung oder Neubeginn liegen nicht vor. Am 10.06.2026 war der Anspruch verjährt. V verweigert die Nacherfüllung zu Recht.",
+      "rubric": [
+        "Anspruchsgrundlage §§ 437 Nr. 1, 439 und Einrede erhoben",
+        "Zweijährige Frist § 438 Abs. 1 Nr. 3",
+        "Beginn mit Ablieferung § 438 Abs. 2, Kenntnis unerheblich",
+        "Berechnung §§ 187 Abs. 1, 188 Abs. 2: Ablauf 20.05.2026",
+        "§ 193 geprüft, keine Hemmung/kein Neubeginn",
+        "Ergebnis: verjährt, Leistungsverweigerung berechtigt"
+      ],
+      "explanation": "Fristen S. 12, Beginn S. 14, Berechnung S. 7–8.",
+      "hints": [
+        "Kommt es auf die Kenntnis des K vom Mangel an?",
+        "Ab wann läuft die Frist beim Kauf?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 12
+        },
+        {
+          "doc": "BGB_8",
+          "page": 14
+        }
+      ]
     }
   ],
   "case": {
@@ -1288,6 +1842,68 @@
           "page": 17
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 186 BGB",
+      "inhalt": "Die Fristregeln gelten für Gesetze, gerichtliche Verfügungen und Rechtsgeschäfte."
+    },
+    {
+      "norm": "§ 187 Abs. 1 BGB",
+      "inhalt": "Bei Ereignisfristen wird der Tag des Ereignisses nicht mitgezählt."
+    },
+    {
+      "norm": "§ 187 Abs. 2 BGB",
+      "inhalt": "Beginnt die Frist mit dem Tagesanfang, zählt der Tag mit; ebenso der Geburtstag beim Lebensalter."
+    },
+    {
+      "norm": "§ 188 Abs. 1 BGB",
+      "inhalt": "Tagesfristen enden mit Ablauf des letzten Tages."
+    },
+    {
+      "norm": "§ 188 Abs. 2 BGB",
+      "inhalt": "Wochen-, Monats- und Jahresfristen enden am Tag mit derselben Benennung bzw. Zahl (bei Abs. 2-Fällen einen Tag früher)."
+    },
+    {
+      "norm": "§ 188 Abs. 3 BGB",
+      "inhalt": "Fehlt der maßgebliche Tag im letzten Monat, endet die Frist mit dem Monatsletzten."
+    },
+    {
+      "norm": "§ 193 BGB",
+      "inhalt": "Fällt das Fristende auf Samstag, Sonntag oder Feiertag, tritt der nächste Werktag an seine Stelle."
+    },
+    {
+      "norm": "§ 194 Abs. 1 BGB",
+      "inhalt": "Nur Ansprüche (Recht, ein Tun oder Unterlassen zu verlangen) verjähren."
+    },
+    {
+      "norm": "§ 214 BGB",
+      "inhalt": "Nach Verjährung darf der Schuldner die Leistung verweigern; Geleistetes kann er nicht zurückfordern."
+    },
+    {
+      "norm": "§ 195 BGB",
+      "inhalt": "Die regelmäßige Verjährungsfrist beträgt drei Jahre."
+    },
+    {
+      "norm": "§ 199 Abs. 1 BGB",
+      "inhalt": "Beginn mit Schluss des Jahres der Entstehung und der Kenntnis bzw. grob fahrlässigen Unkenntnis."
+    },
+    {
+      "norm": "§ 438 Abs. 1 Nr. 3 BGB",
+      "inhalt": "Mängelansprüche beim Kauf verjähren regelmäßig in zwei Jahren (ab Ablieferung, Abs. 2)."
+    },
+    {
+      "norm": "§ 204 Abs. 1 BGB",
+      "inhalt": "Rechtsverfolgung (Klage, Mahnbescheid, Anmeldung im Insolvenzverfahren) hemmt die Verjährung."
+    },
+    {
+      "norm": "§ 209 BGB",
+      "inhalt": "Die Zeit der Hemmung wird in die Verjährungsfrist nicht eingerechnet."
+    },
+    {
+      "norm": "§ 212 BGB",
+      "inhalt": "Anerkenntnis oder Vollstreckungshandlung: Die Verjährung beginnt neu."
     }
   ]
 }

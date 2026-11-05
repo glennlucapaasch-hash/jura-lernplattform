@@ -3,7 +3,9 @@
   "moduleId": "55100",
   "ke": null,
   "kind": "lesson",
-  "topicIds": ["prop-c"],
+  "topicIds": [
+    "prop-c"
+  ],
   "title": "Normen richtig zitieren und Gutachtenebenen: „An apple a day keeps the neighbour away“",
   "estMinutes": 120,
   "sections": [
@@ -13,12 +15,37 @@
       "short": "Ein genaues Normzitat nennt den Paragrafen bzw. Artikel und – soweit nötig – Absatz, Satz, Halbsatz, Nummer, Buchstabe und Alternative/Variante, am Ende immer den „Normkörper“ (BGB, StGB, GG …). Faustregel aus Merkblatt und Folien: Eine tiefere Angabe ist nötig, sobald die übergeordnete Einheit mehr als ein Element enthält und Sie nur eines davon meinen. Zitieren Sie so genau wie möglich.",
       "long": "## Was gehört in ein Normzitat? (Folie 50)\n\nEin genaues Zitat einer Rechtsnorm besteht aus:\n\n- **Paragraf** (§, Mehrzahl §§) bzw. **Artikel** (Art., Mehrzahl Artt.) – *immer*,\n- ggf. **Absatz** (Abs.),\n- ggf. **Satz** (S.),\n- ggf. **Halbsatz** (Hs. oder Halbs.),\n- ggf. **Nummer** (Nr.),\n- ggf. **Buchstabe** (lit.),\n- ggf. **Variante** (Var.) oder **Alternative** (Alt.),\n- die Bezeichnung des **Normkörpers** (z. B. GG, BGB, StGB, VwVfG).\n\nMerksatz der Folie: *Zitieren Sie so genau wie möglich!*\n\n## Wie erkenne ich die Bestandteile im Gesetzestext? (Merkblatt „Vorschlag zur Normzitation“)\n\n| Bestandteil | So steht es im Gesetz | So schreiben Sie es im Gutachten | Wann unerlässlich? |\n|---|---|---|---|\n| Paragraf/Artikel | § 2 bzw. Art. 2, meist mit Überschrift | § 2 bzw. Art. 2 | immer |\n| Absatz | Ziffer in Klammern, z. B. (2) | Abs. 2 oder römisch II | wenn die Norm mehr als einen Absatz hat und Sie nur einen meinen |\n| Satz | oft hochgestellte Ziffer, z. B. ² | S. 2 – oder nur „2“, aber nur, wenn der Absatz vorher römisch zitiert wurde | wenn der Absatz mehr als einen Satz hat und Sie nur einen meinen |\n| Nummer | Ziffer mit Punkt, z. B. 3. | Nr. 3 | wenn der Satz in Nummern gegliedert ist und Sie nur eine meinen |\n| Buchstabe | Kleinbuchstabe mit Klammer, z. B. a) | lit. a bzw. „lit a)“ oder nur „a)“ | wenn die Nummer in Buchstaben gegliedert ist und Sie einen meinen |\n\n## Absätze nicht mit Klammern zitieren (Folie 56)\n\nIm Gesetz stehen Absätze als „(1)“. Diese Schreibweise ist in juristischen Arbeiten **unüblich** und kann zu Punktabzug führen. Richtig sind: **§ 990 Absatz 1 BGB**, **§ 990 Abs. 1 BGB** oder **§ 990 I BGB**.\n\n## Studienbrief (S. 233 f.)\n\nAuch der Exkurs zu wissenschaftlichen Arbeiten verlangt, Normen mit mehr als einem Satz oder Absatz **exakt** mit Absatz und Satz, ggf. Nummer und Buchstabe, zu zitieren – Beispiele: § 179 Abs. 3 Satz 1 BGB; § 309 Nr. 2 lit. a BGB; Art. 15 Satz 2 GG. Wer sich auf einen **Satzteil** bezieht, nennt auch diesen: § 812 Abs. 1 Satz 1, 1. Alt. BGB; § 426 Abs. 1 Satz 1 Halbsatz 2 BGB. Die in Klausuren übliche **abgekürzte Zitierweise** (Absätze römisch, Sätze arabisch) ist knapp und trotzdem genau: § 433 I 2 BGB; § 14 II BGB; § 212 I Nr. 2 BGB.",
       "src": [
-        {"doc": "EXTRA_PROP_NORMZITATION", "page": 1},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 50},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 55},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 56},
-        {"doc": "PROP_1", "page": 232},
-        {"doc": "PROP_1", "page": 233}
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 55
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 56
+        },
+        {
+          "doc": "PROP_1",
+          "page": 232
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ],
+      "merksatz": "Paragraf, Absatz, Satz, Nummer, Buchstabe – und am Ende das Gesetz: Zitiere so genau, dass niemand suchen muss.",
+      "norms": [
+        "§ 990 Abs. 1 BGB",
+        "§ 433 Abs. 1 S. 2 BGB",
+        "§ 426 Abs. 1 S. 1 Hs. 2 BGB",
+        "§ 309 Nr. 2 lit. a BGB"
       ]
     },
     {
@@ -27,13 +54,42 @@
       "short": "„Alt.“ verwenden Sie, wenn eine Vorschrift zwei Optionen nennt, „Var.“ bei mehr als zwei. Mehrere Normen zitiert man mit §§ bzw. Artt.; „f.“ erfasst die eine folgende Norm, „ff.“ mehrere folgende. Zusammengehörige Normen werden mit Kommata verkettet; „i. V. m.“ nur, wenn eine Sinneinheit dargestellt wird, die sich nicht direkt aus dem Gesetz ergibt. „Nach“ und „gemäß“ sind Synonyme; „entsprechend“ signalisiert analoge Anwendung; „vgl.“ ist zu unterlassen.",
       "long": "## Alternative oder Variante? (Folie 59)\n\nAm Beispiel § 6 Abs. 2 AO: Nr. 2 nennt **zwei** Bundesoberbehörden („die Bundesmonopolverwaltung für Branntwein *oder* das Bundeszentralamt für Steuern“). Die zweite Option zitieren Sie als\n\n- § 6 Absatz 2 Nummer 2 Alternative 2 AO,\n- **§ 6 Abs. 2 Nr. 2 Alt. 2 AO** oder\n- **§ 6 II Nr. 2 Alt. 2 AO**.\n\n**Alt.** = Alternative (bei *zwei* Optionen), **Var.** = Variante (bei *mehr als zwei* Optionen; Beispiel der Folie: Nr. 4 mit drei Mittelbehörden). **lit.** kommt von lateinisch *littera* (Buchstabe). Ein Beispiel für Buchstaben bietet § 49a Abs. 3 Nr. 1 BWG mit den Buchstaben a), b), c) (Folie 60).\n\n## Normketten (Folien 53 und 54)\n\n- Mehrere Normen: **§§** bzw. **Artt.**\n- **f.** (gesprochen „folgende“): nur die *eine* nachfolgende Norm wird mitzitiert – §§ 280 f. BGB; Artt. 1 f. GG.\n- **ff.** (ebenfalls „folgende“, *nicht* „fortfolgende“): mehrere nachfolgende Normen – §§ 346 ff. BGB; Artt. 1 ff. GG.\n- Faustregel: Zusammengehörige Normen einer Paragrafenkette werden mit **Kommata** zusammengefasst: §§ 280 Abs. 1, Abs. 2, 286 Abs. 1 S. 1 BGB.\n- **i. V. m.** („in Verbindung mit“) nur, wenn eine Sinneinheit dargestellt werden soll, die sich **nicht direkt aus dem Gesetz** ergibt, etwa bei richterlicher Rechtsfortbildung: § 280 Abs. 1 i. V. m. den Grundsätzen vom Vertrag mit Schutzwirkung für Dritte.\n\n## Zitierformeln (Folien 51 und 52)\n\n- **„Nach“** und **„gemäß (gem.)“** sind im Gutachten gebräuchliche Synonyme: „Nach/Gemäß § 90 BGB sind Sachen körperliche Gegenstände.“\n- **„Entsprechend“** heißt: Die Norm wird *nicht unmittelbar* angewandt – methodisch zeigen Sie damit eine **analoge** Anwendung an. Also nur benutzen, wenn Sie das auch meinen!\n- **„Vergleiche (vgl.)“** ist grundsätzlich zu unterlassen – damit deutet man Gedanken nur an, statt sie zu konkretisieren.\n- Zulässig ist eine Fußnote am Anfang der Bearbeitung: „Alle nachfolgenden Paragrafen ohne Gesetzesangabe entstammen dem BGB“. Dann muss „BGB“ nicht mehr bei jeder BGB-Norm stehen.\n\n## Studienbrief (S. 234)\n\nBeispiel für eine Alternative im Studienbrief: § 812 Abs. 1 Satz 1, 1. Alt. BGB. Die abgekürzte Zitierweise ist auch in Hausarbeiten grundsätzlich zulässig, begegnet aber gelegentlich Vorbehalten, weil sie nicht den Gepflogenheiten der Obergerichte entspricht.",
       "src": [
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 51},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 52},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 53},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 54},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 59},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 60},
-        {"doc": "PROP_1", "page": 233}
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 51
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 52
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 53
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 54
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 60
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ],
+      "merksatz": "Zwei Wege heißen Alt., mehr heißen Var.; Ketten mit Komma, „i. V. m.“ nur fürs Ungeschriebene – und nie „vgl.“.",
+      "norms": [
+        "§ 6 Abs. 2 Nr. 2 AO",
+        "§ 6 Abs. 2 Nr. 4 AO",
+        "§§ 280 Abs. 1, Abs. 2, 286 Abs. 1 S. 1 BGB",
+        "§ 90 BGB",
+        "§ 812 Abs. 1 S. 1 Alt. 1 BGB"
       ]
     },
     {
@@ -42,16 +98,51 @@
       "short": "N verlangt von K, beide Mitglieder des Kleingartenvereins „Grüne Aue e. V.“, 50 € für die Beseitigung faulender Äpfel aus § 2 S. 3 KVS. Die Methodische Betrachtung zerlegt das Gutachten in bis zu fünf Ebenen (A. – I. – 1. – a) – aa)). Auf jeder Ebene wiederholt sich der Rhythmus Obersatz – Definition – Subsumtion – Ergebnis. Hinter jedem Obersatz stehen zwei meist unausgesprochene Prämissen: die Vorprämisse (warum wird gerade das gefragt?) und die Nachprämisse (woher kommen die Prüfmerkmale?).",
       "long": "## Der Fall (nach den Lösungshinweisen)\n\nK und N sind Mitglieder des Kleingartenvereins „Grüne Aue e. V.“ und haben dort jeweils eine Parzelle. Auf der von K gepachteten Parzelle liegen ca. 30 kg Äpfel, die faulen und Übelkeit erregende Gerüche verbreiten. Als N abends grillen will, bemerkt er bei den Vorbereitungen den Geruch in seinem Garten; ihm wird übel. Noch am selben Tag veranlasst N die Beseitigung und Entsorgung der Äpfel; das kostet ihn 50 €. Er verlangt das Geld von K – gestützt auf § 2 S. 3 der Vereinssatzung (KVS). *Hinweis: Der Original-Sachverhalt liegt der App nicht vor; diese Fassung ist aus den Lösungshinweisen erschlossen.*\n\n## Ebenen (Methodische Betrachtung S. 1)\n\n| Ebene | Gliederungszeichen | Inhalt im Fall |\n|---|---|---|\n| 1 | A. / B. | Anspruch aus § 2 S. 3 KVS / Ergebnis |\n| 2 | I. – V. | Abfall – Verursacher – Vereinsmitglied – Veranlassung und Kosten – keine Beseitigung binnen 48 h |\n| 3 | 1., 2., 3. | z. B. biologisch abbaubare Substanz, Belästigung, Zwischenergebnis |\n| 4 | a) – d) | anderes Vereinsmitglied, Substanz, Störung in der bestimmungsgemäßen Nutzung, Zwischenergebnis |\n| 5 | aa), bb) | bestimmungsgemäße Nutzung, gestört |\n\nDie Materialien betonen: Die Einteilung in Ebenen hilft beim Gliedern, ist aber **subjektiv** – eine andere Einteilung kann genauso „richtig“ sein.\n\n## Warum diese Ordnung? (Studienbrief)\n\n- **Keine Fäden fallen lassen** (S. 86): Jede aufgeworfene Frage muss beantwortet werden; nur feststellen, was zuvor begründet wurde; Rückbezüge („wie bereits festgestellt“) sind erlaubt, Verweise nach vorn nicht. Für jeden *weiteren* Rechtsgrund setzen Sie unter einem neuen gleichrangigen Gliederungspunkt an.\n- **Horizontale und vertikale Prüfebene** (S. 163): Voraussetzungen können von weiteren Voraussetzungen abhängen. Dann tritt neben die horizontale Ebene (Obersatz, Definition, Subsumtion …) eine vertikale (Voraussetzung, Voraussetzung´, Voraussetzung´´). Das lebt von der „peinlichen Ordnung der logischen Ebenen“ und der alphanumerischen Gliederung, die der Dezimalgliederung vorzuziehen ist.\n- **Voraussetzungskette** (S. 164 f.): Eine Voraussetzung, die selbst von einer weiteren Bedingung abhängt, ist zugleich Obersatz der nächsten Ebene. Auf „1.“ muss ein „2.“ folgen („wer A sagt, muss auch B sagen“). Zwischenergebnisse kann man auf derselben Ebene wie den zugehörigen Obersatz oder eine Ebene tiefer platzieren – im Apple-Gutachten stehen sie als eigene Punkte „d) Zwischenergebnis“ und „3. Zwischenergebnis“.\n\n## Vor- und Nachprämisse (Studienbrief S. 105 f., 140 f.)\n\nJeden (weiteren) Obersatz begleiten zwei allgemeine Prämissen, die oft stillschweigend mitlaufen:\n\n- Die **Vorprämisse** begründet, *warum jetzt gerade diese Frage* gestellt wird.\n- Die **Nachprämisse** begründet, *woher Sie die Voraussetzungen* für die Antwort beziehen – typischerweise die Definition.\n\nÜbertragen auf den Fall (eigene Veranschaulichung): Unter „I. Abfall“ lautet die Vorprämisse sinngemäß: „Wenn Abfälle auf der Gartenanlage sind (und die übrigen Voraussetzungen vorliegen), besteht der Anspruch aus § 2 S. 3 KVS“ – deshalb muss jetzt „Abfall“ geprüft werden. Die Nachprämisse ist die Legaldefinition in § 4 Abs. 2 S. 1 KVS, die die Prüfmerkmale „biologisch abbaubare Substanz“ und „Belästigung“ liefert – und damit die Punkte der nächsten Ebene.",
       "src": [
-        {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 1},
-        {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 1},
-        {"doc": "PROP_1", "page": 85},
-        {"doc": "PROP_1", "page": 104},
-        {"doc": "PROP_1", "page": 105},
-        {"doc": "PROP_1", "page": 139},
-        {"doc": "PROP_1", "page": 140},
-        {"doc": "PROP_1", "page": 162},
-        {"doc": "PROP_1", "page": 163},
-        {"doc": "PROP_1", "page": 164}
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 1
+        },
+        {
+          "doc": "PROP_1",
+          "page": 85
+        },
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 105
+        },
+        {
+          "doc": "PROP_1",
+          "page": 139
+        },
+        {
+          "doc": "PROP_1",
+          "page": 140
+        },
+        {
+          "doc": "PROP_1",
+          "page": 162
+        },
+        {
+          "doc": "PROP_1",
+          "page": 163
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ],
+      "merksatz": "Auf jeder Ebene derselbe Takt: Obersatz, Definition, Subsumtion, Ergebnis – wie eine russische Puppe.",
+      "norms": [
+        "§ 2 S. 3 KVS",
+        "§ 303 Abs. 1 StGB"
       ]
     },
     {
@@ -60,14 +151,44 @@
       "short": "Ebene 1 beginnt mit dem ersten Obersatz (wer will was von wem woraus, im Konjunktiv) und – optional, aber hilfreich – den Voraussetzungen. Unter „I. Abfall“ zeigen „zunächst“ und „also“, dass die erste von mehreren Voraussetzungen geprüft wird; die Legaldefinition des § 4 Abs. 2 S. 1 KVS gibt die Prüfpunkte der Ebene 3 vor. Unter „1.“ läuft der vollständige Vierschritt: Obersatz, Definition, Subsumtion, Ergebnis.",
       "long": "## Ebene 1: erster Obersatz und Voraussetzungen (Methodische Betrachtung S. 2)\n\n> *N könnte gegen K aus § 2 S. 3 KVS einen Anspruch auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 € haben.*\n\nDanach werden die **Voraussetzungen** benannt: Abfälle auf der Gartenanlage, keine Beseitigung und Entsorgung binnen 48 Stunden nach ihrem Entstehen; K muss Vereinsmitglied und Verursacher sein; N muss Vereinsmitglied und Veranlasser der Beseitigung sein, und ihm müssen Kosten entstanden sein. Die Erläuterung dazu: Das Benennen ist *nicht zwingend*, hilft aber, den Überblick zu behalten (so auch Folie 31: „Das Nennen der Voraussetzungen ist optional“).\n\nSprachlich gilt (Studienbrief S. 114 f.): Der Obersatz steht traditionell im **Konjunktiv II** („könnte … haben“). Nennt man die Voraussetzung als allgemeine Rechtslage („Dies ist der Fall, wenn …“, „Voraussetzung dafür ist …“), steht sie im **Indikativ**.\n\n## Ebene 2: „I. Abfall auf der Gartenanlage“\n\n- **Obersatz:** „Bei den Äpfeln auf der Gartenanlage müsste es sich *also zunächst* um Abfall handeln.“ – „zunächst“ und „also“ zeigen, dass man die erste von mehreren Voraussetzungen prüft.\n- **Definition:** „Abfälle sind gem. § 4 Abs. 2 S. 1 KVS biologisch abbaubare Substanzen, von denen eine Belästigung ausgeht.“ Die beiden Merkmale werden zu Unterpunkten der Ebene 3. Legaldefinitionen haben Vorrang und sind in ihren wesentlichen Begriffen wörtlich zu verwenden (Studienbrief S. 119).\n\n## Ebene 3: „1. Biologisch abbaubare Substanz“ – der volle Vierschritt\n\n| Schritt | Inhalt (sinngemäß) |\n|---|---|\n| Obersatz | Bei den Äpfeln müsste es sich um eine biologisch abbaubare Substanz handeln. |\n| Definition | Biologisch abbaubare Substanzen sind Materialien organischen Ursprungs, die sich insbesondere dadurch kennzeichnen, dass sie verweslich sind. |\n| Subsumtion | Als die Äpfel – Material organischen Ursprungs – zu faulen begannen, setzte bereits der Verwesungsprozess ein; sie sind also verwesliches Material organischen Ursprungs. |\n| Ergebnis | Damit sind die Äpfel eine biologisch abbaubare Substanz. |\n\nBeachten Sie: Die Subsumtion verwendet die Begriffe der Definition **wortwörtlich** („organischen Ursprungs“, „verweslich“) – genau das verlangt Folie 37 („sauber subsumieren“). Subsumiert wird unter die Merkmale der jeweils **tiefsten** Gliederungsebene (Studienbrief S. 131).",
       "src": [
-        {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2},
-        {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 1},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 31},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 37},
-        {"doc": "PROP_1", "page": 113},
-        {"doc": "PROP_1", "page": 114},
-        {"doc": "PROP_1", "page": 118},
-        {"doc": "PROP_1", "page": 130}
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 31
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 37
+        },
+        {
+          "doc": "PROP_1",
+          "page": 113
+        },
+        {
+          "doc": "PROP_1",
+          "page": 114
+        },
+        {
+          "doc": "PROP_1",
+          "page": 118
+        },
+        {
+          "doc": "PROP_1",
+          "page": 130
+        }
+      ],
+      "merksatz": "„Zunächst“ und „also“ verraten: Hier beginnt die erste von mehreren Voraussetzungen.",
+      "norms": [
+        "§ 2 S. 3 KVS",
+        "§ 4 Abs. 2 S. 1 KVS",
+        "§ 433 Abs. 2 BGB"
       ]
     },
     {
@@ -76,14 +197,44 @@
       "short": "Die Belästigung ist in § 4 Abs. 2 S. 2 KVS definiert; daraus folgen drei Unterpunkte (Ebene 4). Unproblematisches – „N ist ein anderes Vereinsmitglied“ – wird nur im Feststellungsstil festgestellt. Problematisches – die Störung in der bestimmungsgemäßen Nutzung – wird bis in Ebene 5 vertieft. Wo zwei Ergebnissätze nichts Neues bringen würden, werden sie zu einem Satz zusammengezogen.",
       "long": "## „2. Belästigung“ (Ebene 3)\n\n- **Obersatz:** „Darüber hinaus müsste von den Äpfeln auch eine Belästigung ausgehen.“\n- **Definition:** Gemäß § 4 Abs. 2 S. 2 KVS liegt eine Belästigung vor, wenn **andere Vereinsmitglieder** durch die in § 4 Abs. 2 S. 1 KVS genannten **Substanzen** in der **bestimmungsgemäßen Nutzung ihres Parzellengrundstücks gestört** werden. → drei Unterpunkte a) bis c).\n\n## a) und b): Feststellungsstil (Ebene 4)\n\n- a) „N ist ein anderes Vereinsmitglied.“\n- b) „Die faulenden Äpfel sind eine Substanz i. S. d. § 4 Abs. 2 S. 1 KVS.“\n\nHier steht **nur das Ergebnis**. Das entspricht dem Studienbrief: Nicht jeder Begriff muss nach dem Muster Obersatz – Definition – Subsumtion geprüft werden; möglich sind Kürzungen bis hin zur bloßen Feststellung (S. 116). Wer sich sicherer fühlt, darf Unwichtiges zusammenfassen und vom Gutachtenstil in den **Feststellungsstil („Urteilsstil“)** wechseln; entscheidend ist, wo der Schwerpunkt liegt (S. 142).\n\n## c) Störung in der bestimmungsgemäßen Nutzung – Ebene 5\n\n**aa) Bestimmungsgemäße Nutzung**\n- Obersatz: Fraglich ist zunächst, ob das geplante Grillen unter die bestimmungsgemäße Nutzung fällt.\n- Definition: Wie die Parzellen genutzt werden sollen, ergibt sich aus **§ 1 KVS**: Die Gartenanlage dient als Ort der Erholung, der Pflanzen- und Gartenpflege sowie des gelebten Vereinswesens.\n- Subsumtion: Grillen dient nicht der Pflanzen- oder Gartenpflege, ist aber der **Erholung** zuzurechnen. Auch die Vorbereitung gehört dazu, weil sonst der Erholungsakt nicht herbeigeführt werden könnte.\n- Ergebnis: Das Grillen fällt unter die bestimmungsgemäße Nutzung.\n\nDie Lösungshinweise (S. 3) merken an: Das ist der Sache nach eine **teleologische Auslegung** von „bestimmungsgemäße Nutzung“, die nicht ausdrücklich als solche bezeichnet wurde – das war nicht erforderlich, weil die Auslegung eindeutig ist. Der Gedanke zum Vorbereitungszeitraum ist für eine gute Bearbeitung nicht zwingend.\n\n**bb) Gestört**\n- Definition: Eine Störung liegt vor, wenn eine bestimmungsgemäße Nutzung **nicht mehr ohne weiteres möglich** ist.\n- Subsumtion: ca. 30 kg faulende Äpfel, Übelkeit erregender Geruch, im Garten des N wahrnehmbar, N wird übel → Erholung nicht (ohne weiteres) möglich.\n- **Ergebnis Ebene 5 und Ebene 4 zusammengezogen:** „Mithin ist N durch die Äpfel in der bestimmungsgemäßen Nutzung seines Parzellengrundstücks gestört worden.“ Zwei getrennte Sätze brächten keinen Mehrwert.\n\n## Zwischenergebnisse\n\n- d) Zwischenergebnis (Ebene 4): Von den Äpfeln ging eine Belästigung aus.\n- 3. Zwischenergebnis (Ebene 3): Die Äpfel sind Abfall – das beantwortet den Obersatz von „I.“.\n\nJedes (Zwischen-)Ergebnis beantwortet genau seinen (Zwischen-)Obersatz (Folie 43; Studienbrief S. 136 f.: das Ergebnis ist das wortgleiche Gegenstück des Obersatzes, auf derselben logischen Ebene).",
       "src": [
-        {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 3},
-        {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4},
-        {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 2},
-        {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3},
-        {"doc": "EXTRA_PROP_FOLIEN1", "page": 43},
-        {"doc": "PROP_1", "page": 115},
-        {"doc": "PROP_1", "page": 135},
-        {"doc": "PROP_1", "page": 141}
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 43
+        },
+        {
+          "doc": "PROP_1",
+          "page": 115
+        },
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 141
+        }
+      ],
+      "merksatz": "Klares wird festgestellt, Streitiges vertieft – und zwei gleiche Ergebnissätze werden zu einem.",
+      "norms": [
+        "§ 4 Abs. 2 S. 1 KVS",
+        "§ 4 Abs. 2 S. 2 KVS",
+        "§ 1 KVS"
       ]
     },
     {
@@ -92,29 +243,213 @@
       "short": "„Verursacher“ wird mit der Definition aus § 3 KVS vollständig geprüft, „Vereinsmitglied“ nur festgestellt, „Veranlassung und Kosten“ in einem Satz aus Subsumtion und Ergebnis erledigt. Den Ausschlag gibt Punkt V.: Die Abfälle sind frühestens an dem Tag entstanden, an dem N grillen wollte, und wurden noch am selben Tag beseitigt – also innerhalb von 48 Stunden. Ergebnis: N hat keinen Anspruch gegen K.",
       "long": "## II. Verursacher (voller Vierschritt)\n\n- Obersatz: K müsste weiterhin Verursacher dieser Abfälle sein.\n- Definition: Gem. **§ 3 KVS** ist Verursacher, wer Pächter einer Gartenparzelle ist, auf der sich die Abfälle befinden.\n- Subsumtion: K hat die Parzelle gepachtet, auf der die faulenden Äpfel liegen.\n- Ergebnis: K ist Verursacher.\n\n## III. Vereinsmitglied – Feststellungsstil\n\n„K ist auch Vereinsmitglied.“\n\n## IV. Veranlassung und Kosten – Subsumtion und Ergebnis in einem\n\nN hat als Vereinsmitglied die Beseitigung und Entsorgung veranlasst; ihm sind Kosten i. H. v. 50 € entstanden.\n\n## V. Nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt\n\n- Obersatz (Ebene 2): Die Abfälle dürften nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt worden sein.\n- **1. Entstehen** (Ebene 3, voller Vierschritt): Abfälle entstehen in dem Zeitpunkt, in dem *alle* Voraussetzungen für das Bestehen von Abfall gegeben sind. Frühester feststellbarer Zeitpunkt ist der Tag, an dem die Äpfel stark rochen und N bei seinen Grillvorbereitungen belästigt wurde (erst ab dann geht eine Belästigung aus). → Der Abfall ist frühestens an diesem Tag entstanden.\n- **2. Nicht innerhalb von 48 Stunden beseitigt und entsorgt:** Die **Definition wurde weggelassen**, weil „innerhalb von 48 Stunden“ keiner näheren Konkretisierung bedarf. Subsumtion: Die Beseitigung und Entsorgung fand noch am selben Tag statt. Ergebnis (Ebene 3 und Ebene 2 zusammengezogen): Die Abfälle wurden **nicht nicht** innerhalb von 48 Stunden, also *noch innerhalb* von 48 Stunden beseitigt und entsorgt. Die doppelte Verneinung wurde in den Materialien bewusst aus didaktischen Gründen gewählt.\n\n## B. Ergebnis (Ebene 1)\n\n> *Somit hat N keinen Anspruch gegen K aus § 2 S. 3 KVS auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 €.*\n\nDas Endergebnis greift wortgleich den ersten Obersatz auf – nur entschieden (hier verneinend) und ohne „Ja/Nein“ (Studienbrief S. 136). Obwohl schon eine Voraussetzung (V.) fehlt, wurden im Gutachten alle Punkte angesprochen und jeder Obersatz beantwortet – keine Fäden fallen lassen (S. 86).",
       "src": [
-        {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4},
-        {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5},
-        {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3},
-        {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4},
-        {"doc": "PROP_1", "page": 85},
-        {"doc": "PROP_1", "page": 135}
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 5
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 4
+        },
+        {
+          "doc": "PROP_1",
+          "page": 85
+        },
+        {
+          "doc": "PROP_1",
+          "page": 135
+        }
+      ],
+      "merksatz": "Ein Merkmal reicht zum Scheitern: Am selben Tag beseitigt heißt innerhalb von 48 Stunden – kein Anspruch.",
+      "norms": [
+        "§ 3 KVS",
+        "§ 2 S. 3 KVS"
       ]
     }
   ],
   "definitions": [
-    {"term": "Alternative (Alt.)", "text": "Angabe einer von zwei Optionen innerhalb einer Normeinheit, z. B. § 6 Abs. 2 Nr. 2 Alt. 2 AO (Bundeszentralamt für Steuern als zweite von zwei genannten Behörden).", "norm": "§ 6 Abs. 2 Nr. 2 AO (Beispiel)", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 59}, {"doc": "PROP_1", "page": 233}]},
-    {"term": "Variante (Var.)", "text": "Angabe einer Option, wenn eine Normeinheit mehr als zwei Optionen aufzählt (Beispiel der Folie: § 6 Abs. 2 Nr. 4 AO mit drei Mittelbehörden).", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 59}]},
-    {"term": "lit. (littera)", "text": "Abkürzung für „Buchstabe“; zitiert eine durch Kleinbuchstaben mit Klammer – a), b) – gegliederte Untereinheit einer Nummer, z. B. § 309 Nr. 2 lit. a BGB.", "src": [{"doc": "EXTRA_PROP_NORMZITATION", "page": 1}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 59}, {"doc": "PROP_1", "page": 232}]},
-    {"term": "f. / ff.", "text": "„f.“ (folgende) erfasst die eine nachfolgende Norm mit (§§ 280 f. BGB), „ff.“ (ebenfalls „folgende“, nicht „fortfolgende“) mehrere nachfolgende Normen (§§ 346 ff. BGB).", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 53}]},
-    {"term": "i. V. m. (in Verbindung mit)", "text": "Verkettung, die nur verwendet werden soll, wenn eine Sinneinheit dargestellt wird, die sich nicht direkt aus dem Gesetz ergibt (etwa bei richterlicher Rechtsfortbildung); zusammengehörige Paragrafenketten werden dagegen mit Kommata verbunden.", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 54}]},
-    {"term": "Abgekürzte Zitierweise", "text": "In der Klausur übliche Form, bei der Absätze mit römischen und Sätze mit arabischen Ziffern bezeichnet werden (§ 433 I 2 BGB); knapp, ohne Verlust an Genauigkeit.", "src": [{"doc": "PROP_1", "page": 233}, {"doc": "EXTRA_PROP_NORMZITATION", "page": 1}]},
-    {"term": "Vorprämisse", "text": "Die meist unausgesprochene Prämisse, die begründet, warum gerade jetzt diese Frage (dieser Obersatz) gestellt wird.", "src": [{"doc": "PROP_1", "page": 104}]},
-    {"term": "Nachprämisse", "text": "Die Prämisse, die begründet, woher man die Voraussetzungen für die Beantwortung der aufgeworfenen Frage bezieht – typischerweise die Definition des geprüften Begriffs.", "src": [{"doc": "PROP_1", "page": 104}, {"doc": "PROP_1", "page": 105}]},
-    {"term": "Feststellungsstil", "text": "Verkürzte Darstellung, bei der ein unproblematisches Merkmal nur mit seinem Ergebnis festgestellt wird („N ist ein anderes Vereinsmitglied.“); der Studienbrief spricht vom Wechsel in den Feststellungsstil („Urteilsstil“).", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 3}, {"doc": "PROP_1", "page": 141}]},
-    {"term": "Abfall (Fall „An apple a day“)", "text": "Biologisch abbaubare Substanzen, von denen eine Belästigung ausgeht.", "norm": "§ 4 Abs. 2 S. 1 KVS", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 1}]},
-    {"term": "Belästigung (Fall „An apple a day“)", "text": "Liegt vor, wenn andere Vereinsmitglieder durch die in § 4 Abs. 2 S. 1 KVS genannten Substanzen in der bestimmungsgemäßen Nutzung ihres Parzellengrundstücks gestört werden.", "norm": "§ 4 Abs. 2 S. 2 KVS", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 3}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 2}]},
-    {"term": "Störung (Fall „An apple a day“)", "text": "Liegt vor, wenn eine bestimmungsgemäße Nutzung nicht mehr ohne weiteres möglich ist.", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3}]},
-    {"term": "Verursacher (Fall „An apple a day“)", "text": "Wer Pächter einer Gartenparzelle ist, auf der sich die Abfälle befinden.", "norm": "§ 3 KVS", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3}]}
+    {
+      "term": "Alternative (Alt.)",
+      "text": "Angabe einer von zwei Optionen innerhalb einer Normeinheit, z. B. § 6 Abs. 2 Nr. 2 Alt. 2 AO (Bundeszentralamt für Steuern als zweite von zwei genannten Behörden).",
+      "norm": "§ 6 Abs. 2 Nr. 2 AO (Beispiel)",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ]
+    },
+    {
+      "term": "Variante (Var.)",
+      "text": "Angabe einer Option, wenn eine Normeinheit mehr als zwei Optionen aufzählt (Beispiel der Folie: § 6 Abs. 2 Nr. 4 AO mit drei Mittelbehörden).",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "term": "lit. (littera)",
+      "text": "Abkürzung für „Buchstabe“; zitiert eine durch Kleinbuchstaben mit Klammer – a), b) – gegliederte Untereinheit einer Nummer, z. B. § 309 Nr. 2 lit. a BGB.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        },
+        {
+          "doc": "PROP_1",
+          "page": 232
+        }
+      ]
+    },
+    {
+      "term": "f. / ff.",
+      "text": "„f.“ (folgende) erfasst die eine nachfolgende Norm mit (§§ 280 f. BGB), „ff.“ (ebenfalls „folgende“, nicht „fortfolgende“) mehrere nachfolgende Normen (§§ 346 ff. BGB).",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "term": "i. V. m. (in Verbindung mit)",
+      "text": "Verkettung, die nur verwendet werden soll, wenn eine Sinneinheit dargestellt wird, die sich nicht direkt aus dem Gesetz ergibt (etwa bei richterlicher Rechtsfortbildung); zusammengehörige Paragrafenketten werden dagegen mit Kommata verbunden.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "term": "Abgekürzte Zitierweise",
+      "text": "In der Klausur übliche Form, bei der Absätze mit römischen und Sätze mit arabischen Ziffern bezeichnet werden (§ 433 I 2 BGB); knapp, ohne Verlust an Genauigkeit.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 233
+        },
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "term": "Vorprämisse",
+      "text": "Die meist unausgesprochene Prämisse, die begründet, warum gerade jetzt diese Frage (dieser Obersatz) gestellt wird.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        }
+      ]
+    },
+    {
+      "term": "Nachprämisse",
+      "text": "Die Prämisse, die begründet, woher man die Voraussetzungen für die Beantwortung der aufgeworfenen Frage bezieht – typischerweise die Definition des geprüften Begriffs.",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 105
+        }
+      ]
+    },
+    {
+      "term": "Feststellungsstil",
+      "text": "Verkürzte Darstellung, bei der ein unproblematisches Merkmal nur mit seinem Ergebnis festgestellt wird („N ist ein anderes Vereinsmitglied.“); der Studienbrief spricht vom Wechsel in den Feststellungsstil („Urteilsstil“).",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "PROP_1",
+          "page": 141
+        }
+      ]
+    },
+    {
+      "term": "Abfall (Fall „An apple a day“)",
+      "text": "Biologisch abbaubare Substanzen, von denen eine Belästigung ausgeht.",
+      "norm": "§ 4 Abs. 2 S. 1 KVS",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "term": "Belästigung (Fall „An apple a day“)",
+      "text": "Liegt vor, wenn andere Vereinsmitglieder durch die in § 4 Abs. 2 S. 1 KVS genannten Substanzen in der bestimmungsgemäßen Nutzung ihres Parzellengrundstücks gestört werden.",
+      "norm": "§ 4 Abs. 2 S. 2 KVS",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "term": "Störung (Fall „An apple a day“)",
+      "text": "Liegt vor, wenn eine bestimmungsgemäße Nutzung nicht mehr ohne weiteres möglich ist.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "term": "Verursacher (Fall „An apple a day“)",
+      "text": "Wer Pächter einer Gartenparzelle ist, auf der sich die Abfälle befinden.",
+      "norm": "§ 3 KVS",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        }
+      ]
+    }
   ],
   "schemas": [
     {
@@ -130,7 +465,32 @@
         "8. Normkörper: BGB, StGB, GG, AO … (entbehrlich nach Fußnote „Alle Paragrafen ohne Gesetzesangabe sind solche des BGB“)",
         "Kontrolle: Hat die übergeordnete Einheit mehr als ein Element und meine ich nur eines? Dann muss die tiefere Angabe hinein."
       ],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 50}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 51}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 53}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 56}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 59}, {"doc": "EXTRA_PROP_NORMZITATION", "page": 1}]
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 51
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 53
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 56
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        },
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        }
+      ]
     },
     {
       "title": "Gliederung des Gutachtens „An apple a day“ nach Ebenen",
@@ -154,7 +514,28 @@
         "  2. Beseitigung am selben Tag → noch innerhalb von 48 Stunden (−)",
         "B. Ergebnis: kein Anspruch des N gegen K aus § 2 S. 3 KVS"
       ],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 1}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 1}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4}]
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 5
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 4
+        }
+      ]
     },
     {
       "title": "Prüfdurchgang auf jeder Ebene – wie ausführlich?",
@@ -167,269 +548,1420 @@
         "Zusammenziehen: Ergebnisse zweier Ebenen in einem Satz, wenn getrennte Sätze keinen Mehrwert bringen",
         "Am Ende jeder übergeordneten Ebene: Zwischenergebnis; ganz am Ende: Gesamtergebnis wortgleich zum ersten Obersatz"
       ],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5}, {"doc": "PROP_1", "page": 115}, {"doc": "PROP_1", "page": 130}, {"doc": "PROP_1", "page": 135}, {"doc": "PROP_1", "page": 141}]
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 5
+        },
+        {
+          "doc": "PROP_1",
+          "page": 115
+        },
+        {
+          "doc": "PROP_1",
+          "page": 130
+        },
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 141
+        }
+      ]
     }
   ],
   "quiz": [
     {
-      "id": "q1", "type": "cloze", "level": "recall", "difficulty": 1,
+      "id": "q1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Schreiben Sie „§ 433 Absatz 1 Satz 2 BGB“ in der üblichen Kurzform: § 433 {{1}} 1 {{2}} 2 BGB",
-      "blanks": [["Abs."], ["S."]],
+      "blanks": [
+        [
+          "Abs."
+        ],
+        [
+          "S."
+        ]
+      ],
       "explanation": "Absatz wird mit „Abs.“, Satz mit „S.“ abgekürzt (Merkblatt; Folie 50). Leerstellen zwischen Zeichen und Ziffer einhalten.",
-      "hints": ["Drei Buchstaben mit Punkt für den Absatz.", "Ein Buchstabe mit Punkt für den Satz."],
-      "src": [{"doc": "EXTRA_PROP_NORMZITATION", "page": 1}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 50}]
+      "hints": [
+        "Drei Buchstaben mit Punkt für den Absatz.",
+        "Ein Buchstabe mit Punkt für den Satz."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        }
+      ]
     },
     {
-      "id": "q2", "type": "cloze", "level": "apply", "difficulty": 1,
+      "id": "q2",
+      "type": "cloze",
+      "level": "apply",
+      "difficulty": 1,
       "prompt": "Dieselbe Norm in der abgekürzten Klausur-Zitierweise (Absatz römisch, Satz nur als Ziffer): § 433 {{1}} {{2}} BGB",
-      "blanks": [["I"], ["2"]],
+      "blanks": [
+        [
+          "I"
+        ],
+        [
+          "2"
+        ]
+      ],
       "explanation": "§ 433 I 2 BGB – so auch das Beispiel im Studienbrief (S. 234). Die bloße Satzziffer ist nur zulässig, weil der Absatz vorher römisch zitiert wurde (Merkblatt).",
-      "hints": ["Absatz 1 als römische Zahl.", "Den Satz nur mit der Ziffer."],
-      "src": [{"doc": "PROP_1", "page": 233}, {"doc": "EXTRA_PROP_NORMZITATION", "page": 1}]
+      "hints": [
+        "Absatz 1 als römische Zahl.",
+        "Den Satz nur mit der Ziffer."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 233
+        },
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        }
+      ]
     },
     {
-      "id": "q3", "type": "cloze", "level": "apply", "difficulty": 2,
+      "id": "q3",
+      "type": "cloze",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "„§ 6 Absatz 2 Nummer 2 Alternative 2 AO“ in Kurzform: § 6 Abs. 2 {{1}} 2 {{2}} 2 AO",
-      "blanks": [["Nr."], ["Alt."]],
+      "blanks": [
+        [
+          "Nr."
+        ],
+        [
+          "Alt."
+        ]
+      ],
       "explanation": "Folie 59: § 6 Abs. 2 Nr. 2 Alt. 2 AO (oder § 6 II Nr. 2 Alt. 2 AO). „Alt.“, weil Nr. 2 genau zwei Optionen nennt.",
-      "hints": ["Abkürzung für Nummer.", "Zwei Optionen → Alternative oder Variante?"],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 59}]
+      "hints": [
+        "Abkürzung für Nummer.",
+        "Zwei Optionen → Alternative oder Variante?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        }
+      ]
     },
     {
-      "id": "q4", "type": "cloze", "level": "apply", "difficulty": 2,
+      "id": "q4",
+      "type": "cloze",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "Gemeint ist der Buchstabe a) in § 309 Nummer 2 BGB. Kurzform: § 309 {{1}} 2 {{2}} a BGB",
-      "blanks": [["Nr."], ["lit.", "lit"]],
+      "blanks": [
+        [
+          "Nr."
+        ],
+        [
+          "lit.",
+          "lit"
+        ]
+      ],
       "explanation": "Studienbrief S. 233: § 309 Nr. 2 lit. a BGB. „lit.“ steht für littera (Buchstabe), Folie 59; das Merkblatt lässt auch „lit a)“ oder nur „a)“ zu.",
-      "hints": ["Lateinisch für Buchstabe.", "Die Nummer steht vor dem Buchstaben."],
-      "src": [{"doc": "PROP_1", "page": 232}, {"doc": "EXTRA_PROP_NORMZITATION", "page": 1}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 59}]
+      "hints": [
+        "Lateinisch für Buchstabe.",
+        "Die Nummer steht vor dem Buchstaben."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 232
+        },
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        }
+      ]
     },
     {
-      "id": "q5", "type": "cloze", "level": "apply", "difficulty": 2,
+      "id": "q5",
+      "type": "cloze",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "Gemeint ist der zweite Halbsatz von § 426 Absatz 1 Satz 1 BGB. Kurzform: § 426 Abs. 1 S. 1 {{1}} 2 BGB",
-      "blanks": [["Hs.", "Halbs.", "Hs", "Halbsatz"]],
+      "blanks": [
+        [
+          "Hs.",
+          "Halbs.",
+          "Hs",
+          "Halbsatz"
+        ]
+      ],
       "explanation": "Folie 50 nennt „Hs. oder Halbs.“; der Studienbrief schreibt aus: § 426 Abs. 1 Satz 1 Halbsatz 2 BGB (S. 234). Wer sich auf einen Satzteil bezieht, muss ihn mitnennen.",
-      "hints": ["Ein Satz kann durch ein Semikolon in zwei Hälften geteilt sein.", "Zwei gängige Abkürzungen sind zulässig."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 50}, {"doc": "PROP_1", "page": 233}]
+      "hints": [
+        "Ein Satz kann durch ein Semikolon in zwei Hälften geteilt sein.",
+        "Zwei gängige Abkürzungen sind zulässig."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ]
     },
     {
-      "id": "q6", "type": "match", "level": "recall", "difficulty": 1,
+      "id": "q6",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Ordnen Sie dem Bestandteil die Abkürzung im Gutachten zu.",
-      "pairs": [["Absatz", "Abs. (oder römische Ziffer)"], ["Satz", "S."], ["Nummer", "Nr."], ["Buchstabe", "lit."], ["Halbsatz", "Hs."], ["mehrere Paragrafen", "§§"]],
+      "pairs": [
+        [
+          "Absatz",
+          "Abs. (oder römische Ziffer)"
+        ],
+        [
+          "Satz",
+          "S."
+        ],
+        [
+          "Nummer",
+          "Nr."
+        ],
+        [
+          "Buchstabe",
+          "lit."
+        ],
+        [
+          "Halbsatz",
+          "Hs."
+        ],
+        [
+          "mehrere Paragrafen",
+          "§§"
+        ]
+      ],
       "explanation": "Folie 50 und Merkblatt. Für mehrere Artikel schreibt man „Artt.“.",
-      "hints": ["„lit.“ kommt aus dem Lateinischen.", "Für die Mehrzahl verdoppelt man das Zeichen."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 50}, {"doc": "EXTRA_PROP_NORMZITATION", "page": 1}]
+      "hints": [
+        "„lit.“ kommt aus dem Lateinischen.",
+        "Für die Mehrzahl verdoppelt man das Zeichen."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        },
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        }
+      ]
     },
     {
-      "id": "q7", "type": "match", "level": "understand", "difficulty": 2,
+      "id": "q7",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Woran erkennen Sie den Bestandteil im Gesetzestext? Ordnen Sie zu.",
-      "pairs": [["Ziffer in Klammern, z. B. (2)", "Absatz"], ["hochgestellte Ziffer, z. B. ²", "Satz"], ["Ziffer mit Punkt, z. B. 3.", "Nummer"], ["Kleinbuchstabe mit Klammer, z. B. a)", "Buchstabe"]],
+      "pairs": [
+        [
+          "Ziffer in Klammern, z. B. (2)",
+          "Absatz"
+        ],
+        [
+          "hochgestellte Ziffer, z. B. ²",
+          "Satz"
+        ],
+        [
+          "Ziffer mit Punkt, z. B. 3.",
+          "Nummer"
+        ],
+        [
+          "Kleinbuchstabe mit Klammer, z. B. a)",
+          "Buchstabe"
+        ]
+      ],
       "explanation": "Spalte „Darstellung im Gesetzestext“ des Merkblatts. Achtung: Im Gutachten schreiben Sie den Absatz nicht als „(2)“, sondern „Abs. 2“ oder „II“.",
-      "hints": ["Schauen Sie sich § 433 BGB im Gesetz an.", "Klammern ganz links vor einem Textblock stehen für die größte Untereinheit."],
-      "src": [{"doc": "EXTRA_PROP_NORMZITATION", "page": 1}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 55}]
+      "hints": [
+        "Schauen Sie sich § 433 BGB im Gesetz an.",
+        "Klammern ganz links vor einem Textblock stehen für die größte Untereinheit."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 55
+        }
+      ]
     },
     {
-      "id": "q8", "type": "match", "level": "apply", "difficulty": 2,
+      "id": "q8",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "Ordnen Sie der ausgeschriebenen Fundstelle die korrekte Kurzform zu.",
-      "pairs": [["§ 990 Absatz 1 BGB", "§ 990 I BGB"], ["§ 812 Absatz 1 Satz 1, erste Alternative BGB", "§ 812 Abs. 1 S. 1 Alt. 1 BGB"], ["§ 179 Absatz 3 Satz 1 BGB", "§ 179 Abs. 3 S. 1 BGB"], ["§ 212 Absatz 1 Nummer 2 BGB", "§ 212 I Nr. 2 BGB"], ["Artikel 15 Satz 2 GG", "Art. 15 S. 2 GG"]],
+      "pairs": [
+        [
+          "§ 990 Absatz 1 BGB",
+          "§ 990 I BGB"
+        ],
+        [
+          "§ 812 Absatz 1 Satz 1, erste Alternative BGB",
+          "§ 812 Abs. 1 S. 1 Alt. 1 BGB"
+        ],
+        [
+          "§ 179 Absatz 3 Satz 1 BGB",
+          "§ 179 Abs. 3 S. 1 BGB"
+        ],
+        [
+          "§ 212 Absatz 1 Nummer 2 BGB",
+          "§ 212 I Nr. 2 BGB"
+        ],
+        [
+          "Artikel 15 Satz 2 GG",
+          "Art. 15 S. 2 GG"
+        ]
+      ],
       "explanation": "Beispiele aus Folie 56 und Studienbrief S. 233 f. Beide Formen – „Abs. 1“ und römisch „I“ – sind zulässig; innerhalb einer Arbeit einheitlich bleiben.",
-      "hints": ["Römische Ziffer ersetzt „Abs.“.", "Artikel wird mit „Art.“ abgekürzt."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 56}, {"doc": "PROP_1", "page": 232}, {"doc": "PROP_1", "page": 233}]
+      "hints": [
+        "Römische Ziffer ersetzt „Abs.“.",
+        "Artikel wird mit „Art.“ abgekürzt."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 56
+        },
+        {
+          "doc": "PROP_1",
+          "page": 232
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ]
     },
     {
-      "id": "q9", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "id": "q9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "§ 6 Abs. 2 Nr. 4 AO nennt als Mittelbehörden „die Bundesfinanzdirektionen, die Oberfinanzdirektionen und das Zollkriminalamt“. Wie zitieren Sie das Zollkriminalamt am genauesten?",
-      "options": ["§ 6 Abs. 2 Nr. 4 Var. 3 AO", "§ 6 Abs. 2 Nr. 4 Alt. 3 AO", "§ 6 Abs. 2 Nr. 4 lit. c AO", "§ 6 (2) 4. AO"],
-      "answer": [0],
+      "options": [
+        "§ 6 Abs. 2 Nr. 4 Var. 3 AO",
+        "§ 6 Abs. 2 Nr. 4 Alt. 3 AO",
+        "§ 6 Abs. 2 Nr. 4 lit. c AO",
+        "§ 6 (2) 4. AO"
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Folie 59: „Alt.“ bei zwei Optionen, „Var.“ bei mehr als zwei – Nr. 4 ist dort ausdrücklich das Beispiel. „lit. c“ wäre nur richtig, wenn die Nummer in Buchstaben gegliedert wäre; Klammer-Absätze sind unüblich (Folie 56).",
-      "hints": ["Zählen Sie die Optionen in Nr. 4.", "Bei mehr als zwei Optionen heißt es nicht mehr Alternative."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 59}]
+      "hints": [
+        "Zählen Sie die Optionen in Nr. 4.",
+        "Bei mehr als zwei Optionen heißt es nicht mehr Alternative."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        }
+      ]
     },
     {
-      "id": "q10", "type": "truefalse", "level": "understand", "difficulty": 1,
+      "id": "q10",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
       "prompt": "Weil das Gesetz Absätze mit „(1)“ bezeichnet, ist „§ 990 (1) BGB“ im Gutachten die genaueste und empfehlenswerte Schreibweise.",
       "answer": false,
       "explanation": "Folie 56: Diese Zitierweise ist in rechtswissenschaftlichen Arbeiten nicht gebräuchlich und kann zu Punktabzug führen. Richtig: § 990 Absatz 1 BGB, § 990 Abs. 1 BGB oder § 990 I BGB.",
-      "hints": ["Gesetzestext und Gutachten verwenden unterschiedliche Darstellungen.", "Römische Ziffern ja – Klammern nein."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 56}, {"doc": "EXTRA_PROP_NORMZITATION", "page": 1}]
+      "hints": [
+        "Gesetzestext und Gutachten verwenden unterschiedliche Darstellungen.",
+        "Römische Ziffern ja – Klammern nein."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 56
+        },
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        }
+      ]
     },
     {
-      "id": "q11", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "id": "q11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Die Satzangabe darf als bloße Ziffer („§ 433 I 2 BGB“) erscheinen, aber nur, wenn der Absatz vorher mit einer römischen Ziffer zitiert wurde.",
       "answer": true,
       "explanation": "So das Merkblatt in der Zeile „Satz“. Nach „Abs. 1“ müssen Sie also „S. 2“ schreiben; „§ 433 Abs. 1 2 BGB“ wäre unverständlich.",
-      "hints": ["Welche Kombination ist eindeutig lesbar?", "Römisch = Absatz, arabisch = Satz."],
-      "src": [{"doc": "EXTRA_PROP_NORMZITATION", "page": 1}, {"doc": "PROP_1", "page": 233}]
+      "hints": [
+        "Welche Kombination ist eindeutig lesbar?",
+        "Römisch = Absatz, arabisch = Satz."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ]
     },
     {
-      "id": "q12", "type": "mc-multi", "level": "understand", "difficulty": 2,
+      "id": "q12",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Welche Aussagen zu Normketten treffen nach den Folien zu? Wählen Sie zwei zutreffende Antworten.",
-      "options": ["„§§ 280 f. BGB“ erfasst § 280 BGB und die eine nachfolgende Vorschrift.", "„ff.“ wird „fortfolgende“ gesprochen und meint genau zwei Normen.", "„i. V. m.“ soll nur stehen, wenn eine Sinneinheit dargestellt wird, die sich nicht direkt aus dem Gesetz ergibt.", "Zusammengehörige Normen einer Paragrafenkette werden mit „und“ verbunden."],
-      "answer": [0, 2],
+      "options": [
+        "„§§ 280 f. BGB“ erfasst § 280 BGB und die eine nachfolgende Vorschrift.",
+        "„ff.“ wird „fortfolgende“ gesprochen und meint genau zwei Normen.",
+        "„i. V. m.“ soll nur stehen, wenn eine Sinneinheit dargestellt wird, die sich nicht direkt aus dem Gesetz ergibt.",
+        "Zusammengehörige Normen einer Paragrafenkette werden mit „und“ verbunden."
+      ],
+      "answer": [
+        0,
+        2
+      ],
       "explanation": "Folien 53 f.: „f.“ = eine folgende Norm; „ff.“ = mehrere folgende (gesprochen „folgende“, nicht „fortfolgende“). Paragrafenketten werden mit Kommata zusammengefasst (§§ 280 Abs. 1, Abs. 2, 286 Abs. 1 S. 1 BGB); „i. V. m.“ nur für nicht direkt gesetzliche Sinneinheiten.",
-      "hints": ["Ein „f“ – eine Norm; zwei „f“ – mehrere.", "Wie trennt man Glieder einer Kette im Beispiel §§ 280, 286 BGB?"],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 53}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 54}]
+      "hints": [
+        "Ein „f“ – eine Norm; zwei „f“ – mehrere.",
+        "Wie trennt man Glieder einer Kette im Beispiel §§ 280, 286 BGB?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 53
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 54
+        }
+      ]
     },
     {
-      "id": "q13", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q13",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Sie schreiben: „Auf diesen Fall ist § 604 Abs. 1 BGB entsprechend anzuwenden.“ Was signalisieren Sie damit methodisch?",
-      "options": ["Dass Sie die Norm analog, also nicht unmittelbar, anwenden", "Dass „entsprechend“ ein Synonym für „gemäß“ ist", "Dass Sie auf eine Fundstelle nur verweisen, ohne sie zu prüfen", "Dass die Norm gerade nicht anwendbar ist"],
-      "answer": [0],
+      "options": [
+        "Dass Sie die Norm analog, also nicht unmittelbar, anwenden",
+        "Dass „entsprechend“ ein Synonym für „gemäß“ ist",
+        "Dass Sie auf eine Fundstelle nur verweisen, ohne sie zu prüfen",
+        "Dass die Norm gerade nicht anwendbar ist"
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Folie 52: „Entsprechend“ bedeutet, dass eine Norm nicht direkt angewandt wird; methodisch zeigt das eine analoge Anwendung an. Synonyme im Gutachten sind „nach“ und „gemäß“; „vgl.“ ist zu unterlassen.",
-      "hints": ["Unmittelbar oder mittelbar?", "Denken Sie an die Analogie."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 52}]
+      "hints": [
+        "Unmittelbar oder mittelbar?",
+        "Denken Sie an die Analogie."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 52
+        }
+      ]
     },
     {
-      "id": "q14", "type": "truefalse", "level": "recall", "difficulty": 1,
+      "id": "q14",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Eine Fußnote am Anfang der Bearbeitung „Alle nachfolgenden Paragrafen ohne Gesetzesangabe entstammen dem BGB“ ist zulässig; danach muss bei BGB-Normen der Normkörper nicht mehr genannt werden.",
       "answer": true,
       "explanation": "Folie 51 erklärt diesen Verweis ausdrücklich für zulässig. Normen anderer Gesetze müssen weiterhin mit ihrem Normkörper zitiert werden.",
-      "hints": ["Der Normkörper ist z. B. „BGB“.", "Es geht um Schreibökonomie bei häufig zitierten Gesetzen."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 51}]
+      "hints": [
+        "Der Normkörper ist z. B. „BGB“.",
+        "Es geht um Schreibökonomie bei häufig zitierten Gesetzen."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 51
+        }
+      ]
     },
     {
-      "id": "q15", "type": "order", "level": "recall", "difficulty": 1,
+      "id": "q15",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Bringen Sie die Bestandteile des Zitats „§ 6 Abs. 2 Nr. 2 Alt. 2 AO“ in die richtige Reihenfolge.",
-      "items": ["§ 6", "Abs. 2", "Nr. 2", "Alt. 2", "AO"],
+      "items": [
+        "§ 6",
+        "Abs. 2",
+        "Nr. 2",
+        "Alt. 2",
+        "AO"
+      ],
       "explanation": "Folien 50 und 59: vom Großen zum Kleinen – Paragraf, Absatz, Nummer, Alternative – und am Ende der Normkörper.",
-      "hints": ["Vom Paragrafen zur kleinsten Einheit.", "Das Gesetz steht ganz am Ende."],
-      "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 50}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 59}]
+      "hints": [
+        "Vom Paragrafen zur kleinsten Einheit.",
+        "Das Gesetz steht ganz am Ende."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        }
+      ]
     },
     {
-      "id": "q16", "type": "order", "level": "understand", "difficulty": 2,
+      "id": "q16",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Bringen Sie die Gliederungspunkte des Apple-Gutachtens von Ebene 1 bis Ebene 5 in die richtige Reihenfolge.",
-      "items": ["A. Anspruch aus § 2 S. 3 KVS", "I. Abfall auf der Gartenanlage", "2. Belästigung", "c) In bestimmungsgemäßer Nutzung gestört", "aa) Bestimmungsgemäße Nutzung"],
+      "items": [
+        "A. Anspruch aus § 2 S. 3 KVS",
+        "I. Abfall auf der Gartenanlage",
+        "2. Belästigung",
+        "c) In bestimmungsgemäßer Nutzung gestört",
+        "aa) Bestimmungsgemäße Nutzung"
+      ],
       "explanation": "Methodische Betrachtung S. 1–3: A. (Ebene 1) – I. (Ebene 2) – 2. (Ebene 3) – c) (Ebene 4) – aa) (Ebene 5). Die alphanumerische Gliederung macht die logischen Ebenen sichtbar (Studienbrief S. 163).",
-      "hints": ["Großbuchstabe – römische Zahl – arabische Zahl – Kleinbuchstabe – Doppelbuchstabe.", "Jede tiefere Ebene konkretisiert ein Merkmal der Ebene darüber."],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 1}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 3}, {"doc": "PROP_1", "page": 162}]
+      "hints": [
+        "Großbuchstabe – römische Zahl – arabische Zahl – Kleinbuchstabe – Doppelbuchstabe.",
+        "Jede tiefere Ebene konkretisiert ein Merkmal der Ebene darüber."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 1
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "PROP_1",
+          "page": 162
+        }
+      ]
     },
     {
-      "id": "q17", "type": "mc-single", "level": "recognize", "difficulty": 1,
+      "id": "q17",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Unter „a) Anderes Vereinsmitglied“ steht nur der Satz „N ist ein anderes Vereinsmitglied.“ Wie bezeichnet die Methodische Betrachtung diesen Satz?",
-      "options": ["Ergebnis Ebene 4 im Feststellungsstil", "Obersatz Ebene 4", "Definition Ebene 4", "Zwischenergebnis Ebene 2"],
-      "answer": [0],
+      "options": [
+        "Ergebnis Ebene 4 im Feststellungsstil",
+        "Obersatz Ebene 4",
+        "Definition Ebene 4",
+        "Zwischenergebnis Ebene 2"
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Methodische Betrachtung S. 3: „Ergebnis Ebene 4 (a)) – Feststellungsstil“. Unproblematisches darf knapp festgestellt werden (Studienbrief S. 116, 142).",
-      "hints": ["Der Satz steht im Indikativ und begründet nichts.", "Auf welcher Ebene stehen die Kleinbuchstaben?"],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 3}, {"doc": "PROP_1", "page": 141}]
+      "hints": [
+        "Der Satz steht im Indikativ und begründet nichts.",
+        "Auf welcher Ebene stehen die Kleinbuchstaben?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "PROP_1",
+          "page": 141
+        }
+      ]
     },
     {
-      "id": "q18", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q18",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Der Obersatz zu „I.“ lautet: „Bei den Äpfeln auf der Gartenanlage müsste es sich also zunächst um Abfall handeln.“ Wozu dienen die Wörter „also“ und „zunächst“?",
-      "options": ["Sie zeigen, dass jetzt die erste von mehreren Voraussetzungen geprüft wird.", "Sie kündigen an, dass das Merkmal unproblematisch ist und nur festgestellt wird.", "Sie zeigen, dass das Ergebnis bereits feststeht (Urteilsstil).", "Sie leiten einen Meinungsstreit ein."],
-      "answer": [0],
+      "options": [
+        "Sie zeigen, dass jetzt die erste von mehreren Voraussetzungen geprüft wird.",
+        "Sie kündigen an, dass das Merkmal unproblematisch ist und nur festgestellt wird.",
+        "Sie zeigen, dass das Ergebnis bereits feststeht (Urteilsstil).",
+        "Sie leiten einen Meinungsstreit ein."
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Erläuterung in der Methodischen Betrachtung S. 2. Entsprechend beginnen spätere Obersätze mit „Darüber hinaus“, „weiterhin“ oder „Schließlich“.",
-      "hints": ["Wie viele Voraussetzungen wurden auf Ebene 1 genannt?", "Achten Sie auf die Signalwörter bei II. und V."],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2}]
+      "hints": [
+        "Wie viele Voraussetzungen wurden auf Ebene 1 genannt?",
+        "Achten Sie auf die Signalwörter bei II. und V."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        }
+      ]
     },
     {
-      "id": "q19", "type": "mc-multi", "level": "understand", "difficulty": 3,
+      "id": "q19",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "Welche Kürzungen nimmt die Methodische Betrachtung bewusst vor? Wählen Sie drei zutreffende Antworten.",
-      "options": ["Bei „innerhalb von 48 Stunden“ entfällt die Definition, weil der Begriff keiner Konkretisierung bedarf.", "Die Ergebnisse von Ebene 5 (bb)) und Ebene 4 (c)) werden zu einem Satz zusammengezogen.", "„Vereinsmitglied“ (III.) wird nur im Feststellungsstil festgestellt.", "Das Gesamtergebnis unter B. entfällt, weil sich das Ergebnis schon aus V. ergibt."],
-      "answer": [0, 1, 2],
+      "options": [
+        "Bei „innerhalb von 48 Stunden“ entfällt die Definition, weil der Begriff keiner Konkretisierung bedarf.",
+        "Die Ergebnisse von Ebene 5 (bb)) und Ebene 4 (c)) werden zu einem Satz zusammengezogen.",
+        "„Vereinsmitglied“ (III.) wird nur im Feststellungsstil festgestellt.",
+        "Das Gesamtergebnis unter B. entfällt, weil sich das Ergebnis schon aus V. ergibt."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
       "explanation": "Methodische Betrachtung S. 4 f. Das Gesamtergebnis (B.) steht dagegen ausdrücklich am Ende – es beantwortet den ersten Obersatz (Studienbrief S. 136).",
-      "hints": ["Prüfen Sie die Erläuterungsspalte auf S. 4 und 5.", "Der erste Obersatz braucht immer eine Antwort."],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5}, {"doc": "PROP_1", "page": 135}]
+      "hints": [
+        "Prüfen Sie die Erläuterungsspalte auf S. 4 und 5.",
+        "Der erste Obersatz braucht immer eine Antwort."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 5
+        },
+        {
+          "doc": "PROP_1",
+          "page": 135
+        }
+      ]
     },
     {
-      "id": "q20", "type": "truefalse", "level": "apply", "difficulty": 2,
+      "id": "q20",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "Nach den Lösungshinweisen scheitert der Anspruch des N, weil K nicht Verursacher der Abfälle ist.",
       "answer": false,
       "explanation": "K ist als Pächter der Parzelle, auf der die Äpfel liegen, Verursacher (§ 3 KVS). Der Anspruch scheitert an V.: Die Abfälle sind frühestens am Grilltag entstanden und wurden noch am selben Tag beseitigt – also innerhalb von 48 Stunden (Lösungshinweise S. 3 f.).",
-      "hints": ["Welche Voraussetzung ist als einzige nicht erfüllt?", "Wann ist der Abfall „entstanden“?"],
-      "src": [{"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4}]
+      "hints": [
+        "Welche Voraussetzung ist als einzige nicht erfüllt?",
+        "Wann ist der Abfall „entstanden“?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 4
+        }
+      ]
     },
     {
-      "id": "q21", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "id": "q21",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "Übertragen Sie die Lehre von Vor- und Nachprämisse (Studienbrief S. 105 f.) auf „I. Abfall auf der Gartenanlage“. Welche Zuordnung trifft zu?",
-      "options": ["Vorprämisse: § 2 S. 3 KVS knüpft den Anspruch u. a. an Abfälle – deshalb wird „Abfall“ gefragt; Nachprämisse: die Definition in § 4 Abs. 2 S. 1 KVS liefert die Prüfmerkmale.", "Vorprämisse: die Definition in § 4 Abs. 2 S. 1 KVS; Nachprämisse: das Ergebnis „Somit handelt es sich um Abfall“.", "Vorprämisse: der Sachverhalt („30 kg faulende Äpfel“); Nachprämisse: § 1 KVS.", "Vor- und Nachprämisse spielen nur beim ersten Obersatz eine Rolle, nicht bei „I.“."],
-      "answer": [0],
+      "options": [
+        "Vorprämisse: § 2 S. 3 KVS knüpft den Anspruch u. a. an Abfälle – deshalb wird „Abfall“ gefragt; Nachprämisse: die Definition in § 4 Abs. 2 S. 1 KVS liefert die Prüfmerkmale.",
+        "Vorprämisse: die Definition in § 4 Abs. 2 S. 1 KVS; Nachprämisse: das Ergebnis „Somit handelt es sich um Abfall“.",
+        "Vorprämisse: der Sachverhalt („30 kg faulende Äpfel“); Nachprämisse: § 1 KVS.",
+        "Vor- und Nachprämisse spielen nur beim ersten Obersatz eine Rolle, nicht bei „I.“."
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Die Vorprämisse begründet, warum gerade diese Frage gestellt wird; die Nachprämisse, woher die Voraussetzungen ihrer Beantwortung stammen – typischerweise die Definition (Studienbrief S. 105 f., 140 f.). Gerade bei weiteren Obersätzen laufen sie meist unausgesprochen mit.",
-      "hints": ["Warum fragt man überhaupt nach Abfall?", "Woher stammen „biologisch abbaubar“ und „Belästigung“?"],
-      "src": [{"doc": "PROP_1", "page": 104}, {"doc": "PROP_1", "page": 139}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2}]
+      "hints": [
+        "Warum fragt man überhaupt nach Abfall?",
+        "Woher stammen „biologisch abbaubar“ und „Belästigung“?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        },
+        {
+          "doc": "PROP_1",
+          "page": 139
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        }
+      ]
     },
     {
-      "id": "q22", "type": "cloze", "level": "recall", "difficulty": 2,
+      "id": "q22",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Die {{1}} begründet, warum jetzt gerade diese Frage gestellt wird; die {{2}} begründet, woher Sie die Voraussetzungen für ihre Beantwortung beziehen.",
-      "blanks": [["Vorprämisse"], ["Nachprämisse"]],
+      "blanks": [
+        [
+          "Vorprämisse"
+        ],
+        [
+          "Nachprämisse"
+        ]
+      ],
       "explanation": "Studienbrief S. 105: Die zwei allgemeinen Prämissen, die einen Obersatz begleiten, heißen Vor- und Nachprämisse; oft laufen sie stillschweigend mit.",
-      "hints": ["Die eine steht „vor“, die andere „nach“ dem Obersatz.", "Die zweite ist meist die Definition."],
-      "src": [{"doc": "PROP_1", "page": 104}]
+      "hints": [
+        "Die eine steht „vor“, die andere „nach“ dem Obersatz.",
+        "Die zweite ist meist die Definition."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        }
+      ]
     },
     {
-      "id": "q23", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q23",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Der erste Obersatz lautet: „N könnte gegen K aus § 2 S. 3 KVS einen Anspruch auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 € haben.“ Welches Endergebnis passt nach dem Studienbrief?",
-      "options": ["Somit hat N keinen Anspruch gegen K aus § 2 S. 3 KVS auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 €.", "Nein, N bekommt sein Geld nicht.", "Meines Erachtens dürfte N keinen Anspruch haben.", "Die Äpfel wurden rechtzeitig entsorgt."],
-      "answer": [0],
+      "options": [
+        "Somit hat N keinen Anspruch gegen K aus § 2 S. 3 KVS auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 €.",
+        "Nein, N bekommt sein Geld nicht.",
+        "Meines Erachtens dürfte N keinen Anspruch haben.",
+        "Die Äpfel wurden rechtzeitig entsorgt."
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Das Ergebnis ist das wortgleiche Gegenstück des Obersatzes, entschieden, ohne „Ja/Nein“ und ohne „meines Erachtens“ (Studienbrief S. 136 f., 139); es muss die Rechtsfrage beantworten, nicht nur ein Zwischenergebnis wiederholen (Lösungshinweise S. 4).",
-      "hints": ["Kongruenz zum Obersatz.", "Kein Konjunktiv, keine persönliche Floskel."],
-      "src": [{"doc": "PROP_1", "page": 135}, {"doc": "PROP_1", "page": 138}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4}]
+      "hints": [
+        "Kongruenz zum Obersatz.",
+        "Kein Konjunktiv, keine persönliche Floskel."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 135
+        },
+        {
+          "doc": "PROP_1",
+          "page": 138
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 4
+        }
+      ]
     },
     {
-      "id": "q24", "type": "mc-single", "level": "understand", "difficulty": 3,
+      "id": "q24",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "Was halten die Lösungshinweise zu den Ausführungen unter „aa) Bestimmungsgemäße Nutzung“ (Grillen als Erholung) fest?",
-      "options": ["Es handelt sich der Sache nach um eine vom Telos bestimmte Auslegung, die hier nicht als solche bezeichnet werden musste, weil sie eindeutig ist.", "Die Ausführungen sind ein Meinungsstreit, der mit einer Stellungnahme zu entscheiden ist.", "Der Gedanke zum Vorbereitungszeitraum ist für eine gute Bearbeitung zwingend.", "Die bestimmungsgemäße Nutzung ist in § 4 Abs. 2 S. 2 KVS legaldefiniert."],
-      "answer": [0],
+      "options": [
+        "Es handelt sich der Sache nach um eine vom Telos bestimmte Auslegung, die hier nicht als solche bezeichnet werden musste, weil sie eindeutig ist.",
+        "Die Ausführungen sind ein Meinungsstreit, der mit einer Stellungnahme zu entscheiden ist.",
+        "Der Gedanke zum Vorbereitungszeitraum ist für eine gute Bearbeitung zwingend.",
+        "Die bestimmungsgemäße Nutzung ist in § 4 Abs. 2 S. 2 KVS legaldefiniert."
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Lösungshinweise S. 3 (Anmerkung): teleologische Auslegung, nicht ausdrücklich bezeichnet, weil eindeutig – eine Darstellung als Auslegung wäre aber auch möglich. Der Vorbereitungszeitraum ist nicht zwingend. Der Maßstab ergibt sich aus § 1 KVS.",
-      "hints": ["Telos = Zweck.", "Woraus wurde die bestimmungsgemäße Nutzung abgeleitet?"],
-      "src": [{"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3}]
+      "hints": [
+        "Telos = Zweck.",
+        "Woraus wurde die bestimmungsgemäße Nutzung abgeleitet?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        }
+      ]
     },
     {
-      "id": "q25", "type": "truefalse", "level": "recognize", "difficulty": 1,
+      "id": "q25",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Im Gutachten ist es erlaubt, auf bereits Geprüftes zurückzuverweisen („wie bereits festgestellt“), nicht aber auf erst später Folgendes („wie noch zu zeigen sein wird“).",
       "answer": true,
       "explanation": "Studienbrief S. 86: Nur feststellen, was zuvor begründet wurde; Rückbezüge sind gestattet, Verweise nach vorn nicht. Im Apple-Gutachten greift etwa V. 1. auf die bereits geprüften Abfall-Voraussetzungen zurück.",
-      "hints": ["Ordnung halten – keine Fäden fallen lassen.", "Rückwärts ja, vorwärts nein."],
-      "src": [{"doc": "PROP_1", "page": 85}]
+      "hints": [
+        "Ordnung halten – keine Fäden fallen lassen.",
+        "Rückwärts ja, vorwärts nein."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 85
+        }
+      ]
     },
     {
-      "id": "q26", "type": "mc-single", "level": "recognize", "difficulty": 1,
+      "id": "q26",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Wann ist nach dem Merkblatt die Absatzangabe im Normzitat unerlässlich?",
-      "options": ["Wenn der Paragraf/Artikel aus mehr als einem Absatz besteht und nur auf diesen einen Bezug genommen werden soll", "Immer, auch bei Normen mit nur einem Absatz", "Nur in Hausarbeiten, nicht in Klausuren", "Nur wenn der Absatz zusätzlich in Nummern gegliedert ist"],
-      "answer": [0],
+      "options": [
+        "Wenn der Paragraf/Artikel aus mehr als einem Absatz besteht und nur auf diesen einen Bezug genommen werden soll",
+        "Immer, auch bei Normen mit nur einem Absatz",
+        "Nur in Hausarbeiten, nicht in Klausuren",
+        "Nur wenn der Absatz zusätzlich in Nummern gegliedert ist"
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Merkblatt, Spalte „Wann ist dieser Bestandteil unerlässlich?“. „Immer“ gilt nur für den Paragrafen/Artikel selbst.",
-      "hints": ["Was ist der einzige Bestandteil, der „immer“ nötig ist?", "Brauche ich die Angabe, um eindeutig zu sein?"],
-      "src": [{"doc": "EXTRA_PROP_NORMZITATION", "page": 1}]
+      "hints": [
+        "Was ist der einzige Bestandteil, der „immer“ nötig ist?",
+        "Brauche ich die Angabe, um eindeutig zu sein?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        }
+      ]
     },
     {
-      "id": "q27", "type": "free", "level": "formulate", "difficulty": 2,
+      "id": "q27",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
       "prompt": "Formulieren Sie für den Fall „An apple a day“ den ersten Obersatz (Ebene 1) und benennen Sie anschließend die Voraussetzungen des Anspruchs.",
       "modelAnswer": "N könnte gegen K aus § 2 S. 3 KVS einen Anspruch auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 € haben. Das ist der Fall, wenn sich auf der Gartenanlage Abfälle befinden, die nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt wurden. Zudem muss K Vereinsmitglied und Verursacher der Abfälle sein; N muss Vereinsmitglied sein, die Beseitigung der Abfälle veranlasst haben, und ihm müssen dadurch Kosten entstanden sein.",
-      "rubric": ["Wer (N) will was (Erstattung der Beseitigungs- und Entsorgungskosten, 50 €) von wem (K) woraus (§ 2 S. 3 KVS) – Norm genau zitiert", "Konjunktiv im Obersatz („könnte … haben“)", "Voraussetzungen vollständig: Abfall, keine Beseitigung binnen 48 h, K Mitglied und Verursacher, N Mitglied und Veranlasser, Kosten", "Voraussetzungen als allgemeine Rechtslage formuliert (Indikativ: „Das ist der Fall, wenn …“) oder im Konjunktiv II angeschlossen", "Keine Sachverhaltsschilderung und kein Ergebnis vorweggenommen"],
-      "hints": ["W-Formel: Wer will was von wem woraus?", "Die Voraussetzungen betreffen die Abfälle, K und N."],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 1}, {"doc": "PROP_1", "page": 113}]
+      "rubric": [
+        "Wer (N) will was (Erstattung der Beseitigungs- und Entsorgungskosten, 50 €) von wem (K) woraus (§ 2 S. 3 KVS) – Norm genau zitiert",
+        "Konjunktiv im Obersatz („könnte … haben“)",
+        "Voraussetzungen vollständig: Abfall, keine Beseitigung binnen 48 h, K Mitglied und Verursacher, N Mitglied und Veranlasser, Kosten",
+        "Voraussetzungen als allgemeine Rechtslage formuliert (Indikativ: „Das ist der Fall, wenn …“) oder im Konjunktiv II angeschlossen",
+        "Keine Sachverhaltsschilderung und kein Ergebnis vorweggenommen"
+      ],
+      "hints": [
+        "W-Formel: Wer will was von wem woraus?",
+        "Die Voraussetzungen betreffen die Abfälle, K und N."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 1
+        },
+        {
+          "doc": "PROP_1",
+          "page": 113
+        }
+      ]
     },
     {
-      "id": "q28", "type": "case", "level": "formulate", "difficulty": 3,
+      "id": "q28",
+      "type": "case",
+      "level": "formulate",
+      "difficulty": 3,
       "prompt": "Abwandlung: Wie im Ausgangsfall gehen von den faulenden Äpfeln auf der Parzelle des K erstmals am Tag, an dem N grillen will, Übelkeit erregende Gerüche aus. N wartet ab und lässt die Äpfel erst drei Tage später beseitigen und entsorgen. Prüfen Sie im Gutachtenstil nur Punkt „V. Nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt“ mit den Unterpunkten 1. Entstehen und 2. Beseitigung.",
       "modelAnswer": "V. Nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt\nDie Abfälle dürften nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt worden sein.\n1. Entstehen\nFraglich ist, wann die Abfälle entstanden sind. Abfälle entstehen in dem Zeitpunkt, in dem alle Voraussetzungen für das Bestehen von Abfall gegeben sind. Eine Belästigung ging von den Äpfeln erst an dem Tag aus, an dem sie stark rochen und N bei seinen Grillvorbereitungen störten. Erst an diesem Tag lagen alle Voraussetzungen des Abfalls vor. Mithin sind die Abfälle an dem Tag entstanden, an dem N grillen wollte.\n2. Nicht innerhalb von 48 Stunden beseitigt und entsorgt\nSchließlich dürften die Abfälle nicht innerhalb von 48 Stunden nach diesem Tag beseitigt und entsorgt worden sein. Hier ließ N die Äpfel erst drei Tage später beseitigen und entsorgen; zwischen dem Entstehen und der Beseitigung lagen damit mehr als 48 Stunden. Mithin wurden die Abfälle nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt; diese Voraussetzung ist erfüllt.",
-      "rubric": ["Obersatz zu V. im Konjunktiv („dürften nicht … worden sein“)", "1.: Definition des Entstehens (alle Voraussetzungen des Abfalls gegeben) und Anknüpfung an die erste Belästigung", "2.: Definition kann entfallen; Subsumtion mit dem Zeitraum „drei Tage später“ = mehr als 48 Stunden", "Ergebnisse beantworten die jeweiligen Obersätze; ggf. Ergebnis 2. und V. zusammengezogen", "Keine Vermengung mit anderen Prüfpunkten (I.–IV. nicht erneut prüfen)"],
-      "hints": ["Ab wann geht von den Äpfeln eine Belästigung aus?", "Rechnen Sie: Drei Tage nach dem Entstehungstag – mehr oder weniger als 48 Stunden?"],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5}, {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4}]
+      "rubric": [
+        "Obersatz zu V. im Konjunktiv („dürften nicht … worden sein“)",
+        "1.: Definition des Entstehens (alle Voraussetzungen des Abfalls gegeben) und Anknüpfung an die erste Belästigung",
+        "2.: Definition kann entfallen; Subsumtion mit dem Zeitraum „drei Tage später“ = mehr als 48 Stunden",
+        "Ergebnisse beantworten die jeweiligen Obersätze; ggf. Ergebnis 2. und V. zusammengezogen",
+        "Keine Vermengung mit anderen Prüfpunkten (I.–IV. nicht erneut prüfen)"
+      ],
+      "hints": [
+        "Ab wann geht von den Äpfeln eine Belästigung aus?",
+        "Rechnen Sie: Drei Tage nach dem Entstehungstag – mehr oder weniger als 48 Stunden?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 5
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 4
+        }
+      ]
     },
     {
-      "id": "q29", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q29",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Unter „c)“ und „bb)“ zieht die Methodische Betrachtung zwei Ergebnissätze zu einem zusammen. Mit welcher Begründung?",
-      "options": ["Das Ausschreiben der Ergebnisse von Ebene 4 und Ebene 5 in zwei Sätzen brächte keinen Mehrwert.", "Ergebnisse tieferer Ebenen dürfen grundsätzlich nie eigenständig formuliert werden.", "Weil Feststellungen im Gutachten generell unzulässig sind.", "Weil die Ebene 5 nur eine Definition, aber kein Ergebnis enthält."],
-      "answer": [0],
+      "options": [
+        "Das Ausschreiben der Ergebnisse von Ebene 4 und Ebene 5 in zwei Sätzen brächte keinen Mehrwert.",
+        "Ergebnisse tieferer Ebenen dürfen grundsätzlich nie eigenständig formuliert werden.",
+        "Weil Feststellungen im Gutachten generell unzulässig sind.",
+        "Weil die Ebene 5 nur eine Definition, aber kein Ergebnis enthält."
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Erläuterung S. 4: c) fragt, ob N in der bestimmungsgemäßen Nutzung gestört ist; bb) ist dessen zweite Teilfrage. Nachdem aa) bejaht wurde, beantwortet der Satz zu bb) zugleich c). Grundsätzlich braucht jeder Obersatz seine Antwort (Folie 43).",
-      "hints": ["Was fragt c), was fragt bb)?", "Kongruenz ohne Wiederholung."],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4}, {"doc": "EXTRA_PROP_FOLIEN1", "page": 43}]
+      "hints": [
+        "Was fragt c), was fragt bb)?",
+        "Kongruenz ohne Wiederholung."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 43
+        }
+      ]
     },
     {
-      "id": "q30", "type": "truefalse", "level": "understand", "difficulty": 3,
+      "id": "q30",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "Weil die Einteilung in Ebenen „sehr subjektiv geprägt“ ist, darf man im Gutachten beliebig zwischen Gliederungszeichen wechseln, solange der Inhalt stimmt.",
       "answer": false,
       "explanation": "Die Materialien sagen nur, dass auch eine *andere* Einteilung „richtig“ sein kann (Methodische Betrachtung S. 1). Innerhalb einer Gliederung gilt aber die „peinliche Ordnung der logischen Ebenen“ mit alphanumerischen Gliederungspunkten; auf 1. muss 2. folgen (Studienbrief S. 163, 165).",
-      "hints": ["Unterscheiden Sie: Wahl der Einteilung vs. Konsequenz innerhalb der Gliederung.", "„Wer A sagt, muss auch B sagen.“"],
-      "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 1}, {"doc": "PROP_1", "page": 162}, {"doc": "PROP_1", "page": 164}]
+      "hints": [
+        "Unterscheiden Sie: Wahl der Einteilung vs. Konsequenz innerhalb der Gliederung.",
+        "„Wer A sagt, muss auch B sagen.“"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 1
+        },
+        {
+          "doc": "PROP_1",
+          "page": 162
+        },
+        {
+          "doc": "PROP_1",
+          "page": 164
+        }
+      ]
     },
     {
-      "id": "q31", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q31",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Warum ist das Gutachten im Konditionalstil nach dem Studienbrief anders aufgebaut als ein Text im Urteilsstil?",
-      "options": ["Der Urteilsstil stellt das Ergebnis an den Anfang und begründet es danach; der Gutachtenstil sucht ergebnisoffen und stellt das Ergebnis erst am Ende fest.", "Der Urteilsstil verwendet den Konjunktiv, der Gutachtenstil den Indikativ.", "Der Gutachtenstil kennt keine Zwischenergebnisse.", "Der Urteilsstil ist in Klausuren der Regelfall."],
-      "answer": [0],
+      "options": [
+        "Der Urteilsstil stellt das Ergebnis an den Anfang und begründet es danach; der Gutachtenstil sucht ergebnisoffen und stellt das Ergebnis erst am Ende fest.",
+        "Der Urteilsstil verwendet den Konjunktiv, der Gutachtenstil den Indikativ.",
+        "Der Gutachtenstil kennt keine Zwischenergebnisse.",
+        "Der Urteilsstil ist in Klausuren der Regelfall."
+      ],
+      "answer": [
+        0
+      ],
       "explanation": "Studienbrief S. 85: Im Urteilsstil steht das Ergebnis vorn (Gerichtsentscheidung, Suche abgeschlossen); im Gutachten wird die Lösung erst gesucht und am Ende festgestellt. Im Apple-Gutachten steht deshalb „B. Ergebnis“ am Schluss.",
-      "hints": ["„Ob?“ oder „Dass, weil …“?", "Wo steht im Apple-Fall das Ergebnis?"],
-      "src": [{"doc": "PROP_1", "page": 84}, {"doc": "PROP_1", "page": 89}]
+      "hints": [
+        "„Ob?“ oder „Dass, weil …“?",
+        "Wo steht im Apple-Fall das Ergebnis?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 84
+        },
+        {
+          "doc": "PROP_1",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das Ergebnis ist die {{1}} des Obersatzes und wird im {{2}} formuliert. Gebräuchliche Einleitungswörter sind „also“, „somit“ oder „{{3}}“.",
+      "blanks": [
+        [
+          "Kehrseite",
+          "Antwort",
+          "Gegenstück"
+        ],
+        [
+          "Indikativ"
+        ],
+        [
+          "folglich",
+          "mithin",
+          "daher"
+        ]
+      ],
+      "explanation": "Das Ergebnis beantwortet die Obersatz-Hypothese; Folie 41 nennt „also“, „somit“, „folglich“, „mithin“, „daher“.",
+      "hints": [
+        "Der Obersatz fragt, das Ergebnis …",
+        "Wirklichkeitsform."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Die Subsumtion verbindet die abstrakt-rechtliche Ebene (das {{1}}) mit den tatsächlich gegebenen Umständen des Sachverhalts (dem {{2}}). Vereinfacht: abstrakte Definition + konkreter Sachverhalt = Subsumtion = {{3}}.",
+      "blanks": [
+        [
+          "Sollen"
+        ],
+        [
+          "Sein"
+        ],
+        [
+          "Syllogismus",
+          "Justizsyllogismus"
+        ]
+      ],
+      "explanation": "Folie 36: Subsumtion im Indikativ, so kurz wie möglich, so lang wie nötig – „sauber subsumieren“.",
+      "hints": [
+        "Sollen und Sein.",
+        "Der logische Schluss aus zwei Prämissen."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Sie wollen die Regel von § 990 BGB zitieren, nach der der Besitzer ab Erlangung der Kenntnis haftet (zweiter Satz im ersten Absatz). Welches Zitat ist korrekt?",
+      "options": [
+        "§ 990 Abs. 1 S. 2 BGB",
+        "§ 990 (1) 2 BGB",
+        "§ 990 S. 2 BGB",
+        "§ 990 Abs. 2 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Absatz 1 hat zwei Sätze; gemeint ist nur Satz 2. Klammerziffern wie „(1)“ sind unüblich; Abs. 2 betrifft die Verzugshaftung (Folien 55–58).",
+      "hints": [
+        "Hochgestellte Ziffer = Satz.",
+        "Klammerzahl = Absatz – aber nicht so zitieren."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 55
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "§ 49a Abs. 3 BWG: Verwaltungsbehörde ist „1. bei Ordnungswidrigkeiten nach Absatz 1 Nr. 1 a) der Kreiswahlleiter, wenn …“. Wie zitieren Sie die Zuständigkeit des Kreiswahlleiters genau?",
+      "options": [
+        "§ 49a Abs. 3 Nr. 1 lit. a BWG",
+        "§ 49a Abs. 3 lit. a BWG",
+        "§ 49a Nr. 1 a) Abs. 3 BWG",
+        "§ 49a III 1 a BWG"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Reihenfolge: Paragraf – Absatz – Nummer – Buchstabe – Normkörper. Ohne Nr. fehlt eine Ebene; „III 1“ würde die 1 als Satz lesen (Folien 50, 60).",
+      "hints": [
+        "Vom Großen zum Kleinen.",
+        "Nummer vor Buchstabe."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Nach den Folien ist es zwingend, nach dem ersten Obersatz alle Voraussetzungen ausdrücklich zu nennen.",
+      "answer": false,
+      "explanation": "Das Nennen der Voraussetzungen ist optional, aber hilfreich: Sie geben die Struktur der folgenden Prüfung vor (Folie 31; ebenso die Methodische Betrachtung zum Apple-Fall).",
+      "hints": [
+        "Hilfreich ≠ zwingend."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 31
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm aus den Beispielen ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 90 BGB",
+          "Sachen sind nur körperliche Gegenstände"
+        ],
+        [
+          "§ 433 Abs. 2 BGB",
+          "Käufer zahlt den Kaufpreis und nimmt die Sache ab"
+        ],
+        [
+          "§ 433 Abs. 1 S. 2 BGB",
+          "Verschaffung frei von Sach- und Rechtsmängeln"
+        ],
+        [
+          "§ 990 Abs. 1 S. 1 BGB",
+          "Haftung des beim Besitzerwerb bösgläubigen Besitzers"
+        ]
+      ],
+      "explanation": "Folien 30, 32 und 55 nutzen diese Normen als Beispiele für Voraussetzungen und Zitierweise.",
+      "hints": [
+        "§ 433 Abs. 2 betrifft den Käufer."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 30
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 32
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Unterpunkte von „2. Belästigung“ (Ebene 4) im Apple-Gutachten in die richtige Reihenfolge.",
+      "items": [
+        "a) Anderes Vereinsmitglied",
+        "b) Substanz i. S. d. § 4 Abs. 2 S. 1 KVS",
+        "c) In der bestimmungsgemäßen Nutzung gestört",
+        "d) Zwischenergebnis"
+      ],
+      "explanation": "Die Unterpunkte folgen der Definition in § 4 Abs. 2 S. 2 KVS; a) und b) werden nur festgestellt, c) wird bis Ebene 5 vertieft (Methodische Betrachtung S. 3 f.).",
+      "hints": [
+        "Reihenfolge der Definition.",
+        "Das Zwischenergebnis kommt zuletzt."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Sätze zu „1. Biologisch abbaubare Substanz“ in die Reihenfolge des Gutachtens.",
+      "items": [
+        "Bei den Äpfeln müsste es sich um eine biologisch abbaubare Substanz handeln.",
+        "Biologisch abbaubare Substanzen sind Materialien organischen Ursprungs, die insbesondere verweslich sind.",
+        "Als die Äpfel zu faulen begannen, setzte der Verwesungsprozess ein; sie sind also verwesliches Material organischen Ursprungs.",
+        "Damit handelt es sich bei den Äpfeln um eine biologisch abbaubare Substanz."
+      ],
+      "explanation": "Auf Ebene 3 läuft der vollständige Vierschritt: Obersatz – Definition – Subsumtion – Ergebnis (Methodische Betrachtung S. 2).",
+      "hints": [
+        "Konjunktiv zuerst.",
+        "Die Definition nennt keine Äpfel."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 2
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wie sollen Anfänger nach dem Studienbrief mit der Balance zwischen Wesentlichem und Unwesentlichem umgehen?",
+      "options": [
+        "Jedes Merkmal ansprechen und gründlich durch alle Stationen im Gutachtenstil prüfen; erst mit mehr Sicherheit kürzen",
+        "Von Anfang an nur das Problematische prüfen und alles andere weglassen",
+        "Durchgehend im Urteilsstil schreiben, um Zeit zu sparen",
+        "Nur die Merkmale prüfen, die der Sachverhalt ausdrücklich nennt"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Später darf man Unwichtiges zusammenfassen, Stationen auslassen und in den Feststellungsstil wechseln; maßgeblich ist, wo der Schwerpunkt der Falllösung liegt (S. 142).",
+      "hints": [
+        "Erst lernen, dann kürzen."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 141
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Kontrollfragen für das treffende Ergebnis nennen die Folien? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Enthält jedes Ergebnis eine Schlussfolgerung und keine Begründung?",
+        "Beantwortet jedes (Zwischen-)Ergebnis den jeweiligen (Zwischen-)Obersatz?",
+        "Enthält das Endergebnis dieselben Informationen wie der erste Obersatz?",
+        "Ist das Ergebnis im Konjunktiv formuliert?"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Folie 43: Schlussfolgerung statt Begründung und Kongruenz von Obersatz und Ergebnis; das Ergebnis steht im Indikativ (Folie 41).",
+      "hints": [
+        "Stichwort Kongruenz.",
+        "Welcher Modus gilt für das Ergebnis?"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 41
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Beim Subsumieren darf man den Definitionsbegriff „körperliches Wohlbefinden“ durch „physisches Wohlergehen“ ersetzen, wenn das eleganter klingt.",
+      "answer": false,
+      "explanation": "„Sauber subsumieren“ heißt: die Unterbegriffe der Definition wortwörtlich übernehmen und keine neuen abstrakten Begriffe einführen (Folien 37, 40).",
+      "hints": [
+        "Wortwörtlich!"
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 37
+        },
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Apple-Fall: K hat die Parzelle gepachtet, auf der die faulenden Äpfel liegen. § 3 KVS: Verursacher ist, wer Pächter einer Gartenparzelle ist und auf dessen Parzelle sich die Abfälle befinden. Prüfen Sie Punkt „II. Verursacher“ im Gutachtenstil.",
+      "modelAnswer": "K müsste weiterhin Verursacher dieser Abfälle sein. Gem. § 3 KVS ist eine Person Verursacher, wenn sie Pächter einer Gartenparzelle ist und die Abfälle auf dieser Parzelle sind. Hier hat K die Parzelle gepachtet, auf der sich die faulenden Äpfel, also die Abfälle, befinden. Mithin ist K Verursacher dieser Abfälle.",
+      "rubric": [
+        "Obersatz im Konjunktiv mit „weiterhin“",
+        "Definition aus § 3 KVS mit Normzitat",
+        "Subsumtion beider Merkmale (Pächter, Abfälle auf der Parzelle)",
+        "Ergebnis kongruent zum Obersatz"
+      ],
+      "explanation": "Die Methodische Betrachtung prüft „Verursacher“ vollständig auf Ebene 2 (S. 4).",
+      "hints": [
+        "Zwei Merkmale in der Definition.",
+        "„Mithin“ leitet das Ergebnis ein."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Der V-Versand verlangt von T 7.800 EUR aus einem Kaufvertrag. Formulieren Sie den Obersatz und den anschließenden Voraussetzungssatz in der vom Studienbrief empfohlenen Modusform und erklären Sie kurz, warum der Modus wechselt.",
+      "modelAnswer": "Obersatz: „Der V-Versand könnte gegen T einen Anspruch auf Zahlung in Höhe von 7.800 EUR aus einem Kaufvertrag gemäß § 433 Abs. 2 BGB haben.“ Voraussetzung: „Voraussetzung für einen solchen Anspruch ist der Abschluss eines wirksamen Kaufvertrages i. S. d. § 433 BGB.“ Der Obersatz steht traditionell im Konjunktiv II, weil das Ergebnis noch offen ist. Wird die Voraussetzung direkt benannt, geht es um die allgemein gültige Rechtslage – sie steht im Indikativ. (Alternativ: „Das ist der Fall, wenn … vorläge“ – dann irreale Bedingung im Konjunktiv.)",
+      "rubric": [
+        "Obersatz im Konjunktiv II mit Anspruchsteller, -gegner, Gegenstand, Norm",
+        "Voraussetzungssatz im Indikativ",
+        "Begründung: allgemeine Rechtslage wird im Indikativ ausgedrückt",
+        "Normzitat korrekt"
+      ],
+      "explanation": "Nennung, Bestimmung, Definition und Interpretation der Voraussetzung erfolgen immer im Indikativ (S. 114 f.).",
+      "hints": [
+        "„könnte … haben“",
+        "„Voraussetzung dafür ist …“"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 113
+        },
+        {
+          "doc": "PROP_1",
+          "page": 114
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Welche Einleitung der Subsumtion gilt nach den Folien als „weniger elegant“?",
+      "options": [
+        "„Laut Sachverhalt …“",
+        "„Vorliegend …“",
+        "„In diesem Fall …“",
+        "„Hier …“"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "„Vorliegend“, „In diesem Fall“, „Hier“ sind möglich, aber sparsam zu verwenden; „Laut Sachverhalt“ ist weniger elegant (Folie 38).",
+      "hints": [
+        "Der Leser kennt den Sachverhalt."
+      ],
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Ansätze kombiniert der Gutachtenstil nach dem Studienbrief zu einer schlüssigen Form? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Den Such- und Prüfmodus („Ob es so ist?“)",
+        "Das Begründen im Konditionalstil",
+        "Die Idee des Justizsyllogismus",
+        "Das intuitive Anhäufen von Gründen"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Gutachtentechnik als Kombination dreier Ansätze; intuitives Begründen ist der formlose Alltagsmodus, dem das Gutachten gerade nicht folgt (S. 84, 88).",
+      "hints": [
+        "Drei Bausteine.",
+        "Unter Freunden argumentiert man anders."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 83
+        },
+        {
+          "doc": "PROP_1",
+          "page": 87
+        }
+      ]
     }
   ],
   "case": {
@@ -441,53 +1973,276 @@
         "part": "obersatz",
         "prompt": "Formulieren Sie den ersten Obersatz (Ebene 1) und benennen Sie die Voraussetzungen. Formulieren Sie außerdem den Obersatz für den ersten Prüfungspunkt „I. Abfall auf der Gartenanlage“.",
         "model": "A. Anspruch aus § 2 S. 3 KVS\nN könnte gegen K aus § 2 S. 3 KVS einen Anspruch auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 € haben. Das ist der Fall, wenn Abfälle auf der Gartenanlage sind und diese nicht innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt wurden. Außerdem muss K Vereinsmitglied und Verursacher der Abfälle sein; N muss Vereinsmitglied und Veranlasser der Beseitigung sein, und ihm müssen dadurch Kosten entstanden sein.\nI. Abfall auf der Gartenanlage\nBei den Äpfeln auf der Gartenanlage müsste es sich also zunächst um Abfall handeln.",
-        "rubric": ["W-Formel erfüllt: N – Erstattung von 50 € Beseitigungs- und Entsorgungskosten – gegen K – aus § 2 S. 3 KVS", "Normzitat genau (§ 2 S. 3 KVS, nicht bloß „§ 2 KVS“)", "Konjunktiv II im Obersatz", "Alle Voraussetzungen benannt (Abfall, 48 h, K Mitglied und Verursacher, N Mitglied und Veranlasser, Kosten)", "Obersatz zu I. zeigt durch „zunächst“/„also“ die erste von mehreren Voraussetzungen an"],
-        "hints": ["Wer will was von wem woraus?", "Die Norm hat mehrere Sätze – welcher regelt die Kostenerstattung?", "Das Nennen der Voraussetzungen ist optional, hilft aber beim Gliedern."]
+        "rubric": [
+          "W-Formel erfüllt: N – Erstattung von 50 € Beseitigungs- und Entsorgungskosten – gegen K – aus § 2 S. 3 KVS",
+          "Normzitat genau (§ 2 S. 3 KVS, nicht bloß „§ 2 KVS“)",
+          "Konjunktiv II im Obersatz",
+          "Alle Voraussetzungen benannt (Abfall, 48 h, K Mitglied und Verursacher, N Mitglied und Veranlasser, Kosten)",
+          "Obersatz zu I. zeigt durch „zunächst“/„also“ die erste von mehreren Voraussetzungen an"
+        ],
+        "hints": [
+          "Wer will was von wem woraus?",
+          "Die Norm hat mehrere Sätze – welcher regelt die Kostenerstattung?",
+          "Das Nennen der Voraussetzungen ist optional, hilft aber beim Gliedern."
+        ]
       },
       {
         "part": "definition",
         "prompt": "Nennen Sie die Definitionen, mit denen Sie die Merkmale auf den tieferen Ebenen konkretisieren: Abfall, biologisch abbaubare Substanz, Belästigung, bestimmungsgemäße Nutzung, Störung, Verursacher und Entstehen der Abfälle. Zitieren Sie Satzungsnormen genau.",
         "model": "Abfälle sind gem. § 4 Abs. 2 S. 1 KVS biologisch abbaubare Substanzen, von denen eine Belästigung ausgeht. Biologisch abbaubare Substanzen sind Materialien organischen Ursprungs, die sich insbesondere dadurch kennzeichnen, dass sie verweslich sind. Gem. § 4 Abs. 2 S. 2 KVS liegt eine Belästigung vor, wenn andere Vereinsmitglieder durch die in § 4 Abs. 2 S. 1 KVS genannten Substanzen in der bestimmungsgemäßen Nutzung ihres Parzellengrundstücks gestört werden. Wie die Parzellen bestimmungsgemäß genutzt werden sollen, ergibt sich aus § 1 KVS: Die Gartenanlage dient als Ort der Erholung, der Pflanzen- und Gartenpflege sowie des gelebten Vereinswesens. Eine Störung liegt vor, wenn eine bestimmungsgemäße Nutzung nicht mehr ohne weiteres möglich ist. Verursacher ist gem. § 3 KVS, wer Pächter einer Gartenparzelle ist, auf der sich die Abfälle befinden. Abfälle entstehen in dem Zeitpunkt, in dem alle Voraussetzungen für das Bestehen von Abfall gegeben sind. (Für „innerhalb von 48 Stunden“ ist keine Definition nötig.)",
-        "rubric": ["Legaldefinitionen der Satzung wörtlich in ihren wesentlichen Begriffen und mit genauem Zitat (§ 4 Abs. 2 S. 1, § 4 Abs. 2 S. 2, § 3 KVS)", "Definition „biologisch abbaubar“: organischen Ursprungs, verweslich", "Maßstab der bestimmungsgemäßen Nutzung aus § 1 KVS (Erholung, Pflanzen- und Gartenpflege, Vereinswesen)", "Störung: Nutzung nicht mehr ohne weiteres möglich", "Entstehen: Zeitpunkt, in dem alle Abfall-Voraussetzungen vorliegen", "Indikativ, abstrakt, ohne Sachverhaltsbezug"],
-        "hints": ["Die Definition eines Begriffs liefert die Unterpunkte der nächsten Ebene (Nachprämisse).", "Legaldefinitionen haben Vorrang.", "Welcher Begriff ist so klar, dass er keine Definition braucht?"]
+        "rubric": [
+          "Legaldefinitionen der Satzung wörtlich in ihren wesentlichen Begriffen und mit genauem Zitat (§ 4 Abs. 2 S. 1, § 4 Abs. 2 S. 2, § 3 KVS)",
+          "Definition „biologisch abbaubar“: organischen Ursprungs, verweslich",
+          "Maßstab der bestimmungsgemäßen Nutzung aus § 1 KVS (Erholung, Pflanzen- und Gartenpflege, Vereinswesen)",
+          "Störung: Nutzung nicht mehr ohne weiteres möglich",
+          "Entstehen: Zeitpunkt, in dem alle Abfall-Voraussetzungen vorliegen",
+          "Indikativ, abstrakt, ohne Sachverhaltsbezug"
+        ],
+        "hints": [
+          "Die Definition eines Begriffs liefert die Unterpunkte der nächsten Ebene (Nachprämisse).",
+          "Legaldefinitionen haben Vorrang.",
+          "Welcher Begriff ist so klar, dass er keine Definition braucht?"
+        ]
       },
       {
         "part": "subsumtion",
         "prompt": "Subsumieren Sie den Sachverhalt unter die Merkmale der jeweils tiefsten Ebene. Entscheiden Sie dabei, welche Punkte nur im Feststellungsstil festgestellt werden können und welcher Punkt den Ausschlag gibt.",
         "model": "1. Biologisch abbaubare Substanz: Als die Äpfel, also Material organischen Ursprungs, zu faulen begannen, setzte der Verwesungsprozess ein; sie sind verwesliches Material organischen Ursprungs.\n2. Belästigung: a) N ist ein anderes Vereinsmitglied. b) Die faulenden Äpfel sind eine Substanz i. S. d. § 4 Abs. 2 S. 1 KVS. c) aa) N will auf seiner Parzelle, die Teil der Gartenanlage ist, grillen. Das dient zwar weder der Pflanzen- noch der Gartenpflege, ist aber der Erholung zuzurechnen; auch die Vorbereitung gehört dazu, weil sonst die Erholung nicht herbeigeführt werden könnte. bb) Im Garten des K lagen ca. 30 kg faulende Äpfel, deren Übelkeit erregender Geruch im Garten des N wahrnehmbar war und bei N Übelkeit auslöste; die Erholung im Garten war so nicht ohne weiteres möglich.\nII. Verursacher: K hat die Parzelle gepachtet, auf der sich die faulenden Äpfel befinden.\nIII. K ist auch Vereinsmitglied.\nIV. N hat als Vereinsmitglied die Beseitigung und Entsorgung veranlasst; ihm sind Kosten i. H. v. 50 € entstanden.\nV. 1. Frühester feststellbarer Zeitpunkt, an dem alle Abfall-Voraussetzungen vorlagen, ist der Tag, an dem die Äpfel stark rochen und N bei seinen Grillvorbereitungen belästigt wurde. 2. An eben diesem Tag fand auch bereits die Beseitigung und Entsorgung statt.",
-        "rubric": ["Begriffe der Definitionen wörtlich in der Subsumtion verwendet (organischen Ursprungs, verweslich, Erholung, nicht ohne weiteres möglich)", "Unproblematisches (anderes Vereinsmitglied, Substanz, K Vereinsmitglied) knapp im Feststellungsstil", "Grillen über § 1 KVS der Erholung zugeordnet", "Störung mit den konkreten Sachverhaltsangaben (30 kg, Geruch, Übelkeit) begründet", "Verursacher über die Pacht der Parzelle", "Entstehen erst mit Eintritt der Belästigung (Grilltag) und Beseitigung am selben Tag erkannt – dies ist der entscheidende Punkt"],
-        "hints": ["Subsumiert wird unter die Merkmale der tiefsten Ebene.", "Wann ging von den Äpfeln erstmals eine Belästigung aus?", "Wie lange lagen Entstehen und Beseitigung auseinander?"]
+        "rubric": [
+          "Begriffe der Definitionen wörtlich in der Subsumtion verwendet (organischen Ursprungs, verweslich, Erholung, nicht ohne weiteres möglich)",
+          "Unproblematisches (anderes Vereinsmitglied, Substanz, K Vereinsmitglied) knapp im Feststellungsstil",
+          "Grillen über § 1 KVS der Erholung zugeordnet",
+          "Störung mit den konkreten Sachverhaltsangaben (30 kg, Geruch, Übelkeit) begründet",
+          "Verursacher über die Pacht der Parzelle",
+          "Entstehen erst mit Eintritt der Belästigung (Grilltag) und Beseitigung am selben Tag erkannt – dies ist der entscheidende Punkt"
+        ],
+        "hints": [
+          "Subsumiert wird unter die Merkmale der tiefsten Ebene.",
+          "Wann ging von den Äpfeln erstmals eine Belästigung aus?",
+          "Wie lange lagen Entstehen und Beseitigung auseinander?"
+        ]
       },
       {
         "part": "ergebnis",
         "prompt": "Formulieren Sie die Zwischenergebnisse (Ebenen 3 bis 5 und Punkte I. bis V.) und das Gesamtergebnis unter „B.“.",
         "model": "1. Damit handelt es sich bei den Äpfeln um eine biologisch abbaubare Substanz.\n2. c) aa) Mithin fällt das geplante Grillen auf der Parzelle unter die bestimmungsgemäße Nutzung. bb)/c) Mithin ist N durch die Äpfel in der bestimmungsgemäßen Nutzung seines Parzellengrundstücks gestört worden. d) Von den Äpfeln ging folglich eine Belästigung aus.\n3. Somit handelt es sich bei den Äpfeln auf der Gartenanlage um Abfall.\nII. Mithin ist K Verursacher dieser Abfälle. III. K ist Vereinsmitglied. IV. N hat die Beseitigung veranlasst; ihm sind Kosten i. H. v. 50 € entstanden.\nV. 1. Damit sind die Abfälle frühestens an dem Tag entstanden, an dem N grillen wollte. 2./V. Mithin wurden die Abfälle nicht nicht innerhalb von 48 Stunden, also noch innerhalb von 48 Stunden nach ihrem Entstehen beseitigt und entsorgt.\nB. Ergebnis\nSomit hat N keinen Anspruch gegen K aus § 2 S. 3 KVS auf Erstattung der Beseitigungs- und Entsorgungskosten für die Äpfel in Höhe von 50 €.",
-        "rubric": ["Jedes Zwischenergebnis beantwortet genau seinen Obersatz (Kongruenz)", "Zusammenziehen von Ergebnissen nur, wo getrennte Sätze keinen Mehrwert bringen (bb)/c); 2./V.)", "Ergebnis zu V.: Beseitigung noch innerhalb von 48 Stunden – Voraussetzung nicht erfüllt", "Gesamtergebnis wortgleich zum ersten Obersatz, entschieden verneinend", "Indikativ, Signalwörter „somit/mithin/folglich/damit“, kein „Ja/Nein“, kein „meines Erachtens“"],
-        "hints": ["Das Endergebnis spiegelt den ersten Obersatz.", "Eine einzige fehlende Voraussetzung genügt, damit der Anspruch scheitert.", "Achten Sie auf die doppelte Verneinung bei V."]
+        "rubric": [
+          "Jedes Zwischenergebnis beantwortet genau seinen Obersatz (Kongruenz)",
+          "Zusammenziehen von Ergebnissen nur, wo getrennte Sätze keinen Mehrwert bringen (bb)/c); 2./V.)",
+          "Ergebnis zu V.: Beseitigung noch innerhalb von 48 Stunden – Voraussetzung nicht erfüllt",
+          "Gesamtergebnis wortgleich zum ersten Obersatz, entschieden verneinend",
+          "Indikativ, Signalwörter „somit/mithin/folglich/damit“, kein „Ja/Nein“, kein „meines Erachtens“"
+        ],
+        "hints": [
+          "Das Endergebnis spiegelt den ersten Obersatz.",
+          "Eine einzige fehlende Voraussetzung genügt, damit der Anspruch scheitert.",
+          "Achten Sie auf die doppelte Verneinung bei V."
+        ]
       }
     ],
     "src": [
-      {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 1},
-      {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 2},
-      {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3},
-      {"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4},
-      {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 2},
-      {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5}
+      {
+        "doc": "EXTRA_PROP_APPLE_LOESUNG",
+        "page": 1
+      },
+      {
+        "doc": "EXTRA_PROP_APPLE_LOESUNG",
+        "page": 2
+      },
+      {
+        "doc": "EXTRA_PROP_APPLE_LOESUNG",
+        "page": 3
+      },
+      {
+        "doc": "EXTRA_PROP_APPLE_LOESUNG",
+        "page": 4
+      },
+      {
+        "doc": "EXTRA_PROP_APPLE_METHODIK",
+        "page": 2
+      },
+      {
+        "doc": "EXTRA_PROP_APPLE_METHODIK",
+        "page": 5
+      }
     ]
   },
   "flashcards": [
-    {"front": "Bestandteile eines genauen Normzitats (Folie 50)?", "back": "§/Art. – ggf. Abs. – ggf. S. – ggf. Hs. – ggf. Nr. – ggf. lit. – ggf. Var./Alt. – Normkörper (BGB, StGB, GG …). So genau wie möglich!", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 50}]},
-    {"front": "Alt. oder Var.?", "back": "Alt. (Alternative) bei zwei Optionen, Var. (Variante) bei mehr als zwei Optionen – z. B. § 6 Abs. 2 Nr. 2 Alt. 2 AO.", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 59}]},
-    {"front": "Darf man „§ 990 (1) BGB“ schreiben?", "back": "Unüblich, kann Punktabzug geben. Richtig: § 990 Absatz 1 BGB, § 990 Abs. 1 BGB oder § 990 I BGB.", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 56}]},
-    {"front": "Wann darf der Satz nur als Ziffer erscheinen („§ 433 I 2 BGB“)?", "back": "Nur wenn der Absatz zuvor mit römischer Ziffer zitiert wurde (abgekürzte Klausur-Zitierweise).", "src": [{"doc": "EXTRA_PROP_NORMZITATION", "page": 1}, {"doc": "PROP_1", "page": 233}]},
-    {"front": "f. und ff.?", "back": "f. = eine folgende Norm (§§ 280 f. BGB); ff. = mehrere folgende Normen (§§ 346 ff. BGB) – gesprochen „folgende“, nicht „fortfolgende“.", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 53}]},
-    {"front": "Kommata oder „i. V. m.“?", "back": "Zusammengehörige Normen einer Paragrafenkette mit Kommata (§§ 280 Abs. 1, Abs. 2, 286 Abs. 1 S. 1 BGB); i. V. m. nur für Sinneinheiten, die sich nicht direkt aus dem Gesetz ergeben.", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 54}]},
-    {"front": "„gemäß“, „entsprechend“, „vgl.“ – was gilt?", "back": "„Nach“/„gemäß“ = Synonyme. „Entsprechend“ = analoge (nicht unmittelbare) Anwendung. „Vgl.“ grundsätzlich unterlassen.", "src": [{"doc": "EXTRA_PROP_FOLIEN1", "page": 52}]},
-    {"front": "Vorprämisse / Nachprämisse?", "back": "Vorprämisse: warum gerade diese Frage gestellt wird. Nachprämisse: woher die Voraussetzungen für ihre Beantwortung stammen (meist die Definition).", "src": [{"doc": "PROP_1", "page": 104}]},
-    {"front": "Die fünf Ebenen im Apple-Gutachten?", "back": "1: A./B. (Anspruch/Ergebnis) – 2: I.–V. (Voraussetzungen) – 3: 1., 2., 3. – 4: a)–d) – 5: aa), bb). Einteilung ist subjektiv; andere kann auch richtig sein.", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 1}]},
-    {"front": "Woran scheitert der Anspruch des N im Fall „An apple a day“?", "back": "An V.: Abfall entstand frühestens am Grilltag (erste Belästigung) und wurde am selben Tag beseitigt – also noch innerhalb von 48 Stunden. Kein Anspruch aus § 2 S. 3 KVS.", "src": [{"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 4}]},
-    {"front": "Welche Punkte stehen im Apple-Gutachten im Feststellungsstil?", "back": "„a) N ist ein anderes Vereinsmitglied“, „b) Die faulenden Äpfel sind eine Substanz i. S. d. § 4 Abs. 2 S. 1 KVS“, „III. K ist auch Vereinsmitglied“ (IV.: Subsumtion + Ergebnis).", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 3}, {"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 4}]},
-    {"front": "Warum fehlt bei „innerhalb von 48 Stunden“ die Definition?", "back": "Der Begriff bedarf keiner näheren Konkretisierung – eine Definition wäre überflüssig.", "src": [{"doc": "EXTRA_PROP_APPLE_METHODIK", "page": 5}]},
-    {"front": "Grillen als „bestimmungsgemäße Nutzung“ – welche Methode steckt dahinter?", "back": "Eine vom Telos bestimmte (teleologische) Auslegung mit Blick auf § 1 KVS (Erholung) – nicht ausdrücklich so bezeichnet, weil eindeutig.", "src": [{"doc": "EXTRA_PROP_APPLE_LOESUNG", "page": 3}]}
+    {
+      "front": "Bestandteile eines genauen Normzitats (Folie 50)?",
+      "back": "§/Art. – ggf. Abs. – ggf. S. – ggf. Hs. – ggf. Nr. – ggf. lit. – ggf. Var./Alt. – Normkörper (BGB, StGB, GG …). So genau wie möglich!",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "front": "Alt. oder Var.?",
+      "back": "Alt. (Alternative) bei zwei Optionen, Var. (Variante) bei mehr als zwei Optionen – z. B. § 6 Abs. 2 Nr. 2 Alt. 2 AO.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "front": "Darf man „§ 990 (1) BGB“ schreiben?",
+      "back": "Unüblich, kann Punktabzug geben. Richtig: § 990 Absatz 1 BGB, § 990 Abs. 1 BGB oder § 990 I BGB.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "front": "Wann darf der Satz nur als Ziffer erscheinen („§ 433 I 2 BGB“)?",
+      "back": "Nur wenn der Absatz zuvor mit römischer Ziffer zitiert wurde (abgekürzte Klausur-Zitierweise).",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_NORMZITATION",
+          "page": 1
+        },
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ]
+    },
+    {
+      "front": "f. und ff.?",
+      "back": "f. = eine folgende Norm (§§ 280 f. BGB); ff. = mehrere folgende Normen (§§ 346 ff. BGB) – gesprochen „folgende“, nicht „fortfolgende“.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "front": "Kommata oder „i. V. m.“?",
+      "back": "Zusammengehörige Normen einer Paragrafenkette mit Kommata (§§ 280 Abs. 1, Abs. 2, 286 Abs. 1 S. 1 BGB); i. V. m. nur für Sinneinheiten, die sich nicht direkt aus dem Gesetz ergeben.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "front": "„gemäß“, „entsprechend“, „vgl.“ – was gilt?",
+      "back": "„Nach“/„gemäß“ = Synonyme. „Entsprechend“ = analoge (nicht unmittelbare) Anwendung. „Vgl.“ grundsätzlich unterlassen.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_FOLIEN1",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "front": "Vorprämisse / Nachprämisse?",
+      "back": "Vorprämisse: warum gerade diese Frage gestellt wird. Nachprämisse: woher die Voraussetzungen für ihre Beantwortung stammen (meist die Definition).",
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 104
+        }
+      ]
+    },
+    {
+      "front": "Die fünf Ebenen im Apple-Gutachten?",
+      "back": "1: A./B. (Anspruch/Ergebnis) – 2: I.–V. (Voraussetzungen) – 3: 1., 2., 3. – 4: a)–d) – 5: aa), bb). Einteilung ist subjektiv; andere kann auch richtig sein.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "front": "Woran scheitert der Anspruch des N im Fall „An apple a day“?",
+      "back": "An V.: Abfall entstand frühestens am Grilltag (erste Belästigung) und wurde am selben Tag beseitigt – also noch innerhalb von 48 Stunden. Kein Anspruch aus § 2 S. 3 KVS.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "front": "Welche Punkte stehen im Apple-Gutachten im Feststellungsstil?",
+      "back": "„a) N ist ein anderes Vereinsmitglied“, „b) Die faulenden Äpfel sind eine Substanz i. S. d. § 4 Abs. 2 S. 1 KVS“, „III. K ist auch Vereinsmitglied“ (IV.: Subsumtion + Ergebnis).",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 3
+        },
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "front": "Warum fehlt bei „innerhalb von 48 Stunden“ die Definition?",
+      "back": "Der Begriff bedarf keiner näheren Konkretisierung – eine Definition wäre überflüssig.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_METHODIK",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "front": "Grillen als „bestimmungsgemäße Nutzung“ – welche Methode steckt dahinter?",
+      "back": "Eine vom Telos bestimmte (teleologische) Auslegung mit Blick auf § 1 KVS (Erholung) – nicht ausdrücklich so bezeichnet, weil eindeutig.",
+      "src": [
+        {
+          "doc": "EXTRA_PROP_APPLE_LOESUNG",
+          "page": 3
+        }
+      ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 990 Abs. 1 BGB",
+      "inhalt": "Haftung des bösgläubigen Besitzers gegenüber dem Eigentümer – Folienbeispiel für Absatz und Satz."
+    },
+    {
+      "norm": "§ 433 Abs. 1 S. 2 BGB",
+      "inhalt": "Der Verkäufer muss die Sache frei von Sach- und Rechtsmängeln verschaffen – Beispiel für die Satzangabe."
+    },
+    {
+      "norm": "§ 433 Abs. 2 BGB",
+      "inhalt": "Der Käufer muss den Kaufpreis zahlen und die Sache abnehmen – Antwortnorm im Folienbeispiel."
+    },
+    {
+      "norm": "§ 426 Abs. 1 S. 1 BGB",
+      "inhalt": "Gesamtschuldner haften untereinander zu gleichen Anteilen, soweit nichts anderes bestimmt ist – Beispiel für den Halbsatz."
+    },
+    {
+      "norm": "§ 309 Nr. 2 lit. a BGB",
+      "inhalt": "AGB-Klauselverbot: Ausschluss oder Einschränkung des Leistungsverweigerungsrechts aus § 320 – Beispiel für Nummer und Buchstabe."
+    },
+    {
+      "norm": "§ 6 Abs. 2 AO",
+      "inhalt": "Aufzählung der Finanzbehörden – Folienbeispiel für Alternative und Variante."
+    },
+    {
+      "norm": "§ 90 BGB",
+      "inhalt": "Sachen sind nur körperliche Gegenstände – Beispiel für „nach/gemäß“."
+    },
+    {
+      "norm": "§§ 280 Abs. 1, 286 Abs. 1 S. 1 BGB",
+      "inhalt": "Schadensersatz wegen Pflichtverletzung und Verzug – Beispiel für eine Normenkette mit Kommata."
+    },
+    {
+      "norm": "§ 303 Abs. 1 StGB",
+      "inhalt": "Sachbeschädigung – Studienbrief-Beispiel für Vor- und Nachprämisse."
+    }
   ]
 }

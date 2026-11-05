@@ -2,7 +2,9 @@
   "id": "bgb-ke7-stellvertretung",
   "moduleId": "55101",
   "ke": 7,
-  "topicIds": ["bgb-ke7-s16"],
+  "topicIds": [
+    "bgb-ke7-s16"
+  ],
   "title": "Die Stellvertretung (§§ 164 ff. BGB)",
   "estMinutes": 180,
   "sections": [
@@ -12,13 +14,55 @@
       "short": "Stellvertretung gibt es nur im rechtsgeschäftlichen Bereich, also bei Abgabe und Entgegennahme von Willenserklärungen – nicht bei Realakten wie der Übergabe. Der unmittelbare Stellvertreter handelt im fremden Namen mit Wirkung für den Vertretenen; der mittelbare Stellvertreter (z.B. Kommissionär, § 383 HGB) handelt im eigenen Namen für fremde Rechnung. Vom Boten unterscheidet sich der Vertreter dadurch, dass er eine eigene Willenserklärung abgibt. Vertretungsmacht kann auf Rechtsgeschäft (Vollmacht), Gesetz oder Rechtsschein beruhen.",
       "long": "## Handeln für einen anderen (S. 6–7)\n\nHandeln andere im **tatsächlichen** Bereich für eine Person, geht es vor allem um Haftung (§§ 278, 831; bei juristischen Personen § 31). Im **rechtsgeschäftlichen** Bereich fragt sich, wen die Rechtswirkungen treffen. **Stellvertretung ist nur bei Abgabe und Entgegennahme von Willenserklärungen möglich.** Bei der Übergabe (z.B. § 929 S. 1) scheidet sie aus, weil die Übergabe ein **Realakt** ist (S. 6). Tipp für Mehrpersonenfälle: zuerst eine Skizze anfertigen (S. 7).\n\n## Unmittelbare und mittelbare Stellvertretung (S. 7–9)\n\n- **Unmittelbare Stellvertretung:** Der Handelnde tritt erkennbar für einen anderen auf; wirtschaftliche **und** rechtliche Folgen treffen den Vertretenen.\n- **Mittelbare Stellvertretung:** Der Handelnde tritt im **eigenen Namen, aber für fremde Rechnung** auf; Rechtsbeziehungen zwischen Auftraggeber und Drittem entstehen nicht. Sie ist im BGB nicht geregelt, ihre Zulässigkeit aber unbestritten (S. 8).\n\n**Beispiel (S. 7):** Die Kunstsammlerin N will ein Schmuckstück verkaufen, ohne dass dies bekannt wird. Lässt sie S **im eigenen Namen** verkaufen, werden S und der Käufer Vertragspartner; S hat den Anspruch aus § 433 Abs. 2. Zwischen N und S besteht ein Auftrag (§ 662), aus dem S den Erlös herausgeben muss.\n\n**Kommission (S. 8–9):** Kommissionär ist, wer es gewerbsmäßig übernimmt, Waren oder Wertpapiere für Rechnung eines anderen (Kommittent) im eigenen Namen zu kaufen oder zu verkaufen (§ 383 HGB). Bei Einkaufs- wie Verkaufskommission wird der Kommittent aus den Ausführungsgeschäften weder berechtigt noch verpflichtet. *Beispiel:* Galerist F verkauft das Bild der Malerin R im eigenen Namen an S – der Kaufvertrag kommt zwischen F und S zustande; R kann Weiterleitung des Erlöses verlangen, F hat einen Provisionsanspruch (§ 396 Abs. 1 HGB). Bedeutsam ist heute vor allem die Effektenkommission der Banken.\n\n## Stellvertreter und Bote (S. 9–10)\n\n- **Stellvertreter** gibt eine **eigene** Willenserklärung im fremden Namen ab.\n- **Erklärungsbote** überbringt eine bereits **fertige**, abschließend formulierte Willenserklärung eines anderen („menschlicher Anrufbeantworter“).\n- Maßgeblich ist, ob dem Handelnden ein **Mindestmaß an Entscheidungsfreiheit** (Auswahl des Partners, Gegenstand, Abschluss überhaupt) verbleibt; abzustellen ist auf den **objektiven Empfängerhorizont** (S. 10).\n\n**Beispiel (S. 9):** A schickt seinen 15-jährigen Neffen N in die Buchhandlung, um ein genau bezeichnetes Lehrbuch zu 36 € zu kaufen – N ist **Bote**. Übermittelt der Bote eine korrekt formulierte Erklärung fehlerhaft, kann der Erklärende nach §§ 120, 119 anfechten.\n\n## Quellen der Vertretungsmacht und gesetzliche Vertretung (S. 10–12)\n\nVertretungsmacht kann **gewillkürt** (Vollmacht, § 167), **gesetzlich** (Minderjährigkeit, Betreuung; organschaftliche Vertretung) oder kraft **Rechtsscheins** bestehen (gesetzlich angeordnet z.B. § 56 HGB; Duldungs- und Anscheinsvollmacht).\n\nBei der **gesetzlichen Vertretung** beruht die Befugnis auf dem Gesetz – vor allem für Personen, die nicht selbst handeln können (Kinder unter sieben Jahren, Betreute). Das Skript unterscheidet:\n\n| Vertretener | Vertreter | Norm (lt. Skript) |\n|---|---|---|\n| minderjährige Kinder | Eltern | § 1629 |\n| Vormundschaft, Betreuung, Pflegschaft | gerichtlich bestellte Person | §§ 1793, 1814, 1882 ff. |\n| e.V. | Vorstand („Stellung eines gesetzlichen Vertreters“) | §§ 26 ff. |\n| AG | Vorstand | §§ 76, 78 AktG |\n| GmbH | Geschäftsführer | § 35 GmbHG |\n| GbR | alle Gesellschafter gemeinschaftlich (Gesamtvertretung) | § 720 Abs. 1 |\n| OHG | jeder Gesellschafter (Einzelvertretung) | § 124 HGB |\n| KG | Komplementäre | § 170 Abs. 1 i.V.m. §§ 161 Abs. 2, 124 Abs. 1 HGB |\n\nDer Gesellschaftsvertrag kann abweichen (§ 720 Abs. 1 Hs. 2). **Beispiel Abitur-GbR (S. 11–12):** Jedes Komitee-Mitglied soll allein vertreten; für Geschäfte über 500 € ist intern die Zustimmung der übrigen einzuholen. Diese Regel betrifft nur die **Geschäftsführungsbefugnis** (rechtliches *Dürfen* im Innenverhältnis); die **Vertretungsmacht** (rechtliches *Können* im Außenverhältnis) bleibt unberührt. Wer intern seine Befugnis überschreitet, verpflichtet die GbR gleichwohl, kann ihr aber u.U. auf Schadensersatz haften.",
       "src": [
-        {"doc": "BGB_7", "page": 6},
-        {"doc": "BGB_7", "page": 7},
-        {"doc": "BGB_7", "page": 8},
-        {"doc": "BGB_7", "page": 9},
-        {"doc": "BGB_7", "page": 10},
-        {"doc": "BGB_7", "page": 11},
-        {"doc": "BGB_7", "page": 12}
+        {
+          "doc": "BGB_7",
+          "page": 6
+        },
+        {
+          "doc": "BGB_7",
+          "page": 7
+        },
+        {
+          "doc": "BGB_7",
+          "page": 8
+        },
+        {
+          "doc": "BGB_7",
+          "page": 9
+        },
+        {
+          "doc": "BGB_7",
+          "page": 10
+        },
+        {
+          "doc": "BGB_7",
+          "page": 11
+        },
+        {
+          "doc": "BGB_7",
+          "page": 12
+        }
+      ],
+      "merksatz": "Der Vertreter spricht selbst, der Bote trägt nur fremde Worte – und der mittelbare Vertreter handelt im eigenen Namen.",
+      "norms": [
+        "§ 929 S. 1 BGB",
+        "§ 278 BGB",
+        "§ 831 BGB",
+        "§ 31 BGB",
+        "§ 662 BGB",
+        "§ 383 HGB",
+        "§ 396 Abs. 1 HGB",
+        "§ 120 BGB",
+        "§ 119 BGB",
+        "§ 167 BGB",
+        "§ 56 HGB",
+        "§ 1629 BGB",
+        "§ 1793 BGB",
+        "§ 26 Abs. 2 BGB",
+        "§ 78 AktG",
+        "§ 35 GmbHG",
+        "§ 720 Abs. 1 BGB",
+        "§ 124 HGB"
       ]
     },
     {
@@ -27,9 +71,26 @@
       "short": "Nach § 164 Abs. 1 treffen die Wirkungen der Erklärung den Vertretenen, wenn die Stellvertretung zulässig ist, der Vertreter eine eigene Willenserklärung im Namen des Vertretenen abgibt und dabei Vertretungsmacht hat. § 164 Abs. 3 regelt die passive Vertretung (Empfangsvertreter). Da die Folgen allein den Vertretenen treffen, ist das Vertretergeschäft für den Vertreter rechtlich neutral; deshalb kann nach § 165 auch ein beschränkt Geschäftsfähiger Vertreter sein.",
       "long": "## Begriff (S. 12)\n\nStellvertretung ist **rechtsgeschäftliches Handeln an Stelle eines anderen mit Wirkung für diesen** (§§ 164 ff.; typisierte Vollmachten wie Prokura und Handlungsvollmacht in §§ 48 ff. HGB). Die durch Rechtsgeschäft erteilte Vertretungsmacht heißt **Vollmacht** (§ 166 Abs. 2 S. 1).\n\n## Voraussetzungen des § 164 Abs. 1 (S. 12)\n\n1. **Zulässigkeit der Stellvertretung** – bei allen nicht höchstpersönlichen Geschäften; ausgeschlossen z.B. bei **Eheschließung** und **Testamentserrichtung**.\n2. **Eigene Willenserklärung** des Vertreters (Abgrenzung zum Boten).\n3. **Im Namen des Vertretenen** (Offenkundigkeit).\n4. **Vertretungsmacht** für das konkrete Geschäft.\n\n## Passive Stellvertretung und Boten beim Empfang (S. 13)\n\n- **Empfangsvertreter** (§ 164 Abs. 3): Mit dem Zugang beim Vertreter geht die Erklärung **gleichzeitig** dem Vertretenen zu.\n- **Empfangsbote** („lebender Briefkasten“): eine zur Entgegennahme geeignete und ermächtigte Person, z.B. Familienangehörige und Hausgehilfen im Haushalt, kaufmännische Angestellte im Unternehmen. Zugang erst, wenn unter normalen Umständen mit der Weiterleitung an den Empfänger zu rechnen ist.\n- **Erklärungsbote:** Ist die Mittelsperson weder Vertreter noch Empfangsbote des Adressaten, ist sie Bote des Erklärenden; dieser trägt das Risiko von Verzögerung und Verlust. Zugang erst, wenn der Bote die Erklärung so in den Machtbereich des Empfängers bringt, dass unter gewöhnlichen Umständen mit Kenntnisnahme zu rechnen ist.\n\n## Wirkungen (S. 13, 18)\n\nHandelt der Vertreter innerhalb seiner Vertretungsmacht, treffen die Rechtsfolgen nach § 164 Abs. 1 und 3 **allein den Vertretenen**. Das Geschäft ist für den Vertreter **rechtlich neutral**; daher kann gemäß **§ 165** auch ein **beschränkt Geschäftsfähiger** Vertreter sein.\n\n**Beispiele:** A bevollmächtigt seine 14-jährige Tochter T, für ihn bei V einen PKW zu kaufen (S. 13). A bevollmächtigt seinen 17-jährigen Neffen N, eine Soundbar für höchstens 350 € zu kaufen; N kauft im Namen des A für 300 € – Vertragspartner sind nur A und V, den N treffen keine Rechtsfolgen (S. 18).\n\nDas schließt nicht aus, dass der Dritte im Einzelfall **eigene Ansprüche gegen den Vertreter** erwirbt (S. 18).",
       "src": [
-        {"doc": "BGB_7", "page": 12},
-        {"doc": "BGB_7", "page": 13},
-        {"doc": "BGB_7", "page": 18}
+        {
+          "doc": "BGB_7",
+          "page": 12
+        },
+        {
+          "doc": "BGB_7",
+          "page": 13
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        }
+      ],
+      "merksatz": "Zulässig, eigene Erklärung, fremder Name, Vertretungsmacht: Dann trifft alles den Vertretenen – den Vertreter trifft nichts.",
+      "norms": [
+        "§ 164 Abs. 1 BGB",
+        "§ 164 Abs. 3 BGB",
+        "§ 165 BGB",
+        "§ 166 Abs. 2 S. 1 BGB",
+        "§ 130 BGB"
       ]
     },
     {
@@ -38,11 +99,35 @@
       "short": "Der Vertreter muss erkennbar im fremden Namen handeln; es genügt, dass sich dies aus den Umständen ergibt (§ 164 Abs. 1 S. 2), maßgeblich ist der objektive Empfängerhorizont. Wird der Vertreterwille nicht erkennbar, wird nach § 164 Abs. 2 der Handelnde selbst Partei (Auslegungsregel). Ausnahmen bzw. Sonderfälle sind das offene und das verdeckte Geschäft für den, den es angeht, sowie das Handeln unter fremdem Namen.",
       "long": "## Regelfall (S. 14)\n\nDer Vertreter muss die Erklärung **im Namen des Vertretenen** abgeben. Das Prinzip **schützt den Geschäftsgegner**, der wissen soll, wer sein Vertragspartner ist. Ausdrücklichkeit ist nicht nötig: Es genügt, dass **die Umstände ergeben**, dass für einen anderen gehandelt wird (§ 164 Abs. 1 S. 2). Abzustellen ist auf den **objektiven Erklärungswert**, wie sich die Erklärung nach Treu und Glauben für den Empfänger darstellt (§§ 133, 157; Lebensverhältnisse, Interessenlage, Geschäftsbereich, Verkehrssitte).\n\n**Unternehmensbezogenes Geschäft (S. 14):** Bei Geschäften mit einem Angestellten soll im Zweifel der **Betriebsinhaber** Vertragspartner werden, wenn sich die Unternehmensbezogenheit aus den Umständen (z.B. Ort des Vertragsschlusses) ergibt.\n\n## § 164 Abs. 2 (S. 14–15)\n\nWird der Wille, im fremden Namen zu handeln, **nicht erkennbar**, wird der Handelnde selbst berechtigt und verpflichtet – auch wenn er das nicht wollte; eine Anfechtung wegen dieses Irrtums schließt die Vorschrift aus. **Beispiel:** Herr Müller bucht im Reisebüro eine Malediven-Reise für 23.000 €, eigentlich für seinen Freund Schulte, sagt das aber nicht – Vertragspartner ist allein Müller.\n\n§ 164 Abs. 2 ist **kein ausnahmsloser Rechtssatz, sondern eine Auslegungsregel**: Ergeben die Umstände, dass trotzdem ein Dritter Partei werden soll, kommt der Vertrag mit diesem zustande (BGHZ 62, 216, 220 f.). Die Vorschrift gilt nicht, wenn feststeht, *wer* Partner sein soll, und nur unklar ist, ob der Erklärende selbst dieser Partner oder dessen Vertreter ist.\n\n## Geschäft für den, den es angeht (S. 15–16)\n\n- **Offenes Geschäft für den, den es angeht:** Der Vertreter gibt zu erkennen, dass er für einen anderen handelt, nennt ihn aber nicht. Nach h.M. zulässig; die Offenkundigkeit ist gewahrt, weil erkennbar im fremden Namen gehandelt wird. **Beispiel:** B (schwarz-gelbe Fanszene) lässt S im Fanshop des F ein Blau-Weiß-Trikot für eine ungenannte Person kaufen; lässt F sich darauf ein, kommt der Vertrag mit B zustande.\n- **Verdecktes Geschäft für den, den es angeht:** Es ist nicht einmal erkennbar, dass für einen anderen gehandelt wird. Der nicht offen Vertretene wird Partei, wenn es dem Geschäftspartner **völlig gleichgültig** ist, wer Partner wird, und der Handelnde **mit Vertretungsmacht** und mit dem Willen handelt, für den Vertretenen abzuschließen. Hauptfall: **dinglicher Erwerb bei Bargeschäften des täglichen Lebens** (BGHZ 114, 74, 80). **Beispiel:** F kauft mit dem Geld der D für diese einen Gaming-Controller bei V, ohne dies zu sagen – Vertrag zwischen D und V; das Eigentum geht nach § 929 S. 1 direkt von V auf D über.\n\n## Handeln unter fremdem Namen (S. 17–18)\n\nJemand benutzt einen fremden Namen **als eigenen**:\n\n1. **Keine Identitätsvorstellung** (erfundener oder Allerweltsname, z.B. „Max Mustermann“): im Zweifel **Eigengeschäft** des Handelnden.\n2. **Identitätsvorstellung** (Vortäuschen, eine bestimmte andere Person zu sein):\n   - Ist dem Gegner die Person **gleichgültig** → Eigengeschäft des Handelnden.\n   - Kommt es ihm auf den **wahren Namensträger** an → **Fremdgeschäft** für den Namensträger; auf einen Vertretungswillen kommt es nach h.M. nicht an. Mit Vertretungsmacht des Namensträgers kommt das Geschäft mit diesem zustande (BGHZ 45, 193, 196); ohne Vertretungsmacht gelten die **§§ 177 ff. jedenfalls entsprechend**.",
       "src": [
-        {"doc": "BGB_7", "page": 14},
-        {"doc": "BGB_7", "page": 15},
-        {"doc": "BGB_7", "page": 16},
-        {"doc": "BGB_7", "page": 17},
-        {"doc": "BGB_7", "page": 18}
+        {
+          "doc": "BGB_7",
+          "page": 14
+        },
+        {
+          "doc": "BGB_7",
+          "page": 15
+        },
+        {
+          "doc": "BGB_7",
+          "page": 16
+        },
+        {
+          "doc": "BGB_7",
+          "page": 17
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        }
+      ],
+      "merksatz": "Wer nicht zeigt, dass er für einen anderen handelt, wird selbst Vertragspartner – es sei denn, dem Gegner ist es gleichgültig.",
+      "norms": [
+        "§ 164 Abs. 1 S. 2 BGB",
+        "§ 164 Abs. 2 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 929 S. 1 BGB",
+        "§ 177 BGB"
       ]
     },
     {
@@ -51,10 +136,33 @@
       "short": "Weil der Vertreter eine eigene Erklärung abgibt, kommt es für Willensmängel sowie Kenntnis und Kennenmüssen grundsätzlich auf seine Person an (§ 166 Abs. 1); anfechtungsberechtigt ist aber der Vertretene. Handelt der Bevollmächtigte nach Weisungen, ist zusätzlich das Wissen des Vertretenen erheblich (§ 166 Abs. 2). Über § 166 Abs. 1 analog muss sich der Geschäftsherr auch das Wissen eines Wissensvertreters zurechnen lassen.",
       "long": "## Grundregel § 166 Abs. 1 (S. 18–19)\n\nIm Gegensatz zum Boten gibt der Vertreter eine **eigene** Erklärung ab. Daher ist bei **Willensmängeln** und bei **Kenntnis oder Kennenmüssen** (Definition „infolge von Fahrlässigkeit“ in § 122 Abs. 2) auf den **Vertreter** abzustellen. Weil die Folgen den Vertretenen treffen, ist der **Vertretene anfechtungsberechtigt**.\n\n**Beispiel (S. 19):** Rechtsanwältin R lässt ihren Assistenten A einen PC kaufen. Täuscht Händler H den A über den Prozessor, kann **R** nach § 123 i.V.m. § 166 Abs. 1 anfechten (Erklärung nach § 143 Abs. 1), obwohl sie selbst nicht getäuscht wurde.\n\nBedeutung hat § 166 Abs. 1 auch beim **gutgläubigen Erwerb** (z.B. §§ 932, 892): Es kommt auf den guten Glauben des Vertreters an.\n\n## Ausnahme § 166 Abs. 2 (S. 19)\n\nHat der Bevollmächtigte **nach Weisungen** des Vollmachtgebers gehandelt, ist dessen Kenntnis bzw. fahrlässige Unkenntnis **neben** der des Vertreters erheblich. Der Vertretene soll sich nicht hinter einem gutgläubigen Vertreter „verstecken“ (BGHZ 51, 141, 147); „Handeln auf Weisung“ ist **weit auszulegen** (BGHZ 50, 364, 368). **Abwandlung:** Wusste R, dass das Modell den falschen Prozessor hat, und schickte A trotzdem los, kann sie nicht wegen der Täuschung des A anfechten.\n\n## Wissensvertreter (S. 20–21)\n\nDer BGH wendet § 166 Abs. 1 bei vergleichbarer Interessenlage **entsprechend** an: Wer einen anderen mit der Erledigung bestimmter Angelegenheiten in eigener Verantwortung betraut, muss sich dessen dabei erlangtes Wissen zurechnen lassen.\n\n**Wissensvertreter** ist jeder, der nach der Arbeitsorganisation des Geschäftsherrn dazu berufen ist, im Rechtsverkehr als dessen Repräsentant bestimmte Aufgaben in eigener Verantwortung zu erledigen und die dabei angefallenen Informationen zur Kenntnis zu nehmen sowie ggf. weiterzuleiten (BGHZ 117, 104, 106). Eine ausdrückliche Bestellung ist nicht nötig.\n\n- **Gemeinde-Fall (nach BGHZ 109, 327):** Eine juristische Person muss sich das Wissen **aller** vertretungsberechtigten Organmitglieder zurechnen lassen, auch wenn das wissende Mitglied am Verkauf des mangelhaften Grundstücks nicht mitgewirkt hat (arglistiges Verschweigen).\n- **Gebrauchtwagen-Fall (nach BGH WM 1996, 824):** Angestellter A der X-GmbH ohne Vertretungsmacht kalkuliert selbstständig Ankaufspreise und weiß von einer Tachomanipulation. Als Wissensvertreter wird sein Wissen der GmbH zugerechnet – sie hatte Kenntnis vom Sachmangel.",
       "src": [
-        {"doc": "BGB_7", "page": 18},
-        {"doc": "BGB_7", "page": 19},
-        {"doc": "BGB_7", "page": 20},
-        {"doc": "BGB_7", "page": 21}
+        {
+          "doc": "BGB_7",
+          "page": 18
+        },
+        {
+          "doc": "BGB_7",
+          "page": 19
+        },
+        {
+          "doc": "BGB_7",
+          "page": 20
+        },
+        {
+          "doc": "BGB_7",
+          "page": 21
+        }
+      ],
+      "merksatz": "Bei Willensmängeln zählt der Kopf des Vertreters – wer Weisungen gibt, muss sich sein eigenes Wissen anrechnen lassen.",
+      "norms": [
+        "§ 166 Abs. 1 BGB",
+        "§ 166 Abs. 2 BGB",
+        "§ 119 BGB",
+        "§ 123 BGB",
+        "§ 143 Abs. 1 BGB",
+        "§ 122 Abs. 2 BGB",
+        "§ 932 BGB",
+        "§ 892 BGB"
       ]
     },
     {
@@ -63,10 +171,38 @@
       "short": "Die Vollmacht wird nach § 167 durch empfangsbedürftige, auch konkludente Willenserklärung gegenüber dem Vertreter (Innenvollmacht) oder dem Geschäftspartner (Außenvollmacht) erteilt; sie ist grundsätzlich formfrei. Man unterscheidet Spezial-, Art- (Gattungs-) und Generalvollmacht sowie zwei Formen der Untervollmacht. Der Umfang wird durch Auslegung ermittelt. Die Vollmacht ist abstrakt: Sie ist vom Grundverhältnis (z.B. Auftrag) zu trennen – Können im Außenverhältnis, Dürfen im Innenverhältnis.",
       "long": "## Erteilung (S. 21)\n\nVollmacht = durch Rechtsgeschäft erteilte Vertretungsmacht (Legaldefinition § 166 Abs. 2). Erteilung nach **§ 167 Abs. 1** durch **empfangsbedürftige Willenserklärung** gegenüber\n- dem **Vertreter** (interne Vollmacht/Innenvollmacht – der praktische Regelfall; *Beispiel:* A bevollmächtigt S, eine Bluetooth-Box bei V auszusuchen und zu kaufen) oder\n- dem **Geschäftspartner** (externe Vollmacht/Außenvollmacht).\n\nAuch **konkludente** Erteilung ist möglich. Die Bevollmächtigung ist **grundsätzlich formlos**; Ausnahmen bestehen kraft Gesetzes (z.B. § 1945 Abs. 3) oder aus dem **Zweck der Formvorschrift** des Hauptgeschäfts – formbedürftig sind etwa die **unwiderrufliche** Vollmacht zum Abschluss eines nach § 311b Abs. 1 formbedürftigen Vertrags und die Vollmacht zur formbedürftigen Bürgschaft.\n\nBei der Außenvollmacht entsteht ein **Vertrauenstatbestand**, den §§ 170 ff. schützen; auch auf andere Weise erzeugtes Vertrauen schützen §§ 171–173. **Beispiel (S. 21):** A bevollmächtigt B zum Kauf eines Gemäldes und händigt ihm eine Vollmachtsurkunde aus; er widerruft, vergisst aber, die Urkunde zurückzuverlangen. Kauft B unter Vorlage der Urkunde, kommt der Vertrag trotz Erlöschens (§ 168) wegen **§ 172** mit A zustande.\n\n## Arten der Vollmacht (S. 22–23)\n\n- **Spezialvollmacht:** für ein bestimmtes Rechtsgeschäft (*K bittet S, einen gebrauchten PKW für höchstens 12.500 € zu kaufen – ein LKW-Kauf liegt außerhalb*).\n- **Art- oder Gattungsvollmacht:** für eine bestimmte Art von Geschäften (Verkäufer, Schaffner, Kellner; der Warenhausverkäufer darf Kaufverträge in seiner Abteilung schließen, aber keine Verkäufer einstellen).\n- **Generalvollmacht:** für alle oder fast alle Geschäfte; auch sie gilt nicht völlig uneingeschränkt, sondern ist nach Treu und Glauben unter Berücksichtigung der aufgetragenen Geschäfte auszulegen. *Beispiel:* Der Generalbevollmächtigte B einer Geflügelfarm verkauft die Kundenkartei an die Konkurrentin C – nicht gedeckt, da außerhalb der gewöhnlichen Geschäfte.\n- **Prokura und Handlungsvollmacht** (§§ 48 ff. HGB) sind handelsrechtliche Sonderformen mit gesetzlich festgelegtem Umfang.\n- **Untervollmacht** (BGHZ 32, 250): (a) Der Unterbevollmächtigte handelt **im Namen des Hauptvertreters** („Vertreter des Vertreters“) – unmittelbar wirkt das Geschäft nur für den Hauptvertreter, mittelbar „durch ihn hindurch“ für den Geschäftsherrn; (b) der Hauptvertreter bestellt den Unterbevollmächtigten **im Namen des Geschäftsherrn** – bei wirksamen Vollmachten trifft die Wirkung den Geschäftsherrn unmittelbar.\n\n## Umfang und Innenverhältnis (S. 23–24)\n\nDer Umfang ist nach **§§ 133, 157** aus der Erklärung des Vollmachtgebers zu ermitteln (Wortlaut, Begleitumstände, Zweck, vor allem das **zugrunde liegende Rechtsverhältnis**).\n\nDie Vollmacht ist **abstrakt**: Sie ist vom Grundverhältnis (Auftrag § 662, Dienst-/Arbeitsvertrag § 611, Geschäftsbesorgung § 675, Gesellschaftsvertrag § 705) zu trennen und kann wirksam sein, obwohl das Grundverhältnis unwirksam ist (Verkehrsschutz). Vollmacht = **rechtliches Können** im Außenverhältnis; Grundverhältnis = **rechtliches Dürfen** im Innenverhältnis.\n\n**Fall (S. 24):** K bittet seine Freundin S, bei Händler B einen PKW (22.900 €) für ihn zu kaufen, wenn sie den Preis herunterhandeln kann; S kauft für 21.500 € und verlangt 30 € Fahrtkosten. Wert, Risiko und erkennbares Interesse des K sprechen für Rechtsbindungswillen – es liegt ein **Auftrag** (kein bloßes Gefälligkeitsverhältnis) vor; S kann Aufwendungsersatz nach **§ 670** verlangen. Neben dem Auftrag wurde eine (Innen-)Vollmacht erteilt: **zwei Rechtsgeschäfte**.",
       "src": [
-        {"doc": "BGB_7", "page": 21},
-        {"doc": "BGB_7", "page": 22},
-        {"doc": "BGB_7", "page": 23},
-        {"doc": "BGB_7", "page": 24}
+        {
+          "doc": "BGB_7",
+          "page": 21
+        },
+        {
+          "doc": "BGB_7",
+          "page": 22
+        },
+        {
+          "doc": "BGB_7",
+          "page": 23
+        },
+        {
+          "doc": "BGB_7",
+          "page": 24
+        }
+      ],
+      "merksatz": "Vollmacht ist das Können nach außen, der Auftrag das Dürfen nach innen – beide sind voneinander abstrakt.",
+      "norms": [
+        "§ 167 Abs. 1 BGB",
+        "§ 166 Abs. 2 BGB",
+        "§ 1945 Abs. 3 BGB",
+        "§ 311b Abs. 1 BGB",
+        "§ 172 BGB",
+        "§ 168 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 662 BGB",
+        "§ 670 BGB",
+        "§ 611 BGB",
+        "§ 675 BGB",
+        "§ 705 BGB"
       ]
     },
     {
@@ -75,10 +211,37 @@
       "short": "Die Vollmacht erlischt durch Fristablauf, im Zweifel mit dem Ende des Grundverhältnisses (§ 168 S. 1) und durch isolierten Widerruf (§ 168 S. 2); postmortale Vollmachten wirken über den Tod hinaus. Nach Erlöschen handelt der Vertreter ohne Vertretungsmacht – außer Dritte werden nach §§ 170–173 geschützt. Die Vollmacht kann angefochten werden; nach h.M. auch nach Vornahme des Vertretergeschäfts, Folge sind dann §§ 177 ff.",
       "long": "## Erlöschensgründe (S. 25–26)\n\n- **Fristablauf:** Der Vollmachtgeber kann die Dauer unabhängig vom Grundverhältnis bestimmen.\n- **Ende des Grundverhältnisses (§ 168 S. 1):** im Zweifel erlischt auch die Vollmacht – ausnahmsweise Durchbrechung der Abstraktion, aber nur **Auslegungsregel**. *Beispiel:* L widerruft gegenüber T „den Auftrag zum Kauf der Stute Wind“ (§ 671). Kauft T dennoch im Namen des L, wird L nicht Partner der M – die Vollmacht ist nach § 168 erloschen.\n- **Isolierter Widerruf (§ 168 S. 2):** Die Vollmacht kann auch unabhängig vom fortbestehenden Grundverhältnis widerrufen werden (*der Prokurist bleibt Arbeitnehmer, nur ohne Vertretungsmacht*).\n- **Unwiderruflichkeit:** Nach h.M. vertraglich vereinbar; dennoch stets **aus wichtigem Grund** widerruflich. Eine **isolierte** Vollmacht ohne Kausalverhältnis ist trotz Unwiderruflichkeitsklausel frei widerruflich. Eine **Generalvollmacht** kann für sich allein nicht unwiderruflich erteilt werden.\n- **Postmortale Vollmacht:** gilt über den Tod hinaus; der Bevollmächtigte vertritt die Erben, die nach § 168 S. 2 widerrufen können. *Beispiel (nach BGH NJW 1969, 1245):* Nichte I verkauft aufgrund postmortaler Vollmacht ein Nachlassgrundstück im Schwarzwald – die Erben (§ 1922) sind gebunden.\n\n## Folgen des Erlöschens und Rechtsscheinschutz (S. 26–27)\n\nDie Vertretungsmacht entfällt grds. **ex nunc**; handelt der bisherige Vertreter weiter, gelten die **§§ 177 ff.** Ausnahmen (§§ 170–173):\n- **§ 170:** Eine **Außenvollmacht** bleibt dem Dritten gegenüber in Kraft, bis ihm das Erlöschen vom Vollmachtgeber angezeigt wird.\n- **§ 172:** Legt der Vertreter eine ihm ausgehändigte **Vollmachtsurkunde** vor, wird der Dritte geschützt. Vorzulegen ist die Urkunde selbst (Urschrift oder Ausfertigung); eine **Abschrift genügt nach BGH nicht** (BGHZ 102, 60), kann aber einen Rechtsscheintatbestand begründen. Der BGH sieht in §§ 171–173 Anwendungsfälle des Grundsatzes, dass, wer wissentlich den Rechtsschein einer Vollmacht setzt, gegenüber gutgläubigen Dritten daran gebunden ist.\n\n## Anfechtung der Vollmacht (S. 27–28)\n\nDie Bevollmächtigung ist eine empfangsbedürftige Willenserklärung und daher anfechtbar (Wirkung § 142 Abs. 1).\n- **Vor Vornahme des Vertretergeschäfts** unproblematisch; Anfechtungsgegner ist bei der Innenvollmacht der Vertreter, bei der Außenvollmacht der Geschäftspartner. Nötig ist sie nur bei unwiderruflicher Vollmacht; sonst genügt Widerruf (der die Anfechtbarkeit aber nicht ausschließt).\n- **Nach Vornahme** streitig: Die Anfechtung wirkt ex tunc → der Vertreter war falsus procurator, §§ 177 ff.; der Partner hat ggf. den Anspruch aus **§ 179 Abs. 2** gegen den Vertreter, dieser Regress nach **§ 122** gegen den Vertretenen. *Eine Ansicht* verneint die rückwirkende Anfechtung (§ 166 stelle auf den Vertreter ab; der Vertretene stünde sonst besser als bei Eigenhandeln). Die **h.M.** bejaht die Anfechtbarkeit, weil Vertretergeschäft und Bevollmächtigung nach dem Abstraktionsprinzip strikt zu trennen sind.\n- **Anfechtungsgegner:** Bei der Außenvollmacht unstreitig der Geschäftspartner (§ 143 Abs. 3 S. 1). Sonst: Wahlrecht (wie § 167 Abs. 1) / Erklärung gegenüber Vertreter **und** Geschäftspartner / vermittelnd: Anfechtung gegenüber dem Vertreter plus Information des Geschäftspartners.\n- **Kundgemachte Innenvollmacht (Beispiel S. 28):** A will Mindestpreis 6.500 € nennen, sagt aber 5.600 €; B verkauft unter Vorlage der Urkunde für 5.600 € an D. *Eine Ansicht:* keine Anfechtung, da die Kundgabe bloße Wissenserklärung und Rechtsscheinhaftung nach §§ 171, 172 ist. *Andere Ansicht:* Gleichstellung mit der Innenvollmacht, Anfechtung möglich, da der Partner sonst besser stünde als bei einer Außenvollmacht.",
       "src": [
-        {"doc": "BGB_7", "page": 25},
-        {"doc": "BGB_7", "page": 26},
-        {"doc": "BGB_7", "page": 27},
-        {"doc": "BGB_7", "page": 28}
+        {
+          "doc": "BGB_7",
+          "page": 25
+        },
+        {
+          "doc": "BGB_7",
+          "page": 26
+        },
+        {
+          "doc": "BGB_7",
+          "page": 27
+        },
+        {
+          "doc": "BGB_7",
+          "page": 28
+        }
+      ],
+      "merksatz": "Endet das Grundverhältnis, endet im Zweifel die Vollmacht; doch wer einen Rechtsschein gesetzt hat, muss ihn selbst wieder einsammeln.",
+      "norms": [
+        "§ 168 S. 1 BGB",
+        "§ 168 S. 2 BGB",
+        "§ 671 BGB",
+        "§ 1922 BGB",
+        "§ 170 BGB",
+        "§ 171 BGB",
+        "§ 172 Abs. 1 BGB",
+        "§ 173 BGB",
+        "§ 142 Abs. 1 BGB",
+        "§ 143 Abs. 3 S. 1 BGB",
+        "§ 179 Abs. 2 BGB",
+        "§ 122 BGB"
       ]
     },
     {
@@ -87,11 +250,36 @@
       "short": "Fehlt eine Vollmacht, kann der Vertretene in Anlehnung an §§ 170 ff. gleichwohl gebunden sein, wenn er einen Rechtsschein zurechenbar veranlasst hat und der Dritte schutzwürdig vertraut. Bei der Duldungsvollmacht weiß der Vertretene vom wiederholten Auftreten des Vertreters und schreitet nicht ein; bei der Anscheinsvollmacht weiß er nichts, hätte es aber bei pflichtgemäßer Sorgfalt erkennen und verhindern können. Nach h.M. wirken beide wie eine rechtsgeschäftliche Vollmacht; eine Anfechtung lehnt die noch h.L. ab.",
       "long": "## Überblick (S. 28–29)\n\nDarf der Dritte aufgrund des Erscheinungsbildes von einer Vollmacht ausgehen und hat der „Vertretene“ dazu beigetragen, kann der Dritte schutzwürdiger sein. In Anlehnung an die Rechtsgedanken der **§§ 170 ff.** wurden Duldungs- und Anscheinsvollmacht entwickelt; Abgrenzung und Rechtsfolgen sind nicht abschließend geklärt.\n\n## Duldungsvollmacht (S. 29–30)\n\n1. **Subsidiarität:** keine gesetzliche oder rechtsgeschäftliche Vertretungsmacht.\n2. **Rechtsschein:** jemand tritt während einer gewissen Dauer und wiederholt für den Geschäftsherrn als Vertreter auf.\n3. **Zurechenbare Veranlassung:** der Geschäftsherr **wusste** davon und ist **nicht eingeschritten**, obwohl ihm das möglich gewesen wäre.\n4. **Vertrauen des Dritten:** er kannte das Verhalten und die Duldung zur Zeit des Geschäfts; Kausalität für seine Willenserklärung.\n5. **Rechtsfolge:** Vertretungsmacht (h.M.); keine Anfechtung des Rechtsscheins.\n\nDer Vertretene muss **geschäftsfähig** sein – überwunden wird nur die fehlende Vertretungsmacht. **Streitig** ist, ob die Duldungsvollmacht Rechtsscheintatbestand oder konkludent erteilte (dann anfechtbare) Vollmacht ist. Der BGH grenzt sie von der stillschweigenden Bevollmächtigung ab: Es „haftet“, wer das Handeln eines Unbefugten kennt und duldet, falls der Gegner dies nach Treu und Glauben als Bevollmächtigung werten darf; bloße Kenntnis reicht nicht, hinzukommen muss der **Entschluss, nicht einzuschreiten** (WM 1988, 216 f.). Das Skript meint, ein Platz *zwischen* konkludenter Vollmacht und Anscheinsvollmacht komme der Duldungsvollmacht nicht zu; ergibt die Duldung eine Billigung, kann im Wege der Auslegung eine **konkludente Bevollmächtigung** vorliegen. *Beispiel (nach LAG Baden-Württemberg, BB 1961, 132):* Der Ehemann nimmt in Anwesenheit seiner Frau, die von seinen früheren Verhandlungen weiß, das Auflösungsangebot ihres Arbeitgebers an, ohne dass sie widerspricht – spätestens darin liegt eine rechtsgeschäftlich erteilte Vollmacht.\n\n## Anscheinsvollmacht (S. 31–32)\n\n1. **Subsidiarität** (keine Vertretungsmacht).\n2. **Rechtsschein:** wiederholtes Auftreten von gewisser Dauer als Vertreter.\n3. **Zurechenbare Veranlassung:** der Geschäftsherr **wusste nichts**, hätte es aber **bei pflichtgemäßer Sorgfalt erkennen und verhindern können**.\n4. **Vertrauen:** der Dritte durfte nach Treu und Glauben annehmen, der Geschäftsherr dulde und billige das Verhalten; Kausalität.\n5. **Rechtsfolge:** Vertretungsmacht (h.M.); keine Anfechtung.\n\nAuch die Anscheinsvollmacht hilft nicht über fehlende **Geschäftsfähigkeit** des Vertretenen hinweg. **Streitig:** Genügt bloße Veranlassung oder bedarf es eines **Verschuldens**? Früher verlangte der BGH Verschulden (BGHZ 5, 111, 116); dagegen spricht, dass die gesetzlichen Rechtsscheintatbestände (§§ 171 ff. BGB, § 56 HGB) kein Verschulden voraussetzen. Das Vertrauen muss **objektiv** (Rechtsschein, i.d.R. gewisse Häufigkeit des unbeanstandeten Handelns) und **subjektiv** berechtigt sein (fehlt bei Kenntnis oder Kennenmüssen des Vollmachtmangels) und **ursächlich** sein.\n\n**Rechtsfolgen:** Teilweise wurde die Lehre abgelehnt (Flume). Nach ganz h.M. steht die Bindungswirkung der einer rechtsgeschäftlichen Vollmacht gleich (BGHZ 86, 273, 276): Der Vertretene wird in entsprechender Anwendung des § 164 **Vertragspartei** und haftet auf **Erfüllung**, nicht bloß auf das Vertrauensinteresse. (Die Formulierung des Skripts auf S. 32, der „Geschäftsgegner“ werde Vertragspartei, meint der Sache nach den Vertretenen.)\n\n## Anfechtung von Rechtsscheinvollmachten (S. 32)\n\nDie **noch h.L.** lehnt eine Anfechtung ab, weil der Rechtsschein auf tatsächlichem Handeln beruhe und §§ 119 ff. nicht passen. Eine **andere Stimme** lässt sie zu: Die Rechtsscheinvollmacht könne nicht weiter reichen als eine tatsächliche Vollmacht.",
       "src": [
-        {"doc": "BGB_7", "page": 28},
-        {"doc": "BGB_7", "page": 29},
-        {"doc": "BGB_7", "page": 30},
-        {"doc": "BGB_7", "page": 31},
-        {"doc": "BGB_7", "page": 32}
+        {
+          "doc": "BGB_7",
+          "page": 28
+        },
+        {
+          "doc": "BGB_7",
+          "page": 29
+        },
+        {
+          "doc": "BGB_7",
+          "page": 30
+        },
+        {
+          "doc": "BGB_7",
+          "page": 31
+        },
+        {
+          "doc": "BGB_7",
+          "page": 32
+        }
+      ],
+      "merksatz": "Wissen und dulden ergibt Duldungsvollmacht; nicht wissen, aber wissen können ergibt Anscheinsvollmacht.",
+      "norms": [
+        "§ 170 BGB",
+        "§ 171 BGB",
+        "§ 172 BGB",
+        "§ 173 BGB",
+        "§ 56 HGB",
+        "§ 164 BGB",
+        "§ 119 BGB"
       ]
     },
     {
@@ -100,10 +288,32 @@
       "short": "§ 181 untersagt dem Vertreter das Selbstkontrahieren und die Mehrvertretung, es sei denn, das Geschäft ist ihm gestattet oder besteht ausschließlich in der Erfüllung einer Verbindlichkeit. Ein Verstoß führt zur schwebenden Unwirksamkeit; der Vertretene kann genehmigen. Die Rechtsprechung versteht § 181 heute nicht mehr rein formal, sondern zweckorientiert und reduziert ihn z.B. bei lediglich rechtlich vorteilhaften Geschäften.",
       "long": "## Zwei Formen (S. 33–34)\n\n- **Selbstkontrahieren:** Der Vertreter schließt im Namen des Vertretenen ein Geschäft **mit sich selbst**. *Beispiel:* L soll den PKW des G möglichst günstig – gemeint: zu einem möglichst guten Preis – für G verkaufen und ist bevollmächtigt; er kauft ihn als Vertreter des G selbst zu einem extrem niedrigen Preis.\n- **Mehrvertretung:** Der Vertreter handelt **für beide Seiten**. *Beispiel:* F und K bevollmächtigen beide A, Angebot und Annahme für sie zu erklären.\n\nGrund des Verbots: drohende **Interessenkollisionen**, die zum Missbrauch der Vertretungsmacht verführen (G will einen hohen, L einen niedrigen Preis).\n\n## Rechtsfolge (S. 33–34)\n\nDas Geschäft ist **schwebend unwirksam** und kann durch **Genehmigung** des Betroffenen (§ 184) voll wirksam werden; bei Verweigerung ist es nichtig (BGHZ 65, 123, 125 f.).\n\n## Formale Ordnungsvorschrift oder Schutznorm? (S. 34–35)\n\nFrüher: **formale Ordnungsvorschrift** – jedes nicht gestattete Insichgeschäft außerhalb der Erfüllung einer Verbindlichkeit war unzulässig, ohne Rücksicht auf eine konkrete Interessenkollision (RGZ 157, 24; BGHZ 50, 8). Seit Anfang der 70er Jahre (BGHZ 59, 236) gilt das Verbot bei abgrenzbaren Fallgruppen **nicht**, wenn keine Interessenkollision droht, insbesondere wenn das Geschäft dem Vertretenen **lediglich einen rechtlichen Vorteil** bringt (Parallele zu § 107; **teleologische Reduktion**). Daher können sorgeberechtigte Eltern ihrem beschränkt geschäftsfähigen Kind etwas **schenken** (BGHZ 94, 232). Die Verweise in §§ 1629 Abs. 2 S. 1, 1824 Abs. 2 stellen klar, dass § 181 im Übrigen unberührt bleibt; dann kann eine **Ergänzungspflegschaft** (§§ 1809 ff.) nötig werden. Heute versteht die überwiegende Ansicht § 181 als **Schutznorm gegen Interessenkonflikte**.\n\n## Gestattung (S. 35)\n\nEinseitiges, empfangsbedürftiges, **formfreies** Rechtsgeschäft; der Sache nach eine **Erweiterung der Vollmacht**. Sie kann **konkludent** erfolgen (z.B. wenn das Geschäft nach den Umständen nur als Insichgeschäft möglich ist) und auch **nachträglich** analog §§ 177, 184 erteilt werden. *Beispiele:* Veräußerer und Erwerber bevollmächtigen bewusst dieselbe Person für die Auflassung; bei der Ein-Personen-GmbH ist die Befreiung des Geschäftsführers üblich (vgl. § 35 Abs. 3 GmbHG). Zuständig ist der Vertretene; bei der Auslegung ist Vorsicht geboten. Bei gesetzlicher Vertretung kann die Gestattung durch Gesetz erfolgen; das Betreuungsgericht kann sie dem gesetzlichen Vertreter Minderjähriger nach BGH **nicht** erteilen (BGHZ 21, 229, 234).\n\n## Erfüllung einer Verbindlichkeit (S. 35–36)\n\nGemeint ist nur ein **Erfüllungsgeschäft**; die Verbindlichkeit muss bereits **wirksam bestehen** und darf nicht erst durch die Erfüllung bindend werden. *Beispiel:* Testamentsvollstrecker T entnimmt dem Nachlass das ihm vermachte Vermächtnis von 5.000 € – nach § 181 wirksam.",
       "src": [
-        {"doc": "BGB_7", "page": 33},
-        {"doc": "BGB_7", "page": 34},
-        {"doc": "BGB_7", "page": 35},
-        {"doc": "BGB_7", "page": 36}
+        {
+          "doc": "BGB_7",
+          "page": 33
+        },
+        {
+          "doc": "BGB_7",
+          "page": 34
+        },
+        {
+          "doc": "BGB_7",
+          "page": 35
+        },
+        {
+          "doc": "BGB_7",
+          "page": 36
+        }
+      ],
+      "merksatz": "Mit sich selbst verhandeln ist tabu – außer es ist gestattet, dient nur der Erfüllung oder bringt lediglich rechtlichen Vorteil.",
+      "norms": [
+        "§ 181 BGB",
+        "§ 184 BGB",
+        "§ 107 BGB",
+        "§ 177 BGB",
+        "§ 1629 Abs. 2 S. 1 BGB",
+        "§ 35 Abs. 3 GmbHG",
+        "§ 433 Abs. 1 S. 1 BGB"
       ]
     },
     {
@@ -112,10 +322,33 @@
       "short": "Ohne Vertretungsmacht handelt, wer nie bevollmächtigt war, die Vollmacht überschreitet, dessen Vollmacht angefochten wurde oder wer nach Erlöschen weiterhandelt. Der Vertrag ist schwebend unwirksam (§ 177 Abs. 1) und wird durch Genehmigung rückwirkend wirksam (§ 184 Abs. 1). Der Dritte kann den Vertretenen zur Erklärung auffordern (§ 177 Abs. 2: zwei Wochen, sonst gilt die Genehmigung als verweigert) oder bis zur Genehmigung widerrufen, wenn er den Mangel nicht kannte (§ 178). Bei teilbarer Überschreitung gilt § 139.",
       "long": "## Fallgruppen (S. 36–37)\n\nDer **falsus procurator** dringt in den Geschäftskreis eines anderen ein; §§ 177 ff. lösen die Interessenkonflikte.\n1. **Von vornherein ohne Vertretungsmacht** – *Beispiel 1:* D schließt im Namen der E mit G einen Kaufvertrag, obwohl E ihn nie bevollmächtigt hat.\n2. **Überschreitung** des Umfangs – *Beispiel 2:* N soll für M sechs Krimis kaufen und kauft zusätzlich Thomas Manns gesammelte Werke.\n3. **Wirksam angefochtene Vollmacht** – *Beispiel 3:* A ficht die Vollmacht des S nach § 123 an; wegen § 142 Abs. 1 war S bei Vertragsschluss Vertreter ohne Vertretungsmacht.\n4. **Handeln nach Erlöschen** – *Beispiel 4:* V schließt nach dem Widerruf seiner Vollmacht im Namen seines Sohnes S einen Mietvertrag.\n\n## Rechtsverhältnis Vertretener – Dritter (S. 37–38)\n\n- **§ 177 Abs. 1:** Der Vertrag ist **schwebend unwirksam** (Parallele §§ 108 f.). Genehmigt der Vertretene, wird er Vertragspartner; verweigert er, ist der Vertrag **endgültig unwirksam**.\n- **Erklärungsempfänger:** Vertreter oder Dritter (§§ 177 Abs. 1, 182 Abs. 1). Genehmigung auch **konkludent**, regelmäßig wenn der Genehmigende die Unwirksamkeit kennt oder mit ihr rechnet und sein Verhalten den Willen zeigt, das Geschäft verbindlich zu machen (BGH NJW 2005, 1488). Fehlt das Erklärungsbewusstsein, genügt es nach BGHZ 128, 41, 49, dass er bei verkehrsüblicher Sorgfalt hätte erkennen können, dass sein Verhalten als Genehmigung verstanden wird, und der Empfänger es so verstanden hat. **Schweigen** genügt nur, wenn der Vertretene nach Treu und Glauben zum Widerspruch verpflichtet war (z.B. wenn ein Ehegatte für den anderen auftritt).\n- **Rückwirkung:** § 184 Abs. 1 – ex tunc.\n- **Widerruf des Dritten (§ 178):** bis zur Genehmigung möglich, aber nur, wenn er den Mangel der Vertretungsmacht bei Vertragsschluss **nicht kannte**.\n- **Aufforderung (§ 177 Abs. 2):** Danach kann die Genehmigung (bzw. Verweigerung) nur noch **gegenüber dem Dritten** und nur binnen **zwei Wochen** nach Zugang der Aufforderung erklärt werden; sonst gilt sie als **verweigert**.\n\n*Zu Beispiel 1 (S. 38):* Der Vertrag D/G ist schwebend unwirksam; genehmigt E, besteht er zwischen E und G; verweigert sie, ist G weder berechtigt noch verpflichtet.\n\n## Teilweise Überschreitung (S. 38–39)\n\nLässt sich das Geschäft in einen gedeckten und einen ungedeckten Teil aufgliedern, entscheidet **§ 139** (im Zweifel Gesamtnichtigkeit). Bei **unteilbarem** Geschäft gelten §§ 177 ff. für das Ganze; bei **teilbarem** ist der gedeckte Teil wirksam, für den Rest gelten §§ 177 ff. einschließlich § 179. *Beispiel 5:* M genehmigt den Thomas-Mann-Kauf nicht. Beide Teile können selbstständig bestehen und wären von M und B bei Kenntnis aufrechterhalten worden – wirksam ist der Kauf der Krimis; wegen der Werke Thomas Manns kann B aus § 179 gegen N vorgehen.\n\n## Boten ohne Botenmacht (S. 39)\n\nEin Bote, der eine Erklärung **vorsätzlich falsch** übermittelt, haftet nach h.M. analog §§ 177 ff. wie ein Vertreter ohne Vertretungsmacht; ebenso, wer sich **wissentlich ohne Auftrag** als Bote ausgibt. *Beispiel:* D legt der Mofahändlerin V ein gefälschtes Schreiben der X vor – kein Vertrag X/V; D haftet analog §§ 177 ff.",
       "src": [
-        {"doc": "BGB_7", "page": 36},
-        {"doc": "BGB_7", "page": 37},
-        {"doc": "BGB_7", "page": 38},
-        {"doc": "BGB_7", "page": 39}
+        {
+          "doc": "BGB_7",
+          "page": 36
+        },
+        {
+          "doc": "BGB_7",
+          "page": 37
+        },
+        {
+          "doc": "BGB_7",
+          "page": 38
+        },
+        {
+          "doc": "BGB_7",
+          "page": 39
+        }
+      ],
+      "merksatz": "Ohne Vollmacht schwebt der Vertrag: Genehmigung wirkt zurück, zwei Wochen Schweigen nach Aufforderung heißt Verweigerung.",
+      "norms": [
+        "§ 177 Abs. 1 BGB",
+        "§ 177 Abs. 2 BGB",
+        "§ 178 BGB",
+        "§ 182 Abs. 1 BGB",
+        "§ 184 Abs. 1 BGB",
+        "§ 139 BGB",
+        "§ 142 Abs. 1 BGB",
+        "§ 108 BGB"
       ]
     },
     {
@@ -124,27 +357,187 @@
       "short": "Verweigert der Vertretene die Genehmigung, haftet der Vertreter verschuldensunabhängig: bei Kenntnis des Mangels nach Wahl des Dritten auf Erfüllung oder Schadensersatz (§ 179 Abs. 1), sonst auf das negative Interesse, begrenzt durch das positive (§ 179 Abs. 2). Die Haftung entfällt, wenn der Dritte den Mangel kannte oder kennen musste oder der Vertreter beschränkt geschäftsfähig war und ohne Zustimmung handelte (§ 179 Abs. 3). Greift eine Anscheinsvollmacht, scheidet § 179 aus. Beim Missbrauch der Vertretungsmacht bleibt der Vertretene grundsätzlich gebunden – außer bei Kollusion (§ 138 Abs. 1) und Evidenz.",
       "long": "## Grundlagen (S. 40)\n\nDie Haftung aus § 179 ist eine **verschuldensunabhängige** Vertrauens- bzw. **Garantenhaftung** aus gesetzlichem Schuldverhältnis: Wer als Vertreter auftritt, erweckt das Vertrauen, das Geschäft komme mit dem Vertretenen zustande. § 179 gilt bei **gesetzlicher** wie bei rechtsgeschäftlicher Vertretung und auch bei bloß **teilweiser** Unwirksamkeit wegen Überschreitung (BGHZ 103, 275).\n\n## Sonderfälle (S. 40–42)\n\n- **Untervertreter:** Tritt er offen als Vertreter des Hauptvertreters auf, haftet er nach § 179 nur bei Mängeln **seiner** Untervollmacht, nicht bei Mängeln der Hauptvollmacht (BGHZ 32, 250; überwiegende Ansicht, a.A. MünchKomm). Tritt er dagegen auf, als sei er **unmittelbar** vom Geschäftsherrn bevollmächtigt, haftet er aus § 179, weil das Gesetz das Risiko unklarer Vollmachtsverhältnisse dem Vertreter zuweist (BGHZ 68, 391).\n- **Geschäft für den, den es angeht / Benennungsvorbehalt:** Weigert sich der Vertreter, den Vertretenen zu benennen, und scheitert daran die Durchführung, haftet er analog § 179 (BGHZ 129, 136) – nach BGH allerdings **ohne Wahlrecht, nur auf Schadensersatz**.\n- **Nicht existierender Vertretener:** § 179 entsprechend (BGHZ 105, 283).\n\n## § 179 Abs. 1 – Vertreter kannte den Mangel (S. 42–43)\n\nHaftung **nach Wahl des Dritten auf Erfüllung oder Schadensersatz** wegen Nichterfüllung (nach h.L. Wahlschuld, §§ 262 ff.). Wählt der Dritte Erfüllung, wird der Vertreter wie eine Vertragspartei behandelt – im Thomas-Mann-Beispiel stehen dem N bei Mängeln auch Nacherfüllung, Rücktritt oder Minderung zu (§§ 437 ff.). Häufig ist Erfüllung durch den Vertreter aussichtslos; der Schadensersatz richtet sich auf das **positive Interesse**, bei gegenseitigen Verträgen nach der **Differenztheorie**. *Beispiel:* Kaufpreis 800 €, Marktwert der Werke 600 € → B verlangt 200 € und behält die Werke.\n\n## § 179 Abs. 2 – Vertreter kannte den Mangel nicht (S. 43)\n\nHaftung nur auf das **negative Interesse** (Vertrauensschaden), berechnet wie bei § 122 und **begrenzt durch das positive Interesse**. Auf Verschulden oder Erkennbarkeit des Mangels kommt es nicht an.\n\n## § 179 Abs. 3 – Ausschluss (S. 43–44)\n\n- Der Dritte **kannte** den Mangel oder **musste** ihn kennen (keine Vertrauenshaftung ohne Vertrauen). Eine Erkundigungspflicht besteht grundsätzlich nicht, nur bei konkreten Zweifelsanhaltspunkten.\n- **Beschränkt geschäftsfähige** Vertreter haften nicht, außer sie handelten mit Zustimmung des gesetzlichen Vertreters (§ 179 Abs. 3 S. 2).\n\n## Konkurrenzen (S. 44–45)\n\n- **c.i.c.:** Ob § 179 eine Haftung aus §§ 280, 311 Abs. 2 verdrängt, ist streitig; nach dem Skript ist wegen der Sonderwertung des § 179 Abs. 3 kein Raum für eine Haftung aus c.i.c. „wegen“ des Vertretungsmangels (a.A. Prölss). Eine **Eigenhaftung** des Vertreters aus §§ 280 Abs. 1, 311 Abs. 2 Nr. 1, Abs. 3, 241 Abs. 2 kommt aber in Betracht, wenn der Dritte ihm **besonderes persönliches Vertrauen** entgegenbringt und er eine daraus folgende Pflicht (z.B. Aufklärung) schuldhaft verletzt (BGHZ 88, 67; vgl. § 311 Abs. 3 S. 2).\n- **Anscheinsvollmacht:** Wird der Vertretene kraft Rechtsscheins gebunden, ist § 179 ausgeschlossen. Ein **Wahlrecht** des Dritten verneint der BGH (BGHZ 86, 273, 276): § 179 Abs. 1 stellt nur dann einen Ersatzschuldner bereit, wenn die Vertragsbindung am Vertretungsmangel scheitert (a.A. MünchKomm).\n\n## Missbrauch der Vertretungsmacht (S. 45–46)\n\nDer Vertreter handelt **im Rahmen seiner Vollmacht** (Können), überschreitet aber die **Grenzen des Innenverhältnisses** (Dürfen). Grundsätzlich wird der Vertretene **trotzdem gebunden**. (Das Beispiel des Skripts – B soll 25 Computer kaufen und nimmt 30 mit – passt nur, wenn die Vollmacht selbst weiter reicht als die interne Weisung; ist schon die Vollmacht auf 25 Stück begrenzt, liegt eine Überschreitung der Vertretungsmacht vor.)\n\nAusnahmen, weil das Vertrauen des Gegners nicht schutzwürdig ist:\n- **Kollusion:** Vertreter und Gegner wirken bewusst zum Nachteil des Vertretenen zusammen → **Nichtigkeit nach § 138 Abs. 1**. *Beispiel:* Prokurist P (intern max. 5.000 € je Geschäft) vereinbart mit Lieferantin L für 500 Aluminium-Rohlinge 8.000 € statt marktüblich 4.000 €, um K zu schädigen und die Differenz zu teilen. Nach § 50 Abs. 1 HGB ist die Prokura nach außen unbeschränkbar, der Vertrag ist aber wegen Kollusion nichtig.\n- **Evidenz:** Der Gegner kennt den Missbrauch, oder er musste sich ihm geradezu aufdrängen (einfache Fahrlässigkeit genügt nicht). *Denkbar:* Innenschranken wirken nach außen → §§ 177 ff. analog. *Rechtsprechung:* Vertrag wirksam, dem Gegner steht aber die **Einrede des Rechtsmissbrauchs (§ 242)** entgegen (BGH NJW-RR 2004, 247).",
       "src": [
-        {"doc": "BGB_7", "page": 40},
-        {"doc": "BGB_7", "page": 41},
-        {"doc": "BGB_7", "page": 42},
-        {"doc": "BGB_7", "page": 43},
-        {"doc": "BGB_7", "page": 44},
-        {"doc": "BGB_7", "page": 45},
-        {"doc": "BGB_7", "page": 46}
+        {
+          "doc": "BGB_7",
+          "page": 40
+        },
+        {
+          "doc": "BGB_7",
+          "page": 41
+        },
+        {
+          "doc": "BGB_7",
+          "page": 42
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        },
+        {
+          "doc": "BGB_7",
+          "page": 44
+        },
+        {
+          "doc": "BGB_7",
+          "page": 45
+        },
+        {
+          "doc": "BGB_7",
+          "page": 46
+        }
+      ],
+      "merksatz": "Wusste der Vertreter es, schuldet er Erfüllung oder Schadensersatz; wusste er es nicht, nur Vertrauensschaden; wusste es der Gegner, nichts.",
+      "norms": [
+        "§ 179 Abs. 1 BGB",
+        "§ 179 Abs. 2 BGB",
+        "§ 179 Abs. 3 BGB",
+        "§ 122 BGB",
+        "§ 262 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 311 Abs. 2 BGB",
+        "§ 311 Abs. 3 S. 2 BGB",
+        "§ 241 Abs. 2 BGB",
+        "§ 138 Abs. 1 BGB",
+        "§ 242 BGB",
+        "§ 50 Abs. 1 HGB"
       ]
     }
   ],
   "definitions": [
-    {"term": "Stellvertretung", "text": "Rechtsgeschäftliches Handeln an Stelle eines anderen mit Wirkung für diesen: Der Vertreter gibt kraft Vertretungsmacht im Namen des Vertretenen eigene Willenserklärungen ab oder nimmt sie entgegen.", "norm": "§ 164 Abs. 1, 3 BGB", "src": [{"doc": "BGB_7", "page": 7}, {"doc": "BGB_7", "page": 12}]},
-    {"term": "Mittelbare Stellvertretung", "text": "Handeln im eigenen Namen, aber für fremde Rechnung; Rechtsbeziehungen zwischen dem Auftraggeber und dem Dritten entstehen nicht, die wirtschaftlichen Folgen sollen aber den Auftraggeber treffen (gesetzlicher Fall: Kommission, § 383 HGB).", "norm": "im BGB nicht geregelt; §§ 383 ff. HGB", "src": [{"doc": "BGB_7", "page": 7}, {"doc": "BGB_7", "page": 8}]},
-    {"term": "Erklärungsbote", "text": "Person, die eine bereits fertige, d.h. abschließend mündlich oder schriftlich formulierte Willenserklärung eines anderen an den Empfänger überbringt, ohne eigenen Entscheidungsspielraum zu haben.", "norm": "vgl. § 120 BGB", "src": [{"doc": "BGB_7", "page": 9}]},
-    {"term": "Vollmacht", "text": "Die durch Rechtsgeschäft erteilte Vertretungsmacht; sie wird durch empfangsbedürftige Willenserklärung gegenüber dem Vertreter (Innenvollmacht) oder dem Geschäftspartner (Außenvollmacht) erteilt und ist vom Grundverhältnis abstrakt.", "norm": "§§ 166 Abs. 2 S. 1, 167 Abs. 1 BGB", "src": [{"doc": "BGB_7", "page": 21}, {"doc": "BGB_7", "page": 23}]},
-    {"term": "Wissensvertreter", "text": "Jeder, der nach der Arbeitsorganisation des Geschäftsherrn dazu berufen ist, im Rechtsverkehr als dessen Repräsentant bestimmte Aufgaben in eigener Verantwortung zu erledigen und die dabei angefallenen Informationen zur Kenntnis zu nehmen sowie gegebenenfalls weiterzuleiten (BGHZ 117, 104, 106).", "norm": "§ 166 Abs. 1 BGB analog", "src": [{"doc": "BGB_7", "page": 20}]},
-    {"term": "Duldungsvollmacht", "text": "Der Vertretene lässt es wissentlich geschehen, dass ein anderer während gewisser Dauer und wiederholt für ihn wie ein Vertreter auftritt, und schreitet nicht ein, obwohl er es könnte; der Dritte darf diese Duldung nach Treu und Glauben als Bevollmächtigung verstehen.", "norm": "Rechtsgedanke §§ 170 ff. BGB", "src": [{"doc": "BGB_7", "page": 29}, {"doc": "BGB_7", "page": 30}]},
-    {"term": "Anscheinsvollmacht", "text": "Der Vertretene kennt das wiederholte, auf gewisse Dauer angelegte Auftreten eines anderen als seines Vertreters nicht, hätte es aber bei pflichtgemäßer Sorgfalt erkennen und verhindern können, und der Dritte durfte nach Treu und Glauben annehmen, der Vertretene dulde und billige es.", "norm": "Rechtsgedanke §§ 170 ff. BGB; § 164 BGB analog", "src": [{"doc": "BGB_7", "page": 31}]},
-    {"term": "Insichgeschäft", "text": "Rechtsgeschäft eines Vertreters im Namen des Vertretenen mit sich selbst im eigenen Namen (Selbstkontrahieren) oder als Vertreter eines Dritten (Mehrvertretung); unzulässig, sofern nicht gestattet oder ausschließlich in Erfüllung einer Verbindlichkeit.", "norm": "§ 181 BGB", "src": [{"doc": "BGB_7", "page": 33}]},
-    {"term": "Vertreter ohne Vertretungsmacht (falsus procurator)", "text": "Wer im Namen eines anderen rechtsgeschäftlich handelt, ohne (insoweit) Vertretungsmacht zu haben – weil sie nie bestand, überschritten wurde, rückwirkend durch Anfechtung entfiel oder erloschen ist.", "norm": "§§ 177–179 BGB", "src": [{"doc": "BGB_7", "page": 36}, {"doc": "BGB_7", "page": 37}]},
-    {"term": "Kollusion", "text": "Vertreter und Geschäftsgegner wirken einvernehmlich zur Schädigung des Vertretenen zusammen; das Geschäft ist trotz bestehender Vertretungsmacht nach § 138 Abs. 1 nichtig.", "norm": "§ 138 Abs. 1 BGB", "src": [{"doc": "BGB_7", "page": 45}, {"doc": "BGB_7", "page": 46}]}
+    {
+      "term": "Stellvertretung",
+      "text": "Rechtsgeschäftliches Handeln an Stelle eines anderen mit Wirkung für diesen: Der Vertreter gibt kraft Vertretungsmacht im Namen des Vertretenen eigene Willenserklärungen ab oder nimmt sie entgegen.",
+      "norm": "§ 164 Abs. 1, 3 BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 7
+        },
+        {
+          "doc": "BGB_7",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "term": "Mittelbare Stellvertretung",
+      "text": "Handeln im eigenen Namen, aber für fremde Rechnung; Rechtsbeziehungen zwischen dem Auftraggeber und dem Dritten entstehen nicht, die wirtschaftlichen Folgen sollen aber den Auftraggeber treffen (gesetzlicher Fall: Kommission, § 383 HGB).",
+      "norm": "im BGB nicht geregelt; §§ 383 ff. HGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 7
+        },
+        {
+          "doc": "BGB_7",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "term": "Erklärungsbote",
+      "text": "Person, die eine bereits fertige, d.h. abschließend mündlich oder schriftlich formulierte Willenserklärung eines anderen an den Empfänger überbringt, ohne eigenen Entscheidungsspielraum zu haben.",
+      "norm": "vgl. § 120 BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "term": "Vollmacht",
+      "text": "Die durch Rechtsgeschäft erteilte Vertretungsmacht; sie wird durch empfangsbedürftige Willenserklärung gegenüber dem Vertreter (Innenvollmacht) oder dem Geschäftspartner (Außenvollmacht) erteilt und ist vom Grundverhältnis abstrakt.",
+      "norm": "§§ 166 Abs. 2 S. 1, 167 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 21
+        },
+        {
+          "doc": "BGB_7",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "term": "Wissensvertreter",
+      "text": "Jeder, der nach der Arbeitsorganisation des Geschäftsherrn dazu berufen ist, im Rechtsverkehr als dessen Repräsentant bestimmte Aufgaben in eigener Verantwortung zu erledigen und die dabei angefallenen Informationen zur Kenntnis zu nehmen sowie gegebenenfalls weiterzuleiten (BGHZ 117, 104, 106).",
+      "norm": "§ 166 Abs. 1 BGB analog",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "term": "Duldungsvollmacht",
+      "text": "Der Vertretene lässt es wissentlich geschehen, dass ein anderer während gewisser Dauer und wiederholt für ihn wie ein Vertreter auftritt, und schreitet nicht ein, obwohl er es könnte; der Dritte darf diese Duldung nach Treu und Glauben als Bevollmächtigung verstehen.",
+      "norm": "Rechtsgedanke §§ 170 ff. BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 29
+        },
+        {
+          "doc": "BGB_7",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "term": "Anscheinsvollmacht",
+      "text": "Der Vertretene kennt das wiederholte, auf gewisse Dauer angelegte Auftreten eines anderen als seines Vertreters nicht, hätte es aber bei pflichtgemäßer Sorgfalt erkennen und verhindern können, und der Dritte durfte nach Treu und Glauben annehmen, der Vertretene dulde und billige es.",
+      "norm": "Rechtsgedanke §§ 170 ff. BGB; § 164 BGB analog",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "term": "Insichgeschäft",
+      "text": "Rechtsgeschäft eines Vertreters im Namen des Vertretenen mit sich selbst im eigenen Namen (Selbstkontrahieren) oder als Vertreter eines Dritten (Mehrvertretung); unzulässig, sofern nicht gestattet oder ausschließlich in Erfüllung einer Verbindlichkeit.",
+      "norm": "§ 181 BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "term": "Vertreter ohne Vertretungsmacht (falsus procurator)",
+      "text": "Wer im Namen eines anderen rechtsgeschäftlich handelt, ohne (insoweit) Vertretungsmacht zu haben – weil sie nie bestand, überschritten wurde, rückwirkend durch Anfechtung entfiel oder erloschen ist.",
+      "norm": "§§ 177–179 BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 36
+        },
+        {
+          "doc": "BGB_7",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "term": "Kollusion",
+      "text": "Vertreter und Geschäftsgegner wirken einvernehmlich zur Schädigung des Vertretenen zusammen; das Geschäft ist trotz bestehender Vertretungsmacht nach § 138 Abs. 1 nichtig.",
+      "norm": "§ 138 Abs. 1 BGB",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 45
+        },
+        {
+          "doc": "BGB_7",
+          "page": 46
+        }
+      ]
+    }
   ],
   "schemas": [
     {
@@ -156,7 +549,24 @@
         "4. Mit Vertretungsmacht: a) gesetzliche/organschaftliche Vertretungsmacht; b) Vollmacht (Erteilung § 167, Umfang durch Auslegung §§ 133, 157, kein Erlöschen nach § 168 oder Fortwirkung nach §§ 170–173, keine Anfechtung); c) Rechtsscheinsvollmacht (Duldungs-, Anscheinsvollmacht); d) Grenzen: § 181, Missbrauch (Kollusion → § 138 Abs. 1; Evidenz).",
         "5. Rechtsfolge: Wirkung für und gegen den Vertretenen (§ 164 Abs. 1, 3); Willensmängel und Wissen nach § 166. Fehlt die Vertretungsmacht: §§ 177 ff. (schwebende Unwirksamkeit, Genehmigung, Haftung des Vertreters nach § 179)."
       ],
-      "src": [{"doc": "BGB_7", "page": 12}, {"doc": "BGB_7", "page": 14}, {"doc": "BGB_7", "page": 18}, {"doc": "BGB_7", "page": 37}]
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 12
+        },
+        {
+          "doc": "BGB_7",
+          "page": 14
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        },
+        {
+          "doc": "BGB_7",
+          "page": 37
+        }
+      ]
     },
     {
       "title": "Prüfung von Duldungs- und Anscheinsvollmacht",
@@ -167,7 +577,24 @@
         "4. Schutzwürdiges Vertrauen des Dritten: objektiv und subjektiv berechtigt (keine Kenntnis/kein Kennenmüssen des Vollmachtmangels), Kausalität für die Willenserklärung.",
         "5. Rechtsfolge (h.M.): Bindung wie bei rechtsgeschäftlicher Vollmacht (Erfüllung); Anfechtung nach noch h.L. ausgeschlossen; § 179 gegen den Vertreter scheidet aus (BGHZ 86, 273)."
       ],
-      "src": [{"doc": "BGB_7", "page": 29}, {"doc": "BGB_7", "page": 31}, {"doc": "BGB_7", "page": 32}, {"doc": "BGB_7", "page": 44}]
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 29
+        },
+        {
+          "doc": "BGB_7",
+          "page": 31
+        },
+        {
+          "doc": "BGB_7",
+          "page": 32
+        },
+        {
+          "doc": "BGB_7",
+          "page": 44
+        }
+      ]
     },
     {
       "title": "Anspruch des Dritten gegen den Vertreter ohne Vertretungsmacht (§ 179 BGB)",
@@ -178,12 +605,32 @@
         "4. Kein Ausschluss nach § 179 Abs. 3: Dritter kannte den Mangel nicht und musste ihn nicht kennen; Vertreter nicht beschränkt geschäftsfähig (oder mit Zustimmung des gesetzlichen Vertreters).",
         "5. Rechtsfolge: Kenntnis des Vertreters vom Mangel → Wahl zwischen Erfüllung und Schadensersatz (positives Interesse, Differenztheorie), § 179 Abs. 1; Unkenntnis → Vertrauensschaden, begrenzt durch das Erfüllungsinteresse, § 179 Abs. 2."
       ],
-      "src": [{"doc": "BGB_7", "page": 40}, {"doc": "BGB_7", "page": 42}, {"doc": "BGB_7", "page": 43}, {"doc": "BGB_7", "page": 44}]
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 40
+        },
+        {
+          "doc": "BGB_7",
+          "page": 42
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        },
+        {
+          "doc": "BGB_7",
+          "page": 44
+        }
+      ]
     }
   ],
   "quiz": [
     {
-      "id": "q1", "type": "mc-single", "level": "recognize", "difficulty": 1,
+      "id": "q1",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Nach welchem Kriterium grenzt das Skript den Stellvertreter vom Erklärungsboten ab?",
       "options": [
         "Ob der Handelnde eine eigene Willenserklärung abgibt, d.h. ihm ein Mindestmaß an Entscheidungsfreiheit verbleibt, oder nur eine fertige fremde Erklärung übermittelt",
@@ -191,21 +638,48 @@
         "Ob der Handelnde für seine Tätigkeit ein Entgelt erhält",
         "Ob der Handelnde schriftlich oder mündlich auftritt"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Der Stellvertreter gibt eine eigene Willenserklärung im fremden Namen ab; der Bote überbringt eine fertige fremde Erklärung. Maßgeblich ist der objektive Empfängerhorizont. Die Geschäftsfähigkeit ist für den Vertreter wegen § 165 gerade kein Abgrenzungsmerkmal.",
-      "hints": ["Denken Sie an den „menschlichen Anrufbeantworter“.", "Welche Rolle spielt Entscheidungsspielraum?"],
-      "src": [{"doc": "BGB_7", "page": 9}, {"doc": "BGB_7", "page": 10}]
+      "hints": [
+        "Denken Sie an den „menschlichen Anrufbeantworter“.",
+        "Welche Rolle spielt Entscheidungsspielraum?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 9
+        },
+        {
+          "doc": "BGB_7",
+          "page": 10
+        }
+      ]
     },
     {
-      "id": "q2", "type": "truefalse", "level": "recognize", "difficulty": 1,
+      "id": "q2",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
       "prompt": "Bei der Übergabe im Rahmen des § 929 S. 1 BGB ist eine Stellvertretung nach §§ 164 ff. BGB möglich.",
       "answer": false,
       "explanation": "Stellvertretung ist nur im rechtsgeschäftlichen Bereich, also bei Abgabe und Entgegennahme von Willenserklärungen möglich. Die Übergabe ist ein Realakt (zu Geheißpersonen: Modul Sachenrecht).",
-      "hints": ["Ist die Übergabe eine Willenserklärung?"],
-      "src": [{"doc": "BGB_7", "page": 6}]
+      "hints": [
+        "Ist die Übergabe eine Willenserklärung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 6
+        }
+      ]
     },
     {
-      "id": "q3", "type": "mc-single", "level": "understand", "difficulty": 2,
+      "id": "q3",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Galerist F verkauft gewerbsmäßig im eigenen Namen Bilder für Rechnung der Künstler. S kauft in der Galerie ein Bild der Malerin R, mit der F einen Kommissionsvertrag hat. Wer hat gegen S den Anspruch auf Kaufpreiszahlung?",
       "options": [
         "F, denn der Kaufvertrag ist zwischen F und S zustande gekommen",
@@ -213,35 +687,91 @@
         "R und F als Gesamtgläubiger",
         "R, weil der wirtschaftliche Erfolg ihr zugutekommen soll"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "F ist Kommissionär (§ 383 HGB) und damit mittelbarer Stellvertreter: Er handelt im eigenen Namen für fremde Rechnung. Vertragspartner des S ist nur F. R hat gegen F einen Anspruch auf Weiterleitung des Erlöses, F gegen R einen Provisionsanspruch (§ 396 Abs. 1 HGB).",
-      "hints": ["In wessen Namen tritt F auf?", "Wirtschaftliche Wirkung ist nicht gleich Rechtswirkung."],
-      "src": [{"doc": "BGB_7", "page": 8}, {"doc": "BGB_7", "page": 9}]
+      "hints": [
+        "In wessen Namen tritt F auf?",
+        "Wirtschaftliche Wirkung ist nicht gleich Rechtswirkung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 8
+        },
+        {
+          "doc": "BGB_7",
+          "page": 9
+        }
+      ]
     },
     {
-      "id": "q4", "type": "match", "level": "recall", "difficulty": 2,
+      "id": "q4",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Ordnen Sie den Rechtsträger der im Skript genannten gesetzlichen bzw. organschaftlichen Vertretungsregel zu.",
       "pairs": [
-        ["Eingetragener Verein", "Vorstand, §§ 26 ff. BGB"],
-        ["Aktiengesellschaft", "Vorstand, §§ 76, 78 AktG"],
-        ["GmbH", "Geschäftsführer, § 35 GmbHG"],
-        ["GbR", "Gesamtvertretung durch alle Gesellschafter, § 720 Abs. 1 BGB"],
-        ["OHG", "Einzelvertretung durch jeden Gesellschafter, § 124 HGB"]
+        [
+          "Eingetragener Verein",
+          "Vorstand, §§ 26 ff. BGB"
+        ],
+        [
+          "Aktiengesellschaft",
+          "Vorstand, §§ 76, 78 AktG"
+        ],
+        [
+          "GmbH",
+          "Geschäftsführer, § 35 GmbHG"
+        ],
+        [
+          "GbR",
+          "Gesamtvertretung durch alle Gesellschafter, § 720 Abs. 1 BGB"
+        ],
+        [
+          "OHG",
+          "Einzelvertretung durch jeden Gesellschafter, § 124 HGB"
+        ]
       ],
       "explanation": "Übersicht S. 11. Bei der KG vertreten die Komplementäre (§ 170 Abs. 1 i.V.m. §§ 161 Abs. 2, 124 Abs. 1 HGB). Der Gesellschaftsvertrag kann z.B. bei der GbR abweichende Regeln treffen (§ 720 Abs. 1 Hs. 2).",
-      "hints": ["Bei der GbR handeln nach dem Gesetz alle gemeinsam."],
-      "src": [{"doc": "BGB_7", "page": 11}]
+      "hints": [
+        "Bei der GbR handeln nach dem Gesetz alle gemeinsam."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 11
+        }
+      ]
     },
     {
-      "id": "q5", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "id": "q5",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Im Gesellschaftsvertrag einer GbR ist bestimmt, dass jedes Mitglied die Gesellschaft allein vertritt, Geschäfte über 500 € intern aber der vorherigen Zustimmung der übrigen bedürfen. Schließt ein Gesellschafter ohne diese Zustimmung einen Vertrag über 800 €, so ist der Vertrag schwebend unwirksam.",
       "answer": false,
       "explanation": "Die 500-€-Grenze regelt nur die Geschäftsführungsbefugnis, also das rechtliche Dürfen im Innenverhältnis. Die Vertretungsmacht (rechtliches Können im Außenverhältnis) besteht als Alleinvertretungsbefugnis fort; der Vertrag ist wirksam. Die GbR kann u.U. intern Schadensersatz verlangen.",
-      "hints": ["Unterscheiden Sie Geschäftsführung und Vertretung."],
-      "src": [{"doc": "BGB_7", "page": 11}, {"doc": "BGB_7", "page": 12}]
+      "hints": [
+        "Unterscheiden Sie Geschäftsführung und Vertretung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 11
+        },
+        {
+          "doc": "BGB_7",
+          "page": 12
+        }
+      ]
     },
     {
-      "id": "q6", "type": "order", "level": "recall", "difficulty": 1,
+      "id": "q6",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Bringen Sie die Prüfungspunkte der wirksamen Stellvertretung nach § 164 Abs. 1 BGB in die Reihenfolge des Skripts.",
       "items": [
         "Zulässigkeit der Stellvertretung",
@@ -250,11 +780,21 @@
         "Vertretungsmacht des Vertreters"
       ],
       "explanation": "So das Schema auf S. 12. Die Zulässigkeit fehlt bei höchstpersönlichen Geschäften wie Eheschließung oder Testament.",
-      "hints": ["Zuerst wird geklärt, ob Vertretung überhaupt in Betracht kommt."],
-      "src": [{"doc": "BGB_7", "page": 12}]
+      "hints": [
+        "Zuerst wird geklärt, ob Vertretung überhaupt in Betracht kommt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 12
+        }
+      ]
     },
     {
-      "id": "q7", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "A bevollmächtigt seinen 17-jährigen Neffen N, für ihn bei V eine Soundbar für höchstens 350 € zu kaufen. N kauft im Namen des A eine Soundbar für 300 €. Wie ist die Rechtslage?",
       "options": [
         "Wirksamer Kaufvertrag zwischen A und V; N treffen keine Rechtsfolgen (§ 165)",
@@ -262,13 +802,30 @@
         "Der Vertrag ist nichtig, weil N nicht voll geschäftsfähig ist",
         "Der Vertrag kommt zwischen N und V zustande; A muss N den Kaufpreis erstatten"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Da die Rechtsfolgen nur den Vertretenen treffen, ist das Vertretergeschäft für den Vertreter rechtlich neutral; nach § 165 kann deshalb auch ein beschränkt Geschäftsfähiger Vertreter sein. Eine Zustimmung der Eltern ist nicht erforderlich.",
-      "hints": ["Wen treffen die Rechtsfolgen des Vertretergeschäfts?", "§ 165 BGB"],
-      "src": [{"doc": "BGB_7", "page": 13}, {"doc": "BGB_7", "page": 18}]
+      "hints": [
+        "Wen treffen die Rechtsfolgen des Vertretergeschäfts?",
+        "§ 165 BGB"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 13
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        }
+      ]
     },
     {
-      "id": "q8", "type": "mc-multi", "level": "understand", "difficulty": 2,
+      "id": "q8",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Welche Aussagen zu Mittelspersonen beim Empfang von Willenserklärungen treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
       "options": [
         "Beim Empfangsvertreter (§ 164 Abs. 3) geht die Erklärung mit dem Zugang beim Vertreter gleichzeitig dem Vertretenen zu.",
@@ -276,13 +833,27 @@
         "Ist die Mittelsperson Erklärungsbote, trägt der Empfänger das Risiko verspäteter oder unterbliebener Übermittlung.",
         "Kaufmännische Angestellte in einem Unternehmen kommen als Empfangsboten in Betracht."
       ],
-      "answer": [0, 1, 3],
+      "answer": [
+        0,
+        1,
+        3
+      ],
       "explanation": "Ist die Mittelsperson weder Vertreter noch Empfangsbote des Adressaten, ist sie Erklärungsbote des Erklärenden; dieser trägt die Gefahr richtiger und rechtzeitiger Übermittlung. Die übrigen Aussagen entsprechen S. 13.",
-      "hints": ["Wessen „Lager“ ist der Erklärungsbote zuzurechnen?"],
-      "src": [{"doc": "BGB_7", "page": 13}]
+      "hints": [
+        "Wessen „Lager“ ist der Erklärungsbote zuzurechnen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 13
+        }
+      ]
     },
     {
-      "id": "q9", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "Herr Müller bucht im Reisebüro eine Malediven-Reise für 23.000 €. Innerlich will er im Namen seines Freundes Schulte buchen, bringt dies aber nicht zum Ausdruck; auch die Umstände deuten nicht darauf hin. Wer ist Vertragspartner?",
       "options": [
         "Allein Müller, § 164 Abs. 2 BGB",
@@ -290,25 +861,62 @@
         "Schulte, sofern er das Geschäft genehmigt",
         "Müller, der den Vertrag aber nach § 119 Abs. 1 BGB anfechten kann, weil er sich über seine Rolle geirrt hat"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Tritt der Wille, im fremden Namen zu handeln, nicht erkennbar hervor, wird der Handelnde selbst berechtigt und verpflichtet, auch wenn er das nicht wollte (§ 164 Abs. 2). Ein „Mangel des Willens, im eigenen Namen zu handeln“, kommt nach dem Wortlaut der Norm nicht in Betracht – die Anfechtung scheidet aus.",
-      "hints": ["Das Offenkundigkeitsprinzip schützt den Geschäftsgegner."],
-      "src": [{"doc": "BGB_7", "page": 14}, {"doc": "BGB_7", "page": 15}]
+      "hints": [
+        "Das Offenkundigkeitsprinzip schützt den Geschäftsgegner."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 14
+        },
+        {
+          "doc": "BGB_7",
+          "page": 15
+        }
+      ]
     },
     {
-      "id": "q10", "type": "cloze", "level": "recall", "difficulty": 2,
+      "id": "q10",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Beim verdeckten Geschäft für den, den es angeht, wird der nicht offen Vertretene Vertragspartei, wenn es dem Geschäftspartner völlig {{1}} ist, wer Partner des Vertrages wird, und die aufgetretene Person mit {{2}} sowie mit dem Willen handelt, das Geschäft für den Vertretenen zustande zu bringen. Hauptfall ist der Eigentumserwerb bei {{3}} des täglichen Lebens.",
       "blanks": [
-        ["gleichgültig", "egal"],
-        ["Vertretungsmacht", "Vollmacht"],
-        ["Bargeschäften", "Bargeschäfte", "Barkäufen", "Bareinkäufen"]
+        [
+          "gleichgültig",
+          "egal"
+        ],
+        [
+          "Vertretungsmacht",
+          "Vollmacht"
+        ],
+        [
+          "Bargeschäften",
+          "Bargeschäfte",
+          "Barkäufen",
+          "Bareinkäufen"
+        ]
       ],
       "explanation": "S. 16: Ist es dem Gegner gleichgültig, wer Partner wird, ist die Schutzfunktion der Offenkundigkeit entbehrlich. Im Gaming-Controller-Beispiel erwirbt D das Eigentum nach § 929 S. 1 direkt von V.",
-      "hints": ["Warum darf hier auf die Offenkundigkeit verzichtet werden?"],
-      "src": [{"doc": "BGB_7", "page": 16}]
+      "hints": [
+        "Warum darf hier auf die Offenkundigkeit verzichtet werden?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 16
+        }
+      ]
     },
     {
-      "id": "q11", "type": "mc-single", "level": "understand", "difficulty": 3,
+      "id": "q11",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "X gibt sich bei einem Vertragsschluss als der bekannte Unternehmer Y aus, um dessen Kreditwürdigkeit auszunutzen. Dem Vertragspartner kommt es gerade darauf an, mit Y abzuschließen. X hat keine Vertretungsmacht des Y. Wie ist der Fall nach dem Skript zu behandeln?",
       "options": [
         "Es liegt ein Fremdgeschäft für den Namensträger vor; die §§ 177 ff. sind jedenfalls entsprechend anwendbar",
@@ -316,21 +924,48 @@
         "Der Vertrag kommt wirksam mit Y zustande, weil der Rechtsverkehr auf den Namen vertrauen darf",
         "Der Vertrag ist nach § 117 BGB als Scheingeschäft nichtig"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Bei Handeln unter fremdem Namen mit Identitätsvorstellung, bei dem es dem Gegner auf den wahren Namensträger ankommt, liegt ein Fremdgeschäft vor; auf den Vertretungswillen des Handelnden kommt es nach h.M. nicht an. Fehlt die Vertretungsmacht, gelten §§ 177 ff. jedenfalls entsprechend. Ein Eigengeschäft läge nur vor, wenn dem Gegner die Identität gleichgültig wäre.",
-      "hints": ["Kommt es dem Gegner auf die Person an?", "Schema S. 18"],
-      "src": [{"doc": "BGB_7", "page": 17}, {"doc": "BGB_7", "page": 18}]
+      "hints": [
+        "Kommt es dem Gegner auf die Person an?",
+        "Schema S. 18"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 17
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        }
+      ]
     },
     {
-      "id": "q12", "type": "truefalse", "level": "apply", "difficulty": 2,
+      "id": "q12",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "Rechtsanwältin R lässt ihren Assistenten A einen PC kaufen. Händler H täuscht A über die Eigenschaften des Prozessors. R kann den Kaufvertrag nach § 123 i.V.m. § 166 Abs. 1 BGB anfechten, obwohl sie selbst nicht getäuscht wurde.",
       "answer": true,
       "explanation": "Bei Willensmängeln kommt es nach § 166 Abs. 1 auf die Person des Vertreters an; weil die Folgen den Vertretenen treffen, ist R anfechtungsberechtigt (Erklärung gegenüber H, § 143 Abs. 1).",
-      "hints": ["Auf wessen Person kommt es bei Willensmängeln an – und wer ficht an?"],
-      "src": [{"doc": "BGB_7", "page": 19}]
+      "hints": [
+        "Auf wessen Person kommt es bei Willensmängeln an – und wer ficht an?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 19
+        }
+      ]
     },
     {
-      "id": "q13", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "id": "q13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "Abwandlung: R weiß bereits, dass das PC-Modell nicht den versprochenen Prozessor hat, schickt A aber trotzdem mit der Weisung los, genau dieses Modell zu kaufen. H täuscht A über den Prozessor. Kann R wegen dieser Täuschung anfechten?",
       "options": [
         "Nein, nach § 166 Abs. 2 BGB kommt es ausnahmsweise auch auf ihr eigenes Wissen an",
@@ -338,13 +973,25 @@
         "Ja, aber nur A selbst kann anfechten, weil er getäuscht wurde",
         "Nein, weil A als Bote gehandelt hat und Willensmängel des Boten unbeachtlich sind"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Handelt der Vertreter nach Weisungen des Vertretenen, ist dessen Kenntnis neben der des Vertreters erheblich (§ 166 Abs. 2). Der Vertretene darf sich nicht hinter dem gutgläubigen Vertreter verstecken; „Handeln auf Weisung“ ist weit auszulegen.",
-      "hints": ["Wer hat das konkrete Geschäft veranlasst?"],
-      "src": [{"doc": "BGB_7", "page": 19}]
+      "hints": [
+        "Wer hat das konkrete Geschäft veranlasst?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 19
+        }
+      ]
     },
     {
-      "id": "q14", "type": "free", "level": "formulate", "difficulty": 3,
+      "id": "q14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
       "prompt": "Erläutern Sie, was der BGH unter einem „Wissensvertreter“ versteht, auf welche Norm die Wissenszurechnung gestützt wird, und wenden Sie dies kurz auf den Gebrauchtwagen-Fall der X-GmbH an.",
       "modelAnswer": "Wissensvertreter ist nach dem BGH jeder, der nach der Arbeitsorganisation des Geschäftsherrn dazu berufen ist, im Rechtsverkehr als dessen Repräsentant bestimmte Aufgaben in eigener Verantwortung zu erledigen und die dabei angefallenen Informationen zur Kenntnis zu nehmen sowie gegebenenfalls weiterzuleiten. Einer ausdrücklichen Bestellung zum Vertreter oder Wissensvertreter bedarf es nicht; der Geschäftsherr muss sich seiner aber im Rechtsverkehr wie eines Vertreters bedienen. Die Zurechnung beruht auf einer entsprechenden Anwendung des § 166 Abs. 1 BGB: Wer einen anderen mit der eigenverantwortlichen Erledigung bestimmter Angelegenheiten betraut, muss sich das dabei erlangte Wissen zurechnen lassen, unabhängig von einem Vertretungsverhältnis. Im Fall der X-GmbH war Angestellter A ohne Vertretungsmacht damit betraut, selbstständig Ankaufskalkulationen zu erstellen; dabei erfuhr er von der Abweichung zwischen Tachostand und Laufleistung. Da er eigenständig Aufgaben nach außen erledigte und Informationen weiterzuleiten hatte, ist er Wissensvertreter; sein Wissen wird der GmbH zugerechnet, die damit Kenntnis vom Sachmangel hatte.",
       "rubric": [
@@ -353,25 +1000,69 @@
         "§ 166 Abs. 1 BGB analog als Grundlage",
         "Anwendung: A ohne Vertretungsmacht, aber eigenverantwortlich tätig → Kenntnis der GmbH"
       ],
-      "hints": ["BGHZ 117, 104, 106", "Auf die Vertretungsmacht kommt es gerade nicht an."],
-      "src": [{"doc": "BGB_7", "page": 20}, {"doc": "BGB_7", "page": 21}]
+      "hints": [
+        "BGHZ 117, 104, 106",
+        "Auf die Vertretungsmacht kommt es gerade nicht an."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 20
+        },
+        {
+          "doc": "BGB_7",
+          "page": 21
+        }
+      ]
     },
     {
-      "id": "q15", "type": "match", "level": "recall", "difficulty": 2,
+      "id": "q15",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Ordnen Sie die Vollmachtsbegriffe ihrer Beschreibung zu.",
       "pairs": [
-        ["Innenvollmacht", "Erteilung durch Erklärung gegenüber dem Vertreter"],
-        ["Außenvollmacht", "Erteilung durch Erklärung gegenüber dem Geschäftspartner"],
-        ["Spezialvollmacht", "Vertretungsmacht für ein bestimmtes Rechtsgeschäft"],
-        ["Art- oder Gattungsvollmacht", "Vertretungsmacht für eine bestimmte Art von Geschäften, etwa beim Kellner"],
-        ["Generalvollmacht", "Vertretungsmacht für alle oder fast alle Rechtsgeschäfte"]
+        [
+          "Innenvollmacht",
+          "Erteilung durch Erklärung gegenüber dem Vertreter"
+        ],
+        [
+          "Außenvollmacht",
+          "Erteilung durch Erklärung gegenüber dem Geschäftspartner"
+        ],
+        [
+          "Spezialvollmacht",
+          "Vertretungsmacht für ein bestimmtes Rechtsgeschäft"
+        ],
+        [
+          "Art- oder Gattungsvollmacht",
+          "Vertretungsmacht für eine bestimmte Art von Geschäften, etwa beim Kellner"
+        ],
+        [
+          "Generalvollmacht",
+          "Vertretungsmacht für alle oder fast alle Rechtsgeschäfte"
+        ]
       ],
       "explanation": "§ 167 Abs. 1 unterscheidet Innen- und Außenvollmacht (S. 21); die Arten nach dem Umfang beschreibt S. 22. Auch die Generalvollmacht ist nach Treu und Glauben begrenzt.",
-      "hints": ["Wem gegenüber wird erklärt? Wie weit reicht die Macht?"],
-      "src": [{"doc": "BGB_7", "page": 21}, {"doc": "BGB_7", "page": 22}]
+      "hints": [
+        "Wem gegenüber wird erklärt? Wie weit reicht die Macht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 21
+        },
+        {
+          "doc": "BGB_7",
+          "page": 22
+        }
+      ]
     },
     {
-      "id": "q16", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q16",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "L beauftragt und bevollmächtigt T, für ihn die Stute „Wind“ zu kaufen. Nach einem Streit erklärt L: „Ich widerrufe den Auftrag zum Kauf der Stute.“ T kauft dennoch im Namen des L bei M. Wie ist die Rechtslage?",
       "options": [
         "Die Vollmacht ist nach § 168 S. 1 BGB mit dem durch Widerruf beendeten Auftrag erloschen; T handelte als Vertreter ohne Vertretungsmacht",
@@ -379,13 +1070,29 @@
         "Der Kaufvertrag ist wirksam, weil M von dem Widerruf nichts wusste",
         "Der Vertrag ist nichtig, weil T gegen seine Pflichten aus dem Auftrag verstoßen hat"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Nach § 168 S. 1 erlischt die Vollmacht im Zweifel mit dem Grundverhältnis; der Auftrag endete durch Widerruf (§ 671). L wird nicht Vertragspartner der M; es gelten §§ 177 ff. Gutgläubigkeit der M hilft nur in den Fällen der §§ 170–173 (hier keine Außenvollmacht, keine Urkunde).",
-      "hints": ["§ 168 S. 1 durchbricht ausnahmsweise die Abstraktion."],
-      "src": [{"doc": "BGB_7", "page": 25}, {"doc": "BGB_7", "page": 26}]
+      "hints": [
+        "§ 168 S. 1 durchbricht ausnahmsweise die Abstraktion."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 25
+        },
+        {
+          "doc": "BGB_7",
+          "page": 26
+        }
+      ]
     },
     {
-      "id": "q17", "type": "mc-multi", "level": "recall", "difficulty": 2,
+      "id": "q17",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "In welchen Fällen wird ein gutgläubiger Dritter nach dem Skript trotz Erlöschens der Vollmacht so behandelt, als bestünde sie fort? Wählen Sie die zwei zutreffenden Antworten.",
       "options": [
         "Eine dem Dritten gegenüber erklärte Außenvollmacht wurde widerrufen, das Erlöschen ist ihm aber noch nicht vom Vollmachtgeber angezeigt worden (§ 170).",
@@ -393,21 +1100,53 @@
         "Der Vertreter legt dem Dritten lediglich eine Abschrift der Urkunde vor; nach dem BGH ist § 172 Abs. 1 unmittelbar anwendbar.",
         "Eine mündlich erteilte Innenvollmacht wurde widerrufen; der Dritte hatte nur vom Vertreter selbst von der Vollmacht gehört."
       ],
-      "answer": [0, 1],
+      "answer": [
+        0,
+        1
+      ],
       "explanation": "§§ 170, 172 schützen das Vertrauen auf eine kundgegebene bzw. verbriefte Vollmacht. Für § 172 Abs. 1 muss die Urkunde selbst (Urschrift oder Ausfertigung) vorgelegt werden; eine Abschrift genügt nach BGHZ 102, 60 nicht (kann aber u.U. einen Rechtsscheintatbestand begründen). Bloße Behauptungen des Vertreters setzen keinen dem Vollmachtgeber zurechenbaren Rechtsschein.",
-      "hints": ["Wer muss den Rechtsschein gesetzt haben?"],
-      "src": [{"doc": "BGB_7", "page": 26}, {"doc": "BGB_7", "page": 27}]
+      "hints": [
+        "Wer muss den Rechtsschein gesetzt haben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 26
+        },
+        {
+          "doc": "BGB_7",
+          "page": 27
+        }
+      ]
     },
     {
-      "id": "q18", "type": "truefalse", "level": "understand", "difficulty": 3,
+      "id": "q18",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "Nach herrschender Auffassung ist eine Innenvollmacht nicht mehr anfechtbar, sobald der Vertreter das Vertretergeschäft vorgenommen hat, weil es nach § 166 BGB auf die Person des Vertreters ankommt.",
       "answer": false,
       "explanation": "Das ist nur eine Ansicht. Die h.M. hält ihr das Abstraktionsprinzip entgegen: Vertretergeschäft (für das § 166 gilt) und Bevollmächtigung sind strikt zu trennen. Die Anfechtbarkeit ist daher auch nach Gebrauch zu bejahen; der Vertreter wird ex tunc zum falsus procurator (§§ 177 ff., § 179 Abs. 2; Regress nach § 122).",
-      "hints": ["Abstraktionsprinzip", "Welche Folge hätte die Anfechtung für den Vertreter?"],
-      "src": [{"doc": "BGB_7", "page": 27}, {"doc": "BGB_7", "page": 28}]
+      "hints": [
+        "Abstraktionsprinzip",
+        "Welche Folge hätte die Anfechtung für den Vertreter?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 27
+        },
+        {
+          "doc": "BGB_7",
+          "page": 28
+        }
+      ]
     },
     {
-      "id": "q19", "type": "order", "level": "understand", "difficulty": 2,
+      "id": "q19",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Bringen Sie die Prüfungsschritte der Anscheinsvollmacht in die richtige Reihenfolge.",
       "items": [
         "Keine gesetzliche oder rechtsgeschäftliche Vertretungsmacht (Subsidiarität)",
@@ -417,11 +1156,25 @@
         "Rechtsfolge: Bindung wie bei einer Vollmacht"
       ],
       "explanation": "Schema S. 31. Erst wenn keine echte Vertretungsmacht besteht, kommt es auf Rechtsschein an; die Rechtsfolge entspricht nach ganz h.M. der rechtsgeschäftlichen Vollmacht (BGHZ 86, 273).",
-      "hints": ["Rechtsscheinsvollmachten sind subsidiär."],
-      "src": [{"doc": "BGB_7", "page": 31}, {"doc": "BGB_7", "page": 32}]
+      "hints": [
+        "Rechtsscheinsvollmachten sind subsidiär."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 31
+        },
+        {
+          "doc": "BGB_7",
+          "page": 32
+        }
+      ]
     },
     {
-      "id": "q20", "type": "mc-single", "level": "understand", "difficulty": 3,
+      "id": "q20",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 3,
       "prompt": "Worin liegt nach dem Skript der entscheidende Unterschied zwischen Duldungs- und Anscheinsvollmacht?",
       "options": [
         "Bei der Duldungsvollmacht kennt der Vertretene das Auftreten des Vertreters und schreitet nicht ein; bei der Anscheinsvollmacht kennt er es nicht, hätte es aber bei pflichtgemäßer Sorgfalt erkennen und verhindern können",
@@ -429,13 +1182,29 @@
         "Bei der Anscheinsvollmacht muss der Vertretene nicht geschäftsfähig sein, bei der Duldungsvollmacht schon",
         "Die Duldungsvollmacht führt nur zum Ersatz des Vertrauensschadens, die Anscheinsvollmacht zur Erfüllungshaftung"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Beide setzen wiederholtes Auftreten von gewisser Dauer voraus; Unterschied ist das Wissen des Geschäftsherrn. Geschäftsfähigkeit des Vertretenen ist bei beiden erforderlich; die Rechtsfolge ist nach h.M. jeweils eine Bindung wie bei einer Vollmacht.",
-      "hints": ["Vergleichen Sie die Zeile „zurechenbare Veranlassung“ der beiden Schemata."],
-      "src": [{"doc": "BGB_7", "page": 29}, {"doc": "BGB_7", "page": 31}]
+      "hints": [
+        "Vergleichen Sie die Zeile „zurechenbare Veranlassung“ der beiden Schemata."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 29
+        },
+        {
+          "doc": "BGB_7",
+          "page": 31
+        }
+      ]
     },
     {
-      "id": "q21", "type": "case", "level": "apply", "difficulty": 3,
+      "id": "q21",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "Selbsttestaufgabe 2 (S. 45): M kaufte von 2019 bis 2022 nacheinander die Teile seiner Musikanlage bei Händlerin E, wobei er jedes Mal ohne Wissen seines Onkels O in dessen Namen auftrat; bezahlt wurde stets eine Woche später. O erfuhr Ende 2023 davon, stellte M aber nicht zur Rede, um ihm eine Peinlichkeit zu ersparen. Am 31.10.2024 kauft M bei E erneut im Namen des O eine Soundbar für 1.000 €; nach einem Unfall vergisst er die Zahlung. E verlangt von O Zahlung, O verweigert. Kann E von O 1.000 € verlangen?",
       "modelAnswer": "E könnte gegen O einen Anspruch auf Zahlung von 1.000 € aus § 433 Abs. 2 BGB haben. Dann müsste ein Kaufvertrag zwischen E und O zustande gekommen sein. O hat nicht selbst gehandelt; die Erklärung des M wirkt für ihn, wenn M eine eigene Willenserklärung im Namen des O mit Vertretungsmacht abgegeben hat (§ 164 Abs. 1 S. 1 BGB). M hat selbst über den Kauf entschieden und ausdrücklich im Namen des O gehandelt. Eine Vollmacht hat O weder ausdrücklich noch konkludent erteilt. In Betracht kommt eine Duldungsvollmacht: M ist über einen längeren Zeitraum wiederholt gegenüber E als Vertreter des O aufgetreten; O wusste spätestens Ende 2023 davon und schritt nicht ein, obwohl er dies hätte tun können – er hat sich bewusst entschlossen, M nicht zur Rede zu stellen. E durfte angesichts der unbeanstandeten früheren Geschäfte nach Treu und Glauben auf eine Bevollmächtigung vertrauen. Das Skript bejaht in seiner Lösung die Voraussetzungen der Duldungsvollmacht und daneben auch den Tatbestand einer Anscheinsvollmacht; da diese nach ihrer Definition gerade die Unkenntnis des Geschäftsherrn voraussetzt, liegt der Schwerpunkt bei Kenntnis des O richtigerweise bei der Duldungsvollmacht. Nach h.M. steht die Rechtsscheinvollmacht einer rechtsgeschäftlich erteilten gleich; in entsprechender Anwendung des § 164 BGB sind E und O Vertragsparteien. E kann von O Zahlung von 1.000 € verlangen.",
       "rubric": [
@@ -446,11 +1215,30 @@
         "Abgrenzung zur Anscheinsvollmacht (Kenntnis vs. Kennenkönnen)",
         "Rechtsfolge: Bindung wie Vollmacht → Kaufpreisanspruch gegen O"
       ],
-      "hints": ["Wusste O vom Auftreten des M?", "Welche Rechtsfolge hat eine Rechtsscheinvollmacht nach h.M.?"],
-      "src": [{"doc": "BGB_7", "page": 45}, {"doc": "BGB_7", "page": 62}, {"doc": "BGB_7", "page": 63}]
+      "hints": [
+        "Wusste O vom Auftreten des M?",
+        "Welche Rechtsfolge hat eine Rechtsscheinvollmacht nach h.M.?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 45
+        },
+        {
+          "doc": "BGB_7",
+          "page": 62
+        },
+        {
+          "doc": "BGB_7",
+          "page": 63
+        }
+      ]
     },
     {
-      "id": "q22", "type": "mc-single", "level": "apply", "difficulty": 2,
+      "id": "q22",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
       "prompt": "G bevollmächtigt L, seinen gebrauchten PKW zu verkaufen. L schließt als Vertreter des G mit sich selbst einen Kaufvertrag zu einem extrem niedrigen Preis. Eine Gestattung liegt nicht vor. Wie ist der Vertrag zu beurteilen?",
       "options": [
         "Schwebend unwirksam; er wird wirksam, wenn G genehmigt (§§ 181, 184 BGB)",
@@ -458,33 +1246,85 @@
         "Von vornherein und endgültig nichtig nach § 134 BGB",
         "Wirksam, aber G kann ihn nach § 119 Abs. 2 BGB anfechten"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Es liegt ein Selbstkontrahieren vor. Ein Verstoß gegen § 181 führt zur schwebenden Unwirksamkeit; durch Genehmigung (§ 184) kann der Vertrag voll wirksam werden, bei Verweigerung ist er nichtig (BGHZ 65, 123).",
-      "hints": ["Welche Form des Insichgeschäfts liegt vor?"],
-      "src": [{"doc": "BGB_7", "page": 33}, {"doc": "BGB_7", "page": 34}]
+      "hints": [
+        "Welche Form des Insichgeschäfts liegt vor?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 33
+        },
+        {
+          "doc": "BGB_7",
+          "page": 34
+        }
+      ]
     },
     {
-      "id": "q23", "type": "truefalse", "level": "understand", "difficulty": 2,
+      "id": "q23",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
       "prompt": "Nach der Rechtsprechung des BGH steht § 181 BGB einer Schenkung der sorgeberechtigten Eltern an ihr beschränkt geschäftsfähiges Kind nicht entgegen, wenn das Geschäft dem Kind lediglich einen rechtlichen Vorteil bringt.",
       "answer": true,
       "explanation": "Seit BGHZ 59, 236 wird § 181 teleologisch reduziert, wenn keine Interessenkollision droht, insbesondere bei lediglich rechtlich vorteilhaften Geschäften (Parallele § 107; BGHZ 94, 232). Im Übrigen bleibt § 181 nach §§ 1629 Abs. 2 S. 1, 1824 Abs. 2 unberührt; ggf. ist eine Ergänzungspflegschaft nötig.",
-      "hints": ["Formale Ordnungsvorschrift oder Schutznorm?"],
-      "src": [{"doc": "BGB_7", "page": 34}, {"doc": "BGB_7", "page": 35}]
+      "hints": [
+        "Formale Ordnungsvorschrift oder Schutznorm?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 34
+        },
+        {
+          "doc": "BGB_7",
+          "page": 35
+        }
+      ]
     },
     {
-      "id": "q24", "type": "cloze", "level": "recall", "difficulty": 1,
+      "id": "q24",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
       "prompt": "Ein Insichgeschäft ist nach § 181 BGB ausnahmsweise zulässig, wenn es dem Vertreter {{1}} ist oder das Rechtsgeschäft ausschließlich in der {{2}} einer Verbindlichkeit besteht. Die Gestattung kann auch {{3}} erklärt werden.",
       "blanks": [
-        ["gestattet"],
-        ["Erfüllung"],
-        ["konkludent", "stillschweigend", "durch schlüssiges Verhalten"]
+        [
+          "gestattet"
+        ],
+        [
+          "Erfüllung"
+        ],
+        [
+          "konkludent",
+          "stillschweigend",
+          "durch schlüssiges Verhalten"
+        ]
       ],
       "explanation": "S. 33, 35: Die Gestattung ist ein einseitiges, empfangsbedürftiges, formfreies Rechtsgeschäft und kann konkludent sowie nachträglich (analog §§ 177, 184) erfolgen. Die zu erfüllende Verbindlichkeit muss bereits wirksam bestehen.",
-      "hints": ["Zwei Ausnahmen nennt der Gesetzeswortlaut."],
-      "src": [{"doc": "BGB_7", "page": 33}, {"doc": "BGB_7", "page": 35}]
+      "hints": [
+        "Zwei Ausnahmen nennt der Gesetzeswortlaut."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 33
+        },
+        {
+          "doc": "BGB_7",
+          "page": 35
+        }
+      ]
     },
     {
-      "id": "q25", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "id": "q25",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "M bittet N, für ihn bei Buchhändlerin B sechs Krimi-Taschenbücher zu kaufen. N kauft im Namen des M die sechs Krimis und zusätzlich Thomas Manns gesammelte Werke. M verweigert die Genehmigung hinsichtlich der Werke Thomas Manns. Was gilt nach dem Skript?",
       "options": [
         "Der Kauf der Krimis ist wirksam (§ 139 BGB, teilbares Geschäft); wegen der Werke Thomas Manns kann B aus § 179 BGB gegen N vorgehen",
@@ -492,25 +1332,70 @@
         "Der gesamte Vertrag ist wirksam, weil N grundsätzlich bevollmächtigt war",
         "M muss alle Bücher abnehmen, kann aber von N Schadensersatz verlangen"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "Bei Überschreitung der Vollmacht ist nach § 139 zu entscheiden. Beide Teile können selbstständig bestehen und wären bei Kenntnis aufrechterhalten worden; daher ist nur der Teil über Thomas Manns Werke unwirksam. Insoweit handelte N ohne Vertretungsmacht – § 179 gilt auch bei teilweiser Unwirksamkeit (BGHZ 103, 275).",
-      "hints": ["Ist das Geschäft teilbar?", "§ 139 BGB"],
-      "src": [{"doc": "BGB_7", "page": 37}, {"doc": "BGB_7", "page": 39}]
+      "hints": [
+        "Ist das Geschäft teilbar?",
+        "§ 139 BGB"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 37
+        },
+        {
+          "doc": "BGB_7",
+          "page": 39
+        }
+      ]
     },
     {
-      "id": "q26", "type": "cloze", "level": "recall", "difficulty": 2,
+      "id": "q26",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
       "prompt": "Kannte der Vertreter den Mangel seiner Vertretungsmacht, haftet er dem Dritten nach dessen Wahl auf {{1}} oder Schadensersatz (§ 179 Abs. 1 BGB). Kannte er ihn nicht, haftet er nur auf das {{2}} Interesse, höchstens bis zur Höhe des Erfüllungsinteresses (§ 179 Abs. 2 BGB). Die Frist für die Genehmigung nach einer Aufforderung gemäß § 177 Abs. 2 BGB beträgt {{3}}.",
       "blanks": [
-        ["Erfüllung"],
-        ["negative", "Vertrauens-", "negativen"],
-        ["zwei Wochen", "2 Wochen", "zwei Wochen ab Zugang der Aufforderung"]
+        [
+          "Erfüllung"
+        ],
+        [
+          "negative",
+          "Vertrauens-",
+          "negativen"
+        ],
+        [
+          "zwei Wochen",
+          "2 Wochen",
+          "zwei Wochen ab Zugang der Aufforderung"
+        ]
       ],
       "explanation": "S. 38, 42–43. Die Haftung ist verschuldensunabhängig; der Vertrauensschaden wird wie bei § 122 berechnet.",
-      "hints": ["Positives vs. negatives Interesse"],
-      "src": [{"doc": "BGB_7", "page": 38}, {"doc": "BGB_7", "page": 42}, {"doc": "BGB_7", "page": 43}]
+      "hints": [
+        "Positives vs. negatives Interesse"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 38
+        },
+        {
+          "doc": "BGB_7",
+          "page": 42
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        }
+      ]
     },
     {
-      "id": "q27", "type": "mc-single", "level": "apply", "difficulty": 3,
+      "id": "q27",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
       "prompt": "Prokurist P darf nach seinem Arbeitsvertrag den Inhaber K nur bis 5.000 € je Geschäft verpflichten. Um K zu schaden, vereinbart P mit Lieferantin L, die eingeweiht ist, für 500 Rohlinge 8.000 € statt marktüblich 4.000 €; die Differenz wollen beide teilen. Wie ist der Kaufvertrag zu beurteilen?",
       "options": [
         "Nichtig nach § 138 Abs. 1 BGB wegen Kollusion",
@@ -518,13 +1403,30 @@
         "Schwebend unwirksam nach § 177 Abs. 1 BGB, weil P die 5.000-€-Grenze überschritten hat",
         "Wirksam; K kann sich lediglich an P halten"
       ],
-      "answer": [0],
+      "answer": [
+        0
+      ],
       "explanation": "P handelte zwar im Rahmen der nach außen unbeschränkbaren Prokura (§ 50 Abs. 1 HGB), missbrauchte sie aber im Zusammenwirken mit der eingeweihten L zur Schädigung des K. Bei Kollusion ist das Geschäft nach § 138 Abs. 1 nichtig. Option C verkennt, dass die interne Grenze die Vertretungsmacht nicht beschränkt.",
-      "hints": ["Missbrauch betrifft das Dürfen, nicht das Können.", "Was gilt, wenn der Gegner bewusst mitwirkt?"],
-      "src": [{"doc": "BGB_7", "page": 45}, {"doc": "BGB_7", "page": 46}]
+      "hints": [
+        "Missbrauch betrifft das Dürfen, nicht das Können.",
+        "Was gilt, wenn der Gegner bewusst mitwirkt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 45
+        },
+        {
+          "doc": "BGB_7",
+          "page": 46
+        }
+      ]
     },
     {
-      "id": "q28", "type": "free", "level": "formulate", "difficulty": 2,
+      "id": "q28",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
       "prompt": "Stellen Sie die beiden im Skript genannten Lösungswege für die Evidenzfälle beim Missbrauch der Vertretungsmacht dar und erläutern Sie, warum einfache Fahrlässigkeit des Geschäftsgegners nicht genügt.",
       "modelAnswer": "Evidenz liegt vor, wenn der Geschäftsgegner den Missbrauch der Vertretungsmacht kennt oder sich ihm das missbräuchliche Handeln des Vertreters geradezu aufdrängen musste. Denkbar ist zum einen, die Grenzen des Innenverhältnisses auch im Außenverhältnis wirken zu lassen: Der Vertreter handelte dann außerhalb seiner Vertretungsmacht, die §§ 177 ff. BGB wären analog anwendbar, und der Vertrag wäre schwebend unwirksam und von der Genehmigung des Vertretenen abhängig. Die Rechtsprechung lässt den Vertrag dagegen sofort wirksam zustande kommen, gewährt dem Vertretenen aber gegen die Inanspruchnahme die Einrede des Rechtsmissbrauchs aus § 242 BGB. Eine Unkenntnis infolge einfacher Fahrlässigkeit reicht nicht aus, weil der Geschäftsgegner sonst einer unzumutbaren Pflicht ausgesetzt wäre, sich über das Innenverhältnis zwischen Vertreter und Vertretenem zu erkundigen.",
       "rubric": [
@@ -533,8 +1435,546 @@
         "Lösung 2 (Rspr.): wirksamer Vertrag, Einrede aus § 242 BGB",
         "Begründung: keine unzumutbare Erkundigungspflicht über das Innenverhältnis"
       ],
-      "hints": ["Vergleichen Sie mit der Kollusion.", "BGH NJW-RR 2004, 247"],
-      "src": [{"doc": "BGB_7", "page": 46}]
+      "hints": [
+        "Vergleichen Sie mit der Kollusion.",
+        "BGH NJW-RR 2004, 247"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Soweit die rechtlichen Folgen einer Willenserklärung durch Willensmängel oder durch die Kenntnis oder das Kennenmüssen gewisser Umstände beeinflusst werden, kommt nicht die Person des {{1}}, sondern die des {{2}} in Betracht (§ 166 Abs. 1 BGB). Anfechtungsberechtigt ist aber der {{3}}.",
+      "blanks": [
+        [
+          "Vertretenen"
+        ],
+        [
+          "Vertreters"
+        ],
+        [
+          "Vertretene",
+          "Vertretenen"
+        ]
+      ],
+      "explanation": "Der Vertreter gibt die Erklärung ab, deshalb zählt sein Wissen; die Folgen treffen aber den Vertretenen, deshalb ficht dieser an (S. 19).",
+      "hints": [
+        "Wer gibt die Erklärung ab?",
+        "Wen treffen die Rechtsfolgen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Fordert der Dritte den Vertretenen zur Erklärung über die Genehmigung auf, kann diese nur noch {{1}} gegenüber erklärt werden. Sie kann nur bis zum Ablauf von {{2}} nach Empfang der Aufforderung erklärt werden; sonst gilt sie als {{3}} (§ 177 Abs. 2 BGB).",
+      "blanks": [
+        [
+          "dem Dritten",
+          "ihm",
+          "dem Geschäftsgegner"
+        ],
+        [
+          "zwei Wochen",
+          "2 Wochen"
+        ],
+        [
+          "verweigert"
+        ]
+      ],
+      "explanation": "Mit der Aufforderung beendet der Dritte den Schwebezustand (S. 38).",
+      "hints": [
+        "Wer hat die Aufforderung ausgesprochen?",
+        "Die Frist ist dieselbe wie bei § 108 Abs. 2."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Die Haftung des Vertreters ohne Vertretungsmacht entfällt, wenn der Dritte den Mangel der Vertretungsmacht {{1}} oder {{2}} (§ 179 Abs. 3 S. 1 BGB). Ein beschränkt geschäftsfähiger Vertreter haftet nur, wenn er mit {{3}} seines gesetzlichen Vertreters gehandelt hat (§ 179 Abs. 3 S. 2 BGB).",
+      "blanks": [
+        [
+          "kannte",
+          "gekannt hat"
+        ],
+        [
+          "kennen musste",
+          "kennen müsste"
+        ],
+        [
+          "Zustimmung"
+        ]
+      ],
+      "explanation": "Vertrauenshaftung ohne berechtigtes Vertrauen gibt es nicht; Minderjährige werden geschützt (S. 43).",
+      "hints": [
+        "Positive Kenntnis oder fahrlässige Unkenntnis.",
+        "Minderjährigenschutz geht vor."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 165 BGB",
+          "Beschränkt Geschäftsfähiger kann Vertreter sein"
+        ],
+        [
+          "§ 167 Abs. 1 BGB",
+          "Vollmachtserteilung gegenüber Vertreter oder Drittem"
+        ],
+        [
+          "§ 168 S. 2 BGB",
+          "Widerruf der Vollmacht trotz fortbestehendem Grundverhältnis"
+        ],
+        [
+          "§ 172 Abs. 1 BGB",
+          "Schutz des Dritten bei Vorlage der Vollmachtsurkunde"
+        ],
+        [
+          "§ 178 BGB",
+          "Widerrufsrecht des gutgläubigen Geschäftsgegners"
+        ],
+        [
+          "§ 181 BGB",
+          "Verbot des Insichgeschäfts"
+        ]
+      ],
+      "explanation": "§ 165 S. 13/18, § 167 S. 21, § 168 S. 25, § 172 S. 27, § 181 S. 33, § 178 S. 38.",
+      "hints": [
+        "§§ 170–173 schützen Dritte über Rechtsschein.",
+        "§ 178 betrifft die Zeit vor der Genehmigung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 13
+        },
+        {
+          "doc": "BGB_7",
+          "page": 21
+        },
+        {
+          "doc": "BGB_7",
+          "page": 25
+        },
+        {
+          "doc": "BGB_7",
+          "page": 27
+        },
+        {
+          "doc": "BGB_7",
+          "page": 33
+        },
+        {
+          "doc": "BGB_7",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Mini-Fall der Rechtsfigur zu.",
+      "pairs": [
+        [
+          "N holt für A ein genau bezeichnetes Buch zum festen Preis, ohne jeden Spielraum",
+          "Erklärungsbote"
+        ],
+        [
+          "Galerist verkauft gewerbsmäßig im eigenen Namen für Rechnung der Künstlerin",
+          "Mittelbare Stellvertretung (Kommission)"
+        ],
+        [
+          "S sagt im Fanshop, er kaufe für eine ungenannte Person",
+          "Offenes Geschäft für den, den es angeht"
+        ],
+        [
+          "F kauft bar einen Controller für D, ohne das zu erwähnen",
+          "Verdecktes Geschäft für den, den es angeht"
+        ],
+        [
+          "X gibt sich als der bekannte Unternehmer Y aus",
+          "Handeln unter fremdem Namen"
+        ]
+      ],
+      "explanation": "Bote S. 9; Kommission S. 8–9; offenes Geschäft S. 15–16; verdecktes Geschäft S. 16; Handeln unter fremdem Namen S. 17.",
+      "hints": [
+        "Entscheidend: eigener oder fremder Name – und weiß der Gegner das?",
+        "Beim Boten fehlt jeder Entscheidungsspielraum."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 8
+        },
+        {
+          "doc": "BGB_7",
+          "page": 9
+        },
+        {
+          "doc": "BGB_7",
+          "page": 15
+        },
+        {
+          "doc": "BGB_7",
+          "page": 16
+        },
+        {
+          "doc": "BGB_7",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung eines Anspruchs des Dritten gegen den Vertreter aus § 179 BGB in die richtige Reihenfolge.",
+      "items": [
+        "Vertreter hat im fremden Namen einen Vertrag geschlossen",
+        "Ohne Vertretungsmacht (auch nicht kraft Rechtsscheins)",
+        "Genehmigung verweigert oder gilt nach § 177 Abs. 2 als verweigert",
+        "Kein Ausschluss nach § 179 Abs. 3 (Kenntnis/Kennenmüssen des Dritten, Minderjährigkeit)",
+        "Rechtsfolge: Abs. 1 bei Kenntnis (Wahl Erfüllung/Schadensersatz), sonst Abs. 2 (Vertrauensschaden)"
+      ],
+      "explanation": "S. 40–44. Besteht eine Anscheinsvollmacht, ist der Vertretene gebunden und § 179 scheidet aus (S. 44–45).",
+      "hints": [
+        "Zuerst muss das Vertretergeschäft scheitern.",
+        "Der Umfang der Haftung hängt von der Kenntnis des Vertreters ab."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 40
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        },
+        {
+          "doc": "BGB_7",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Bringen Sie die Prüfung eines Insichgeschäfts nach § 181 BGB in die richtige Reihenfolge.",
+      "items": [
+        "Selbstkontrahieren oder Mehrvertretung",
+        "Keine Gestattung durch den Vertretenen (oder das Gesetz)",
+        "Nicht ausschließlich Erfüllung einer bereits wirksam bestehenden Verbindlichkeit",
+        "Keine teleologische Reduktion (Geschäft bringt dem Vertretenen nicht lediglich rechtlichen Vorteil)",
+        "Folge: schwebend unwirksam, Genehmigung analog §§ 177, 184 möglich"
+      ],
+      "explanation": "S. 33–36: Tatbestand, gesetzliche Ausnahmen, Rechtsprechungsausnahme, Rechtsfolge.",
+      "hints": [
+        "Erst der Tatbestand, dann die beiden Ausnahmen aus dem Wortlaut.",
+        "Die Ausnahme der Rechtsprechung knüpft an § 107 an."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 33
+        },
+        {
+          "doc": "BGB_7",
+          "page": 34
+        },
+        {
+          "doc": "BGB_7",
+          "page": 35
+        },
+        {
+          "doc": "BGB_7",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Tante T erteilt ihrer Nichte I eine Vollmacht über ihren Tod hinaus für ihr Vermögen. Nach dem Tod der T verkauft I im Namen der Erben ein Nachlassgrundstück. Was gilt nach dem Skript?",
+      "options": [
+        "Die Erben sind gebunden; I ist ihre Vertreterin, sie hätten die Vollmacht aber nach § 168 S. 2 widerrufen können.",
+        "Die Vollmacht ist mit dem Tod der T zwingend erloschen; I handelte ohne Vertretungsmacht.",
+        "Der Vertrag bindet I selbst, weil Tote nicht vertreten werden können.",
+        "Der Vertrag ist schwebend unwirksam, bis das Nachlassgericht zustimmt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Postmortale Vollmacht: Der Bevollmächtigte vertritt die Erben (Gesamtrechtsnachfolge, § 1922); deren Schutz ist das Widerrufsrecht (S. 25–26, BGH NJW 1969, 1245).",
+      "hints": [
+        "Wer tritt mit dem Tod in die Rechtsstellung der T ein?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 25
+        },
+        {
+          "doc": "BGB_7",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Angestellte E verkauft im Fahrradladen des Inhabers I dem Kunden K ein E-Bike. Über Vertretung wird kein Wort gesprochen. Wer ist Vertragspartner des K?",
+      "options": [
+        "I – beim unternehmensbezogenen Geschäft soll im Zweifel der Betriebsinhaber Vertragspartner werden.",
+        "E – sie hat ihren Fremdwillen nicht erklärt (§ 164 Abs. 2).",
+        "E und I gemeinsam als Gesamtschuldner.",
+        "Niemand – mangels Offenkundigkeit kommt kein Vertrag zustande."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Es genügt, dass sich das Handeln für einen anderen aus den Umständen ergibt (§ 164 Abs. 1 S. 2), etwa aus dem Ort des Vertragsschlusses (S. 14).",
+      "hints": [
+        "Lesen Sie § 164 Abs. 1 S. 2.",
+        "Was erwartet ein Kunde im Laden?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "D legt der Mofahändlerin V ein gefälschtes Schreiben der X vor, wonach X ein Mofa kaufen wolle. X weiß von nichts. Was gilt?",
+      "options": [
+        "Kein Vertrag mit X; D haftet der V entsprechend §§ 177 ff. wie ein Vertreter ohne Vertretungsmacht.",
+        "Der Vertrag kommt mit X zustande, die ihn aber nach §§ 120, 119 anfechten kann.",
+        "Der Vertrag kommt mit D zustande, weil er im eigenen Namen gehandelt hat.",
+        "X haftet aus Anscheinsvollmacht, weil ein Schreiben vorgelegt wurde."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Wer sich wissentlich und ohne Auftrag als Bote ausgibt, wird entsprechend §§ 177 ff. behandelt (S. 39). § 120 betrifft nur die unbewusst falsche Übermittlung durch einen echten Boten (S. 9).",
+      "hints": [
+        "Hat X überhaupt eine Erklärung abgegeben?",
+        "Pseudo-Bote ≈ Vertreter ohne Vertretungsmacht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "N kauft wissentlich ohne Vollmacht im Namen des M bei Händlerin B eine Sammleredition für 1.000 € (Marktwert 700 €). M verweigert die Genehmigung. B wählt Schadensersatz nach § 179 Abs. 1. Wie viel kann B verlangen?",
+      "options": [
+        "300 € – das Erfüllungsinteresse, berechnet nach der Differenztheorie",
+        "1.000 € – den vollen Kaufpreis",
+        "700 € – den Marktwert der Edition",
+        "Nur die Kosten des Vertragsschlusses (negatives Interesse)"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Schadensersatz wegen Nichterfüllung = positives Interesse; bei gegenseitigen Verträgen Differenz der Werte von Leistung und Gegenleistung (S. 43). Das negative Interesse gibt es nur bei Abs. 2.",
+      "hints": [
+        "Wie stünde B bei ordnungsgemäßer Erfüllung?",
+        "B behält die Edition."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 42
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "In welchen Fällen handelt jemand nach dem Skript als Vertreter ohne Vertretungsmacht? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Er wurde nie bevollmächtigt.",
+        "Er überschreitet den Umfang der erteilten Vollmacht.",
+        "Seine Vollmacht wird nach dem Vertretergeschäft wirksam angefochten.",
+        "Er handelt im Rahmen der Vollmacht und verletzt nur Weisungen aus dem Innenverhältnis."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die vier Fallgruppen auf S. 36–37 umfassen außerdem das Handeln nach Erlöschen der Vollmacht. Die letzte Option ist ein Missbrauch der Vertretungsmacht: Der Vertretene ist grundsätzlich gebunden (S. 45).",
+      "hints": [
+        "Rechtliches Können vs. rechtliches Dürfen.",
+        "Anfechtung wirkt nach § 142 Abs. 1 zurück."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 36
+        },
+        {
+          "doc": "BGB_7",
+          "page": 37
+        },
+        {
+          "doc": "BGB_7",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Die Haftung des Vertreters ohne Vertretungsmacht nach § 179 BGB setzt voraus, dass er den Mangel seiner Vertretungsmacht verschuldet hat.",
+      "answer": false,
+      "explanation": "§ 179 ist eine verschuldensunabhängige Vertrauens- bzw. Garantiehaftung aus gesetzlichem Schuldverhältnis (S. 40, 42). Auch bei Abs. 2 kommt es weder auf Verschulden noch auf Erkennbarkeit an (S. 43).",
+      "hints": [
+        "Wem weist das Gesetz das Risiko unklarer Vollmachten zu?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 40
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie in eigenen Worten das Offenkundigkeitsprinzip: Was verlangt es, wozu dient es und welche Funktion hat § 164 Abs. 2 BGB?",
+      "modelAnswer": "Der Vertreter muss die Erklärung im Namen des Vertretenen abgeben (§ 164 Abs. 1). Das muss nicht ausdrücklich geschehen; es genügt, dass sich das Handeln für einen anderen aus den Umständen ergibt (§ 164 Abs. 1 S. 2), maßgeblich ist der objektive Empfängerhorizont (§§ 133, 157), z.B. beim unternehmensbezogenen Geschäft. Zweck ist der Schutz des Geschäftsgegners: Er soll wissen, wer sein Vertragspartner ist. Wird der Wille, in fremdem Namen zu handeln, nicht erkennbar, wird der Erklärende nach § 164 Abs. 2 selbst verpflichtet – auch wenn er das nicht wollte. § 164 Abs. 2 ist allerdings nur eine Auslegungsregel. Ist dem Gegner die Person gleichgültig (Geschäft für den, den es angeht), kann auf die Offenkundigkeit verzichtet werden.",
+      "rubric": [
+        "Handeln im fremden Namen, ausdrücklich oder aus den Umständen",
+        "Objektiver Empfängerhorizont",
+        "Zweck: Schutz des Geschäftsgegners",
+        "§ 164 Abs. 2: Eigengeschäft bei fehlender Erkennbarkeit",
+        "Nur Auslegungsregel / Ausnahmen (Geschäft für den, den es angeht)"
+      ],
+      "explanation": "S. 14–16.",
+      "hints": [
+        "Wer soll durch das Prinzip geschützt werden?",
+        "Denken Sie an das Reisebüro-Beispiel."
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 14
+        },
+        {
+          "doc": "BGB_7",
+          "page": 15
+        },
+        {
+          "doc": "BGB_7",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "E bevollmächtigt A, für ihn bei G einen Gabelstapler zu kaufen. A kauft im Namen des E. Danach ficht E die Vollmachtserteilung wirksam wegen eines Irrtums an und verweigert die Genehmigung des Kaufs. A wusste bei Vertragsschluss nichts von einem Mangel, G auch nicht. Welche Ansprüche hat G gegen A, und kann A bei E Rückgriff nehmen?",
+      "modelAnswer": "Durch die Anfechtung ist die Vollmacht nach § 142 Abs. 1 rückwirkend nichtig; nach h.M. ist die Anfechtung auch nach Gebrauch der Vollmacht möglich. A handelte damit als Vertreter ohne Vertretungsmacht; der Kauf war schwebend unwirksam (§ 177 Abs. 1) und ist mit der Verweigerung der Genehmigung endgültig unwirksam. G kann A aus § 179 in Anspruch nehmen. Da A den Mangel der Vertretungsmacht nicht kannte, haftet er nur nach § 179 Abs. 2 auf den Vertrauensschaden, begrenzt auf das Erfüllungsinteresse; auf Verschulden kommt es nicht an. Ein Ausschluss nach § 179 Abs. 3 scheidet aus, weil G den Mangel weder kannte noch kennen musste. A kann seinerseits bei E nach § 122 Rückgriff nehmen, weil E durch die Anfechtung den Schaden ausgelöst hat.",
+      "rubric": [
+        "Anfechtung der Vollmacht, Rückwirkung § 142 Abs. 1",
+        "Anfechtbarkeit auch nach Gebrauch (h.M.)",
+        "Vertreter ohne Vertretungsmacht, § 177, Genehmigung verweigert",
+        "§ 179 Abs. 2: nur Vertrauensschaden, begrenzt durch positives Interesse",
+        "Kein Ausschluss nach § 179 Abs. 3",
+        "Rückgriff des A gegen E aus § 122"
+      ],
+      "explanation": "Anfechtung der Vollmacht S. 27–28; Fallgruppe c) S. 37; § 179 Abs. 2 S. 43.",
+      "hints": [
+        "Was bewirkt die Anfechtung für die Vollmacht?",
+        "Kannte A den Mangel?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 27
+        },
+        {
+          "doc": "BGB_7",
+          "page": 28
+        },
+        {
+          "doc": "BGB_7",
+          "page": 37
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        }
+      ]
     }
   ],
   "case": {
@@ -546,48 +1986,353 @@
         "part": "obersatz",
         "prompt": "Formulieren Sie den Obersatz.",
         "model": "Zwischen A und F könnte ein wirksamer Kaufvertrag über den Fernseher gemäß § 433 BGB zustande gekommen sein. Da A selbst keine Willenserklärung abgegeben hat, müsste ihr die Verkaufserklärung des F nach § 164 Abs. 1 S. 1 BGB zuzurechnen sein. Dies setzt voraus, dass F eine eigene Willenserklärung im Namen der A innerhalb der ihm zustehenden Vertretungsmacht abgegeben hat.",
-        "rubric": ["Konjunktiv", "§ 433 BGB als Vertragstyp", "Zurechnung über § 164 Abs. 1 S. 1 BGB", "Nennung der Voraussetzungen (eigene WE, im fremden Namen, Vertretungsmacht)"],
-        "hints": ["A war in Australien – wie kann ihr die Erklärung zugerechnet werden?"]
+        "rubric": [
+          "Konjunktiv",
+          "§ 433 BGB als Vertragstyp",
+          "Zurechnung über § 164 Abs. 1 S. 1 BGB",
+          "Nennung der Voraussetzungen (eigene WE, im fremden Namen, Vertretungsmacht)"
+        ],
+        "hints": [
+          "A war in Australien – wie kann ihr die Erklärung zugerechnet werden?"
+        ]
       },
       {
         "part": "definition",
         "prompt": "Definieren Sie die maßgeblichen Begriffe: Generalvollmacht, Insichgeschäft (Selbstkontrahieren) und die Ausnahmen des § 181 BGB; nennen Sie den Zweck des § 181 und die Folge eines Verstoßes.",
         "model": "Eine Generalvollmacht ist eine Vollmacht für alle oder fast alle Rechtsgeschäfte des Vollmachtgebers; ihr Umfang ist nach Treu und Glauben unter Berücksichtigung der aufgetragenen Geschäfte zu bestimmen. Ein Insichgeschäft in Form des Selbstkontrahierens liegt vor, wenn ein Vertreter im Namen des Vertretenen mit sich selbst im eigenen Namen ein Rechtsgeschäft vornimmt (§ 181 Alt. 1 BGB). Es ist unzulässig, sofern es dem Vertreter nicht gestattet ist oder ausschließlich in der Erfüllung einer Verbindlichkeit besteht. Die Gestattung ist ein einseitiges, empfangsbedürftiges, formfreies Rechtsgeschäft; sie kann konkludent erfolgen, muss dann aber unzweifelhaft aus den Umständen hervorgehen. § 181 BGB wird nach überwiegender Ansicht nicht als formale Ordnungsvorschrift, sondern als Schutzvorschrift verstanden, die den Vertretenen vor den Gefahren einer Interessenkollision auf Seiten des Vertreters bewahren soll. Ein Verstoß führt dazu, dass der Vertreter insoweit ohne Vertretungsmacht handelt; das Geschäft ist schwebend unwirksam und hängt von der Genehmigung des Vertretenen ab (§§ 177 Abs. 1, 184 BGB).",
-        "rubric": ["Generalvollmacht", "Selbstkontrahieren nach § 181 Alt. 1 BGB", "Ausnahmen: Gestattung, Erfüllung einer Verbindlichkeit", "Zweck: Schutz vor Interessenkollision (keine bloß formale Ordnungsvorschrift)", "Folge: schwebende Unwirksamkeit, Genehmigung"],
-        "hints": ["Formale Ordnungsvorschrift oder Schutznorm?", "Welche Ausnahmen nennt § 181?"]
+        "rubric": [
+          "Generalvollmacht",
+          "Selbstkontrahieren nach § 181 Alt. 1 BGB",
+          "Ausnahmen: Gestattung, Erfüllung einer Verbindlichkeit",
+          "Zweck: Schutz vor Interessenkollision (keine bloß formale Ordnungsvorschrift)",
+          "Folge: schwebende Unwirksamkeit, Genehmigung"
+        ],
+        "hints": [
+          "Formale Ordnungsvorschrift oder Schutznorm?",
+          "Welche Ausnahmen nennt § 181?"
+        ]
       },
       {
         "part": "subsumtion",
         "prompt": "Subsumieren Sie. Gehen Sie insbesondere darauf ein, dass F auf der Käuferseite durch B vertreten wurde.",
         "model": "F hat über den Verkauf selbst entschieden und damit eine eigene Willenserklärung abgegeben; er trat ausdrücklich für die abwesende A, also in ihrem Namen auf. Die Generalvollmacht erfasst grundsätzlich alle Geschäfte aus dem Rechtskreis der A und damit auch den Verkauf des Fernsehers. Die Vertretungsmacht könnte jedoch nach § 181 BGB ausgeschlossen sein. Dem Wortlaut nach fehlt es an der Personenidentität: Die Annahmeerklärung für den Käufer F gab nicht F selbst, sondern B als dessen Vertreter ab; formal schloss F also nicht mit sich selbst ab. Versteht man § 181 aber mit der überwiegenden Ansicht als Schutznorm gegen Interessenkonflikte, kommt es nicht nur auf die Art des Zustandekommens, sondern auch darauf an, für wen das Geschäft wirkt. Nach § 164 Abs. 1 BGB treffen die Wirkungen der Erklärung des B allein den F, der damit genauso am Vertrag beteiligt ist, als hätte er ihn selbst als Käufer geschlossen. Zudem unterliegt B als Vertreter den Weisungen des F. Die Gefahr, dass F die Interessen der A zugunsten eigener Vorteile vernachlässigt, ist daher ebenso groß wie beim unmittelbaren Selbstkontrahieren – wie der äußerst niedrige Preis zeigt. § 181 BGB ist folglich anwendbar. Eine ausdrückliche Gestattung hat A nicht erklärt. Auch in der Erteilung der Generalvollmacht liegt keine konkludente Gestattung solcher Vorteilsgeschäfte zulasten der A; besondere Umstände, die eine Gestattung zwingend nahelegen, sind nicht ersichtlich. Um die Erfüllung einer bereits bestehenden Verbindlichkeit geht es nicht. F handelte daher ohne Vertretungsmacht, sodass der Vertrag nach § 177 Abs. 1 BGB schwebend unwirksam war. Da A jede Genehmigung verweigert hat, ist er endgültig unwirksam geworden.",
-        "rubric": ["Eigene WE und Offenkundigkeit kurz bejaht", "Generalvollmacht deckt grundsätzlich den Verkauf", "Problem: fehlende formale Personenidentität wegen Vertretung durch B", "Teleologische Auslegung: Wirkung trifft F, B weisungsgebunden, gleiche Interessenkollision → § 181 anwendbar", "Keine Gestattung (auch nicht konkludent durch Generalvollmacht), keine Erfüllung einer Verbindlichkeit", "§ 177 Abs. 1: schwebend unwirksam; Verweigerung → endgültig unwirksam"],
-        "hints": ["Wen treffen die Wirkungen der Erklärung des B?", "Hat A durch die Generalvollmacht konkludent gestattet?"]
+        "rubric": [
+          "Eigene WE und Offenkundigkeit kurz bejaht",
+          "Generalvollmacht deckt grundsätzlich den Verkauf",
+          "Problem: fehlende formale Personenidentität wegen Vertretung durch B",
+          "Teleologische Auslegung: Wirkung trifft F, B weisungsgebunden, gleiche Interessenkollision → § 181 anwendbar",
+          "Keine Gestattung (auch nicht konkludent durch Generalvollmacht), keine Erfüllung einer Verbindlichkeit",
+          "§ 177 Abs. 1: schwebend unwirksam; Verweigerung → endgültig unwirksam"
+        ],
+        "hints": [
+          "Wen treffen die Wirkungen der Erklärung des B?",
+          "Hat A durch die Generalvollmacht konkludent gestattet?"
+        ]
       },
       {
         "part": "ergebnis",
         "prompt": "Formulieren Sie das Ergebnis.",
         "model": "Somit ist zwischen A und F kein wirksamer Kaufvertrag über den Fernseher gemäß § 433 BGB zustande gekommen.",
-        "rubric": ["Klares Ergebnis im Indikativ", "Bezug zur Fallfrage"],
-        "hints": ["Kurz und bezogen auf die Fallfrage."]
+        "rubric": [
+          "Klares Ergebnis im Indikativ",
+          "Bezug zur Fallfrage"
+        ],
+        "hints": [
+          "Kurz und bezogen auf die Fallfrage."
+        ]
       }
     ],
-    "src": [{"doc": "BGB_7", "page": 36}, {"doc": "BGB_7", "page": 61}, {"doc": "BGB_7", "page": 62}]
+    "src": [
+      {
+        "doc": "BGB_7",
+        "page": 36
+      },
+      {
+        "doc": "BGB_7",
+        "page": 61
+      },
+      {
+        "doc": "BGB_7",
+        "page": 62
+      }
+    ]
   },
   "flashcards": [
-    {"front": "Unmittelbare vs. mittelbare Stellvertretung?", "back": "Unmittelbar: Handeln im fremden Namen, Rechtsfolgen treffen den Vertretenen (§ 164). Mittelbar: Handeln im eigenen Namen für fremde Rechnung; nur wirtschaftliche Wirkung für den Hintermann (z.B. Kommission, § 383 HGB).", "src": [{"doc": "BGB_7", "page": 7}, {"doc": "BGB_7", "page": 8}]},
-    {"front": "Stellvertreter oder Bote – wie abgrenzen?", "back": "Vertreter gibt eigene WE ab (Mindestmaß an Entscheidungsfreiheit), Bote überbringt fertige fremde WE. Maßstab: objektiver Empfängerhorizont. Falschübermittlung durch Boten: Anfechtung §§ 120, 119.", "src": [{"doc": "BGB_7", "page": 9}, {"doc": "BGB_7", "page": 10}]},
-    {"front": "Drei Quellen der Vertretungsmacht?", "back": "Gewillkürt (Vollmacht, § 167), gesetzlich (z.B. Eltern § 1629, Organe wie GmbH-Geschäftsführer § 35 GmbHG) und Rechtsschein (gesetzlich z.B. § 56 HGB; Duldungs-, Anscheinsvollmacht).", "src": [{"doc": "BGB_7", "page": 10}, {"doc": "BGB_7", "page": 11}]},
-    {"front": "Voraussetzungen des § 164 Abs. 1 BGB?", "back": "1. Zulässigkeit (nicht höchstpersönlich), 2. eigene WE, 3. im Namen des Vertretenen (Offenkundigkeit), 4. Vertretungsmacht.", "src": [{"doc": "BGB_7", "page": 12}]},
-    {"front": "Warum kann ein Minderjähriger Vertreter sein?", "back": "Weil die Rechtsfolgen allein den Vertretenen treffen – das Geschäft ist für den Vertreter rechtlich neutral (§ 165).", "src": [{"doc": "BGB_7", "page": 13}, {"doc": "BGB_7", "page": 18}]},
-    {"front": "§ 164 Abs. 2 BGB – Inhalt und Charakter?", "back": "Tritt der Vertreterwille nicht erkennbar hervor, wird der Handelnde selbst Partei (Schutz des Geschäftsgegners). Nur Auslegungsregel: Ergeben die Umstände etwas anderes, kommt der Vertrag mit dem Dritten zustande.", "src": [{"doc": "BGB_7", "page": 14}, {"doc": "BGB_7", "page": 15}]},
-    {"front": "Handeln unter fremdem Namen – Lösungsschema?", "back": "Keine Identitätsvorstellung → Eigengeschäft. Identitätsvorstellung: Person gleichgültig → Eigengeschäft; nicht gleichgültig → Fremdgeschäft; mit Vertretungsmacht wirkt es für den Namensträger, ohne Vertretungsmacht §§ 177 ff. (jedenfalls analog).", "src": [{"doc": "BGB_7", "page": 17}, {"doc": "BGB_7", "page": 18}]},
-    {"front": "§ 166 Abs. 1 und Abs. 2 BGB?", "back": "Abs. 1: Für Willensmängel und Kenntnis/Kennenmüssen kommt es auf den Vertreter an; anfechten kann der Vertretene. Abs. 2: Handelt der Bevollmächtigte nach Weisungen, zählt zusätzlich das Wissen des Vollmachtgebers.", "src": [{"doc": "BGB_7", "page": 19}]},
-    {"front": "Abstraktheit der Vollmacht – was heißt das?", "back": "Vollmacht (Können, Außenverhältnis) ist vom Grundverhältnis (Dürfen, Innenverhältnis; z.B. Auftrag) zu trennen; sie kann trotz unwirksamen Grundverhältnisses wirksam sein. Durchbrechung: § 168 S. 1 (Erlöschen mit Grundverhältnis, Auslegungsregel).", "src": [{"doc": "BGB_7", "page": 23}, {"doc": "BGB_7", "page": 25}]},
-    {"front": "Schutz Dritter nach Erlöschen der Vollmacht?", "back": "§ 170: Außenvollmacht wirkt bis zur Anzeige des Erlöschens fort. § 172: Vorlage der Vollmachtsurkunde (Urschrift/Ausfertigung, nicht Abschrift). Allgemein: Wer wissentlich Rechtsschein einer Vollmacht setzt, ist gegenüber Gutgläubigen gebunden.", "src": [{"doc": "BGB_7", "page": 26}, {"doc": "BGB_7", "page": 27}]},
-    {"front": "Duldungs- vs. Anscheinsvollmacht?", "back": "Beide: wiederholtes Auftreten von gewisser Dauer, berechtigtes kausales Vertrauen, Geschäftsfähigkeit des Vertretenen. Duldung: Vertretener weiß es und schreitet nicht ein. Anschein: weiß es nicht, hätte es bei pflichtgemäßer Sorgfalt erkennen und verhindern können. Folge (h.M.): wie Vollmacht.", "src": [{"doc": "BGB_7", "page": 29}, {"doc": "BGB_7", "page": 31}, {"doc": "BGB_7", "page": 32}]},
-    {"front": "§ 181 BGB – Formen, Ausnahmen, Folge?", "back": "Selbstkontrahieren und Mehrvertretung. Zulässig bei Gestattung oder ausschließlicher Erfüllung einer (wirksam bestehenden) Verbindlichkeit; teleologische Reduktion bei lediglich rechtlichem Vorteil. Folge: schwebende Unwirksamkeit, Genehmigung möglich.", "src": [{"doc": "BGB_7", "page": 33}, {"doc": "BGB_7", "page": 34}, {"doc": "BGB_7", "page": 35}]},
-    {"front": "Optionen des Dritten bei Vertrag mit falsus procurator?", "back": "Abwarten der Genehmigung (§ 177 Abs. 1; Rückwirkung § 184 Abs. 1), Aufforderung (§ 177 Abs. 2: zwei Wochen, sonst verweigert), Widerruf bei Unkenntnis des Mangels (§ 178); nach Verweigerung § 179 gegen den Vertreter.", "src": [{"doc": "BGB_7", "page": 37}, {"doc": "BGB_7", "page": 38}]},
-    {"front": "§ 179 Abs. 1, 2, 3 BGB im Überblick?", "back": "Abs. 1: Vertreter kannte Mangel → Wahl Erfüllung oder Schadensersatz (positives Interesse). Abs. 2: kannte ihn nicht → negatives Interesse, begrenzt durch positives. Abs. 3: Ausschluss bei Kenntnis/Kennenmüssen des Dritten oder beschränkt geschäftsfähigem Vertreter ohne Zustimmung.", "src": [{"doc": "BGB_7", "page": 42}, {"doc": "BGB_7", "page": 43}, {"doc": "BGB_7", "page": 44}]},
-    {"front": "Missbrauch der Vertretungsmacht – Grundsatz und Ausnahmen?", "back": "Überschreitung nur des Innenverhältnisses: Vertretener grundsätzlich gebunden. Kollusion → § 138 Abs. 1 nichtig. Evidenz (Kenntnis/Aufdrängen; nicht einfache Fahrlässigkeit) → Rspr.: Einrede aus § 242; a.A. §§ 177 ff. analog.", "src": [{"doc": "BGB_7", "page": 45}, {"doc": "BGB_7", "page": 46}]}
+    {
+      "front": "Unmittelbare vs. mittelbare Stellvertretung?",
+      "back": "Unmittelbar: Handeln im fremden Namen, Rechtsfolgen treffen den Vertretenen (§ 164). Mittelbar: Handeln im eigenen Namen für fremde Rechnung; nur wirtschaftliche Wirkung für den Hintermann (z.B. Kommission, § 383 HGB).",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 7
+        },
+        {
+          "doc": "BGB_7",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "front": "Stellvertreter oder Bote – wie abgrenzen?",
+      "back": "Vertreter gibt eigene WE ab (Mindestmaß an Entscheidungsfreiheit), Bote überbringt fertige fremde WE. Maßstab: objektiver Empfängerhorizont. Falschübermittlung durch Boten: Anfechtung §§ 120, 119.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 9
+        },
+        {
+          "doc": "BGB_7",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "front": "Drei Quellen der Vertretungsmacht?",
+      "back": "Gewillkürt (Vollmacht, § 167), gesetzlich (z.B. Eltern § 1629, Organe wie GmbH-Geschäftsführer § 35 GmbHG) und Rechtsschein (gesetzlich z.B. § 56 HGB; Duldungs-, Anscheinsvollmacht).",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 10
+        },
+        {
+          "doc": "BGB_7",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "front": "Voraussetzungen des § 164 Abs. 1 BGB?",
+      "back": "1. Zulässigkeit (nicht höchstpersönlich), 2. eigene WE, 3. im Namen des Vertretenen (Offenkundigkeit), 4. Vertretungsmacht.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "front": "Warum kann ein Minderjähriger Vertreter sein?",
+      "back": "Weil die Rechtsfolgen allein den Vertretenen treffen – das Geschäft ist für den Vertreter rechtlich neutral (§ 165).",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 13
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "front": "§ 164 Abs. 2 BGB – Inhalt und Charakter?",
+      "back": "Tritt der Vertreterwille nicht erkennbar hervor, wird der Handelnde selbst Partei (Schutz des Geschäftsgegners). Nur Auslegungsregel: Ergeben die Umstände etwas anderes, kommt der Vertrag mit dem Dritten zustande.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 14
+        },
+        {
+          "doc": "BGB_7",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "front": "Handeln unter fremdem Namen – Lösungsschema?",
+      "back": "Keine Identitätsvorstellung → Eigengeschäft. Identitätsvorstellung: Person gleichgültig → Eigengeschäft; nicht gleichgültig → Fremdgeschäft; mit Vertretungsmacht wirkt es für den Namensträger, ohne Vertretungsmacht §§ 177 ff. (jedenfalls analog).",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 17
+        },
+        {
+          "doc": "BGB_7",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "front": "§ 166 Abs. 1 und Abs. 2 BGB?",
+      "back": "Abs. 1: Für Willensmängel und Kenntnis/Kennenmüssen kommt es auf den Vertreter an; anfechten kann der Vertretene. Abs. 2: Handelt der Bevollmächtigte nach Weisungen, zählt zusätzlich das Wissen des Vollmachtgebers.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "front": "Abstraktheit der Vollmacht – was heißt das?",
+      "back": "Vollmacht (Können, Außenverhältnis) ist vom Grundverhältnis (Dürfen, Innenverhältnis; z.B. Auftrag) zu trennen; sie kann trotz unwirksamen Grundverhältnisses wirksam sein. Durchbrechung: § 168 S. 1 (Erlöschen mit Grundverhältnis, Auslegungsregel).",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 23
+        },
+        {
+          "doc": "BGB_7",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "front": "Schutz Dritter nach Erlöschen der Vollmacht?",
+      "back": "§ 170: Außenvollmacht wirkt bis zur Anzeige des Erlöschens fort. § 172: Vorlage der Vollmachtsurkunde (Urschrift/Ausfertigung, nicht Abschrift). Allgemein: Wer wissentlich Rechtsschein einer Vollmacht setzt, ist gegenüber Gutgläubigen gebunden.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 26
+        },
+        {
+          "doc": "BGB_7",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "front": "Duldungs- vs. Anscheinsvollmacht?",
+      "back": "Beide: wiederholtes Auftreten von gewisser Dauer, berechtigtes kausales Vertrauen, Geschäftsfähigkeit des Vertretenen. Duldung: Vertretener weiß es und schreitet nicht ein. Anschein: weiß es nicht, hätte es bei pflichtgemäßer Sorgfalt erkennen und verhindern können. Folge (h.M.): wie Vollmacht.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 29
+        },
+        {
+          "doc": "BGB_7",
+          "page": 31
+        },
+        {
+          "doc": "BGB_7",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "front": "§ 181 BGB – Formen, Ausnahmen, Folge?",
+      "back": "Selbstkontrahieren und Mehrvertretung. Zulässig bei Gestattung oder ausschließlicher Erfüllung einer (wirksam bestehenden) Verbindlichkeit; teleologische Reduktion bei lediglich rechtlichem Vorteil. Folge: schwebende Unwirksamkeit, Genehmigung möglich.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 33
+        },
+        {
+          "doc": "BGB_7",
+          "page": 34
+        },
+        {
+          "doc": "BGB_7",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "front": "Optionen des Dritten bei Vertrag mit falsus procurator?",
+      "back": "Abwarten der Genehmigung (§ 177 Abs. 1; Rückwirkung § 184 Abs. 1), Aufforderung (§ 177 Abs. 2: zwei Wochen, sonst verweigert), Widerruf bei Unkenntnis des Mangels (§ 178); nach Verweigerung § 179 gegen den Vertreter.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 37
+        },
+        {
+          "doc": "BGB_7",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "front": "§ 179 Abs. 1, 2, 3 BGB im Überblick?",
+      "back": "Abs. 1: Vertreter kannte Mangel → Wahl Erfüllung oder Schadensersatz (positives Interesse). Abs. 2: kannte ihn nicht → negatives Interesse, begrenzt durch positives. Abs. 3: Ausschluss bei Kenntnis/Kennenmüssen des Dritten oder beschränkt geschäftsfähigem Vertreter ohne Zustimmung.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 42
+        },
+        {
+          "doc": "BGB_7",
+          "page": 43
+        },
+        {
+          "doc": "BGB_7",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "front": "Missbrauch der Vertretungsmacht – Grundsatz und Ausnahmen?",
+      "back": "Überschreitung nur des Innenverhältnisses: Vertretener grundsätzlich gebunden. Kollusion → § 138 Abs. 1 nichtig. Evidenz (Kenntnis/Aufdrängen; nicht einfache Fahrlässigkeit) → Rspr.: Einrede aus § 242; a.A. §§ 177 ff. analog.",
+      "src": [
+        {
+          "doc": "BGB_7",
+          "page": 45
+        },
+        {
+          "doc": "BGB_7",
+          "page": 46
+        }
+      ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 164 Abs. 1 BGB",
+      "inhalt": "Erklärung im fremden Namen mit Vertretungsmacht wirkt direkt für und gegen den Vertretenen."
+    },
+    {
+      "norm": "§ 165 BGB",
+      "inhalt": "Auch ein beschränkt Geschäftsfähiger kann Vertreter sein – das Geschäft ist für ihn rechtlich neutral."
+    },
+    {
+      "norm": "§ 164 Abs. 2 BGB",
+      "inhalt": "Wird der Fremdwille nicht erkennbar, handelt der Erklärende im Zweifel im eigenen Namen."
+    },
+    {
+      "norm": "§ 166 Abs. 1 BGB",
+      "inhalt": "Für Willensmängel und Kenntnis kommt es auf den Vertreter an."
+    },
+    {
+      "norm": "§ 166 Abs. 2 BGB",
+      "inhalt": "Handelt der Vertreter nach Weisungen, zählt auch das Wissen des Vollmachtgebers."
+    },
+    {
+      "norm": "§ 167 Abs. 1 BGB",
+      "inhalt": "Vollmacht wird gegenüber dem Vertreter (Innen-) oder dem Dritten (Außenvollmacht) erteilt."
+    },
+    {
+      "norm": "§ 168 BGB",
+      "inhalt": "Erlöschen nach dem Grundverhältnis; Widerruf ist auch bei fortbestehendem Grundverhältnis möglich."
+    },
+    {
+      "norm": "§ 172 Abs. 1 BGB",
+      "inhalt": "Wer eine Vollmachtsurkunde aushändigt, haftet dem Dritten, dem sie vorgelegt wird, wie bei wirksamer Vollmacht."
+    },
+    {
+      "norm": "§ 181 BGB",
+      "inhalt": "Insichgeschäft verboten, außer gestattet oder ausschließlich Erfüllung einer Verbindlichkeit."
+    },
+    {
+      "norm": "§ 177 Abs. 1 BGB",
+      "inhalt": "Vertrag des Vertreters ohne Vertretungsmacht ist schwebend unwirksam bis zur Genehmigung."
+    },
+    {
+      "norm": "§ 177 Abs. 2 BGB",
+      "inhalt": "Aufforderung zur Genehmigung: Antwort nur noch an den Dritten, nach zwei Wochen gilt sie als verweigert."
+    },
+    {
+      "norm": "§ 178 BGB",
+      "inhalt": "Der gutgläubige Dritte kann bis zur Genehmigung widerrufen."
+    },
+    {
+      "norm": "§ 179 Abs. 1 BGB",
+      "inhalt": "Vertreter, der den Mangel kannte, haftet nach Wahl des Dritten auf Erfüllung oder Schadensersatz."
+    },
+    {
+      "norm": "§ 179 Abs. 2 BGB",
+      "inhalt": "Kannte er den Mangel nicht, haftet er nur auf den Vertrauensschaden, höchstens bis zum Erfüllungsinteresse."
+    },
+    {
+      "norm": "§ 179 Abs. 3 BGB",
+      "inhalt": "Keine Haftung, wenn der Dritte den Mangel kannte oder kennen musste, und grundsätzlich nicht für Minderjährige."
+    }
   ]
 }

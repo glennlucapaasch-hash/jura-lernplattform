@@ -22,6 +22,20 @@
           "doc": "BGB_5",
           "page": 44
         }
+      ],
+      "merksatz": "Schwebend wartet auf Genehmigung, anfechtbar auf Anfechtung – nichtig ist von vornherein und dauerhaft unwirksam.",
+      "norms": [
+        "§ 177 BGB",
+        "§ 123 Abs. 1 BGB",
+        "§ 142 BGB",
+        "§ 104 BGB",
+        "§ 105 BGB",
+        "§ 125 BGB",
+        "§ 134 BGB",
+        "§ 138 BGB",
+        "§§ 307 ff. BGB",
+        "§ 139 BGB",
+        "§ 306 Abs. 1 BGB"
       ]
     },
     {
@@ -42,6 +56,19 @@
           "doc": "BGB_5",
           "page": 46
         }
+      ],
+      "merksatz": "Verbotsgesetz verletzt heißt nicht automatisch nichtig – entscheidend ist, ob Sinn und Zweck des Verbots die Nichtigkeit verlangen.",
+      "norms": [
+        "§ 134 BGB",
+        "§ 925 Abs. 2 BGB",
+        "§ 276 Abs. 3 BGB",
+        "§ 1111 BGB",
+        "§ 136 Abs. 1 AktG",
+        "§ 47 Abs. 4 GmbHG",
+        "§ 16 Abs. 2 UWG",
+        "§ 613a BGB",
+        "§ 299 StGB",
+        "Art. 3 Abs. 1 GG"
       ]
     },
     {
@@ -70,6 +97,10 @@
           "doc": "BGB_5",
           "page": 73
         }
+      ],
+      "merksatz": "Trifft das Verbot beide, fällt das Geschäft; trifft es nur einen, bleibt es meist bestehen – Umgehen hilft nicht, wenn der Erfolg verboten ist.",
+      "norms": [
+        "§ 134 BGB"
       ]
     },
     {
@@ -90,6 +121,12 @@
           "doc": "BGB_5",
           "page": 51
         }
+      ],
+      "merksatz": "Was die Rechtsgemeinschaft unerträglich findet, gilt nicht – und meist fällt dann das ganze Geschäft.",
+      "norms": [
+        "§ 138 Abs. 1 BGB",
+        "§ 139 BGB",
+        "§ 826 BGB"
       ]
     },
     {
@@ -110,6 +147,11 @@
           "doc": "BGB_5",
           "page": 54
         }
+      ],
+      "merksatz": "Gesamtcharakter zählt: Inhalt, Beweggrund, Zweck – Kenntnis der Umstände genügt, Unrechtsbewusstsein braucht es nicht.",
+      "norms": [
+        "§ 138 Abs. 1 BGB",
+        "Art. 11 GG"
       ]
     },
     {
@@ -126,6 +168,15 @@
           "doc": "BGB_5",
           "page": 55
         }
+      ],
+      "merksatz": "§ 138 ist das Einfallstor der Grundrechte – doch auch die Vertragsfreiheit steht im Grundgesetz.",
+      "norms": [
+        "§ 138 Abs. 1 BGB",
+        "Art. 6 GG",
+        "Art. 2 Abs. 1 GG",
+        "Art. 20 Abs. 1 GG",
+        "Art. 28 Abs. 1 GG",
+        "§ 242 BGB"
       ]
     },
     {
@@ -150,6 +201,11 @@
           "doc": "BGB_5",
           "page": 59
         }
+      ],
+      "merksatz": "Wer knebelt oder übersichert, verliert den Vertrag; wer die Geliebte bedenkt, handelt meist erlaubt.",
+      "norms": [
+        "§ 138 Abs. 1 BGB",
+        "§ 1 ProstG"
       ]
     },
     {
@@ -178,6 +234,12 @@
           "doc": "BGB_5",
           "page": 63
         }
+      ],
+      "merksatz": "Wucher braucht alle vier: Vorteil, auffälliges Missverhältnis, Schwächelage, Ausbeutung – und wird vor Absatz 1 geprüft.",
+      "norms": [
+        "§ 138 Abs. 2 BGB",
+        "§ 138 Abs. 1 BGB",
+        "§ 818 Abs. 3 BGB"
       ]
     },
     {
@@ -202,6 +264,18 @@
           "doc": "BGB_5",
           "page": 66
         }
+      ],
+      "merksatz": "Krasse Überforderung plus zurechenbare Ausnutzung – dann ist die Bürgschaft nichtig.",
+      "norms": [
+        "§ 138 Abs. 1 BGB",
+        "§ 242 BGB",
+        "Art. 1 Abs. 1 GG",
+        "Art. 2 Abs. 1 GG",
+        "§ 1353 Abs. 1 BGB",
+        "§ 241 Abs. 2 BGB",
+        "§ 311 Abs. 2 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 122 Abs. 2 BGB"
       ]
     },
     {
@@ -218,6 +292,15 @@
           "doc": "BGB_5",
           "page": 67
         }
+      ],
+      "merksatz": "AGB prüft man rückwärts – § 309, § 308, § 307; fällt eine Klausel, bleibt der Vertrag.",
+      "norms": [
+        "§ 307 BGB",
+        "§ 308 BGB",
+        "§ 309 BGB",
+        "§ 309 Nr. 1 BGB",
+        "§ 306 Abs. 1 BGB",
+        "§ 139 BGB"
       ]
     }
   ],
@@ -1167,6 +1250,456 @@
           "page": 67
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 134 BGB: Ein Rechtsgeschäft, das gegen ein gesetzliches Verbot verstößt, ist nichtig, wenn sich nicht aus dem Gesetz {{1}} ergibt. § 134 stellt deshalb nur eine {{2}} auf.",
+      "blanks": [
+        [
+          "ein anderes"
+        ],
+        [
+          "Auslegungsregel"
+        ]
+      ],
+      "explanation": "Der Halbsatz „wenn sich nicht aus dem Gesetz ein anderes ergibt“ zeigt, dass stets nach Sinn und Zweck des Verbots zu fragen ist (BGHZ 45, 322, 326; S. 44).",
+      "hints": [
+        "Der Nachsatz ist der Schlüssel.",
+        "Keine Rechtsfolgenanordnung, sondern eine Regel zur …"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "§ 138 Abs. 1: Ein Rechtsgeschäft, das gegen die {{1}} verstößt, ist nichtig. Wucher (Abs. 2) setzt u.a. voraus, dass jemand unter Ausbeutung der {{2}}, der Unerfahrenheit, des Mangels an Urteilsvermögen oder der erheblichen Willensschwäche eines anderen Vermögensvorteile erlangt, die in einem {{3}} zu der Leistung stehen.",
+      "blanks": [
+        [
+          "guten Sitten"
+        ],
+        [
+          "Zwangslage"
+        ],
+        [
+          "auffälligen Missverhältnis",
+          "auffälligen Mißverhältnis"
+        ]
+      ],
+      "explanation": "Generalklausel S. 49–50; Wuchertatbestand S. 59–60 – alle Voraussetzungen müssen kumulativ vorliegen.",
+      "hints": [
+        "Abs. 1: zwei Wörter, die man mit „Moral“ übersetzen kann.",
+        "Abs. 2: Die erste Schwächelage in der Aufzählung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 49
+        },
+        {
+          "doc": "BGB_5",
+          "page": 60
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wird ein anfechtbares Rechtsgeschäft angefochten, ist es als von Anfang an {{1}} anzusehen (§ 142 BGB); man spricht von Wirkung ex {{2}}.",
+      "blanks": [
+        [
+          "nichtig"
+        ],
+        [
+          "tunc"
+        ]
+      ],
+      "explanation": "Anfechtbarkeit ist eine eigene Form der Unwirksamkeit: Erst die Anfechtungserklärung vernichtet das Geschäft rückwirkend (S. 43).",
+      "hints": [
+        "Gleiche Rechtsfolge wie bei §§ 134, 138.",
+        "Lateinisch: „von damals an“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Form der Unwirksamkeit ihrer Beschreibung zu.",
+      "pairs": [
+        [
+          "Schwebende Unwirksamkeit (z.B. § 177 BGB)",
+          "Noch unwirksam, kann durch Genehmigung wirksam werden"
+        ],
+        [
+          "Anfechtbarkeit (z.B. § 123 Abs. 1 BGB)",
+          "Wirksam, kann aber durch Erklärung rückwirkend vernichtet werden"
+        ],
+        [
+          "Nichtigkeit",
+          "Dauernd unwirksam, aber kein reines Nullum"
+        ]
+      ],
+      "explanation": "Drei Formen der Unwirksamkeit (S. 43–44).",
+      "hints": [
+        "Welche Form ist zunächst wirksam?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 43
+        },
+        {
+          "doc": "BGB_5",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Skript-Fall seinem Ergebnis zu.",
+      "pairs": [
+        [
+          "Lebensmittelverkauf nach Ladenschluss",
+          "Wirksam – Ordnungsvorschrift gegen Zeit/Ort, nur an den Verkäufer gerichtet"
+        ],
+        [
+          "Geschenk an Angestellten entgegen § 3 Abs. 2 S. 1 TVöD",
+          "Wirksam – Verbot richtet sich einseitig an den Angestellten"
+        ],
+        [
+          "Nachträgliche „Ohne-Rechnung-Abrede“",
+          "Gesamter Werkvertrag nichtig"
+        ],
+        [
+          "Gründung einer „Partei“ zur Umgehung der Indizierung",
+          "Nichtig – das Verbot will den Erfolg schlechthin verhindern"
+        ],
+        [
+          "Fluchthelfervertrag",
+          "Nicht sittenwidrig – Gebrauch der Freizügigkeit (Art. 11 GG)"
+        ]
+      ],
+      "explanation": "Schwarzarbeit S. 47–48, TVöD und Ladenschluss S. 48 (Lösung S. 73), Umgehung S. 49, Fluchthelfer S. 53.",
+      "hints": [
+        "Normrichtung: an wen richtet sich das Verbot?",
+        "Bei der Umgehung kommt es auf den Zweck des Verbots an."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 47
+        },
+        {
+          "doc": "BGB_5",
+          "page": 48
+        },
+        {
+          "doc": "BGB_5",
+          "page": 49
+        },
+        {
+          "doc": "BGB_5",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung des Wuchers (§ 138 Abs. 2 BGB) in eine sinnvolle Reihenfolge.",
+      "items": [
+        "Rechtsgeschäft, durch das sich jemand für eine Leistung Vermögensvorteile versprechen oder gewähren lässt",
+        "Auffälliges Missverhältnis zwischen Leistung und Gegenleistung (objektiver Wertvergleich)",
+        "Schwächelage des Bewucherten: Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder erhebliche Willensschwäche",
+        "Ausbeutung: bewusste Ausnutzung in Kenntnis von Schwächelage und Missverhältnis",
+        "Rechtsfolge: Nichtigkeit"
+      ],
+      "explanation": "Tatbestand nach S. 60–61; erst objektive, dann subjektive Merkmale. Ausbeutungsabsicht ist nicht erforderlich.",
+      "hints": [
+        "Erst das Geschäft, dann der Wertvergleich.",
+        "Das subjektive Merkmal kommt zuletzt."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 60
+        },
+        {
+          "doc": "BGB_5",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "G verpachtet P eine kleine Bäckerei. Der Vertrag verbietet P, nach Pachtende im Umkreis von 100 km eine Bäckerei zu betreiben. Was gilt nach dem Skript?",
+      "options": [
+        "Die Klausel ist nach § 138 Abs. 1 nichtig; der übrige Pachtvertrag kann nach § 139 aufrechterhalten werden",
+        "Der gesamte Pachtvertrag ist zwingend nichtig",
+        "Die Klausel ist wirksam, weil Wettbewerbsverbote stets zulässig sind",
+        "Die Klausel wird auf einen angemessenen Umkreis reduziert"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach dem Beispiel nach OLG Celle (S. 51) schränkt die Klausel die wirtschaftliche Freiheit sittenwidrig ein; dem Rest des Vertrags ist kein Sittenverstoß vorzuwerfen, er kann über § 139 bestehen bleiben, wenn dessen Voraussetzungen vorliegen.",
+      "hints": [
+        "Ist der ganze Vertrag sittenwidrig oder nur ein Teil?",
+        "Welche Norm regelt die Teilnichtigkeit?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Händler H verkauft dem unerfahrenen K unter bewusster Ausnutzung dieser Unerfahrenheit einen Gebrauchtwagen zum dreifachen Wert. H meint, dann müsse K eben den angemessenen Preis zahlen. Zu Recht?",
+      "options": [
+        "Nein – der Vertrag ist insgesamt nichtig; eine Reduktion auf einen zulässigen Preis über § 139 scheidet aus",
+        "Ja – der Preis wird über § 139 auf den angemessenen Betrag herabgesetzt",
+        "Ja – § 138 erfasst nur die Preisabrede",
+        "Nein – K muss den vollen Preis zahlen, weil er unterschrieben hat"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Sonst könnte der Verkäufer risikolos überhöhte Preise verlangen, denn ein angemessener Preis würde ihm jedenfalls zugesprochen (S. 51). Es bleibt bei der Gesamtnichtigkeit.",
+      "hints": [
+        "Welchen Anreiz hätte H, wenn ihm stets der angemessene Preis bliebe?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A gewährt B ein Darlehen unter der Abrede, dass B den A heiratet, damit A gegenüber der Ausländerbehörde ein Aufenthaltsrecht vortäuschen kann. Wie ist der Darlehensvertrag zu beurteilen?",
+      "options": [
+        "Nichtig nach § 138 Abs. 1 – Missachtung des durch Art. 6 GG geschützten Instituts der Ehe",
+        "Wirksam, weil Grundrechte im Privatrecht keine Rolle spielen",
+        "Nichtig nach § 134 i.V.m. Art. 6 GG als unmittelbarem Verbotsgesetz",
+        "Wirksam, aber nach § 123 anfechtbar"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Beispiel Scheinehe (OLG Düsseldorf, MDR 1983, 932; S. 55): Über § 138 Abs. 1 wirken die Wertungen des Grundgesetzes ins Privatrecht (mittelbare Drittwirkung).",
+      "hints": [
+        "Welche Generalklausel ist das „Einfallstor der Grundrechte“?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Unternehmer S steht kurz vor der Zahlungsunfähigkeit. Er überträgt sein letztes verwertbares Vermögen auf seinen Gläubiger G; beide rechnen damit, dass andere Gläubiger dadurch über die Kreditwürdigkeit des S getäuscht und geschädigt werden. Wie ist der Vertrag zu beurteilen?",
+      "options": [
+        "Sittenwidrig und nach § 138 Abs. 1 nichtig (Gläubigerbenachteiligung)",
+        "Wirksam, weil eine Täuschung nicht Zweck des Handelns war",
+        "Wirksam, weil jeder Gläubiger sich zuerst befriedigen darf",
+        "Nur nach § 138 Abs. 2 zu beurteilen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Übertragung des letzten zur Gläubigerbefriedigung tauglichen Vermögens ist sittenwidrig, wenn andere Gläubiger getäuscht werden und beide zusammenwirken; die Täuschung muss nicht Zweck sein, es genügt, dass sie mit der Schädigung rechneten (BGH ZIP 1995, 630; S. 58).",
+      "hints": [
+        "Reicht es, mit der Schädigung zu rechnen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 58
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zu § 138 Abs. 1 als Generalklausel treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Maßgeblich ist die Sozialgeltung sittlicher Regeln, nicht die persönliche Anschauung des Richters",
+        "Vorteil der Generalklausel ist ihre Anpassungsfähigkeit an gewandelte Wertvorstellungen",
+        "§ 138 kann auch auf öffentlich-rechtliche Verträge Anwendung finden",
+        "Das Gesetz enthält einen abschließenden Katalog sittenwidriger Geschäfte"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Konkretisierung durch den Richter nach der Sozialgeltung sittlicher Regeln, Anpassungsfähigkeit als Vorteil, Missbrauchsgefahr als Nachteil (S. 50); breiter Anwendungsbereich bis zu öffentlich-rechtlichen Verträgen (S. 51). Einen abschließenden Katalog gibt es nicht – nur von Rechtsprechung gebildete Fallgruppen.",
+      "hints": [
+        "Generalklausel = bewusst offen formuliert.",
+        "Fallgruppen stammen aus der Rechtsprechung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 50
+        },
+        {
+          "doc": "BGB_5",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bei Ratenkrediten liegt nach der Rechtsprechung ein auffälliges Missverhältnis in der Regel vor, wenn der effektive Vertragszins rund doppelt so hoch ist wie der Marktzins.",
+      "answer": true,
+      "explanation": "Marktvergleich: relativ ca. 100 % über dem Marktzins (BGHZ 99, 333) oder absolut ca. 12 Prozentpunkte darüber (BGHZ 110, 336); feste Zinsobergrenzen kennt das BGB nicht (S. 61–62).",
+      "hints": [
+        "Relativ oder absolut – es gibt zwei Maßstäbe."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 61
+        },
+        {
+          "doc": "BGB_5",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ein Testament zugunsten der Geliebten ist nach der Rechtsprechung des BGH grundsätzlich sittenwidrig.",
+      "answer": false,
+      "explanation": "Der BGH betont die Testierfreiheit: Sittenwidrigkeit nur in besonders herausragenden Ausnahmefällen, etwa wenn die Verfügung lediglich als Entgelt für sexuelle Hingabe gedacht ist; eine Vermutung dafür gibt es nicht (S. 58–59).",
+      "hints": [
+        "Wie hat sich die Moralauffassung seit dem Reichsgericht verändert?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 58
+        },
+        {
+          "doc": "BGB_5",
+          "page": 59
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Vergleichen Sie die Rechtsfolge der Teilnichtigkeit nach § 139 BGB mit der Regel des § 306 Abs. 1 BGB bei unwirksamen AGB-Klauseln und erklären Sie den Grund für den Unterschied.",
+      "modelAnswer": "Nach § 139 ist bei Nichtigkeit eines Teils im Zweifel das ganze Rechtsgeschäft nichtig, es sei denn, es wäre auch ohne den nichtigen Teil vorgenommen worden. Bei AGB gilt nach § 306 Abs. 1 das Gegenteil: Sind einzelne Klauseln nicht einbezogen oder unwirksam, bleibt der Vertrag im Übrigen wirksam. Grund ist der Schutz des Vertragspartners des Verwenders: Er soll seine vertraglichen Ansprüche nicht insgesamt verlieren, nur weil der Verwender unzulässige Klauseln gestellt hat. Die Lücke wird nach § 306 Abs. 2 mit den gesetzlichen Vorschriften gefüllt.",
+      "rubric": [
+        "§ 139: im Zweifel Gesamtnichtigkeit",
+        "§ 306 Abs. 1: Vertrag bleibt im Übrigen wirksam",
+        "Begründung: Schutz des Vertragspartners des Verwenders"
+      ],
+      "explanation": "Grundsatz und AGB-Besonderheit: S. 44 und S. 67.",
+      "hints": [
+        "Wen schützt die AGB-Regel?",
+        "„Im Zweifel“ – wofür?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 44
+        },
+        {
+          "doc": "BGB_5",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Der Bäckermeister B kann seine Lieferanten nicht mehr bezahlen; ohne neues Geld droht die Schließung seines Betriebs. Kreditvermittler W, der das weiß, gewährt ihm ein Darlehen zu einem Zins, der den Marktzins um mehr als das Dreifache übersteigt. Ist der Vertrag wirksam, und was muss B zurückzahlen?",
+      "modelAnswer": "In Betracht kommt Wucher nach § 138 Abs. 2, der vor § 138 Abs. 1 zu prüfen ist. Ein Rechtsgeschäft, durch das W sich für seine Leistung (Darlehen) Vermögensvorteile (Zinsen) versprechen lässt, liegt vor. Ein auffälliges Missverhältnis ist beim Marktvergleich in der Regel gegeben, wenn der Vertragszins rund doppelt so hoch wie der Marktzins ist; hier übersteigt er ihn um mehr als das Dreifache. B befindet sich in einer Zwangslage: Ihm droht ein schwerer wirtschaftlicher Nachteil, nämlich die Gefährdung seines bestehenden Betriebs, nicht nur das Scheitern von Zukunftsplänen. W kannte diese Lage und das Missverhältnis und nutzte sie bewusst aus (Ausbeutung); eine Ausbeutungsabsicht ist nicht nötig. Der Darlehensvertrag ist nach § 138 Abs. 2 nichtig. W kann keine Zinsen verlangen; B muss die Darlehenssumme aber in der vereinbarten Zeitfolge zurückzahlen.",
+      "rubric": [
+        "Prüfung Abs. 2 vor Abs. 1",
+        "Auffälliges Missverhältnis per Marktvergleich",
+        "Zwangslage: Gefährdung des Bestehenden",
+        "Ausbeutung: Kenntnis und bewusste Ausnutzung",
+        "Rechtsfolge: Nichtigkeit, keine Zinsen, Rückzahlung in vereinbarter Zeitfolge"
+      ],
+      "explanation": "Wucher S. 59–61, Marktvergleich und Rechtsfolge S. 61–62.",
+      "hints": [
+        "Zukunftspläne oder Bestehendes – was ist hier gefährdet?",
+        "Muss B sofort alles zurückzahlen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 59
+        },
+        {
+          "doc": "BGB_5",
+          "page": 60
+        },
+        {
+          "doc": "BGB_5",
+          "page": 61
+        },
+        {
+          "doc": "BGB_5",
+          "page": 62
+        }
+      ]
     }
   ],
   "case": {
@@ -1415,6 +1948,60 @@
           "page": 65
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 142 BGB",
+      "inhalt": "Ein angefochtenes Geschäft ist von Anfang an nichtig."
+    },
+    {
+      "norm": "§ 139 BGB",
+      "inhalt": "Ist ein Teil nichtig, ist im Zweifel das ganze Geschäft nichtig."
+    },
+    {
+      "norm": "§ 306 Abs. 1 BGB",
+      "inhalt": "Bei unwirksamen AGB-Klauseln bleibt der übrige Vertrag wirksam."
+    },
+    {
+      "norm": "§ 134 BGB",
+      "inhalt": "Verstoß gegen ein gesetzliches Verbot führt zur Nichtigkeit – wenn das Gesetz nichts anderes ergibt."
+    },
+    {
+      "norm": "§ 299 StGB",
+      "inhalt": "Bestechung im geschäftlichen Verkehr – Beispiel für ein Verbotsgesetz."
+    },
+    {
+      "norm": "§ 138 Abs. 1 BGB",
+      "inhalt": "Sittenwidrige Rechtsgeschäfte sind nichtig."
+    },
+    {
+      "norm": "§ 826 BGB",
+      "inhalt": "Wer vorsätzlich sittenwidrig schädigt, schuldet Schadensersatz."
+    },
+    {
+      "norm": "§ 138 Abs. 2 BGB",
+      "inhalt": "Wucher: Ausbeutung einer Schwächelage bei auffälligem Missverhältnis macht nichtig."
+    },
+    {
+      "norm": "§ 818 Abs. 3 BGB",
+      "inhalt": "Wer nicht mehr bereichert ist, muss grundsätzlich nichts mehr herausgeben."
+    },
+    {
+      "norm": "§ 280 Abs. 1 BGB",
+      "inhalt": "Schadensersatz bei Pflichtverletzung – mit §§ 241 Abs. 2, 311 Abs. 2 als culpa in contrahendo."
+    },
+    {
+      "norm": "§ 309 BGB",
+      "inhalt": "AGB-Klauselverbote ohne Wertungsmöglichkeit."
+    },
+    {
+      "norm": "§ 308 BGB",
+      "inhalt": "AGB-Klauselverbote mit Wertungsmöglichkeit."
+    },
+    {
+      "norm": "§ 307 BGB",
+      "inhalt": "Generalklausel: unangemessen benachteiligende AGB-Klauseln sind unwirksam."
     }
   ]
 }

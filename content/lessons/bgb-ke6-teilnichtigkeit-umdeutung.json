@@ -22,6 +22,12 @@
           "doc": "BGB_6",
           "page": 38
         }
+      ],
+      "merksatz": "Ein fauler Apfel verdirbt im Zweifel den ganzen Korb – außer die Parteien hätten den Rest auch allein gewollt (§ 139).",
+      "norms": [
+        "§ 139 BGB",
+        "§ 134 BGB",
+        "§ 138 BGB"
       ]
     },
     {
@@ -38,6 +44,12 @@
           "doc": "BGB_6",
           "page": 39
         }
+      ],
+      "merksatz": "Erst teilen, dann wollen: Nur ein selbständig lebensfähiger Rest kann nach dem hypothetischen Parteiwillen überleben.",
+      "norms": [
+        "§ 139 BGB",
+        "§ 138 BGB",
+        "§ 581 BGB"
       ]
     },
     {
@@ -54,6 +66,10 @@
           "doc": "BGB_6",
           "page": 40
         }
+      ],
+      "merksatz": "Getrennte Urkunden, ein Schicksal: Was nach dem Parteiwillen miteinander stehen und fallen soll, ist ein Geschäft.",
+      "norms": [
+        "§ 139 BGB"
       ]
     },
     {
@@ -86,6 +102,22 @@
           "doc": "BGB_6",
           "page": 45
         }
+      ],
+      "merksatz": "Abstrakt heißt nicht unverwundbar: Trifft derselbe Fehler auch die Verfügung, fällt sie mit – Fehleridentität.",
+      "norms": [
+        "§ 139 BGB",
+        "§ 107 BGB",
+        "§ 134 BGB",
+        "§ 138 Abs. 1 BGB",
+        "§ 119 Abs. 2 BGB",
+        "§ 123 Abs. 1 BGB",
+        "§ 143 Abs. 1 BGB",
+        "§ 929 S. 1 BGB",
+        "§ 985 BGB",
+        "§ 986 BGB",
+        "§ 812 Abs. 1 S. 1 Var. 1 BGB",
+        "§ 932 BGB",
+        "§ 29 Abs. 1 BtMG"
       ]
     },
     {
@@ -106,6 +138,16 @@
           "doc": "BGB_6",
           "page": 47
         }
+      ],
+      "merksatz": "Bei AGB fällt nur die Klausel, der Vertrag bleibt; streichen erlaubt, zurechtbiegen verboten.",
+      "norms": [
+        "§ 306 Abs. 1 BGB",
+        "§ 306 Abs. 2 BGB",
+        "§ 306 Abs. 3 BGB",
+        "§ 309 Nr. 1 BGB",
+        "§ 307 Abs. 1 S. 1 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB"
       ]
     },
     {
@@ -122,6 +164,17 @@
           "doc": "BGB_6",
           "page": 48
         }
+      ],
+      "merksatz": "Erst auslegen, dann umdeuten: Das Ersatzgeschäft muss im nichtigen stecken und darf nicht mehr bewirken.",
+      "norms": [
+        "§ 140 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 142 BGB",
+        "§ 138 BGB",
+        "§ 573c BGB",
+        "§ 543 BGB",
+        "§ 569 BGB"
       ]
     },
     {
@@ -134,6 +187,16 @@
           "doc": "BGB_6",
           "page": 49
         }
+      ],
+      "merksatz": "Bestätigen heißt neu vornehmen – wirksam erst ab jetzt, schuldrechtlich wird zurückgerechnet.",
+      "norms": [
+        "§ 141 Abs. 1 BGB",
+        "§ 141 Abs. 2 BGB",
+        "§ 144 BGB",
+        "§ 108 BGB",
+        "§ 766 S. 1 BGB",
+        "§ 125 BGB",
+        "§ 350 HGB"
       ]
     }
   ],
@@ -877,6 +940,468 @@
           "page": 37
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ist ein Teil eines Rechtsgeschäfts nichtig, so ist {{1}} Rechtsgeschäft nichtig, wenn nicht anzunehmen ist, dass es auch {{2}} vorgenommen sein würde (§ 139 BGB).",
+      "blanks": [
+        [
+          "das ganze",
+          "das gesamte"
+        ],
+        [
+          "ohne den nichtigen Teil"
+        ]
+      ],
+      "explanation": "Wortlaut des § 139: gesetzliche Vermutung für die Gesamtnichtigkeit, eingeschränkt durch den Parteiwillen (S. 37).",
+      "hints": [
+        "Die Vermutung geht in Richtung „alles oder nichts“.",
+        "Der zweite Teil fragt, ob der Rest allein gewollt gewesen wäre."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Fehleridentität bedeutet: {{1}} Anfechtungs- oder Nichtigkeitsgrund, der das Verpflichtungsgeschäft anfechtbar oder unwirksam macht, haftet auch dem {{2}} an. Das ist keine {{3}} des Abstraktionsprinzips.",
+      "blanks": [
+        [
+          "derselbe"
+        ],
+        [
+          "Verfügungsgeschäft",
+          "Erfüllungsgeschäft"
+        ],
+        [
+          "Durchbrechung"
+        ]
+      ],
+      "explanation": "Beide Geschäfte werden getrennt geprüft; die Verfügung fällt nur, weil sie selbst denselben Mangel trägt (S. 41).",
+      "hints": [
+        "Ein und derselbe Fehler – zwei Geschäfte.",
+        "Die Verfügung ist nicht schon wegen des nichtigen Kaufs unwirksam."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Sind AGB ganz oder teilweise unwirksam, bleibt der Vertrag im Übrigen {{1}} (§ 306 Abs. 1 BGB). Die Lücken füllen die {{2}} Vorschriften (§ 306 Abs. 2 BGB). Gesamtnichtig ist der Vertrag nur, wenn das Festhalten für eine Partei eine {{3}} Härte wäre (§ 306 Abs. 3 BGB).",
+      "blanks": [
+        [
+          "wirksam"
+        ],
+        [
+          "gesetzlichen"
+        ],
+        [
+          "unzumutbare"
+        ]
+      ],
+      "explanation": "§ 306 kehrt die Zweifelsregel des § 139 um: Der Vertrag besteht im Zweifel unabhängig vom Parteiwillen fort (S. 45).",
+      "hints": [
+        "Gegenteil der Regel in § 139.",
+        "Abs. 3 ist eine enge Ausnahme."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wird ein nichtiges Rechtsgeschäft bestätigt, so ist die Bestätigung als {{1}} zu beurteilen (§ 141 Abs. 1 BGB). Das bestätigte Geschäft wirkt {{2}} zurück; es ist erst ab der Bestätigung wirksam.",
+      "blanks": [
+        [
+          "erneute Vornahme",
+          "Neuvornahme"
+        ],
+        [
+          "nicht"
+        ]
+      ],
+      "explanation": "§ 141 Abs. 1 fingiert die Neuvornahme; keine Rückwirkung, nur die schuldrechtliche Rückbeziehung des Abs. 2 (S. 49).",
+      "hints": [
+        "Das Gesetz tut so, als würde das Geschäft noch einmal geschlossen.",
+        "Ex nunc oder ex tunc?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 139 BGB",
+          "Teilnichtigkeit führt im Zweifel zur Gesamtnichtigkeit"
+        ],
+        [
+          "§ 140 BGB",
+          "Nichtiges Geschäft gilt als gewolltes Ersatzgeschäft"
+        ],
+        [
+          "§ 141 BGB",
+          "Bestätigung eines nichtigen Geschäfts als Neuvornahme"
+        ],
+        [
+          "§ 144 BGB",
+          "Bestätigung eines anfechtbaren Geschäfts als Verzicht auf die Anfechtung"
+        ],
+        [
+          "§ 306 BGB",
+          "Unwirksame AGB: Vertrag bleibt im Übrigen wirksam"
+        ]
+      ],
+      "explanation": "§ 139 S. 37, § 306 S. 45, § 140 S. 47, §§ 141, 144 S. 49.",
+      "hints": [
+        "Drei aufeinanderfolgende Paragraphen: retten durch Teilerhalt, Umdeutung, Bestätigung.",
+        "§ 144 gehört zur Anfechtung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 45
+        },
+        {
+          "doc": "BGB_6",
+          "page": 47
+        },
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Unwirksamkeitsgrund der Regel zur Fehleridentität nach dem Skript zu.",
+      "pairs": [
+        [
+          "Fehlende Geschäftsfähigkeit",
+          "erfasst grundsätzlich beide Geschäfte"
+        ],
+        [
+          "Verstoß gegen ein Verbotsgesetz (§ 134)",
+          "meist nur das Verpflichtungsgeschäft, außer das Verbot zielt auf den dinglichen Übergang"
+        ],
+        [
+          "Sittenwidrigkeit (§ 138 Abs. 1)",
+          "Verfügung in der Regel sittlich neutral und wirksam"
+        ],
+        [
+          "Erklärungs- und Inhaltsirrtum",
+          "regelmäßig auf das Verpflichtungsgeschäft beschränkt"
+        ],
+        [
+          "Täuschung/Drohung (§ 123 Abs. 1)",
+          "Fehleridentität, wenn Irrtum oder Zwangslage bei der Verfügung fortdauert"
+        ]
+      ],
+      "explanation": "Katalog S. 42 und S. 45.",
+      "hints": [
+        "Nur ein Grund trifft „grundsätzlich“ beide Geschäfte.",
+        "Bei § 123 kommt es auf die Dauer der Willensbeeinflussung an."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 42
+        },
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung der Bestätigung nach § 141 BGB in die richtige Reihenfolge.",
+      "items": [
+        "Nichtiges Rechtsgeschäft (nicht bloß anfechtbar – sonst § 144)",
+        "Bestätigungswille",
+        "Äußerung des Willens – ausdrücklich oder konkludent, z.B. Erfüllung in Kenntnis der Nichtigkeit",
+        "Bestätigung erfüllt die Wirksamkeitsvoraussetzungen im Zeitpunkt der Bestätigung (Neuvornahme)",
+        "Folge: Wirksamkeit ab Bestätigung; bei Verträgen schuldrechtliche Rückbeziehung (§ 141 Abs. 2)"
+      ],
+      "explanation": "S. 49: Voraussetzungen, dann Folgen. Im Bürgschaftsbeispiel greift im Zeitpunkt der Bestätigung § 350 HGB, daher genügt mündlich.",
+      "hints": [
+        "Erst klären, welche Art Mangel vorliegt.",
+        "Die Rechtsfolge steht am Schluss."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Eine AGB-Klausel verstößt teilweise gegen §§ 307 ff. BGB. Bringen Sie die Prüfungsschritte in die richtige Reihenfolge.",
+      "items": [
+        "Unwirksamkeit (eines Teils) der Klausel nach §§ 307 ff.",
+        "Blue-pencil-test: Ist die Klausel sprachlich und inhaltlich sinnvoll trennbar? Dann bleibt der zulässige Teil",
+        "Sonst entfällt die ganze Klausel – keine geltungserhaltende Reduktion",
+        "Lückenfüllung durch gesetzliche Vorschriften (§ 306 Abs. 2), nach BGH auch ergänzende Vertragsauslegung",
+        "Ausnahmsweise Gesamtnichtigkeit bei unzumutbarer Härte (§ 306 Abs. 3)"
+      ],
+      "explanation": "S. 45–47: Erst die Klausel selbst, dann die Lücke, dann die Frage nach dem Vertrag insgesamt.",
+      "hints": [
+        "Erst streichen, dann füllen.",
+        "Die Härteklausel ist die letzte Rettungsfrage."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        },
+        {
+          "doc": "BGB_6",
+          "page": 46
+        },
+        {
+          "doc": "BGB_6",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Gastwirt G pachtet eine Gaststätte; der Pachtvertrag ist an einen Bierlieferungsvertrag mit langer Bezugsbindung gekoppelt. Die Bindung ist für einen Teil der Laufzeit zu beanstanden. Welche Art der Teilbarkeit kommt nach dem Skript typischerweise in Betracht?",
+      "options": [
+        "Quantitative Teilbarkeit nach Zeitabschnitten",
+        "Objektive Teilbarkeit nach Leistungsgegenständen",
+        "Subjektive Teilbarkeit nach beteiligten Personen",
+        "Keine – Dauerschuldverhältnisse sind nie teilbar"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Skript nennt gerade Gaststättenpachtverträge mit Bierlieferungsbindung als Beispiel quantitativer Teilbarkeit: Der Leistungsgegenstand ist zeitlich bemessen (S. 38).",
+      "hints": [
+        "Was lässt sich bei einem Dauerschuldverhältnis aufteilen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 38
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Sammler V verkauft und übergibt K ein Bild, weil er glaubt, es stamme nicht von „seinem“ Maler. Hätte V den wahren Urheber gekannt, hätte er das Bild überhaupt nicht hergegeben. V ficht wegen Eigenschaftsirrtums an. Was gilt nach der im Skript dargestellten Fallgruppe?",
+      "options": [
+        "Fehleridentität: Auch die Übereignung ist angefochten; V bleibt Eigentümer und kann nach § 985 herausverlangen",
+        "Nur der Kaufvertrag ist angefochten; V hat lediglich § 812 Abs. 1 S. 1 Var. 1 auf Rückübereignung",
+        "Die Anfechtung ist ausgeschlossen, weil § 119 Abs. 2 nur bei Käufern gilt",
+        "Der Kaufvertrag bleibt wirksam, weil Verfügungen sittlich neutral sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Steht und fällt die Übereignung mit der Eigenschaft, ist der Irrtum auch für § 929 S. 1 kausal (S. 43). Dann fehlt K das Besitzrecht (§ 986); § 985 greift (S. 44). Die Anfechtung des Verfügungsgeschäfts ist nach §§ 133, 157 regelmäßig miterklärt (S. 43).",
+      "hints": [
+        "Hätte V bei Kenntnis überhaupt übereignet?",
+        "Wer ist Eigentümer, wenn auch die Verfügung fällt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 43
+        },
+        {
+          "doc": "BGB_6",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "V hat K ein Bild verkauft und übereignet; nur der Kaufvertrag ist wirksam angefochten (keine Fehleridentität). Welche Ansprüche hat V gegen K?",
+      "options": [
+        "§ 812 Abs. 1 S. 1 Var. 1 auf Rückübereignung und Rückgabe; § 985 scheidet aus, weil K Eigentümer ist",
+        "§ 985 auf Herausgabe, weil K kein Recht zum Besitz hat",
+        "Keine, weil die wirksame Übereignung den Rechtsgrund ersetzt",
+        "Nur Schadensersatz aus § 122"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ohne Fehleridentität bleibt die Übereignung wirksam; K wurde Eigentümer. Wegen des fehlenden Rechtsgrunds (Kaufvertrag) kann V aber kondizieren (S. 44).",
+      "hints": [
+        "Wer ist nach der Übereignung Eigentümer?",
+        "Welcher Anspruch knüpft an den fehlenden Rechtsgrund an?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zur Umdeutung nach § 140 BGB treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Nichtigkeit kann auch nachträglich durch Anfechtung (§ 142) entstehen.",
+        "Ein schwebend unwirksames Geschäft ist jedenfalls umdeutungsfähig, wenn es durch Verweigerung der Genehmigung endgültig unwirksam geworden ist.",
+        "Das Ersatzgeschäft darf in seinem Erfolg über das ursprünglich Gewollte hinausgehen, wenn die Parteien das gewollt hätten.",
+        "Die Umdeutung geht der Auslegung nach §§ 133, 157 vor."
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "S. 47: Nichtigkeit von Anfang an oder später, auch nach verweigerter Genehmigung. S. 48: Das Ersatzgeschäft muss im nichtigen „in sich“ enthalten sein und darf nicht weiter reichen. Die Auslegung geht stets vor (S. 47).",
+      "hints": [
+        "Zwei Optionen betreffen die Voraussetzung „Nichtigkeit“.",
+        "Was hat Vorrang: Auslegung oder Umdeutung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 47
+        },
+        {
+          "doc": "BGB_6",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ist in der Klausur beim Eigenschaftsirrtum umstritten, ob Fehleridentität vorliegt, empfiehlt das Skript, sie eher zu verneinen, wenn sonst im Sachverhalt angelegte Prüfungspunkte (z.B. Schadensersatz nach Weiterveräußerung) abgeschnitten würden.",
+      "answer": true,
+      "explanation": "Beide Ergebnisse sind mit Argumentation vertretbar; um ein Hilfsgutachten zu vermeiden, sollte die Fehleridentität dann verneint werden (S. 45).",
+      "hints": [
+        "Klausurtaktik: Wann bräuchte man ein Hilfsgutachten?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie in drei bis vier Sätzen den wesentlichen Unterschied zwischen § 139 BGB und § 306 BGB und warum der Gesetzgeber für AGB eine Sonderregel geschaffen hat.",
+      "modelAnswer": "Nach § 139 ist ein teilweise nichtiges Geschäft im Zweifel insgesamt nichtig; der Rest bleibt nur, wenn die Parteien ihn auch allein gewollt hätten. § 306 kehrt das für AGB um: Der Vertrag bleibt im Übrigen wirksam, und zwar im Zweifel unabhängig vom Willen der Parteien; die Lücken füllt das Gesetz (§ 306 Abs. 2). Nur bei unzumutbarer Härte ist der ganze Vertrag nichtig (§ 306 Abs. 3). So kann der Verwender sich nicht durch die Unwirksamkeit seiner eigenen Klausel vom ganzen Vertrag lösen – der Kunde wird geschützt.",
+      "rubric": [
+        "§ 139: im Zweifel Gesamtnichtigkeit, abhängig vom hypothetischen Parteiwillen",
+        "§ 306 Abs. 1: Rest bleibt wirksam, unabhängig vom Parteiwillen",
+        "§ 306 Abs. 2: gesetzliche Vorschriften füllen die Lücke",
+        "§ 306 Abs. 3: Ausnahme unzumutbare Härte",
+        "Schutzzweck zugunsten des Vertragspartners des Verwenders"
+      ],
+      "explanation": "S. 45; Beispiel Stahlpreisklausel.",
+      "hints": [
+        "Stellen Sie die beiden Zweifelsregeln gegenüber.",
+        "Denken Sie an das Neuwagen-Beispiel."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 45
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "P pachtet von V eine Gaststätte. In einer gesonderten Urkunde kauft P von V das Inventar; der Pachtvertrag verweist ausdrücklich auf den Inventarkauf, und beide wollten erkennbar keinen Vertrag ohne den anderen. Der Inventarkauf wird wirksam angefochten. Ist auch der Pachtvertrag nichtig? Prüfen Sie kurz nach dem Skript.",
+      "modelAnswer": "In Betracht kommt Gesamtnichtigkeit nach § 139. Das setzt ein einheitliches Rechtsgeschäft voraus. Auch äußerlich getrennte, in verschiedenen Urkunden niedergelegte Geschäfte unterschiedlichen Typs können eine Einheit bilden, wenn sie nach dem Willen der Parteien „miteinander stehen und fallen sollen“; es genügt, dass der Einheitlichkeitswille einer Partei erkennbar war und von der anderen gebilligt wurde. Anhaltspunkte sind u.a. Bezugnahmen der Verträge aufeinander. Hier verweist der Pachtvertrag auf den Inventarkauf, und beide wollten keinen Vertrag ohne den anderen – ein einheitliches Geschäft liegt vor. Ein Teil (der Inventarkauf) ist durch Anfechtung nichtig (§ 142 Abs. 1). Nach § 139 ist dann im Zweifel das ganze Geschäft nichtig; dass die Parteien die Pacht auch allein geschlossen hätten, ist nicht anzunehmen. Ergebnis: Auch der Pachtvertrag ist nichtig.",
+      "rubric": [
+        "§ 139 als Prüfungsnorm",
+        "Einheitliches Rechtsgeschäft trotz getrennter Urkunden",
+        "Formel „miteinander stehen und fallen“ / Einheitlichkeitswille",
+        "Anhaltspunkt Bezugnahme",
+        "Teilnichtigkeit durch Anfechtung",
+        "Kein Wille zur Aufrechterhaltung des Rests → Ergebnis Gesamtnichtigkeit"
+      ],
+      "explanation": "Einheitlichkeit S. 39–40; Grundregel S. 37.",
+      "hints": [
+        "Bevor § 139 greift: Liegt überhaupt ein Geschäft vor?",
+        "Achten Sie auf den Verweis zwischen den Verträgen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_6",
+          "page": 37
+        },
+        {
+          "doc": "BGB_6",
+          "page": 39
+        },
+        {
+          "doc": "BGB_6",
+          "page": 40
+        }
+      ]
     }
   ],
   "case": {
@@ -1097,6 +1622,60 @@
           "page": 49
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 139 BGB",
+      "inhalt": "Ist ein Teil nichtig, ist im Zweifel das ganze Geschäft nichtig – außer es wäre auch ohne den Teil geschlossen worden."
+    },
+    {
+      "norm": "§ 107 BGB",
+      "inhalt": "Lediglich rechtlich vorteilhafte Geschäfte (z.B. Übereignung an einen Minderjährigen) brauchen keine Zustimmung."
+    },
+    {
+      "norm": "§ 134 BGB",
+      "inhalt": "Verstoß gegen ein Verbotsgesetz macht nichtig – meist nur das Verpflichtungsgeschäft."
+    },
+    {
+      "norm": "§ 138 Abs. 1 BGB",
+      "inhalt": "Sittenwidrige Geschäfte sind nichtig; Verfügungen sind meist „sittlich neutral“."
+    },
+    {
+      "norm": "§ 119 Abs. 2 BGB",
+      "inhalt": "Eigenschaftsirrtum – Musterfall für die Frage, ob auch die Übereignung anfechtbar ist."
+    },
+    {
+      "norm": "§ 123 Abs. 1 BGB",
+      "inhalt": "Täuschung/Drohung – häufig Fehleridentität, wenn Irrtum oder Zwangslage bei der Verfügung fortdauert."
+    },
+    {
+      "norm": "§ 306 Abs. 1 BGB",
+      "inhalt": "Unwirksame AGB-Klausel: Der Vertrag bleibt im Übrigen wirksam (Sonderregel zu § 139)."
+    },
+    {
+      "norm": "§ 306 Abs. 2 BGB",
+      "inhalt": "Die Lücke füllen die gesetzlichen Vorschriften – nach BGH auch die ergänzende Vertragsauslegung."
+    },
+    {
+      "norm": "§ 306 Abs. 3 BGB",
+      "inhalt": "Ausnahme: Gesamtnichtigkeit, wenn das Festhalten am Vertrag für eine Partei unzumutbar hart wäre."
+    },
+    {
+      "norm": "§ 140 BGB",
+      "inhalt": "Umdeutung: Ein nichtiges Geschäft gilt als Ersatzgeschäft, wenn dessen Voraussetzungen erfüllt sind und es gewollt wäre."
+    },
+    {
+      "norm": "§ 141 Abs. 1 BGB",
+      "inhalt": "Bestätigung eines nichtigen Geschäfts = erneute Vornahme, ohne Rückwirkung."
+    },
+    {
+      "norm": "§ 141 Abs. 2 BGB",
+      "inhalt": "Bei bestätigten Verträgen gewähren sich die Parteien im Zweifel, was sie bei Gültigkeit von Anfang an hätten."
+    },
+    {
+      "norm": "§ 144 BGB",
+      "inhalt": "Bestätigung eines nur anfechtbaren Geschäfts = Verzicht auf das Anfechtungsrecht."
     }
   ]
 }

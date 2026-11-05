@@ -19,6 +19,10 @@
           "doc": "BGB_8",
           "page": 33
         }
+      ],
+      "merksatz": "Das objektive Recht ist die Regel für alle – das subjektive Recht ist die Rechtsmacht, die sie dem Einzelnen verleiht.",
+      "norms": [
+        "§ 823 Abs. 1 BGB"
       ]
     },
     {
@@ -51,6 +55,24 @@
           "doc": "BGB_8",
           "page": 38
         }
+      ],
+      "merksatz": "Absolut wirkt gegen jedermann, relativ nur gegen den Schuldner – und Gestaltungsrechte ändern die Lage per einseitiger Erklärung.",
+      "norms": [
+        "§ 823 Abs. 1 BGB",
+        "§ 1626 BGB",
+        "§ 1631 Abs. 1 BGB",
+        "Art. 14 GG",
+        "§ 903 BGB",
+        "§ 1004 BGB",
+        "§ 11 S. 1 UrhG",
+        "§ 194 Abs. 1 BGB",
+        "§ 433 Abs. 1 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§ 241 Abs. 1 BGB",
+        "§ 622 Abs. 1 BGB",
+        "§ 346 BGB",
+        "§ 142 Abs. 1 BGB",
+        "§ 985 BGB"
       ]
     },
     {
@@ -67,6 +89,14 @@
           "doc": "BGB_8",
           "page": 39
         }
+      ],
+      "merksatz": "Abgeleitet erwirbt, wer vom Vorgänger bekommt; originär, bei wem das Recht neu entsteht – Höchstpersönliches erlischt mit dem Inhaber.",
+      "norms": [
+        "§ 488 Abs. 1 BGB",
+        "§ 1922 Abs. 1 BGB",
+        "§ 929 S. 1 BGB",
+        "§ 398 BGB",
+        "§ 950 BGB"
       ]
     },
     {
@@ -87,6 +117,14 @@
           "doc": "BGB_8",
           "page": 41
         }
+      ],
+      "merksatz": "Ein Recht ist kein Freibrief: Schikane, Sittenwidrigkeit und Treuwidrigkeit sperren die Ausübung – wer lange schweigt und Vertrauen weckt, verwirkt.",
+      "norms": [
+        "§ 226 BGB",
+        "§ 138 BGB",
+        "§ 817 BGB",
+        "§ 826 BGB",
+        "§ 242 BGB"
       ]
     },
     {
@@ -107,6 +145,19 @@
           "doc": "BGB_8",
           "page": 44
         }
+      ],
+      "merksatz": "Mensch greift an: Notwehr; Sache droht: § 228; fremde Sache hilft: § 904 mit Ersatzpflicht; Staat zu spät: Selbsthilfe.",
+      "norms": [
+        "§ 227 BGB",
+        "§ 228 BGB",
+        "§ 904 BGB",
+        "§ 229 BGB",
+        "§ 230 Abs. 1 BGB",
+        "§ 858 BGB",
+        "§ 859 Abs. 1 BGB",
+        "§ 859 Abs. 2 BGB",
+        "§ 90a BGB",
+        "§ 32 StGB"
       ]
     },
     {
@@ -127,6 +178,16 @@
           "doc": "BGB_8",
           "page": 47
         }
+      ],
+      "merksatz": "Sache ist, was körperlich und beherrschbar ist – Tiere sind keine Sachen, werden aber grundsätzlich wie Sachen behandelt.",
+      "norms": [
+        "§ 90 BGB",
+        "§ 90a BGB",
+        "§ 91 BGB",
+        "§ 92 BGB",
+        "§ 929 BGB",
+        "§ 925 BGB",
+        "§ 243 Abs. 1 BGB"
       ]
     },
     {
@@ -155,6 +216,16 @@
           "doc": "BGB_8",
           "page": 51
         }
+      ],
+      "merksatz": "Wesentliche Bestandteile teilen das Schicksal der Hauptsache; Scheinbestandteile und Zubehör bleiben rechtlich selbständig.",
+      "norms": [
+        "§ 93 BGB",
+        "§ 94 BGB",
+        "§ 95 BGB",
+        "§ 946 BGB",
+        "§ 947 BGB",
+        "§ 97 BGB",
+        "§ 98 BGB"
       ]
     },
     {
@@ -167,7 +238,9 @@
           "doc": "BGB_8",
           "page": 51
         }
-      ]
+      ],
+      "merksatz": "Auch Rechte sind Rechtsobjekte, soweit sie Vermögenswert haben – Persönlichkeits-, Familien- und Gestaltungsrechte gehören nicht dazu.",
+      "norms": []
     },
     {
       "id": "s9",
@@ -183,6 +256,13 @@
           "doc": "BGB_8",
           "page": 52
         }
+      ],
+      "merksatz": "Nutzungen sind Früchte plus Gebrauchsvorteile; mittelbar ist eine Frucht, wenn sie erst über ein Rechtsverhältnis fließt.",
+      "norms": [
+        "§ 99 Abs. 1 BGB",
+        "§ 99 Abs. 2 BGB",
+        "§ 99 Abs. 3 BGB",
+        "§ 100 BGB"
       ]
     },
     {
@@ -203,6 +283,14 @@
           "doc": "BGB_8",
           "page": 59
         }
+      ],
+      "merksatz": "Vermögen ist die Summe der geldwerten Rechte; das Unternehmen ist Betriebsvermögen plus Chancen – geschützt als Gewerbebetrieb über § 823 Abs. 1.",
+      "norms": [
+        "§ 311b Abs. 3 BGB",
+        "§ 1922 BGB",
+        "§ 14 BGB",
+        "§ 17 HGB",
+        "§ 823 Abs. 1 BGB"
       ]
     }
   ],
@@ -1225,6 +1313,457 @@
           "page": 54
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Anspruch ist das Recht, von einem anderen ein {{1}} oder {{2}} zu verlangen (§ 194 Abs. 1 BGB). Ergibt sich ein Anspruch aus einem Schuldverhältnis, nennt man ihn {{3}}.",
+      "blanks": [
+        [
+          "Tun"
+        ],
+        [
+          "Unterlassen"
+        ],
+        [
+          "Forderung"
+        ]
+      ],
+      "explanation": "Legaldefinition S. 35; der Anspruch ist das typische relative Recht (S. 37).",
+      "hints": [
+        "Aktiv oder passiv.",
+        "Beispiel: Kaufpreisforderung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Notwehr ist die Verteidigung, die {{1}} ist, um einen {{2}} {{3}} Angriff von sich oder einem anderen abzuwenden (§ 227 BGB).",
+      "blanks": [
+        [
+          "erforderlich"
+        ],
+        [
+          "gegenwärtigen"
+        ],
+        [
+          "rechtswidrigen"
+        ]
+      ],
+      "explanation": "Definition S. 42. Angriff = jede menschliche Handlung, die rechtlich geschützte Interessen zu verletzen droht.",
+      "hints": [
+        "Zeitlich: jetzt.",
+        "Der Angegriffene muss den Angriff nicht dulden."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wesentliche Bestandteile einer Sache sind solche, die voneinander nicht getrennt werden können, ohne dass der eine oder andere {{1}} oder in seinem {{2}} verändert wird. Sie können nicht Gegenstand besonderer {{3}} sein (§ 93 BGB).",
+      "blanks": [
+        [
+          "zerstört"
+        ],
+        [
+          "Wesen"
+        ],
+        [
+          "Rechte"
+        ]
+      ],
+      "explanation": "S. 48: Deshalb hängt ein Eigentumsvorbehalt am eingebauten Teil davon ab, ob es wesentlicher Bestandteil wurde (Austauschmotor: nein).",
+      "hints": [
+        "Kaputt oder etwas anderes?",
+        "Etwa ein eigenes Eigentumsrecht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Zubehör sind {{1}} Sachen, die dem {{2}} Zweck einer Hauptsache dienen, zu ihr in einem entsprechenden {{3}} Verhältnis stehen und nach der Verkehrsanschauung als Zubehör angesehen werden (§ 97 BGB).",
+      "blanks": [
+        [
+          "bewegliche"
+        ],
+        [
+          "wirtschaftlichen"
+        ],
+        [
+          "räumlichen"
+        ]
+      ],
+      "explanation": "S. 50: Beispiel Tische und Stühle eines Gartenlokals. Zubehör bleibt rechtlich selbständig.",
+      "hints": [
+        "Grundstücke können kein Zubehör sein.",
+        "Es muss „in der Nähe“ sein."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie den Begriff seiner Definition nach dem Skript zu.",
+      "pairs": [
+        [
+          "Grundstück",
+          "Teil der Erdoberfläche, der im Grundbuch als Grundstück geführt wird"
+        ],
+        [
+          "Bewegliche Sache",
+          "Körperlicher Gegenstand, der kein Grundstück ist"
+        ],
+        [
+          "Vertretbare Sache (§ 91)",
+          "Bewegliche Sache, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt wird"
+        ],
+        [
+          "Verbrauchbare Sache (§ 92)",
+          "Bestimmungsgemäßer Gebrauch liegt im Verbrauch oder in der Veräußerung"
+        ],
+        [
+          "Unvertretbare Sache",
+          "Durch ausgeprägte Individualisierungsmerkmale gekennzeichnet, z.B. Originalkunstwerk"
+        ]
+      ],
+      "explanation": "S. 46–47.",
+      "hints": [
+        "Geld ist sowohl vertretbar als auch verbrauchbar.",
+        "Das Grundbuch ist ein staatliches Register."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 46
+        },
+        {
+          "doc": "BGB_8",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie den Vorgang der Art des Rechtserwerbs bzw. der Rechtsnatur zu.",
+      "pairs": [
+        [
+          "A übereignet ihr Kfz nach § 929 S. 1 an B",
+          "Abgeleiteter (derivativer) Erwerb"
+        ],
+        [
+          "Eigentumserwerb durch Verarbeitung (§ 950)",
+          "Originärer Erwerb"
+        ],
+        [
+          "Vermögen des Erblassers geht auf die Erben über (§ 1922)",
+          "Universalsukzession"
+        ],
+        [
+          "Elterliche Sorge",
+          "Höchstpersönlich – weder übertragbar noch vererblich"
+        ]
+      ],
+      "explanation": "S. 34 und 38–39.",
+      "hints": [
+        "Gab es das Recht schon beim Vorgänger?",
+        "Personen- und Familienrechte sind streng an die Person gebunden."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 34
+        },
+        {
+          "doc": "BGB_8",
+          "page": 38
+        },
+        {
+          "doc": "BGB_8",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung der Notwehr nach § 227 BGB in die richtige Reihenfolge.",
+      "items": [
+        "Angriff: menschliche Handlung, die geschützte Interessen zu verletzen droht",
+        "Gegenwärtigkeit des Angriffs",
+        "Rechtswidrigkeit des Angriffs (keine Duldungspflicht)",
+        "Erforderlichkeit der Verteidigung (kein unerträgliches Missverhältnis)",
+        "Folge: Verletzung gerechtfertigt – kein Schadensersatz aus § 823 Abs. 1"
+      ],
+      "explanation": "S. 42–43: Notwehrlage, dann Notwehrhandlung, dann Rechtsfolge; im Zivilrecht ist § 227 lex specialis zu § 32 StGB.",
+      "hints": [
+        "Erst die Lage, dann die Handlung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Das entlaufene Pferd des P galoppiert auf das Kind K zu. Passant X stoppt es mit einem Stockschlag; das Pferd wird verletzt. P verlangt Schadensersatz. Welcher Rechtfertigungsgrund greift nach dem Skript vorrangig?",
+      "options": [
+        "Verteidigungsnotstand (§ 228 i.V.m. § 90a) – die Gefahr ging von dem verletzten Tier selbst aus",
+        "Notwehr (§ 227) – das Pferd hat K angegriffen",
+        "Angriffsnotstand (§ 904) – X hat eine fremde Sache benutzt",
+        "Selbsthilfe (§ 229) – Polizei war nicht rechtzeitig zur Stelle"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Notwehr setzt einen menschlichen Angriff voraus; geht die Gefahr von einer Sache (Tier, § 90a) aus und wird diese beschädigt, ist § 228 vorrangig (S. 43).",
+      "hints": [
+        "Kann ein Tier „angreifen“ i.S.d. § 227?",
+        "Wurde die gefährliche oder eine unbeteiligte Sache beschädigt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Gast G hat im Restaurant des W für 180 € gegessen, kann nicht zahlen und steigt mit Koffer in ein Taxi zum Flughafen, um ins Ausland zu fliegen. Die Polizei ist nicht rechtzeitig erreichbar. W hält G am Arm fest, bis die Polizei kommt. Ist W gerechtfertigt?",
+      "options": [
+        "Ja, nach § 229 – fälliger Anspruch, keine rechtzeitige obrigkeitliche Hilfe, Gefährdung der Durchsetzung, Festnahme des fluchtverdächtigen Schuldners als erforderliches Mittel",
+        "Nein – Selbsthilfe ist wegen des staatlichen Gewaltmonopols stets verboten",
+        "Ja, nach § 227 – das Nichtzahlen ist ein gegenwärtiger Angriff",
+        "Ja, nach § 859 – W darf seinen Besitz verteidigen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Selbsthilfelage und -handlung nach §§ 229, 230 Abs. 1 (S. 44). Das Gewaltmonopol schließt Selbsthilfe nur in der Regel aus (S. 42).",
+      "hints": [
+        "Prüfen Sie die drei Merkmale der Selbsthilfelage.",
+        "Ist die Festnahme das mildeste Mittel?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 42
+        },
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Worin geht das Recht des Besitzers nach § 859 BGB nach dem Skript weiter als Notwehr (§ 227) und Selbsthilfe (§ 229)?",
+      "options": [
+        "Es setzt nicht voraus, dass obrigkeitliche Hilfe nicht rechtzeitig zu erlangen ist; der Besitzer darf auch bereits weggenommene Sachen mit Gewalt zurückholen (Besitzkehr).",
+        "Es erlaubt jede Gewalt, auch eine unverhältnismäßige.",
+        "Es gilt auch für Angriffe, die erst in Zukunft drohen.",
+        "Es steht nur dem Eigentümer, nicht dem bloßen Besitzer zu."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 859 Abs. 1 (Abwehr verbotener Eigenmacht, § 858) und Abs. 2 (Besitzkehr), S. 44.",
+      "hints": [
+        "Vergleichen Sie mit der Selbsthilfelage des § 229."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Gegenstände sind nach dem Skript Sachen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Ein herausnehmbares Gebiss",
+        "Ein Herzschrittmacher (Grenzfall, letztlich Sache)",
+        "Eine implantierte künstliche Arterie",
+        "Das Computerprogramm als solches"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Dauerhaft implantierte Teile, die Körperfunktionen übernehmen, gehören zum Körper und sind keine Sachen; Prothesen und Gebisse schon. Der austauschbare, nur unterstützende Herzschrittmacher gilt letztlich als Sache (S. 50). Das Programm selbst ist keine Sache, nur seine Verkörperung auf einem Datenträger (S. 46).",
+      "hints": [
+        "Übernimmt das Teil dauerhaft eine Körperfunktion?",
+        "Unterscheiden Sie Programm und Datenträger."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 46
+        },
+        {
+          "doc": "BGB_8",
+          "page": 50
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Lieferant L montiert unter Eigentumsvorbehalt Solarmodule auf Rahmen, die auf dem Dach des Hauses von E befestigt sind; Module und Rahmen lassen sich ohne Beschädigung abnehmen. E zahlt nicht. Wer ist Eigentümer der Module?",
+      "options": [
+        "L – die Module sind nach dem Skript jedenfalls keine wesentlichen Bestandteile, der Eigentumsvorbehalt wirkt.",
+        "E – alles, was mit einem Gebäude verbunden wird, ist wesentlicher Bestandteil (§§ 94, 946).",
+        "E und L als Miteigentümer.",
+        "E – Solarmodule sind stets Zubehör des Grundstücks."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Aufdach-Anlagen auf Rahmen sind ohne Beschädigung entfernbar und daher keine wesentlichen Bestandteile; anders dachintegrierte Anlagen (S. 49).",
+      "hints": [
+        "Kann man die Module ohne Schaden wieder abnehmen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Für die Verwirkung gilt eine Wechselwirkung: Je länger ein Recht nicht geltend gemacht wurde, desto geringer sind die Anforderungen an das Umstandsmoment; die Verwirkung kann auch gegen den Willen des Berechtigten eintreten.",
+      "answer": true,
+      "explanation": "S. 41: Entscheidend ist die objektive Bewertung nach Treu und Glauben, nicht der subjektive Wille des Berechtigten (BGH).",
+      "hints": [
+        "Zeitmoment und Umstandsmoment hängen zusammen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie, warum die Unterscheidung zwischen vertretbaren und unvertretbaren Sachen (§ 91 BGB) nicht mit der Unterscheidung zwischen Gattungs- und Stückschuld identisch ist.",
+      "modelAnswer": "Vertretbar sind bewegliche Sachen, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt werden und daher ohne Weiteres austauschbar sind, z.B. Geld, Wertpapiere, Obst oder – nach dem BGH – Wein einer bestimmten Sorte; unvertretbar sind individuell geprägte Sachen wie Originalkunstwerke. Diese Einordnung richtet sich objektiv nach der Verkehrsüblichkeit. Ob eine Gattungs- oder Stückschuld vorliegt (vgl. § 243 Abs. 1), hängt dagegen vom wirklichen Parteiwillen ab. Deshalb kann über eine vertretbare Sache eine Stückschuld vereinbart werden (z.B. genau diese Flasche Wein) – die beiden Begriffspaare decken sich nicht.",
+      "rubric": [
+        "Definition vertretbare Sache (§ 91) mit Beispiel",
+        "Unvertretbare Sache mit Beispiel",
+        "Maßstab Verkehrsanschauung",
+        "Gattungs-/Stückschuld nach Parteiwillen (§ 243 Abs. 1)",
+        "Folgerung: keine Deckungsgleichheit"
+      ],
+      "explanation": "S. 46–47.",
+      "hints": [
+        "Wer entscheidet jeweils – der Verkehr oder die Parteien?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 46
+        },
+        {
+          "doc": "BGB_8",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "D verkauft M mit vertraglichem Rücktrittsvorbehalt einen Fernseher für 500 €. D übergibt das Gerät; M zahlt 250 € und verspricht, den Rest binnen drei Monaten zu zahlen. Nach vier Monaten ist nichts gezahlt; D erklärt den Rücktritt. Welche Ansprüche bestehen nun?",
+      "modelAnswer": "Der Rücktritt ist ein Gestaltungsrecht: D kann durch einseitige empfangsbedürftige Erklärung die Rechtslage ändern. Ein Rücktrittsrecht besteht hier, weil es im Vertrag vereinbart wurde (§ 346). Mit Wirksamwerden der Rücktrittserklärung entfallen die auf den Leistungsaustausch gerichteten Wirkungen des Kaufvertrags: Weder kann D die restlichen 250 € noch kann M Erfüllung verlangen. An die Stelle tritt ein Rückgewährschuldverhältnis (§§ 346 ff.): M muss den Fernseher an D zurückgeben, D muss M die erhaltenen 250 € zurückzahlen. Ansprüche wegen Verschlechterung oder Untergangs regeln §§ 346 Abs. 2 ff.",
+      "rubric": [
+        "Rücktritt als Gestaltungsrecht, einseitige empfangsbedürftige Erklärung",
+        "Rücktrittsrecht vertraglich vereinbart",
+        "Erlöschen der Erfüllungsansprüche",
+        "Rückgewährschuldverhältnis §§ 346 ff.",
+        "Konkrete Folgen: Fernseher zurück, 250 € zurück"
+      ],
+      "explanation": "Skript-Beispiel S. 36–37.",
+      "hints": [
+        "Was passiert mit den Erfüllungsansprüchen?",
+        "Was wurde bereits ausgetauscht?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_8",
+          "page": 36
+        },
+        {
+          "doc": "BGB_8",
+          "page": 37
+        }
+      ]
     }
   ],
   "case": {
@@ -1504,6 +2043,68 @@
           "page": 52
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 194 Abs. 1 BGB",
+      "inhalt": "Anspruch = Recht, von einem anderen ein Tun oder Unterlassen zu verlangen."
+    },
+    {
+      "norm": "§ 903 BGB",
+      "inhalt": "Der Eigentümer kann mit der Sache nach Belieben verfahren und andere ausschließen – soweit Gesetz und Rechte Dritter nicht entgegenstehen."
+    },
+    {
+      "norm": "§ 226 BGB",
+      "inhalt": "Schikaneverbot: unzulässig, wenn die Rechtsausübung nur den Zweck hat, einem anderen zu schaden."
+    },
+    {
+      "norm": "§ 242 BGB",
+      "inhalt": "Treu und Glauben – wichtigste Schranke der Rechtsausübung, Grundlage der Verwirkung."
+    },
+    {
+      "norm": "§ 227 BGB",
+      "inhalt": "Notwehr: erforderliche Verteidigung gegen gegenwärtigen rechtswidrigen Angriff ist nicht widerrechtlich."
+    },
+    {
+      "norm": "§ 228 BGB",
+      "inhalt": "Verteidigungsnotstand: Beschädigung der Sache, von der die Gefahr ausgeht."
+    },
+    {
+      "norm": "§ 904 BGB",
+      "inhalt": "Angriffsnotstand: Einwirkung auf eine fremde, ungefährliche Sache – der Eigentümer kann Schadensersatz verlangen."
+    },
+    {
+      "norm": "§ 229 BGB",
+      "inhalt": "Selbsthilfe, wenn obrigkeitliche Hilfe nicht rechtzeitig kommt und der Anspruch sonst gefährdet ist."
+    },
+    {
+      "norm": "§ 90 BGB",
+      "inhalt": "Sachen sind nur körperliche Gegenstände."
+    },
+    {
+      "norm": "§ 90a BGB",
+      "inhalt": "Tiere sind keine Sachen, Sachvorschriften gelten aber entsprechend."
+    },
+    {
+      "norm": "§ 93 BGB",
+      "inhalt": "Wesentliche Bestandteile (Trennung nur unter Zerstörung/Wesensänderung) können nicht Gegenstand besonderer Rechte sein."
+    },
+    {
+      "norm": "§ 94 BGB",
+      "inhalt": "Gebäude und zur Herstellung eingefügte Sachen sind wesentliche Bestandteile des Grundstücks."
+    },
+    {
+      "norm": "§ 95 BGB",
+      "inhalt": "Nur zu vorübergehendem Zweck verbundene Sachen sind bloße Scheinbestandteile."
+    },
+    {
+      "norm": "§ 97 BGB",
+      "inhalt": "Zubehör: bewegliche Sachen, die dem wirtschaftlichen Zweck der Hauptsache dienen – rechtlich selbständig."
+    },
+    {
+      "norm": "§ 99 BGB",
+      "inhalt": "Früchte: Erzeugnisse und Ausbeute einer Sache, Erträge eines Rechts, auch mittelbar über ein Rechtsverhältnis."
     }
   ]
 }

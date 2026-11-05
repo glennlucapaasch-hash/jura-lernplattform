@@ -36,6 +36,15 @@
           "doc": "BGB_3",
           "page": 9
         }
+      ],
+      "merksatz": "Ein Ja auf ein vollständiges Angebot macht den Vertrag; unter Freunden bindet, was erkennbar viel auf dem Spiel steht.",
+      "norms": [
+        "§ 241 Abs. 1 BGB",
+        "§ 311 Abs. 2 BGB",
+        "§ 311 Abs. 3 BGB",
+        "§ 823 Abs. 1 BGB",
+        "§ 929 BGB",
+        "§ 662 BGB"
       ]
     },
     {
@@ -72,6 +81,14 @@
           "doc": "BGB_3",
           "page": 15
         }
+      ],
+      "merksatz": "Wer anbietet, ist gebunden (§ 145) – Schaufenster, Katalog und Werbung laden nur ein.",
+      "norms": [
+        "§ 145 BGB",
+        "§ 130 Abs. 1 S. 2 BGB",
+        "§ 315 BGB",
+        "§ 316 BGB",
+        "§ 433 Abs. 1 BGB"
       ]
     },
     {
@@ -108,6 +125,18 @@
           "doc": "BGB_3",
           "page": 21
         }
+      ],
+      "merksatz": "Zu spät oder mit Änderungen ist kein Ja, sondern ein neues Angebot (§ 150); bei § 151 entfällt nur der Zugang, nicht die Annahme.",
+      "norms": [
+        "§ 146 BGB",
+        "§ 147 Abs. 1 BGB",
+        "§ 147 Abs. 2 BGB",
+        "§ 148 BGB",
+        "§ 149 BGB",
+        "§ 150 Abs. 1 BGB",
+        "§ 150 Abs. 2 BGB",
+        "§ 151 S. 1 BGB",
+        "§ 133 BGB"
       ]
     },
     {
@@ -152,6 +181,18 @@
           "doc": "BGB_3",
           "page": 30
         }
+      ],
+      "merksatz": "Vorvertrag verpflichtet zum Vertrag – c.i.c. verpflichtet zur Rücksicht, schon wenn man nur verhandelt oder den Laden betritt.",
+      "norms": [
+        "§ 311b Abs. 1 BGB",
+        "§ 125 BGB",
+        "§ 894 ZPO",
+        "§ 241 Abs. 2 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 311 Abs. 2 BGB",
+        "§ 311 Abs. 3 BGB",
+        "§ 278 BGB",
+        "§ 831 Abs. 1 S. 2 BGB"
       ]
     },
     {
@@ -208,6 +249,17 @@
           "doc": "BGB_3",
           "page": 42
         }
+      ],
+      "merksatz": "Schweigen ist keine Erklärung – außer unter Kaufleuten beim Bestätigungsschreiben: Wer schweigt, stimmt zu.",
+      "norms": [
+        "§ 108 Abs. 2 BGB",
+        "§ 177 Abs. 2 BGB",
+        "§ 516 Abs. 2 BGB",
+        "§ 362 Abs. 1 HGB",
+        "§ 346 HGB",
+        "§ 150 Abs. 2 BGB",
+        "§ 241a Abs. 1 BGB",
+        "§ 151 BGB"
       ]
     },
     {
@@ -240,6 +292,15 @@
           "doc": "BGB_3",
           "page": 52
         }
+      ],
+      "merksatz": "Offen nicht geeinigt – im Zweifel kein Vertrag (§ 154); unbemerkt nicht geeinigt – es zählt der hypothetische Wille (§ 155).",
+      "norms": [
+        "§ 154 Abs. 1 S. 1 BGB",
+        "§ 155 BGB",
+        "§ 122 BGB",
+        "§ 179 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 311 Abs. 2 BGB"
       ]
     }
   ],
@@ -1100,6 +1161,468 @@
           "page": 52
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Angebot muss die künftigen Vertragsbedingungen so vollständig enthalten, dass der andere den Vertrag durch ein bloßes „{{1}}“ zustande bringen kann. Es muss daher die {{2}} (wesentlichen Vertragsbestandteile) enthalten.",
+      "blanks": [
+        [
+          "Ja"
+        ],
+        [
+          "essentialia negotii",
+          "essentialia"
+        ]
+      ],
+      "explanation": "Dazu gehören Vertragspartner, Leistung und Gegenleistung sowie der Geschäftstyp. Die Leistungsbestimmung kann aber einer Partei oder einem Dritten überlassen werden (§§ 315 ff., § 316).",
+      "hints": [
+        "Ein einziges Wort genügt für die Annahme.",
+        "Lateinischer Fachbegriff."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 7
+        },
+        {
+          "doc": "BGB_3",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ein Vorvertrag begründet die einklagbare Verpflichtung zum Abschluss eines {{1}}. Ist dieser formbedürftig, bedarf auch der Vorvertrag der {{2}}. Wird der Beklagte zur Abgabe der Erklärung verurteilt, gilt sie nach § {{3}} ZPO mit Rechtskraft als abgegeben.",
+      "blanks": [
+        [
+          "Hauptvertrages",
+          "Hauptvertrags",
+          "Hauptvertrag"
+        ],
+        [
+          "Form",
+          "gleichen Form",
+          "selben Form"
+        ],
+        [
+          "894"
+        ]
+      ],
+      "explanation": "Der Vorvertrag ist im BGB nicht geregelt, aber aufgrund der Privatautonomie zulässig. Die Formbedürftigkeit folgt aus Beweis- und Warnfunktion der Form.",
+      "hints": [
+        "Der Vorvertrag bereitet einen anderen Vertrag vor.",
+        "Zwangsvollstreckung einer Willenserklärung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "K legt im Supermarkt eine Flasche Wein in den Einkaufswagen, überlegt es sich am Ende des Gangs anders und stellt sie zurück. Ist nach dem Skript ein Kaufvertrag zustande gekommen?",
+      "options": [
+        "Nein; das Aufstellen der Ware ist nur eine invitatio, das Angebot macht K erst an der Kasse.",
+        "Ja; das Aufstellen ist ein Angebot, das K durch das Einlegen angenommen hat.",
+        "Ja, aber K kann nach § 355 BGB widerrufen.",
+        "Nein, weil Selbstbedienungskäufe stets nach § 151 BGB ohne Annahme zustande kommen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach dem Skript ist das Aufstellen der Waren eine invitatio ad offerendum; das Einlegen in den Wagen ist noch keine Annahme. Der Kunde macht das Angebot durch Vorlegen an der Kasse, angenommen wird im Zweifel mit dem Feststellen des Rechnungsbetrags.",
+      "hints": [
+        "Der Inhaber will unerwünschte Vertragspartner vermeiden können.",
+        "Wo erklärt der Kunde, dass er kaufen will?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 14
+        },
+        {
+          "doc": "BGB_3",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "P kauft bei Händler S einen PKW, der bei Übergabe erhebliche Mängel hat. Wegen dieser Mängel kann P aus dem Kaufvertrag auch den Hersteller in Anspruch nehmen.",
+      "answer": false,
+      "explanation": "Falsch. Die Rechte und Pflichten aus einem Schuldverhältnis bestehen grundsätzlich nur zwischen den Beteiligten (§ 241 Abs. 1). Mit dem Hersteller besteht kein Kaufvertrag, P kann wegen der Mängel nur S in Anspruch nehmen.",
+      "hints": [
+        "Wer ist Vertragspartner des P?",
+        "Relativität der Schuldverhältnisse."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm der Rechtsfolge zu, die sie an Schweigen bzw. Untätigkeit knüpft.",
+      "pairs": [
+        [
+          "§ 108 Abs. 2 BGB",
+          "Genehmigung des Vertrags des Minderjährigen gilt als verweigert"
+        ],
+        [
+          "§ 516 Abs. 2 BGB",
+          "Schenkung gilt nach Fristablauf als angenommen"
+        ],
+        [
+          "§ 362 Abs. 1 HGB",
+          "Schweigen des Kaufmanns auf einen Geschäftsbesorgungsantrag gilt als Annahme"
+        ],
+        [
+          "§ 241a Abs. 1 BGB",
+          "Unbestellte Lieferung an Verbraucher begründet keinen Anspruch"
+        ],
+        [
+          "§ 346 HGB",
+          "Handelsbräuche – eine Grundlage des kaufmännischen Bestätigungsschreibens"
+        ]
+      ],
+      "explanation": "Wo das Gesetz an Schweigen Folgen knüpft, treten diese ex lege ein. Ohne solche Norm bleibt Schweigen grundsätzlich bedeutungslos.",
+      "hints": [
+        "Zwei Normen stehen im HGB.",
+        "Nur eine Norm lässt Schweigen als Ablehnung wirken."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 32
+        },
+        {
+          "doc": "BGB_3",
+          "page": 39
+        },
+        {
+          "doc": "BGB_3",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Voraussetzungen des kaufmännischen Bestätigungsschreibens in die Reihenfolge der Übersicht im Skript.",
+      "items": [
+        "Kaufmannseigenschaft von Absender und Empfänger",
+        "Vorausgegangene Vertragsverhandlungen",
+        "Zugang des Schreibens beim Empfänger",
+        "Schweigen des Empfängers",
+        "Genehmigungsfähigkeit des Inhalts",
+        "Redlichkeit des Absenders"
+      ],
+      "explanation": "Fehlen Vorverhandlungen, handelt es sich nicht um ein Bestätigungsschreiben, sondern um eine Auftragsbestätigung (§ 150 Abs. 2).",
+      "hints": [
+        "Erst wer, dann was vorher geschah, dann der Zugang des Schreibens.",
+        "Die beiden Einschränkungen (Inhalt, Absender) stehen am Schluss."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "A weiß, dass Geschäftspartner B jeden Freitag bis Sonntagabend auf der Jagd ist. A’s schriftliches Angebot wird am Freitag in B’s Geschäftsräume zugestellt. Wie wirkt sich das auf die Annahmefrist nach § 147 Abs. 2 BGB aus?",
+      "options": [
+        "Die Überlegungszeit beginnt erst am Montag; die Frist verlängert sich entsprechend.",
+        "Keine Auswirkung, der Freitag ist stets als Werktag mitzurechnen.",
+        "Das Angebot ist erst am Montag zugegangen und vorher unwirksam.",
+        "B muss unter Anwesenden sofort annehmen."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Grundsätzlich zählt der Freitag mit. Ist dem Antragenden aber bekannt, dass B dann regelmäßig ortsabwesend ist, steht das den regelmäßigen Umständen gleich: Mit Kenntnisnahme ist erst am Montag zu rechnen, die Frist verlängert sich.",
+      "hints": [
+        "Was durfte A „unter regelmäßigen Umständen“ erwarten?",
+        "Bekannte Besonderheiten zählen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 16
+        },
+        {
+          "doc": "BGB_3",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "In welchen Fällen bleibt Schweigen auf ein kaufmännisches Bestätigungsschreiben nach dem Skript folgenlos? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Der Absender hat das Verhandlungsergebnis bewusst unrichtig wiedergegeben.",
+        "Das Schreiben weicht so weit vom Vereinbarten ab, dass der Absender vernünftigerweise nicht mit Einverständnis rechnen konnte.",
+        "Beide Seiten haben sich inhaltlich unvereinbare Bestätigungsschreiben gekreuzt zugeschickt.",
+        "Der Empfänger hat das zugegangene Schreiben nicht gelesen."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das sind die drei Einschränkungen des Skripts (Beispiel: LKW statt PKW zu € 42.500 statt € 10.500). Ob der Empfänger liest, ist unerheblich – es kommt auf den Zugang an.",
+      "hints": [
+        "Redlichkeit des Absenders und Genehmigungsfähigkeit des Inhalts.",
+        "Zugang, nicht Kenntnisnahme."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 39
+        },
+        {
+          "doc": "BGB_3",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Wird ein Kunde im Kaufhaus durch eine von einem Angestellten unvorsichtig aufgestellte Linoleumrolle verletzt, kann sich der Kaufhausinhaber gegenüber dem Anspruch aus §§ 280 Abs. 1, 311 Abs. 2 Nr. 2, 241 Abs. 2 BGB durch den Nachweis sorgfältiger Auswahl des Angestellten entlasten.",
+      "answer": false,
+      "explanation": "Falsch. Im vorvertraglichen Schuldverhältnis wird das Verschulden des Erfüllungsgehilfen nach § 278 BGB ohne Exkulpationsmöglichkeit zugerechnet. Nur beim deliktischen Anspruch aus § 831 BGB ist die Entlastung nach § 831 Abs. 1 S. 2 möglich.",
+      "hints": [
+        "§ 278 oder § 831?",
+        "Linoleumrollenfall des RG."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 28
+        },
+        {
+          "doc": "BGB_3",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A und B vereinbaren mündlich, dass B in sechs Monaten A’s Grundstück für 300.000 € kaufen soll; der notarielle Kaufvertrag soll später geschlossen werden. Als der Termin naht, will A nicht mehr verkaufen. B verlangt den Abschluss des Kaufvertrages. Zu Recht?",
+      "modelAnswer": "B könnte einen Anspruch auf Abschluss des Hauptvertrages aus einem Vorvertrag haben. Ein Vorvertrag begründet die einklagbare Pflicht zur Mitwirkung am Abschluss eines in seinem Rahmen festgelegten Hauptvertrages; er ist aufgrund der Privatautonomie zulässig. Grundsätzlich ist er formfrei. Ist der Hauptvertrag formbedürftig, gilt dies wegen Beweis- und Warnfunktion auch für den Vorvertrag. Der Grundstückskauf bedarf nach § 311b Abs. 1 S. 1 BGB der notariellen Beurkundung; die mündliche Abrede wahrt diese Form nicht und ist nach § 125 S. 1 BGB nichtig. B hat keinen Anspruch.",
+      "rubric": [
+        "Anspruchsgrundlage: Vorvertrag",
+        "Definition Vorvertrag",
+        "Form des Vorvertrags folgt der Form des Hauptvertrags",
+        "§ 311b Abs. 1 S. 1 BGB, notarielle Beurkundung",
+        "Nichtigkeit nach § 125 BGB, Ergebnis"
+      ],
+      "hints": [
+        "Welche Form braucht der Grundstückskauf?",
+        "Gilt das auch schon für die Vorabsprache?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Welche Rechtsfolge ordnet § 154 Abs. 1 S. 1 BGB beim offenen Dissens an?",
+      "options": [
+        "Im Zweifel ist der Vertrag nicht geschlossen.",
+        "Der Vertrag ist stets geschlossen, die Lücke füllt das Gesetz.",
+        "Der Vertrag ist geschlossen, aber anfechtbar.",
+        "Es gilt, was nach dem hypothetischen Willen vereinbart worden wäre."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 154 Abs. 1 S. 1 ist eine Auslegungsregel: Wollten die Parteien sich erkennbar trotz offener Punkte binden (z.B. Beginn der Ausführung), kommt der Vertrag doch zustande. Der hypothetische Wille ist bei § 155 (versteckter Dissens) maßgeblich.",
+      "hints": [
+        "„Im Zweifel“.",
+        "Verwechseln Sie § 154 nicht mit § 155."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Stellen Sie dar, wie RG und BGH die schuldhafte Herbeiführung eines Dissenses behandeln, und nennen Sie die Bedenken des Skripts.",
+      "modelAnswer": "Das RG gewährte in der Weinsteinsäure-Entscheidung demjenigen Ersatz des Vertrauensschadens, bei dem die Gegenpartei fahrlässig durch missverständliche Ausdrucksweise einen Dissens hervorgerufen hatte – in Analogie zu §§ 122, 179 und §§ 307, 309 BGB a.F. Der BGH sieht darin die Verletzung von Aufklärungs- und Rücksichtnahmepflichten; die wohl h.M. stützt den Anspruch heute auf §§ 280 Abs. 1, 311 Abs. 2 BGB. Das Skript hat Bedenken: Die gesetzliche Folge des Dissenses ist schlicht das Nichtzustandekommen des Vertrages. Ist nur eine Seite fahrlässig, wird ihr der Erklärungsinhalt oft normativ zugerechnet, sodass gar kein Dissens vorliegt; sonst trifft meist beide ein Verschulden, dessen Gewichtung kaum möglich ist.",
+      "rubric": [
+        "RG Weinsteinsäure, Vertrauensschaden, Analogie",
+        "BGH: Aufklärungs-/Rücksichtnahmepflichten",
+        "h.M.: §§ 280 Abs. 1, 311 Abs. 2",
+        "Bedenken: Rechtsfolge des Dissenses ist Nichtzustandekommen",
+        "Normative Zurechnung bzw. beiderseitiges Verschulden"
+      ],
+      "hints": [
+        "Jede Partei hielt die andere für die Käuferin.",
+        "Was passiert, wenn nur eine Seite fahrlässig war – liegt dann überhaupt ein Dissens vor?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 45
+        },
+        {
+          "doc": "BGB_3",
+          "page": 46
+        },
+        {
+          "doc": "BGB_3",
+          "page": 47
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungsschritte zum Vertragsschluss durch Angebot und Annahme in eine sinnvolle Reihenfolge.",
+      "items": [
+        "Angebot mit Rechtsbindungswillen und essentialia negotii, wirksam durch Zugang",
+        "Angebot nicht erloschen (§ 146)",
+        "Annahme als vorbehaltloses Einverständnis (sonst § 150 Abs. 2)",
+        "Rechtzeitigkeit der Annahme (§§ 147–149, sonst § 150 Abs. 1)",
+        "Kein Einigungsmangel (§§ 154, 155)"
+      ],
+      "explanation": "Das Angebot wird vor der Annahme geprüft; erst wenn ein wirksames, noch bestehendes Angebot vorliegt, kommt es auf Inhalt und Rechtzeitigkeit der Annahme an. Zum Schluss wird geprüft, ob die Einigung vollständig ist.",
+      "hints": [
+        "Was nicht (mehr) besteht, kann nicht angenommen werden."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 5
+        },
+        {
+          "doc": "BGB_3",
+          "page": 9
+        },
+        {
+          "doc": "BGB_3",
+          "page": 15
+        },
+        {
+          "doc": "BGB_3",
+          "page": 18
+        },
+        {
+          "doc": "BGB_3",
+          "page": 43
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "L verspricht seinem Freund S, ihn zu einem für S wirtschaftlich sehr wichtigen Geschäftstermin in die Stadt zu fahren. L weiß, dass S sonst nicht rechtzeitig hinkommt, fährt dann aber allein. Wie ordnet das Skript L’s Zusage ein?",
+      "options": [
+        "Als vertragliche Zusage mit Rechtsbindungswillen, weil L die wirtschaftliche Bedeutung und Gefahr erkennbar war",
+        "Als bloße Gefälligkeit, weil L unentgeltlich handeln wollte",
+        "Als invitatio ad offerendum",
+        "Als gesellschaftliche Zusage ohne jede Rechtsfolge, weil die beiden befreundet sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Trotz Freundschaft und Unentgeltlichkeit ist der Rechtsbindungswille zu bejahen: Für L waren das große wirtschaftliche Interesse des S und die drohende Gefahr bei Nichtleistung erkennbar. Die schuldhafte Verletzung begründet Schadensersatz.",
+      "hints": [
+        "Unentgeltlichkeit allein schließt Bindung nicht aus.",
+        "Kriterien: wirtschaftliche Bedeutung, Interesse, erkennbare Gefahr."
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 8
+        },
+        {
+          "doc": "BGB_3",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Straßenhändler S ruft dem vorbeigehenden A zu, er biete ihm eine Flasche Fleckenreiniger für 2,60 € an. A geht wortlos und ohne auffällige Bewegung weiter. Ist ein Kaufvertrag zustande gekommen?",
+      "options": [
+        "Nein; S hat zwar ein Angebot gemacht, A’s Schweigen ist aber keine Annahme.",
+        "Ja; wer auf ein Angebot schweigt, nimmt es stillschweigend an.",
+        "Ja, aber A kann wegen Irrtums anfechten.",
+        "Nein, weil S nur eine invitatio ad offerendum abgegeben hat."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach der Verkehrsanschauung ist der Zuruf des S ein bindendes Angebot. Bloßes Schweigen ist aber in der Regel kein Erklärungstatbestand, sondern das Gegenteil einer Erklärung – „stillschweigende Willenserklärungen gibt es nicht“.",
+      "hints": [
+        "Unterscheiden Sie konkludentes Handeln von bloßem Schweigen.",
+        "Hat A irgendetwas getan, das auf Annahme schließen lässt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_3",
+          "page": 31
+        },
+        {
+          "doc": "BGB_3",
+          "page": 32
+        }
+      ]
     }
   ],
   "case": {
@@ -1365,6 +1888,68 @@
           "page": 46
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 241 Abs. 1 BGB",
+      "inhalt": "Aus einem Schuldverhältnis kann der Gläubiger eine Leistung verlangen."
+    },
+    {
+      "norm": "§ 145 BGB",
+      "inhalt": "Wer ein Angebot macht, ist daran gebunden, wenn er die Bindung nicht ausgeschlossen hat."
+    },
+    {
+      "norm": "§ 146 BGB",
+      "inhalt": "Angebot erlischt bei Ablehnung oder nicht rechtzeitiger Annahme."
+    },
+    {
+      "norm": "§ 147 BGB",
+      "inhalt": "Annahmefrist: unter Anwesenden sofort (auch Telefon), unter Abwesenden bis zur regelmäßig zu erwartenden Antwort."
+    },
+    {
+      "norm": "§ 148 BGB",
+      "inhalt": "Der Antragende kann eine Annahmefrist setzen."
+    },
+    {
+      "norm": "§ 149 BGB",
+      "inhalt": "Verspätung durch Beförderungsstörung muss der Antragende unverzüglich anzeigen."
+    },
+    {
+      "norm": "§ 150 BGB",
+      "inhalt": "Verspätete Annahme (Abs. 1) und Annahme mit Änderungen (Abs. 2) sind neue Angebote."
+    },
+    {
+      "norm": "§ 151 S. 1 BGB",
+      "inhalt": "Annahme ohne Zugang, wenn Verkehrssitte oder Verzicht dies erlauben."
+    },
+    {
+      "norm": "§ 311 Abs. 2 BGB",
+      "inhalt": "Vorvertragliches Schuldverhältnis durch Verhandlungen, Anbahnung oder ähnliche Kontakte (c.i.c.)."
+    },
+    {
+      "norm": "§ 311 Abs. 3 BGB",
+      "inhalt": "Auch Dritte, die besonderes Vertrauen in Anspruch nehmen, können aus c.i.c. haften."
+    },
+    {
+      "norm": "§ 278 BGB",
+      "inhalt": "Verschulden von Erfüllungsgehilfen wird wie eigenes zugerechnet – ohne Entlastung."
+    },
+    {
+      "norm": "§ 362 Abs. 1 HGB",
+      "inhalt": "Schweigen des Kaufmanns auf bestimmte Geschäftsbesorgungsanträge gilt als Annahme."
+    },
+    {
+      "norm": "§ 241a Abs. 1 BGB",
+      "inhalt": "Unbestellte Waren an Verbraucher: keine Ansprüche des Unternehmers."
+    },
+    {
+      "norm": "§ 154 Abs. 1 S. 1 BGB",
+      "inhalt": "Offener Dissens: im Zweifel kein Vertrag."
+    },
+    {
+      "norm": "§ 155 BGB",
+      "inhalt": "Versteckter Dissens: Vereinbartes gilt, wenn der Vertrag auch ohne den Punkt geschlossen worden wäre."
     }
   ]
 }

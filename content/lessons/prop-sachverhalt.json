@@ -26,7 +26,9 @@
           "doc": "PROP_1",
           "page": 63
         }
-      ]
+      ],
+      "merksatz": "Der Sachverhalt ist Text, nicht Wirklichkeit – er passt zur Lösung wie das Schloss zum Schlüssel.",
+      "norms": []
     },
     {
       "id": "s2",
@@ -42,7 +44,9 @@
           "doc": "PROP_1",
           "page": 79
         }
-      ]
+      ],
+      "merksatz": "Erfassen, Suchen, Ordnen, Verarbeiten – und erst den Sachverhalt lesen, dann die Fallfrage.",
+      "norms": []
     },
     {
       "id": "s3",
@@ -74,7 +78,9 @@
           "doc": "PROP_1",
           "page": 70
         }
-      ]
+      ],
+      "merksatz": "Kaum ein Wort ist sinnlos: Wer den Wink mit dem Zaunpfahl übersieht, schreibt am Problem vorbei.",
+      "norms": []
     },
     {
       "id": "s4",
@@ -94,7 +100,9 @@
           "doc": "PROP_1",
           "page": 72
         }
-      ]
+      ],
+      "merksatz": "Nichts weglassen, nichts hinzufügen, nichts verbiegen – Rechtsausführungen der Beteiligten werden erörtert, nicht geglaubt.",
+      "norms": []
     },
     {
       "id": "s5",
@@ -126,7 +134,9 @@
           "doc": "PROP_1",
           "page": 77
         }
-      ]
+      ],
+      "merksatz": "Farben mit System statt 17 Buntstifte – Zeit-, Personen- und Ortsskizze bringen Ordnung ins Geschehen.",
+      "norms": []
     },
     {
       "id": "s6",
@@ -150,6 +160,13 @@
           "doc": "PROP_1",
           "page": 80
         }
+      ],
+      "merksatz": "Jeder Hinweis gehört in die Lösungsskizze – abgehakt wird erst, was eingebaut ist.",
+      "norms": [
+        "§ 306 Abs. 1 StGB",
+        "§ 306a Abs. 1, 2 StGB",
+        "§ 23 Abs. 3 StGB",
+        "§ 24 Abs. 1 StGB"
       ]
     }
   ],
@@ -819,6 +836,425 @@
           "page": 72
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Der römische Grundsatz lautet: „Da mihi facta, dabo tibi {{1}}“ – „Gib mir die {{2}}, ich gebe dir das Recht.“",
+      "blanks": [
+        [
+          "ius"
+        ],
+        [
+          "Tatsachen",
+          "Fakten"
+        ]
+      ],
+      "explanation": "Das Gericht urteilt nicht über die „wahre“ Wirklichkeit, sondern über den Sachverhalt, auf den man sich durch Parteivortrag und Beweis verständigt hat.",
+      "hints": [
+        "Lateinisch für „Recht“.",
+        "facta = ?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 62
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Eine Sachverhaltsinformation ist relevant, weil sie als {{1}} den Hinweis auf ein Rechtsproblem gibt, das wie ein {{2}} dazu passt.",
+      "blanks": [
+        [
+          "Schloss"
+        ],
+        [
+          "Schlüssel"
+        ]
+      ],
+      "explanation": "Bild des Studienbriefs: Sachverhalt („Schloss“) und rechtliche Folgerung („Schlüssel“) müssen zueinander passen.",
+      "hints": [
+        "Etwas, das man aufsperrt.",
+        "Etwas, mit dem man aufsperrt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 64
+        },
+        {
+          "doc": "PROP_1",
+          "page": 69
+        },
+        {
+          "doc": "PROP_1",
+          "page": 70
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Merke: Eindeutige rechtliche Wertungen im Sachverhalt sind ohne erneute {{1}} anzunehmen. Rechtsausführungen der Beteiligten müssen {{2}} und geprüft werden.",
+      "blanks": [
+        [
+          "Prüfung"
+        ],
+        [
+          "erörtert",
+          "diskutiert"
+        ]
+      ],
+      "explanation": "Rechtsaussagen aus der objektiven Erzählerposition (z. B. „fahrlässig“) übernimmt man; Rechtsansichten, die den Akteuren in den Mund gelegt werden, sind weder verbindlich noch erschöpfend und müssen belegt oder widerlegt werden.",
+      "hints": [
+        "Erzähler ↔ Beteiligte.",
+        "Rechtsausführungen dürfen nicht übergangen werden."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 71
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie dem Arbeitsschritt seine Kontrollfrage zu.",
+      "pairs": [
+        [
+          "Erfassen",
+          "Habe ich den Sachverhalt grob verstanden, sodass ich ihn in eigenen Worten wiedergeben könnte?"
+        ],
+        [
+          "Suchen und Sammeln",
+          "Habe ich alle Sachverhaltshinweise erkannt und gekennzeichnet?"
+        ],
+        [
+          "Ordnen",
+          "Habe ich den Sachverhalt ausreichend strukturiert?"
+        ],
+        [
+          "Verarbeiten",
+          "Wurde jeder Sachverhaltshinweis, jedes Wort im Lösungsansatz verwertet?"
+        ]
+      ],
+      "explanation": "Die Zusammenfassung des Studienbriefs schließt jeden der vier Schritte mit einer Kontrollfrage ab.",
+      "hints": [
+        "Überblick – Hinweise – Struktur – Verwertung.",
+        "Der letzte Schritt fragt nach dem Einbau in die Lösung."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 79
+        },
+        {
+          "doc": "PROP_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Beispiel 21 (Brandstiftung): Ordnen Sie die Sachverhaltsinfo der Norm zu, auf die sie nach Tabelle 7 hinweist.",
+      "pairs": [
+        [
+          "Gemeinsames Haus – gehört nicht M allein",
+          "§ 306 Abs. 1 StGB (fremdes Gebäude)"
+        ],
+        [
+          "M warnt seinen Stiefsohn S vorher",
+          "§ 306a Abs. 1, 2 StGB (konkrete Gefahr ausgeschlossen?)"
+        ],
+        [
+          "Brandsatz ist untauglich, das Haus in Brand zu setzen",
+          "§ 23 Abs. 3 StGB (untauglicher Versuch?)"
+        ],
+        [
+          "M löscht im Gerangel mit seinem Körper das Feuer",
+          "§ 24 Abs. 1 StGB (Rücktritt?)"
+        ]
+      ],
+      "explanation": "Tabelle 7 zeigt, wie jede Sachverhaltsinfo einen tatsächlichen und einen rechtlichen Hinweis liefert. Beim Rücktritt ist der Problemschwerpunkt: Das Nichtbeenden dürfte nicht freiwillig sein.",
+      "hints": [
+        "Fremdheit – Gefahr – Tauglichkeit – Rücktritt.",
+        "Versuch und Rücktritt stehen in §§ 23, 24 StGB."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 78
+        },
+        {
+          "doc": "PROP_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Beispiel 14: Bringen Sie die Ereignisse für eine Zeitskizze in die richtige chronologische Reihenfolge.",
+      "items": [
+        "A gewinnt eine Reise nach Australien",
+        "A storniert die Tunesienreise",
+        "Geplanter Abflug nach Tunesien am 01.06.",
+        "Reisewarnung des Auswärtigen Amts am 03.06."
+      ],
+      "explanation": "Der Sachverhalt erzählt nicht chronologisch: Der Gewinn liegt vor der Stornierung (zwei Wochen vor dem 01.06.), die Reisewarnung erst danach – genau dafür ist die Zeitskizze da.",
+      "hints": [
+        "Der Text nennt die Ereignisse nicht in zeitlicher Reihenfolge.",
+        "Die Reisewarnung kam nach dem geplanten Abflug."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 73
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "order",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Beispiel 15 (Habersack): Bringen Sie die Ereignisse in die richtige zeitliche Reihenfolge.",
+      "items": [
+        "Amazon schickt C versehentlich einen Habersack (01.02.)",
+        "A leiht sich den Habersack von C",
+        "A verkauft den Habersack an B (03.03.)",
+        "D vergisst den Habersack in der Bahn; E nimmt ihn mit",
+        "Amazon fordert C zur Herausgabe auf (sechs Wochen nach der Versendung)"
+      ],
+      "explanation": "Leihe zwei Tage vor dem Verkauf am 03.03., D bricht einen Tag später auf; die Aufforderung durch Amazon kommt sechs Wochen nach dem 01.02. – also zuletzt. Mehrere Personen und Daten: ein typischer Fall für den Zeitstrahl.",
+      "hints": [
+        "Rechnen Sie die relativen Angaben („zwei Tage zuvor“, „sechs Wochen nach“) aus.",
+        "Die Ex-Freundin in der Bahn ist kein eigener Schritt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 73
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein Bearbeiter legt in seiner Lösung ausführlich dar, der im Sachverhalt verwendete Begriff „Äsung“ passe zwar für Rehe, nicht aber für Schwarzwild. Wie beurteilt der Studienbrief das?",
+      "options": [
+        "Fehl am Platz – faktische Angaben des Sachverhalts sind hinzunehmen, nicht zu diskutieren",
+        "Gut – je mehr Sachverstand, desto besser die Lösung",
+        "Notwendig, weil fehlerhafte Begriffe den Sachverhalt unwirksam machen",
+        "Richtig, weil man den Sachverhalt bei Zweifeln korrigieren darf"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Beispiel 12: Ausdrückliche Auseinandersetzungen mit den faktischen Angaben sind fehl am Platz – auch wenn man aus beruflicher Erfahrung Zweifel hat, nimmt man die Angaben als gegeben hin.",
+      "hints": [
+        "Die Fakten sind verbindlich.",
+        "Bringt die Diskussion die rechtliche Lösung weiter?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 71
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Im Sachverhalt heißt es: „Die – wie immer unaufmerksame und schusselige – A fährt, wie so oft, beim Rückwärtsparken gegen die Laterne.“ Worauf will der Aufgabensteller damit hinweisen?",
+      "options": [
+        "Dass A grundsätzlich nicht besonders sorgsam ist",
+        "Dass A als Fahrerin geschäftsunfähig ist",
+        "Auf nichts – das ist bloße Ausschmückung",
+        "Dass die Laterne falsch aufgestellt war"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Beispiel 6: Ohne schon die rechtliche Bedeutung zu klären, drängt sich auf, dass der Aufgabensteller ein besonderes Augenmerk auf die generelle Sorglosigkeit der A richten wollte.",
+      "hints": [
+        "„wie immer“, „wie so oft“.",
+        "Kaum ein Wort im Sachverhalt ist sinnlos."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Beim ersten Lesen sollte man den Sachverhalt bereits gründlich unterstreichen und gliedern, damit nichts verloren geht.",
+      "answer": false,
+      "explanation": "Falsch. Beim ersten Durchgang nur zurückhaltend unterstreichen und gliedern – erst nach mehrfacher Lektüre wird deutlich, welche Tatsachen wichtig sind.",
+      "hints": [
+        "Schritt 1 heißt „Erfassen“.",
+        "Was wird mit jedem Lesen klarer?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 64
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Sobald die Lösungsskizze steht, kann der Sachverhalt zur Seite gelegt werden.",
+      "answer": false,
+      "explanation": "Falsch. Den Sachverhalt versteht man erst vollständig, wenn man ihn rechtlich perfekt bearbeitet hat – deshalb nie zur Seite legen, sondern während der ganzen Falllösung weiter am Sachverhalt arbeiten.",
+      "hints": [
+        "Wann versteht man den Sachverhalt vollständig?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach welchen Gesichtspunkten können komplexe Sachverhalte nach dem Studienbrief in einzelne Lebenssituationen gegliedert werden? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Nach unterschiedlichen Personen",
+        "Nach Begehren",
+        "Nach Handlungs- oder Geschehensabschnitten",
+        "Nach der Zahl der Absätze im Sachverhalt"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Mit Fortschreiten des Studiums werden Sachverhalte komplexer; die Lebenssituationen werden nach Personen, Begehren, Handlungs- oder Geschehensabschnitten geordnet (Beispiele 19a und 20a: Personen, Handlungen, Tage).",
+      "hints": [
+        "Wer? Was will wer? Wann/was geschah?",
+        "Die Textgestaltung ist kein rechtliches Kriterium."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 76
+        },
+        {
+          "doc": "PROP_1",
+          "page": 77
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was versteht der Studienbrief unter der „Sachverhaltsquetsche“, und warum ist sie gefährlich?",
+      "modelAnswer": "Sachverhaltsquetsche bedeutet, die geschilderten Umstände zu verbiegen, weil man meint, der Fall müsse auf bestimmte (bekannte) Rechtsfragen zugeschnitten werden oder entspreche einer bekannten Konstellation. Gefahr: Im schlimmsten Fall bearbeitet man einen anderen als den gestellten Sachverhalt. Richtig ist: Den Text wie ein akademisch gebildeter, juristisch geprägter Mensch in durchschnittlichen Lebensverhältnissen lesen – nichts weglassen, nichts hinzufügen, nichts verbiegen; Unterstellungen sind grundsätzlich unzulässig (Ausnahme: Formalia).",
+      "rubric": [
+        "Verbiegen des Sachverhalts auf bekannte Fragen",
+        "Folge: anderer Fall wird bearbeitet",
+        "Nichts weglassen, nichts hinzufügen",
+        "Unterstellungen unzulässig (außer Formalia)"
+      ],
+      "hints": [
+        "Abbildung 24.",
+        "Was passiert, wenn der Fall „anders gestrickt“ ist?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 70
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Beispiel 4a/4b: Enkelin E nimmt das iPad der Großmutter G aus deren Arbeitszimmer mit. In 4a versteckt sie es im Keller der G, in 4b in ihrer eigenen Wohnung. Welcher Umstand unterscheidet die Fälle, und was folgt daraus für Ihre Arbeit am Sachverhalt?",
+      "modelAnswer": "Die Fälle unterscheiden sich nur in einem kleinen Umstand: dem Ort des Verstecks (Keller der G – also im Bereich der Großmutter – oder eigene Wohnung der E). Nach dem Studienbrief genügt dieser Umstand, um zu einer gänzlich anderen rechtlichen Wertung zu kommen (wird im Strafrecht vertieft). Folge: Jedes Wort beachten, solche Details markieren und konsequent in die Lösungsskizze einbauen – kaum ein Wort im Sachverhalt ist sinnlos.",
+      "rubric": [
+        "Unterschied: Ort des Verstecks",
+        "Kleiner Unterschied → andere rechtliche Wertung",
+        "Konsequenz: jedes Wort beachten und verwerten"
+      ],
+      "hints": [
+        "Vergleichen Sie die beiden letzten Sätze.",
+        "Eine rechtliche Lösung wird hier noch nicht verlangt."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 66
+        },
+        {
+          "doc": "PROP_1",
+          "page": 67
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Rolle spielt das Rechtsgefühl („Judiz“) nach dem Studienbrief?",
+      "options": [
+        "Es hat im späteren Beruf durchaus seinen Platz; im Studium gewöhnt man sich aber zunächst an die juristische Gedankenabfolge",
+        "Es ist der beste Einstieg in jede Klausur",
+        "Es hat im Recht keinerlei Platz",
+        "Es ersetzt die Prüfung der Tatbestandsmerkmale, wenn das Ergebnis offensichtlich ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ein emotionaler, intuitiver Zugang („Wie fühlt es sich an?“) führt in die Irre. Das Judiz und Gerechtigkeitskontrollen haben später Platz; im Studium lernt man zuerst die Gedankenabfolge, die gerade nicht direkt auf das Endergebnis zusteuert.",
+      "hints": [
+        "„zunächst“ ist das Schlüsselwort.",
+        "Laie ↔ Professionalität."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 63
+        }
+      ]
     }
   ],
   "case": {
@@ -1041,6 +1477,24 @@
           "page": 77
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 306 Abs. 1 StGB",
+      "inhalt": "Brandstiftung an fremden Gebäuden – das gemeinsame Haus ist für M „fremd“ (Beispiel 21)."
+    },
+    {
+      "norm": "§ 306a Abs. 1, 2 StGB",
+      "inhalt": "Schwere Brandstiftung – fraglich, ob die Warnung des S die Gefahr für Menschen ausschließt."
+    },
+    {
+      "norm": "§ 23 Abs. 3 StGB",
+      "inhalt": "Untauglicher Versuch – der Brandsatz war objektiv ungeeignet, das Haus in Brand zu setzen."
+    },
+    {
+      "norm": "§ 24 Abs. 1 StGB",
+      "inhalt": "Rücktritt vom Versuch – das Löschen im Gerangel war wohl nicht freiwillig."
     }
   ]
 }

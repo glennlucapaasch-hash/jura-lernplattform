@@ -27,6 +27,17 @@
           "doc": "BGB_5",
           "page": 8
         }
+      ],
+      "merksatz": "Kaufen verpflichtet, Übereignen verfügt: Der Kaufvertrag bringt nur einen Anspruch – Eigentümer wird man erst durch ein zweites Geschäft.",
+      "norms": [
+        "§ 433 Abs. 1 S. 1 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§ 194 Abs. 1 BGB",
+        "§ 929 S. 1 BGB",
+        "§ 657 BGB",
+        "§ 873 BGB",
+        "§ 925 BGB",
+        "§§ 398 ff. BGB"
       ]
     },
     {
@@ -43,6 +54,15 @@
           "doc": "BGB_5",
           "page": 9
         }
+      ],
+      "merksatz": "Einigung plus Übergabe macht den Erwerber zum Eigentümer – verfügen kann grundsätzlich aber nur der Berechtigte.",
+      "norms": [
+        "§ 929 S. 1 BGB",
+        "§ 185 BGB",
+        "§ 932 BGB",
+        "§ 398 BGB",
+        "§ 854 Abs. 1 BGB",
+        "§ 903 BGB"
       ]
     },
     {
@@ -63,6 +83,15 @@
           "doc": "BGB_5",
           "page": 11
         }
+      ],
+      "merksatz": "Zwei Geschäfte, zwei Schicksale: Fällt der Kauf, bleibt die Übereignung bestehen – zurück geht es über § 812.",
+      "norms": [
+        "§ 362 BGB",
+        "§ 929 S. 1 BGB",
+        "§ 138 Abs. 1 BGB",
+        "§ 812 BGB",
+        "§ 134 BGB",
+        "§ 125 BGB"
       ]
     },
     {
@@ -87,6 +116,15 @@
           "doc": "BGB_5",
           "page": 15
         }
+      ],
+      "merksatz": "Rechtsfähig ist jeder Mensch ab der Geburt; geschäftsfähig, wer wirksam erklären kann; deliktsfähig, wer für eigenes Verschulden einsteht.",
+      "norms": [
+        "§ 1 BGB",
+        "§§ 823 ff. BGB",
+        "§ 827 BGB",
+        "§ 828 Abs. 1 BGB",
+        "§ 828 Abs. 2 BGB",
+        "§ 828 Abs. 3 BGB"
       ]
     },
     {
@@ -107,6 +145,15 @@
           "doc": "BGB_5",
           "page": 17
         }
+      ],
+      "merksatz": "Unter sieben oder dauerhaft ohne freien Willen: geschäftsunfähig – die Erklärung ist nichtig, keine Genehmigung rettet sie.",
+      "norms": [
+        "§ 2 BGB",
+        "§ 104 Nr. 1 BGB",
+        "§ 104 Nr. 2 BGB",
+        "§ 105 Abs. 1 BGB",
+        "§ 105 Abs. 2 BGB",
+        "§ 105a BGB"
       ]
     },
     {
@@ -131,6 +178,23 @@
           "doc": "BGB_5",
           "page": 20
         }
+      ],
+      "merksatz": "Zwischen sieben und achtzehn: Rein Vorteilhaftes geht allein, alles andere braucht die Eltern – vorher einwilligen oder nachher genehmigen.",
+      "norms": [
+        "§ 106 BGB",
+        "§ 187 Abs. 2 BGB",
+        "§ 1825 BGB",
+        "§ 107 BGB",
+        "§ 183 S. 1 BGB",
+        "§ 108 Abs. 1 BGB",
+        "§ 184 Abs. 1 BGB",
+        "§ 1626 BGB",
+        "§ 1629 Abs. 1 BGB",
+        "§ 1643 Abs. 1 BGB",
+        "§ 1850 Abs. 1 Nr. 1 BGB",
+        "§ 1773 BGB",
+        "§ 1814 BGB",
+        "§ 1809 BGB"
       ]
     },
     {
@@ -151,6 +215,13 @@
           "doc": "BGB_5",
           "page": 22
         }
+      ],
+      "merksatz": "Einwilligung gibt es fürs Einzelgeschäft oder einen abgegrenzten Kreis – ein Blankoscheck für alles ist unzulässig.",
+      "norms": [
+        "§ 107 BGB",
+        "§ 112 BGB",
+        "§ 113 BGB",
+        "§ 131 Abs. 2 S. 2 BGB"
       ]
     },
     {
@@ -183,6 +254,21 @@
           "doc": "BGB_5",
           "page": 27
         }
+      ],
+      "merksatz": "Rechtlich, nicht wirtschaftlich wird gerechnet: Schon die kleinste eigene Pflicht macht das Geschäft zustimmungsbedürftig.",
+      "norms": [
+        "§ 107 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§ 929 S. 1 BGB",
+        "§ 812 Abs. 1 S. 1 BGB",
+        "§ 398 BGB",
+        "§ 181 BGB",
+        "§ 16 Abs. 2 WEG",
+        "§ 11c TierSchG",
+        "§ 2 TierSchG",
+        "§ 134 BGB",
+        "§ 165 BGB",
+        "§ 362 Abs. 1 BGB"
       ]
     },
     {
@@ -203,6 +289,16 @@
           "doc": "BGB_5",
           "page": 69
         }
+      ],
+      "merksatz": "Schwebend unwirksam heißt warten: Nach Aufforderung haben die Eltern zwei Wochen – Schweigen gilt als Verweigerung.",
+      "norms": [
+        "§ 108 Abs. 1 BGB",
+        "§ 184 Abs. 1 BGB",
+        "§ 182 Abs. 1 BGB",
+        "§ 182 Abs. 2 BGB",
+        "§ 108 Abs. 2 BGB",
+        "§ 108 Abs. 3 BGB",
+        "§ 109 Abs. 1 BGB"
       ]
     },
     {
@@ -231,6 +327,16 @@
           "doc": "BGB_5",
           "page": 32
         }
+      ],
+      "merksatz": "Taschengeld wirkt erst, wenn alles bezahlt ist; Erwerbsgeschäft und Job machen nur für ihren Kreis voll geschäftsfähig.",
+      "norms": [
+        "§ 110 BGB",
+        "§ 362 BGB",
+        "§ 112 BGB",
+        "§ 1643 BGB",
+        "§ 113 BGB",
+        "§ 131 Abs. 2 BGB",
+        "§ 1825 BGB"
       ]
     }
   ],
@@ -1251,6 +1357,470 @@
           "page": 31
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 107 BGB: Der Minderjährige bedarf zu einer Willenserklärung, durch die er nicht {{1}} einen rechtlichen Vorteil erlangt, der {{2}} seines gesetzlichen Vertreters.",
+      "blanks": [
+        [
+          "lediglich"
+        ],
+        [
+          "Einwilligung"
+        ]
+      ],
+      "explanation": "Kernnorm des Minderjährigenrechts (S. 18, 20). Entscheidend ist der rechtliche, nicht der wirtschaftliche Vorteil (S. 22).",
+      "hints": [
+        "Ein Wort für „ausschließlich“.",
+        "Die vorherige Zustimmung (§ 183 S. 1)."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 18
+        },
+        {
+          "doc": "BGB_5",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "§ 110 BGB: Ein ohne Zustimmung geschlossener Vertrag gilt als von Anfang an wirksam, wenn der Minderjährige die vertragsmäßige Leistung mit Mitteln {{1}}, die ihm zu diesem Zweck oder zur {{2}} vom Vertreter oder mit dessen Zustimmung von einem Dritten überlassen worden sind.",
+      "blanks": [
+        [
+          "bewirkt"
+        ],
+        [
+          "freien Verfügung"
+        ]
+      ],
+      "explanation": "„Bewirkt“ heißt: vollständig erfüllt i.S.d. § 362 – bei Ratenkauf erst mit der letzten Rate (S. 28–29).",
+      "hints": [
+        "Ein Wort für „vollständig erfüllt“.",
+        "Taschengeld steht dem Kind zur …"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        },
+        {
+          "doc": "BGB_5",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Zustimmung ist der Oberbegriff: Die {{1}} ist die vorherige Zustimmung (§ 183 S. 1 BGB), die {{2}} die nachträgliche Zustimmung (§ 184 Abs. 1 BGB); diese wirkt auf den Zeitpunkt der Vornahme des Geschäfts zurück, also ex {{3}}.",
+      "blanks": [
+        [
+          "Einwilligung"
+        ],
+        [
+          "Genehmigung"
+        ],
+        [
+          "tunc"
+        ]
+      ],
+      "explanation": "Begriffe und Rückwirkung: S. 18.",
+      "hints": [
+        "„Ein-“ wie „im Voraus einverstanden“.",
+        "Lateinisch „von damals an“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 104 Nr. 1 BGB",
+          "Wer nicht das 7. Lebensjahr vollendet hat, ist geschäftsunfähig"
+        ],
+        [
+          "§ 105 Abs. 1 BGB",
+          "Die Willenserklärung eines Geschäftsunfähigen ist nichtig"
+        ],
+        [
+          "§ 106 BGB",
+          "7- bis 17-Jährige sind beschränkt geschäftsfähig"
+        ],
+        [
+          "§ 108 Abs. 1 BGB",
+          "Ohne Einwilligung hängt die Wirksamkeit des Vertrags von der Genehmigung ab"
+        ],
+        [
+          "§ 109 BGB",
+          "Der andere Teil kann bis zur Genehmigung widerrufen"
+        ]
+      ],
+      "explanation": "§§ 104, 105 S. 16–17; §§ 2, 106 S. 17; § 108 S. 18, 27; § 109 S. 28.",
+      "hints": [
+        "Die Reihenfolge der Paragraphen folgt dem Alter.",
+        "Nur eine Norm schützt den Vertragspartner."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        },
+        {
+          "doc": "BGB_5",
+          "page": 18
+        },
+        {
+          "doc": "BGB_5",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie das Prinzip seinem Inhalt zu.",
+      "pairs": [
+        [
+          "Trennungsprinzip",
+          "Verpflichtung und Verfügung sind zwei getrennte Rechtsgeschäfte"
+        ],
+        [
+          "Abstraktionsprinzip",
+          "Die Verfügung ist von Bestehen und Wirksamkeit der Verpflichtung unabhängig"
+        ],
+        [
+          "Kausalprinzip",
+          "Die Unwirksamkeit der Verpflichtung zieht die Unwirksamkeit der Verfügung nach sich"
+        ],
+        [
+          "Einheitsprinzip",
+          "Eine Einigung genügt für Verkauf und Übereignung"
+        ],
+        [
+          "Traditionsprinzip",
+          "Neben der Einigung ist ein Kundgebungsakt wie Übergabe oder Eintragung nötig"
+        ]
+      ],
+      "explanation": "Trennungs- und Einheitsprinzip (mit Konsens- und Traditionsprinzip) S. 9–10; Abstraktions- und Kausalprinzip S. 10.",
+      "hints": [
+        "Das deutsche Recht folgt zwei dieser Prinzipien.",
+        "Ohne Trennung keine Abstraktion."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung des Eigentumserwerbs nach § 929 S. 1 BGB in eine sinnvolle Reihenfolge.",
+      "items": [
+        "Einigung über den Eigentumsübergang (dinglicher Vertrag aus zwei Einigungserklärungen)",
+        "Übergabe: Verschaffung des unmittelbaren Besitzes (Realakt)",
+        "Einigsein im Zeitpunkt der Übergabe",
+        "Berechtigung des Veräußerers (sonst nur ausnahmsweise §§ 185, 932)"
+      ],
+      "explanation": "Einigung und Übergabe nach § 929 S. 1 (S. 8–9); die Einigung muss bei Übergabe noch bestehen (S. 7–8: „wenn … übergeben wird und beide sich … einig sind“); Verfügungsmacht S. 8.",
+      "hints": [
+        "Erst das Rechtsgeschäft, dann der Realakt.",
+        "Die Berechtigung prüft man zum Schluss."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 8
+        },
+        {
+          "doc": "BGB_5",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der 16-jährige G kauft ohne Wissen seiner Eltern bei Händler V eine E-Gitarre für 400 €; V hält G für volljährig. Am nächsten Tag erfährt V das Alter und möchte nicht mehr gebunden sein. Was kann V tun?",
+      "options": [
+        "V kann den Vertrag bis zur Genehmigung durch die Eltern widerrufen – gegenüber G oder den Eltern (§ 109 Abs. 1)",
+        "Nichts – V ist gebunden, bis die Eltern sich erklären",
+        "V kann nur die Eltern zur Genehmigung auffordern, nicht widerrufen",
+        "V kann erst nach Verweigerung der Genehmigung zurücktreten"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Partner soll im Schwebezustand nicht einseitig gebunden sein; er kann bis zur Genehmigung widerrufen. Adressaten: die gesetzlichen Vertreter oder der Minderjährige selbst (§ 109 Abs. 1 S. 2; S. 28). Daneben bleibt die Aufforderung nach § 108 Abs. 2 möglich.",
+      "hints": [
+        "Wer schützt den Partner im Schwebezustand?",
+        "Die Norm folgt direkt auf § 108."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Die Eltern haben der 17-jährigen A erlaubt, ein Arbeitsverhältnis einzugehen. Von ihrem ersten Lohn kauft A ohne Wissen der Eltern einen Motorroller für 1.800 €. Ist der Kaufvertrag nach § 113 BGB wirksam?",
+      "options": [
+        "Nein – § 113 erfasst nur Eingehung, Aufhebung und Erfüllung des Arbeitsverhältnisses; der Lohn steht nicht automatisch zur freien Verfügung",
+        "Ja – § 113 macht A in allen Angelegenheiten voll geschäftsfähig",
+        "Ja – selbst verdientes Geld fällt stets unter § 110",
+        "Nein – § 113 gilt nur für Berufsausbildungsverhältnisse"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 113 verleiht nur partielle Geschäftsfähigkeit für das Arbeitsverhältnis; aus ihm folgt nicht, dass der Lohn zur freien Verfügung steht (S. 30–31). Berufsausbildungsverhältnisse erfasst § 113 gerade nicht (S. 31).",
+      "hints": [
+        "Wofür genau gilt die Ermächtigung?",
+        "Ein Roller gehört nicht zur Erfüllung des Arbeitsvertrags."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 30
+        },
+        {
+          "doc": "BGB_5",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der 17-jährige Y betreibt mit Ermächtigung seiner Eltern und Genehmigung des Familiengerichts einen erfolgreichen YouTube-Kanal. Für den Kanal kauft er eine Kamera für 1.200 €. Wirksam?",
+      "options": [
+        "Ja – für Geschäfte, die das Erwerbsgeschäft mit sich bringt, ist Y nach § 112 unbeschränkt geschäftsfähig",
+        "Nein – Minderjährige können nie selbständig tätig sein",
+        "Nur wenn Y mit Taschengeld bezahlt (§ 110)",
+        "Nur, wenn die Eltern dem Kauf zusätzlich einzeln zustimmen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 112: Erwerbsgeschäft ist jede berufsmäßig ausgeübte, auf Gewinn gerichtete selbständige Tätigkeit – auch YouTuber. Erforderlich sind die Ermächtigung der Eltern und die familiengerichtliche Genehmigung (§§ 1643, 1850–1854). Die volle Geschäftsfähigkeit gilt für den abgegrenzten Kreis der dazugehörigen Geschäfte (S. 30).",
+      "hints": [
+        "Gehört die Kamera zum Betrieb des Kanals?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Die Eltern des 16-jährigen M haben in seinem Namen einen Mietvertrag über ein Zimmer für ihn geschlossen. Vermieter V schickt die Kündigung nur an M; die Eltern wissen davon nichts und haben in den Empfang nicht eingewilligt. Wann wird die Kündigung wirksam?",
+      "options": [
+        "Grundsätzlich erst, wenn sie dem gesetzlichen Vertreter zugeht – eine Kündigung bringt M keinen lediglich rechtlichen Vorteil",
+        "Sofort mit Zugang bei M, weil M Vertragspartei ist",
+        "Nie – Kündigungen gegenüber Minderjährigen sind nichtig",
+        "Erst, wenn M volljährig wird"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "§ 131 Abs. 2 S. 1: Erklärungen gegenüber beschränkt Geschäftsfähigen werden erst mit Zugang beim gesetzlichen Vertreter wirksam. Ausnahme nach S. 2: lediglich rechtlicher Vorteil oder Einwilligung des Vertreters in den Empfang (S. 31). Die Kündigung beendet ein Recht des M und ist daher nicht lediglich vorteilhaft; eine Einwilligung fehlt.",
+      "hints": [
+        "Bringt eine Kündigung einen Vorteil?",
+        "Zugang beim Minderjährigen genügt nur in den Fällen des § 131 Abs. 2 S. 2."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wer ist nach § 104 BGB geschäftsunfähig? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Ein sechsjähriges Kind",
+        "Wer sich in einem nicht nur vorübergehenden, die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit befindet",
+        "Ein 17-Jähriger",
+        "Ein Volljähriger, für den lediglich ein Betreuer bestellt ist"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "§ 104 Nr. 1 und Nr. 2 (S. 16). Der 17-Jährige ist beschränkt geschäftsfähig (§ 106); die Betreuung allein lässt die Geschäftsfähigkeit unberührt (S. 17).",
+      "hints": [
+        "Zwei Fallgruppen: Alter und Krankheit.",
+        "Betreuung ≠ Geschäftsunfähigkeit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 16
+        },
+        {
+          "doc": "BGB_5",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein sechsjähriges Kind, das beim Spielen fahrlässig eine Fensterscheibe einwirft, ist für den Schaden nach § 828 Abs. 1 BGB nicht verantwortlich.",
+      "answer": true,
+      "explanation": "Kinder unter 7 Jahren sind nicht deliktsfähig (§ 828 Abs. 1; S. 14). Deliktsfähigkeit ist die Fähigkeit, für eigenes schuldhaftes Handeln verantwortlich zu sein.",
+      "hints": [
+        "Deliktsfähigkeit beginnt – wie die beschränkte Geschäftsfähigkeit – mit sieben."
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ein Minderjähriger hat gegen seine Eltern einen Anspruch darauf, dass sie einem für ihn günstigen Geschäft zustimmen.",
+      "answer": false,
+      "explanation": "Ein Anspruch auf Zustimmung besteht nicht; bei schuldhafter Pflichtverletzung durch Verweigerung ist allenfalls an Schadensersatzansprüche gegen die Vertreter zu denken (S. 22).",
+      "hints": [
+        "Wessen Entscheidung ist die Zustimmung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie in eigenen Worten Trennungs- und Abstraktionsprinzip, ihren Zweck und wie das BGB unerwünschte Ergebnisse korrigiert.",
+      "modelAnswer": "Nach dem Trennungsprinzip sind Verpflichtungsgeschäft (z.B. Kaufvertrag, § 433) und Verfügungsgeschäft (z.B. Übereignung, § 929 S. 1) zwei selbständige Rechtsgeschäfte; zur Erfüllung der Verpflichtung (§ 362) ist ein weiteres Geschäft nötig. Das Abstraktionsprinzip setzt die Trennung voraus: Inhaltlich muss die Verfügung keine Zweckbestimmung enthalten; äußerlich hängt ihre Wirksamkeit weder vom Vorhandensein noch von der Wirksamkeit des Verpflichtungsgeschäfts ab. Zweck ist, dass die Inhaberschaft an Rechten klar und zweifelsfrei feststellbar bleibt und Mängel des Kausalgeschäfts (etwa §§ 134, 138, 125) die Verfügung grundsätzlich nicht berühren. Die ohne Rechtsgrund eingetretene Vermögensverschiebung wird über die ungerechtfertigte Bereicherung (§ 812) rückgängig gemacht.",
+      "rubric": [
+        "Trennungsprinzip: zwei Rechtsgeschäfte",
+        "Abstraktionsprinzip: inhaltliche und äußerliche Abstraktion",
+        "Zweck: Rechtsklarheit/Verkehrsschutz",
+        "Korrektur über § 812",
+        "Beispiel (nichtiger Kauf, wirksame Übereignung)"
+      ],
+      "explanation": "Trennungsprinzip S. 9–10, Abstraktionsprinzip und Zweck S. 10–11.",
+      "hints": [
+        "Wie viele Geschäfte stecken im Kauf am Kiosk?",
+        "Was passiert mit der Übereignung, wenn der Kauf nichtig ist?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 9
+        },
+        {
+          "doc": "BGB_5",
+          "page": 10
+        },
+        {
+          "doc": "BGB_5",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Die 16-jährige S verkauft ohne Wissen ihrer Eltern ihr Smartphone für 100 € an den volljährigen V, übergibt und übereignet es und erhält das Geld. Die Eltern verweigern die Genehmigung. Wer ist Eigentümer des Smartphones und des Geldes? Prüfen Sie kurz die einzelnen Geschäfte.",
+      "modelAnswer": "Es sind drei Geschäfte zu trennen. (1) Kaufvertrag: Er verpflichtet S zur Übergabe und Übereignung (§ 433 Abs. 1) und ist daher nicht lediglich rechtlich vorteilhaft (§ 107). Ohne Einwilligung war er schwebend unwirksam (§ 108 Abs. 1); mit der Verweigerung ist er endgültig unwirksam. (2) Übereignung des Smartphones durch S an V (§ 929 S. 1): S verliert ihr Eigentum – ein rechtlicher Nachteil. Ihre Einigungserklärung bedurfte der Einwilligung; sie fehlt, die Genehmigung wurde verweigert. Die Übereignung ist unwirksam; S bleibt Eigentümerin. (3) Übereignung des Geldes durch V an S: S erwirbt Eigentum ohne eigene Verpflichtung – lediglich rechtlich vorteilhaft, also wirksam; das Abstraktionsprinzip lässt die Unwirksamkeit des Kaufs unberührt. S ist Eigentümerin des Geldes; V kann es mangels Rechtsgrund nach § 812 Abs. 1 S. 1 herausverlangen (Rückübereignung).",
+      "rubric": [
+        "Trennung von Kauf und zwei Übereignungen",
+        "Kauf: nicht lediglich vorteilhaft, § 108, endgültig unwirksam",
+        "Übereignung durch S: Eigentumsverlust = Nachteil → unwirksam",
+        "Übereignung an S: lediglich vorteilhaft → wirksam",
+        "Rückabwicklung über § 812 Abs. 1 S. 1"
+      ],
+      "explanation": "Vgl. das Fernseher-Beispiel (S. 25) und die Überlegungen zur Übereignung durch Minderjährige in Selbsttestaufgabe 2 (Lösung S. 70–72); Vorteilsbegriff S. 22–23.",
+      "hints": [
+        "Wer erwirbt, wer verliert bei jeder Übereignung?",
+        "Prüfen Sie jedes Geschäft gesondert – Abstraktionsprinzip!"
+      ],
+      "src": [
+        {
+          "doc": "BGB_5",
+          "page": 22
+        },
+        {
+          "doc": "BGB_5",
+          "page": 23
+        },
+        {
+          "doc": "BGB_5",
+          "page": 25
+        },
+        {
+          "doc": "BGB_5",
+          "page": 70
+        }
+      ]
     }
   ],
   "case": {
@@ -1516,6 +2086,68 @@
           "page": 31
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 433 Abs. 1 S. 1 BGB",
+      "inhalt": "Der Kaufvertrag verpflichtet den Verkäufer nur zu Übergabe und Übereignung."
+    },
+    {
+      "norm": "§ 929 S. 1 BGB",
+      "inhalt": "Übereignung beweglicher Sachen durch Einigung und Übergabe."
+    },
+    {
+      "norm": "§ 854 Abs. 1 BGB",
+      "inhalt": "Besitz ist die tatsächliche Herrschaft über eine Sache."
+    },
+    {
+      "norm": "§ 903 BGB",
+      "inhalt": "Eigentum ist die umfassende rechtliche Herrschaft über eine Sache."
+    },
+    {
+      "norm": "§ 812 Abs. 1 S. 1 BGB",
+      "inhalt": "Wer etwas ohne Rechtsgrund erlangt hat, muss es herausgeben – Korrektur des Abstraktionsprinzips."
+    },
+    {
+      "norm": "§ 104 BGB",
+      "inhalt": "Geschäftsunfähig: Kinder unter 7 und dauerhaft krankhaft gestörte Personen."
+    },
+    {
+      "norm": "§ 105 BGB",
+      "inhalt": "Erklärungen Geschäftsunfähiger (und Bewusstloser) sind nichtig."
+    },
+    {
+      "norm": "§ 106 BGB",
+      "inhalt": "7- bis 17-Jährige sind beschränkt geschäftsfähig."
+    },
+    {
+      "norm": "§ 107 BGB",
+      "inhalt": "Nicht lediglich rechtlich Vorteilhaftes braucht die Einwilligung des gesetzlichen Vertreters."
+    },
+    {
+      "norm": "§ 108 BGB",
+      "inhalt": "Ohne Einwilligung: Vertrag schwebend unwirksam, bis genehmigt oder verweigert wird."
+    },
+    {
+      "norm": "§ 109 BGB",
+      "inhalt": "Der Vertragspartner kann bis zur Genehmigung widerrufen."
+    },
+    {
+      "norm": "§ 110 BGB",
+      "inhalt": "Taschengeldparagraph: wirksam, wenn mit überlassenen Mitteln vollständig bezahlt."
+    },
+    {
+      "norm": "§ 112 BGB",
+      "inhalt": "Volle Geschäftsfähigkeit für ein genehmigtes selbständiges Erwerbsgeschäft."
+    },
+    {
+      "norm": "§ 113 BGB",
+      "inhalt": "Volle Geschäftsfähigkeit für Eingehung, Aufhebung und Erfüllung eines erlaubten Arbeitsverhältnisses."
+    },
+    {
+      "norm": "§ 131 Abs. 2 BGB",
+      "inhalt": "Erklärungen an Minderjährige werden grundsätzlich erst mit Zugang beim gesetzlichen Vertreter wirksam."
     }
   ]
 }

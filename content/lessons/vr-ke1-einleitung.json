@@ -26,6 +26,10 @@
           "doc": "VR_1",
           "page": 16
         }
+      ],
+      "merksatz": "Volk, Gebiet, Gewalt – fehlt eins der drei, ist es nach Jellinek kein Staat.",
+      "norms": [
+        "§§ 3 ff. StAG"
       ]
     },
     {
@@ -42,6 +46,15 @@
           "doc": "VR_1",
           "page": 17
         }
+      ],
+      "merksatz": "Staat und Gesellschaft sind keine getrennten Welten: Sozialstaat, Grundrechte als Wertordnung und die Parteien schlagen die Brücke.",
+      "norms": [
+        "Art. 20 Abs. 1 GG",
+        "Art. 1 Abs. 1 GG",
+        "Art. 21 Abs. 1 S. 1 GG",
+        "§ 18 Abs. 1 BWahlG",
+        "Art. 20 Abs. 2 GG",
+        "Art. 38 Abs. 1 S. 1 GG"
       ]
     },
     {
@@ -74,6 +87,18 @@
           "doc": "VR_1",
           "page": 23
         }
+      ],
+      "merksatz": "Formell zählt die Urkunde, materiell der Inhalt – und die verfassunggebende Gewalt liegt beim Volk.",
+      "norms": [
+        "Art. 20 Abs. 2 S. 1 GG",
+        "Art. 21 GG",
+        "Art. 38 GG",
+        "Art. 6 GG",
+        "Art. 9 Abs. 3 S. 2 GG",
+        "Art. 140 GG",
+        "Art. 23 GG",
+        "Art. 25 GG",
+        "Art. 26 GG"
       ]
     },
     {
@@ -106,6 +131,18 @@
           "doc": "VR_1",
           "page": 28
         }
+      ],
+      "merksatz": "Ändern geht – aber nur per Textänderung mit zwei Dritteln in Bundestag und Bundesrat; der Kern aus Art. 79 III bleibt tabu.",
+      "norms": [
+        "Art. 79 Abs. 1 S. 1 GG",
+        "Art. 79 Abs. 2 GG",
+        "Art. 79 Abs. 3 GG",
+        "Art. 146 GG",
+        "Art. 29 GG",
+        "Art. 50 GG",
+        "Art. 1 GG",
+        "Art. 20 GG",
+        "Art. 23 Abs. 1 S. 3 GG"
       ]
     },
     {
@@ -126,6 +163,13 @@
           "doc": "VR_1",
           "page": 30
         }
+      ],
+      "merksatz": "Republik, Bundesstaat, Demokratie, Rechtsstaat, Sozialstaat – fünf Säulen aus Art. 20 tragen den ganzen Staat.",
+      "norms": [
+        "Art. 20 Abs. 1 GG",
+        "Art. 20 Abs. 2 S. 1 GG",
+        "Art. 20 Abs. 3 GG",
+        "Art. 79 Abs. 3 GG"
       ]
     },
     {
@@ -142,6 +186,13 @@
           "doc": "VR_1",
           "page": 30
         }
+      ],
+      "merksatz": "Staatsziele sagen das Wohin, nicht das Wie: Das Ziel bindet, die Mittel wählt der Gesetzgeber.",
+      "norms": [
+        "Art. 20a GG",
+        "Art. 3 Abs. 2 GG",
+        "Art. 23 Abs. 1 GG",
+        "Art. 20 Abs. 1 GG"
       ]
     }
   ],
@@ -841,6 +892,422 @@
           "page": 30
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach Jellinek ist der Staat eine mit {{1}} Herrschermacht ausgerüstete Körperschaft eines {{2}} Volkes (Gebietskörperschaft).",
+      "blanks": [
+        [
+          "ursprünglicher"
+        ],
+        [
+          "sesshaften"
+        ]
+      ],
+      "explanation": "Die Definition enthält alle drei Elemente: „Herrschermacht“ = Staatsgewalt, „Volk“ = Staatsvolk, „sesshaft“ = Staatsgebiet.",
+      "hints": [
+        "Die Staatsgewalt ist von niemandem abgeleitet.",
+        "Aus welchem Wort leitet Jellinek das Staatsgebiet ab?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Begriffe zur Staatsgewalt ihrer Bedeutung zu.",
+      "pairs": [
+        [
+          "Gebietshoheit",
+          "Herrschaftsmacht über das Staatsgebiet"
+        ],
+        [
+          "Personalhoheit",
+          "Herrschaftsmacht über das Staatsvolk"
+        ],
+        [
+          "Ursprünglichkeit",
+          "letztverantwortlich und von niemandem abgeleitet"
+        ],
+        [
+          "Unteilbarkeit",
+          "nur ein einheitlicher Träger der Staatsgewalt (Volk oder Monarch)"
+        ]
+      ],
+      "explanation": "Die Staatsgewalt umfasst Gebiets- und Personalhoheit; sie ist ursprünglich (nicht abgeleitet, anders als bei Gemeinden) und unteilbar.",
+      "hints": [
+        "„Personal“ bezieht sich auf Menschen."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Gemeinde G erlässt eine Satzung und droht bei Verstößen Zwangsgeld an. Bürger B meint: „G hat ein Gebiet, Einwohner und Zwangsgewalt – also ist G nach der Drei-Elemente-Lehre ein Staat.“ Hat B recht?",
+      "modelAnswer": "Nein. Staatsgewalt im Sinne der Drei-Elemente-Lehre muss ursprünglich sein, also letztverantwortlich und von niemandem abgeleitet. Die Anordnungs- und Zwangsgewalt der Gemeinden ist dagegen vom Staat abgeleitet. Es fehlt daher an einer ursprünglichen Staatsgewalt; G ist kein Staat.",
+      "rubric": [
+        "Staatsgewalt muss ursprünglich sein",
+        "Gemeindegewalt ist vom Staat abgeleitet",
+        "Ergebnis: kein Staat"
+      ],
+      "hints": [
+        "Prüfen Sie nicht nur, ob Gewalt da ist, sondern woher sie kommt.",
+        "Das Skript nennt die Gemeinden ausdrücklich als Gegenbeispiel."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Familie F lebt seit Generationen in Deutschland, spricht Deutsch und pflegt deutsche Traditionen, besitzt aber ausschließlich eine ausländische Staatsangehörigkeit. Gehört F zum deutschen Staatsvolk?",
+      "options": [
+        "Nein, das Staatsvolk bestimmt sich allein nach der Staatsangehörigkeit.",
+        "Ja, weil gemeinsame Sprache und Tradition über die Zugehörigkeit zum Staatsvolk entscheiden.",
+        "Ja, weil nach dem Territorialitätsprinzip jeder Bewohner des Staatsgebiets dazugehört.",
+        "Nur, wenn F die Nation der Deutschen anerkennt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Volk und Nation sind zu unterscheiden: Für das Staatsvolk zählt die Staatsangehörigkeit, für die Nation gemeinsame Tradition, Sprache usw. Das Territorialitätsprinzip betrifft nur den Erwerb durch Geburt im Inland.",
+      "hints": [
+        "Unterscheiden Sie Volk und Nation.",
+        "Welches „formale Bindeglied“ nennt das Skript?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 14
+        },
+        {
+          "doc": "VR_1",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Der Kurs behandelt – wie die üblichen Lehrbücher – die Verfassungsorgane getrennt von den Staatsstrukturprinzipien.",
+      "answer": false,
+      "explanation": "Der Kurs ordnet die Verfassungsorgane und ihre Funktionen bewusst jeweils einem der fünf Staatsstrukturprinzipien zu (z.B. Bundestag – Demokratie, Bundespräsident – Republik) und weicht damit von der üblichen Darstellung ab.",
+      "hints": [
+        "Wo wird im Kurs der Bundespräsident behandelt?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was spricht nach dem Skript dafür, den Gegensatz von Staat und Gesellschaft bei der Auslegung des Grundgesetzes zu überwinden? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Entwicklung zum Sozialstaat (Art. 20 I GG)",
+        "Die Entstehungsgeschichte des GG und Art. 1 I GG",
+        "Der Doppelcharakter der politischen Parteien",
+        "Jellineks juristischer Staatsbegriff"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sozialstaatsmandat, Art. 1 I GG (Grundrechte auch als objektive Wertordnung) und die Parteien zwischen Gesellschaft und Staat sprechen für die Überwindung. Jellineks Konzeption ist dagegen gerade Ausdruck der Trennung.",
+      "hints": [
+        "Eine Antwort beschreibt die Gegenposition."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 16
+        },
+        {
+          "doc": "VR_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Die verfassunggebende Gewalt ({{1}}) steht dem {{2}} zu; das folgt aus dem Prinzip der Volkssouveränität in Art. 20 II 1 GG.",
+      "blanks": [
+        [
+          "pouvoir constituant"
+        ],
+        [
+          "Volk",
+          "Volke"
+        ]
+      ],
+      "explanation": "Der pouvoir constituant liegt beim Volk. Das GG ging bei seiner Entstehung einen „dritten Weg“ und soll durch langjährige Akzeptanz nachträglich legitimiert sein.",
+      "hints": [
+        "Französischer Fachbegriff."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach Art. 16 der Französischen Erklärung der Menschen- und Bürgerrechte von 1789 hat eine Gesellschaft keine Verfassung, wenn …",
+      "options": [
+        "… der Schutz der Menschenrechte und die Gewaltenteilung nicht garantiert sind.",
+        "… an ihrer Spitze ein Monarch steht.",
+        "… ihre Grundordnung nicht in einer Urkunde niedergeschrieben ist.",
+        "… kein Parlament vom Volk gewählt wird."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Mit der Französischen Revolution erhielt der Verfassungsbegriff konkrete politische Inhalte: Menschenrechtsschutz und Gewaltenteilung.",
+      "hints": [
+        "Zwei Kernforderungen der Revolution."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Stationen der Entwicklung des Verfassungsbegriffs, die das Skript nennt, in die zeitlich richtige Reihenfolge.",
+      "items": [
+        "Aristoteles: „syntagma“ als Ordnung der Städte und Zuständigkeiten",
+        "Französische Erklärung der Menschen- und Bürgerrechte (1789)",
+        "Parlamentarischer Rat (1949): Bezeichnung „Grundgesetz“ als Provisorium",
+        "Einigungsvertrag: Vorbehalt einer vom Volk frei beschlossenen Verfassung"
+      ],
+      "explanation": "Antike – Französische Revolution – Entstehung des GG – Wiedervereinigung: Der Begriff Verfassung erhält aus der Geschichte präzise Inhalte.",
+      "hints": [
+        "Antike vor Neuzeit."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 19
+        },
+        {
+          "doc": "VR_1",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Eine Verfassungsänderung, nach der den Ländern jede eigene Finanzausstattung genommen wird, wäre mit Art. 79 III GG unvereinbar.",
+      "answer": true,
+      "explanation": "Art. 79 III GG verbietet Änderungen, durch die die Länder ihre Staatsqualität einbüßen. Dazu gehört ein Mindestmaß an Eigenständigkeit: eigene Kompetenzen in Gesetzgebung, Verwaltung und Rechtsprechung und eine eigene Finanzausstattung (BVerfGE 34, 9, 19 f.).",
+      "hints": [
+        "Was gehört zum Mindestmaß an Eigenständigkeit der Länder?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "Art. 79 I 1 GG",
+          "Änderung nur durch ausdrückliche Änderung oder Ergänzung des Wortlauts"
+        ],
+        [
+          "Art. 79 II GG",
+          "2/3 der Mitglieder des Bundestages und 2/3 der Stimmen des Bundesrates"
+        ],
+        [
+          "Art. 79 III GG",
+          "Ewigkeitsgarantie für bestimmte Grundsätze"
+        ],
+        [
+          "Art. 146 GG",
+          "Ablösung des GG durch eine vom Volk frei beschlossene Verfassung"
+        ]
+      ],
+      "explanation": "Art. 79 I und II enthalten die formellen Hürden, Art. 79 III die materielle Grenze für den pouvoir constitué; Art. 146 GG betrifft den pouvoir constituant, für den Art. 79 III nicht gilt.",
+      "hints": [
+        "Formell – materiell – Verfassunggebung."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 25
+        },
+        {
+          "doc": "VR_1",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Bundestag und Bundesrat beschließen jeweils mit Zweidrittelmehrheit ein einfaches Bundesgesetz. Es lautet: „Diese Regelung gilt unbeschadet entgegenstehender Bestimmungen des Grundgesetzes.“ Der Text des GG wird nicht angepasst. Ist das GG wirksam geändert worden?",
+      "modelAnswer": "Nein. Nach Art. 79 I 1 GG kann das GG nur durch ein Gesetz geändert werden, das seinen Wortlaut ausdrücklich ändert oder ergänzt. Die erforderlichen Mehrheiten nach Art. 79 II GG liegen zwar vor, es fehlt aber an der Wortlautänderung. Eine Verfassungsdurchbrechung ohne Textänderung ist unzulässig. Das GG ist nicht geändert.",
+      "rubric": [
+        "Art. 79 I 1 GG: Textänderungsgebot",
+        "Mehrheiten nach Art. 79 II GG erkannt",
+        "keine Verfassungsdurchbrechung ohne Wortlautänderung",
+        "Ergebnis"
+      ],
+      "hints": [
+        "Die Mehrheit allein genügt nicht.",
+        "Was verlangt Art. 79 I 1 GG für den Text?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Aus welchem Staatsstrukturprinzip folgt nach dem Skript, dass Regierungen und Verwaltungen nicht willkürlich entscheiden dürfen, sondern an Recht und Gesetz gebunden sind?",
+      "options": [
+        "Rechtsstaatsprinzip (Art. 20 III GG)",
+        "Bundesstaatsprinzip (Art. 20 I GG)",
+        "Republikprinzip (Art. 20 I GG)",
+        "Sozialstaatsprinzip (Art. 20 I GG)"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Skript zeigt an der Staatsorganisation: Organe auf Bundes- und Landesebene – Bundesstaat; Parlamente – Demokratie; Bindung an Recht und Gesetz – Rechtsstaat (Art. 20 III GG); kein Monarch – Republik.",
+      "hints": [
+        "Denken Sie an „Gesetz und Recht“ in Art. 20 III GG."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 28
+        },
+        {
+          "doc": "VR_1",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Grenzen Sie Staatszielbestimmungen von Staatsstrukturprinzipien ab und nennen Sie zwei Beispiele für Staatszielbestimmungen.",
+      "modelAnswer": "Staatszielbestimmungen sind rechtlich bindende Verfassungsnormen, die dem Staat die fortdauernde Beachtung oder Erfüllung sachlich umschriebener Ziele vorschreiben. Sie verpflichten objektiv zum Hinwirken auf das Ziel, richten sich v.a. an den Gesetzgeber und sind in die Zukunft gerichtet; verbindlich sind die Ziele, nicht die Mittel. Staatsstrukturprinzipien bestimmen dagegen in erster Linie Struktur und Wesen des Staates. Beispiele: Umwelt- und Tierschutz (Art. 20a GG), Gleichstellung von Frauen und Männern (Art. 3 II GG), vereintes Europa (Präambel, Art. 23 I GG).",
+      "rubric": [
+        "Definition Staatszielbestimmung (bindende Ziele)",
+        "Adressat v.a. Gesetzgeber; Ziele, nicht Mittel",
+        "Strukturprinzipien: Struktur und Wesen des Staates",
+        "zwei korrekte Beispiele mit Norm"
+      ],
+      "hints": [
+        "Zukunft vs. Wesen des Staates.",
+        "Art. 20a GG ist ein Beispiel."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Staatszielbestimmungen sind Verfassungsnormen mit rechtlich {{1}} Wirkung. Sie sind für die staatlichen Organe verbindlich im Hinblick auf die {{2}}, nicht aber auf die Mittel. Ihre hauptsächliche Bedeutung liegt in der Einschränkung {{3}} gewährter Grundrechte.",
+      "blanks": [
+        [
+          "bindender"
+        ],
+        [
+          "Ziele"
+        ],
+        [
+          "schrankenlos"
+        ]
+      ],
+      "explanation": "So die Definition der Sachverständigenkommission und die Folgerungen des Skripts.",
+      "hints": [
+        "Ziel vs. Mittel.",
+        "Grundrechte ohne Gesetzesvorbehalt heißen …"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 29
+        },
+        {
+          "doc": "VR_1",
+          "page": 30
+        }
+      ]
     }
   ],
   "case": {
@@ -1071,6 +1538,60 @@
           "page": 30
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§§ 3 ff. StAG",
+      "inhalt": "Erwerb der deutschen Staatsangehörigkeit – in der Regel nach dem Abstammungsprinzip."
+    },
+    {
+      "norm": "Art. 20 Abs. 1 GG",
+      "inhalt": "Grundentscheidung: demokratischer und sozialer Bundesstaat in Form der Republik."
+    },
+    {
+      "norm": "Art. 1 Abs. 1 GG",
+      "inhalt": "Menschenwürde ist unantastbar; ihr Schutz verpflichtet alle staatliche Gewalt."
+    },
+    {
+      "norm": "Art. 21 GG",
+      "inhalt": "Parteien wirken an der politischen Willensbildung des Volkes mit (Brücke Gesellschaft – Staat)."
+    },
+    {
+      "norm": "Art. 20 Abs. 2 S. 1 GG",
+      "inhalt": "Alle Staatsgewalt geht vom Volke aus (Volkssouveränität, Grundlage des pouvoir constituant)."
+    },
+    {
+      "norm": "Art. 79 Abs. 3 GG",
+      "inhalt": "Ewigkeitsgarantie: Länder-Gliederung, Mitwirkung der Länder und Grundsätze der Art. 1 und 20 GG sind änderungsfest."
+    },
+    {
+      "norm": "Art. 146 GG",
+      "inhalt": "Das GG endet, wenn das Volk in freier Entscheidung eine Verfassung beschließt (pouvoir constituant)."
+    },
+    {
+      "norm": "Art. 79 Abs. 1 S. 1 GG",
+      "inhalt": "Grundgesetzänderung nur durch ausdrückliche Änderung oder Ergänzung des Wortlauts."
+    },
+    {
+      "norm": "Art. 79 Abs. 2 GG",
+      "inhalt": "Änderungsgesetz braucht 2/3 der Mitglieder des Bundestages und 2/3 der Stimmen des Bundesrates."
+    },
+    {
+      "norm": "Art. 20 Abs. 3 GG",
+      "inhalt": "Gesetzgebung an die verfassungsmäßige Ordnung, Verwaltung und Gerichte an Gesetz und Recht gebunden."
+    },
+    {
+      "norm": "Art. 20a GG",
+      "inhalt": "Staatsziel Umwelt- und Tierschutz."
+    },
+    {
+      "norm": "Art. 3 Abs. 2 GG",
+      "inhalt": "Staatsziel Gleichstellung von Frauen und Männern."
+    },
+    {
+      "norm": "Art. 23 Abs. 1 GG",
+      "inhalt": "Staatsziel Verwirklichung eines vereinten Europas."
     }
   ]
 }

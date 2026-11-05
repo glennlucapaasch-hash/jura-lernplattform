@@ -31,6 +31,10 @@
           "doc": "PROP_1",
           "page": 197
         }
+      ],
+      "merksatz": "Keine Behauptung ohne Stütze: Die Prämisse trägt das Ergebnis – am besten eine, die jedem sofort einleuchtet.",
+      "norms": [
+        "§ 266 BGB"
       ]
     },
     {
@@ -51,6 +55,11 @@
           "doc": "PROP_1",
           "page": 199
         }
+      ],
+      "merksatz": "Das Gesetz ist die erste Quelle, aber nicht die einzige: Auch Definitionen, Leitsätze und Erfahrungssätze tragen.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 303 Abs. 1 StGB"
       ]
     },
     {
@@ -67,6 +76,14 @@
           "doc": "PROP_1",
           "page": 200
         }
+      ],
+      "merksatz": "Ein Topos ist die Schublade, in der die passenden Prämissen liegen – wer die Schubladen kennt, findet schneller.",
+      "norms": [
+        "Art. 3 Abs. 1 GG",
+        "Art. 3 Abs. 3 S. 2 GG",
+        "Art. 38 Abs. 1 GG",
+        "§ 3 Abs. 1 WpÜG",
+        "§§ 1, 2 Abs. 1 Nr. 6 AGG"
       ]
     },
     {
@@ -103,6 +120,16 @@
           "doc": "PROP_1",
           "page": 206
         }
+      ],
+      "merksatz": "Ein Blick ins Gesetz erleichtert die Rechtsfindung – und fünf Paragrafen vor und zurück verhindern böse Überraschungen.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 705 Abs. 1 BGB",
+        "§§ 105 ff. HGB",
+        "§§ 145 ff. BGB",
+        "§ 640 BGB",
+        "§ 108 BGB",
+        "§ 110 BGB"
       ]
     },
     {
@@ -127,6 +154,12 @@
           "doc": "PROP_1",
           "page": 209
         }
+      ],
+      "merksatz": "Was nicht im Gesetz steht, liefern Lehre und Rechtsprechung – rückführbar aufs Gesetz muss es trotzdem sein.",
+      "norms": [
+        "Art. 20 Abs. 3 GG",
+        "§ 263 Abs. 1 StGB",
+        "§ 31 Abs. 2 BVerfGG"
       ]
     },
     {
@@ -163,6 +196,13 @@
           "doc": "PROP_1",
           "page": 215
         }
+      ],
+      "merksatz": "Das Schema ist eine Checkliste, kein Pflichtprogramm: Klares abhaken, Problematisches ausbreiten.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 35 S. 1 VwVfG",
+        "§ 151 BGB",
+        "§ 224 Abs. 1 StGB"
       ]
     },
     {
@@ -199,6 +239,18 @@
           "doc": "PROP_1",
           "page": 220
         }
+      ],
+      "merksatz": "Kommentar nach Paragrafen, Lehrbuch nach System; Generalklauseln füllt man mit Fallgruppen, Strafrecht stoppt am Wortlaut.",
+      "norms": [
+        "§ 331 Abs. 1 StGB",
+        "§ 242 BGB",
+        "§ 118 Abs. 1 OWiG",
+        "§ 8 Abs. 1 PolG NRW",
+        "Art. 5 Abs. 1 S. 1 Hs. 2 GG",
+        "Art. 14 Abs. 1 GG",
+        "§ 224 Abs. 1 Nr. 2 StGB",
+        "§ 223 StGB",
+        "Art. 103 Abs. 2 GG"
       ]
     },
     {
@@ -231,6 +283,19 @@
           "doc": "PROP_1",
           "page": 225
         }
+      ],
+      "merksatz": "Erst die Rechtsfolge als grober Filter, dann der Tatbestand – und im Streit warten meist zwei Pole und eine Mitte.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 823 Abs. 1 BGB",
+        "§ 185 StGB",
+        "§§ 280 ff. BGB",
+        "§ 311 BGB",
+        "§ 276 Abs. 2 BGB",
+        "§ 249 Abs. 1 BGB",
+        "§ 22 StGB",
+        "§ 37 Abs. 1 VwVfG",
+        "§ 153 StGB"
       ]
     },
     {
@@ -247,7 +312,9 @@
           "doc": "PROP_1",
           "page": 227
         }
-      ]
+      ],
+      "merksatz": "Die Seminararbeit ist ein Fachaufsatz mit eigener Sicht – kein Referat fremder Meinungen und nicht in Jeans.",
+      "norms": []
     },
     {
       "id": "s10",
@@ -295,6 +362,11 @@
           "doc": "PROP_1",
           "page": 236
         }
+      ],
+      "merksatz": "Form ist Visitenkarte: Norm exakt, Quelle in die Fußnote, Fremdes markieren – und alles aus einem Guss.",
+      "norms": [
+        "§§ 97 ff. UrhG",
+        "§§ 106 ff. UrhG"
       ]
     }
   ],
@@ -1328,6 +1400,412 @@
           "page": 235
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Im Justizsyllogismus stellt die erste Prämisse die abstrakte Rechtsregel auf; man nennt sie {{1}}. Die zweite stellt fest, dass der Sachverhalt den Tatbestand erfüllt; sie heißt {{2}}.",
+      "blanks": [
+        [
+          "Normprämisse"
+        ],
+        [
+          "Fallprämisse"
+        ]
+      ],
+      "explanation": "1. Prämisse: Tatbestand → Rechtsfolge; 2. Prämisse: Sachverhalt erfüllt Tatbestand; Ergebnis: Sachverhalt → Rechtsfolge. Das Kapitel F befasst sich mit dem Auffinden der Normprämisse (S. 196).",
+      "hints": [
+        "Norm oder Fall?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 195
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein Student begründet: „Der Vertrag ist wirksam, weil er gültig ist.“ Gegen welches Denkgesetz verstößt er nach dem Studienbrief?",
+      "options": [
+        "Satz vom zureichenden Grund – Zirkelschluss (petitio principii)",
+        "Satz vom Widerspruch",
+        "Satz vom ausgeschlossenen Dritten (tertium non datur)",
+        "Argumentum a maiori ad minus"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Satz vom zureichenden Grund verlangt eine Begründung durch eine andere geltende Aussage; sind Behauptung und Begründung dieselbe Aussage, liegt ein Zirkelschluss vor (S. 197).",
+      "hints": [
+        "Wird hier wirklich etwas begründet?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 196
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Unter „Gesetz“ versteht der Studienbrief im Prämissen-Kapitel vereinfachend alle Rechtsnormen, die von der Legislative im förmlichen Gesetzgebungsverfahren erlassen wurden.",
+      "answer": true,
+      "explanation": "„Gesetz“ ist streng genommen unpräzise; zur Vereinfachung wird diese Definition zugrunde gelegt. Gesetzesprämissen sind der wichtigste, aber nicht der einzige Teil juristischer Argumentationsgrundlagen (S. 198).",
+      "hints": [
+        "Achten Sie auf „förmliches Verfahren“."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 197
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "A fällt den Apfelbaum im Garten des B. Obersatz: „A könnte sich gemäß § 303 Abs. 1 StGB strafbar gemacht haben …“. Welche Voraussetzung (zu prüfende Prämisse) nennt das Beispiel des Studienbriefs als erste?",
+      "options": [
+        "Der Apfelbaum müsste eine Sache sein",
+        "A müsste schuldhaft gehandelt haben",
+        "B müsste einen Strafantrag gestellt haben",
+        "Der Baum müsste einen erheblichen Wert haben"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Aus der Norm entnimmt man die Tatbestandsvoraussetzungen: zuerst „Sache“, dann „fremd“ – jeweils mit Definition, Subsumtion und Zwischenergebnis (S. 199).",
+      "hints": [
+        "Was wird beschädigt oder zerstört?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 198
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm der im Studienbrief zitierten Ausprägung des Gleichbehandlungsgrundsatzes zu.",
+      "pairs": [
+        [
+          "Art. 3 Abs. 1 GG",
+          "Alle Menschen sind vor dem Gesetz gleich"
+        ],
+        [
+          "Art. 3 Abs. 3 S. 2 GG",
+          "Keine Benachteiligung wegen einer Behinderung"
+        ],
+        [
+          "Art. 38 Abs. 1 GG",
+          "Gleiche Wahl der Abgeordneten des Bundestages"
+        ],
+        [
+          "§ 3 Abs. 1 WpÜG",
+          "Gleichbehandlung der Inhaber von Wertpapieren derselben Gattung"
+        ]
+      ],
+      "explanation": "Der Gleichbehandlungsgrundsatz ist ein formaler Topos; die einzelnen Normen sind materiale Topoi, die als Prämissen dienen können (S. 200).",
+      "hints": [
+        "Zwei Normen stehen in Art. 3 GG.",
+        "Das WpÜG betrifft Wertpapiere."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Grobgliederung des Prüfungsschemas für den Zahlungsanspruch aus § 433 Abs. 2 BGB in die richtige Reihenfolge.",
+      "items": [
+        "Anspruch entstanden? (Vertragsschluss: Angebot und Annahme)",
+        "Anspruch untergegangen? (z. B. Rücktritt, Aufrechnung)",
+        "Anspruch durchsetzbar? (z. B. Verjährung, Zurückbehaltungsrecht)"
+      ],
+      "explanation": "Entstanden – untergegangen – durchsetzbar; hinter einzelnen Punkten wie Willenserklärung oder Zugang stecken wiederum eigene Schemata (S. 210 f.).",
+      "hints": [
+        "Erst muss es ihn geben, dann darf er nicht weg sein, dann muss man ihn durchsetzen können."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 209
+        },
+        {
+          "doc": "PROP_1",
+          "page": 210
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "§ 35 S. 1 VwVfG: Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme, die eine {{1}} zur Regelung eines {{2}} auf dem Gebiet des öffentlichen Rechts trifft und die auf unmittelbare {{3}} nach außen gerichtet ist.",
+      "blanks": [
+        [
+          "Behörde"
+        ],
+        [
+          "Einzelfalls",
+          "Einzelfalles"
+        ],
+        [
+          "Rechtswirkung"
+        ]
+      ],
+      "explanation": "Aus dieser Legaldefinition lässt sich das Prüfungsschema ad hoc ableiten: hoheitliche Maßnahme – Behörde – Regelung eines Einzelfalls – öffentliches Recht – Außenwirkung (S. 211).",
+      "hints": [
+        "Wer handelt?",
+        "Einzelfall statt allgemeiner Regel."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 210
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Sie prüfen den Kaufpreisanspruch nach dem Schema und kommen zum Punkt „Zugang der Annahme“. Wann kann dieser Punkt nach dem Studienbrief irrelevant sein?",
+      "options": [
+        "Wenn § 151 BGB anwendbar ist, nach dem der Zugang der Annahme unter bestimmten Voraussetzungen entbehrlich ist",
+        "Wenn der Käufer minderjährig ist (§ 110 BGB)",
+        "Nie – nach § 130 Abs. 1 BGB ist der Zugang stets gesondert zu prüfen",
+        "Wenn der Anspruch verjährt ist"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Wie bei der Sonnencreme auf der Koffer-Checkliste hängt die Relevanz eines Schemapunkts vom Sachverhalt ab; § 151 BGB macht den Zugang der Annahme ausnahmsweise entbehrlich (S. 214).",
+      "hints": [
+        "Annahme ohne Erklärung gegenüber dem Antragenden."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 213
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "In der Klausur dürfen Studierende üblicherweise Kommentare, nicht aber Lehrbücher benutzen.",
+      "answer": false,
+      "explanation": "In der Klausur sind weder Lehrbücher noch Kommentare zugelassen, üblicherweise nur unkommentierte Gesetzestexte. Beide Quellen dienen der Prämissensuche außerhalb der Klausur (S. 216).",
+      "hints": [
+        "Was liegt auf dem Klausurtisch?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 215
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Was bringt der über die Generalklauseln angewandte römische Rechtssatz „dolo agit, qui petit, quod statim redditurus est“ zum Ausdruck?",
+      "options": [
+        "Arglistig handelt, wer etwas verlangt, das er sofort wieder zurückgeben müsste",
+        "Niemand darf sich zu seinem früheren Verhalten in Widerspruch setzen",
+        "Was für das Größere gilt, gilt erst recht für das Kleinere",
+        "Im Zweifel ist zugunsten des Angeklagten zu entscheiden"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ein Anspruch kann nicht durchgesetzt werden, wenn der Gegner Gegenrechte hat, die zur sofortigen Rückgabe verpflichten würden. Option B beschreibt „venire contra factum proprium“ (S. 218).",
+      "hints": [
+        "„redditurus“ = zurückgeben werdend."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 217
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-multi",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Anstreicher A verschüttet beim Streichen im Auftrag des B Farbe auf dessen Perserteppich (Zeitwert 3000 EUR); er hatte vergessen, ihn abzudecken. Welche Anspruchsgrundlagen kommen nach dem Studienbrief für den Schadensersatz in Betracht? Wählen Sie zwei zutreffende Antworten.",
+      "options": [
+        "§§ 280 ff. BGB (Pflichtverletzung im Schuldverhältnis)",
+        "§ 823 Abs. 1 BGB (Eigentumsverletzung)",
+        "§ 433 Abs. 2 BGB",
+        "§ 151 BGB"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Die Rechtsfolge „Schadensersatz“ filtert grob; § 823 Abs. 1 BGB kennt man als Standardnorm, und weil vertragliche Ansprüche zuerst zu prüfen sind, kommt man über § 311 BGB zu §§ 280 ff. BGB (S. 223 f.).",
+      "hints": [
+        "Vertraglich und deliktisch.",
+        "Welche Normen ordnen Schadensersatz an?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 222
+        },
+        {
+          "doc": "PROP_1",
+          "page": 223
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Vergleichen Sie für die Prämissensuche die Fallfragen „Hat A gegen B einen Anspruch auf Zahlung von 200 EUR aus § 433 Abs. 2 BGB?“ und „Wie ist die Rechtslage?“.",
+      "modelAnswer": "Die erste Fallfrage legt Beteiligte und Norm genau fest; Fall- und Rechtsfrage decken sich, § 433 Abs. 2 BGB liefert die Ausgangsprämisse. In Fortgeschrittenenklausuren ist das selten. Bei „Wie ist die Rechtslage?“ muss man alle im Sachverhalt angelegten Rechtsfragen selbst entdecken: zuerst die gesuchten Rechtsfolgen bestimmen (z. B. Zahlung, Herausgabe, Rückabwicklung) und dann von der Rechtsfolge aus die stützenden oder entgegenstehenden Prämissen suchen.",
+      "rubric": [
+        "Fallfrage legt das Prüfungsprogramm fest",
+        "Konkrete Frage: Norm und Beteiligte vorgegeben, Ausgangsprämisse feststehend",
+        "Offene Frage: alle Rechtsfragen selbst entdecken",
+        "Ausgangspunkt dann die gesuchte Rechtsfolge"
+      ],
+      "explanation": "Zwischen beiden Extrempolen liegen Fragen wie „Welche Ansprüche stehen V zu?“ (S. 222).",
+      "hints": [
+        "Wer bestimmt hier die Norm – die Aufgabe oder Sie?"
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 221
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "V verlangt von K den Kaufpreis. Der Vertrag wurde vor sechs Monaten geschlossen; eine Gegenforderung des K oder eine Aufrechnungserklärung gibt es nicht; streitig ist allein, ob K das Angebot des V wirksam angenommen hat. Wie gewichten Sie die Schemapunkte nach dem Studienbrief?",
+      "modelAnswer": "Das Schema ist eine Checkliste, kein Pflichtprogramm. Den Schwerpunkt bildet die problematische Annahme, die ausführlich zu prüfen ist. Verjährung (Vertrag erst sechs Monate alt) und Aufrechnung (weder Gegenforderung noch Erklärung) sind offensichtlich unproblematisch und daher höchstens kurz, ggf. im Urteilsstil, abzuhandeln oder wegzulassen. Diese Schwerpunktsetzung ist Ausdruck von Problembewusstsein und dem Wesentlichkeitsprinzip; überflüssiges Wissen gehört nicht in die Klausur.",
+      "rubric": [
+        "Schema als Checkliste, nicht sklavisch abarbeiten",
+        "Annahme als Schwerpunkt ausführlich",
+        "Verjährung und Aufrechnung allenfalls kurz/Urteilsstil",
+        "Begriff Problembewusstsein/Wesentlichkeitsprinzip"
+      ],
+      "explanation": "Gerade die offensichtlich abzuhakenden Punkte sind kurz zu behandeln; Problematisches nimmt den größten Raum ein (S. 214).",
+      "hints": [
+        "Was würde ein Richter in der Verhandlung hören wollen?",
+        "Kofferpacken: Socken vergisst man nicht."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 212
+        },
+        {
+          "doc": "PROP_1",
+          "page": 213
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie zu: Wie belegt man in der Fußnote …?",
+      "pairs": [
+        [
+          "… eine „herrschende Meinung (h. M.)“",
+          "Mit Zitaten aus Rechtsprechung und Literatur"
+        ],
+        [
+          "… eine „herrschende Lehre (h. L.)“",
+          "Hinweis auf literarische Äußerungen genügt"
+        ],
+        [
+          "… eine „ständige Rechtsprechung (st. Rspr.)“",
+          "Nur mit Urteilen"
+        ],
+        [
+          "… mit dem Zusatz „Vgl.“",
+          "Nur wenn das Zitat die Aussage nicht direkt stützt, aber dem Verständnis dient"
+        ]
+      ],
+      "explanation": "Mehrere Quellen trennt man durch Semikolon; jede Fußnote beginnt groß und endet mit einem Punkt (S. 234).",
+      "hints": [
+        "Lehre = Literatur.",
+        "Rechtsprechung = Gerichte."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 233
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Formulierungen sollten Sie in einer Seminar- oder Bachelorarbeit nach dem Studienbrief vermeiden? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "„Selbstverständlich ist …“",
+        "„Offensichtlich ergibt sich …“",
+        "„Daher erscheint es angemessen, zu der Schlussfolgerung zu gelangen, dass das Abstraktionsprinzip dem Verkehrsschutz dienen dürfte.“",
+        "„Daher dient das Abstraktionsprinzip dem Verkehrsschutz.“"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Evidenzformeln kaschieren oft Unsicherheit und machen misstrauisch; allzu vorsichtige Ergebnisse wirken ebenso schlecht. Der klare Satz D ist die empfohlene Fassung (S. 232).",
+      "hints": [
+        "Weder großspurig noch zaghaft."
+      ],
+      "src": [
+        {
+          "doc": "PROP_1",
+          "page": 231
+        }
+      ]
     }
   ],
   "case": {
@@ -1584,6 +2062,68 @@
           "page": 234
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 433 Abs. 2 BGB",
+      "inhalt": "Der Käufer muss den vereinbarten Kaufpreis zahlen – Standardbeispiel für die Ausgangsprämisse im Obersatz."
+    },
+    {
+      "norm": "Art. 3 Abs. 1 GG",
+      "inhalt": "Alle Menschen sind vor dem Gesetz gleich – materialer Topos des Gleichbehandlungsgrundsatzes."
+    },
+    {
+      "norm": "§ 705 Abs. 1 BGB",
+      "inhalt": "Gesellschaft bürgerlichen Rechts: Zusammenschluss zur Förderung eines gemeinsamen Zwecks (Beispiel „BC Bikes“)."
+    },
+    {
+      "norm": "§§ 105 ff. HGB",
+      "inhalt": "Offene Handelsgesellschaft – zeigt, dass Regelungen außerhalb des BGB liegen können."
+    },
+    {
+      "norm": "§ 108 BGB",
+      "inhalt": "Verträge Minderjähriger ohne Einwilligung hängen von der Genehmigung der Eltern ab."
+    },
+    {
+      "norm": "§ 110 BGB",
+      "inhalt": "„Taschengeldparagraf“: Mit eigenen Mitteln bewirkte Verträge Minderjähriger sind wirksam – gefunden mit „Fünf vor, fünf zurück“."
+    },
+    {
+      "norm": "Art. 20 Abs. 3 GG",
+      "inhalt": "Bindung von Verwaltung und Rechtsprechung an Gesetz und Recht – alle Prämissen müssen aufs Gesetz zurückführbar sein."
+    },
+    {
+      "norm": "§ 263 Abs. 1 StGB",
+      "inhalt": "Betrug – mit dem ungeschriebenen Merkmal der Vermögensverfügung zur Abgrenzung vom Diebstahl."
+    },
+    {
+      "norm": "§ 35 S. 1 VwVfG",
+      "inhalt": "Legaldefinition des Verwaltungsakts – Schema lässt sich direkt aus dem Gesetz ableiten."
+    },
+    {
+      "norm": "§ 151 BGB",
+      "inhalt": "Der Zugang der Annahme kann ausnahmsweise entbehrlich sein – macht einen Schemapunkt irrelevant."
+    },
+    {
+      "norm": "§ 242 BGB",
+      "inhalt": "Leistung nach Treu und Glauben – Generalklausel, konkretisiert durch Fallgruppen."
+    },
+    {
+      "norm": "§ 224 Abs. 1 Nr. 2 StGB",
+      "inhalt": "Gefährliche Körperverletzung mittels Waffe oder anderen gefährlichen Werkzeugs (Bordsteinkante)."
+    },
+    {
+      "norm": "Art. 103 Abs. 2 GG",
+      "inhalt": "Bestimmtheitsgrundsatz: Im Strafrecht ist der Wortlaut die Grenze der Auslegung."
+    },
+    {
+      "norm": "§ 823 Abs. 1 BGB",
+      "inhalt": "Schadensersatz bei Verletzung bestimmter Rechtsgüter, u. a. des Eigentums (Anstreicher-Fall)."
+    },
+    {
+      "norm": "§ 276 Abs. 2 BGB",
+      "inhalt": "Fahrlässig handelt, wer die im Verkehr erforderliche Sorgfalt außer Acht lässt."
     }
   ]
 }

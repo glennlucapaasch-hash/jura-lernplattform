@@ -31,6 +31,10 @@
           "doc": "BGB_4",
           "page": 8
         }
+      ],
+      "merksatz": "AGB ändern das nachgiebige Gesetz – das AGB-Recht beseitigt die Vertragsfreiheit nicht, es stellt die Augenhöhe wieder her.",
+      "norms": [
+        "§ 310 BGB"
       ]
     },
     {
@@ -51,6 +55,15 @@
           "doc": "BGB_4",
           "page": 10
         }
+      ],
+      "merksatz": "Vorformuliert, für viele, einseitig gestellt – das sind AGB; was wirklich ausgehandelt ist, geht vor (§ 305b).",
+      "norms": [
+        "§ 305 Abs. 1 BGB",
+        "§ 305 Abs. 1 S. 3 BGB",
+        "§ 305b BGB",
+        "§ 310 Abs. 3 Nr. 1 BGB",
+        "§ 310 Abs. 3 Nr. 2 BGB",
+        "§ 309 Nr. 8 BGB"
       ]
     },
     {
@@ -67,6 +80,11 @@
           "doc": "BGB_4",
           "page": 11
         }
+      ],
+      "merksatz": "Hinweis, Kenntnismöglichkeit, Einverständnis: Ohne diese drei bleiben AGB draußen (§ 305 Abs. 2).",
+      "norms": [
+        "§ 305 Abs. 2 BGB",
+        "§ 310 Abs. 4 S. 2 BGB"
       ]
     },
     {
@@ -87,6 +105,18 @@
           "doc": "BGB_4",
           "page": 13
         }
+      ],
+      "merksatz": "Unwirksame Klausel fliegt raus, der Vertrag bleibt, das Gesetz springt ein – gekürzt wird nicht (§ 306).",
+      "norms": [
+        "§ 307 Abs. 1 BGB",
+        "§ 307 Abs. 3 BGB",
+        "§ 308 BGB",
+        "§ 309 Nr. 8 BGB",
+        "§ 306 Abs. 1 BGB",
+        "§ 306 Abs. 2 BGB",
+        "§ 139 BGB",
+        "§ 138 Abs. 2 BGB",
+        "§ 438 Abs. 1 Nr. 3 BGB"
       ]
     },
     {
@@ -107,6 +137,12 @@
           "doc": "BGB_4",
           "page": 15
         }
+      ],
+      "merksatz": "Was überrumpelt, wird nicht Vertrag (§ 305c Abs. 1); Verbraucher sind schon beim Einmal-Formular geschützt (§ 310 Abs. 3).",
+      "norms": [
+        "§ 310 Abs. 3 BGB",
+        "§ 305c Abs. 1 BGB",
+        "§ 305c Abs. 2 BGB"
       ]
     },
     {
@@ -123,6 +159,17 @@
           "doc": "BGB_4",
           "page": 16
         }
+      ],
+      "merksatz": "Erbe, Familie, Gesellschaft – AGB-Kontrolle hat Pause; unter Unternehmern bleibt nur § 307.",
+      "norms": [
+        "§ 310 Abs. 4 S. 1 BGB",
+        "§ 310 Abs. 1 S. 1 BGB",
+        "§ 310 Abs. 1 S. 2 BGB",
+        "§ 307 Abs. 1 BGB",
+        "§ 307 Abs. 2 BGB",
+        "§ 134 BGB",
+        "§ 138 BGB",
+        "§ 242 BGB"
       ]
     },
     {
@@ -143,6 +190,17 @@
           "doc": "BGB_4",
           "page": 18
         }
+      ],
+      "merksatz": "Prallen AGB aufeinander, gilt nur, was übereinstimmt – den Rest füllt das Gesetz.",
+      "norms": [
+        "§ 150 Abs. 2 BGB",
+        "§ 306 Abs. 1 BGB",
+        "§ 306 Abs. 2 BGB",
+        "§ 154 Abs. 1 BGB",
+        "§ 17 ZPO",
+        "§ 29 ZPO",
+        "§ 269 BGB",
+        "§ 270 BGB"
       ]
     },
     {
@@ -155,6 +213,20 @@
           "doc": "BGB_4",
           "page": 19
         }
+      ],
+      "merksatz": "Anwendbar? AGB? Einbezogen? Inhalt? Folgen? – und bei der Kontrolle von hinten: 309, 308, 307.",
+      "norms": [
+        "§ 310 Abs. 4 S. 1 BGB",
+        "§ 310 Abs. 1 BGB",
+        "§ 305 Abs. 1 BGB",
+        "§ 305 Abs. 2 BGB",
+        "§ 305c Abs. 1 BGB",
+        "§ 307 Abs. 3 BGB",
+        "§ 309 BGB",
+        "§ 308 BGB",
+        "§ 307 Abs. 1 BGB",
+        "§ 307 Abs. 2 BGB",
+        "§ 306 BGB"
       ]
     },
     {
@@ -179,6 +251,16 @@
           "doc": "BGB_4",
           "page": 23
         }
+      ],
+      "merksatz": "Online gilt das alte Spiel: Shop lädt ein, Kunde bietet an, Händler nimmt an – und der Knopf heißt „zahlungspflichtig bestellen“.",
+      "norms": [
+        "§ 130 BGB",
+        "§ 312i Abs. 1 S. 1 BGB",
+        "§ 312j Abs. 3 BGB",
+        "§ 312j Abs. 4 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 311 Abs. 2 BGB",
+        "§ 241 Abs. 2 BGB"
       ]
     },
     {
@@ -203,6 +285,21 @@
           "doc": "BGB_4",
           "page": 26
         }
+      ],
+      "merksatz": "Ganz aus der Ferne gekauft? Widerruf binnen 14 Tagen. Bei der Online-Auktion bietet, wer einstellt.",
+      "norms": [
+        "§ 312c Abs. 1 BGB",
+        "§ 312c Abs. 2 BGB",
+        "§ 312d BGB",
+        "§ 312g BGB",
+        "§ 355 Abs. 1 BGB",
+        "§ 357 Abs. 1 BGB",
+        "§ 305 Abs. 2 BGB",
+        "§ 156 BGB",
+        "§ 145 BGB",
+        "§ 158 Abs. 1 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB"
       ]
     }
   ],
@@ -1188,6 +1285,428 @@
           "page": 26
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Nach § 305c Abs. 1 BGB werden Klauseln nicht Vertragsbestandteil, die nach den Umständen, insbesondere nach dem äußeren Erscheinungsbild des Vertrags, so {{1}} sind, dass der Vertragspartner mit ihnen nicht zu {{2}} braucht.",
+      "blanks": [
+        [
+          "ungewöhnlich"
+        ],
+        [
+          "rechnen"
+        ]
+      ],
+      "explanation": "Kennzeichen sind ein Überrumpelungs- oder Übertölpelungseffekt und eine deutliche Diskrepanz zwischen Klauselinhalt und Kundenerwartung; auch die Unterbringung an unerwarteter Stelle kann genügen.",
+      "hints": [
+        "Denken Sie an die Kaffeeabnahmepflicht beim Maschinenkauf.",
+        "Womit muss der Kunde nicht …?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 14
+        },
+        {
+          "doc": "BGB_4",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "„Vielzahl von Verträgen“ bedeutet die Absicht einer mindestens {{1}}maligen Verwendung. Nach § {{2}} BGB haben individuelle Vertragsabreden Vorrang vor AGB.",
+      "blanks": [
+        [
+          "drei",
+          "3"
+        ],
+        [
+          "305b"
+        ]
+      ],
+      "explanation": "Schon die erste Verwendung genügt, wenn weitere hinreichend geplant sind. Bei Verbraucherverträgen kommt es nach § 310 Abs. 3 Nr. 2 auf die Vielzahl nicht an.",
+      "hints": [
+        "Eine kleine Zahl größer als zwei.",
+        "Die Norm folgt direkt auf § 305 und hat einen Buchstaben."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Verbraucherin K bestellt in einem Online-Shop. Auf der Bestellseite steht deutlich ein Link „Es gelten unsere AGB“; die AGB lassen sich abrufen, speichern und ausdrucken. Vor dem Absenden setzt K ein Häkchen in der Checkbox „Ich akzeptiere die AGB“. Sind die AGB einbezogen?",
+      "options": [
+        "Ja; deutlicher Link-Hinweis, zumutbare Kenntnisnahme und Einverständnis per Mausklick erfüllen § 305 Abs. 2 BGB.",
+        "Nein; AGB müssen im Internet per E-Mail übersandt und unterschrieben werden.",
+        "Nein; ein Link genügt nie als ausdrücklicher Hinweis.",
+        "Ja, aber nur wenn K die AGB tatsächlich gelesen hat."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach dem Skript genügt ein deutlicher Hinweis auf einen Link; die Möglichkeit, die AGB per Link abzurufen, zu speichern und auszudrucken, reicht zur Kenntnisnahme (BGH NJW 2006, 2976). Das Einverständnis kann per Checkbox erklärt werden. Ob K liest, ist unerheblich.",
+      "hints": [
+        "Prüfen Sie die drei Voraussetzungen des § 305 Abs. 2 nacheinander.",
+        "Möglichkeit der Kenntnisnahme – nicht tatsächliche Kenntnis."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bei Verbraucherverträgen gelten AGB als vom Unternehmer gestellt, es sei denn, sie wurden durch den Verbraucher in den Vertrag eingeführt.",
+      "answer": true,
+      "explanation": "Richtig, § 310 Abs. 3 Nr. 1 BGB. Das Merkmal „gestellt“ muss dann nicht eigens bewiesen werden.",
+      "hints": [
+        "Lesen Sie § 310 Abs. 3 Nr. 1 BGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrer Funktion in der Inhaltskontrolle bzw. bei den Rechtsfolgen zu.",
+      "pairs": [
+        [
+          "§ 309 BGB",
+          "Klauselverbote ohne Wertungsmöglichkeit"
+        ],
+        [
+          "§ 308 BGB",
+          "Klauselverbote mit Wertungsmöglichkeit"
+        ],
+        [
+          "§ 307 Abs. 1 S. 2 BGB",
+          "Transparenzgebot"
+        ],
+        [
+          "§ 307 Abs. 2 Nr. 1 BGB",
+          "Unvereinbarkeit mit dem wesentlichen Grundgedanken der gesetzlichen Regelung"
+        ],
+        [
+          "§ 306 Abs. 3 BGB",
+          "Ausnahmsweise Gesamtunwirksamkeit bei unzumutbarer Härte"
+        ]
+      ],
+      "explanation": "Geprüft wird von hinten nach vorne (§ 309 → § 308 → § 307), weil die speziellen Verbote am schnellsten zu einem sicheren Ergebnis führen.",
+      "hints": [
+        "„Ohne Wertung“ ist das strengere, schnellere Verbot.",
+        "§ 306 regelt die Folgen, nicht die Kontrolle."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Schritte des Vertragsschlusses bei einer Internet-Auktion nach der im Skript dargestellten Lösung in die richtige Reihenfolge.",
+      "items": [
+        "Verkäufer stellt den Artikel ein und schaltet die Angebotsseite frei (Angebot, § 145)",
+        "Bieter geben Gebote ab (Annahme unter der aufschiebenden Bedingung, Höchstbietender zu sein, § 158 Abs. 1)",
+        "Auktion endet durch Zeitablauf",
+        "Kaufvertrag mit dem Höchstbietenden zum Höchstgebot"
+      ],
+      "explanation": "Die Erklärungen werden nach §§ 133, 157 im Licht der Plattform-AGB ausgelegt (Auslegungslösung). Der BGH hat die Konstruktion als bedingte Annahme ausdrücklich offengelassen.",
+      "hints": [
+        "Kein Zuschlag nach § 156 – wer macht dann das Angebot?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 25
+        },
+        {
+          "doc": "BGB_4",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wie muss nach § 312j Abs. 3 BGB die Bestell-Schaltfläche bei einem entgeltlichen Verbrauchervertrag im Online-Shop beschriftet sein?",
+      "options": [
+        "„zahlungspflichtig bestellen“ oder eine entsprechend eindeutige Formulierung",
+        "„Weiter“",
+        "„Bestellung prüfen“",
+        "Beliebig, wenn der Preis auf der Seite steht"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Verbraucher muss ausdrücklich bestätigen, dass er sich zur Zahlung verpflichtet (Button-Lösung). Bei Verstoß kommt der Vertrag nach § 312j Abs. 4 BGB nicht zustande.",
+      "hints": [
+        "Das Wort „zahlungspflichtig“ ist entscheidend."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche der folgenden sind nach § 312c Abs. 2 BGB Fernkommunikationsmittel? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Brief",
+        "Telefonanruf",
+        "E-Mail",
+        "Persönliches Verkaufsgespräch im Ladenlokal"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Fernkommunikationsmittel sind alle Mittel, die ohne gleichzeitige körperliche Anwesenheit der Parteien eingesetzt werden können – damit ist der gesamte Versandhandel erfasst. Im Ladenlokal sind beide anwesend.",
+      "hints": [
+        "Entscheidend ist die fehlende gleichzeitige körperliche Anwesenheit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bei einer Internet-Auktion kommt der Vertrag nach allgemeiner Ansicht gemäß § 156 BGB durch den Zuschlag des Plattformbetreibers zustande.",
+      "answer": false,
+      "explanation": "Falsch. § 156 passt nicht zur Interessenlage, es gibt keinen Zuschlag. Nach dem BGH ist bereits die Freischaltung der Angebotsseite ein bindendes Angebot; der Vertrag kommt mit dem Höchstbietenden zustande.",
+      "hints": [
+        "Wer erteilt bei eBay einen Zuschlag?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 24
+        },
+        {
+          "doc": "BGB_4",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Verbraucher V kauft im Möbelhaus M nach mündlicher Beratung ein Sofa. Von AGB ist beim Kauf keine Rede. Mit der Lieferung erhält V einen Lieferschein, auf dessen Rückseite AGB mit einem Haftungsausschluss abgedruckt sind. Ist der Haftungsausschluss Vertragsbestandteil geworden?",
+      "modelAnswer": "Die §§ 305 ff. sind anwendbar (kein Fall des § 310 Abs. 4; V ist Verbraucher, § 310 Abs. 1 greift nicht). Die Klauseln sind vorformulierte, für eine Vielzahl von Verträgen bestimmte und gestellte Bedingungen, also AGB (§ 305 Abs. 1). Für die Einbeziehung verlangt § 305 Abs. 2 einen ausdrücklichen Hinweis bei Vertragsschluss, die Möglichkeit zumutbarer Kenntnisnahme und das Einverständnis des V. Beim Kauf fehlte jeder Hinweis; der spätere Abdruck auf dem Lieferschein kommt zu spät und ist eine einseitige Maßnahme des Verwenders. Der Haftungsausschluss ist nicht Vertragsbestandteil; es gelten die gesetzlichen Regeln.",
+      "rubric": [
+        "Anwendbarkeit der §§ 305 ff. (§ 310)",
+        "AGB-Begriff § 305 Abs. 1 bejaht",
+        "Voraussetzungen § 305 Abs. 2 genannt",
+        "Hinweis muss bei Vertragsschluss erfolgen",
+        "Ergebnis: nicht einbezogen, Gesetz gilt"
+      ],
+      "hints": [
+        "Wann muss der Hinweis erfolgen?",
+        "Kann der Verwender AGB nach Vertragsschluss einseitig nachschieben?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 11
+        },
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Großhändlerin G beliefert Einzelhändler E seit Jahren und legt allen Geschäften – für E bekannt – ihre AGB zugrunde. Bei einer neuen telefonischen Bestellung weist G nicht ausdrücklich auf die AGB hin; E hat ihnen nie widersprochen. Sind die AGB einbezogen?",
+      "options": [
+        "Ja; im B2B-Verkehr gilt § 305 Abs. 2 nicht, und E wusste, dass G ihren Geschäften AGB zugrunde legt.",
+        "Nein; ohne ausdrücklichen Hinweis nach § 305 Abs. 2 Nr. 1 werden AGB nie einbezogen.",
+        "Nein; telefonisch können AGB nicht einbezogen werden.",
+        "Ja, aber nur wenn E die AGB nachträglich unterschreibt."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach § 310 Abs. 1 S. 1 gelten § 305 Abs. 2 und 3 gegenüber Unternehmern nicht; die Einbeziehung richtet sich nach §§ 145 ff. AGB werden auch ohne ausdrücklichen Hinweis Vertragsbestandteil, wenn der Kunde wusste oder wissen musste, dass der Verwender AGB zugrunde zu legen pflegt, und ihre Anwendung nicht ausgeschlossen hat.",
+      "hints": [
+        "Sind beide Unternehmer?",
+        "Welche Vorschrift schaltet § 305 Abs. 2 aus?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 15
+        },
+        {
+          "doc": "BGB_4",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Beide Parteien verweisen im B2B-Verkehr auf ihre eigenen, sich widersprechenden AGB. Stellen Sie die drei im Skript genannten Lösungsansätze dar.",
+      "modelAnswer": "1. Theorie des letzten Wortes (frühere BGH-Rechtsprechung): Jede Antwort mit eigenen AGB ist nach § 150 Abs. 2 eine Ablehnung mit neuem Angebot; es gelten die zuletzt genannten AGB, wenn der andere zustimmt oder die Leistung widerspruchslos entgegennimmt bzw. erbringt – Folge ist ein unliebsames „Ping-Pong-Spiel“. 2. Heutige BGH-Rechtsprechung: Teildissens – nur die kollidierenden Klauseln werden nicht Vertragsbestandteil; der Vertrag besteht mit den übereinstimmenden Klauseln fort (§ 306 Abs. 1), Lücken füllt das Gesetz (§ 306 Abs. 2). § 150 Abs. 2 bleibt nur anwendbar, wenn eine Abwehrklausel fehlt oder eine Seite eindeutig nur zu ihren Bedingungen abschließen will. 3. Kongruenzmodell (Literatur): Die Auslegungsregel des § 154 Abs. 1 wird umgekehrt; die AGB gelten, soweit sie übereinstimmen – mit gleichem Ergebnis wie der BGH.",
+      "rubric": [
+        "Theorie des letzten Wortes mit § 150 Abs. 2",
+        "Kritik: Ping-Pong",
+        "BGH: Teildissens, § 306 Abs. 1 und 2",
+        "Ausnahme: eindeutiger Wille nur zu eigenen Bedingungen",
+        "Kongruenzmodell, Umkehr des § 154 Abs. 1"
+      ],
+      "hints": [
+        "Wer hat das letzte Wort?",
+        "Welche Norm erhält den Restvertrag?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 16
+        },
+        {
+          "doc": "BGB_4",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Mit welcher Reform hat das AGB-Recht nach dem Skript auf die Missstände bei der Verwendung von AGB reagiert?",
+      "options": [
+        "Mit der großen Schuldrechtsreform zum 1.1.2002",
+        "Mit dem Inkrafttreten des BGB am 1.1.1900",
+        "Mit der Umsetzung der Verbraucherrechterichtlinie zum 13.6.2014",
+        "Gar nicht durch Gesetz, sondern allein durch Richterrecht"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Seit der Schuldrechtsreform zum 1.1.2002 steht das AGB-Recht in den §§ 305 ff. BGB. 2014 wurden dagegen die §§ 312 ff. (Verbraucherverträge, Fernabsatz) umfassend novelliert.",
+      "hints": [
+        "Dieselbe Reform hat auch das Verjährungsrecht neu gefasst."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Prüfungspunkte der ordnungsgemäßen Einbeziehung von AGB gegenüber einem Verbraucher in die Reihenfolge des Prüfungsschemas.",
+      "items": [
+        "Ausdrücklicher Hinweis bei Vertragsschluss (§ 305 Abs. 2 Nr. 1)",
+        "Zumutbare Möglichkeit der Kenntnisnahme (§ 305 Abs. 2 Nr. 2)",
+        "Einverständnis des Vertragspartners",
+        "Keine überraschende Klausel (§ 305c Abs. 1)"
+      ],
+      "explanation": "Erst wenn die AGB nach § 305 Abs. 2 einbezogen sind, fragt man, ob einzelne Klauseln als überraschend gar nicht Vertragsinhalt geworden sind. Danach folgt die Inhaltskontrolle.",
+      "hints": [
+        "Die Reihenfolge folgt dem Gesetzestext von § 305 Abs. 2."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Unternehmer U legt Kunde K einen vorformulierten Mustervertrag vor, den er für alle Kunden verwendet. K handelt ernsthaft einen niedrigeren Preis aus; über die übrigen Klauseln, darunter einen Haftungsausschluss, wird nicht gesprochen. Wie ist der Haftungsausschluss einzuordnen?",
+      "options": [
+        "Er bleibt AGB; Individualabrede ist nur, was im Einzelnen ausgehandelt wurde (§ 305 Abs. 1 S. 3).",
+        "Er wird Individualabrede, weil über den Vertrag insgesamt verhandelt wurde.",
+        "Er ist nichtig, weil gemischte Verträge unzulässig sind.",
+        "Er ist kontrollfreie Preisabrede nach § 307 Abs. 3 BGB."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "AGB liegen nicht vor, „soweit“ die Bedingungen im Einzelnen ausgehandelt sind. Aushandeln verlangt nach dem BGH, dass der Inhalt das Ergebnis selbstverantwortlicher Prüfung, Abwägung und möglicher Einflussnahme beider Seiten ist – das betrifft hier nur den Preis. AGB und Individualabrede bilden zusammen einen einheitlichen Vertrag.",
+      "hints": [
+        "Lesen Sie das Wort „soweit“ in § 305 Abs. 1 S. 3.",
+        "Wurde gerade diese Klausel verhandelt?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 9
+        },
+        {
+          "doc": "BGB_4",
+          "page": 10
+        }
+      ]
     }
   ],
   "case": {
@@ -1461,6 +1980,68 @@
           "page": 26
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 305 Abs. 1 BGB",
+      "inhalt": "Was AGB sind: vorformuliert, für viele Verträge, von einer Seite gestellt."
+    },
+    {
+      "norm": "§ 305b BGB",
+      "inhalt": "Individuelle Absprachen gehen AGB vor."
+    },
+    {
+      "norm": "§ 305 Abs. 2 BGB",
+      "inhalt": "Einbeziehung nur mit Hinweis, Möglichkeit der Kenntnisnahme und Einverständnis."
+    },
+    {
+      "norm": "§ 307 BGB",
+      "inhalt": "Generalklausel: unangemessene Benachteiligung, Transparenzgebot, Kontrollfähigkeit (Abs. 3)."
+    },
+    {
+      "norm": "§ 308 BGB",
+      "inhalt": "Klauselverbote mit Wertungsmöglichkeit."
+    },
+    {
+      "norm": "§ 309 BGB",
+      "inhalt": "Klauselverbote ohne Wertungsmöglichkeit, z.B. Nr. 8 b) ff) Mindest-Verjährungsfrist."
+    },
+    {
+      "norm": "§ 306 BGB",
+      "inhalt": "Folgen: Restvertrag bleibt (Abs. 1), Gesetz füllt die Lücke (Abs. 2), Gesamtnichtigkeit nur bei unzumutbarer Härte (Abs. 3)."
+    },
+    {
+      "norm": "§ 310 Abs. 3 BGB",
+      "inhalt": "Verbraucherverträge: AGB gelten als gestellt, Kontrolle auch bei Einmal-Bedingungen."
+    },
+    {
+      "norm": "§ 305c Abs. 1 BGB",
+      "inhalt": "Überraschende Klauseln werden nicht Vertragsbestandteil."
+    },
+    {
+      "norm": "§ 310 Abs. 1 und 4 BGB",
+      "inhalt": "Einschränkungen: B2B ohne § 305 Abs. 2, 3, §§ 308, 309; keine Kontrolle im Erb-, Familien-, Gesellschaftsrecht."
+    },
+    {
+      "norm": "§ 312i Abs. 1 S. 1 BGB",
+      "inhalt": "Pflichten im elektronischen Geschäftsverkehr: Fehlerkorrektur, Zugangsbestätigung, Speicherbarkeit."
+    },
+    {
+      "norm": "§ 312j Abs. 3 und 4 BGB",
+      "inhalt": "Button „zahlungspflichtig bestellen“ – sonst kein Vertrag."
+    },
+    {
+      "norm": "§ 312c BGB",
+      "inhalt": "Fernabsatzvertrag: Unternehmer und Verbraucher, nur Fernkommunikationsmittel."
+    },
+    {
+      "norm": "§§ 312g, 355 BGB",
+      "inhalt": "Widerrufsrecht des Verbrauchers beim Fernabsatzvertrag, 14 Tage."
+    },
+    {
+      "norm": "§ 158 Abs. 1 BGB",
+      "inhalt": "Aufschiebende Bedingung – Gebot bei der Online-Auktion als bedingte Annahme."
     }
   ]
 }

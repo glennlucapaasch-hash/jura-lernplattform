@@ -22,7 +22,9 @@
           "doc": "VR_3",
           "page": 19
         }
-      ]
+      ],
+      "merksatz": "Erst die Fallfrage, dann das Verfahren: Organe streiten im Organstreit, Gesetze prüft man abstrakt oder konkret, Bürger klagen per Verfassungsbeschwerde.",
+      "norms": []
     },
     {
       "id": "s2",
@@ -46,6 +48,18 @@
           "doc": "VR_3",
           "page": 22
         }
+      ],
+      "merksatz": "Wer streitet? § 63 BVerfGG zuerst – und wer dort fehlt, aber eigene GG-Rechte hat, kommt direkt über Art. 94 I Nr. 1 GG hinein.",
+      "norms": [
+        "Art. 94 Abs. 1 Nr. 1 GG",
+        "§ 13 Nr. 5 BVerfGG",
+        "§ 63 BVerfGG",
+        "§ 64 BVerfGG",
+        "§ 22 Abs. 1 S. 2 BVerfGG",
+        "Art. 21 GG",
+        "Art. 38 Abs. 1 S. 2 GG",
+        "Art. 40 Abs. 2 GG",
+        "Art. 94 Abs. 3 GG"
       ]
     },
     {
@@ -70,6 +84,15 @@
           "doc": "VR_3",
           "page": 25
         }
+      ],
+      "merksatz": "Rechtserhebliche Maßnahme, eigene GG-Rechte, sechs Monate Zeit – und geprüft wird allein am Grundgesetz.",
+      "norms": [
+        "§ 64 Abs. 1 BVerfGG",
+        "§ 23 Abs. 1 BVerfGG",
+        "§ 64 Abs. 2 BVerfGG",
+        "§ 64 Abs. 3 BVerfGG",
+        "Art. 64 Abs. 1 GG",
+        "§ 67 BVerfGG"
       ]
     },
     {
@@ -98,6 +121,18 @@
           "doc": "VR_3",
           "page": 29
         }
+      ],
+      "merksatz": "Regierung, Landesregierung oder ein Viertel des Bundestages – sie prüfen die Norm ohne eigene Betroffenheit, aber erst nach Verkündung.",
+      "norms": [
+        "Art. 94 Abs. 1 Nr. 2 GG",
+        "Art. 94 Abs. 1 Nr. 2a GG",
+        "Art. 72 Abs. 2 GG",
+        "§ 13 Nr. 6 BVerfGG",
+        "§ 76 Abs. 1 BVerfGG",
+        "Art. 82 Abs. 1 GG",
+        "Art. 82 Abs. 2 GG",
+        "Art. 59 Abs. 2 GG",
+        "Art. 23 Abs. 1 S. 2 GG"
       ]
     },
     {
@@ -122,6 +157,17 @@
           "doc": "VR_3",
           "page": 31
         }
+      ],
+      "merksatz": "Keine Frist, kein Gegner, kein Eigeninteresse: Der Antragsteller ist Garant der Verfassung – das Ergebnis gilt für alle.",
+      "norms": [
+        "§ 23 Abs. 1 BVerfGG",
+        "§ 76 Abs. 1 Nr. 1 BVerfGG",
+        "§ 76 Abs. 1 Nr. 2 BVerfGG",
+        "§ 47 VwGO",
+        "§ 78 S. 1 BVerfGG",
+        "Art. 31 GG",
+        "§ 31 Abs. 1 BVerfGG",
+        "§ 31 Abs. 2 BVerfGG"
       ]
     },
     {
@@ -154,6 +200,18 @@
           "doc": "VR_3",
           "page": 36
         }
+      ],
+      "merksatz": "Richter, die zweifeln, entscheiden selbst – Richter, die überzeugt sind, legen vor: Das Verwerfungsmonopol liegt in Karlsruhe.",
+      "norms": [
+        "Art. 100 Abs. 1 S. 1 GG",
+        "Art. 100 Abs. 1 S. 2 GG",
+        "Art. 101 Abs. 1 S. 2 GG",
+        "Art. 267 AEUV",
+        "§ 13 Nr. 11 BVerfGG",
+        "§ 80 Abs. 1 BVerfGG",
+        "§ 80 Abs. 2 BVerfGG",
+        "§ 82 Abs. 1 BVerfGG",
+        "§§ 198 ff. GVG"
       ]
     },
     {
@@ -178,6 +236,20 @@
           "doc": "VR_3",
           "page": 39
         }
+      ],
+      "merksatz": "Bund gegen Land, vertreten durch die Regierungen – die Regeln leiht man sich beim Organstreit (§ 69 BVerfGG).",
+      "norms": [
+        "Art. 94 Abs. 1 Nr. 3 GG",
+        "§ 13 Nr. 7 BVerfGG",
+        "§ 68 BVerfGG",
+        "§ 69 BVerfGG",
+        "§ 70 BVerfGG",
+        "§ 64 BVerfGG",
+        "§ 65 Abs. 1 BVerfGG",
+        "§ 67 BVerfGG",
+        "Art. 84 Abs. 4 GG",
+        "Art. 73 Abs. 1 Nr. 1 GG",
+        "Art. 87a GG"
       ]
     },
     {
@@ -214,6 +286,18 @@
           "doc": "VR_3",
           "page": 46
         }
+      ],
+      "merksatz": "Jedermann gegen jede öffentliche Gewalt – aber nur mit Grundrechten oder grundrechtsgleichen Rechten im Gepäck.",
+      "norms": [
+        "Art. 94 Abs. 1 Nr. 4a GG",
+        "§ 13 Nr. 8a BVerfGG",
+        "§ 90 Abs. 1 BVerfGG",
+        "Art. 19 Abs. 3 GG",
+        "Art. 1 Abs. 3 GG",
+        "§ 92 BVerfGG",
+        "Art. 101 Abs. 1 S. 2 GG",
+        "Art. 267 AEUV",
+        "Art. 23 Abs. 1 S. 1 GG"
       ]
     },
     {
@@ -250,6 +334,18 @@
           "doc": "VR_3",
           "page": 52
         }
+      ],
+      "merksatz": "Selbst, gegenwärtig, unmittelbar – Rechtsweg erschöpft, Frist gewahrt: Karlsruhe ist keine Superrevisionsinstanz.",
+      "norms": [
+        "§ 90 Abs. 2 S. 1 BVerfGG",
+        "§ 90 Abs. 2 S. 2 BVerfGG",
+        "§ 23 Abs. 1 BVerfGG",
+        "§ 93 Abs. 1 S. 1 BVerfGG",
+        "§ 93 Abs. 3 BVerfGG",
+        "Art. 3 Abs. 1 GG",
+        "Art. 21 Abs. 1 GG",
+        "§ 95 Abs. 2 BVerfGG",
+        "§ 95 Abs. 3 BVerfGG"
       ]
     },
     {
@@ -274,6 +370,21 @@
           "doc": "VR_3",
           "page": 55
         }
+      ],
+      "merksatz": "Parteiverbot, Wahlprüfung, Präsidentenanklage, Eilrechtsschutz: selten in der Klausur, aber jeweils mit eigener Nummer in § 13 BVerfGG.",
+      "norms": [
+        "Art. 21 Abs. 2 GG",
+        "§ 13 Nr. 2 BVerfGG",
+        "§ 43 BVerfGG",
+        "§ 46 BVerfGG",
+        "Art. 41 Abs. 2 GG",
+        "§ 48 BVerfGG",
+        "Art. 94 Abs. 1 Nr. 4c GG",
+        "Art. 61 GG",
+        "§ 50 BVerfGG",
+        "§ 56 BVerfGG",
+        "§ 32 BVerfGG",
+        "§§ 97a ff. BVerfGG"
       ]
     }
   ],
@@ -1361,6 +1472,500 @@
           "page": 54
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Hält ein Gericht ein entscheidungserhebliches Gesetz für verfassungswidrig, muss es das Verfahren {{1}} und die Entscheidung des BVerfG einholen (Art. {{2}} GG). Denn das BVerfG hat für formelle Gesetze ein {{3}}.",
+      "blanks": [
+        [
+          "aussetzen"
+        ],
+        [
+          "100 I",
+          "100 Abs. 1",
+          "100 I 1",
+          "100 Abs. 1 S. 1"
+        ],
+        [
+          "Verwerfungsmonopol"
+        ]
+      ],
+      "explanation": "Fachgerichte dürfen formelle, nachkonstitutionelle Gesetze weder außer Acht lassen noch selbst verwerfen; die konkrete Normenkontrolle ist ein Zwischenverfahren.",
+      "hints": [
+        "Das Ausgangsverfahren ruht so lange.",
+        "Nur einer darf Gesetze „verwerfen“."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie dem Verfahren seine Normenkette zu.",
+      "pairs": [
+        [
+          "Organstreit",
+          "Art. 94 I Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG"
+        ],
+        [
+          "Abstrakte Normenkontrolle",
+          "Art. 94 I Nr. 2 GG, § 13 Nr. 6, §§ 76 ff. BVerfGG"
+        ],
+        [
+          "Konkrete Normenkontrolle",
+          "Art. 100 I GG, § 13 Nr. 11, §§ 80 ff. BVerfGG"
+        ],
+        [
+          "Bund-Länder-Streit",
+          "Art. 94 I Nr. 3 GG, § 13 Nr. 7, §§ 68 ff. BVerfGG"
+        ],
+        [
+          "Verfassungsbeschwerde",
+          "Art. 94 I Nr. 4a GG, § 13 Nr. 8a, §§ 90 ff. BVerfGG"
+        ]
+      ],
+      "explanation": "Die Normenkette steht am Anfang jeder Zulässigkeitsprüfung: GG-Norm – § 13 BVerfGG – besondere Verfahrensvorschriften.",
+      "hints": [
+        "Die konkrete Normenkontrolle steht nicht in Art. 94 GG.",
+        "Die Nummern des Art. 94 I GG laufen in derselben Reihenfolge wie die Paragrafen."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 20
+        },
+        {
+          "doc": "VR_3",
+          "page": 26
+        },
+        {
+          "doc": "VR_3",
+          "page": 32
+        },
+        {
+          "doc": "VR_3",
+          "page": 37
+        },
+        {
+          "doc": "VR_3",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie dem Verfahren seine Frist zu.",
+      "pairs": [
+        [
+          "Organstreit",
+          "sechs Monate ab Bekanntwerden (§ 64 III BVerfGG)"
+        ],
+        [
+          "Abstrakte Normenkontrolle",
+          "keine Frist"
+        ],
+        [
+          "Verfassungsbeschwerde gegen ein Urteil",
+          "ein Monat"
+        ],
+        [
+          "Verfassungsbeschwerde gegen ein Gesetz",
+          "ein Jahr ab Inkrafttreten"
+        ],
+        [
+          "Wahlprüfungsbeschwerde",
+          "zwei Monate nach Beschluss des Bundestages"
+        ],
+        [
+          "Präsidentenanklage",
+          "drei Monate ab Kenntnis (§ 50 BVerfGG)"
+        ]
+      ],
+      "explanation": "Die abstrakte Normenkontrolle dient dem Rechtsfrieden und ist daher fristlos; die übrigen Fristen sind Ausschlussfristen.",
+      "hints": [
+        "Ein objektives Verfahren ohne Gegner kennt keine Frist.",
+        "Gegen Gesetze hat man am längsten Zeit."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 23
+        },
+        {
+          "doc": "VR_3",
+          "page": 28
+        },
+        {
+          "doc": "VR_3",
+          "page": 50
+        },
+        {
+          "doc": "VR_3",
+          "page": 53
+        },
+        {
+          "doc": "VR_3",
+          "page": 54
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Für die Antragsbefugnis im Organstreit genügt es, eine Verletzung von Rechten aus der Geschäftsordnung des Bundestages geltend zu machen.",
+      "answer": false,
+      "explanation": "Nach § 64 I BVerfGG müssen Rechte und Pflichten betroffen sein, die dem Antragsteller durch das Grundgesetz übertragen sind; Rechte aus der Geschäftsordnung reichen nicht.",
+      "hints": [
+        "Prüfungsmaßstab im Organstreit ist ausschließlich ..."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Zulässigkeitsprüfung der konkreten Normenkontrolle in die Reihenfolge des Skripts.",
+      "items": [
+        "Zuständigkeit (Art. 100 I GG, § 13 Nr. 11, §§ 80 ff. BVerfGG)",
+        "Vorlageberechtigung (Gericht)",
+        "Vorlagegegenstand (formelles, nachkonstitutionelles Gesetz)",
+        "Überzeugung von der Verfassungswidrigkeit",
+        "Entscheidungserheblichkeit",
+        "Form (§ 80 II BVerfGG)"
+      ],
+      "explanation": "Erst wird geklärt, wer was vorlegen darf, dann ob das Gericht überzeugt ist und ob es auf die Norm ankommt; zuletzt die Form des Vorlagebeschlusses.",
+      "hints": [
+        "Wer – was – warum – wie."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 32
+        },
+        {
+          "doc": "VR_3",
+          "page": 33
+        },
+        {
+          "doc": "VR_3",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Normen können nach dem Skript nicht Gegenstand einer konkreten Normenkontrolle sein? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "eine Rechtsverordnung des Bundes",
+        "ein vorkonstitutionelles Gesetz, das der Gesetzgeber nicht „in seinen Willen aufgenommen“ hat",
+        "sekundäres Unionsrecht, solange der EuGH gleichwertigen Grundrechtsschutz gewährleistet",
+        "ein nachkonstitutionelles formelles Bundesgesetz"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Vorlagefähig sind nur formelle, nachkonstitutionelle Gesetze deutscher Staatsgewalt. Rechtsverordnungen prüft und verwirft das Fachgericht selbst; für vorkonstitutionelles Recht gilt die Ausnahme der Aufnahme in den Willen des Gesetzgebers; Vorlagen zu Unionsrecht sind nach Solange II unzulässig.",
+      "hints": [
+        "Es geht nur um das Verwerfungsmonopol für Parlamentsgesetze des GG-Gesetzgebers."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 32
+        },
+        {
+          "doc": "VR_3",
+          "page": 33
+        },
+        {
+          "doc": "VR_3",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Vor Erhebung der Verfassungsbeschwerde muss der {{1}} erschöpft sein (§ 90 II 1 BVerfGG). Ausnahmsweise entscheidet das BVerfG sofort, wenn die Beschwerde von {{2}} Bedeutung ist oder dem Beschwerdeführer ein {{3}} und unabwendbarer Nachteil entstünde (§ 90 II 2 BVerfGG).",
+      "blanks": [
+        [
+          "Rechtsweg"
+        ],
+        [
+          "allgemeiner"
+        ],
+        [
+          "schwerer"
+        ]
+      ],
+      "explanation": "Darüber hinaus verlangt der Grundsatz der Subsidiarität, alle zumutbaren Möglichkeiten zur Korrektur der Verfassungsverletzung zu nutzen.",
+      "hints": [
+        "Erst die Fachgerichte, dann Karlsruhe.",
+        "Im Fall des TV-Duells war der Nachteil nicht mehr reparabel."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 49
+        },
+        {
+          "doc": "VR_3",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Der Bundestag beschließt ein Gesetz, das noch nicht ausgefertigt und verkündet ist. Ein Viertel der Mitglieder des Bundestages hält es für nichtig und beantragt sofort die abstrakte Normenkontrolle. Ist der Antrag zulässig? (Es handelt sich nicht um ein Zustimmungsgesetz zu einem völkerrechtlichen Vertrag.)",
+      "modelAnswer": "Zuständigkeit: Art. 94 I Nr. 2 GG, § 13 Nr. 6, §§ 76 ff. BVerfGG. Antragsberechtigt ist ein Viertel der Mitglieder des Bundestages (Art. 94 I Nr. 2 GG, § 76 I BVerfGG). Antragsgegenstand kann aber grundsätzlich nur eine verkündete Norm sein (Art. 82 I GG); eine vorbeugende Normenkontrolle gibt es nicht. Die Ausnahme für Zustimmungsgesetze zu völkerrechtlichen Verträgen bzw. EU-Verträgen (Antrag schon zulässig, wenn nur noch Ausfertigung und Verkündung fehlen) greift hier nicht. Der Antrag ist daher unzulässig; nach der Verkündung kann er – fristlos – erneut gestellt werden.",
+      "rubric": [
+        "Normenkette und Antragsberechtigung (ein Viertel MdB)",
+        "Gegenstand: nur verkündete Normen, keine vorbeugende Normenkontrolle",
+        "Ausnahme für Vertragsgesetze erkannt und abgelehnt",
+        "Ergebnis: unzulässig, später erneut möglich (keine Frist)"
+      ],
+      "explanation": "Siehe Musterlösung; die Ausnahme soll verhindern, dass verfassungswidrige Verträge völkerrechtlich verbindlich werden.",
+      "hints": [
+        "Ab wann existiert ein Gesetz rechtlich?",
+        "Für welche Gesetze macht das Skript eine Ausnahme?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 26
+        },
+        {
+          "doc": "VR_3",
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Die Landesregierung L hat dem Bundesgesetz G im Bundesrat zugestimmt. Ihr späterer Antrag auf abstrakte Normenkontrolle gegen G ist schon deshalb unzulässig.",
+      "answer": false,
+      "explanation": "Wegen des objektiven Charakters ist der Antragsteller „Garant der verfassungsgemäßen Rechtsordnung“; ob er dem Gesetz zugestimmt hat, ist unerheblich. Ein individuelles Rechtsschutzinteresse ist nicht zu prüfen.",
+      "hints": [
+        "Geht es um eigene Rechte des Antragstellers?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Ein Amtsgericht hält § Y eines Bundesgesetzes für verfassungswidrig. Die Klage ist aber ohnehin unzulässig, weil die Klagefrist versäumt wurde. Darf das Gericht nach Art. 100 I GG vorlegen?",
+      "options": [
+        "Nein, die Vorlage ist unzulässig, weil es auf die Gültigkeit von § Y nicht ankommt.",
+        "Ja, weil das Gericht überzeugt ist.",
+        "Ja, weil jedes Gericht vorlageberechtigt ist.",
+        "Nein, weil Amtsgerichte nicht vorlageberechtigt sind."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Entscheidungserheblich ist eine Norm nur, wenn das Gericht bei ihrer Gültigkeit zu einem anderen Ergebnis käme als bei ihrer Ungültigkeit. Ist die Klage ohnehin abzuweisen, fehlt es daran. Vorlageberechtigt sind dagegen alle Gerichte, auch Amtsgerichte.",
+      "hints": [
+        "Ändert sich das Ergebnis, wenn § Y nichtig wäre?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 32
+        },
+        {
+          "doc": "VR_3",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie den Unterschied zwischen einem kontradiktorischen und einem objektiven Verfahren vor dem BVerfG am Beispiel von Organstreit und abstrakter Normenkontrolle und nennen Sie zwei Folgen für die Zulässigkeitsprüfung.",
+      "modelAnswer": "Im kontradiktorischen Organstreit stehen sich Antragsteller und Antragsgegner gegenüber; es geht um die Abgrenzung von Kompetenzen. Folgen: Die Parteifähigkeit ist für beide Seiten gesondert festzustellen, und der Antragsteller muss eine mögliche Verletzung eigener (bzw. in Prozessstandschaft geltend gemachter) Rechte aus dem GG darlegen (§ 64 I BVerfGG); es gilt die Sechs-Monats-Frist. Die abstrakte Normenkontrolle ist ein objektives Verfahren ohne Antragsgegner: Der Antragsteller muss nicht in eigenen Rechten betroffen sein, ein individuelles Rechtsschutzinteresse wird nicht geprüft (er ist „Garant der verfassungsgemäßen Rechtsordnung“), und es gibt keine Frist.",
+      "rubric": [
+        "Organstreit: zwei Parteien, Kompetenzabgrenzung",
+        "Parteifähigkeit beider Seiten / eigene Rechte",
+        "Normenkontrolle: kein Antragsgegner, keine eigenen Rechte",
+        "Folgen: kein Rechtsschutzinteresse, keine Frist"
+      ],
+      "explanation": "Der Verfahrenscharakter erklärt viele Prüfungspunkte – wer ihn versteht, muss weniger auswendig lernen.",
+      "hints": [
+        "Gibt es im jeweiligen Verfahren einen Gegner?",
+        "Was folgt daraus für Frist und eigene Rechte?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 19
+        },
+        {
+          "doc": "VR_3",
+          "page": 26
+        },
+        {
+          "doc": "VR_3",
+          "page": 28
+        },
+        {
+          "doc": "VR_3",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Was prüft das BVerfG bei einer Urteilsverfassungsbeschwerde?",
+      "options": [
+        "Nur die Verletzung „spezifischen Verfassungsrechts“ – es ist keine Superrevisionsinstanz.",
+        "Die gesamte Auslegung und Anwendung des einfachen Rechts.",
+        "Nur die Einhaltung der Geschäftsordnung des Gerichts.",
+        "Ausschließlich die Verfahrensdauer."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das BVerfG legt kein einfaches Recht aus. Eine Verletzung liegt etwa vor, wenn der Grundrechtsschutz gar nicht beachtet oder die Bedeutung des Grundrechts verkannt wurde oder Justizgrundrechte verletzt sind; dann hebt es die Entscheidung auf (§ 95 II BVerfGG).",
+      "hints": [
+        "Wäre Karlsruhe eine weitere Instanz, würde es alles überprüfen."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 51
+        },
+        {
+          "doc": "VR_3",
+          "page": 52
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Wer kann nach dem Skript Wahlprüfungsbeschwerde erheben? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "ein Abgeordneter, dessen Mitgliedschaft bestritten ist",
+        "ein Wahlberechtigter, dessen Wahleinspruch verworfen wurde, wenn ihm mindestens 100 Wahlberechtigte beitreten",
+        "eine Fraktion",
+        "jeder einzelne Wahlberechtigte ohne vorherigen Wahleinspruch"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Daneben kann eine Minderheit von einem Zehntel der gesetzlichen Mitgliederzahl die Beschwerde erheben. Gegenstand ist der Beschluss des Bundestages im Wahlprüfungsverfahren (Art. 41 II GG, § 48 BVerfGG).",
+      "hints": [
+        "Ohne vorheriges Verfahren beim Bundestag geht es nicht."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 53
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Nach § {{1}} BVerfGG kann das BVerfG eine einstweilige Anordnung erlassen. In der Begründetheit nimmt es eine {{2}} vor („Doppelhypothese“); die Hauptsache darf grundsätzlich nicht {{3}} werden.",
+      "blanks": [
+        [
+          "32"
+        ],
+        [
+          "Folgenabwägung"
+        ],
+        [
+          "vorweggenommen"
+        ]
+      ],
+      "explanation": "Verglichen werden die Folgen, wenn die Anordnung nicht ergeht, die Hauptsache aber Erfolg hat, mit den Folgen, wenn sie ergeht, die Hauptsache aber scheitert. Die Erfolgsaussichten spielen nur ausnahmsweise eine Rolle.",
+      "hints": [
+        "Zwei hypothetische Szenarien werden gegenübergestellt."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 54
+        },
+        {
+          "doc": "VR_3",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "truefalse",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Die Gemeinde G, deren Bürgerbefragung die Bundesregierung verhindern will, ist im Bund-Länder-Streit parteifähig.",
+      "answer": false,
+      "explanation": "Parteien sind nach § 68 BVerfGG nur Bund und Länder, vertreten durch Bundesregierung bzw. Landesregierung. Angegriffen wird das Unterlassen des Landes, gegen die Befragung einzuschreiten.",
+      "hints": [
+        "Wer steht sich im Bund-Länder-Streit gegenüber?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 37
+        },
+        {
+          "doc": "VR_3",
+          "page": 39
+        }
+      ]
     }
   ],
   "case": {
@@ -1625,6 +2230,68 @@
           "page": 55
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "Art. 94 Abs. 1 Nr. 1 GG, §§ 63 ff. BVerfGG",
+      "inhalt": "Organstreit: Streit zwischen Verfassungsorganen um Rechte und Pflichten aus dem GG."
+    },
+    {
+      "norm": "§ 64 BVerfGG",
+      "inhalt": "Organstreit: Antragsbefugnis (Verletzung eigener GG-Rechte möglich), Bezeichnung der Norm, Sechs-Monats-Frist."
+    },
+    {
+      "norm": "Art. 94 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG",
+      "inhalt": "Abstrakte Normenkontrolle: Bundes- oder Landesrecht wird unabhängig vom Einzelfall geprüft."
+    },
+    {
+      "norm": "§ 76 Abs. 1 BVerfGG",
+      "inhalt": "Antragsberechtigte und Antragsgrund (Norm für nichtig halten oder Normbestätigung)."
+    },
+    {
+      "norm": "§ 78 S. 1 BVerfGG",
+      "inhalt": "Unvereinbare Norm wird für nichtig erklärt."
+    },
+    {
+      "norm": "Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG",
+      "inhalt": "Konkrete Normenkontrolle: Gericht muss überzeugt verfassungswidriges, entscheidungserhebliches Gesetz vorlegen."
+    },
+    {
+      "norm": "Art. 94 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG",
+      "inhalt": "Bund-Länder-Streit über Rechte und Pflichten aus dem Bund-Länder-Verhältnis."
+    },
+    {
+      "norm": "Art. 94 Abs. 1 Nr. 4a GG, §§ 90 ff. BVerfGG",
+      "inhalt": "Verfassungsbeschwerde: jedermann gegen Akte der öffentlichen Gewalt wegen Grundrechtsverletzung."
+    },
+    {
+      "norm": "§ 90 Abs. 2 BVerfGG",
+      "inhalt": "Rechtswegerschöpfung und Ausnahmen (allgemeine Bedeutung, schwerer Nachteil)."
+    },
+    {
+      "norm": "§ 93 BVerfGG",
+      "inhalt": "Fristen der Verfassungsbeschwerde: ein Monat, gegen Gesetze ein Jahr (Skript zitiert „§ 94“)."
+    },
+    {
+      "norm": "§ 23 Abs. 1 BVerfGG",
+      "inhalt": "Anträge sind schriftlich und mit Begründung einzureichen."
+    },
+    {
+      "norm": "Art. 21 Abs. 2 GG, §§ 43 ff. BVerfGG",
+      "inhalt": "Parteiverbotsverfahren."
+    },
+    {
+      "norm": "Art. 41 Abs. 2 GG, § 48 BVerfGG",
+      "inhalt": "Wahlprüfungsbeschwerde gegen den Beschluss des Bundestages."
+    },
+    {
+      "norm": "Art. 61 GG",
+      "inhalt": "Präsidentenanklage durch Bundestag oder Bundesrat."
+    },
+    {
+      "norm": "§ 32 BVerfGG",
+      "inhalt": "Einstweilige Anordnung nach Folgenabwägung."
     }
   ]
 }

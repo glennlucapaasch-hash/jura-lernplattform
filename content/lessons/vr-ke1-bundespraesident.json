@@ -22,6 +22,11 @@
           "doc": "VR_1",
           "page": 79
         }
+      ],
+      "merksatz": "Republik heißt: Das Staatsoberhaupt wird auf Zeit gewählt statt geerbt – und das Amt dient dem Gemeinwohl.",
+      "norms": [
+        "Art. 20 Abs. 1 GG",
+        "Art. 28 Abs. 1 GG"
       ]
     },
     {
@@ -38,6 +43,19 @@
           "doc": "VR_1",
           "page": 80
         }
+      ],
+      "merksatz": "Fünf Jahre, einmal Wiederwahl, gewählt von der Bundesversammlung: repräsentieren, integrieren und im Notfall einspringen.",
+      "norms": [
+        "Art. 54 Abs. 1 GG",
+        "Art. 54 Abs. 2 GG",
+        "Art. 54 Abs. 3 GG",
+        "Art. 59 Abs. 1 GG",
+        "Art. 82 Abs. 1 GG",
+        "Art. 63 Abs. 2 GG",
+        "Art. 64 Abs. 1 GG",
+        "Art. 63 Abs. 4 GG",
+        "Art. 68 GG",
+        "Art. 81 Abs. 1 S. 1 GG"
       ]
     },
     {
@@ -50,6 +68,11 @@
           "doc": "VR_1",
           "page": 80
         }
+      ],
+      "merksatz": "Ohne Gegenzeichnung keine Gültigkeit: Die Regierung trägt die politische Verantwortung, die rechtliche bleibt beim Präsidenten.",
+      "norms": [
+        "Art. 58 S. 1 GG",
+        "Art. 82 Abs. 1 GG"
       ]
     },
     {
@@ -70,6 +93,14 @@
           "doc": "VR_1",
           "page": 83
         }
+      ],
+      "merksatz": "Prüfen darf er Verfahren und Inhalt – über die politische Zweckmäßigkeit entscheidet allein das Parlament.",
+      "norms": [
+        "Art. 82 Abs. 1 S. 1 GG",
+        "Art. 76 ff. GG",
+        "Art. 1 Abs. 3 GG",
+        "Art. 20 Abs. 3 GG",
+        "Art. 56 GG"
       ]
     },
     {
@@ -86,6 +117,11 @@
           "doc": "VR_1",
           "page": 84
         }
+      ],
+      "merksatz": "Ganz oder gar nicht: Der Präsident wägt Schwere, Offenkundigkeit und Folgen – bei der Menschenwürde gibt es nichts abzuwägen.",
+      "norms": [
+        "Art. 82 Abs. 1 S. 1 GG",
+        "Art. 1 Abs. 1 GG"
       ]
     }
   ],
@@ -669,6 +705,415 @@
           "page": 84
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Die Republik ist in Art. {{1}} GG und Art. 28 I GG verankert. Sie bedeutet primär die Abkehr von der {{2}}.",
+      "blanks": [
+        [
+          "20 I",
+          "20 Abs. 1",
+          "20"
+        ],
+        [
+          "Monarchie"
+        ]
+      ],
+      "explanation": "Das Republikprinzip betrifft die Art des Staatsoberhaupts; es ist historisch als Absage an die Monarchie (Einzelherrschaft, Erbfolge) zu verstehen.",
+      "hints": [
+        "Dieselbe Norm wie für Demokratie und Bundesstaat."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welche Merkmale kennzeichnen nach dem Skript die Monarchie, von der sich das Republikprinzip abwendet?",
+      "options": [
+        "Einzelherrschaft und Amtserlangung durch Erbfolge",
+        "Wahl des Staatsoberhaupts auf Zeit",
+        "Gemeinwohlbindung durch öffentliche Amtsverhältnisse",
+        "Gewaltenteilung und Gegenzeichnung"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "In der Republik wird das Staatsoberhaupt dagegen auf Zeit gewählt; die übrigen Optionen sind Merkmale der Republik bzw. des GG.",
+      "hints": [
+        "Wie wird man König?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 78
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Bundespräsident kann nach zwei aufeinanderfolgenden Amtszeiten unmittelbar ein drittes Mal gewählt werden.",
+      "answer": false,
+      "explanation": "Die Amtszeit beträgt fünf Jahre; eine (anschließende) Wiederwahl ist nur einmal möglich (Art. 54 II GG).",
+      "hints": [
+        "Wie oft ist Wiederwahl möglich?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm der Befugnis bzw. Regel zu.",
+      "pairs": [
+        [
+          "Art. 59 I GG",
+          "völkerrechtliche Vertretung, Beglaubigung der Gesandten"
+        ],
+        [
+          "Art. 82 I GG",
+          "Ausfertigung der Gesetze"
+        ],
+        [
+          "Art. 64 I GG",
+          "Ernennung und Entlassung der Bundesminister"
+        ],
+        [
+          "Art. 81 I 1 GG",
+          "Erklärung des Gesetzgebungsnotstandes"
+        ],
+        [
+          "Art. 58 S. 1 GG",
+          "Gegenzeichnungspflicht"
+        ]
+      ],
+      "explanation": "Diese Normen sollte man für den Bundespräsidenten parat haben; die Zuordnung zu Repräsentations-, Integrations- und Reservefunktion folgt daraus.",
+      "hints": [
+        "Gegenzeichnung: „Anordnungen und Verfügungen“."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 79
+        },
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Anordnungen und Verfügungen des Bundespräsidenten bedürfen zu ihrer Gültigkeit der {{1}} durch den Bundeskanzler oder den zuständigen Bundesminister. Wird diese Pflicht nicht beachtet, ist der Akt {{2}}.",
+      "blanks": [
+        [
+          "Gegenzeichnung"
+        ],
+        [
+          "unwirksam",
+          "ungültig"
+        ]
+      ],
+      "explanation": "Art. 58 S. 1 GG. Die Gegenzeichnung erfolgt schriftlich oder durch entsprechende Billigung.",
+      "hints": [
+        "Die Regierung „zeichnet mit“."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Welche Akte des Bundespräsidenten sind von der Gegenzeichnungspflicht ausgenommen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Ernennung des gewählten Bundeskanzlers (Art. 63 GG)",
+        "Entlassung des Bundeskanzlers nach konstruktivem Misstrauensvotum (Art. 67 GG)",
+        "Ersuchen an Kanzler oder Minister, die Geschäfte weiterzuführen (Art. 69 III GG)",
+        "Ausfertigung eines Bundesgesetzes (Art. 82 I GG)"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das Skript nennt als Ausnahmen Art. 63, 67, 68, 69 III GG. Die Ausfertigung erfolgt dagegen ausdrücklich „nach Gegenzeichnung“ (Art. 82 I 1 GG).",
+      "hints": [
+        "Lesen Sie Art. 82 I 1 GG genau."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        },
+        {
+          "doc": "VR_1",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Der Bundespräsident kritisiert in einer öffentlichen Rede einen Gesetzentwurf der Bundesregierung. Der Kanzler meint, die Rede hätte gegengezeichnet werden müssen und sei ohne Gegenzeichnung „unwirksam“. Zu Recht?",
+      "modelAnswer": "Nach Art. 58 S. 1 GG bedürfen nur „Anordnungen und Verfügungen“ der Gegenzeichnung. Teilweise werden darunter alle amtlich und politisch bedeutsamen Handlungen einschließlich Reden gefasst. Nach zutreffender Ansicht können aber nur auf rechtliche Verbindlichkeit angelegte Akte „Gültigkeit“ i.S.d. Art. 58 GG beanspruchen. Eine Rede ist kein solcher Akt; sie ist nicht gegenzeichnungspflichtig. Der Kanzler hat nicht recht.",
+      "rubric": [
+        "Art. 58 S. 1 GG: Anordnungen und Verfügungen",
+        "Streitstand: weite vs. enge Auffassung",
+        "nur rechtlich verbindliche Akte",
+        "Ergebnis: Rede nicht gegenzeichnungspflichtig"
+      ],
+      "hints": [
+        "Kann eine Rede „gültig“ oder „ungültig“ sein?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 80
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Schritte vom fertigen Gesetzesbeschluss bis zur Verkündung in die richtige Reihenfolge (Art. 82 I 1 GG).",
+      "items": [
+        "Zustandekommen nach Art. 76 ff. GG (Beschluss des Bundestages, Beteiligung des Bundesrates)",
+        "Gegenzeichnung durch Bundeskanzler oder zuständigen Minister",
+        "Ausfertigung durch den Bundespräsidenten (Unterzeichnung der Urschrift)",
+        "Verkündung"
+      ],
+      "explanation": "Art. 82 I 1 GG: Die nach dem GG zustande gekommenen Gesetze werden „nach Gegenzeichnung“ vom Bundespräsidenten ausgefertigt und verkündet. Ausfertigung heißt: Herstellung der Urschrift durch Unterzeichnung mit vollem Namen.",
+      "hints": [
+        "Die Gegenzeichnung kommt vor der Unterschrift des Präsidenten."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Hält der Bundespräsident nur eine einzelne Vorschrift eines Gesetzes für verfassungswidrig, kann er das Gesetz im Übrigen ausfertigen.",
+      "answer": false,
+      "explanation": "Anders als dem BVerfG steht ihm eine teilweise Verwerfung nicht zur Verfügung: Er kann ein Gesetz nur insgesamt ausfertigen oder nicht ausfertigen. Das ist bei der Abwägung über die Verwerfung zu berücksichtigen.",
+      "hints": [
+        "Ganz oder gar nicht?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Woran misst der Bundespräsident ein Gesetz nach der eigenen Auffassung des Skripts bei der materiellen Prüfung?",
+      "options": [
+        "Am Grundgesetz und am Unionsrecht, das Anwendungsvorrang hat",
+        "Allein an den Grundrechten",
+        "An seiner politischen Zweckmäßigkeit",
+        "Nur an evidenten Verstößen gegen das Grundgesetz"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das Skript bejaht eine umfassende (nicht auf Evidenz beschränkte) materielle Prüfung; Maßstab ist auch das Unionsrecht. Eine politische Zweckmäßigkeitsprüfung ist unbestritten ausgeschlossen.",
+      "hints": [
+        "Das Skript geht über die h.M. hinaus.",
+        "Auch europäisches Recht spielt eine Rolle."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Die h.M. beschränkt das materielle Prüfungsrecht des Bundespräsidenten auf schwere oder offensichtliche Verfassungsverstöße ({{1}}). Begründung: Inhaltlich trägt grundsätzlich das demokratisch legitimierte {{2}} die Verantwortung für das Gesetz.",
+      "blanks": [
+        [
+          "Evidenzkontrolle",
+          "Evidenz"
+        ],
+        [
+          "Parlament"
+        ]
+      ],
+      "explanation": "Bei sich aufdrängender Verfassungswidrigkeit soll aber die Wahrung der Verfassungsordnung der Einschätzungsprärogative des Gesetzgebers vorgehen.",
+      "hints": [
+        "Lateinisch evidens = offenkundig."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Der Bundespräsident hält ein Gesetz, das den Abschuss entführter Passagierflugzeuge erlaubt, für einen Verstoß gegen die Menschenwürde (Art. 1 I GG). Er fertigt es dennoch aus, weil er die Folgen einer Verweigerung für schwerer hält. Bewerten Sie sein Vorgehen nach dem Skript.",
+      "modelAnswer": "Mit der Prüfungskompetenz korrespondiert eine Verwerfungskompetenz. Nicht jeder erkannte Verstoß zwingt zur Verweigerung; abzuwägen sind Offenkundigkeit und Schwere des Verstoßes sowie die Folgen der Verweigerung. Hier nimmt der Präsident aber einen Verstoß gegen Art. 1 I GG an. Ein Eingriff in die Menschenwürde ist keiner rechtfertigenden Abwägung zugänglich. Die Entscheidung zur Ausfertigung begegnet daher Bedenken (so das Skript zum Luftsicherheitsgesetz 2005).",
+      "rubric": [
+        "Verwerfungskompetenz und Abwägung (Offenkundigkeit, Schwere, Folgen)",
+        "Menschenwürde nicht abwägungsfähig",
+        "Ergebnis: Ausfertigung bedenklich",
+        "Bezug zum Luftsicherheitsgesetz"
+      ],
+      "hints": [
+        "Ist jeder Verfassungsverstoß abwägungsfähig?",
+        "Das Skript nennt ein reales Beispiel aus 2005."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 83
+        },
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "Der Bundespräsident verweigert die Ausfertigung eines Gesetzes. Der Bundestag hält die Weigerung für verfassungswidrig. Wie kann er vorgehen?",
+      "options": [
+        "Organstreitverfahren vor dem BVerfG",
+        "Verfassungsbeschwerde",
+        "Konkrete Normenkontrolle",
+        "Wahlprüfungsbeschwerde"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Hält ein anderes Verfassungsorgan die Weigerung für unberechtigt, kann es das BVerfG im Organstreitverfahren anrufen (Art. 94 I Nr. 1 GG). Die Verfassungsbeschwerde steht nur Grundrechtsträgern offen.",
+      "hints": [
+        "Streit zwischen zwei Verfassungsorganen."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 84
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Warum verstößt ein materielles Prüfungsrecht des Bundespräsidenten nach seinen Befürwortern nicht gegen das Verwerfungsmonopol des BVerfG? Nennen Sie auch das Gegenargument.",
+      "modelAnswer": "Gegner: Ein materielles Prüfungsrecht liefe auf ein Normenkontroll- und Verwerfungsrecht hinaus; das widerspreche dem Verwerfungsmonopol des BVerfG und dem abschließenden Kreis der Antragsberechtigten. Befürworter: Der Präsident verwirft kein geltendes Gesetz, sondern verhindert schon dessen Inkrafttreten; außerdem ist er als Verfassungsorgan an das GG gebunden (Art. 1 III, 20 III GG) und darf nicht gezwungen werden, einen Verfassungsverstoß „sehenden Auges“ abzusegnen.",
+      "rubric": [
+        "Gegenargument: Verwerfungsmonopol des BVerfG",
+        "Befürworter: kein geltendes Gesetz wird verworfen",
+        "Bindung an Art. 1 III, 20 III GG"
+      ],
+      "hints": [
+        "Wann ist ein Gesetz „geltend“?"
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 82
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Aussagen zur Prüfungskompetenz des Bundespräsidenten treffen nach dem Skript zu? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Aus dem Wortlaut des Art. 82 I 1 GG folgt ein formelles Prüfungsrecht, das zugleich eine Prüfungspflicht ist.",
+        "Eine Prüfung der politischen Zweckmäßigkeit steht ihm unbestritten nicht zu.",
+        "Die h.M. rechnet die Gesetzgebungskompetenz des Bundes zum formellen Prüfungsrecht.",
+        "Jeder erkannte Verfassungsverstoß verpflichtet ihn zwingend zur Verweigerung der Ausfertigung."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Das Skript selbst zählt die Kompetenzfrage nicht zum formellen Prüfungsrecht (Art. 82 GG verweise nur auf Art. 76 ff. GG), gibt aber die h.M. so wieder. Über die Verwerfung entscheidet er nach Abwägung.",
+      "hints": [
+        "Eine Aussage verwechselt Prüfung und Verwerfung."
+      ],
+      "src": [
+        {
+          "doc": "VR_1",
+          "page": 81
+        },
+        {
+          "doc": "VR_1",
+          "page": 82
+        },
+        {
+          "doc": "VR_1",
+          "page": 83
+        }
+      ]
     }
   ],
   "case": {
@@ -888,6 +1333,52 @@
           "page": 84
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "Art. 20 Abs. 1 GG",
+      "inhalt": "Entscheidung für die Republik: Staatsoberhaupt auf Zeit gewählt, keine Monarchie."
+    },
+    {
+      "norm": "Art. 28 Abs. 1 GG",
+      "inhalt": "Auch die Länder müssen republikanisch verfasst sein."
+    },
+    {
+      "norm": "Art. 54 GG",
+      "inhalt": "Wahl des Bundespräsidenten durch die Bundesversammlung; Amtszeit fünf Jahre."
+    },
+    {
+      "norm": "Art. 59 Abs. 1 GG",
+      "inhalt": "Völkerrechtliche Vertretung; Beglaubigung und Empfang der Gesandten."
+    },
+    {
+      "norm": "Art. 64 Abs. 1 GG",
+      "inhalt": "Ernennung und Entlassung der Minister auf Vorschlag des Kanzlers."
+    },
+    {
+      "norm": "Art. 81 Abs. 1 S. 1 GG",
+      "inhalt": "Erklärung des Gesetzgebungsnotstandes (Reservefunktion)."
+    },
+    {
+      "norm": "Art. 58 S. 1 GG",
+      "inhalt": "Anordnungen und Verfügungen brauchen die Gegenzeichnung von Kanzler oder Minister."
+    },
+    {
+      "norm": "Art. 82 Abs. 1 S. 1 GG",
+      "inhalt": "Ausfertigung der nach dem GG zustande gekommenen Gesetze – Grundlage des Prüfungsrechts."
+    },
+    {
+      "norm": "Art. 76 ff. GG",
+      "inhalt": "Gesetzgebungsverfahren; bestimmt, wann ein Gesetz „zustande kommt“."
+    },
+    {
+      "norm": "Art. 20 Abs. 3 GG",
+      "inhalt": "Bindung an die Verfassung – Argument für ein materielles Prüfungsrecht."
+    },
+    {
+      "norm": "Art. 56 GG",
+      "inhalt": "Amtseid; nach dem Skript kein tragfähiges eigenes Argument (Zirkelschluss)."
     }
   ]
 }

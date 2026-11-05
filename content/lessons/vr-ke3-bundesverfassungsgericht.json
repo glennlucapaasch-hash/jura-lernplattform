@@ -24,6 +24,11 @@
           "doc": "VR_3",
           "page": 8
         }
+      ],
+      "merksatz": "Verfassungsgerichtsbarkeit ist die Krone, nicht das Fundament des Rechtsstaats – aber Art. 92 und 93 V GG haben sie fest eingebaut.",
+      "norms": [
+        "Art. 92 GG",
+        "Art. 93 Abs. 5 GG"
       ]
     },
     {
@@ -40,6 +45,12 @@
           "doc": "VR_3",
           "page": 9
         }
+      ],
+      "merksatz": "Das GG kam 1949, Karlsruhe erst 1951: Ohne Bundesgesetz kein Bundesverfassungsgericht.",
+      "norms": [
+        "Art. 93 GG",
+        "Art. 94 GG",
+        "§ 1 Abs. 2 BVerfGG"
       ]
     },
     {
@@ -60,6 +71,16 @@
           "doc": "VR_3",
           "page": 11
         }
+      ],
+      "merksatz": "Verfassungsorgan und Gericht zugleich: Karlsruhe hat das letzte Wort zur Verfassung – aber nur auf Antrag und nur nach Recht, nicht nach Politik.",
+      "norms": [
+        "Art. 93 Abs. 1 GG",
+        "Art. 93 Abs. 4 GG",
+        "Art. 92 GG",
+        "Art. 97 Abs. 1 GG",
+        "Art. 101 Abs. 1 S. 2 GG",
+        "Art. 1 Abs. 3 GG",
+        "Art. 20 Abs. 3 GG"
       ]
     },
     {
@@ -80,6 +101,20 @@
           "doc": "VR_3",
           "page": 13
         }
+      ],
+      "merksatz": "Zwei Senate, je acht Köpfe, Kammern zu dritt, Plenum mit sechzehn – seit 2024 steht das Gerüst im GG selbst.",
+      "norms": [
+        "Art. 93 Abs. 2 S. 1 GG",
+        "Art. 93 Abs. 3 GG",
+        "Art. 93 Abs. 4 GG",
+        "Art. 93 Abs. 5 GG",
+        "Art. 95 Abs. 1 GG",
+        "§ 2 BVerfGG",
+        "§ 14 Abs. 4 BVerfGG",
+        "§ 15a BVerfGG",
+        "§ 16 BVerfGG",
+        "§ 3 Abs. 1 BVerfGG",
+        "§ 3 Abs. 2 BVerfGG"
       ]
     },
     {
@@ -108,6 +143,20 @@
           "doc": "VR_3",
           "page": 17
         }
+      ],
+      "merksatz": "Halb Bundestag, halb Bundesrat, zwölf Jahre, Schluss mit 68 – und nie ein zweites Mal.",
+      "norms": [
+        "Art. 93 Abs. 2 S. 2 GG",
+        "Art. 93 Abs. 2 S. 3 GG",
+        "Art. 38 Abs. 1 S. 2 GG",
+        "§ 6 Abs. 1 S. 1 BVerfGG",
+        "§ 7 BVerfGG",
+        "§ 7a BVerfGG",
+        "Art. 93 Abs. 3 S. 1 GG",
+        "Art. 93 Abs. 3 S. 3 GG",
+        "§ 4 BVerfGG",
+        "§ 3 Abs. 3 S. 2 BVerfGG",
+        "§ 3 Abs. 4 BVerfGG"
       ]
     },
     {
@@ -124,6 +173,18 @@
           "doc": "VR_3",
           "page": 18
         }
+      ],
+      "merksatz": "Keine Generalklausel: Nach Karlsruhe kommt nur, wer eine passende Nummer hat – Art. 94 GG, § 13 BVerfGG, Spezialvorschriften.",
+      "norms": [
+        "Art. 94 Abs. 1 GG",
+        "Art. 94 Abs. 1 Nr. 5 GG",
+        "Art. 94 Abs. 3 GG",
+        "Art. 21 GG",
+        "Art. 100 GG",
+        "§ 13 BVerfGG",
+        "Art. 94 Abs. 1 Nr. 4a GG",
+        "§ 13 Nr. 8a BVerfGG",
+        "§§ 90 ff. BVerfGG"
       ]
     },
     {
@@ -140,6 +201,11 @@
           "doc": "VR_3",
           "page": 56
         }
+      ],
+      "merksatz": "Mit Verhandlung ein Urteil, ohne einen Beschluss – und was rechtskräftig entschieden ist, kommt nicht noch einmal auf den Tisch.",
+      "norms": [
+        "§ 25 Abs. 2 BVerfGG",
+        "§ 30 Abs. 2 BVerfGG"
       ]
     },
     {
@@ -156,6 +222,18 @@
           "doc": "VR_3",
           "page": 57
         }
+      ],
+      "merksatz": "Rechtskraft bindet die Parteien, § 31 I alle Staatsorgane samt tragender Gründe, § 31 II mit Gesetzeskraft jedermann.",
+      "norms": [
+        "Art. 94 Abs. 4 S. 1 GG",
+        "Art. 94 Abs. 4 S. 2 GG",
+        "§ 31 Abs. 1 BVerfGG",
+        "§ 31 Abs. 2 BVerfGG",
+        "Art. 94 Abs. 1 Nr. 2 GG",
+        "Art. 100 Abs. 1 GG",
+        "Art. 100 Abs. 2 GG",
+        "Art. 126 GG",
+        "Art. 94 Abs. 1 Nr. 4a GG"
       ]
     }
   ],
@@ -967,6 +1045,459 @@
           "page": 7
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das BVerfG gliedert sich in {{1}} Senate mit je {{2}} Richtern. Die Amtszeit beträgt {{3}} Jahre, längstens bis zur Vollendung des 68. Lebensjahres.",
+      "blanks": [
+        [
+          "zwei",
+          "2"
+        ],
+        [
+          "acht",
+          "8"
+        ],
+        [
+          "zwölf",
+          "12"
+        ]
+      ],
+      "explanation": "Art. 93 II, III GG n.F. (seit 28.12.2024); Kammern bestehen aus drei, das Plenum aus allen 16 Richtern.",
+      "hints": [
+        "Das Plenum hat 16 Mitglieder.",
+        "Die Amtszeit ist länger als zwei Legislaturperioden."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 12
+        },
+        {
+          "doc": "VR_3",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Grundgesetznorm (Fassung seit 2024) ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "Art. 93 I GG",
+          "BVerfG als selbständiger, unabhängiger Gerichtshof – Verfassungsorgan"
+        ],
+        [
+          "Art. 93 IV GG",
+          "Geschäftsordnungsautonomie"
+        ],
+        [
+          "Art. 93 V GG",
+          "Bundesgesetz regelt Verfassung und Verfahren des Gerichts"
+        ],
+        [
+          "Art. 94 III GG",
+          "Weitere Zuständigkeiten durch Bundesgesetz"
+        ],
+        [
+          "Art. 94 IV 2 GG",
+          "Bundesgesetz bestimmt, wann Entscheidungen Gesetzeskraft haben"
+        ]
+      ],
+      "explanation": "Seit der Reform stehen Organisation in Art. 93 GG und Zuständigkeiten sowie Entscheidungswirkungen in Art. 94 GG.",
+      "hints": [
+        "Art. 93 = Organisation, Art. 94 = Zuständigkeiten und Wirkungen."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 8
+        },
+        {
+          "doc": "VR_3",
+          "page": 10
+        },
+        {
+          "doc": "VR_3",
+          "page": 17
+        },
+        {
+          "doc": "VR_3",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Landtagsabgeordnete L wird zur Richterin am BVerfG gewählt und ernannt. Was gilt für ihr Landtagsmandat?",
+      "options": [
+        "Sie scheidet mit der Ernennung aus dem Landtag aus.",
+        "Sie darf das Mandat ruhen lassen und nach der Amtszeit fortführen.",
+        "Sie darf beides ausüben, weil nur Bundesorgane inkompatibel sind.",
+        "Sie muss sich zwischen Mandat und Richteramt erst nach Ablauf eines Jahres entscheiden."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Verfassungsrichter dürfen keinem Verfassungsorgan des Bundes oder eines Landes angehören (Art. 93 II 2 GG); mit der Ernennung scheiden sie aus diesem Organ aus (§ 3 III 2 BVerfGG).",
+      "hints": [
+        "Die Inkompatibilität erfasst auch „entsprechende Organe eines Landes“."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Ein Richter am BVerfG darf neben seinem Amt als Hochschullehrer tätig sein.",
+      "answer": true,
+      "explanation": "Andere berufliche Tätigkeiten sind ausgeschlossen, mit Ausnahme der Tätigkeit als Hochschullehrer (§ 3 IV BVerfGG).",
+      "hints": [
+        "Es gibt genau eine Ausnahme vom Berufsverbot."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie den Einstieg in eine Verfahrensprüfung vor dem BVerfG in die richtige Reihenfolge.",
+      "items": [
+        "Zuständigkeitseröffnende Norm des GG (z.B. Art. 94 I Nr. 4a GG)",
+        "Passende Nummer des § 13 BVerfGG",
+        "Besondere Verfahrensvorschriften aus dem III. Teil des BVerfGG (z.B. §§ 90 ff.)",
+        "Prüfung der einzelnen Zulässigkeitsvoraussetzungen",
+        "Begründetheit"
+      ],
+      "explanation": "Am Beginn der Zulässigkeit steht die Normenkette (GG – § 13 BVerfGG – Spezialvorschriften); danach folgen die Zulässigkeitsvoraussetzungen und als Hauptteil die Begründetheit.",
+      "hints": [
+        "Vom Grundgesetz zum einfachen Gesetz.",
+        "Die Begründetheit ist der Hauptteil – und kommt zuletzt."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 17
+        },
+        {
+          "doc": "VR_3",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Was folgt aus der Stellung des BVerfG als Verfassungsorgan? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Es untersteht keiner Dienstaufsicht eines Ministeriums.",
+        "Es verwaltet sich selbst und hat Haushalts- und Personalhoheit.",
+        "Es hat Geschäftsordnungsautonomie (Art. 93 IV GG).",
+        "Es ist in Personalfragen an Weisungen des Bundesjustizministeriums gebunden."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Als Verfassungsorgan steht das BVerfG auf einer Ebene mit Bundestag, Bundesrat, Bundespräsident und Bundesregierung; eine Ministerialaufsicht wäre damit unvereinbar.",
+      "hints": [
+        "Ein Verfassungsorgan ist niemandem nachgeordnet."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Die Richter jedes Senats werden je zur Hälfte vom Bundestag und vom {{1}} gewählt (Art. 93 II 2 GG). Der Bundesrat wählt im Plenum mit einer Mehrheit von {{2}} (§ 7 BVerfGG). Seit 2015 wählt im Bundestag das {{3}}, der Wahlausschuss macht nur noch einen Vorschlag.",
+      "blanks": [
+        [
+          "Bundesrat"
+        ],
+        [
+          "zwei Dritteln",
+          "2/3",
+          "zwei Drittel",
+          "Zweidrittel"
+        ],
+        [
+          "Plenum"
+        ]
+      ],
+      "explanation": "Die frühere indirekte Wahl durch den Wahlausschuss wurde 2015 abgeschafft (§ 6 I 1 BVerfGG n.F.).",
+      "hints": [
+        "Zwei Wahlorgane – beide Verfassungsorgane.",
+        "Die Mehrheit ist dieselbe wie bei einer Verfassungsänderung."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 13
+        },
+        {
+          "doc": "VR_3",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Auf die Verfassungsbeschwerde des V erklärt das BVerfG § X eines Bundesgesetzes für nichtig. Behörde B möchte § X in einem anderen Verfahren gegenüber D weiter anwenden, weil D am Verfahren vor dem BVerfG nicht beteiligt war. Zu Recht?",
+      "modelAnswer": "Nein. Die materielle Rechtskraft wirkt zwar nur inter partes. Die Entscheidung hat aber nach Art. 94 IV 1 GG, § 31 I BVerfGG Bindungswirkung für alle Gerichte und Behörden (Tenor und tragende Gründe); B muss das für verfassungswidrig Erklärte unterlassen. Zudem hat die Entscheidung Gesetzeskraft nach § 31 II 2 BVerfGG, weil das BVerfG im Verfassungsbeschwerdeverfahren ein Gesetz für nichtig erklärt hat; der Tenor wirkt damit erga omnes. B darf § X nicht anwenden.",
+      "rubric": [
+        "materielle Rechtskraft nur inter partes",
+        "Bindungswirkung § 31 I BVerfGG erfasst Behörden",
+        "Gesetzeskraft § 31 II 2 BVerfGG bei Nichtigerklärung eines Gesetzes in der Verfassungsbeschwerde",
+        "Ergebnis: keine Anwendung gegenüber D"
+      ],
+      "explanation": "Siehe Musterlösung; anders wäre es, wenn die Verfassungsbeschwerde als unzulässig verworfen worden wäre (keine Sachaussage).",
+      "hints": [
+        "Wen bindet § 31 I BVerfGG?",
+        "Wann hat eine Entscheidung über eine Verfassungsbeschwerde Gesetzeskraft?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 56
+        },
+        {
+          "doc": "VR_3",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Nach dem Skript ist eine Verfassungsgerichtsbarkeit zwingende Voraussetzung (conditio sine qua non) jedes Rechtsstaats.",
+      "answer": false,
+      "explanation": "Sie wird oft als „Krönung des Rechtsstaats“ bezeichnet, ist aber keine conditio sine qua non: Es gibt anerkannte Rechtsstaaten ohne Verfassungsgerichtsbarkeit, z.B. die Niederlande und Großbritannien.",
+      "hints": [
+        "Denken Sie an die Beispiele aus den Nachbarländern."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Eine knappe Bundestagsmehrheit will die Amtszeit der Verfassungsrichter durch einfaches Bundesgesetz auf sechs Jahre verkürzen. Ist das nach heutiger Rechtslage möglich?",
+      "options": [
+        "Nein, die Amtszeit steht seit der Reform 2024 in Art. 93 III GG und ist nur mit verfassungsändernder Zweidrittelmehrheit änderbar.",
+        "Ja, die Amtszeit ist allein im BVerfGG geregelt.",
+        "Ja, wenn der Bundesrat zustimmt.",
+        "Nein, weil das BVerfG selbst über seine Amtszeit entscheidet."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Reform vom 20.12.2024 hat Senate, Richterzahl, Amtszeit und Geschäftsordnung ins GG übernommen und damit dem einfachen Gesetzgeber entzogen – das stärkt die Unabhängigkeit.",
+      "hints": [
+        "Wo steht die Amtszeit seit 2024?"
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 11
+        },
+        {
+          "doc": "VR_3",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Nennen Sie je zwei Argumente gegen und für die Verfassungsmäßigkeit der früheren indirekten Wahl der Bundestags-Richter durch den Wahlausschuss.",
+      "modelAnswer": "Dagegen: (1) Art. 93 II 2 GG (früher Art. 94 I 2 GG a.F.) spricht von Wahl „durch den Bundestag“, also das Plenum; anders als in Art. 45, 95 II GG ist kein Ausschuss vorgesehen. (2) Die Mitwirkungsrechte der übrigen Abgeordneten aus Art. 38 I 2 GG werden beeinträchtigt; zudem fehlt funktionsadäquate Legitimation. Dafür: (1) Der Wortlaut verlangt anders als Art. 28 I 2, 38 I 1 GG keine unmittelbare Wahl und ist offen für eine gesetzliche Ausgestaltung. (2) Auch der Bundesrat ist nur mittelbar legitimiert; das GG verlangt also keine Legitimation durch ein direkt gewähltes Parlament. Das BVerfG (BVerfGE 131, 230) hielt die indirekte Wahl unter vier Voraussetzungen für zulässig.",
+      "rubric": [
+        "Wortlaut „durch den Bundestag“ / Vergleich Art. 45, 95 II GG",
+        "Art. 38 I 2 GG Mitwirkungsrechte",
+        "offener Wortlaut, keine unmittelbare Wahl verlangt",
+        "Vergleich mit mittelbar legitimiertem Bundesrat"
+      ],
+      "explanation": "Seit 2015 wählt ohnehin das Plenum; der Streit ist aber ein gutes Beispiel für Wortlaut- und systematische Argumentation.",
+      "hints": [
+        "Ein Argument kommt aus dem Wortlaut, eines aus Art. 38 I 2 GG.",
+        "Vergleichen Sie mit der Legitimation des Bundesrates."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 13
+        },
+        {
+          "doc": "VR_3",
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Seine abweichende Meinung kann ein Richter in einem {{1}} niederlegen (§ 30 II BVerfGG). Seit 2024 regelt Art. {{2}} GG die Zuständigkeiten des BVerfG und Art. {{3}} GG seine Organisation.",
+      "blanks": [
+        [
+          "Sondervotum"
+        ],
+        [
+          "94"
+        ],
+        [
+          "93"
+        ]
+      ],
+      "explanation": "Mit der Reform wurde die Reihenfolge von Art. 93 und 94 GG getauscht; ältere Literatur zitiert die Verfahrensarten noch nach Art. 93 I GG a.F.",
+      "hints": [
+        "Die Reihenfolge der beiden Artikel wurde getauscht."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 11
+        },
+        {
+          "doc": "VR_3",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welches Gericht entschied unter der Weimarer Reichsverfassung im Wesentlichen nur über Verfassungsstreitigkeiten innerhalb der Länder, die Ministeranklage und föderale Streitigkeiten?",
+      "options": [
+        "der Staatsgerichtshof für das Deutsche Reich",
+        "das Reichsgericht in Strafsachen",
+        "der Bundesgerichtshof",
+        "der Gemeinsame Senat der obersten Gerichtshöfe"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die Zuständigkeiten des BVerfG sollten gegenüber diesem Staatsgerichtshof wesentlich erweitert werden.",
+      "hints": [
+        "Der Name enthält das Wort „Staat“."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Ordnen Sie die Entscheidungswirkung ihrer Reichweite zu.",
+      "pairs": [
+        [
+          "formelle Rechtskraft",
+          "Entscheidung ist unanfechtbar und endgültig"
+        ],
+        [
+          "materielle Rechtskraft",
+          "nur zwischen den Beteiligten und für denselben Streitgegenstand"
+        ],
+        [
+          "Bindungswirkung (§ 31 I BVerfGG)",
+          "Verfassungsorgane, Gerichte und Behörden; Tenor und tragende Gründe"
+        ],
+        [
+          "Gesetzeskraft (§ 31 II BVerfGG)",
+          "allgemeinverbindlich gegenüber jedermann (erga omnes)"
+        ]
+      ],
+      "explanation": "Die Wirkungen bauen aufeinander auf: Rechtskraft (inter partes), Bindungswirkung (Staatsorgane, auch tragende Gründe, nicht das BVerfG selbst) und Gesetzeskraft (erga omnes, nur Tenor, nur in bestimmten Verfahren).",
+      "hints": [
+        "Je weiter unten in der Liste, desto größer der Adressatenkreis."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 56
+        },
+        {
+          "doc": "VR_3",
+          "page": 57
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "In einem älteren Lehrbuch wird die Verfassungsbeschwerde auf „Art. 93 I Nr. 4a GG“ gestützt. Wie zitieren Sie heute in der Klausur?",
+      "options": [
+        "Art. 94 I Nr. 4a GG",
+        "Art. 93 I Nr. 4a GG",
+        "Art. 100 I GG",
+        "Art. 19 IV GG"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Seit dem 28.12.2024 stehen die Zuständigkeiten in Art. 94 GG n.F.; das Skript arbeitet durchgehend mit dieser Zählung.",
+      "hints": [
+        "Die Artikel 93 und 94 wurden getauscht."
+      ],
+      "src": [
+        {
+          "doc": "VR_3",
+          "page": 11
+        }
+      ]
     }
   ],
   "case": {
@@ -1192,6 +1723,64 @@
           "page": 57
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "Art. 92 GG",
+      "inhalt": "Rechtsprechende Gewalt liegt auch beim Bundesverfassungsgericht."
+    },
+    {
+      "norm": "Art. 93 Abs. 1 GG",
+      "inhalt": "BVerfG ist selbständiger, unabhängiger Gerichtshof des Bundes – Verfassungsorgan."
+    },
+    {
+      "norm": "Art. 93 Abs. 2 GG",
+      "inhalt": "Zwei Senate mit je acht Richtern, je zur Hälfte von Bundestag und Bundesrat gewählt; Inkompatibilität; Ersatzwahl."
+    },
+    {
+      "norm": "Art. 93 Abs. 3 GG",
+      "inhalt": "Amtszeit zwölf Jahre, längstens bis 68; keine Wiederwahl."
+    },
+    {
+      "norm": "Art. 93 Abs. 5 GG",
+      "inhalt": "Ein Bundesgesetz (BVerfGG) regelt Verfassung und Verfahren des Gerichts."
+    },
+    {
+      "norm": "§ 3 BVerfGG",
+      "inhalt": "Wählbarkeitsvoraussetzungen (40 Jahre, Bundestagswählbarkeit, Befähigung zum Richteramt) und Inkompatibilitäten."
+    },
+    {
+      "norm": "§§ 6, 7, 7a BVerfGG",
+      "inhalt": "Wahl durch Bundestag und Bundesrat mit Zweidrittelmehrheit; Vorschlagsrecht des BVerfG und Ersatzwahl bei Blockade."
+    },
+    {
+      "norm": "Art. 94 Abs. 1 GG",
+      "inhalt": "Abschließender Katalog der wichtigsten Zuständigkeiten (Organstreit, Normenkontrolle, Bund-Länder-Streit, Verfassungsbeschwerde)."
+    },
+    {
+      "norm": "Art. 94 Abs. 3 GG",
+      "inhalt": "Weitere Zuständigkeiten nur durch Bundesgesetz."
+    },
+    {
+      "norm": "§ 13 BVerfGG",
+      "inhalt": "Gesamtüberblick über alle Verfahrensarten – Teil jeder Normenkette."
+    },
+    {
+      "norm": "§ 25 Abs. 2 BVerfGG",
+      "inhalt": "Urteil nach mündlicher Verhandlung, sonst Beschluss."
+    },
+    {
+      "norm": "§ 30 Abs. 2 BVerfGG",
+      "inhalt": "Sondervotum eines Richters."
+    },
+    {
+      "norm": "Art. 94 Abs. 4 S. 1 GG, § 31 Abs. 1 BVerfGG",
+      "inhalt": "Bindungswirkung für Verfassungsorgane, Gerichte und Behörden."
+    },
+    {
+      "norm": "Art. 94 Abs. 4 S. 2 GG, § 31 Abs. 2 BVerfGG",
+      "inhalt": "Gesetzeskraft (erga omnes) in Normenkontroll- und bestimmten Verfassungsbeschwerdeverfahren."
     }
   ]
 }
