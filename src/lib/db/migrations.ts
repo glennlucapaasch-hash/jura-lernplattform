@@ -242,4 +242,15 @@ ALTER TABLE documents ADD COLUMN doc_key TEXT;          -- canonical reference u
 CREATE INDEX documents_key ON documents(doc_key);
 `,
   },
+  {
+    version: 4,
+    sql: `
+CREATE TABLE lesson_reads (
+  lesson_id TEXT NOT NULL,
+  section_id TEXT NOT NULL,
+  read_at TEXT NOT NULL,
+  PRIMARY KEY (lesson_id, section_id)
+);
+`,
+  },
 ];

@@ -110,40 +110,63 @@ export function useSpeech() {
 
 type Recognition = {
   lang: string; interimResults: boolean; continuous: boolean;
-  onresult: (e: { results: ArrayLike<ArrayLike<{ transcript: string }> & { isFinal: boolean }> }) => void;
-  onend: () => void; onerror: (e: { error: string }) => void; start: () => void; stop: () => void;
+  onresult: (e: { resultIndex: number; results: ArrayLike<ArrayLike<{ transcript: string }> & { isFinal: boolean }> }) => void;
+  onend: () => void; onerror: (e: { error: string }) => void; start: () => void; stop: () => void; abort?: () => void;
 };
 
-/** Speech input (dictation) via the Web Speech API (Safari 14.1+, Chrome). */
+const DICTATION_ERRORS: Record<string, string> = {
+  "not-allowed": "Mikrofonzugriff wurde nicht erlaubt. Bitte im Browser erlauben (Adresszeile → Mikrofon).",
+  "service-not-allowed": "Spracheingabe ist in diesem Browser nicht erlaubt. Tipp: die Diktiertaste der Tastatur verwenden.",
+  "no-speech": "Nichts gehört – bitte noch einmal versuchen.",
+  "audio-capture": "Kein Mikrofon gefunden.",
+  network: "Spracheingabe braucht eine Internetverbindung.",
+};
+
+/**
+ * Speech input (dictation) via the Web Speech API (Safari 14.1+, Chrome, Edge).
+ * Robust: only new final results are passed on, errors never escape, recognition is aborted on unmount.
+ */
 export function useDictation(onText: (text: string) => void) {
   const [supported, setSupported] = useState(false);
   const [listening, setListening] = useState(false);
   const [error, setError] = useState("");
   const rec = useRef<Recognition | null>(null);
+  const cb = useRef(onText);
+  useEffect(() => { cb.current = onText; }, [onText]);
   useEffect(() => {
     const W = window as unknown as { SpeechRecognition?: new () => Recognition; webkitSpeechRecognition?: new () => Recognition };
-    setSupported(!!(W.SpeechRecognition || W.webkitSpeechRecognition));
+    setSupported(!!(W.SpeechRecognition || W.webkitSpeechRecognition) && window.isSecureContext);
+    return () => { try { rec.current?.abort?.(); } catch {} };
   }, []);
   const start = () => {
-    const W = window as unknown as { SpeechRecognition?: new () => Recognition; webkitSpeechRecognition?: new () => Recognition };
-    const C = W.SpeechRecognition || W.webkitSpeechRecognition;
-    if (!C) return;
-    const r = new C();
-    r.lang = "de-DE";
-    r.interimResults = false;
-    r.continuous = true;
-    r.onresult = (e) => {
-      let t = "";
-      for (let i = 0; i < e.results.length; i++) if (e.results[i].isFinal) t += e.results[i][0].transcript;
-      if (t) onText(t.trim());
-    };
-    r.onend = () => setListening(false);
-    r.onerror = (e) => { setError(e.error === "not-allowed" ? "Mikrofonzugriff wurde nicht erlaubt." : "Spracheingabe nicht verfügbar."); setListening(false); };
-    rec.current = r;
-    setError("");
-    r.start();
-    setListening(true);
+    try {
+      const W = window as unknown as { SpeechRecognition?: new () => Recognition; webkitSpeechRecognition?: new () => Recognition };
+      const C = W.SpeechRecognition || W.webkitSpeechRecognition;
+      if (!C) return;
+      try { rec.current?.abort?.(); } catch {}
+      const r = new C();
+      const ios = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+      r.lang = "de-DE";
+      r.interimResults = false;
+      r.continuous = !ios; // iOS Safari is unstable in continuous mode
+      r.onresult = (e) => {
+        try {
+          let t = "";
+          for (let i = e.resultIndex ?? 0; i < e.results.length; i++) if (e.results[i].isFinal) t += e.results[i][0].transcript;
+          if (t.trim()) cb.current(t.trim());
+        } catch {}
+      };
+      r.onend = () => setListening(false);
+      r.onerror = (e) => { setError(DICTATION_ERRORS[e.error] ?? "Spracheingabe nicht verfügbar."); setListening(false); };
+      rec.current = r;
+      setError("");
+      r.start();
+      setListening(true);
+    } catch {
+      setError("Spracheingabe konnte nicht gestartet werden. Tipp: die Diktiertaste der Tastatur verwenden.");
+      setListening(false);
+    }
   };
-  const stop = () => { rec.current?.stop(); setListening(false); };
+  const stop = () => { try { rec.current?.stop(); } catch {} setListening(false); };
   return { supported, listening, error, start, stop };
 }

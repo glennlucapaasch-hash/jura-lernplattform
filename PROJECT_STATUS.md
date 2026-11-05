@@ -39,3 +39,9 @@ Stand: 05.11.2026
 - Lernplan verteilt die Tage fair auf alle Module (Anteil nach Stoffumfang bis zur jeweils letzten Prüfung) statt ein Modul nach dem anderen
 - Einsendeaufgaben-Begleiter, AG- und Online-Lektionstermine, Anmeldezeitraum, MC-Klausurtraining Propädeutikum, Vertiefungen aus Begleitmaterial
 - Schuldrecht AT (55103) entfernt
+- Navigation in Gruppen (Heute & Planung · Fächer · Üben · Mehr) mit farbigen Direktlinks zu BGB (blau), Verfassungsrecht (rot) und Propädeutikum (grün)
+- Lesestand je Abschnitt (automatisch nach den Häppchen oder per Klick), Quiz-Status je Frage (grün/rot), Statuszeichen je Abschnitt auf der Fachseite
+- Quiz in Lerneinheiten mit „Zurück/Weiter“ und „Zu offenen Fragen“; Reiter-Navigation „Weiter: …“ am Seitenende
+- Merksatz und „Im Gesetz lesen“ (Links zu gesetze-im-internet.de) je Abschnitt; Reiter „Gesetze“ und Gesetzesliste je Fach
+- Leitfaden Kurzhausarbeit BGB (Vorbereitung bis Februar, 11-Tage-Plan, Tipps)
+- Diktieren stabilisiert (keine doppelten Texte, Fehler werden angezeigt statt abzustürzen), Fehlerseite statt Absturz

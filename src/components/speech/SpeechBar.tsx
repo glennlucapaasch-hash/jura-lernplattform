@@ -44,9 +44,12 @@ export function DictateButton({ onText }: { onText: (t: string) => void }) {
   const d = useDictation(onText);
   if (!d.supported) return null;
   return (
-    <button type="button" onClick={d.listening ? d.stop : d.start} title={d.error || "Spracheingabe"}
-      className={cx("inline-flex h-10 items-center gap-1.5 rounded-xl px-3 text-sm", d.listening ? "bg-bad-soft text-bad" : "bg-brand-50 text-brand-700 hover:bg-brand-100")}>
-      {d.listening ? <MicOff size={16} /> : <Mic size={16} />} {d.listening ? "Stopp" : "Diktieren"}
-    </button>
+    <span className="inline-flex flex-col">
+      <button type="button" onClick={d.listening ? d.stop : d.start} title={d.error || "Spracheingabe"}
+        className={cx("inline-flex h-10 items-center gap-1.5 rounded-xl px-3 text-sm", d.listening ? "animate-pulse bg-bad-soft text-bad" : "bg-brand-50 text-brand-700 hover:bg-brand-100")}>
+        {d.listening ? <MicOff size={16} /> : <Mic size={16} />} {d.listening ? "Stopp – ich höre zu" : "Diktieren"}
+      </button>
+      {d.error && <span className="mt-1 max-w-64 text-xs text-bad">{d.error}</span>}
+    </span>
   );
 }

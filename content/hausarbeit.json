@@ -1,0 +1,41 @@
+{
+ "id": "ha-55101",
+ "title": "Kurzhausarbeit BGB AT (55101)",
+ "period": { "start": "2027-02-05", "end": "2027-02-15" },
+ "facts": [
+  "Bearbeitungszeitraum 05.–15.02.2027 (bestätigt).",
+  "Prüfungsanmeldung über das Prüfungsportal POS. Laut FAQ informiert die FernUni im Wintersemester Mitte Dezember per E-Mail über Prüfungsformen und Modalitäten.",
+  "Die verbindlichen Formvorgaben stehen im Sachverhalt bzw. Bearbeitervermerk der Kurzhausarbeit – sie gehen allen Tipps hier vor.",
+  "Im Moodle-Prüfungsbereich findest du Besprechungen und eine Beispiel-Kurzhausarbeit aus früheren Semestern – ideal zur Vorbereitung.",
+  "Ergebnisse kommen meist bis Anfang Mai (Ende der Nachbelegungsfrist im WS)."
+ ],
+ "prep": [
+  { "id": "p-lektion", "label": "Online-Lektion Propädeutikum „Juristische Literatur, Zitation und Recherche“ (09.11.) mitmachen bzw. Aufzeichnung ansehen", "by": "2026-11-15", "lesson": "prop-juristisch-lesen-fallbearbeitung" },
+  { "id": "p-zitieren", "label": "Normen und Quellen richtig zitieren üben", "by": "2026-12-01", "lesson": "prop-normzitation-gutachtenebenen" },
+  { "id": "p-meinung", "label": "Meinungsstreit im Gutachten darstellen können", "by": "2026-12-20", "lesson": "prop-meinungsstreit" },
+  { "id": "p-anmeldung", "label": "E-Mail der FernUni (Mitte Dezember) lesen und Prüfungsanmeldung über POS erledigen", "by": "2026-12-31" },
+  { "id": "p-zugang", "label": "VPN der FernUni einrichten; Zugang zu juris und beck-online testen; wichtigste Lehrbücher und Kommentare als Lesezeichen speichern", "by": "2027-01-15" },
+  { "id": "p-muster", "label": "Beispiel-Kurzhausarbeit und Besprechungen aus dem Moodle-Prüfungsbereich durchsehen", "by": "2027-01-20" },
+  { "id": "p-vorlage", "label": "Formatvorlage vorbereiten: Deckblatt, Gliederung, Literaturverzeichnis, Zeilenabstand/Zeilenzahl, Schrift, Ränder – nach den Vorgaben der letzten HA (Klausurenpool-Sachverhalte)", "by": "2027-01-31" },
+  { "id": "p-zeit", "label": "Zeit für 05.–15.02. freihalten (ggf. Urlaub einplanen)", "by": "2027-01-31" }
+ ],
+ "during": [
+  { "id": "d1", "day": 1, "label": "Sachverhalt mehrmals lesen, Fallfrage markieren, Personen- und Zeitskizze", "lesson": "prop-sachverhalt" },
+  { "id": "d2", "day": 2, "label": "Lösungsskizze: Anspruchsgrundlagen, Prüfungsreihenfolge, Probleme und Schwerpunkte", "lesson": "prop-gutachtentechnik" },
+  { "id": "d3", "day": 3, "label": "Recherche: Lehrbuch, Kommentar, Rechtsprechung zu den Problemen; Fundstellen sofort notieren" },
+  { "id": "d4", "day": 4, "label": "Meinungsstreite nur dort ausarbeiten, wo sie für das Ergebnis erheblich sind", "lesson": "prop-meinungsstreit" },
+  { "id": "d5", "day": 5, "label": "Gutachten schreiben – Teil 1 (Obersatz, Definition, Subsumtion, Ergebnis)" },
+  { "id": "d7", "day": 7, "label": "Gutachten schreiben – Teil 2, Hilfsgutachten falls nötig" },
+  { "id": "d9", "day": 9, "label": "Überarbeiten: Schwerpunkte, Gutachtenstil, alle Sachverhaltsangaben verwertet, Ergebnis passt zum Obersatz" },
+  { "id": "d10", "day": 10, "label": "Fußnoten, Literaturverzeichnis, Gliederung mit Text abgleichen, Formalia prüfen", "lesson": "prop-normzitation-gutachtenebenen" },
+  { "id": "d11", "day": 11, "label": "PDF erstellen, Vollständigkeit prüfen, fristgerecht abgeben" }
+ ],
+ "tips": [
+  "Schwerpunkte setzen: Unproblematisches kurz im Feststellungsstil, Probleme ausführlich – zu breite Ausführungen wirken sich negativ aus.",
+  "Jede Sachverhaltsangabe hat eine Funktion – wenn du eine nicht verwendet hast, prüfe, ob du ein Problem übersehen hast.",
+  "Fremde Ansichten, Definitionen aus Literatur und Rechtsprechung belegen (anders als in der Einsendeaufgabe!).",
+  "Normen immer genau zitieren (Abs., S., Nr., Alt.).",
+  "Die Korrektur deiner Einsendeaufgaben ist die beste Vorbereitung: Anmerkungen umsetzen."
+ ],
+ "lessons": ["bgb-ke1-gutachten-privatautonomie", "prop-gutachtentechnik", "prop-meinungsstreit", "prop-normzitation-gutachtenebenen", "prop-juristisch-lesen-fallbearbeitung"]
+}

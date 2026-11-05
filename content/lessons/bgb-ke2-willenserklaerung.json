@@ -26,6 +26,15 @@
           "doc": "BGB_2",
           "page": 7
         }
+      ],
+      "merksatz": "Kein Rechtsgeschäft ohne Willenserklärung: Innerer Wille plus Kundgabe – gedacht ist noch nicht erklärt.",
+      "norms": [
+        "§ 125 BGB",
+        "§ 134 BGB",
+        "§ 138 BGB",
+        "§ 28 Abs. 1 BGB",
+        "§ 32 Abs. 1 BGB",
+        "§ 929 S. 1 BGB"
       ]
     },
     {
@@ -62,6 +71,23 @@
           "doc": "BGB_2",
           "page": 14
         }
+      ],
+      "merksatz": "Ob Bindung gewollt ist, entscheidet der Empfängerhorizont – Gefälligkeit verpflichtet nicht zur Leistung, Delikt haftet trotzdem.",
+      "norms": [
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 242 BGB",
+        "§ 516 BGB",
+        "§ 598 BGB",
+        "§ 662 BGB",
+        "§ 812 BGB",
+        "§ 241 Abs. 2 BGB",
+        "§ 280 Abs. 1 BGB",
+        "§ 823 Abs. 1 BGB",
+        "§ 521 BGB",
+        "§ 599 BGB",
+        "§ 680 BGB",
+        "§ 690 BGB"
       ]
     },
     {
@@ -98,6 +124,14 @@
           "doc": "BGB_2",
           "page": 25
         }
+      ],
+      "merksatz": "Handlungswille muss sein, Erklärungsbewusstsein darf potentiell sein, Geschäftswille fehlt? Dann wirksam, aber anfechtbar.",
+      "norms": [
+        "§ 123 BGB",
+        "§ 118 BGB",
+        "§ 119 Abs. 1 BGB",
+        "§ 122 Abs. 1 BGB",
+        "§ 765 Abs. 1 BGB"
       ]
     },
     {
@@ -122,6 +156,19 @@
           "doc": "BGB_2",
           "page": 22
         }
+      ],
+      "merksatz": "Heimlich nicht gewollt gilt trotzdem (§ 116 S. 1); gemeinsam nur zum Schein ist nichtig – das Verdeckte zählt (§ 117).",
+      "norms": [
+        "§ 116 S. 1 BGB",
+        "§ 116 S. 2 BGB",
+        "§ 117 Abs. 1 BGB",
+        "§ 117 Abs. 2 BGB",
+        "§ 142 Abs. 1 BGB",
+        "§ 125 BGB",
+        "§ 311b Abs. 1 BGB",
+        "§ 134 BGB",
+        "§ 138 Abs. 1 BGB",
+        "§ 817 S. 2 BGB"
       ]
     },
     {
@@ -146,6 +193,16 @@
           "doc": "BGB_2",
           "page": 25
         }
+      ],
+      "merksatz": "Scherz ist nichtig, kostet aber Vertrauensschaden; wer hätte merken können, wird festgehalten und darf analog § 119 anfechten.",
+      "norms": [
+        "§ 118 BGB",
+        "§ 122 Abs. 1 BGB",
+        "§ 122 Abs. 2 BGB",
+        "§ 119 Abs. 1 BGB",
+        "§ 121 BGB",
+        "§ 142 BGB",
+        "§ 143 BGB"
       ]
     },
     {
@@ -170,7 +227,9 @@
           "doc": "BGB_2",
           "page": 28
         }
-      ]
+      ],
+      "merksatz": "Der Computer ist Werkzeug: Wer die Regel einstellt, erklärt – eine Willenserklärung der KI selbst gibt es nicht.",
+      "norms": []
     }
   ],
   "definitions": [
@@ -901,6 +960,450 @@
           "page": 21
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das Rechtsgeschäft ist eine Rechtshandlung, deren erklärte Rechtsfolge nach der Rechtsordnung (nur) deshalb eintritt, weil sie {{1}} ist. Notwendiger Bestandteil ist mindestens {{2}} Willenserklärung.",
+      "blanks": [
+        [
+          "gewollt"
+        ],
+        [
+          "eine",
+          "1"
+        ]
+      ],
+      "explanation": "Das BGB definiert das Rechtsgeschäft nicht; die Definition stammt aus den Gesetzesmaterialien. Ohne Willenserklärung kein Rechtsgeschäft.",
+      "hints": [
+        "Der Wille ist der Grund der Rechtsfolge.",
+        "Ein einseitiges Rechtsgeschäft wie die Kündigung kommt mit wie vielen Erklärungen aus?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "mc-single",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "Welches der folgenden Rechtsgeschäfte ist nach dem Skript ein einseitiges Rechtsgeschäft?",
+      "options": [
+        "Die Kündigung des Mietvertrages durch den Mieter",
+        "Der Kaufvertrag über ein Fahrrad",
+        "Der Beschluss der Mitgliederversammlung eines Vereins",
+        "Die Einigung über den Eigentumsübergang nach § 929 S. 1 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Bei der Kündigung beruht die Rechtsfolge auf der Erklärung nur einer Person; sie beendet das Mietverhältnis ohne Einverständnis des Vermieters (Gestaltungsrecht). Verträge, Beschlüsse und die Einigung sind mehrseitig.",
+      "hints": [
+        "Wessen Zustimmung braucht der Mieter?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Beim alltäglichen Brötchenkauf („10 Brötchen bitte“, wortloses Einpacken, Bezahlen) liegt nur ein einziger Vertrag mit zwei Willenserklärungen vor.",
+      "answer": false,
+      "explanation": "Falsch. Wegen Trennungs- und Abstraktionsprinzip sind es drei Verträge mit sechs Willenserklärungen: Kaufvertrag, Übereignung der Brötchen und Übereignung des Geldes (jeweils § 929 S. 1 BGB, konkludent).",
+      "hints": [
+        "Denken Sie an Trennungs- und Abstraktionsprinzip.",
+        "Auch Brötchen und Geld wechseln den Eigentümer."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm der Person zu, deren Haftung sie nach dem Skript auf Vorsatz und grobe Fahrlässigkeit begrenzt – bzw. die keine Haftungsmilderung kennt.",
+      "pairs": [
+        [
+          "§ 521 BGB",
+          "Schenker"
+        ],
+        [
+          "§ 599 BGB",
+          "Verleiher"
+        ],
+        [
+          "§ 680 BGB",
+          "Geschäftsführer bei dringender Gefahrenabwehr (GoA)"
+        ],
+        [
+          "§ 690 BGB",
+          "Unentgeltlicher Verwahrer"
+        ],
+        [
+          "§ 662 BGB",
+          "Beauftragter – keine Haftungsmilderung"
+        ]
+      ],
+      "explanation": "Diese Normen sind der Ausgangspunkt für die Diskussion, ob bei bloßen Gefälligkeiten eine Haftungserleichterung analog gilt oder per ergänzender Vertragsauslegung (§ 242) im Einzelfall.",
+      "hints": [
+        "§ 598 ist die Leihe – die Haftungsnorm folgt kurz danach.",
+        "Das Auftragsrecht ist die Ausnahme."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 12
+        },
+        {
+          "doc": "BGB_2",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfungspunkte bei einer Gefälligkeit in die Reihenfolge des Skripts.",
+      "items": [
+        "Liegt Rechtsbindungswille vor (Gefälligkeitsvertrag oder bloße Gefälligkeit)?",
+        "Haftung: deliktisch (§§ 823 ff.) und ggf. aus Schutzpflichten (§§ 241 Abs. 2, 280 Abs. 1)",
+        "Gibt es eine Haftungserleichterung (Analogie zu §§ 521, 599, 690 oder ergänzende Auslegung)?"
+      ],
+      "explanation": "Erst klären, ob überhaupt ein Vertrag besteht; dann, worauf eine Haftung gestützt werden kann; zuletzt, ob sie gemildert ist.",
+      "hints": [
+        "Ohne Haftung keine Haftungserleichterung."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 10
+        },
+        {
+          "doc": "BGB_2",
+          "page": 11
+        },
+        {
+          "doc": "BGB_2",
+          "page": 12
+        },
+        {
+          "doc": "BGB_2",
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Potentielles Erklärungsbewusstsein liegt vor, wenn der Erklärende bei Anwendung der im Verkehr {{1}} hätte erkennen und {{2}} können, dass sein Verhalten nach Treu und Glauben und der Verkehrssitte als Willenserklärung aufgefasst werden durfte.",
+      "blanks": [
+        [
+          "erforderlichen Sorgfalt",
+          "erforderliche Sorgfalt"
+        ],
+        [
+          "vermeiden"
+        ]
+      ],
+      "explanation": "Das ist die Formel der Erklärungstheorie (Rechtsprechung, wohl h.M.). Wer so handelt, muss sich die Erklärung zurechnen lassen, kann aber anfechten.",
+      "hints": [
+        "Dasselbe Wort steht in § 276 Abs. 2 BGB bei der Fahrlässigkeit.",
+        "Erkennen und …?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Vermieter S überreicht Mieter M am 1. April lächelnd eine Kündigung. M nimmt sie ernst und gibt Wohnungsanzeigen für 80 € auf. Was gilt?",
+      "options": [
+        "Die Kündigung ist nach § 118 BGB nichtig; S muss M die Anzeigenkosten nach § 122 Abs. 1 BGB ersetzen.",
+        "Die Kündigung ist wirksam, weil M sie ernst nehmen durfte.",
+        "Die Kündigung ist nichtig; M trägt seine Kosten selbst.",
+        "Die Kündigung ist wirksam, S kann sie aber nach § 119 Abs. 1 BGB anfechten."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Die nicht ernstlich gemeinte Erklärung ist nach § 118 BGB nichtig, der Mietvertrag besteht fort. Wer auf die Gültigkeit vertraut hat, erhält nach § 122 Abs. 1 BGB den Vertrauensschaden.",
+      "hints": [
+        "Scherzerklärung.",
+        "Welche Norm schützt den, der auf die Erklärung vertraut hat?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "A stellt sein Auto auf einen deutlich beschilderten gebührenpflichtigen Parkplatz und ruft dem Wärter zu, er wolle keinen Vertrag schließen. Dieser Vorbehalt ist unerheblich.",
+      "answer": true,
+      "explanation": "Richtig. Das Bereitstellen ist ein Angebot ad incertas personas, das A durch Parken konkludent annimmt. Die gegenteilige Verwahrung (protestatio facto contraria) ist als widersprüchliches Verhalten nach § 242 BGB unbeachtlich.",
+      "hints": [
+        "Protestatio facto contraria.",
+        "Widersprüchliches Verhalten – welche Norm?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-multi",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "In welchen Fällen fehlt nach dem Skript der Handlungswille? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Bewegungen beim Schlafwandeln",
+        "Reflexbewegungen",
+        "Unmittelbare körperliche Überwältigung (vis absoluta)",
+        "Unterschrift unter Drohung mit Schlägen (vis compulsiva)"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Ohne Handlungswillen liegt keine Willenserklärung vor. Bei vis compulsiva wird der Wille dagegen betätigt; die Erklärung ist nach § 123 BGB anfechtbar.",
+      "hints": [
+        "Hat der Handelnde überhaupt selbst „gehandelt“?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 14
+        },
+        {
+          "doc": "BGB_2",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "G unterschreibt bei einem Vereinsfest ein ihm vorgelegtes Blatt in der Annahme, es sei eine Glückwunschkarte für den Vorsitzenden. Tatsächlich ist es ein Bestellschein über ein Zeitschriftenabo. Bei einem Blick auf das Blatt hätte G das erkennen können. Ist G gebunden, und was kann er tun?",
+      "modelAnswer": "Objektiv liegt eine Erklärung mit Rechtsbindungswillen vor, Handlungswille ist gegeben. G fehlt das aktuelle Erklärungsbewusstsein. Nach der Erklärungstheorie (h.M.) genügt potentielles Erklärungsbewusstsein: Bei verkehrserforderlicher Sorgfalt hätte G erkennen und vermeiden können, dass seine Unterschrift als Bestellung verstanden wird. Die Erklärung wird ihm daher zugerechnet und ist wirksam. G kann sie analog §§ 119 Abs. 1, 121, 142 f. BGB unverzüglich anfechten; dann ist sie von Anfang an nichtig, G haftet aber nach § 122 Abs. 1 BGB auf den Vertrauensschaden (außer der andere kannte den Mangel, § 122 Abs. 2).",
+      "rubric": [
+        "Objektiver Tatbestand und Handlungswille bejaht",
+        "Fehlendes aktuelles Erklärungsbewusstsein erkannt",
+        "Streit Willens-/Erklärungstheorie, potentielles Erklärungsbewusstsein",
+        "Zurechnung, Erklärung wirksam",
+        "Anfechtung analog §§ 119, 121, 142 f.",
+        "Vertrauensschaden § 122"
+      ],
+      "hints": [
+        "Das Skript nennt genau dieses Beispiel (Glückwunschschreiben).",
+        "Kein Irrtum im Sinne des § 119 – also direkte oder analoge Anwendung?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 15
+        },
+        {
+          "doc": "BGB_2",
+          "page": 16
+        },
+        {
+          "doc": "BGB_2",
+          "page": 24
+        },
+        {
+          "doc": "BGB_2",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was gilt nach h.M., wenn dem Erklärenden der Geschäftswille fehlt oder er von seiner Erklärung abweicht (z.B. Verschreiben beim Preis)?",
+      "options": [
+        "Die Erklärung ist wirksam, aber nach § 119 Abs. 1 BGB direkt anfechtbar.",
+        "Es liegt keine Willenserklärung vor.",
+        "Die Erklärung ist analog § 118 BGB nichtig.",
+        "Die Erklärung ist schwebend unwirksam."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Der Geschäftswille ist nicht konstitutiv. Sein Fehlen hindert die Willenserklärung nicht; § 119 Abs. 1 BGB erfasst diese Fälle direkt (Anfechtung nach §§ 119, 121 f., 142 f.).",
+      "hints": [
+        "Das BGB antwortet auf Abweichungen zwischen Wille und Erklärung mit einem Anfechtungsrecht."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 18
+        },
+        {
+          "doc": "BGB_2",
+          "page": 19
+        },
+        {
+          "doc": "BGB_2",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 3,
+      "prompt": "Erläutern Sie, welche Vorteile es für den Geschädigten hätte, wenn bei einer bloßen Gefälligkeit Schutzpflichten nach § 241 Abs. 2 BGB bestünden, und wie Rechtsprechung und Literatur dazu stehen.",
+      "modelAnswer": "Neben dem Deliktsrecht käme ein Schadensersatzanspruch aus § 280 Abs. 1 BGB in Betracht. Vorteile: Auch reine Vermögensschäden wären erfasst (nicht nur die Rechtsgüter des § 823 Abs. 1), das Verschulden würde nach § 280 Abs. 1 S. 2 BGB vermutet, und für Gehilfen würde nach § 278 BGB ohne Entlastungsmöglichkeit gehaftet (anders § 831). Ein Großteil des Schrifttums und die Rechtsprechung bejahen solche Schutzpflichten teilweise (Parallele zu Gefälligkeitsverträgen, „Vertrag ohne primäre Leistungspflichten“, geschäftsähnlicher Kontakt nach § 311 Abs. 2 Nr. 3); ob sie bestehen, ist eine Einzelfallentscheidung.",
+      "rubric": [
+        "Anspruch aus § 280 Abs. 1 i.V.m. § 241 Abs. 2 benannt",
+        "Reine Vermögensschäden",
+        "Verschuldensvermutung § 280 Abs. 1 S. 2",
+        "§ 278 statt § 831",
+        "Einzelfallentscheidung / Begründungsansätze"
+      ],
+      "hints": [
+        "Vergleichen Sie § 823 Abs. 1 mit § 280 Abs. 1.",
+        "Wer muss das Verschulden beweisen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die Elemente der Willenserklärung in die Prüfungsreihenfolge des Schaubilds.",
+      "items": [
+        "Objektiver Tatbestand: Erklärung mit Rechtsbindungswillen",
+        "Handlungswille",
+        "Erklärungsbewusstsein",
+        "Geschäftswille"
+      ],
+      "explanation": "Erst das Äußere (objektiver Tatbestand), dann das Innere vom Grundlegenden zum Speziellen: handeln wollen – überhaupt rechtlich erklären wollen – eine bestimmte Rechtsfolge wollen.",
+      "hints": [
+        "Außen vor innen.",
+        "Vom allgemeinen zum bestimmten Willen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A bietet B sein Motorrad für 2.000 € an, will es aber insgeheim gar nicht verkaufen. B hat das zufällig von A’s Bruder erfahren und erklärt trotzdem: „Angenommen!“ Wie ist die Rechtslage?",
+      "options": [
+        "A’s Erklärung ist nach § 116 S. 2 BGB nichtig; kein Vertrag.",
+        "Der Vorbehalt ist nach § 116 S. 1 BGB unbeachtlich; der Vertrag ist wirksam.",
+        "Es liegt ein Scheingeschäft nach § 117 Abs. 1 BGB vor.",
+        "A kann den wirksamen Vertrag nach § 119 Abs. 1 BGB anfechten."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Kennt der Empfänger den geheimen Vorbehalt, verdient er keinen Schutz: Die Erklärung ist nach § 116 S. 2 BGB nichtig. § 117 setzt ein Einverständnis beider voraus, bloße Kenntnis genügt nicht.",
+      "hints": [
+        "Kenntnis oder Einverständnis?",
+        "Lesen Sie § 116 Satz 2."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 20
+        },
+        {
+          "doc": "BGB_2",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Ist eine Erklärung nach § 118 BGB nichtig oder wird sie angefochten, muss der Erklärende den Schaden ersetzen, den der andere im Vertrauen auf die Gültigkeit erleidet (§ 122 Abs. {{1}} BGB, sog. {{2}} Interesse). Die Ersatzpflicht entfällt, wenn der Geschädigte den Grund der Nichtigkeit kannte oder kennen musste (§ 122 Abs. {{3}} BGB).",
+      "blanks": [
+        [
+          "1"
+        ],
+        [
+          "negatives"
+        ],
+        [
+          "2"
+        ]
+      ],
+      "explanation": "Der Empfänger bekommt nur das negative Interesse (Vertrauensschaden) – ein Argument gegen eine starre Bindung ohne Lösungsmöglichkeit bei fehlendem Erklärungsbewusstsein.",
+      "hints": [
+        "Vertrauensschaden = ?",
+        "Absatz 2 schützt den Erklärenden vor einem bösgläubigen Empfänger."
+      ],
+      "src": [
+        {
+          "doc": "BGB_2",
+          "page": 22
+        },
+        {
+          "doc": "BGB_2",
+          "page": 23
+        },
+        {
+          "doc": "BGB_2",
+          "page": 24
+        }
+      ]
     }
   ],
   "case": {
@@ -1136,6 +1639,60 @@
           "page": 26
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 929 S. 1 BGB",
+      "inhalt": "Übereignung beweglicher Sachen durch Einigung und Übergabe – Beispiel für Rechtsgeschäft aus WE und Realakt."
+    },
+    {
+      "norm": "§§ 133, 157 BGB",
+      "inhalt": "Auslegung von Erklärungen und Verträgen – maßgeblich für den Rechtsbindungswillen."
+    },
+    {
+      "norm": "§ 242 BGB",
+      "inhalt": "Treu und Glauben – u.a. Grund, warum protestatio facto contraria unbeachtlich ist."
+    },
+    {
+      "norm": "§ 662 BGB",
+      "inhalt": "Auftrag: unentgeltliche Geschäftsbesorgung, Abgrenzung zur bloßen Gefälligkeit."
+    },
+    {
+      "norm": "§ 241 Abs. 2 BGB",
+      "inhalt": "Rücksichts- und Schutzpflichten, bei Verletzung Schadensersatz über § 280 Abs. 1."
+    },
+    {
+      "norm": "§ 123 BGB",
+      "inhalt": "Anfechtung wegen Drohung (vis compulsiva) oder arglistiger Täuschung."
+    },
+    {
+      "norm": "§ 116 BGB",
+      "inhalt": "Geheimer Vorbehalt: unbeachtlich (S. 1), außer der Empfänger kennt ihn (S. 2)."
+    },
+    {
+      "norm": "§ 117 BGB",
+      "inhalt": "Scheingeschäft nichtig (Abs. 1); das verdeckte Geschäft gilt nach seinen Regeln (Abs. 2)."
+    },
+    {
+      "norm": "§ 118 BGB",
+      "inhalt": "Nicht ernstlich gemeinte Erklärung (Scherz) ist nichtig."
+    },
+    {
+      "norm": "§ 119 Abs. 1 BGB",
+      "inhalt": "Anfechtung bei Inhalts- oder Erklärungsirrtum; analog bei fehlendem Erklärungsbewusstsein."
+    },
+    {
+      "norm": "§ 121 BGB",
+      "inhalt": "Anfechtung muss unverzüglich, d.h. ohne schuldhaftes Zögern, erfolgen."
+    },
+    {
+      "norm": "§ 122 BGB",
+      "inhalt": "Ersatz des Vertrauensschadens nach § 118 oder Anfechtung; entfällt bei Kenntnis des Empfängers."
+    },
+    {
+      "norm": "§ 142 Abs. 1 BGB",
+      "inhalt": "Angefochtenes Rechtsgeschäft ist von Anfang an nichtig."
     }
   ]
 }

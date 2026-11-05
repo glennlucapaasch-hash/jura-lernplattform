@@ -31,6 +31,18 @@
           "doc": "BGB_1",
           "page": 21
         }
+      ],
+      "merksatz": "Erst die Frage, dann die Norm: Wer will was von wem woraus? – denken ja, ins Gutachten schreiben nein.",
+      "norms": [
+        "§ 194 Abs. 1 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§ 179 Abs. 1 BGB",
+        "§ 823 Abs. 1 BGB",
+        "§ 823 Abs. 2 BGB",
+        "§ 824 BGB",
+        "§ 826 BGB",
+        "§ 985 BGB",
+        "§ 145 BGB"
       ]
     },
     {
@@ -71,6 +83,14 @@
           "doc": "BGB_1",
           "page": 27
         }
+      ],
+      "merksatz": "Gutachten fragt, Urteil sagt: Obersatz, Voraussetzung, Subsumtion, Ergebnis – das „könnte“ kommt zuerst, das „denn“ gehört dem Richter.",
+      "norms": [
+        "§ 433 Abs. 2 BGB",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 150 Abs. 2 BGB",
+        "§ 90 BGB"
       ]
     },
     {
@@ -103,6 +123,15 @@
           "doc": "BGB_1",
           "page": 35
         }
+      ],
+      "merksatz": "Was überall gilt, steht vorn: Der Allgemeine Teil ist vor die Klammer gezogen – doch das Spezielle schlägt das Allgemeine.",
+      "norms": [
+        "§ 343 Abs. 1 HGB",
+        "§ 94 BGB",
+        "§ 903 BGB",
+        "§ 1937 BGB",
+        "§ 548 BGB",
+        "§ 195 BGB"
       ]
     },
     {
@@ -127,6 +156,15 @@
           "doc": "BGB_1",
           "page": 38
         }
+      ],
+      "merksatz": "Ob, mit wem, was und wie: Ich gestalte meine Verträge selbst – Form braucht es nur, wenn das Gesetz sie verlangt.",
+      "norms": [
+        "Art. 2 Abs. 1 GG",
+        "§ 241 Abs. 1 BGB",
+        "§ 311 BGB",
+        "§ 125 BGB",
+        "§ 311b Abs. 1 S. 1 BGB",
+        "§ 2247 BGB"
       ]
     },
     {
@@ -159,6 +197,19 @@
           "doc": "BGB_1",
           "page": 43
         }
+      ],
+      "merksatz": "Freiheit hat Leitplanken: zwingendes Recht, Generalklauseln (§§ 134, 138, 242), AGB-Kontrolle und Verbraucherschutz.",
+      "norms": [
+        "§ 134 BGB",
+        "§ 138 Abs. 1 BGB",
+        "§ 242 BGB",
+        "§ 307 BGB",
+        "§ 309 Nr. 8 BGB",
+        "§ 13 BGB",
+        "§ 14 BGB",
+        "§ 474 BGB",
+        "§ 355 BGB",
+        "§ 476 Abs. 2 BGB"
       ]
     },
     {
@@ -195,6 +246,17 @@
           "doc": "BGB_1",
           "page": 49
         }
+      ],
+      "merksatz": "Wer lebenswichtig anbietet, muss auch abschließen – zu fairen Bedingungen; geprüft wird: entstanden, erloschen, durchsetzbar.",
+      "norms": [
+        "§ 826 BGB",
+        "§ 249 Abs. 1 BGB",
+        "§ 19 AGG",
+        "§ 21 AGG",
+        "§ 573 Abs. 4 BGB",
+        "§ 362 BGB",
+        "§ 214 Abs. 1 BGB",
+        "§ 320 Abs. 1 S. 1 BGB"
       ]
     }
   ],
@@ -918,6 +980,441 @@
           "page": 46
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Legaldefinitionen erkennt man häufig daran, dass der zu definierende Begriff in {{1}} gesetzt ist. Beispiel: „unverzüglich“ bedeutet nach § {{2}} BGB „ohne schuldhaftes Zögern“.",
+      "blanks": [
+        [
+          "Klammern",
+          "Klammer"
+        ],
+        [
+          "121 Abs. 1",
+          "121 I",
+          "121"
+        ]
+      ],
+      "explanation": "Das Skript nennt § 194 Abs. 1 BGB (Anspruch) und § 121 Abs. 1 BGB (unverzüglich) als Beispiele für Legaldefinitionen, bei denen der Begriff in Klammern steht.",
+      "hints": [
+        "Schauen Sie auf das Satzzeichen hinter „ohne schuldhaftes Zögern“ im Gesetz.",
+        "Die Norm steht bei der Anfechtung wegen Irrtums."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "truefalse",
+      "level": "recognize",
+      "difficulty": 1,
+      "prompt": "In den Fällen des Kurses gilt der Sachverhalt als feststehend; Ausführungen zu Beweisfragen sind zu unterlassen.",
+      "answer": true,
+      "explanation": "Richtig. Der Sachverhalt ist stets unstreitig, auch schwer beweisbare Tatsachen gelten als bewiesen. Man darf dem Sachverhalt auch nichts hinzufügen („Sachverhaltsquetsche“).",
+      "hints": [
+        "Denken Sie an die „Sachverhaltsquetsche“."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "D stiehlt den PKW des E und fährt damit herum. Wie ist die Lage nach dem Skript?",
+      "options": [
+        "E bleibt Eigentümer, D ist Besitzer.",
+        "D wird Eigentümer, E bleibt Besitzer.",
+        "D wird durch den Diebstahl Eigentümer und Besitzer.",
+        "E verliert Eigentum und Besitz, bis er den Wagen zurückerhält."
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Eigentum ist das umfassende Recht an der Sache (§ 903 BGB), Besitz nur die tatsächliche Herrschaft (§ 854 Abs. 1 BGB). Beide können auseinanderfallen: E bleibt Eigentümer, D übt die tatsächliche Herrschaft aus.",
+      "hints": [
+        "Eigentum = Recht, Besitz = Tatsache.",
+        "Lesen Sie § 854 Abs. 1 BGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 194 Abs. 1 BGB",
+          "Anspruch: Recht, von einem anderen ein Tun oder Unterlassen zu verlangen"
+        ],
+        [
+          "§ 903 BGB",
+          "Befugnisse des Eigentümers, mit der Sache nach Belieben zu verfahren"
+        ],
+        [
+          "§ 854 Abs. 1 BGB",
+          "Besitz durch tatsächliche Gewalt über die Sache"
+        ],
+        [
+          "§ 13 BGB",
+          "Verbraucher"
+        ],
+        [
+          "§ 14 BGB",
+          "Unternehmer"
+        ]
+      ],
+      "explanation": "Diese Grundbegriffe tauchen in fast jeder Klausur auf; §§ 13, 14 BGB entscheiden, ob Verbraucherschutzrecht greift.",
+      "hints": [
+        "§ 903 und § 854 stehen beide im Sachenrecht – eins ist Recht, eins ist Tatsache."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 16
+        },
+        {
+          "doc": "BGB_1",
+          "page": 17
+        },
+        {
+          "doc": "BGB_1",
+          "page": 41
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Stationen der Entstehung des BGB in die richtige zeitliche Reihenfolge.",
+      "items": [
+        "Verfassungsänderung (lex Miquel/Lasker) gibt dem Reich die Zivilrechtskompetenz (1873)",
+        "Vorkommission (1874)",
+        "Erster Entwurf mit „Motiven“ (1887/1888)",
+        "Zweite Kommission mit Laien und Berufsvertretern (Auftrag 1890)",
+        "Zweiter Entwurf mit „Protokollen“ (1895)",
+        "Inkrafttreten am 1. Januar 1900"
+      ],
+      "explanation": "Erst die Kompetenz (1873), dann die Kommissionen; der erste Entwurf wurde als zu römischrechtlich und unsozial kritisiert, der zweite überarbeitete ihn. Ausfertigung 18.08.1896, Inkrafttreten 1.1.1900 (Art. 1 I EGBGB).",
+      "hints": [
+        "Ohne Gesetzgebungskompetenz des Reiches kein Reichsgesetz.",
+        "Motive gehören zum ersten, Protokolle zum zweiten Entwurf."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 31
+        },
+        {
+          "doc": "BGB_1",
+          "page": 32
+        },
+        {
+          "doc": "BGB_1",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-single",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wann ist das BGB in Kraft getreten?",
+      "options": [
+        "Am 1. Januar 1900",
+        "Am 18. August 1896",
+        "Am 1. Januar 1874",
+        "Am 1. Januar 2002"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Das BGB wurde am 18.08.1896 ausgefertigt und trat zusammen mit dem HGB am 1.1.1900 in Kraft. Am 1.1.2002 trat das Schuldrechtsmodernisierungsgesetz in Kraft.",
+      "hints": [
+        "Ein runder Jahrhundertbeginn."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 1,
+      "prompt": "B bricht mutwillig die Autoantenne am PKW des V ab. V lässt reparieren und verlangt von B 50 € Reparaturkosten. Welche Anspruchsgrundlage kommt nach dem Skript in Betracht?",
+      "options": [
+        "§ 823 Abs. 1 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§ 194 Abs. 1 BGB",
+        "§ 145 BGB"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "B hat das Eigentum des V widerrechtlich und vorsätzlich verletzt; § 823 Abs. 1 BGB ist die zentrale Anspruchsgrundlage des Deliktsrechts. § 194 Abs. 1 definiert nur den Anspruch, § 145 regelt die Bindung an ein Angebot.",
+      "hints": [
+        "Zwischen B und V gibt es keinen Vertrag.",
+        "Gesucht ist eine Norm aus dem Recht der unerlaubten Handlungen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Das Privatrecht regelt die Beziehungen von rechtlich {{1}} Personen zueinander; das Öffentliche Recht betrifft regelmäßig ein {{2}}-verhältnis.",
+      "blanks": [
+        [
+          "gleichgestellten",
+          "gleichgeordneten"
+        ],
+        [
+          "Über-/Unterordnungs",
+          "Über- und Unterordnungs",
+          "Über-Unterordnungs",
+          "Unterordnungs"
+        ]
+      ],
+      "explanation": "Das bürgerliche Recht ist der Teil des Privatrechts, dessen Rechtssätze im BGB zusammengefasst sind und für alle Bürger gelten.",
+      "hints": [
+        "Bürger und Bürger stehen sich auf Augenhöhe gegenüber.",
+        "Staat und Bürger: oben und unten."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Welche Regeln sind nach dem Skript zwingendes Recht? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Die Regeln über die Geschäftsfähigkeit (§§ 104 ff. BGB)",
+        "Die Vorschriften über die Übereignung beweglicher Sachen (§§ 929 ff. BGB)",
+        "Die Gewährleistungsregeln beim Kauf einer gebrauchten Sache (§§ 434 ff. BGB)",
+        "Die gesetzlichen Vertragstypen des Besonderen Schuldrechts, an die Parteien gebunden sind"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "explanation": "Zwingend sind Normen zu den Voraussetzungen der Privatautonomie (Geschäftsfähigkeit) und die meisten Vorschriften des Sachen-, Familien- und Erbrechts (§§ 929 ff.). Die Gewährleistung ist dispositiv (beim Gebrauchtkauf teilweise ausschließbar); an die Vertragstypen ist niemand gebunden.",
+      "hints": [
+        "Zwingend ist, was Rechtssicherheit und Dritte schützt.",
+        "Schuldrecht ist überwiegend dispositiv."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 39
+        },
+        {
+          "doc": "BGB_1",
+          "page": 40
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ersatzansprüche des Vermieters wegen Verschlechterung der Mietsache verjähren nach der regelmäßigen Verjährungsfrist des § 195 BGB.",
+      "answer": false,
+      "explanation": "Falsch. § 548 BGB ordnet eine Verjährung von sechs Monaten an und modifiziert insoweit die §§ 194 ff. BGB – ein Beispiel für „lex specialis derogat legi generali“.",
+      "hints": [
+        "Sonderregel im Mietrecht.",
+        "Lesen Sie § 548 BGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "K möchte das Grundstück des E kaufen. E lehnt jede Verhandlung ab, weil K einer religiösen Gemeinschaft angehört, deren Prinzipien E missfallen. K meint, E müsse an ihn verkaufen, die Begründung sei doch unsachlich. Hat K einen Anspruch auf Abschluss des Kaufvertrages?",
+      "modelAnswer": "Ein Anspruch auf Vertragsschluss setzte einen Kontrahierungszwang voraus. Grundsatz ist die Abschlussfreiheit als Teil der Privatautonomie (Art. 2 Abs. 1 GG): E entscheidet, ob und mit wem er Verträge schließt. Ein Fall der Daseinsvorsorge, des Kartellrechts oder des allgemeinen zivilrechtlichen Kontrahierungszwangs (lebenswichtige, öffentlich angebotene Leistung) liegt beim privaten Grundstücksverkauf nicht vor. Dass die Ablehnung objektiv nicht überzeugt, ändert daran nichts. K hat keinen Anspruch auf Vertragsschluss.",
+      "rubric": [
+        "Abschlussfreiheit als Ausprägung der Privatautonomie benannt",
+        "Prüfung, ob ein Fall des Kontrahierungszwangs vorliegt",
+        "Unsachliche Motive allein begründen keinen Abschlusszwang",
+        "Ergebnis: kein Anspruch"
+      ],
+      "hints": [
+        "Wer verpflichtet E zum Abschluss – Gesetz oder niemand?",
+        "Beispiel (II) im Abschnitt zur Abschlussfreiheit."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 37
+        },
+        {
+          "doc": "BGB_1",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie in drei bis fünf Sätzen die Ausklammerungsmethode des BGB und nennen Sie ihren „Preis“.",
+      "modelAnswer": "Fragen, die in vielen Rechtsgebieten auftauchen (z.B. Verjährung von Ansprüchen aus § 433, § 823 Abs. 1 oder § 985 BGB), hat der Gesetzgeber nur einmal im Allgemeinen Teil geregelt (§§ 194–218 BGB). Diese Regeln sind „vor die Klammer gezogen“ wie beim Distributivgesetz a·b + a·c = a·(b + c). So werden Wiederholungen vermieden. Der Preis: Die Vorschriften sind sehr abstrakt, man muss für ein vollständiges Bild mehrere Teile des BGB zusammenlesen, und Spezialregeln (z.B. § 548 BGB) können die allgemeinen Regeln verdrängen.",
+      "rubric": [
+        "Allgemeine Fragen werden einmal im AT geregelt",
+        "Beispiel Verjährung §§ 194 ff. BGB",
+        "Bild der Klammer / Distributivgesetz",
+        "Preis: Abstraktheit, Zusammenschau nötig",
+        "Vorrang der Spezialregel"
+      ],
+      "hints": [
+        "Denken Sie an Mathe: a·b + a·c.",
+        "Was macht das Lesen des Kaufrechts schwierig?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 33
+        },
+        {
+          "doc": "BGB_1",
+          "page": 34
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-single",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Unter welchen Hauptprüfungspunkt des Schemas „Anspruch aus Vertrag“ gehört die Erfüllung (§ 362 BGB)?",
+      "options": [
+        "Anspruch erloschen",
+        "Anspruch entstanden",
+        "Anspruch durchsetzbar",
+        "Ergebnis"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Erfüllung, Rücktritt oder Widerruf lassen einen entstandenen Anspruch erlöschen. Wirksamkeitshindernisse wie §§ 125, 134, 138 gehören zur Entstehung, Verjährung (§ 214 I) und § 320 zur Durchsetzbarkeit.",
+      "hints": [
+        "Wer gezahlt hat, schuldet nichts mehr.",
+        "Unterscheiden Sie: rechtshindernd – rechtsvernichtend – rechtshemmend."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 48
+        },
+        {
+          "doc": "BGB_1",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "order",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Bringen Sie die fünf Bücher des BGB in die Reihenfolge des Gesetzes.",
+      "items": [
+        "Allgemeiner Teil",
+        "Recht der Schuldverhältnisse",
+        "Sachenrecht",
+        "Familienrecht",
+        "Erbrecht"
+      ],
+      "explanation": "Die Einteilung in fünf Bücher wurde schon im ersten Entwurf festgelegt und geht teilweise auf die Pandektenwissenschaft zurück.",
+      "hints": [
+        "Vom Allgemeinen zum Besonderen; das Erbrecht kommt zum Schluss."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 29
+        },
+        {
+          "doc": "BGB_1",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "Rechtsanwältin R kauft bei einem Elektronikhändler einen Laptop, den sie überwiegend privat und gelegentlich für Kanzleiarbeit nutzt. Wie ist R einzuordnen?",
+      "options": [
+        "Als Verbraucherin, weil der private Zweck überwiegt",
+        "Als Unternehmerin, weil sie den Laptop auch beruflich nutzt",
+        "Weder als Verbraucherin noch als Unternehmerin",
+        "Als Unternehmerin, weil Freiberufler stets Unternehmer sind"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nach § 13 BGB kommt es bei Dual-use-Verträgen auf den überwiegenden Zweck an. Überwiegt der private Zweck, ist R Verbraucherin; mit dem Händler (§ 14 BGB) liegt ein Verbrauchsgüterkauf vor.",
+      "hints": [
+        "Achten Sie auf das Wort „überwiegend“ in § 13 BGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_1",
+          "page": 41
+        },
+        {
+          "doc": "BGB_1",
+          "page": 42
+        }
+      ]
     }
   ],
   "case": {
@@ -1144,6 +1641,68 @@
           "page": 45
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 194 Abs. 1 BGB",
+      "inhalt": "Was ein Anspruch ist: das Recht, von einem anderen ein Tun oder Unterlassen zu verlangen."
+    },
+    {
+      "norm": "§ 433 Abs. 2 BGB",
+      "inhalt": "Käufer muss den Kaufpreis zahlen und die Sache abnehmen – die Standard-Anspruchsgrundlage im Skript."
+    },
+    {
+      "norm": "§ 823 Abs. 1 BGB",
+      "inhalt": "Schadensersatz, wenn jemand schuldhaft und widerrechtlich z.B. fremdes Eigentum verletzt."
+    },
+    {
+      "norm": "§ 145 BGB",
+      "inhalt": "Wer ein Angebot macht, ist daran gebunden – aber keine Anspruchsgrundlage."
+    },
+    {
+      "norm": "§ 150 Abs. 2 BGB",
+      "inhalt": "Annahme mit Änderungen = Ablehnung plus neues Angebot (Fall Blum/Korf)."
+    },
+    {
+      "norm": "Art. 2 Abs. 1 GG",
+      "inhalt": "Allgemeine Handlungsfreiheit, verfassungsrechtliche Grundlage der Privatautonomie."
+    },
+    {
+      "norm": "§ 311 BGB",
+      "inhalt": "Schuldverhältnisse entstehen durch Vertrag – Grundlage der inhaltlichen Gestaltungsfreiheit (mit § 241)."
+    },
+    {
+      "norm": "§ 125 BGB",
+      "inhalt": "Nichtigkeit bei Formmangel; im Umkehrschluss: grundsätzlich Formfreiheit."
+    },
+    {
+      "norm": "§ 311b Abs. 1 S. 1 BGB",
+      "inhalt": "Grundstückskaufverträge brauchen notarielle Beurkundung – Beispiel für gesetzlichen Formzwang."
+    },
+    {
+      "norm": "§ 134 BGB",
+      "inhalt": "Verstoß gegen ein gesetzliches Verbot macht das Rechtsgeschäft nichtig."
+    },
+    {
+      "norm": "§ 138 Abs. 1 BGB",
+      "inhalt": "Sittenwidrige Rechtsgeschäfte sind nichtig – wichtigste Generalklausel."
+    },
+    {
+      "norm": "§ 13 BGB",
+      "inhalt": "Verbraucher: natürliche Person, Zweck überwiegend privat."
+    },
+    {
+      "norm": "§ 14 BGB",
+      "inhalt": "Unternehmer: handelt in Ausübung gewerblicher oder selbständiger beruflicher Tätigkeit."
+    },
+    {
+      "norm": "§ 826 BGB",
+      "inhalt": "Sittenwidrige vorsätzliche Schädigung – Grundlage des allgemeinen Kontrahierungszwangs (mit § 249 I)."
+    },
+    {
+      "norm": "§ 21 Abs. 1 AGG",
+      "inhalt": "Bei Benachteiligung Anspruch auf Beseitigung, ggf. auf Vertragsschluss."
     }
   ]
 }

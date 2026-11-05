@@ -7,6 +7,8 @@ import { SourceChips } from "@/components/docs/SourceChips";
 import { QuizItemView } from "./QuizItemView";
 import { useSpeech } from "@/components/speech/useSpeech";
 import type { Definition, LessonSection, QuizItem, SrcRef } from "@/lib/learning/types";
+import { NormChips } from "./NormChips";
+import { extractNorms } from "@/lib/norms";
 
 /** Splits a Markdown text into bite-sized pieces of roughly 60–130 words (headings stay with their paragraph). */
 export function splitBites(md: string, target = 90): string[] {
@@ -35,9 +37,13 @@ export function splitBites(md: string, target = 90): string[] {
 interface Bite {
   sectionTitle: string;
   sectionIndex: number;
+  sectionId: string;
   text: string;
   src: SrcRef[];
   check?: QuizItem;
+  last: boolean; // last bite of its section
+  merksatz?: string;
+  norms: string[];
 }
 
 const CLOSED = new Set(["mc-single", "mc-multi", "truefalse", "cloze", "match", "order"]);
@@ -57,7 +63,8 @@ export function BiteReader({ lessonId, sections, definitions, quiz, sessionId, t
         const wantCheck = (pi + 1) % 3 === 0 || pi === parts.length - 1;
         const check = wantCheck ? candidates.find((q) => !used.has(q.id)) : undefined;
         if (check) used.add(check.id);
-        out.push({ sectionTitle: s.title, sectionIndex: si, text, src: s.src, check });
+        const last = pi === parts.length - 1;
+        out.push({ sectionTitle: s.title, sectionIndex: si, sectionId: s.id, text, src: s.src, check, last, merksatz: last ? s.merksatz : undefined, norms: last ? (s.norms?.length ? s.norms : extractNorms(s.long)) : [] });
       });
     });
     return out;
@@ -68,7 +75,13 @@ export function BiteReader({ lessonId, sections, definitions, quiz, sessionId, t
   const b = bites[Math.min(i, bites.length - 1)];
   if (!b) return null;
   const merke = definitions.find((d) => d.term.length > 3 && b.text.toLowerCase().includes(d.term.toLowerCase().split(/[ (]/)[0]));
-  const go = (n: number) => { speech.stop(); setShowCheck(false); setI(Math.max(0, Math.min(bites.length - 1, n))); window.scrollTo({ top: 0, behavior: "smooth" }); };
+  const markRead = (bite: Bite) => {
+    if (bite.last) fetch("/api/reads", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ lessonId, sectionId: bite.sectionId }) }).catch(() => {});
+  };
+  const go = (n: number) => {
+    if (n > i) markRead(b);
+    speech.stop(); setShowCheck(false); setI(Math.max(0, Math.min(bites.length - 1, n))); window.scrollTo({ top: 0, behavior: "smooth" });
+  };
   const next = () => (b.check && !showCheck ? setShowCheck(true) : go(i + 1));
 
   return (
@@ -98,6 +111,10 @@ export function BiteReader({ lessonId, sections, definitions, quiz, sessionId, t
                   <p><span className="font-semibold">Merke – {merke.term}{merke.norm ? ` (${merke.norm})` : ""}:</span> {merke.text}</p>
                 </div>
               )}
+              {b.merksatz && (
+                <div className="mt-4 rounded-xl bg-gradient-to-r from-fuchsia-50 to-brand-50 p-3 text-[15px] font-medium text-brand-800 ring-1 ring-brand-100">💡 Merksatz: {b.merksatz}</div>
+              )}
+              {b.norms.length > 0 && <div className="mt-3"><NormChips norms={b.norms} /></div>}
               <SourceChips src={b.src} className="mt-3" />
             </>
           ) : (
@@ -113,7 +130,7 @@ export function BiteReader({ lessonId, sections, definitions, quiz, sessionId, t
         {i < bites.length - 1 || (b.check && !showCheck) ? (
           <Button onClick={next}>{b.check && !showCheck ? "Weiter – kurze Frage" : "Nächstes Häppchen"} <ChevronRight size={16} /></Button>
         ) : (
-          <span className="text-sm font-medium text-ok">✓ Alle Häppchen geschafft – unten auf „Weiter“ klicken.</span>
+          <Button variant="soft" onClick={() => markRead(b)}>✓ Alle Häppchen geschafft</Button>
         )}
       </div>
     </div>

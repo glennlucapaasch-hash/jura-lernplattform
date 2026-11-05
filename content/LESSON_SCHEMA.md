@@ -72,3 +72,8 @@ Order items are stored in the CORRECT order (the app shuffles). Options are shuf
 ```
 Exam cases must be solvable with the course material; base them on the Skript's Fälle/Beispiele where possible
 and vary facts so they are not identical to the lesson's Gutachten case.
+
+## Additional fields (v3) – short learning aids
+- `sections[].merksatz` (string, ≤ 25 Wörter): one catchy, memorable sentence that captures the core of the section – friendly, may be playful/proverb-like, but legally exact. Example: „Im Kasten ist er drin – gelesen ist egal, die Chance zählt.“ (Zugang).
+- `sections[].norms` (string[]): the norms the learner should read in the statute for this section, exact citation form (e.g. "§ 130 Abs. 1 S. 1 BGB", "Art. 38 Abs. 1 S. 2 GG"); only norms that appear in the Studienbrief for this section.
+- `kernnormen` (top level, array of { "norm": string, "inhalt": string }): 5–15 most important norms of the whole pack with a 1-line content summary („worum geht es“), in Skript order.

@@ -11,6 +11,10 @@ export interface LessonSection {
   short: string;
   long: string;
   src: SrcRef[];
+  /** einprägsamer Merksatz zum Abschnitt */
+  merksatz?: string;
+  /** Normen, die man zu diesem Abschnitt im Gesetz lesen sollte */
+  norms?: string[];
 }
 
 export interface Definition {
@@ -83,6 +87,8 @@ export interface LessonPack {
   quiz: QuizItem[];
   case?: LessonCase;
   flashcards: Flashcard[];
+  /** wichtigste Normen der Einheit mit Kurzinhalt */
+  kernnormen?: { norm: string; inhalt: string }[];
 }
 
 export const QUIZ_TYPE_LABEL: Record<QuizItem["type"], string> = {

@@ -49,7 +49,13 @@ for (const f of files.filter((x) => x.endsWith(".json"))) {
     for (const k of ["id", "moduleId", "title"]) if (typeof j[k] !== "string" || !j[k]) errs.push(`missing ${k}`);
     if (path.basename(f, ".json") !== j.id) errs.push(`file name must equal id (${j.id})`);
     if (!Array.isArray(j.sections) || j.sections.length < (j.kind === "drill" ? 1 : 3)) errs.push("≥3 sections");
-    (j.sections ?? []).forEach((s: any, i: number) => { if (!s.id || !s.title || !s.short || !s.long) errs.push(`section ${i} incomplete`); checkSrc(s.src, `section ${s.id}`); });
+    (j.sections ?? []).forEach((s: any, i: number) => {
+      if (!s.id || !s.title || !s.short || !s.long) errs.push(`section ${i} incomplete`);
+      checkSrc(s.src, `section ${s.id}`);
+      if (s.merksatz !== undefined && (typeof s.merksatz !== "string" || s.merksatz.split(/\s+/).length > 30)) errs.push(`section ${s.id}: merksatz too long`);
+      if (s.norms !== undefined && (!Array.isArray(s.norms) || s.norms.some((n: unknown) => typeof n !== "string" || !/(§|Art\.)/.test(n as string)))) errs.push(`section ${s.id}: norms must be citations with § or Art.`);
+    });
+    if (j.kernnormen !== undefined && (!Array.isArray(j.kernnormen) || j.kernnormen.some((k: any) => !k.norm || !k.inhalt))) errs.push("kernnormen entries need norm + inhalt");
     (j.definitions ?? []).forEach((d: any, i: number) => { if (!d.term || !d.text) errs.push(`definition ${i} incomplete`); checkSrc(d.src, `definition ${d.term}`); });
     if (!j.schemas?.length) warn.push("no Prüfungsschema");
     (j.schemas ?? []).forEach((s: any, i: number) => { if (!s.title || !s.steps?.length) errs.push(`schema ${i} incomplete`); checkSrc(s.src, `schema ${i}`); });

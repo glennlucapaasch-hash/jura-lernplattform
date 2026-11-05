@@ -22,6 +22,15 @@
           "doc": "BGB_4",
           "page": 28
         }
+      ],
+      "merksatz": "Zwei Normen, ein Ziel: § 133 sucht den wirklichen Willen, § 157 fragt nach Treu und Glauben samt Verkehrssitte.",
+      "norms": [
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 154 Abs. 1 BGB",
+        "§ 328 Abs. 2 BGB",
+        "§ 364 Abs. 2 BGB",
+        "§§ 2066 ff. BGB"
       ]
     },
     {
@@ -38,6 +47,14 @@
           "doc": "BGB_4",
           "page": 29
         }
+      ],
+      "merksatz": "Weder nur der Sprecher noch nur der Hörer zählt – das Risiko des Missverständnisses entsteht beim Erklärenden und bleibt grundsätzlich bei ihm.",
+      "norms": [
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 116 BGB",
+        "§ 119 BGB",
+        "§ 122 BGB"
       ]
     },
     {
@@ -66,6 +83,11 @@
           "doc": "BGB_4",
           "page": 42
         }
+      ],
+      "merksatz": "Meinen beide dasselbe, schadet das falsche Wort nicht; sonst gilt, was ein verständiger Empfänger verstehen musste.",
+      "norms": [
+        "§ 133 BGB",
+        "§ 157 BGB"
       ]
     },
     {
@@ -90,6 +112,16 @@
           "doc": "BGB_4",
           "page": 34
         }
+      ],
+      "merksatz": "Unklarer Begriff? Wortlaut, Zweck, Interessen – und die Verkehrssitte des Kreises gilt auch ohne ausdrückliche Unterwerfung.",
+      "norms": [
+        "§ 157 BGB",
+        "§ 346 HGB",
+        "§ 476 Abs. 1 BGB",
+        "§ 310 Abs. 3 BGB",
+        "§ 433 Abs. 2 BGB",
+        "§ 480 BGB",
+        "§ 364 BGB"
       ]
     },
     {
@@ -114,6 +146,11 @@
           "doc": "BGB_4",
           "page": 37
         }
+      ],
+      "merksatz": "Lücke gefunden? Frag, was redliche Parteien vereinbart hätten – ergänzt wird der Vertragsinhalt, niemals der Vertragswille.",
+      "norms": [
+        "§ 157 BGB",
+        "§ 133 BGB"
       ]
     },
     {
@@ -142,6 +179,15 @@
           "doc": "BGB_4",
           "page": 43
         }
+      ],
+      "merksatz": "AGB liest man mit den Augen des Durchschnittskunden – und jeder Zweifel geht auf die Rechnung des Verwenders.",
+      "norms": [
+        "§ 305c Abs. 2 BGB",
+        "§ 306 Abs. 1 BGB",
+        "§ 306 Abs. 2 BGB",
+        "§ 307 Abs. 1 S. 1 BGB",
+        "§ 313 BGB",
+        "§ 305b BGB"
       ]
     }
   ],
@@ -1001,6 +1047,485 @@
           "page": 38
         }
       ]
+    },
+    {
+      "id": "x1",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "§ 133 BGB: Bei der Auslegung einer Willenserklärung ist der {{1}} Wille zu erforschen und nicht an dem {{2}} Sinne des Ausdrucks zu haften. § 157 BGB: Verträge sind so auszulegen, wie {{3}} mit Rücksicht auf die {{4}} es erfordern.",
+      "blanks": [
+        [
+          "wirkliche"
+        ],
+        [
+          "buchstäblichen"
+        ],
+        [
+          "Treu und Glauben"
+        ],
+        [
+          "Verkehrssitte"
+        ]
+      ],
+      "explanation": "Die beiden allgemeinen Auslegungsnormen des BGB: § 133 (subjektiver Maßstab, wirklicher Wille) und § 157 (objektiver Maßstab, Treu und Glauben, Verkehrssitte), S. 27–28.",
+      "hints": [
+        "Ein Paragraph sucht den Willen, der andere die Redlichkeit.",
+        "Die zweite Norm nennt zwei Maßstäbe: einen ethischen und einen tatsächlichen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        },
+        {
+          "doc": "BGB_4",
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "x2",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie die Norm ihrem Inhalt zu.",
+      "pairs": [
+        [
+          "§ 133 BGB",
+          "Wirklicher Wille statt buchstäblicher Sinn"
+        ],
+        [
+          "§ 157 BGB",
+          "Treu und Glauben mit Rücksicht auf die Verkehrssitte"
+        ],
+        [
+          "§ 346 HGB",
+          "Handelsbrauch unter Kaufleuten"
+        ],
+        [
+          "§ 305c Abs. 2 BGB",
+          "Zweifel bei AGB gehen zulasten des Verwenders"
+        ],
+        [
+          "§ 306 Abs. 2 BGB",
+          "Lücke nach unwirksamer AGB-Klausel: gesetzliche Vorschriften"
+        ],
+        [
+          "§ 305b BGB",
+          "Vorrang der Individualabrede vor AGB"
+        ]
+      ],
+      "explanation": "§§ 133, 157 sind die allgemeinen Auslegungsnormen (S. 27); § 346 HGB regelt die kaufmännische Verkehrssitte (S. 32); §§ 305b, 305c Abs. 2, 306 Abs. 2 betreffen AGB (S. 37–39).",
+      "hints": [
+        "Die §§ 305 ff. gehören alle zum AGB-Recht.",
+        "„HGB“ = Kaufleute."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 27
+        },
+        {
+          "doc": "BGB_4",
+          "page": 32
+        },
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "x3",
+      "type": "match",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Ordnen Sie das Beispiel aus dem Skript dem Auslegungsinstrument zu, mit dem es gelöst wird.",
+      "pairs": [
+        [
+          "Haakjöringsköd (Wal- statt Haifischfleisch)",
+          "Falsa demonstratio non nocet"
+        ],
+        [
+          "Zedernholz (Schriftform im Holzhandel)",
+          "Verkehrssitte"
+        ],
+        [
+          "Neuwagen mit Inzahlungnahme",
+          "Erläuternde Auslegung nach Wortlaut und Interessenlage"
+        ],
+        [
+          "Kiosk auf dem Vorplatz",
+          "Ergänzende Vertragsauslegung"
+        ],
+        [
+          "Tagespreisklausel beim PKW-Kauf",
+          "Ergänzende Auslegung über § 306 Abs. 2"
+        ]
+      ],
+      "explanation": "Haakjöringsköd S. 31, Zedernholz S. 32–33, Inzahlungnahme S. 33–34, Kiosk S. 36–37, Tagespreisklausel S. 39 mit Lösung S. 42–43.",
+      "hints": [
+        "Wo fehlt eine Regelung, wo ist ein Wort nur falsch gewählt?",
+        "Nur zwei Fälle betreffen eine Lücke – einer davon AGB."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 31
+        },
+        {
+          "doc": "BGB_4",
+          "page": 32
+        },
+        {
+          "doc": "BGB_4",
+          "page": 33
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        },
+        {
+          "doc": "BGB_4",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "x4",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Bringen Sie die Prüfung der ergänzenden Vertragsauslegung in die richtige Reihenfolge.",
+      "items": [
+        "Feststellen, dass der Vertrag einen regelungsbedürftigen Punkt nicht regelt",
+        "Planwidrigkeit: Die Parteien haben den Punkt unbewusst offengelassen, nicht bewusst ausgeklammert",
+        "Kein passendes dispositives Gesetzesrecht, das die Lücke schließt",
+        "Hypothetischer Parteiwille: Was hätten redliche Parteien nach Vertragszweck, Treu und Glauben und Verkehrssitte vereinbart?",
+        "Grenzkontrolle: kein Widerspruch zum erklärten Willen, keine mehreren gleich naheliegenden Gestaltungen"
+      ],
+      "explanation": "Erst die Lücke (unbewusst, planwidrig, nicht durch Gesetz gefüllt), dann deren Ausfüllung nach dem hypothetischen Parteiwillen, schließlich die Grenzen (BGHZ 9, 273; BGHZ 93, 358), S. 34–36.",
+      "hints": [
+        "Erst „ob Lücke“, dann „wie füllen“.",
+        "Die Grenzen prüft man zuletzt am gefundenen Ergebnis."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 34
+        },
+        {
+          "doc": "BGB_4",
+          "page": 35
+        },
+        {
+          "doc": "BGB_4",
+          "page": 36
+        }
+      ]
+    },
+    {
+      "id": "x5",
+      "type": "order",
+      "level": "understand",
+      "difficulty": 3,
+      "prompt": "Eine AGB-Klausel ist unwirksam. Bringen Sie die Prüfschritte in die richtige Reihenfolge.",
+      "items": [
+        "Unwirksamkeit der Klausel (z.B. § 307 Abs. 1 S. 1 BGB)",
+        "Der Vertrag bleibt im Übrigen wirksam (§ 306 Abs. 1 BGB)",
+        "Lückenfüllung vorrangig durch konkrete gesetzliche Vorschriften (§ 306 Abs. 2 BGB)",
+        "Fehlen solche und ist ersatzlose Streichung keine angemessene Lösung: ergänzende Vertragsauslegung nach §§ 133, 157 BGB",
+        "Kontrolle: Das Ergebnis darf keine Partei unangemessen benachteiligen (§ 307 BGB)"
+      ],
+      "explanation": "So geht die Skript-Lösung der Tagespreisklausel vor (S. 42–43) auf Grundlage der BGH-Rechtsprechung (S. 37–38).",
+      "hints": [
+        "§ 306 hat zwei Absätze – beide kommen vor.",
+        "Die ergänzende Auslegung ist nur Lückenfüller zweiter Wahl."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        },
+        {
+          "doc": "BGB_4",
+          "page": 38
+        },
+        {
+          "doc": "BGB_4",
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "x6",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "V schreibt K: „Ich biete Ihnen mein Reitpferd Max für 5.000 € an.“ Gemeint hat V sein anderes Pferd Moritz; davon ahnt K nichts. K nimmt an. Was gilt nach dem Skript?",
+      "options": [
+        "Kaufvertrag über Max; V kann allenfalls wegen Irrtums anfechten und schuldet dann ggf. Ersatz des Vertrauensschadens",
+        "Kaufvertrag über Moritz, weil nach § 133 allein der wirkliche Wille des V zählt",
+        "Kein Vertrag, weil Wille und Erklärung auseinanderfallen",
+        "Kaufvertrag über beide Pferde nach Wahl des K"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Weichen Wille und Verständnis ab, entscheidet der objektive Empfängerhorizont (§§ 133, 157). K durfte das Angebot nur auf Max beziehen. Das Irrtumsrisiko liegt in der Sphäre des V: Er bleibt gebunden, kann nach § 119 anfechten, muss aber nach § 122 den Vertrauensschaden ersetzen (S. 29).",
+      "hints": [
+        "Aus wessen Sphäre stammt der Fehler?",
+        "Denken Sie an § 119 und § 122."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x7",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "A und B unterhalten sich häufig in einem privaten Code und nennen Weißwein stets „Rotwein“. A verkauft B schriftlich „10 Kisten Rotwein“; beide meinen Weißwein. Worüber ist der Vertrag geschlossen?",
+      "options": [
+        "Über 10 Kisten Weißwein",
+        "Über 10 Kisten Rotwein, weil der Wortlaut eindeutig ist",
+        "Über gar nichts – der Vertrag ist wegen Perplexität nichtig",
+        "Über Rotwein, A kann aber wegen Inhaltsirrtums anfechten"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Haben beide Parteien die Erklärung übereinstimmend im selben Sinn verstanden, bestimmt allein dieser Wille den Inhalt – auch gegen den objektiven Wortlaut: falsa demonstratio non nocet (S. 30–31, vgl. Haakjöringsköd).",
+      "hints": [
+        "Gibt es hier überhaupt ein Auseinanderfallen von Wille und Verständnis?",
+        "Erinnern Sie sich an Wal- und Haifischfleisch."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        },
+        {
+          "doc": "BGB_4",
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "x8",
+      "type": "truefalse",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Wer sich insgeheim vorbehält, das Erklärte nicht zu wollen, ist nach § 116 BGB trotzdem an seine Erklärung gebunden.",
+      "answer": true,
+      "explanation": "§ 116 zeigt, dass das Vertrauen des Empfängers Schutz verdient: Der geheime Vorbehalt ist unbeachtlich (S. 29). Das Skript zieht daraus Schlüsse für die Risikoverteilung bei der Auslegung.",
+      "hints": [
+        "„Geheim“ heißt: Der Empfänger kann es nicht erkennen."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "x9",
+      "type": "truefalse",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Die ergänzende Vertragsauslegung hat Vorrang vor den Grundsätzen über die Störung der Geschäftsgrundlage (§ 313 BGB).",
+      "answer": true,
+      "explanation": "Die Durchführung dessen, was die Parteien gewollt haben, geht einer Korrektur aufgrund Interessenabwägung vor (BGHZ 90, 69, 74; S. 37).",
+      "hints": [
+        "Was ist näher am Parteiwillen: Ergänzung oder Anpassung von außen?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "x10",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 2,
+      "prompt": "Bei der ergänzenden Vertragsauslegung wird nur der {{1}} ergänzt, nicht der {{2}}; eine Abänderung oder Erweiterung entgegen dem erklärten Parteiwillen ist unzulässig.",
+      "blanks": [
+        [
+          "Vertragsinhalt",
+          "Inhalt"
+        ],
+        [
+          "Vertragswille",
+          "Vertragswillen",
+          "Wille",
+          "Willen"
+        ]
+      ],
+      "explanation": "BGHZ 9, 273, 278 (S. 35): Die ergänzende Auslegung darf den Vertrag nicht umgestalten.",
+      "hints": [
+        "Das eine steht im Vertrag, das andere in den Köpfen der Parteien."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 35
+        }
+      ]
+    },
+    {
+      "id": "x11",
+      "type": "cloze",
+      "level": "recall",
+      "difficulty": 1,
+      "prompt": "Haben beide Parteien dasselbe gemeint, bestimmt allein der übereinstimmende {{1}} den Inhalt des Rechtsgeschäfts; eine falsche Bezeichnung schadet nicht: {{2}}.",
+      "blanks": [
+        [
+          "Wille",
+          "wirkliche Wille",
+          "Parteiwille"
+        ],
+        [
+          "falsa demonstratio non nocet"
+        ]
+      ],
+      "explanation": "Der übereinstimmende Wille geht Wortlaut und jeder anderen Interpretation vor (BGHZ 71, 75, 77 f.; S. 30).",
+      "hints": [
+        "Lateinischer Merksatz mit vier Wörtern."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x12",
+      "type": "mc-multi",
+      "level": "understand",
+      "difficulty": 2,
+      "prompt": "Was ist nach den §§ 133, 157 BGB bei der Auslegung zu berücksichtigen? Wählen Sie alle zutreffenden Antworten.",
+      "options": [
+        "Der wirkliche Wille",
+        "Treu und Glauben",
+        "Die Verkehrssitte",
+        "Der unerklärt gebliebene innere Wille auch dann, wenn der Empfänger ihn nicht erkennen konnte"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Den §§ 133, 157 lässt sich nur entnehmen, dass der wirkliche Wille zu erforschen und Treu und Glauben sowie die Verkehrssitte zu berücksichtigen sind (S. 29). Ein für den Empfänger nicht erkennbarer innerer Wille ist bei empfangsbedürftigen Erklärungen nicht maßgeblich (S. 29–30).",
+      "hints": [
+        "Drei Stichworte stehen direkt im Gesetzestext.",
+        "Was der Empfänger nicht erkennen kann, darf ihn nicht binden."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 29
+        },
+        {
+          "doc": "BGB_4",
+          "page": 30
+        }
+      ]
+    },
+    {
+      "id": "x13",
+      "type": "mc-single",
+      "level": "apply",
+      "difficulty": 2,
+      "prompt": "Autohändlerin H (Unternehmerin) verkauft der Verbraucherin P einen Gebrauchtwagen „wie besichtigt“. Später zeigt sich ein Mangel. Was gilt nach dem Skript?",
+      "options": [
+        "Die Klausel kann die kaufrechtlichen Rechte der P – außer Schadensersatzansprüchen – nicht zu ihrem Nachteil ausschließen (§ 476 Abs. 1 BGB)",
+        "Die Klausel schließt jede Gewährleistung aus, weil „wie besichtigt“ ein anerkannter Ausschluss ist",
+        "Die Klausel ist unbeachtlich, weil sie nicht schriftlich vereinbart wurde",
+        "P hat nur Schadensersatzansprüche, alle anderen Rechte sind ausgeschlossen"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Zwischen Privaten bedeutet „wie besichtigt“ einen Ausschluss für bei der Besichtigung wahrnehmbare Mängel. Beim Verbrauchsgüterkauf (Unternehmer an Verbraucher, bewegliche Sache) können die §§ 433 ff. – mit Ausnahme der Schadensersatzansprüche – aber nicht zum Nachteil des Verbrauchers abbedungen werden (§ 476 Abs. 1; S. 33).",
+      "hints": [
+        "Wer verkauft hier an wen?",
+        "§§ 474 ff. – Verbrauchsgüterkauf."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "x14",
+      "type": "free",
+      "level": "formulate",
+      "difficulty": 2,
+      "prompt": "Erklären Sie in drei bis vier Sätzen, warum AGB objektiv ausgelegt werden und warum Zweifel zulasten des Verwenders gehen.",
+      "modelAnswer": "AGB werden nicht für einen Einzelfall, sondern für eine unbestimmte Vielzahl von Verträgen aufgestellt. Deshalb wird nicht der Wille der Parteien des einzelnen Geschäfts erforscht; maßgeblich ist, wie verständige und redliche Vertragspartner unter Abwägung der Interessen der normalerweise beteiligten Kreise die Klausel verstehen („Durchschnittskunde“). Nach § 305c Abs. 2 BGB gehen Zweifel zulasten des Verwenders, weil der Kunde – anders als beim Individualvertrag – keinen Einfluss auf die Gestaltung der AGB hat. Es gilt daher das für den Kunden günstigste Auslegungsergebnis.",
+      "rubric": [
+        "Massencharakter: Vielzahl von Verträgen",
+        "Maßstab: verständige, redliche Durchschnittskunden",
+        "§ 305c Abs. 2: Zweifel zulasten des Verwenders",
+        "Begründung: fehlender Einfluss des Kunden"
+      ],
+      "explanation": "Objektive Auslegung und Unklarheitenregel: S. 37 (BGHZ 17, 1, 3; BGHZ 77, 116, 118 f.).",
+      "hints": [
+        "Für wie viele Verträge werden AGB geschrieben?",
+        "Wer hat die Klausel formuliert – und wer konnte nicht mitreden?"
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "x15",
+      "type": "case",
+      "level": "apply",
+      "difficulty": 3,
+      "prompt": "V vermietet der Zahnärztin Z Praxisräume in seinem Gebäude und verpflichtet sich im Abschnitt „Konkurrenzschutz“, „in dem Gebäude“ keine weiteren Räume an Zahnärzte zu vermieten. Später errichtet V auf demselben Grundstück ein Nebengebäude und vermietet es an Zahnarzt D. Hat V gegen den Vertrag verstoßen? Antworten Sie kurz.",
+      "modelAnswer": "Der Wortlaut („in dem Gebäude“) erfasst das Nebengebäude nicht; erläuternde Auslegung hilft nicht weiter. In Betracht kommt eine ergänzende Vertragsauslegung (§§ 133, 157). Voraussetzung ist eine planwidrige Lücke: V und Z wollten den Konkurrenzschutz abschließend regeln, haben an eine Bebauung des übrigen Grundstücks aber nicht gedacht. Die Ausfüllung knüpft an die ausführliche Konkurrenzschutzregelung an. Nach dem hypothetischen Parteiwillen redlicher Parteien sollte V der Z in räumlicher Nähe, also auf dem Grundstück, keine Konkurrenz verschaffen. V hat damit gegen den Vertrag verstoßen; Z kann Unterlassung und u.U. Schadensersatz verlangen.",
+      "rubric": [
+        "Wortlaut erfasst den Fall nicht",
+        "Planwidrige Lücke im gewollten Regelungsrahmen",
+        "Anknüpfung an die vorhandene Regelung",
+        "Hypothetischer Parteiwille: kein Wettbewerb auf dem Grundstück",
+        "Ergebnis: Vertragsverstoß, Unterlassung/ggf. Schadensersatz"
+      ],
+      "explanation": "Der Fall ist dem Kiosk-Fall des Skripts (S. 36–37, in Anlehnung an RGZ 119, 353) nachgebildet.",
+      "hints": [
+        "Haben die Parteien das Nebengebäude bewusst ausgeklammert?",
+        "Vergleichen Sie mit dem Kiosk auf dem Vorplatz."
+      ],
+      "src": [
+        {
+          "doc": "BGB_4",
+          "page": 36
+        },
+        {
+          "doc": "BGB_4",
+          "page": 37
+        }
+      ]
     }
   ],
   "case": {
@@ -1278,6 +1803,60 @@
           "page": 43
         }
       ]
+    }
+  ],
+  "kernnormen": [
+    {
+      "norm": "§ 133 BGB",
+      "inhalt": "Bei Willenserklärungen den wirklichen Willen erforschen, nicht am Buchstaben kleben."
+    },
+    {
+      "norm": "§ 157 BGB",
+      "inhalt": "Verträge so auslegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es verlangen."
+    },
+    {
+      "norm": "§ 116 BGB",
+      "inhalt": "Ein geheimer Vorbehalt, das Erklärte nicht zu wollen, macht die Erklärung nicht unwirksam."
+    },
+    {
+      "norm": "§ 119 BGB",
+      "inhalt": "Wer sich irrt, bleibt zunächst gebunden, kann aber anfechten."
+    },
+    {
+      "norm": "§ 122 BGB",
+      "inhalt": "Wer wegen Irrtums anficht, ersetzt dem anderen den Vertrauensschaden."
+    },
+    {
+      "norm": "§ 346 HGB",
+      "inhalt": "Unter Kaufleuten sind Handelsbräuche (kaufmännische Verkehrssitte) zu beachten."
+    },
+    {
+      "norm": "§ 476 Abs. 1 BGB",
+      "inhalt": "Beim Verbrauchsgüterkauf kann das Kaufrecht (außer Schadensersatz) nicht zulasten des Verbrauchers abbedungen werden."
+    },
+    {
+      "norm": "§ 364 BGB",
+      "inhalt": "Eine andere als die geschuldete Leistung kann an Erfüllungs statt angenommen werden (Inzahlungnahme)."
+    },
+    {
+      "norm": "§ 305c Abs. 2 BGB",
+      "inhalt": "Unklarheitenregel: Zweifel bei der Auslegung von AGB gehen zulasten des Verwenders."
+    },
+    {
+      "norm": "§ 306 Abs. 1 BGB",
+      "inhalt": "Ist eine AGB-Klausel unwirksam, bleibt der übrige Vertrag wirksam."
+    },
+    {
+      "norm": "§ 306 Abs. 2 BGB",
+      "inhalt": "Die Lücke wird mit den gesetzlichen Vorschriften gefüllt – nach dem BGH auch über §§ 133, 157."
+    },
+    {
+      "norm": "§ 307 Abs. 1 S. 1 BGB",
+      "inhalt": "AGB-Klauseln, die den Vertragspartner unangemessen benachteiligen, sind unwirksam."
+    },
+    {
+      "norm": "§ 305b BGB",
+      "inhalt": "Individualabreden gehen AGB vor – auch Schriftformklauseln ändern daran nichts."
     }
   ]
 }
